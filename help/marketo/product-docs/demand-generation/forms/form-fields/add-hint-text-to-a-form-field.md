@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359671
-description: 양식 필드에 힌트 텍스트 추가 - Marketo 문서 - 제품 설명서
+description: Marketo의 양식 필드에 힌트 텍스트를 추가하는 방법을 알아봅니다. 방문자를 안내하는 자리 표시자 또는 도우미 텍스트를 표시합니다.
 title: 양식 필드에 힌트 텍스트 추가
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 14%
+source-wordcount: '119'
+ht-degree: 15%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 14%
 >
 >양식 **지침**&#x200B;은(는) 방문자가 필드 위에 마우스 커서를 놓으면 표시되는 작은 도구 설명입니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-5.png)
 

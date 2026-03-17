@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720738
-description: Marketo 랜딩 페이지 템플릿 편집 - Marketo 문서 - 제품 설명서
+description: Marketo 랜딩 페이지 템플릿을 편집하는 방법을 알아봅니다. Design Studio에서 템플릿을 업데이트하여 향후 페이지의 레이아웃 또는 콘텐츠를 변경합니다.
 title: Marketo 랜딩 페이지 템플릿 편집
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '98'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 Marketo 내에서 모든 랜딩 페이지 템플릿을 편집할 수 있습니다.
 
-1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]** 으로 이동합니다.
 
    ![](assets/designstudio.png)
 

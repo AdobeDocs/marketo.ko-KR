@@ -1,11 +1,11 @@
 ---
-description: 대화형 웨비나 테스트 - Marketo 문서 - 제품 설명서
+description: 시작하기 전에 대화형 웨비나를 테스트하는 방법을 알아봅니다. 등록, 콘텐츠 및 참여 도구가 예상대로 작동하는지 확인합니다.
 title: 대화형 웨비나 테스트
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '381'
 ht-degree: 2%
 
 ---

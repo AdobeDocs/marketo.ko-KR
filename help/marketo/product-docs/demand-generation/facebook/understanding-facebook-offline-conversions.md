@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11383945
-description: Facebook 오프라인 전환 이해 - Marketo 문서 - 제품 설명서
+description: Facebook 오프라인 전환과 Marketo을 사용하는 방법에 대해 알아봅니다. 전환 데이터가 광고 성능을 개선하는 방법을 이해합니다.
 title: Facebook 오프라인 전환 이해
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '234'
 ht-degree: 2%
 
 ---

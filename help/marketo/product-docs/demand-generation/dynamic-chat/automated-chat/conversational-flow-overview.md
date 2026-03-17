@@ -1,11 +1,11 @@
 ---
-description: 대화형 흐름 개요 - Marketo 문서 - 제품 설명서
+description: 대화 흐름과 대화 상자가 어떻게 다른지 알아봅니다. 방문자 작업에 의해 트리거된 흐름을 디자인하고 양식이나 팝업에 사용합니다.
 title: 대화 플로우 개요
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '355'
 ht-degree: 3%
 
 ---
@@ -74,7 +74,7 @@ ht-degree: 3%
 >
 >다른 언어를 선택하면 시스템 텍스트의 언어만 변경됩니다. 콘텐츠 번역은 사용자가 담당합니다.
 
-### 대화 SDK {#conversations-sdk}
+### Conversations SDK {#conversations-sdk}
 
 설정 탭의 하단에서 대화 트리거(대화 SDK)를 사용자 지정합니다. 방문자가 링크를 클릭할 때 또는 페이지 로드 시 웹 사이트에서 대화가 트리거되는지 여부를 결정할 수 있습니다.
 
@@ -82,7 +82,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->작동 중인 [대화 SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=ko){target="_blank"}을 확인하세요!
+>작동 중인 [대화 SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}을 확인하세요!
 
 >[!MORELIKETHIS]
 >

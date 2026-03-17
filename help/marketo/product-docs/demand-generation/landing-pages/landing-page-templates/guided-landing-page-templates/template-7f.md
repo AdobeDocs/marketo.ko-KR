@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783957
-description: 템플릿 7F - Marketo 문서 - 제품 설명서
+description: 템플릿 7F 안내식 랜딩 페이지 템플릿에 대해 알아봅니다. 다운로드하여 Marketo 랜딩 페이지에 사용합니다.
 title: 템플릿 7F
 exl-id: 3fe4fb0b-7118-4b88-b2ca-f9ad04bf4129
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 8%
+source-wordcount: '62'
+ht-degree: 6%
 
 ---
 
 # 템플릿 7F {#template-7f}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 7F 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html?lang=ko)
+마우스 오른쪽 단추를 클릭하여 [템플릿 7F 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)
 
 ![](assets/image2015-7-29-14-3a52-3a10.png)
 
@@ -29,4 +29,4 @@ ht-degree: 8%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 7F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html?lang=ko)
+[템플릿 7F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)

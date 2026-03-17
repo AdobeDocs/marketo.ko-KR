@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980661
-description: Google Customer Match as a [!DNL LaunchPoint] Service - Marketo 문서 - 제품 설명서 추가
+description: Google Customer Match as a LaunchPoint 서비스를 추가하는 방법을 알아봅니다. AdWords, YouTube, Search 및 Gmail에 타깃팅할 Marketo 대상을 Google으로 보냅니다.
 title: Google Customer Match as a [!DNL LaunchPoint] Service 추가
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 1%
+source-wordcount: '179'
+ht-degree: 4%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 1%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Admin]**(으)로 이동합니다.
+1. **[!UICONTROL Admin]** 으로 이동합니다.
 
    ![](assets/admin.png)
 
-1. **[!UICONTROL LaunchPoint]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL LaunchPoint]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
@@ -31,7 +31,7 @@ ht-degree: 1%
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. **[!UICONTROL Display Name]**&#x200B;을(를) 입력하고 **[!UICONTROL Google Customer Match]** 드롭다운에서 **[!UICONTROL Service]**&#x200B;을(를) 선택합니다. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Display Name]**&#x200B;을(를) 입력하고 **[!UICONTROL Google Customer Match]** 드롭다운에서 **[!UICONTROL Service]**&#x200B;을(를) 선택합니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/chooseservice.png)
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
    ![](assets/reviewpermissions.png)
 
-1. [!DNL Google AdWords] 계정이 이제 Marketo에 연결되었습니다. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. [!DNL Google AdWords] 계정이 이제 Marketo에 연결되었습니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/authorizesuccess.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359537
-description: 랜딩 페이지에 코드 조각 추가 - Marketo 문서 - 제품 설명서
+description: Marketo 랜딩 페이지에 코드 조각을 추가하는 방법을 알아봅니다. 스니펫으로 페이지 간 콘텐츠 블록을 재사용합니다.
 title: 랜딩 페이지에 스니펫 추가
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 13%
+source-wordcount: '110'
+ht-degree: 12%
 
 ---
 

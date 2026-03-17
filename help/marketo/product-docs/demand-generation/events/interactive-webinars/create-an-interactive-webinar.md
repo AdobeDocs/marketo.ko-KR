@@ -1,11 +1,11 @@
 ---
-description: 대화형 웨비나 만들기 - Marketo 문서 - 제품 설명서
+description: Marketo에서 대화형 웨비나를 만드는 방법을 알아봅니다. 단계에 따라 웨비나를 설정하고 라이브 또는 온디맨드 게재에 대한 설정을 구성합니다.
 title: 대화형 웨비나 만들기
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '300'
 ht-degree: 2%
 
 ---

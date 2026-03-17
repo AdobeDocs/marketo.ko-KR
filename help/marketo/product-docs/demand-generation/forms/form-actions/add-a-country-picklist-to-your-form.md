@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949966
-description: 양식에 국가 선택 목록 추가 - Marketo 문서 - 제품 설명서
+description: Marketo 양식에 국가 선택 목록을 추가하는 방법을 알아봅니다. 방문자에게 국가를 선택하는 드롭다운을 제공합니다.
 title: 양식에 국가 선택 목록 추가
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 10%
+source-wordcount: '179'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 다음 지침에 따라 모든 국가 목록이 포함된 드롭다운으로 국가 필드를 변환합니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-9.png)
 

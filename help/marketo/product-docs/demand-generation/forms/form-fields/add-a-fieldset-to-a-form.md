@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359594
-description: 양식에 필드 세트 추가 - Marketo 문서 - 제품 설명서
+description: Marketo 양식에 필드 세트를 추가하는 방법을 알아봅니다. 더 나은 레이아웃을 위해 관련 필드를 머리글과 함께 그룹화합니다.
 title: 양식에 FieldSet 추가
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 12%
+source-wordcount: '105'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 필드 세트는 훌륭합니다. 그들은 여러 밭을 함께 모은다. 한 번에 전체 블록을 제어할 수도 있습니다!
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096677
-description: ON24 이벤트 통합 테스트 - Marketo 문서 - 제품 설명서
+description: Marketo과의 ON24 이벤트 통합을 테스트하는 방법을 알아봅니다. 동기화, 등록 흐름 및 상태 업데이트가 올바르게 작동하는지 확인하십시오.
 title: ON24 이벤트 통합 테스트
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '193'
 ht-degree: 5%
 
 ---

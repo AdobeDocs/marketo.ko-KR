@@ -1,12 +1,12 @@
 ---
-description: 보안 설정 - Marketo 문서 - 제품 설명서
+description: Dynamic Chat 사용 제한 및 패키지 정보에 대해 알아봅니다. 월별 참여 대화 제한 및 일정 또는 라이브 채팅 인원 제한을 봅니다.
 title: 보안 설정
 feature: Dynamic Chat
 exl-id: c3c26319-d819-4a12-a77b-da5d57dc3620
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 6%
+source-wordcount: '74'
+ht-degree: 5%
 
 ---
 

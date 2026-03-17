@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096673
-description: 이벤트 설정 구성 및 웨비나와 Marketo 동기화 - Marketo 문서 - 제품 설명서
+description: 이벤트 설정을 구성하고 ON24 웨비나와 Marketo을 동기화하는 방법에 대해 알아봅니다. 필드를 매핑하고 등록 데이터를 동기화합니다.
 title: 이벤트 설정 구성 및 웨비나와 Marketo 동기화
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '210'
 ht-degree: 9%
 
 ---

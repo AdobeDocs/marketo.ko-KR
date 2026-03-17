@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2359718
-description: 자유 형식 랜딩 페이지에 소셜 단추 추가 - Marketo 문서 - 제품 설명서
+description: Marketo의 자유 형식 랜딩 페이지에 소셜 버튼을 추가하는 방법을 알아봅니다. 공유 또는 팔로우 버튼을 페이지에 추가합니다.
 title: 자유 형식 랜딩 페이지에 소셜 버튼 추가
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '234'
 ht-degree: 8%
 
 ---

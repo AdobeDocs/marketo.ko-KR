@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359801
-description: URL 빌더 사용 - Marketo 문서 - 제품 설명서
+description: Marketo 개인화된 URL용 URL 빌더를 사용하는 방법에 대해 알아봅니다. 이메일 또는 캠페인에 대한 추적 가능한 개인화된 링크를 만듭니다.
 title: URL 빌더 사용
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '127'
 ht-degree: 6%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472314
-description: 자유 형식 랜딩 페이지 - Marketo 문서 - 제품 설명서에서 이미지에 링크 추가
+description: Marketo의 자유 형식 랜딩 페이지에서 이미지에 링크를 추가하는 방법을 알아봅니다. 이미지를 클릭 가능하게 만들고 URL을 가리킵니다.
 title: 자유 형식 랜딩 페이지의 이미지에 링크 추가
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 22%
+source-wordcount: '120'
+ht-degree: 20%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: Adobe Marketo Engage - Marketo 문서 - 제품 설명서
+description: Dynamic Chat을 Marketo Engage 구독에 연결하는 방법을 알아봅니다. 1회 동기화를 수행하고 타깃팅할 개인 및 회사 속성을 선택합니다.
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 2%
+source-wordcount: '268'
+ht-degree: 3%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Dynamic Chat은 [Marketo 기본](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}과(와) 사용자 정의 개인 필드 및 회사 필드 동기화를 지원합니다.
+>Dynamic Chat은 [Marketo 기본](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}과(와) 사용자 정의 개인 필드 및 회사 필드 동기화를 지원합니다.
 
 1. 내 Marketo에서 **[!UICONTROL Dynamic Chat]** 타일을 클릭합니다.
 
@@ -28,7 +28,7 @@ ht-degree: 2%
    >
    >타일이 표시되지 않으면 Marketo 관리자에게 문의하십시오.
 
-1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Dynamic Chat으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/kr/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
+1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Dynamic Chat으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
 
 1. Marketo 인스턴스를 연결하려면 **[!UICONTROL Integrations]**&#x200B;을(를) 선택하십시오.
 
@@ -38,7 +38,7 @@ ht-degree: 2%
 
    ![](assets/adobe-marketo-engage-3.png)
 
-1. 대상 타기팅, 데이터 매핑 및 개인화에 사용할 Dynamic Chat에 동기화하려면 Marketo 인스턴스에서 최대 50개의 특성(표준 또는 사용자 지정 필드)을 선택합니다. 완료되면 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. 대상 타기팅, 데이터 매핑 및 개인화에 사용할 Dynamic Chat에 동기화하려면 Marketo 인스턴스에서 최대 50개의 특성(표준 또는 사용자 지정 필드)을 선택합니다. 완료되면 **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/adobe-marketo-engage-4.png)
 

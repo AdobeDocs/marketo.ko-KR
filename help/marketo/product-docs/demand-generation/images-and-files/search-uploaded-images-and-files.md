@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359862
-description: 업로드된 이미지 및 파일 검색 - Marketo 문서 - 제품 설명서
+description: Marketo에서 업로드된 이미지 및 파일을 검색하는 방법을 알아봅니다. Design Studio에서 이름 또는 필터로 빠르게 에셋을 찾습니다.
 title: 업로드된 이미지 및 파일 검색
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 12%
+source-wordcount: '94'
+ht-degree: 10%
 
 ---
 

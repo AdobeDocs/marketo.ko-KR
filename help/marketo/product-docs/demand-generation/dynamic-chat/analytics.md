@@ -1,11 +1,11 @@
 ---
-description: Analytics - Marketo 문서 - 제품 설명서
+description: 참여 및 성능을 위한 Dynamic Chat 분석 대시보드에 대해 알아봅니다. 대화 상자 지표, 모임 예약, 라이브 채팅 성능을 보고 결과를 내보냅니다.
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '276'
 ht-degree: 3%
 
 ---

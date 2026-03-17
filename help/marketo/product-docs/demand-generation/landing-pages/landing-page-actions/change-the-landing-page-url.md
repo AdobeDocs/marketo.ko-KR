@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359738
-description: 랜딩 페이지 URL 변경 - Marketo 문서 - 제품 설명서
+description: Marketo에서 랜딩 페이지 URL을 변경하는 방법을 알아봅니다. 랜딩 페이지의 URL 경로 또는 슬러그를 업데이트합니다.
 title: 랜딩 페이지 URL 변경
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 10%
+source-wordcount: '104'
+ht-degree: 9%
 
 ---
 

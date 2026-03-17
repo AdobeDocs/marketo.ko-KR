@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359646
-description: 양식 점진적 프로파일링 구성 - Marketo 문서 - 제품 설명서
+description: Marketo 양식에서 점진적 프로파일링을 구성하는 방법에 대해 알아봅니다. 긴 양식 없이 더 많은 데이터를 수집하려면 시간에 따라 다른 필드를 표시하십시오.
 title: 양식 점진적 프로파일링 구성
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 3%
+source-wordcount: '321'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
 >
 >이 기능이 제대로 작동하려면 표시되는 필드에 대해 양식 미리 채우기가 활성화되어 있는지, 숨겨진 필드에 대해 [비활성화됨](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md)이 설정되어 있는지 확인하십시오.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/ma-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 3%
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. 이제 구성해 보겠습니다. **[!UICONTROL Field Details]**(으)로 이동합니다.
+1. 이제 구성해 보겠습니다. **[!UICONTROL Field Details]** 으로 이동합니다.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 

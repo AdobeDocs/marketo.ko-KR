@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720275
-description: Facebook - Marketo 문서 - 제품 설명서에서 사용자 지정 대상 만들기
+description: Marketo에서 Facebook에 사용자 지정 대상자를 만드는 방법을 알아봅니다. 타깃팅된 광고 캠페인을 위해 Marketo 목록을 Facebook에 보냅니다.
 title: Facebook에서 사용자 정의 대상자 만들기
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '229'
 ht-degree: 6%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 6%
 >[!PREREQUISITES]
 >
 >* 관리 섹션에서 [LaunchPoint 서비스로 사용자 지정 대상을 추가 [!DNL Facebook] 추가](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"}합니다.
->* [&#x200B; 계정 내에서  [!DNL Facebook]사용자 지정 대상자 약관](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"}에 동의[!DNL Facebook]합니다.
+>* [ 계정 내에서  [!DNL Facebook]사용자 지정 대상자 약관](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"}에 동의[!DNL Facebook]합니다.
 
 >[!TIP]
 >
->[&#x200B; [!DNL Facebook]의 &#x200B;](https://www.facebook.com/help/341425252616329){target="_blank"}사용자 지정 대상자에 대해 자세히 알아보세요.
+>[ [!DNL Facebook]의 ](https://www.facebook.com/help/341425252616329){target="_blank"}사용자 지정 대상자에 대해 자세히 알아보세요.
 
 1. 대상을 만들 잠재 고객이 포함된 스마트 또는 정적 목록을 찾아 선택합니다.
 

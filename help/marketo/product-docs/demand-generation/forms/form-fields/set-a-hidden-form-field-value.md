@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359663
-description: 숨겨진 양식 필드 값 설정 - Marketo 문서 - 제품 설명서
+description: Marketo에서 숨겨진 양식 필드 값을 설정하는 방법을 알아봅니다. 양식 제출로 정적 또는 토큰 값을 전달합니다.
 title: 숨겨진 양식 필드 값 설정
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '265'
 ht-degree: 6%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359569
-description: 양식 필드 필수 - Marketo 문서 - 제품 설명서
+description: Marketo에서 필요한 양식 필드를 만드는 방법을 알아봅니다. 방문자가 양식을 제출하기 전에 필드를 완료해야 합니다.
 title: 양식 필드 필수 항목으로 만들기
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '108'
 ht-degree: 14%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 [양식에 필드를 추가](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}할 때, 필드를 작성하는 사람에게 몇 가지 필수 필드를 만들 수 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/make-a-form-field-required-1.png)
 

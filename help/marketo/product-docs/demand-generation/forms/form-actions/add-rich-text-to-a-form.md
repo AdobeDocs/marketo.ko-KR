@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359618
-description: 양식에 리치 텍스트 추가 - Marketo 문서 - 제품 설명서
+description: Marketo 양식에 서식 있는 텍스트를 추가하는 방법을 알아봅니다. 양식 필드 위나 아래에 머리글, 링크 또는 지침을 삽입합니다.
 title: 양식에 리치 텍스트 추가
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '102'
 ht-degree: 17%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 17%
 
 양식의 리치 텍스트 를 사용하여 필드 사이에 지침이나 기타 정보를 추가할 수 있습니다. 확인해 봐.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 

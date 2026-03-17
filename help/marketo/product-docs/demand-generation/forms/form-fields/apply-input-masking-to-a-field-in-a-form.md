@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359667
-description: 양식의 필드에 입력 마스킹 적용 - Marketo 문서 - 제품 설명서
+description: Marketo의 양식 필드에 입력 마스킹을 적용하는 방법을 알아봅니다. 휴대폰, 날짜 또는 기타 필드의 형식을 방문자 유형으로 지정합니다.
 title: 양식의 필드에 입력 마스킹 적용
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 11%
+source-wordcount: '176'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 입력 마스크를 사용하여 방문자의 입력을 제한할 수 있습니다. 예를 들어 방문자가 특정 형식으로만 전화번호를 입력하도록 할 수 있습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-4.png)
 

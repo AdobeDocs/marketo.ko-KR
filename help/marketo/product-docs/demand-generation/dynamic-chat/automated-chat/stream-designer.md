@@ -1,12 +1,12 @@
 ---
-description: Stream Designer - Marketo 문서 - 제품 설명서
+description: 채팅 대화 작성을 위한 스트림 Designer 및 카드에 대해 알아봅니다. 대화 상자에 메시지, 질문, 문서 캡처, 회의 예약 등을 추가합니다.
 title: 스트림 디자이너
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 1%
+source-wordcount: '1191'
+ht-degree: 2%
 
 ---
 
@@ -109,7 +109,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-6.png)
 
-1. _[!UICONTROL Question]_&#x200B;카드를 끌어서 놓습니다.
+1. _[!UICONTROL Question]_카드를 끌어서 놓습니다.
 
    ![](assets/stream-designer-7.png)
 
@@ -145,7 +145,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-11.png)
 
-1. 목표이므로 _[!UICONTROL Goal]_&#x200B;카드를 모임 예약 아래로 끌어 놓으십시오.
+1. 목표이므로 _[!UICONTROL Goal]_카드를 모임 예약 아래로 끌어 놓으십시오.
 
    ![](assets/stream-designer-12.png)
 
@@ -157,7 +157,7 @@ ht-degree: 1%
 
    ![](assets/stream-designer-14.png)
 
-1. 응답을 입력하고 방문자에 대한 응답 선택 사항을 추가합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 응답을 입력하고 방문자에 대한 응답 선택 사항을 추가합니다. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/stream-designer-15.png)
 
@@ -173,11 +173,11 @@ ht-degree: 1%
 
    ![](assets/stream-designer-17.png)
 
-1. 챗봇 메시지 및 자리 표시자를 입력합니다. 데이터베이스에 이 속성의 값이 이미 있는 경우 건너뛸 것인지 아니면 이 데이터를 덮어쓸 것인지 선택하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 챗봇 메시지 및 자리 표시자를 입력합니다. 데이터베이스에 이 속성의 값이 이미 있는 경우 건너뛸 것인지 아니면 이 데이터를 덮어쓸 것인지 선택하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/stream-designer-18.png)
 
-1. 전자 메일 수집이 목표이므로 _[!UICONTROL Goal]_&#x200B;카드를 정보 캡처 아래에 끌어 놓으십시오.
+1. 전자 메일 수집이 목표이므로 _[!UICONTROL Goal]_카드를 정보 캡처 아래에 끌어 놓으십시오.
 
    ![](assets/stream-designer-19.png)
 

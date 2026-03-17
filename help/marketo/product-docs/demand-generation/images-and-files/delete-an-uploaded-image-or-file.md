@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359873
-description: 업로드된 이미지 또는 파일 삭제 - Marketo 문서 - 제품 설명서
+description: Marketo에서 업로드된 이미지 또는 파일을 삭제하는 방법을 알아봅니다. Design Studio에서 더 이상 필요하지 않은 에셋을 제거합니다.
 title: 업로드된 이미지 또는 파일 삭제
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 17%
+source-wordcount: '107'
+ht-degree: 15%
 
 ---
 

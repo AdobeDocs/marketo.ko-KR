@@ -1,12 +1,12 @@
 ---
-description: 대화 상자 만들기 - Marketo 문서 - 제품 설명서
+description: Dynamic Chat에서 새 대화 상자를 만드는 방법을 알아봅니다. 템플릿을 선택하고 이름 및 우선 순위를 설정한 다음 대화를 위한 스트림을 만듭니다.
 title: 대화 상자 만들기
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 9%
+source-wordcount: '92'
+ht-degree: 7%
 
 ---
 

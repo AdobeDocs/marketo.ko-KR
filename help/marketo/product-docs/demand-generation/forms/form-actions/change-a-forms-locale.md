@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359657
-description: 양식의 로케일 변경 - Marketo 문서 - 제품 설명서
+description: Marketo에서 양식 로케일을 변경하는 방법을 알아봅니다. 레이블 및 유효성 검사에 대한 양식 언어 및 지역 형식을 설정합니다.
 title: 양식의 로케일 변경
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 7%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 국제 양식을 처리할 때는 날짜/시간을 올바른 형식으로 표시해야 합니다. Marketo에서 자동으로 이 작업을 수행합니다. 양식의 로케일만 설정하고 나머지는 저희가 처리합니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-7.png)
 

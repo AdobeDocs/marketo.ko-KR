@@ -1,14 +1,14 @@
 ---
-description: 이벤트 목표 설정 - Marketo 문서 - 제품 설명서
+description: Marketo 이벤트 프로그램에서 이벤트 목표를 설정하는 방법에 대해 알아봅니다. 성공 지표를 정의하고 이벤트 목표에 대한 진행률을 추적합니다.
 title: 이벤트 목표 설정
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 5%
+source-wordcount: '116'
+ht-degree: 7%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 5%
 
    ![](assets/setting-event-goals-1.png)
 
-1. [!UICONTROL Campaign Folder]을(를) 선택하고, 이벤트에 [!UICONTROL Name]을(를) 지정한 다음, [!UICONTROL Program Type] 및 [!UICONTROL Channel]을(를) 선택하십시오. 완료되면 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL Campaign Folder]을(를) 선택하고, 이벤트에 [!UICONTROL Name]을(를) 지정한 다음, [!UICONTROL Program Type] 및 [!UICONTROL Channel]을(를) 선택하십시오. 완료되면 **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/setting-event-goals-2.png)
 

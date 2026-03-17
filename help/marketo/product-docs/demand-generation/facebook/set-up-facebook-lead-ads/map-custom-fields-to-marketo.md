@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12983101
-description: 사용자 정의 필드를 Marketo - Marketo 문서 - 제품 설명서에 매핑
+description: Facebook 리드 광고 사용자 정의 필드를 Marketo에 매핑하는 방법을 알아봅니다. 리드 및 데이터가 Marketo의 올바른 사용자 필드에 매핑되는지 확인합니다.
 title: 사용자 정의 필드를 Marketo에 매핑
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 5%
+source-wordcount: '248'
+ht-degree: 6%
 
 ---
 
 # 사용자 정의 필드를 Marketo에 매핑 {#map-custom-fields-to-marketo}
 
-온라인 게재 서비스를 사용하는 빈도와 같이 기본적으로 표준 정보 [!DNL Facebook] 이상의 스토어를 수집할 수 있습니다. [&#x200B; 리드 광고에서 &#x200B;](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink)사용자 지정 질문 만들기[!DNL Facebook]를 통해 이를 수행할 수 있습니다.
+온라인 게재 서비스를 사용하는 빈도와 같이 기본적으로 표준 정보 [!DNL Facebook] 이상의 스토어를 수집할 수 있습니다. [ 리드 광고에서 ](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink)사용자 지정 질문 만들기[!DNL Facebook]를 통해 이를 수행할 수 있습니다.
 
 그러나 **Marketo에서 자동으로 이 데이터 수집을 시작하지 않습니다**. Marketo에서 사용자 지정 필드 값을 캡처하려면 **반드시**&#x200B;이(가) 이러한 사용자 지정 필드를 Marketo의 필드에 매핑해야 합니다.
 

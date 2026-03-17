@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359606
-description: 양식에서 필드 삭제 - Marketo 문서 - 제품 설명서
+description: Marketo 양식에서 필드를 삭제하는 방법을 알아봅니다. 양식에서 더 이상 필요하지 않은 필드를 제거합니다.
 title: 양식의 필드 삭제
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '78'
 ht-degree: 23%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 23%
 
 양식에 더 이상 필요하지 않은 필드가 있으면 쉽게 삭제할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359823
-description: Facebook에 랜딩 페이지 게시 - Marketo 문서 - 제품 설명서
+description: Facebook에 Marketo 랜딩 페이지를 게시하는 방법을 알아봅니다. 랜딩 페이지 콘텐츠를 대상자를 위한 Facebook 게시물로 공유합니다.
 title: 랜딩 페이지를 Facebook에 게시
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '289'
 ht-degree: 1%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: GenAI 기능 - Marketo 문서 - 제품 설명서
+description: 대화형 웨비나의 GenAI 기능에 대해 알아봅니다. AI를 사용하여 웨비나 콘텐츠, 요약 또는 참여를 향상시킬 수 있습니다.
 title: GenAI의 특징
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---

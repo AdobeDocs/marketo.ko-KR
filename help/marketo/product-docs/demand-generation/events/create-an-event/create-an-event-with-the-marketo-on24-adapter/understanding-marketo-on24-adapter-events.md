@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096658
-description: Marketo On24 어댑터 이벤트 이해 - Marketo 문서 - 제품 설명서
+description: Marketo ON24 어댑터와 ON24 웨비나를 Marketo에 연결하는 방법에 대해 알아봅니다. 이벤트 유형 및 동기화 동작을 이해합니다.
 title: Marketo On24 어댑터 이벤트 이해
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 7%
+source-wordcount: '144'
+ht-degree: 6%
 
 ---
 

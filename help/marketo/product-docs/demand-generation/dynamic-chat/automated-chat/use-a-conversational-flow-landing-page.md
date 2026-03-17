@@ -1,12 +1,12 @@
 ---
-description: 대화형 흐름 랜딩 페이지 사용 - Marketo 문서 - 제품 설명서
+description: Marketo 랜딩 페이지에 대화 흐름을 임베드하는 방법을 알아봅니다. 방문자가 양식을 작성하지 않고 Dynamic Chat을 통해 회의를 예약할 수 있도록 합니다.
 title: 대화형 흐름 랜딩 페이지 사용
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---

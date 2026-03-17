@@ -1,11 +1,11 @@
 ---
-description: 라우팅 - Marketo 문서 - 제품 설명서
+description: Dynamic Chat에서의 라우팅 모임 및 라이브 채팅에 대해 알아봅니다. 라운드 로빈 또는 사용자 지정 규칙을 설정하여 방문자를 특정 에이전트 또는 팀에 할당합니다.
 title: 라우팅
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---

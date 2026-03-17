@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10098238
-description: LinkedIn 소셜 양식 채우기 FAQ - Marketo 문서 - 제품 설명서
+description: Marketo 양식으로 채워진 LinkedIn 소셜 양식에 대한 도움말을 봅니다. LinkedIn 양식 채우기 통합에 대한 일반적인 질문에 대한 답변을 찾으십시오.
 title: LinkedIn 소셜 양식 채우기 FAQ
 hide: true
 hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '529'
 ht-degree: 1%
 
 ---

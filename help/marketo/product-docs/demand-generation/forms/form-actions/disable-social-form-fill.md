@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098242
-description: 소셜 양식 채우기 비활성화 - Marketo 문서 - 제품 설명서
+description: Marketo 양식에서 소셜 양식 채우기를 비활성화하는 방법에 대해 알아봅니다. 방문자가 소셜 네트워크를 사용하여 제출할 수 있도록 옵션을 끕니다.
 title: 소셜 양식 채우기 비활성화
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 14%
+source-wordcount: '86'
+ht-degree: 13%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 14%
 >
 >모든 고객이 이 기능을 구입한 것은 아닙니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-10.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949844
-description: 새 이벤트 프로그램 만들기 - Marketo 문서 - 제품 설명서
+description: Marketo에서 새로운 이벤트 프로그램을 만드는 방법을 알아봅니다. 프로그램을 설정하고, 채널을 선택하고, 이벤트 설정을 구성합니다.
 title: 새 이벤트 프로그램 만들기
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 8%
+source-wordcount: '177'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 이벤트를 사용하면 온라인 및 오프라인 이벤트를 자동화할 수 있습니다! 직원들이 다양한 단계를 진행하면서 진행 상태를 파악하고 마케팅 이니셔티브에 대한 ROI를 정확하게 측정할 수 있습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/ma.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512328
-description: ' [!DNL Level 3 Web Meeting] - Marketo 문서 - 제품 설명서를 사용하여 이벤트 만들기'
-title: ' [!DNL Level 3 Web Meeting] (으)로 이벤트 만들기'
+description: Marketo에서 Level 3 Web Meeting을 사용하여 이벤트를 만드는 방법을 알아봅니다. Marketo과의 통합 및 동기화 웹 모임 등록을 설정합니다.
+title: ' [!DNL Level 3 Web Meeting](으)로 이벤트 만들기'
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![](assets/image2016-3-24-15-3a44-3a41.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2016-3-24-15-3a45-3a31.png)
 

@@ -1,11 +1,11 @@
 ---
-description: 웨비나 팀 추가 - Marketo 문서 - 제품 설명서
+description: 대화형 웨비나에서 웨비나 팀을 추가하는 방법을 알아봅니다. 웨비나를 만들거나, 관리하거나, 전달하는 데 도움이 되도록 팀원을 할당하십시오.
 title: 웨비나 팀 추가
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '437'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359543
-description: 양식에 필드 추가 - Marketo 문서 - 제품 설명서
+description: Marketo에서 양식에 필드를 추가하는 방법을 알아봅니다. 양식 필드를 추가하고 개인 또는 회사 속성에 매핑합니다.
 title: 양식에 필드 추가
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '136'
 ht-degree: 12%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 [양식을 만들고](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} [테마를 선택하고](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}하면 다른 사람이 작성할 필드를 추가할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/add-a-field-to-a-form-1.png)
 

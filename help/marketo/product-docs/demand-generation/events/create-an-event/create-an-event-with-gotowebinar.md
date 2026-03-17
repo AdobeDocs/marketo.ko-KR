@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949874
-description: ' [!DNL GotoWebinar] - Marketo 문서 - 제품 설명서를 사용하여 이벤트 만들기'
-title: ' [!DNL GotoWebinar] (으)로 이벤트 만들기'
+description: Marketo에서 GotoWebinar를 사용하여 이벤트를 만드는 방법을 알아봅니다. Marketo과의 통합 및 동기화 웨비나 등록을 구성합니다.
+title: ' [!DNL GotoWebinar](으)로 이벤트 만들기'
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
@@ -79,7 +79,7 @@ Marketo 이벤트를 만들고 [!DNL GoToWebinar]을(를) 연결하면 시스템
 
    ![](assets/image2015-5-14-14-3a57-3a31.png)
 
-1. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 

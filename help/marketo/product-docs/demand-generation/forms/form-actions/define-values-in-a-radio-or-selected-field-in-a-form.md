@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359614
-description: 양식에 라디오 또는 선택한 필드의 값 정의 - Marketo 문서 - 제품 설명서
+description: Marketo 양식의 라디오 또는 드롭다운 필드에서 값을 정의하는 방법을 알아봅니다. 방문자가 선택할 수 있는 옵션을 설정합니다.
 title: 양식에서 라디오 또는 선택된 필드의 값 정의
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '179'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 [필드 형식을 라디오 단추로 설정](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)하거나 형식을 선택하면 사용자가 선택할 수 있는 값을 정의할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/ma.png)
 

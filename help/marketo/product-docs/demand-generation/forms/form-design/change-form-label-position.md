@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359612
-description: 양식 레이블 위치 변경 - Marketo 문서 - 제품 설명서
+description: Marketo에서 양식 레이블 위치를 변경하는 방법을 알아봅니다. 필드의 위나 아래, 왼쪽 또는 오른쪽에 레이블을 배치합니다.
 title: 양식 레이블 위치 변경
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 11%
+source-wordcount: '125'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 [양식을 만들](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)때 양식 필드 레이블의 위치를 매우 쉽게 변경할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 

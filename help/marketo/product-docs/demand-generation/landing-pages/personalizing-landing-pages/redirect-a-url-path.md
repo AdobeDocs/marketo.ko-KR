@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359826
-description: URL 경로 - Marketo 문서 - 제품 설명서 리디렉션
+description: Marketo 랜딩 페이지의 URL 경로를 리디렉션하는 방법을 알아봅니다. 이전 경로를 새 URL 또는 랜딩 페이지로 보냅니다.
 title: URL 경로 리디렉션
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 9%
+source-wordcount: '134'
+ht-degree: 10%
 
 ---
 

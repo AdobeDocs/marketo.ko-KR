@@ -1,11 +1,11 @@
 ---
-description: Marketo - Marketo 문서 - 제품 설명서와 ON24 통합 설정
+description: Marketo과 ON24 통합을 설정하는 방법에 대해 알아봅니다. 웨비나와 등록 데이터를 동기화할 수 있도록 ON24 계정을 연결합니다.
 title: Marketo와 ON24 통합 설정
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '216'
 ht-degree: 8%
 
 ---
@@ -64,7 +64,7 @@ ht-degree: 8%
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. [!UICONTROL display name] 선택. **[!UICONTROL Service]** 드롭다운을 클릭하고 **[!UICONTROL Custom]**&#x200B;을(를) 선택합니다. [!UICONTROL description] 입력. [!UICONTROL API Only User] 드롭다운을 클릭하고 위의 단계[에서 &#x200B;](#create-a-new-user)을(를) 만든 사용자를 선택합니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
+1. [!UICONTROL display name] 선택. **[!UICONTROL Service]** 드롭다운을 클릭하고 **[!UICONTROL Custom]**&#x200B;을(를) 선택합니다. [!UICONTROL description] 입력. [!UICONTROL API Only User] 드롭다운을 클릭하고 위의 단계[에서 ](#create-a-new-user)을(를) 만든 사용자를 선택합니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

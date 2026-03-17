@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359724
-description: 여러 랜딩 페이지를 한 번에 승인 - Marketo 문서 - 제품 설명서
+description: Marketo에서 여러 랜딩 페이지를 한 번에 승인하는 방법을 알아봅니다. 페이지를 빨리 사용할 수 있도록 일괄 승인하십시오.
 title: 여러 랜딩 페이지를 한 번에 승인
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '90'
 ht-degree: 16%
 
 ---
 
 # 여러 랜딩 페이지를 한 번에 승인 {#approve-multiple-landing-pages-at-once}
 
-1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]** 으로 이동합니다.
 
    ![](assets/approve-multiple-landing-pages-at-once-1.png)
 

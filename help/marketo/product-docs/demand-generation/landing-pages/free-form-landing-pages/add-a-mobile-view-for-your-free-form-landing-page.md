@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720856
-description: 자유 형식 랜딩 페이지에 대한 모바일 보기 추가 - Marketo 문서 - 제품 설명서
+description: Marketo에서 자유 형식 랜딩 페이지에 대한 모바일 보기를 추가하는 방법을 알아봅니다. 모바일 장치용 페이지 레이아웃을 최적화합니다.
 title: 자유 형식 랜딩 페이지에 모바일 보기 추가
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 16%
+source-wordcount: '134'
+ht-degree: 19%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 16%
 >
 >모바일 보기는 480px 너비(또는 그 이하)인 화면에서 작동합니다. 즉, 스마트폰. 다음은 장치 해상도에 대한 [추가 정보](https://www.mydevice.io/)입니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-3.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359604
-description: 양식에서 레이블/필드 폭 크기 조정 - Marketo 문서 - 제품 설명서
+description: Marketo 양식에서 레이블 및 필드 너비의 크기를 조정하는 방법을 알아봅니다. 레이블 및 입력 영역의 너비를 조정합니다.
 title: 양식에서 레이블/필드 폭 크기 조정
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 17%
+source-wordcount: '102'
+ht-degree: 15%
 
 ---
 

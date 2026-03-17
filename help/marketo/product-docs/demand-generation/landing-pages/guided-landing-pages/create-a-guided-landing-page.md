@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515266
-description: 가이드 랜딩 페이지 만들기 - Marketo 문서 - 제품 설명서
+description: Marketo에서 가이드 랜딩 페이지를 만드는 방법을 알아봅니다. 템플릿을 선택하고 안내식 편집기로 페이지를 작성합니다.
 title: 가이드 랜딩 페이지 만들기
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 13%
+source-wordcount: '184'
+ht-degree: 15%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 13%
 
 안내식 랜딩 페이지는 프로그램 또는 [!UICONTROL Design Studio]의 로컬 자산으로 만들어 전역적으로 사용할 수 있습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/one-1.png)
 
@@ -51,7 +51,7 @@ ht-degree: 13%
 
 ## Design Studio에서 랜딩 페이지 만들기 {#create-a-landing-page-in-design-studio}
 
-1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]** 으로 이동합니다.
 
    ![](assets/six.png)
 

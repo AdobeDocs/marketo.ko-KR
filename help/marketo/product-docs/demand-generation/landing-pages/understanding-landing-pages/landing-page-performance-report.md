@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359713
-description: 랜딩 페이지 성능 보고서 - Marketo 문서 - 제품 설명서
+description: Marketo의 랜딩 페이지 성능 보고서에 대해 알아봅니다. 랜딩 페이지에 대한 방문, 전환 및 기타 지표를 봅니다.
 title: 랜딩 페이지 성과 보고서
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '213'
 ht-degree: 4%
 
 ---

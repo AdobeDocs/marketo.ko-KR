@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359740
-description: Marketo 랜딩 페이지를 다른 페이지로 리디렉션 - Marketo 문서 - 제품 설명서
+description: Marketo 랜딩 페이지를 다른 페이지로 리디렉션하는 방법을 알아봅니다. 방문자가 페이지에 도달하면 다른 URL로 보냅니다.
 title: Marketo 랜딩 페이지를 다른 페이지로 리디렉션
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 12%
+source-wordcount: '148'
+ht-degree: 13%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359644
-description: 알려진 사용자를 위한 사용자 지정 HTML 양식 표시 - Marketo 문서 - 제품 설명서
+description: Marketo 양식에서 알려진 사용자를 위한 사용자 지정 HTML을 표시하는 방법을 알아봅니다. 인식된 방문자에 대해 다른 콘텐츠 또는 메시지를 표시합니다.
 title: 알려진 사용자에 대한 사용자 정의 HTML 양식 표시
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 7%
+source-wordcount: '244'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 과거에 방문자가 전체 이름과 이메일 주소를 제공했지만 전체 양식을 받지 못하게 하려는 경우, 일부 사용자 지정 HTML을 표시하는 방법(예: 다운로드 버튼만)을 배웁니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -31,7 +31,7 @@ ht-degree: 7%
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. 알려진 사람들에게 표시될 ![을(를) 편집하려면 &#x200B;](assets/image2014-9-25-14-3a1-3a26.png)—**[!UICONTROL Custom HTML]**&#x200B;을(를) 클릭하십시오.
+1. 알려진 사람들에게 표시될 ![을(를) 편집하려면 ](assets/image2014-9-25-14-3a1-3a26.png)—**[!UICONTROL Custom HTML]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515616
-description: 안내식 랜딩 페이지 템플릿 목록 - Marketo 문서 - 제품 설명서
+description: Marketo의 가이드 랜딩 페이지 템플릿 목록에 대해 알아봅니다. 랜딩 페이지의 템플릿을 검색하고 다운로드합니다.
 title: 가이드 랜딩 페이지 템플릿 목록
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 64%
+source-wordcount: '347'
+ht-degree: 62%
 
 ---
 

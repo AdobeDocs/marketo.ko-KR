@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359530
-description: 랜딩 페이지에 텍스트 및 토큰 추가 - Marketo 문서 - 제품 설명서
+description: Marketo 랜딩 페이지에 텍스트 및 토큰을 추가하는 방법을 알아봅니다. 개인화를 위해 정적 텍스트 및 동적 토큰을 삽입합니다.
 title: 랜딩 페이지에 텍스트 및 토큰 추가
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 9%
+source-wordcount: '190'
+ht-degree: 8%
 
 ---
 

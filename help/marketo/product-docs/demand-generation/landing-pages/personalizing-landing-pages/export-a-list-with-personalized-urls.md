@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359815
-description: 개인화된 URL을 사용하여 목록 내보내기 - Marketo 문서 - 제품 설명서
+description: Marketo에서 개인화된 URL을 사용하여 목록을 내보내는 방법을 알아봅니다. 고유한 랜딩 페이지 URL이 있는 수신자 목록을 가져옵니다.
 title: 개인화된 URL이 포함된 목록 내보내기
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 7%
+source-wordcount: '172'
+ht-degree: 6%
 
 ---
 

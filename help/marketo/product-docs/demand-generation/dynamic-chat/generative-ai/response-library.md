@@ -1,12 +1,12 @@
 ---
-description: 응답 라이브러리 - Marketo 문서 - 제품 설명서
+description: Dynamic Chat에서 생성 AI에 대한 응답 라이브러리를 관리하는 방법을 알아봅니다. 채팅 캠페인에 대한 질문 및 응답을 추가, 편집 및 승인합니다.
 title: 응답 라이브러리
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 2%
+source-wordcount: '363'
+ht-degree: 4%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 2%
 
    ![](assets/response-library-3.png)
 
-1. 질문 및 응답을 입력합니다. 주제를 할당하고 사용자가 방문자와 공유할 수 있는 선택적 URL을 추가합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 질문 및 응답을 입력합니다. 주제를 할당하고 사용자가 방문자와 공유할 수 있는 선택적 URL을 추가합니다. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/response-library-4.png)
 
@@ -89,7 +89,7 @@ ht-degree: 2%
 
    ![](assets/response-library-9.png)
 
-1. 해당 작업 이름을 입력합니다. 파일을 드래그 앤 드롭하거나 장치에서 찾아 선택합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 해당 작업 이름을 입력합니다. 파일을 드래그 앤 드롭하거나 장치에서 찾아 선택합니다. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/response-library-10.png)
 

@@ -1,12 +1,12 @@
 ---
-description: 에이전트 받은 편지함 - Marketo 문서 - 제품 설명서
+description: 라이브 채팅 에이전트가 필드 대화를 진행하는 에이전트 받은 편지함에 대해 알아봅니다. 활성 및 과거 채팅, 방문자 정보를 보고, 가용성 상태를 설정합니다.
 title: 에이전트 받은 편지함
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '317'
 ht-degree: 1%
 
 ---

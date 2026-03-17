@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949962
-description: 양식 필드의 가시성을 동적으로 전환 - Marketo 문서 - 제품 설명서
+description: Marketo에서 양식 필드를 동적으로 표시하거나 숨기는 방법을 알아봅니다. 다른 필드 값 또는 규칙을 기반으로 필드를 표시합니다.
 title: 양식 필드의 가시성 동적 전환
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '243'
 ht-degree: 8%
 
 ---
@@ -25,7 +25,7 @@ Marketo Forms의 멋진 기능 중 하나는 양식 필드 또는 [필드 집합
 >
 >이 예제에서는 **국가**&#x200B;가 &quot;미국&quot;으로 선택되지 않은 경우 **상태** 필드를 숨기도록 하겠습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -69,6 +69,6 @@ Marketo Forms의 멋진 기능 중 하나는 양식 필드 또는 [필드 집합
 
 >[!IMPORTANT]
 >
->Forms 2.0에서 [API 함수](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}를 사용하여 사용자 지정 스크립트를 통해 필드 값을 설정/업데이트할 때 양식 필드 동작이 원활하게 작동합니다.
+>Forms 2.0에서 [API 함수](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}를 사용하여 사용자 지정 스크립트를 통해 필드 값을 설정/업데이트할 때 양식 필드 동작이 원활하게 작동합니다.
 >
 >필드 값이 Forms 2.0 JavaScript API 이외의 외부 스크립트에 의해 수정되는 경우 조건부 필드가 예상대로 작동하지 않을 수 있습니다.

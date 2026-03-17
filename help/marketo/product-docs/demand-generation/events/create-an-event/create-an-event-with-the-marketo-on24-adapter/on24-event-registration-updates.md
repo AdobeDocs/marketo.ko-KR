@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096683
-description: ON24 이벤트 등록 업데이트 - Marketo 문서 - 제품 설명서
+description: ON24 이벤트 등록 업데이트 및 Marketo과 동기화하는 방법에 대해 알아봅니다. 등록이 변경될 때 개인 및 프로그램 상태를 동기화합니다.
 title: ON24 이벤트 등록 업데이트
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '261'
 ht-degree: 3%
 
 ---

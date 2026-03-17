@@ -1,11 +1,11 @@
 ---
-description: 질문 생성 - Marketo 문서 - 제품 설명서
+description: 소스 URL 및 주제를 사용하여 Dynamic Chat에 대한 질문을 생성하는 방법을 알아봅니다. AI 지원 응답을 만들고 지원 응답에서 작업 상태를 추적합니다.
 title: 질문 생성
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '309'
 ht-degree: 3%
 
 ---

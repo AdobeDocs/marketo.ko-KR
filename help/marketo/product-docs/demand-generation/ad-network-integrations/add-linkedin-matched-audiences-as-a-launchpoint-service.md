@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504163
-description: ' [!DNL LinkedIn] 서비스로  [!DNL LaunchPoint] 일치하는 대상 추가 - Marketo 문서 - 제품 설명서'
+description: LinkedIn 일치 대상을 LaunchPoint 서비스로 추가하는 방법을 알아봅니다. 광고 타깃팅을 위해 Marketo 목록을 LinkedIn 대상 세그먼트로 사용합니다.
 title: ' [!DNL LinkedIn] 서비스로  [!DNL LaunchPoint] 일치하는 대상 추가'
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 1%
+source-wordcount: '203'
+ht-degree: 2%
 
 ---
 
@@ -35,7 +35,7 @@ Marketo 계정을 일치하는 대상 [!DNL LinkedIn]과(와) 연결하여 Marke
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. **[!UICONTROL Display Name]**&#x200B;을(를) 입력하고 **[!UICONTROL LinkedIn Matched Audiences]**&#x200B;을(를) 선택하십시오. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Display Name]**&#x200B;을(를) 입력하고 **[!UICONTROL LinkedIn Matched Audiences]**&#x200B;을(를) 선택하십시오. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -55,7 +55,7 @@ Marketo 계정을 일치하는 대상 [!DNL LinkedIn]과(와) 연결하여 Marke
 
    ![](assets/li-permissions.png)
 
-1. [!DNL LinkedIn] 계정이 이제 Marketo에 연결되었습니다. **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. [!DNL LinkedIn] 계정이 이제 Marketo에 연결되었습니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 

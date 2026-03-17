@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11383953
-description: Facebook 오프라인 전환 설정 - Marketo 문서 - 제품 설명서
+description: Marketo에서 Facebook 오프라인 전환을 설정하는 방법에 대해 알아봅니다. 광고 최적화를 위해 Marketo에서 Facebook으로 전환 데이터를 전송합니다.
 title: Facebook 오프라인 전환 설정
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 3%
+source-wordcount: '292'
+ht-degree: 4%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 3%
 
 ## 수익 주기 Modeler 구성 {#revenue-cycle-modeler-configuration}
 
-1. **[!UICONTROL Analytics]**(으)로 이동합니다.
+1. **[!UICONTROL Analytics]** 으로 이동합니다.
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 

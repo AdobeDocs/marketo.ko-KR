@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359707
-description: 자유 형식 랜딩 페이지에 사각형 추가 - Marketo 문서 - 제품 설명서
+description: Marketo의 자유 형식 랜딩 페이지에 사각형을 추가하는 방법을 알아봅니다. 레이아웃, 분할자 또는 디자인 요소에 사각형을 사용합니다.
 title: 자유 형식 랜딩 페이지에 사각형 추가
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 14%
+source-wordcount: '126'
+ht-degree: 13%
 
 ---
 

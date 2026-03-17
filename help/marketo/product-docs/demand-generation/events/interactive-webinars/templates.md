@@ -1,12 +1,12 @@
 ---
-description: 대화형 웨비나에서 템플릿을 만들고 구현하는 방법을 알아봅니다.
+description: 대화형 웨비나에서 템플릿을 만들고 구현하는 방법을 알아봅니다. 템플릿을 사용하여 웨비나 디자인을 표준화하고 생성 속도를 높일 수 있습니다.
 title: 대화형 웨비나용 템플릿
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 089902e937d32e6bca77f20296d9751bcc4ebdd6
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 0%
+source-wordcount: '306'
+ht-degree: 6%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 조직의 사용자가 대화형 웨비나에 템플릿에 액세스할 수 있으려면 먼저 Marketo Engage 관리자가 원하는 역할에 액세스를 추가해야 합니다.
 
-1. Marketo Engage에서 **[!UICONTROL 관리자]**&#x200B;를 클릭합니다.
+1. Marketo Engage에서 **[!UICONTROL Admin]**&#x200B;을 클릭합니다.
 
    ![](assets/templates-for-interactive-webinars-1.png)
 
-1. **[!UICONTROL 사용자 및 역할]**&#x200B;을 클릭한 다음 **[!UICONTROL 역할]** 탭을 클릭합니다.
+1. **[!UICONTROL Users & Roles]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Roles]** 탭을 클릭합니다.
 
    ![](assets/templates-for-interactive-webinars-2.png)
 
@@ -30,25 +30,25 @@ ht-degree: 0%
 
    ![](assets/templates-for-interactive-webinars-3.png)
 
-1. **[!UICONTROL Design Studio 액세스]**&#x200B;를 열려면 클릭하세요.
+1. **[!UICONTROL Access Design Studio]**&#x200B;을(를) 열려면 클릭하세요.
 
    ![](assets/templates-for-interactive-webinars-4.png)
 
-1. **[!UICONTROL 대화형 웨비나 템플릿 액세스]** 확인란을 선택하십시오.
+1. **[!UICONTROL Access Interactive Webinars Templates]** 확인란을 선택합니다.
 
    ![](assets/templates-for-interactive-webinars-5.png)
 
 ## 템플릿 만들기 {#create-a-template}
 
-1. Marketo Engage에서 **[!UICONTROL Design Studio]**&#x200B;를 클릭합니다.
+1. Marketo Engage에서 **[!UICONTROL Design Studio]**&#x200B;을 클릭합니다.
 
    ![](assets/templates-for-interactive-webinars-6.png)
 
-1. **[!UICONTROL 대화형 웨비나]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Interactive Webinars]**&#x200B;를 클릭합니다.
 
    ![](assets/templates-for-interactive-webinars-7.png)
 
-1. **[!UICONTROL 템플릿 관리]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Manage Templates]**&#x200B;를 클릭합니다.
 
    ![](assets/templates-for-interactive-webinars-8.png)
 
@@ -90,15 +90,15 @@ ht-degree: 0%
 
 기존 템플릿을 편집하려면 아래 단계를 따르십시오.
 
-1. Marketo Engage에서 **[!UICONTROL Design Studio]**&#x200B;를 클릭합니다.
+1. Marketo Engage에서 **[!UICONTROL Design Studio]**&#x200B;을 클릭합니다.
 
    ![](assets/templates-for-interactive-webinars-16.png)
 
-1. **[!UICONTROL 대화형 웨비나]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Interactive Webinars]**&#x200B;를 클릭합니다.
 
    ![](assets/templates-for-interactive-webinars-17.png)
 
-1. **[!UICONTROL 템플릿 관리]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Manage Templates]**&#x200B;를 클릭합니다.
 
    ![](assets/templates-for-interactive-webinars-18.png)
 

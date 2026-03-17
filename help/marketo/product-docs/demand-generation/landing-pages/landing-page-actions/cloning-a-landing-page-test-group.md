@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953038
-description: 랜딩 페이지 테스트 그룹 복제 - Marketo 문서 - 제품 설명서
+description: Marketo에서 랜딩 페이지 테스트 그룹을 복제하는 방법을 알아봅니다. 테스트 그룹을 복제하여 유사한 테스트 또는 변형을 실행합니다.
 title: 랜딩 페이지 테스트 그룹 복제
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 7%
 
 ---
 

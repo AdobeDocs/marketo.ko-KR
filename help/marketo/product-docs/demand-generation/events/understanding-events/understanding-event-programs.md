@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949841
-description: 이벤트 프로그램 이해 - Marketo 문서 - 제품 설명서
+description: Marketo의 이벤트 프로그램에 대해 알아봅니다. 구조, 채널 및 이벤트 및 웨비나를 계획하고 실행하는 방법을 이해합니다.
 title: 이벤트 프로그램 이해
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 9%
+source-wordcount: '108'
+ht-degree: 8%
 
 ---
 

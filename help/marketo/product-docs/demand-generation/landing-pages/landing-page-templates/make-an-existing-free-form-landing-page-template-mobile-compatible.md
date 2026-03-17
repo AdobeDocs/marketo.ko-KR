@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472348
-description: 기존 자유 형식 랜딩 페이지 템플릿 모바일 호환 - Marketo 문서 - 제품 설명서
+description: 기존 자유 형식 랜딩 페이지 템플릿을 모바일과 호환되도록 하는 방법을 알아봅니다. 템플릿 또는 랜딩 페이지 편집기에서 업그레이드합니다.
 title: 기존 자유 형식 랜딩 페이지 템플릿을 모바일 호환 가능하도록 만들기
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 5%
+source-wordcount: '235'
+ht-degree: 6%
 
 ---
 

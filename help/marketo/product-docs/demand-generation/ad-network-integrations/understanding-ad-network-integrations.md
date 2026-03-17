@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382858
-description: Ad 네트워크 통합 이해 - Marketo 문서 - 제품 설명서
+description: 광고 네트워크 통합이 Marketo 대상 데이터를 유료 미디어에 연결하는 방법에 대해 알아봅니다. 타겟팅된 캠페인을 실행하고, 광고의 리드를 수집하고, 오프라인 전환을 업로드합니다.
 title: 광고 네트워크 통합 이해
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '256'
 ht-degree: 3%
 
 ---
@@ -45,9 +45,9 @@ ht-degree: 3%
 통합을 사용하여 다음을 수행할 수 있습니다.
 
 * [Google [!DNL AdWords] as a [!DNL LaunchPoint] Service 추가](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [&#x200B; [!DNL Facebook]에서 사용자 지정 대상자에 리드 추가](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [&#x200B; [!DNL Facebook]에서 사용자 지정 대상 만들기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [&#x200B; [!DNL Facebook] 오프라인 전환 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [ [!DNL Facebook]에서 사용자 지정 대상자에 리드 추가](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [ [!DNL Facebook]에서 사용자 지정 대상 만들기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [ [!DNL Facebook] 오프라인 전환 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
 * [Marketo 목록 또는 스마트 목록을  [!DNL LinkedIn] 대상 세그먼트로 사용](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |   | 대상 데이터 | 잠재 고객 수집 | 오프라인 전환 |

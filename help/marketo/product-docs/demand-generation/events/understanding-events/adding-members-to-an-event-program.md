@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355758
-description: 이벤트 프로그램에 멤버 추가 - Marketo 문서 - 제품 설명서
+description: Marketo에서 이벤트 프로그램에 구성원을 추가하는 방법을 알아봅니다. 등록 또는 출석 추적을 위해 프로그램에 직원을 추가합니다.
 title: 이벤트 프로그램에 멤버 추가
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 9%
+source-wordcount: '176'
+ht-degree: 8%
 
 ---
 

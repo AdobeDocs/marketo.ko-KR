@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359726
-description: 랜딩 페이지 제목 및 메타데이터 편집 - Marketo 문서 - 제품 설명서
+description: Marketo에서 랜딩 페이지 제목 및 메타데이터를 편집하는 방법을 알아봅니다. SEO 및 표시에 대한 페이지 제목 및 메타 설명을 업데이트합니다.
 title: 랜딩 페이지 제목 및 메타데이터 편집
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 11%
+source-wordcount: '128'
+ht-degree: 10%
 
 ---
 

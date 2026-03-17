@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949904
-description: 랜딩 페이지 테스트 그룹 - Marketo 문서 - 제품 설명서
+description: Marketo의 랜딩 페이지 테스트 그룹에 대해 알아봅니다. A/B 또는 다변량 테스트를 실행하여 랜딩 페이지 성능을 비교합니다.
 title: 랜딩 페이지 테스트 그룹
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '184'
 ht-degree: 5%
 
 ---

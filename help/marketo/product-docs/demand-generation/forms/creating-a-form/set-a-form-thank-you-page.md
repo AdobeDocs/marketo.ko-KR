@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359573
-description: 양식 감사 페이지 설정 - Marketo 문서 - 제품 설명서
+description: Marketo에서 양식 감사 페이지를 설정하는 방법에 대해 알아봅니다. 제출자가 양식을 제출한 후 특정 페이지나 URL로 전송합니다.
 title: 감사 페이지 양식 설정
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '335'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 ## 양식 편집 {#edit-form}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-5.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949863
-description: ' [!DNL Webex] - Marketo 문서 - 제품 설명서를 사용하여 이벤트 만들기'
-title: ' [!DNL Webex] (으)로 이벤트 만들기'
+description: Marketo에서 Webex를 사용하여 이벤트를 만드는 방법에 대해 알아봅니다. Webex 통합을 구성하고 Marketo과 이벤트 또는 모임 데이터를 동기화합니다.
+title: ' [!DNL Webex](으)로 이벤트 만들기'
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '642'
 ht-degree: 0%
 
 ---

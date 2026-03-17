@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359716
-description: 랜딩 페이지 미리보기 - Marketo 문서 - 제품 설명서
+description: Marketo에서 랜딩 페이지를 미리 보는 방법을 알아봅니다. 페이지를 라이브로 전환하기 전에 페이지의 모양과 동작을 확인하십시오.
 title: 랜딩 페이지 미리보기
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 10%
+source-wordcount: '141'
+ht-degree: 9%
 
 ---
 

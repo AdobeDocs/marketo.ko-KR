@@ -1,11 +1,11 @@
 ---
-description: 초기 설정 - Marketo 문서 - 제품 설명서
+description: Marketo 인스턴스용 Dynamic Chat을 설정하는 방법을 알아봅니다. Admin Console에 액세스하고 사용자를 추가하고 Dynamic Chat을 Marketo에 연결합니다.
 title: 초기 설정
 feature: Dynamic Chat
 exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '120'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Dynamic Chat을 설정하려면 아래 단계를 따르십시오.
 
    ![](assets/initial-setup-1.png)
 
-1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Adobe Admin Console으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/kr/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
+1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Adobe Admin Console으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
 
    ![](assets/initial-setup-2.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10092905
-description: 템플릿 20A - Marketo 문서 - 제품 설명서
+description: 템플릿 20A 안내 랜딩 페이지 템플릿에 대해 알아봅니다. 다운로드하여 Marketo 랜딩 페이지에 사용합니다.
 title: 템플릿 20A
 exl-id: 0a535a43-c7c4-4a07-8562-da85ed4b8d5d
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 8%
+source-wordcount: '58'
+ht-degree: 6%
 
 ---
 
 # 템플릿 20A {#template-20a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 20A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html?lang=ko)
+마우스 오른쪽 단추를 클릭하여 [템플릿 20A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
 
 ![](assets/image2015-9-18-9-3a1-3a49.png)
 
@@ -28,4 +28,4 @@ ht-degree: 8%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 20A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html?lang=ko)
+[템플릿 20A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)

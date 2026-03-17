@@ -1,11 +1,11 @@
 ---
-description: 사용자 및 라이선스 관리 - Marketo 문서 - 제품 설명서
+description: 대화형 웨비나의 사용자 및 라이선스 관리에 대해 알아봅니다. 액세스 권한을 할당하고 웨비나를 만들거나 게재할 수 있는 사용자를 관리합니다.
 title: 사용자 및 라이선스 관리
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '717'
+source-wordcount: '728'
 ht-degree: 2%
 
 ---

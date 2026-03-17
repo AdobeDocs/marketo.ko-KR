@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359866
-description: 웹 페이지에서 이미지 가져오기 - Marketo 문서 - 제품 설명서
+description: 웹 페이지에서 Marketo으로 이미지를 가져오는 방법을 알아봅니다. URL에서 Design Studio로 이미지를 가져옵니다.
 title: 웹 페이지에서 이미지 가져오기
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 웹 페이지의 이미지를 추가하려면 원하는 이미지가 있는 페이지의 웹 주소(URL)를 복사한 다음 다음과 같은 간단한 단계를 수행합니다.
 
-1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]** 으로 이동합니다.
 
    ![](assets/designstudio-2.png)
 

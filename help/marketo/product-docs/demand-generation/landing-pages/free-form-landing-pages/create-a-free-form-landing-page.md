@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359701
-description: 자유 형식 랜딩 페이지 만들기 - Marketo 문서 - 제품 설명서
+description: Marketo에서 자유 형식 랜딩 페이지를 만드는 방법을 알아봅니다. 페이지를 프로그램 자산으로 만들거나 Design Studio에서 전역으로 사용합니다.
 title: 자유 형식 랜딩 페이지 만들기
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 8%
 
 ## 프로그램에서 자유 형식 랜딩 페이지 만들기 {#create-a-free-form-landing-page-in-a-program}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ ht-degree: 8%
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. **[!UICONTROL New]**&#x200B;을(를) 클릭합니다. **[!UICONTROL New Local Asset]**&#x200B;를 선택합니다.
+1. **[!UICONTROL New]**&#x200B;를 클릭합니다. **[!UICONTROL New Local Asset]**&#x200B;를 선택합니다.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 

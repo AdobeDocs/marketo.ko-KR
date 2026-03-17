@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359637
-description: 양식 삭제 - Marketo 문서 - 제품 설명서
+description: Marketo에서 양식을 삭제하는 방법을 알아봅니다. 인스턴스에서 더 이상 필요하지 않은 양식을 제거합니다.
 title: 양식 삭제
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 6%
+source-wordcount: '139'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 필요하지 않은 양식이 있고 사용되지 않는 경우 삭제할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-3.png)
 

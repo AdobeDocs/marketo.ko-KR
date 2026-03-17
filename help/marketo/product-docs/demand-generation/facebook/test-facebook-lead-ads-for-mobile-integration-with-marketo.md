@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098759
-description: Marketo과의 모바일 통합을 위한 Facebook 리드 광고 테스트 - Marketo 설명서 - 제품 설명서
+description: Marketo과 Facebook 리드 광고 모바일 통합을 테스트하는 방법을 알아봅니다. Mobile Sync에서 리드 광고 제출을 올바르게 확인하십시오.
 title: Marketo와 모바일 통합을 위한 Facebook 리드 광고 테스트
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 5%
+source-wordcount: '205'
+ht-degree: 4%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 5%
    >
    >이것은 추가 정보 Call to action을 사용하는 예입니다. 리드 광고 단위 Call to action이 다를 수 있습니다.
 
-1. 여기서 마법이 일어나요! 양식을 제출했으면 [프로그램의 일부나 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 필터를 사용하는 잠재 고객 데이터베이스에 Marketo에서 스마트 목록을 빌드&#x200B;**[!UICONTROL Filled Out Facebook Lead Ads Form]**&#x200B;합니다. 방금 제출한 양식의 리드 광고 양식 이름을 삽입합니다.
+1. 여기서 마법이 일어나요! 양식을 제출했으면 [프로그램의 일부나 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) 필터를 사용하는 잠재 고객 데이터베이스에 Marketo에서 스마트 목록을 빌드&#x200B;**[!UICONTROL Filled Out Facebook Lead Ads Form]**&#x200B;합니다. 방금 제출한 양식의 리드 광고 양식 이름을 삽입합니다.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 

@@ -1,18 +1,18 @@
 ---
-description: 모임 목록 - Marketo 문서 - 제품 설명서
+description: 방문자가 예약한 약속이 표시되는 Dynamic Chat 모임 목록에 대해 알아봅니다. 예약자, 에이전트 및 모임 상태를 봅니다.
 title: 회의 목록
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 3%
+source-wordcount: '131'
+ht-degree: 18%
 
 ---
 
 # 회의 목록 {#meeting-list}
 
-여기에서 다양한 대화 상자를 통해 웹 사이트 방문자가 예약한 모든 약속을 볼 수 있습니다. 여기에서 약속을 예약한 사람의 이메일 주소, 예약한 상담원의 이메일 주소, 약속 발생 시기 및 예약된 회의 시간이 경과되었는지 여부를 확인할 수 있습니다.
+캘린더는 다양한 대화 상자를 통해 웹 사이트 방문자가 예약한 모든 약속을 볼 수 있는 곳입니다. 여기에서 약속을 예약한 사람의 이메일 주소, 예약한 상담원의 이메일 주소, 약속 발생 시기 및 예약된 회의 시간이 경과되었는지 여부를 확인할 수 있습니다.
 
 ![](assets/meeting-list-1.png)
 

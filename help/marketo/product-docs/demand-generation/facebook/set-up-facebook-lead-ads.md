@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11379622
-description: Facebook 리드 광고 설정 - Marketo 문서 - 제품 설명서
+description: Marketo을 사용하여 Facebook 리드 광고를 설정하는 방법에 대해 알아봅니다. Facebook 계정을 연결하고 리드 광고 제출을 Marketo에 동기화합니다.
 title: Facebook 리드 광고 설정
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '336'
 ht-degree: 4%
 
 ---

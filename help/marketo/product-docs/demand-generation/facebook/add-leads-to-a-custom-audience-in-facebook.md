@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11376700
-description: Facebook - Marketo 문서 - 제품 설명서에서 사용자 정의 대상에게 리드 추가
+description: Marketo에서 Facebook의 사용자 지정 대상에 잠재 고객을 추가하는 방법을 알아봅니다. 광고 타깃팅을 위해 목록 구성원을 Facebook에 푸시합니다.
 title: Facebook의 사용자 정의 대상자에 리드 추가
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 9%
+source-wordcount: '153'
+ht-degree: 8%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 9%
 >[!PREREQUISITES]
 >
 >* [사용자 지정 대상 만들기 [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [&#x200B; 계정 내에서  [!DNL Facebook]사용자 지정 대상자 약관](https://www.facebook.com/ads/manage/customaudiences/tos.php)에 동의[!DNL Facebook]합니다.
+>* [ 계정 내에서  [!DNL Facebook]사용자 지정 대상자 약관](https://www.facebook.com/ads/manage/customaudiences/tos.php)에 동의[!DNL Facebook]합니다.
 >
 
 1. 추가할 잠재 고객이 포함된 스마트 또는 정적 목록을 찾아 선택합니다.

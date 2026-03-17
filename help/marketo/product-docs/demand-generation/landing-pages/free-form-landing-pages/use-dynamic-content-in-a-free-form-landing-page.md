@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359732
-description: 자유 형식 랜딩 페이지에서 동적 콘텐츠 사용 - Marketo 문서 - 제품 설명서
+description: Marketo의 자유 형식 랜딩 페이지에서 동적 콘텐츠를 사용하는 방법을 알아봅니다. 다른 세그먼트에 다른 컨텐츠를 표시합니다.
 title: 자유 형식 랜딩 페이지에서 동적 콘텐츠 사용
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 8%
+source-wordcount: '198'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 8%
 
 ## 세분화 추가 {#add-segmentation}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 

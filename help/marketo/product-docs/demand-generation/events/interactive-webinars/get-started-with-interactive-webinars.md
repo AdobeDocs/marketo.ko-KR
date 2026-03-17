@@ -1,11 +1,11 @@
 ---
-description: 대화형 웨비나 시작 - Marketo 문서 - 제품 설명서
+description: Marketo에서 대화형 웨비나를 시작합니다. 대화형 웨비나를 만들고 게재하기 위한 사전 요구 사항, 주요 개념 및 단계를 알아봅니다.
 title: 대화형 웨비나 시작하기
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '298'
 ht-degree: 3%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359710
-description: 랜딩 페이지 승인, 승인 취소 또는 삭제 - Marketo 문서 - 제품 설명서
+description: Marketo에서 랜딩 페이지를 승인, 승인 취소 또는 삭제하는 방법을 알아봅니다. 라이브 페이지를 제어하고 더 이상 필요하지 않은 페이지를 제거합니다.
 title: 랜딩 페이지 승인, 승인 취소 또는 삭제
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '247'
 ht-degree: 10%
 
 ---

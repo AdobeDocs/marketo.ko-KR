@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515027
-description: 안내식 랜딩 페이지에 이미지 추가 - Marketo 문서 - 제품 설명서
+description: Marketo의 안내 랜딩 페이지에 이미지를 추가하는 방법을 알아봅니다. 템플릿에 이미지 요소를 삽입하고 구성합니다.
 title: 가이드 랜딩 페이지에 이미지 추가
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 14%
+source-wordcount: '127'
+ht-degree: 13%
 
 ---
 

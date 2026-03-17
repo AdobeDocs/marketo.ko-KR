@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472283
-description: 자유 형식 랜딩 페이지에 대한 모바일 보기 사용자 지정 - Marketo 문서 - 제품 설명서
+description: Marketo에서 자유 형식 랜딩 페이지에 대한 모바일 보기를 사용자 지정하는 방법을 알아봅니다. 모바일 방문자에 대한 레이아웃 및 콘텐츠를 조정합니다.
 title: 자유 형식 랜딩 페이지의 모바일 보기 사용자 정의
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 5%
+source-wordcount: '363'
+ht-degree: 7%
 
 ---
 
@@ -107,7 +107,7 @@ ht-degree: 5%
    >
    >미리 보기는 대화형이 아닙니다. 모든 스마트폰은 사물을 조금 다르게 표시합니다. 몇 가지 장치에서 랜딩 페이지를 미리 보고 랜딩 페이지의 동작을 정확히 확인하는 것이 좋습니다.
 
-재밌게 놀아!
+즐겁게 사용해 보십시오!
 
 >[!MORELIKETHIS]
 >

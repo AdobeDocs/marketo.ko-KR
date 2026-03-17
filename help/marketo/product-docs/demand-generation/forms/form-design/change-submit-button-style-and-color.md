@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359620
-description: 제출 단추 스타일 및 색상 변경 - Marketo 문서 - 제품 설명서
+description: Marketo 양식에서 제출 단추 스타일과 색상을 변경하는 방법을 알아봅니다. 단추를 브랜딩 및 디자인에 연결합니다.
 title: 제출 버튼 스타일 및 색상 변경
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '148'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 표준 제출 단추가 무디거나 좀 더 화려한 것이 필요한 경우에는 사용할 수 있는 단추 스타일을 다양하게 선택하십시오.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-3.png)
 

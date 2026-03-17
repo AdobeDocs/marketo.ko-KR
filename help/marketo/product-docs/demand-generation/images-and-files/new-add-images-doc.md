@@ -1,13 +1,13 @@
 ---
-description: 새 이미지 추가 문서 - Marketo 문서 - 제품 설명서
+description: Marketo Design Studio에 이미지 및 파일을 추가하는 방법을 알아봅니다. 캠페인 및 랜딩 페이지에서 자산을 업로드, 구성 및 사용합니다.
 title: 새 이미지 추가 문서
 hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '259'
 ht-degree: 13%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 13%
 
 텍스트
 
-1. 위의 [에서 1단계 및 2단계 &#x200B;](#upload-image-or-file)을(를) 따릅니다.
+1. 위의 [에서 1단계 및 2단계 ](#upload-image-or-file)을(를) 따릅니다.
 
 1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;를 선택합니다.
 
@@ -68,7 +68,7 @@ PICC
 
 텍스트
 
-1. 위의 [에서 1단계 및 2단계 &#x200B;](#upload-image-or-file)을(를) 따릅니다.
+1. 위의 [에서 1단계 및 2단계 ](#upload-image-or-file)을(를) 따릅니다.
 
 1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;를 선택합니다.
 
@@ -98,7 +98,7 @@ PICC
 
 텍스트
 
-1. 위의 [에서 1단계 및 2단계 &#x200B;](#upload-image-or-file)을(를) 따릅니다.
+1. 위의 [에서 1단계 및 2단계 ](#upload-image-or-file)을(를) 따릅니다.
 
 1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;를 선택합니다.
 

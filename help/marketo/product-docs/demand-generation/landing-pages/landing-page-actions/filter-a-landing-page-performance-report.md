@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359742
-description: 랜딩 페이지 성능 보고서 필터링 - Marketo 문서 - 제품 설명서
+description: Marketo에서 랜딩 페이지 성능 보고서를 필터링하는 방법을 알아봅니다. 날짜, 페이지 또는 기타 기준으로 결과 범위를 좁힙니다.
 title: 랜딩 페이지 성과 보고서 필터링
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 9%
+source-wordcount: '134'
+ht-degree: 8%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515069
-description: 안내식 템플릿의 요소 및 변수 이해 - Marketo 문서 - 제품 설명서
+description: Marketo 안내식 랜딩 페이지 템플릿의 요소 및 변수에 대해 알아봅니다. 편집 가능한 항목과 컨텐츠를 배치하는 방법을 정의합니다.
 title: 가이드 템플릿의 요소 및 변수 이해
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 10%
+source-wordcount: '198'
+ht-degree: 9%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 10%
   </tr>
   <tr>
    <td>색상</td>
-   <td><p>색상용 편집 가능한 16진수 코드</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>예: 배경색, 글꼴 색상, 테두리 색상</p></td>
+   <td><p>색상용 편집 가능한 16진수 코드</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>예: 배경색, 글꼴 색상, 테두리 색상</p></td>
   </tr>
   <tr>
    <td>부울</td>

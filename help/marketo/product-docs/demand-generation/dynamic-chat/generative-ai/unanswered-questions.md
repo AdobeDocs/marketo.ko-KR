@@ -1,12 +1,12 @@
 ---
-description: 답변되지 않은 질문 - Marketo 문서 - 제품 설명서
+description: 답변하지 않거나 도움이 되지 않는 챗봇 질문을 보고 응답하는 방법에 대해 알아봅니다. 이 목록에서 새 승인된 응답을 응답 라이브러리에 추가합니다.
 title: 답변되지 않은 질문
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 3%
+source-wordcount: '118'
+ht-degree: 8%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 3%
 
    ![](assets/unanswered-questions-3.png)
 
-1. 응답을 입력합니다. 주제를 할당하고 사용자가 방문자와 공유할 수 있는 선택적 URL을 추가합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 응답을 입력합니다. 주제를 할당하고 사용자가 방문자와 공유할 수 있는 선택적 URL을 추가합니다. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/unanswered-questions-4.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359803
-description: 랜딩 페이지에 대한 개인화된 URL 활성화 - Marketo 문서 - 제품 설명서
+description: Marketo 랜딩 페이지에 대해 개인화된 URL을 활성화하는 방법을 알아봅니다. 각 수신자가 고유한 추적 가능한 URL을 갖도록 합니다.
 title: 랜딩 페이지에 대해 개인화된 URL 활성화
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 17%
+source-wordcount: '86'
+ht-degree: 16%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11370892
-description: Marketo과 데스크톱을 통합할 수 있는 Facebook 리드 광고 테스트 - Marketo 설명서 - 제품 설명서
+description: Marketo과 Facebook 리드 광고 데스크탑 통합을 테스트하는 방법을 알아봅니다. 데스크톱 동기화에서 리드 광고 제출을 올바르게 확인하십시오.
 title: Marketo와 데스크탑 통합을 위한 Facebook 리드 광고 테스트
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '207'
 ht-degree: 4%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359705
-description: 자유 형식 랜딩 페이지에 새 양식 추가 - Marketo 문서 - 제품 설명서
+description: Marketo의 자유 형식 랜딩 페이지에 새 양식을 추가하는 방법을 알아봅니다. Marketo 양식을 삽입하여 페이지의 리드를 캡처합니다.
 title: 자유 형식 랜딩 페이지에 새 양식 추가
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '143'
 ht-degree: 14%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 14%
 >* [양식 만들기](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [자유 형식 랜딩 페이지 만들기](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 

@@ -1,11 +1,11 @@
 ---
-description: 구성 - Marketo 문서 - 제품 설명서
+description: Dynamic Chat 대화 상자 창의 모양과 느낌을 사용자 지정하는 방법을 알아봅니다. 색상, 글꼴, 배치, 아바타 및 알림 소리를 설정합니다.
 title: 구성
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---

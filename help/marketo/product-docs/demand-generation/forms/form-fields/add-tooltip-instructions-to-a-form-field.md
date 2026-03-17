@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359673
-description: 양식 필드에 툴팁 지침 추가 - Marketo 문서 - 제품 설명서
+description: Marketo의 양식 필드에 도구 설명 지침을 추가하는 방법을 알아봅니다. 방문자가 필드를 가리키면 추가 도움말을 표시합니다.
 title: 양식 필드에 툴팁 지침 추가
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '124'
 ht-degree: 14%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 14%
 >
 >양식 **지침**&#x200B;은(는) 방문자가 필드 위로 마우스를 가져가면 나타나는 작은 도구 설명입니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-6.png)
 

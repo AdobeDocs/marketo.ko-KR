@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097969
-description: 자유 형식 랜딩 페이지 템플릿 만들기 - Marketo 문서 - 제품 설명서
+description: Marketo에서 자유 형식 랜딩 페이지 템플릿을 만드는 방법을 알아봅니다. 향후 랜딩 페이지를 위해 Design Studio에서 재사용 가능한 템플릿을 빌드합니다.
 title: 자유 형식 랜딩 페이지 템플릿 만들기
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 6%
+source-wordcount: '189'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 자유 형식의 랜딩 페이지는 안내식 페이지에 비해 기술 지식이 적게 필요합니다. 이후 랜딩 페이지용 템플릿을 만들려면 아래 단계를 수행합니다.
 
-1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]** 으로 이동합니다.
 
    ![](assets/one.png)
 
@@ -43,7 +43,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >양식을 미리 채우지 못하게 하거나 특정 페이지에서 웹 동작을 추적하지 않으려면 **[!UICONTROL Disable Munchkin Tracking]**&#x200B;을(를) 선택합니다.
+   >양식을 미리 채우지 못하게 하거나 특정 페이지에서 웹 동작을 추적하지 않으려면 **[!UICONTROL Disable Munchkin Tracking]**을(를) 선택합니다.
    >코드가 모바일 장치와 호환되는지 확인하려면 **[!UICONTROL Validate Mobile Compatibility]**&#x200B;을(를) 선택하십시오.
 
    >[!MORELIKETHIS]

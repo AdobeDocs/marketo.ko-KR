@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359677
-description: Lightbox에서 양식 사용 - Marketo 문서 - 제품 설명서
+description: Marketo의 Lightbox에서 양식을 사용하는 방법에 대해 알아봅니다. 랜딩 페이지나 웹 사이트의 팝업 오버레이에 양식을 표시합니다.
 title: 라이트박스에서 양식 사용
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 15%
+source-wordcount: '107'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 Lightbox는 표시하려는 콘텐츠 앞에 폼을 여는 기술입니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-8.png)
 

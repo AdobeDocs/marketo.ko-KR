@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359876
-description: 업로드한 이미지 또는 파일 바꾸기 - Marketo 문서 - 제품 설명서
+description: Marketo에서 업로드된 이미지 또는 파일을 바꾸는 방법을 알아봅니다. 기존 링크에 대해 동일한 URL을 유지하면서 에셋을 업데이트합니다.
 title: 업로드된 이미지 또는 파일 교체
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 17%
+source-wordcount: '113'
+ht-degree: 15%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: 대화형 웨비나 개요 - Marketo 설명서 - 제품 설명서
+description: 라이브 및 온디맨드 참여를 위한 Marketo의 대화형 웨비나에 대해 알아봅니다. 내장된 참여 도구를 사용하여 웨비나를 제작, 디자인 및 제공합니다.
 title: 대화형 웨비나 개요
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '517'
-ht-degree: 100%
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+workflow-type: tm+mt
+source-wordcount: '530'
+ht-degree: 96%
 
 ---
 

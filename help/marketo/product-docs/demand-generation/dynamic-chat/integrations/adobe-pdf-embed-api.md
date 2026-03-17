@@ -1,12 +1,12 @@
 ---
-description: Adobe PDF Embed API - Marketo 문서 - 제품 설명서
+description: Dynamic Chat에서 문서 카드에 대한 Adobe PDF Embed API를 설정하는 방법을 알아봅니다. 대화 상자에 PDF를 임베드하고 문서 참여를 추적할 수 있습니다.
 title: Adobe PDF 임베드 API
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 7%
+source-wordcount: '143'
+ht-degree: 6%
 
 ---
 

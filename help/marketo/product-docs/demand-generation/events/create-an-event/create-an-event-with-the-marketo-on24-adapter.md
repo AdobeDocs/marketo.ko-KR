@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096656
-description: Marketo ON24 어댑터 - Marketo 문서 - 제품 설명서를 사용하여 이벤트 만들기
+description: Marketo ON24 어댑터를 사용하여 이벤트를 만드는 방법에 대해 알아봅니다. ON24 웨비나를 Marketo에 연결하고 등록 및 출석을 동기화합니다.
 title: Marketo ON24 어댑터로 이벤트 만들기
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '293'
 ht-degree: 6%
 
 ---

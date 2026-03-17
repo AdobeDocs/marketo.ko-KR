@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949865
-description: Adobe Connect - Marketo 문서 - 제품 설명서를 사용하여 이벤트 만들기
+description: Marketo에서 Adobe Connect을 사용하여 이벤트를 만드는 방법을 알아봅니다. 통합하고 등록 및 출석 데이터를 동기화합니다.
 title: Adobe Connect로 이벤트 만들기
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '394'
 ht-degree: 3%
 
 ---

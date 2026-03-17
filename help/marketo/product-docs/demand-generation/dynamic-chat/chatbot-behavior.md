@@ -1,11 +1,11 @@
 ---
-description: 챗봇 비헤이비어 - Marketo 문서 - 제품 설명서
+description: 대화 상자, 우선순위 및 방문자 간의 Dynamic Chat 챗봇 동작에 대해 알아봅니다. 이 참조를 사용하여 챗봇이 다양한 시나리오에서 어떻게 동작하는지 이해할 수 있습니다.
 title: 챗봇 비헤이비어
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1680'
+source-wordcount: '1697'
 ht-degree: 3%
 
 ---

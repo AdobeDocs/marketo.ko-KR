@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096675
-description: 하위 캠페인 만들기 및 로컬 Assets - Marketo 문서 - 제품 설명서
+description: Marketo에서 ON24 이벤트에 대한 하위 캠페인 및 로컬 자산을 만드는 방법을 알아봅니다. 다른 지역 또는 언어에 대한 프로그램을 구성합니다.
 title: 하위 캠페인 및 로컬 자산 만들기
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '661'
 ht-degree: 3%
 
 ---

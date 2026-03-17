@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359868
-description: Box의 이미지 및 파일 업로드 - Marketo 문서 - 제품 설명서
+description: Box에서 Marketo으로 이미지 및 파일을 업로드하는 방법을 알아봅니다. Box를 연결하고 에셋을 Design Studio로 가져옵니다.
 title: Box에서 이미지 및 파일 업로드
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 16%
+source-wordcount: '102'
+ht-degree: 18%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 16%
 
 Box에서 파일을 업로드하여 랜딩 페이지 및 이메일에서 사용할 수 있습니다.
 
-1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
+1. **[!UICONTROL Design Studio]** 으로 이동합니다.
 
    ![](assets/designstudio-3.png)
 
-1. **[!UICONTROL Images and Files]**(으)로 이동합니다. **[!UICONTROL File Actions]**&#x200B;을(를) 클릭하고 **[!UICONTROL Grab Images from Web]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Images and Files]** 으로 이동합니다. **[!UICONTROL File Actions]**&#x200B;을(를) 클릭하고 **[!UICONTROL Grab Images from Web]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359566
-description: 양식에서 필드 레이블 편집 - Marketo 문서 - 제품 설명서
+description: Marketo 양식에서 필드 레이블을 편집하는 방법을 알아봅니다. 양식 필드 옆에 표시되는 레이블 텍스트를 변경합니다.
 title: 양식에서 필드 레이블 편집
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '121'
 ht-degree: 14%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 양식의 레이블을 원하는 대로 변경할 수 있습니다. 이미지를 사용하거나 완전히 지울 수도 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/edit-a-field-label-in-a-form-1.png)
 

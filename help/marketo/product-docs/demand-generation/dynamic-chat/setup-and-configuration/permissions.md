@@ -1,11 +1,11 @@
 ---
-description: 권한 - Marketo 문서 - 제품 설명서
+description: Admin Console의 Dynamic Chat 권한 및 제품 프로필에 대해 알아봅니다. 기존 프로필을 편집하거나 특정 권한으로 사용자 지정 프로필을 만듭니다.
 title: 권한
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '728'
 ht-degree: 4%
 
 ---

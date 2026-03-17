@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359870
-description: 업로드된 이미지 또는 파일의 URL 찾기 - Marketo 문서 - 제품 설명서
+description: Marketo에서 업로드된 이미지 또는 파일의 URL을 찾는 방법에 대해 알아봅니다. 이메일 또는 외부 페이지에서 사용할 자산 URL을 가져옵니다.
 title: 업로드된 이미지 또는 파일의 URL 찾기
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 29%
+source-wordcount: '77'
+ht-degree: 24%
 
 ---
 

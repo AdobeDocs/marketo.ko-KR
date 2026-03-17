@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359608
-description: 양식 글꼴 모음 변경 - Marketo 문서 - 제품 설명서
+description: Marketo에서 양식 글꼴 모음을 변경하는 방법을 알아봅니다. 양식 텍스트에 사용할 다른 글꼴을 선택합니다.
 title: 양식 글꼴 모음 변경
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 9%
+source-wordcount: '137'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ Google 글꼴은 훌륭하며 양식 편집기에 바로 빌드되었습니다. 
 >
 >이 설정은 양식 레이블, 입력 텍스트 및 모든 서식 있는 텍스트에 영향을 줍니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 

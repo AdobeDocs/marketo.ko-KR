@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359730
-description: 자유 형식 랜딩 페이지에 사용자 지정 HTML 추가 - Marketo 문서 - 제품 설명서
+description: Marketo의 자유 형식 랜딩 페이지에 사용자 지정 HTML을 추가하는 방법을 알아봅니다. 사용자 지정 콘텐츠 또는 추적을 위해 HTML 블록을 삽입합니다.
 title: 자유 형식 랜딩 페이지에 사용자 정의 HTML 추가
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '158'
 ht-degree: 10%
 
 ---

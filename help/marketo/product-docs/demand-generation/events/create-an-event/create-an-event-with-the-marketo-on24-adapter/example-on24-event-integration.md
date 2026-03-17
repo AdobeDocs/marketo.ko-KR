@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096679
-description: ON24 이벤트 통합 예 - Marketo 문서 - 제품 설명서
+description: Marketo과의 ON24 이벤트 통합 예제를 통해 알아보십시오. 웨비나 만들기에서 등록 동기화로의 샘플 흐름을 참조하십시오.
 title: ON24 이벤트 통합 예시
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '372'
 ht-degree: 2%
 
 ---

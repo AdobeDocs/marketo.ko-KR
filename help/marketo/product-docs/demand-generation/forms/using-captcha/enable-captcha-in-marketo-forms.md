@@ -1,12 +1,12 @@
 ---
-description: Marketo Forms - Marketo 문서 - 제품 설명서에서 CAPTCHA 활성화
+description: Marketo Forms에서 CAPTCHA를 활성화하는 방법을 알아봅니다. reCAPTCHA 또는 기타 CAPTCHA 옵션을 사용하면 스팸 제출을 줄일 수 있습니다.
 title: Marketo 양식에서 CAPTCHA 활성화
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 13%
+source-wordcount: '97'
+ht-degree: 12%
 
 ---
 

@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359679
-description: 양식 테마의 CSS 편집 - Marketo 문서 - 제품 설명서
+description: Marketo에서 양식 테마의 CSS를 편집하는 방법을 알아봅니다. 사용자 지정 스타일을 사용하여 폼의 모양을 사용자 지정합니다.
 title: 양식 테마의 CSS 편집
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 10%
+source-wordcount: '176'
+ht-degree: 11%
 
 ---
 
 # 양식 테마의 CSS 편집 {#edit-the-css-of-a-form-theme}
 
-[에서 선택할 수 있는 미리 만들어진 &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)테마가 몇 개 있습니다. 그러나 CSS 편집이 마음에 들면 원하는 대로 변경할 수 있습니다. 방법은 다음과 같습니다.
+[에서 선택할 수 있는 미리 만들어진 ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)테마가 몇 개 있습니다. 그러나 CSS 편집이 마음에 들면 원하는 대로 변경할 수 있습니다. 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
 >이 작업을 시도하려는 경우 Marketo 지원이 사용자 지정 코딩을 지원하도록 설정되지 않았으므로 CSS를 알고 있어야 합니다. 또한 변경 사항은 현재 편집 중인 양식에만 적용됩니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -27,7 +27,7 @@ ht-degree: 10%
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. **[!UICONTROL Form Settings]**(으)로 이동합니다.
+1. **[!UICONTROL Form Settings]** 으로 이동합니다.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 

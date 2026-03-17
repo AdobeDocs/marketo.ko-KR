@@ -1,12 +1,12 @@
 ---
-description: reCAPTCHA v3 설정 - Marketo 문서 - 제품 설명서
+description: Marketo forms용 reCAPTCHA v3을 설정하는 방법에 대해 알아봅니다. 사용자를 차단하지 않고 스팸과 싸우도록 보이지 않는 reCAPTCHA를 구성합니다.
 title: reCAPTCHA v3 설정
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 2%
+source-wordcount: '315'
+ht-degree: 3%
 
 ---
 
@@ -86,7 +86,7 @@ ReCAPTCHA v3은 텍스트, 이미지 또는 버튼 문제를 사용하지 않고
 
    ![](assets/setting-up-recaptcha-v3-7.png)
 
-1. **[!UICONTROL Secret Key]** 및 **[!UICONTROL Site Key]**&#x200B;을(를) 삽입합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Secret Key]** 및 **[!UICONTROL Site Key]**&#x200B;을(를) 삽입합니다. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/setting-up-recaptcha-v3-8.png)
 

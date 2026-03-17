@@ -1,12 +1,12 @@
 ---
-description: 활동 로그 - Marketo 문서 - 제품 설명서
+description: Dynamic Chat의 생성 AI 활동 로그에 대해 알아봅니다. 모든 작업, 소유자, 유형을 보고 기록을 편집합니다.
 title: 활동 로그
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 8%
+source-wordcount: '62'
+ht-degree: 11%
 
 ---
 

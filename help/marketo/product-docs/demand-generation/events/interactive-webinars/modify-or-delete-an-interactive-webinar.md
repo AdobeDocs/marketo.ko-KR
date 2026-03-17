@@ -1,11 +1,11 @@
 ---
-description: 대화형 웨비나 수정 또는 삭제 - Marketo 문서 - 제품 설명서
+description: Marketo에서 대화형 웨비나를 수정하거나 삭제하는 방법에 대해 알아봅니다. 더 이상 필요하지 않은 경우 설정을 업데이트하거나 웨비나를 제거합니다.
 title: 대화형 웨비나 수정 또는 삭제
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '324'
 ht-degree: 4%
 
 ---

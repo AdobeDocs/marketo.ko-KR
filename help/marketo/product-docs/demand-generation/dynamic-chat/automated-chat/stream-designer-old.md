@@ -1,12 +1,12 @@
 ---
-description: Stream Designer - Marketo 문서 - 제품 설명서
+description: 카드로 채팅 대화를 구축하기 위한 Stream Designer에 대해 알아봅니다. 메시지, 질문, 문서 및 모임 예약으로 구성된 모양 대화 상자.
 title: 스트림 디자이너
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1103'
+source-wordcount: '1117'
 ht-degree: 2%
 
 ---
@@ -141,7 +141,7 @@ ht-degree: 2%
 
    ![](assets/stream-designer-14.png)
 
-1. 응답을 입력하고 방문자에 대한 응답 선택 사항을 추가합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 응답을 입력하고 방문자에 대한 응답 선택 사항을 추가합니다. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/stream-designer-15.png)
 

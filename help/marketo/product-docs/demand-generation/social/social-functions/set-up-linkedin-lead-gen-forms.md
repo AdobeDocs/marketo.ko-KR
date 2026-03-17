@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12976798
-description: LinkedIn 리드 세대 Forms - Marketo 문서 - 제품 설명서 설정
+description: Marketo과 함께 LinkedIn 리드 세대 Forms을 설정하는 방법에 대해 알아봅니다. LinkedIn을 연결하고 LaunchPoint를 통해 Marketo에 리드 광고 제출을 동기화합니다.
 title: LinkedIn 리드 생성 양식 설정
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '489'
 ht-degree: 4%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 대화형 웨비나의 다양한 참여 도구에 대해 알아봅니다.
+description: 대화형 웨비나의 참여 도구에 대해 알아봅니다. 설문 조사, Q&A 및 기타 기능을 사용하여 웨비나 중 참석자 상호 작용을 높이십시오.
 title: 대화형 웨비나의 참여 도구
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1270'
+source-wordcount: '1280'
 ht-degree: 0%
 
 ---

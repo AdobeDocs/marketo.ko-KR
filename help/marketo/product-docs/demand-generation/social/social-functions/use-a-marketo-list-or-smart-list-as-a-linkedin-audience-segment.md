@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504180
-description: Marketo 목록 또는 스마트 목록을 LinkedIn 대상 세그먼트로 사용 - Marketo 문서 - 제품 설명서
+description: Marketo 목록 또는 스마트 목록을 LinkedIn 대상 세그먼트로 사용하는 방법에 대해 알아봅니다. 광고 Bridge을 통해 광고 타깃팅을 위해 목록을 LinkedIn에 보냅니다.
 title: Marketo 목록 또는 스마트 목록을 LinkedIn 대상자 세그먼트로 사용
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '194'
 ht-degree: 15%
 
 ---
@@ -55,7 +55,7 @@ Marketo Engage 사용자와 LinkedIn 대상을 통합합니다.
    >
    >LinkedIn은 2018년 3월 &quot;대상자 지우기 및 리드 추가&quot; 푸시 유형에 사용되는 API를 더 이상 사용하지 않습니다. 이 옵션은 Marketo의 2018년 1분기 릴리스부터 더 이상 사용할 수 없습니다.
 
-1. _[!UICONTROL Push Type]_&#x200B;선택.**[!UICONTROL Update]**&#x200B;를 클릭합니다.
+1. _[!UICONTROL Push Type]_선택.**[!UICONTROL Update]**를 클릭합니다.
 
    ![](assets/list-as-a-linkedin-audience-segment-7.png)
 

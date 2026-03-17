@@ -1,14 +1,14 @@
 ---
-description: 이벤트 상한 설정 - Marketo 문서 - 제품 설명서
+description: Marketo에서 이벤트 상한을 설정하는 방법에 대해 알아봅니다. 이벤트 프로그램에 대한 등록자 또는 참석자 수를 제한하십시오.
 title: 이벤트 상한 설정
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 4%
+source-wordcount: '194'
+ht-degree: 5%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 4%
 
    ![](assets/setting-an-event-cap-4.png)
 
-1. **[!UICONTROL Registration Full Page]** 드롭다운을 클릭하고 등록 전체 페이지로 사용할 랜딩 페이지를 선택합니다. 완료되면 **[!UICONTROL Set and Enable]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Registration Full Page]** 드롭다운을 클릭하고 등록 전체 페이지로 사용할 랜딩 페이지를 선택합니다. 완료되면 **[!UICONTROL Set and Enable]**&#x200B;를 클릭합니다.
 
    ![](assets/setting-an-event-cap-5.png)
 

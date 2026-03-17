@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359575
-description: 양식 미리 보기 - Marketo 문서 - 제품 설명서
+description: 게시하기 전에 Marketo에서 양식을 미리 보는 방법에 대해 알아봅니다. 데스크탑 및 모바일에서 레이아웃과 동작을 확인합니다.
 title: 양식 미리보기
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 9%
+source-wordcount: '75'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 게시하기 전에 이 빠르고 간단한 양식 미리 보기에서 양식을 볼 수 있습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/preview-a-form-1.png)
 

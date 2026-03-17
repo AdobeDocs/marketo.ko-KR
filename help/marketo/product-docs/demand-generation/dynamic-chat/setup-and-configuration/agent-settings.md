@@ -1,11 +1,11 @@
 ---
-description: 에이전트 설정 - Marketo 문서 - 제품 설명서
+description: Dynamic Chat에서 에이전트 일정 및 모임 또는 라이브 채팅 가용성을 구성하는 방법에 대해 알아봅니다. 약속 예약에 Outlook 또는 Gmail을 연결합니다.
 title: 에이전트 설정
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '621'
 ht-degree: 1%
 
 ---
@@ -90,7 +90,7 @@ Google으로 구성 은 Dynamic Chat에 다음 권한을 부여합니다.
 
 >[!IMPORTANT]
 >
->* 에이전트 받은 편지함 [의 &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"}가용성 전환&#x200B;**이(가)**&#x200B;실시간 채팅 가용성&#x200B;_탭에 입력한 내용을 재정의합니다_. 따라서 에이전트가 1p-5p에서 사용 가능으로 예약되어 있지만 3p에 잠시 쉬어야 하는 경우에는 에이전트 설정을 변경할 필요가 없습니다. 가용성 전환 상태는 수동으로 변경될 때까지, 에이전트의 가용성에 다음 시간 블록에 도달할 때까지 또는 에이전트가 지정한 시간대의 자정까지 유지됩니다(자세한 내용은 다음 글머리 기호 참조).
+>* 에이전트 받은 편지함 [의 ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"}가용성 전환&#x200B;**이(가)**&#x200B;실시간 채팅 가용성&#x200B;_탭에 입력한 내용을 재정의합니다_. 따라서 에이전트가 1p-5p에서 사용 가능으로 예약되어 있지만 3p에 잠시 쉬어야 하는 경우에는 에이전트 설정을 변경할 필요가 없습니다. 가용성 전환 상태는 수동으로 변경될 때까지, 에이전트의 가용성에 다음 시간 블록에 도달할 때까지 또는 에이전트가 지정한 시간대의 자정까지 유지됩니다(자세한 내용은 다음 글머리 기호 참조).
 >
 >* 에이전트가 가용성 토글을 사용하여 상태를 &quot;사용 가능&quot;으로 변경하면 해당 상태는 가용성 일정에 지정된 시간대의 자정에 자동으로 재설정(사용할 수 없음으로 전환)됩니다. 시간대를 지정하지 않으면 기본값은 UTC(협정 세계시)로 설정됩니다.
 

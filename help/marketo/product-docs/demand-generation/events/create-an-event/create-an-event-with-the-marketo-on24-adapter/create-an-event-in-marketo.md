@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096725
-description: Marketo - Marketo 문서 - 제품 설명서에서 이벤트 만들기
+description: ON24 통합을 위해 Marketo에서 이벤트를 만드는 방법을 알아봅니다. 프로그램을 설정하고 ON24 웨비나에 연결합니다.
 title: Marketo에서 이벤트 만들기
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 7%
+source-wordcount: '149'
+ht-degree: 6%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: 룸 관리 - Marketo 문서 - 제품 설명서
+description: 대화형 웨비나를 위한 룸 관리에 대해 알아봅니다. 웨비나 룸을 만들고 관리하며 액세스 및 설정을 제어합니다.
 title: 룸 관리
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---

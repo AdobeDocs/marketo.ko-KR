@@ -1,11 +1,11 @@
 ---
-description: 대화 상자 개요 - Marketo 문서 - 제품 설명서
+description: Dynamic Chat에서 개별 채팅 대화로 대화 상자에 대해 알아봅니다. 보고서에 표시되는 위치와 방문자를 정의하고 효율성을 모니터링합니다.
 title: 대화 개요
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '267'
 ht-degree: 7%
 
 ---

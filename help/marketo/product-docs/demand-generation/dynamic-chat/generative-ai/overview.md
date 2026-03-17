@@ -1,11 +1,11 @@
 ---
-description: 생성 AI 개요 - Marketo 문서 - 제품 설명서
+description: 에이전트 생산성 및 방문자 의도를 위한 Dynamic Chat의 생성 AI에 대해 알아봅니다. 응답 카드, 대화 요약 및 지원 응답을 사용합니다.
 title: Dynamic Chat의 생성 AI
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '463'
 ht-degree: 2%
 
 ---

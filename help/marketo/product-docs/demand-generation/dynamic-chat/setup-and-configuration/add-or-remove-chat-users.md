@@ -1,12 +1,12 @@
 ---
-description: 채팅 사용자 추가 또는 제거 - Marketo 문서 - 제품 설명서
+description: Adobe Admin Console에서 Dynamic Chat 사용자를 추가하거나 제거하는 방법을 알아봅니다. 팀에 대한 제품 프로필 할당 및 액세스 관리.
 title: 채팅 사용자 추가 또는 제거
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 8%
+source-wordcount: '247'
+ht-degree: 12%
 
 ---
 

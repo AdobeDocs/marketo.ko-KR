@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095239
-description: 스마트 캠페인에 리드 광고 필터 및 트리거 사용 - Marketo 문서 - 제품 설명서
+description: Marketo 스마트 캠페인에서 Facebook 리드 광고 필터 및 트리거를 사용하는 방법을 알아봅니다. Facebook에서 잠재 고객 제출 시 작업을 자동화합니다.
 title: 스마트 캠페인에서 리드 광고 필터 및 트리거 사용
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 26%
+source-wordcount: '84'
+ht-degree: 23%
 
 ---
 

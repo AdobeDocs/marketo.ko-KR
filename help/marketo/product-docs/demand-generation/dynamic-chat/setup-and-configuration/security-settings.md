@@ -1,11 +1,11 @@
 ---
-description: 보안 설정 - Marketo 문서 - 제품 설명서
+description: 차단되거나 허용된 도메인을 사용하여 Dynamic Chat 보안을 구성하는 방법에 대해 알아봅니다. 에이전트에게 표시되는 이메일 도메인과 채팅 스크립트를 사용할 수 있는 사이트를 제한합니다.
 title: 보안 설정
 feature: Dynamic Chat
 exl-id: 68a53986-6f42-4aa2-86f6-0b2097f94963
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '130'
 ht-degree: 3%
 
 ---

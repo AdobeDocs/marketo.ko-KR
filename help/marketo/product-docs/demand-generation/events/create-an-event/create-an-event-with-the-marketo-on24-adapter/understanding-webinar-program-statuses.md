@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096681
-description: 웨비나 프로그램 상태 이해 - Marketo 문서 - 제품 설명서
+description: ON24 및 Marketo 통합에서 웨비나 프로그램 상태에 대해 알아봅니다. 등록, 출석 및 기타 상태 값을 파악합니다.
 title: 웨비나 프로그램 상태 이해
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '424'
 ht-degree: 1%
 
 ---

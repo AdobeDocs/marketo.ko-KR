@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359880
-description: 폴더를 사용하여 이미지 및 파일 구성 - Marketo 문서 - 제품 설명서
+description: Marketo에서 폴더를 사용하여 이미지 및 파일을 구성하는 방법에 대해 알아봅니다. Design Studio에서 폴더를 만들어 자산을 정리합니다.
 title: 폴더를 사용하여 이미지 및 파일 구성
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 21%
+source-wordcount: '98'
+ht-degree: 24%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 21%
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. 폴더 이름을 지정하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. 폴더 이름을 지정하고 **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 

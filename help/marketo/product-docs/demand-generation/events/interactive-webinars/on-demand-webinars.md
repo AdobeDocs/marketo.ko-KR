@@ -1,11 +1,11 @@
 ---
-description: 온디맨드 웨비나 - Marketo 문서 - 제품 설명서
+description: Marketo 대화형 웨비나에서 온디맨드 웨비나에 대해 알아봅니다. 라이브 이벤트 후에 녹화된 웨비나를 볼 수 있도록 합니다.
 title: 온디맨드 웨비나
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359578
-description: 양식 승인 - Marketo 문서 - 제품 설명서
+description: Marketo에서 양식을 승인하는 방법을 알아봅니다. 양식을 승인하여 랜딩 페이지에서 사용할 수 있고 리드 캡처를 시작할 수 있습니다.
 title: 양식 승인
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 9%
+source-wordcount: '120'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 9%
 
 준비가 완료된 기존 양식을 승인하는 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/approve-a-form-1.png)
 

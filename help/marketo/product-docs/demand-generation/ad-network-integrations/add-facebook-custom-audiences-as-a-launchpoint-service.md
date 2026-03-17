@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720257
-description: ' [!DNL Facebook] 사용자 지정 대상 as a [!DNL LaunchPoint] 서비스 - Marketo 문서 - 제품 설명서 추가'
+description: Facebook 사용자 지정 대상을 LaunchPoint 서비스로 추가하는 방법을 알아봅니다. 광고 캠페인에서 사용자 지정 대상으로 사용할 Marketo 목록을 Facebook에 보냅니다.
 title: ' [!DNL Facebook] 서비스로  [!DNL LaunchPoint] 사용자 지정 대상 추가'
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 1%
+source-wordcount: '291'
+ht-degree: 2%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 1%
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. [!DNL Facebook]에 로그인한 후 Marketo으로 돌아갑니다. **[!UICONTROL Authorize]**&#x200B;을(를) 클릭합니다.
+1. [!DNL Facebook]에 로그인한 후 Marketo으로 돌아갑니다. **[!UICONTROL Authorize]**&#x200B;를 클릭합니다.
 
    ![](assets/fb-custom-authorize-hand.png)
 
@@ -63,10 +63,10 @@ ht-degree: 1%
 
    >[!CAUTION]
    >
-   >가기 전에 [&#x200B; 계정 내에서  [!DNL Facebook]Accept](https://www.facebook.com/ads/manage/customaudiences/tos.php)의 사용자 지정 대상 약관[!DNL Facebook]을 확인하세요! 이렇게 하지 않으면 대상자 업데이트가 실패합니다.
+   >가기 전에 [ 계정 내에서  [!DNL Facebook]Accept](https://www.facebook.com/ads/manage/customaudiences/tos.php)의 사용자 지정 대상 약관[!DNL Facebook]을 확인하세요! 이렇게 하지 않으면 대상자 업데이트가 실패합니다.
 
 >[!MORELIKETHIS]
 >
 >* [사용자 지정 대상 만들기 [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >
->* [리드 광고 설정 [!DNL Facebook] 2&rbrace;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>* [리드 광고 설정 [!DNL Facebook] 2}](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

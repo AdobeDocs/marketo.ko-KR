@@ -1,12 +1,12 @@
 ---
-description: 대화 흐름 만들기 - Marketo 문서 - 제품 설명서
+description: Dynamic Chat에서 새로운 대화형 흐름을 만드는 방법을 알아봅니다. 템플릿을 선택하고 이름 및 언어를 설정한 다음 흐름에 대한 스트림을 만듭니다.
 title: 대화 플로우 만들기
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 10%
+source-wordcount: '99'
+ht-degree: 9%
 
 ---
 

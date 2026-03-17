@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359661
-description: 양식 필드를 숨김 상태로 설정 - Marketo 문서 - 제품 설명서
+description: Marketo에서 양식 필드를 숨김으로 설정하는 방법에 대해 알아봅니다. 방문자에게 필드를 표시하지 않고 데이터를 저장합니다.
 title: 양식 필드를 숨김으로 설정
 exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '81'
 ht-degree: 22%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 22%
 
 숨겨진 양식 필드는 방문자의 입력 없이 데이터를 자동으로 캡처할 수 있습니다. 작동 방식은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-3.png)
 

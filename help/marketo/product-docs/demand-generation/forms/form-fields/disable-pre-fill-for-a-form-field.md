@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359675
-description: 양식 필드의 미리 채우기 비활성화 - Marketo 문서 - 제품 설명서
+description: Marketo에서 양식 필드에 대한 미리 채우기를 비활성화하는 방법에 대해 알아봅니다. 알려진 방문자 데이터의 필드 자동 채우기를 중지합니다.
 title: 양식 필드에 대해 미리 채우기 비활성화
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 8%
 
 ## 미리 채우기를 비활성화하는 방법 {#how-to-disable-pre-fill}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-7.png)
 

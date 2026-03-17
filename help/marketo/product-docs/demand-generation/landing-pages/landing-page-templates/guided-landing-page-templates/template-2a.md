@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516467
-description: 템플릿 2A - Marketo 문서 - 제품 설명서
+description: 템플릿 2A 안내 랜딩 페이지 템플릿에 대해 알아봅니다. 다운로드하여 Marketo 랜딩 페이지에 사용합니다.
 title: 템플릿 2A
 exl-id: dcffaab5-8944-425b-aac3-2906ce3718b1
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 7%
+source-wordcount: '69'
+ht-degree: 5%
 
 ---
 
 # 템플릿 2A {#template-2a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 2A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html?lang=ko)
+마우스 오른쪽 단추를 클릭하여 [템플릿 2A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 
@@ -29,4 +29,4 @@ ht-degree: 7%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html?lang=ko)
+[템플릿 2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)

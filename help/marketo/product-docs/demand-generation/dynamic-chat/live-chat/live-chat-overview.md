@@ -1,11 +1,11 @@
 ---
-description: 라이브 채팅 개요 - Marketo 문서 - 제품 설명서
+description: 방문자와 판매 에이전트 간의 실시간 대화를 위한 라이브 채팅에 대해 알아봅니다. 라이브 채팅 에이전트를 추가하고 라이브 채팅 카드를 사용하고 라우팅 옵션을 설정합니다.
 title: 라이브 채팅 개요
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '860'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 1%
 >
 >라이브 채팅 카드는 항상 분기의 마지막 카드여야 합니다. 카드를 지점 내 임의의 지점에 배치하면 갑자기 에이전트와 연결해 방문자를 놀라게 할 수 있다.
 
-### 우수 사례 {#best-practices}
+### 모범 사례 {#best-practices}
 
 * 라이브 채팅 카드 앞에 있는 질문 카드를 사용하여 방문자에게 연결 여부를 물어봅니다.
 * 방문자가 연결에 동의한 후 정보 캡처 카드를 사용하여 이름/성, 이메일 주소, 직책 등과 같은 일부 정보를 수집합니다. (최소 이름 및 이메일 주소를 요청하는 것이 좋습니다.)
