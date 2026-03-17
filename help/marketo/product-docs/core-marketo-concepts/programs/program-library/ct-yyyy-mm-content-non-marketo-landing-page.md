@@ -14,7 +14,7 @@ ht-degree: 9%
 
 다음은 Marketo Engage 기본 프로그램을 사용하여 Marketo Engage이 아닌 랜딩 페이지에서 콘텐츠를 다운로드하기 위한 Marketo Engage 양식이 있는 콘텐츠 프로그램의 예입니다. 이 프로그램은 웹 사이트에 임베드된 Marketo Engage 양식으로 작동하기 위한 것입니다. 오퍼/콘텐츠에 대한 링크는 감사 전자 메일로 보낼 수 있습니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 

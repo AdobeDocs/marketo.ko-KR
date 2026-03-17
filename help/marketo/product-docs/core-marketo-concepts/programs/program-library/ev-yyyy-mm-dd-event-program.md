@@ -14,7 +14,7 @@ ht-degree: 16%
 
 다음은 Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 초대 이메일 및 후속 이메일이 있는 이벤트 프로그램의 예입니다. 로드쇼, 점심 식사, 저녁 식사 또는 무역 박람회 행사의 프레젠테이션을 포함하여 등록이 필요한 모든 이벤트에 적합합니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
