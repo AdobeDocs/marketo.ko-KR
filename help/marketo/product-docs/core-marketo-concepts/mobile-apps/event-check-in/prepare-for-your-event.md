@@ -21,7 +21,7 @@ ht-degree: 2%
 
 ## 새 Marketo 역할 만들기 {#create-a-new-marketo-role}
 
-Marketo에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다. 모바일 응용 프로그램에 액세스할 수 있는 권한을 가진 [ 또는 ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 사용자에 대해 [!DNL iPad]새 Marketo 역할을 만듭니다[!DNL Android].
+Marketo에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다. 모바일 응용 프로그램에 액세스할 수 있는 권한을 가진 [&#x200B; 또는 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) 사용자에 대해 [!DNL iPad]새 Marketo 역할을 만듭니다[!DNL Android].
 
 ## 이벤트에 새 태블릿 사용자 초대 {#invite-new-tablet-users-to-the-event}
 

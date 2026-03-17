@@ -28,7 +28,7 @@ ht-degree: 4%
 
 이벤트 전:
 
-* 이벤트의 [ 또는 ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} 사용자에 대해 [!DNL iPad]새 Marketo 역할 만들기[!DNL Android]
+* 이벤트의 [&#x200B; 또는 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} 사용자에 대해 [!DNL iPad]새 Marketo 역할 만들기[!DNL Android]
 * [새 태블릿 사용자를 이벤트에 초대하고](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} 사용자에게 새 역할을 할당합니다.
 * [새 Marketo 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * 이벤트 날짜 지정
