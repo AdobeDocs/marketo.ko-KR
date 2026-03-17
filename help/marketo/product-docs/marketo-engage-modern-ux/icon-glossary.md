@@ -1,14 +1,14 @@
 ---
-description: 아이콘 용어집 - Marketo 문서 - 제품 설명서
+description: Marketo Engage Modern UX의 아이콘과 Classic에서 매핑되는 방법에 대해 알아봅니다. 이 용어집을 사용하여 자산 유형, 캠페인 상태 및 프로그램 유형을 식별합니다.
 title: 아이콘 용어집
 hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 92%
+source-wordcount: '261'
+ht-degree: 85%
 
 ---
 

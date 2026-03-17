@@ -1,12 +1,12 @@
 ---
-description: Marketo Engage 최신 UX 개요 - Marketo 설명서 - 제품 설명서
+description: Marketo Engage Modern UX와 향상된 유용성과 새로운 모양과 느낌으로 업데이트된 인터페이스에 대해 알아봅니다.
 title: Marketo Engage 최신 UX 개요
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '441'
-ht-degree: 100%
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+workflow-type: tm+mt
+source-wordcount: '452'
+ht-degree: 95%
 
 ---
 

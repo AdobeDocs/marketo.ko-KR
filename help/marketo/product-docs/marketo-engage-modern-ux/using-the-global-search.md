@@ -1,12 +1,12 @@
 ---
-description: 글로벌 검색 사용 - Marketo 문서 - 제품 설명서
+description: Marketo Engage에서 글로벌 검색을 사용하여 전체 인스턴스에서 에셋을 찾는 방법에 대해 알아봅니다. 검색을 수행하고 탐색 표시를 클릭하여 항목으로 이동하고 필터를 사용하여 결과 범위를 좁힙니다.
 title: 글로벌 검색 사용
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 8%
+source-wordcount: '170'
+ht-degree: 7%
 
 ---
 

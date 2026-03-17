@@ -1,12 +1,14 @@
 ---
-description: 토글 스위치 - Marketo Docs - 제품 설명서
+description: 전환 스위치를 사용하여 Marketo Classic과 Modern UX 간에 전환하는 방법에 대해 알아봅니다. 관리에서 역할에 대한 액세스 권한을 설정하고 개별 또는 모든 기능에 대해 활성화합니다.
 title: 토글 스위치
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
+hide: true
+hidefromtoc: true
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '266'
-ht-degree: 100%
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+workflow-type: tm+mt
+source-wordcount: '290'
+ht-degree: 89%
 
 ---
 
