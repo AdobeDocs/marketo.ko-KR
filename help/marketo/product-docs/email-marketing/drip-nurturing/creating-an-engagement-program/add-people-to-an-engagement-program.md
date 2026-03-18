@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359782
-description: 참여 프로그램에 사람 추가 - Marketo 문서 - 제품 설명서
+description: 사람들이 참여 프로그램의 구성원이 되는 방법에 대해 알아봅니다. 흐름 단계, 양식, 가져오기 또는 Salesforce 캠페인을 사용하여 멤버를 추가합니다.
 title: 참여 프로그램에 사용자 추가
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 12%
+source-wordcount: '109'
+ht-degree: 11%
 
 ---
 

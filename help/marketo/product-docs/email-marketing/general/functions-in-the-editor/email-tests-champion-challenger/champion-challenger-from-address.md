@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359559
-description: 챔피언/챌린저 - 보낸 사람 주소 - Marketo 문서 - 제품 설명서
+description: Champion/Challenger from-address 테스트를 실행하는 방법에 대해 알아봅니다. 다른 발신자 주소를 테스트하고 기준별로 우승자를 선언합니다.
 title: 챔피언/챌린저 - 보낸 주소
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---

@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: 브랜드 테마
-description: 브랜드 지침을 만들고 관리하는 방법을 알아봅니다.
+description: Marketo Engage에서 브랜드 지침을 만들고 관리하는 방법을 알아봅니다. 일관된 이메일 디자인을 위해 브랜드 테마를 설정합니다.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1097'
+source-wordcount: '1107'
 ht-degree: 1%
 
 ---
@@ -254,7 +254,7 @@ ht-degree: 1%
   </tr>
 </tbody></table>
 
-### 분할자 {#divider}
+### 구분선 {#divider}
 
 구분선에 대한 선 및 컨테이너 설정 유형을 설정합니다.
 

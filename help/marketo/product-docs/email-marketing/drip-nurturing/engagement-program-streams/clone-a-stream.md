@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359789
-description: 스트림 복제 - Marketo 문서 - 제품 설명서
+description: 테스트를 위해 참여 프로그램 스트림을 복제하는 방법을 알아봅니다. 스트림 톱니바퀴 아이콘에서 복제하고 새 스트림에 케이던스를 설정합니다.
 title: 스트림 복제
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 7%
+source-wordcount: '94'
+ht-degree: 6%
 
 ---
 

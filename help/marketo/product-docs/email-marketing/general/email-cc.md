@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727995
-description: 이메일 CC - Marketo 문서 - 제품 설명서
+description: Marketo의 이메일 CC 옵션에 대해 알아봅니다. 준수 또는 가시성을 위해 필요한 경우 이메일에 CC 수신자를 추가합니다.
 title: 이메일 CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 1%
 
 ---

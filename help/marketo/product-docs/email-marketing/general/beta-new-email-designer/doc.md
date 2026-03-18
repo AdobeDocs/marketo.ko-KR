@@ -1,12 +1,12 @@
 ---
-description: 임시 문서 - Marketo 문서 - 제품 설명서
+description: 새 이메일 Designer 베타의 임시 문서. 에셋을 추가하고 베타 테스트용 디자이너를 사용합니다(목차에서 숨기기).
 title: 임시 문서
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---

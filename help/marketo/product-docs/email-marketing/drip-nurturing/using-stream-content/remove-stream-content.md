@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359915
-description: 스트림 콘텐츠 제거 - Marketo 문서 - 제품 설명서
+description: 기록을 보존할 필요가 없을 때 스트림 콘텐츠를 제거하는 방법에 대해 알아봅니다.
 title: 스트림 콘텐츠 제거
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 6%
+source-wordcount: '123'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 컨텐츠를 제거하거나 보관할 수 있습니다. 스트림 콘텐츠 제거와 달리 [보관](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)은(는) 콘텐츠에 연결된 모든 기록을 유지합니다. 일부 콘텐츠의 과거 상태를 잊어도 상관없으며, 이를 제거하려면 다음 방법을 사용하십시오.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 

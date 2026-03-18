@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096400
-description: 이메일 템플릿 만들기 - Marketo 문서 - 제품 설명서
+description: 이메일 편집기 2.0에서 이메일 템플릿을 만드는 방법을 알아봅니다. 모듈 및 편집 가능한 섹션을 사용하여 재사용 가능한 템플릿을 작성합니다.
 title: 이메일 템플릿 만들기
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 5%
+source-wordcount: '264'
+ht-degree: 16%
 
 ---
 
@@ -75,4 +75,4 @@ ht-degree: 5%
 
 >[!MORELIKETHIS]
 >
->[전자 메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[이메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

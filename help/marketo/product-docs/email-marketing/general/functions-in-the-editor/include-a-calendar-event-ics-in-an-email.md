@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900565
-description: 이메일에 달력 이벤트(.ics) 포함 - Marketo 문서 - 제품 설명서
+description: 이메일에 달력 이벤트(.ics)를 포함하는 방법을 알아봅니다. 수신자가 캘린더에 이벤트를 추가할 수 있도록 첨부 파일을 추가하십시오.
 title: 이메일에 캘린더 이벤트(.ics) 포함
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 18%
+source-wordcount: '101'
+ht-degree: 16%
 
 ---
 

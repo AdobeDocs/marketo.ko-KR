@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11371040
-description: 이메일 템플릿 구문 - Marketo 설명서 - 제품 설명서
+description: 이메일 편집기 2.0의 이메일 템플릿 구문에 대해 알아봅니다. 템플릿에 있는 모듈 및 편집 가능한 섹션에 올바른 구문을 사용하십시오.
 title: 이메일 템플릿 구문
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '2449'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '2462'
+ht-degree: 99%
 
 ---
 

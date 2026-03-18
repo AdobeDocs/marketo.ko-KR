@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900573
-description: 시스템 토큰을 이메일에 링크로 추가 - Marketo 문서 - 제품 설명서
+description: 시스템 토큰을 이메일에 링크로 추가하는 방법을 알아봅니다. 구독 취소 또는 기타 동적 링크에 대한 토큰을 링크 URL에 사용하십시오.
 title: 이메일의 링크로 시스템 토큰 추가
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 10%
+source-wordcount: '215'
+ht-degree: 9%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359659
-description: 스트림에 컨텐츠 추가 - Marketo 문서 - 제품 설명서
+description: 참여 프로그램 스트림에 이메일 또는 프로그램을 추가하는 방법을 알아봅니다. 콘텐츠 추가 버튼 또는 더하기 아이콘을 사용하여 지원을 빌드합니다.
 title: 스트림에 콘텐츠 추가
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 7%
+source-wordcount: '175'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 참여 프로그램을 만든 후에는 스트림에 콘텐츠를 추가해야 합니다. 스트림에 전자 메일 또는 프로그램을 추가할 수 있습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/add-content-to-a-stream-1.png)
 

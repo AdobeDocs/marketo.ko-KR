@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359652
-description: 참여 프로그램 만들기 - Marketo 설명서 - 제품 설명서
+description: Marketo에서 이메일 양육을 위한 참여 프로그램을 만드는 방법을 알아봅니다. 프로그램 유형으로 참여 를 선택하고 스트림 및 콘텐츠를 추가합니다.
 title: 참여 프로그램 만들기
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 74%
 
 ---
 

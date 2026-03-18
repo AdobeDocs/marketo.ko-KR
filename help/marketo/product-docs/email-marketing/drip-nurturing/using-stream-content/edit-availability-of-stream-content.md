@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359910
-description: 스트림 콘텐츠의 가용성 편집 - Marketo 문서 - 제품 설명서
+description: 스트림 콘텐츠에 대한 활성 시작 날짜 및 활성 종료 날짜를 설정하는 방법을 알아봅니다. 콘텐츠가 캐스트에서 활성화될 시기를 예약하려면 [가용성 편집]을 사용하십시오.
 title: 스트림 콘텐츠의 가용성 편집
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 11%
+source-wordcount: '116'
+ht-degree: 10%
 
 ---
 

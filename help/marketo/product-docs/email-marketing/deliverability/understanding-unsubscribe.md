@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514918
-description: 구독 취소 이해 - Marketo 문서 - 제품 설명서
+description: Marketo의 구독 취소 유형(구독 취소, 마케팅 중단, 차단 목록에 추가된)에 대해 알아봅니다. 캠페인의 각 시나리오에 대해 오른쪽 필드를 사용합니다.
 title: 구독 취소 이해
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '235'
 ht-degree: 4%
 
 ---

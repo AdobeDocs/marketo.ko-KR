@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12982909
-description: 수신자 시간대와 함께 참여 프로그램 예약 - Marketo 문서 - 제품 설명서
+description: 수신자 시간대와 참여 프로그램 캐스트의 일정을 조정하는 방법을 알아봅니다. 글로벌 게재에 대해 최소 25시간 전에 첫 번째 캐스트를 설정하십시오.
 title: 수신자 시간대에 맞춰 참여 프로그램 예약
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 7%
+source-wordcount: '202'
+ht-degree: 8%
 
 ---
 

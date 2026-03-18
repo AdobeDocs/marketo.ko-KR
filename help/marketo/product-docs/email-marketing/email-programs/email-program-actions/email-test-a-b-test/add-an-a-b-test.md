@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359491
-description: A/B 테스트 추가 - Marketo 문서 - 제품 설명서
+description: 이메일 프로그램에 A/B 테스트를 추가하는 방법을 알아봅니다. 테스트할 항목(제목, 콘텐츠, 시작 날짜/시간)을 선택하고 우승자 기준을 설정합니다.
 title: A/B 테스트 추가
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 5%
+source-wordcount: '193'
+ht-degree: 6%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 5%
 
 테스트는 이메일 서비스를 최적화하여 참여를 높일 수 있는 좋은 방법입니다. 시작하는 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/add-an-a-b-test-1.png)
 

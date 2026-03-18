@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359469
-description: 이메일 프로그램 대시보드 보기 - Marketo 문서 - 제품 설명서
+description: 이메일 프로그램 대시보드를 보는 방법에 대해 알아봅니다. 성능 지표와 프로그램 상태를 한눈에 볼 수 있습니다.
 title: 이메일 프로그램 대시보드 보기
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 4%
+source-wordcount: '231'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 4%
 
 ## 이메일 프로그램 선택 {#select-your-email-program}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 

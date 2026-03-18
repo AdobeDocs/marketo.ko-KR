@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472678
-description: 라틴어가 아닌 문자 목록 가져오기 - Marketo 문서 - 제품 설명서
+description: 이메일 프로그램의 라틴어가 아닌 문자로 목록을 가져오는 방법을 알아봅니다. 국제 대상의 인코딩 및 서식을 지정합니다.
 title: 라틴 문자가 아닌 문자 목록 가져오기
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '301'
 ht-degree: 15%
 
 ---

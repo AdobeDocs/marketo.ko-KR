@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900548
-description: 다이내믹 콘텐츠를 사용하여 이메일 미리 보기 - Marketo 문서 - 제품 설명서
+description: 다이내믹 콘텐츠가 포함된 이메일을 미리 보는 방법에 대해 알아봅니다. 보내기 전에 다른 세그먼트에 대해 변형이 렌더링되는 방법을 참조하십시오.
 title: 동적 콘텐츠를 포함한 이메일 미리보기
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 11%
+source-wordcount: '116'
+ht-degree: 10%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900589
-description: 텍스트 이메일에 추적된 링크 추가 - Marketo 문서 - 제품 설명서
+description: 텍스트 전용 이메일에 추적된 링크를 추가하는 방법을 알아봅니다. 링크 추적을 활성화하여 이메일 보고서에서 클릭수를 측정할 수 있습니다.
 title: 텍스트 이메일에 추적된 링크 추가
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '172'
 ht-degree: 8%
 
 ---

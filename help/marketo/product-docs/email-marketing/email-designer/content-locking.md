@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: 이메일 템플릿의 콘텐츠 잠금
-description: 이메일 템플릿에서 콘텐츠를 잠그는 방법에 대해 알아봅니다.
+description: 다른 사람이 편집할 수 없도록 이메일 템플릿에서 콘텐츠를 잠그는 방법에 대해 알아봅니다. 일관성을 위해 이메일 Designer의 섹션을 보호합니다.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '831'
+source-wordcount: '843'
 ht-degree: 8%
 
 ---

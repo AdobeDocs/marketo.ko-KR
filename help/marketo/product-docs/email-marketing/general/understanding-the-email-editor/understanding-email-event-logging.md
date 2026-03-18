@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147356
-description: 이메일 이벤트 로깅 이해 - Marketo 문서 - 제품 설명서
+description: Marketo의 이메일 이벤트 로깅에 대해 알아봅니다. 열기, 클릭 수 및 기타 이벤트를 추적하고 저장하는 방법을 이해합니다.
 title: 이메일 이벤트 로깅 이해
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '305'
 ht-degree: 3%
 
 ---

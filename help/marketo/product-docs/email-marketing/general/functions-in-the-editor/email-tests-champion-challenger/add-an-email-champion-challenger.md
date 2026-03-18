@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359553
-description: 이메일 챔피언/챌린저 추가 - Marketo 문서 - 제품 설명서
+description: 챔피언/챌린저 이메일 테스트를 추가하는 방법을 알아봅니다. 여러 변형을 설정하고 승자를 선택하는 방법을 정의합니다.
 title: 이메일 챔피언/챌린저 추가
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 5%
+source-wordcount: '211'
+ht-degree: 7%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->* [프로그램 만들기](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [프로그램 제작](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [전자 메일 만들기](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
 >[!CAUTION]
 >
 >챔피언/챌린저 이메일은 트리거 캠페인 및 참여 프로그램 스트림에서만 작동합니다. 일괄 메일링의 경우 이메일 프로그램의 [A/B 테스트 기능](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)을(를) 사용하십시오.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 

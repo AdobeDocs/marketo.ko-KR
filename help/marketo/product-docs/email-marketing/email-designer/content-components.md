@@ -2,15 +2,15 @@
 solution: Marketo Engage
 product: marketo
 title: 콘텐츠 구성 요소
-description: 설명.
+description: 이메일 레이아웃을 개인화하기 위한 콘텐츠 구성 요소에 대해 알아봅니다. 이메일 Designer의 구조 구성 요소 내부에 구성 요소를 추가하고 스타일을 지정합니다.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1154'
-ht-degree: 0%
+source-wordcount: '1172'
+ht-degree: 15%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 콘텐츠 구성 요소 추가 {#add-content-components}
 
-이메일에 콘텐츠 구성 요소를 추가하고 필요에 따라 조정하려면 아래 단계를 따르십시오.
+이메일에 콘텐츠 구성 요소를 추가하고 필요에 맞게 조정하려면 아래 단계를 따르십시오.
 
 1. 이메일 Designer에서 기존 콘텐츠를 사용하거나 **[!UICONTROL Structure components]**&#x200B;을(를) 빈 콘텐츠로 끌어다 놓아 이메일 레이아웃을 정의합니다. `[Learn how](content-from-scratch.md)`
 
@@ -30,13 +30,13 @@ ht-degree: 0%
 
    스크린샷
 
-1. 관련 구조 구성 요소 내부에 선택한 콘텐츠 구성 요소를 드래그하여 놓습니다.
+1. 관련 구조 구성 요소 내에서 선택한 콘텐츠 구성 요소를 드래그 앤 드롭합니다.
 
    스크린샷
 
    >[!NOTE]
    >
-   >여러 구성 요소를 단일 구조 구성 요소 및 구조 구성 요소의 각 열에 추가할 수 있습니다.
+   >단일 구조 구성 요소와 구조 구성 요소의 각 열에 여러 구성 요소를 추가할 수 있습니다.
 
 1. 오른쪽의 **[!UICONTROL Settings]** 및 **[!UICONTROL Style]** 탭을 사용하여 각 구성 요소의 특성과 스타일을 조정합니다. 예를 들어 각 구성 요소의 텍스트 스타일, 패딩 또는 여백을 변경할 수 있습니다. `[Learn more about alignment and padding](alignment-and-padding.md)`
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 콘텐츠 구성 요소 그룹에 특정 스타일을 적용하려면 **[!UICONTROL Container]** 구성 요소를 추가한 다음 원하는 콘텐츠 구성 요소를 추가할 수 있습니다. 이렇게 하면 컨테이너에 고유한 스타일을 적용할 수 있습니다. 이는 내부의 콘텐츠 구성 요소에 적용된 스타일과 다릅니다.
 
-예를 들어 **[!UICONTROL Container]** 구성 요소를 추가한 다음 해당 컨테이너 내에 [Button](#button) 구성 요소를 추가합니다. 컨테이너에는 특정 배경을 사용하고 단추에는 다른 배경을 사용할 수 있습니다.
+예를 들어 **[!UICONTROL Container]** 구성 요소를 추가한 다음 해당 컨테이너 내에 [Button](#button) 구성 요소를 추가합니다. 컨테이너에 특정 배경을 사용하고 버튼에 다른 배경을 사용할 수 있습니다.
 
 스크린샷
 
@@ -88,12 +88,12 @@ ht-degree: 0%
 
 1. 텍스트를 개인화하고 이메일 Designer 오른쪽 창의 **[!UICONTROL Settings]** 및 **[!UICONTROL Styles]** 탭에 액세스하려면 새로 추가한 구성 요소를 클릭합니다.
 
-1. 도구 모음에서 다음 옵션을 사용하여 텍스트를 변경합니다.
+1. 도구 모음에서는 다음과 같은 옵션을 사용하여 텍스트를 변경할 수 있습니다.
 
    스크린샷
 
    * **[!UICONTROL Change text style]**: 텍스트에 굵게, 기울임꼴, 밑줄 또는 취소선을 적용합니다.
-   * **맞춤 변경**: 텍스트를 왼쪽, 오른쪽, 가운데 또는 양쪽 맞춤 중에서 선택합니다.
+   * **정렬 변경**: 왼쪽, 오른쪽, 가운데 또는 양쪽 정렬 중에서 텍스트 정렬 방식을 선택합니다.
    * **[!UICONTROL Create list]**: 글머리 기호 또는 번호 목록을 텍스트에 추가합니다.
    * **[!UICONTROL Set heading]**: 텍스트에 최대 6개의 제목 수준을 추가합니다.
    * **글꼴 크기**: 텍스트의 글꼴 크기를 픽셀 단위로 선택합니다.
@@ -102,16 +102,16 @@ ht-degree: 0%
    * **[!UICONTROL Edit image]**: 텍스트 구성 요소에 이미지 또는 자산을 추가합니다. `[Learn more about asset management](../integrations/assets.md)`
    * **[!UICONTROL Change font color]**: 글꼴 색상을 선택합니다.
    * **[!UICONTROL Add personalization]**: 프로필 데이터에서 콘텐츠를 사용자 지정할 개인화 필드를 추가합니다. `[Learn more about content personalization](../personalization/personalize.md)`
-   * **[!UICONTROL Show the source code]**: 텍스트의 소스 코드를 표시합니다. 수정할 수 없습니다.
+   * **[!UICONTROL Show the source code]**: 텍스트의 소스 코드를 표시합니다. 소스 코드는 수정할 수 없습니다.
    * **[!UICONTROL Enable conditional content]**: 구성 요소의 콘텐츠를 타겟팅된 프로필로 조정하려면 조건부 콘텐츠를 추가하십시오. `[Learn more about dynamic content](../personalization/get-started-dynamic-content.md)`
    * **[!UICONTROL Duplicate]**: 텍스트 구성 요소의 복사본을 추가합니다.
    * **[!UICONTROL Delete]**: 전자 메일에서 선택한 텍스트 구성 요소를 삭제합니다.
 
-1. 텍스트 색상, 글꼴 패밀리, 테두리, 패딩, 여백 등의 다른 스타일 속성을 조정합니다. **[!UICONTROL Styles]** 탭에서.
+1. [구성 요소 설정] 창에서 텍스트 색상, 글꼴 패밀리, 테두리, 패딩, 여백 등과 같은 기타 스타일 속성을 조정합니다. **[!UICONTROL Styles]** 탭에서.
 
    스크린샷
 
-## 분할자 {#divider}
+## 구분선 {#divider}
 
 **[!UICONTROL Divider]** 구성 요소를 사용하여 전자 메일의 레이아웃과 콘텐츠를 구성하는 구분선을 삽입합니다.
 
@@ -121,7 +121,7 @@ ht-degree: 0%
 
 ## HTML {#HTML}
 
-**[!UICONTROL HTML]** 구성 요소를 사용하여 기존 HTML의 다른 부분을 복사하여 붙여 넣으십시오. 이를 통해 자유 모듈식 HTML 구성 요소를 만들어 일부 외부 콘텐츠를 재사용할 수 있습니다.
+**[!UICONTROL HTML]** 구성 요소를 사용하여 기존 HTML의 다른 부분을 복사하여 붙여 넣으십시오. 이렇게 하면 무료 모듈식 HTML 구성 요소를 만들어 일부 외부 콘텐츠를 재사용할 수 있습니다.
 
 1. **[!UICONTROL Content Components]**&#x200B;에서 **[!UICONTROL HTML]** 구성 요소를 **[!UICONTROL Structure component]**(으)로 끌어다 놓습니다.
 
@@ -135,7 +135,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->단순히 외부 콘텐츠가 이메일 Designer을 준수하도록 하기 위해, Adobe에서는 메시지를 처음부터 만들고 기존 이메일의 콘텐츠를 구성 요소로 복사할 것을 권장합니다.
+>이메일 디자이너와 호환되는 외부 콘텐츠를 만들기 위해서는 메시지를 처음부터 만들고 기존 이메일의 콘텐츠를 구성 요소로 복사하는 것이 좋습니다.
 
 ## 이미지 {#image}
 
@@ -147,7 +147,7 @@ ht-degree: 0%
 
 1. **[!UICONTROL Settings]** 탭에서 **[!UICONTROL Browse]**&#x200B;을(를) 클릭하여 에셋에서 이미지 파일을 선택하거나 **[!UICONTROL Import media]**&#x200B;을(를) 클릭하여 에셋을 Adobe Experience Manager Assets에 업로드합니다.
 
-   [!DNL Adobe Experience Manager Assets]에 대한 자세한 내용은 [Adobe Experience Manager Assets 설명서](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=ko){target="_blank"}를 참조하세요.
+   [!DNL Adobe Experience Manager Assets]에 대한 자세한 내용은 [Adobe Experience Manager Assets 설명서](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}를 참조하세요.
 
    >[!NOTE]
    >
@@ -186,7 +186,7 @@ ht-degree: 0%
 
 1. 필요한 경우 Assets에서 각 소셜 미디어의 아이콘을 변경할 수도 있습니다.
 
-1. 스타일, 여백, 테두리 등의 다른 스타일 특성을 조정합니다. **[!UICONTROL Styles]** 탭에서.
+1. [구성 요소 설정] 창에서 스타일, 여백, 테두리 등과 같은 다른 스타일 속성을 조정합니다. **[!UICONTROL Styles]** 탭에서.
 
 ## 오퍼 결정 {#offer-decision}
 

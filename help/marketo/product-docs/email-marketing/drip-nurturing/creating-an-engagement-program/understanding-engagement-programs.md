@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359647
-description: 참여 프로그램 이해 - Marketo 설명서 - 제품 설명서
+description: Marketo의 참여 프로그램, 스트림, 콘텐츠, 캐스트 및 케이던스에 대해 알아봅니다. 육성 프로그램이 어떻게 체계적으로 콘텐츠를 제시하는지 이해합니다.
 title: 참여 프로그램 이해
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '278'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '289'
+ht-degree: 93%
 
 ---
 

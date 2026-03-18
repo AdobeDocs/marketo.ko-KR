@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359483
-description: 이메일 테스트 옵션 이해 - Marketo 문서 - 제품 설명서
+description: A/B 테스트의 이메일 테스트 옵션에 대해 알아봅니다. 제목란, 전체 이메일, 보낸 사람 주소 및 날짜/시간 테스트를 이해합니다.
 title: 이메일 테스트 옵션 이해
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 11%
+source-wordcount: '109'
+ht-degree: 10%
 
 ---
 

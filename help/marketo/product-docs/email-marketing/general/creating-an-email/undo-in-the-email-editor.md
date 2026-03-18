@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900567
-description: 이메일 편집기 - Marketo 문서 - 제품 설명서에서 실행 취소
+description: 이메일 편집기에서 변경 내용을 실행 취소하는 방법을 알아봅니다. Marketo에서 이메일을 작성하는 동안 편집을 되돌립니다.
 title: 이메일 편집기에서 실행 취소
 exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 14%
+source-wordcount: '78'
+ht-degree: 12%
 
 ---
 

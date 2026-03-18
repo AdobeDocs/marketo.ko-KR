@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900575
-description: 이메일에 이메일 스크립트 토큰 추가 - Marketo 문서 - 제품 설명서
+description: 이메일에 이메일 스크립트 토큰을 추가하는 방법을 알아봅니다. 이메일 편집기에서 토큰을 사용하여 다이내믹 콘텐츠를 삽입합니다.
 title: 이메일에 이메일 스크립트 토큰 추가
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 16%
+source-wordcount: '167'
+ht-degree: 15%
 
 ---
 

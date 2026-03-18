@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359598
-description: 이메일 프로그램 대시보드를 Excel로 내보내기 - Marketo 문서 - 제품 설명서
+description: 이메일 프로그램 대시보드를 Excel로 내보내는 방법에 대해 알아봅니다. 보고 및 분석을 위한 프로그램 지표를 다운로드합니다.
 title: 이메일 프로그램 대시보드를 Excel로 내보내기
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 15%
+source-wordcount: '97'
+ht-degree: 16%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 이메일 프로그램을 실행하고 대시보드에 일부 데이터가 있으면 해당 원시 데이터를 Excel로 내보내 추가 분석할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 

@@ -1,14 +1,14 @@
 ---
 solution: Marketo Engage
 product: marketo
-description: 새로운 Adobe Marketo Engage 이메일 디자이너에 오신 것을 환영합니다.
+description: 이메일 Designer 및 드래그 앤 드롭 편집기에 대해 알아봅니다. 생산성 향상을 위해 Marketo Engage에서 이메일 템플릿을 만들고 사용자 지정합니다.
 title: 개요
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 735721e66b1cd2e21df5c2b85051d4bfee44d2e0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '659'
-ht-degree: 98%
+source-wordcount: '670'
+ht-degree: 95%
 
 ---
 

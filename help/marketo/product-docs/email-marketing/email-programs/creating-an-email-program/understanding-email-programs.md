@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953572
-description: 이메일 프로그램 이해 - Marketo 문서 - 제품 설명서
+description: 이메일 프로그램 및 컨트롤 패널에 대해 알아봅니다. 한 곳에서 이메일을 보내고, A/B 테스트를 실행하고, 대시보드를 볼 수 있습니다.
 title: 이메일 프로그램 이해
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '327'
 ht-degree: 3%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359504
-description: '"주소에서" A/B 테스트 - Marketo 문서 - 제품 설명서 사용'
+description: 주소 A/B 테스트를 실행하는 방법을 알아봅니다. 서로 다른 발신자 주소를 테스트하고 성능별로 우승자를 선택합니다.
 title: “보낸 사람 주소” A/B 테스트 사용
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '255'
 ht-degree: 2%
 
 ---

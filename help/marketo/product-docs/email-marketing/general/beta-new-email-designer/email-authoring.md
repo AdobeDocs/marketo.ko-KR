@@ -1,14 +1,14 @@
 ---
-description: 이메일 작성 - Marketo 문서 - 제품 설명서
+description: 새로운 이메일 Designer에서의 이메일 작성에 대해 알아봅니다. Marketo Engage에서 이메일을 만들고, 개인화하고, 미리 볼 수 있습니다.
 title: 이메일 작성
 hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1486'
-ht-degree: 1%
+source-wordcount: '1497'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
+>새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)&#x200B;(으)로 마이그레이션해야 합니다. 아직 마이그레이션하지 않았으며 빠른 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
 
 ## 이메일 만들기 {#create-an-email}
 
@@ -84,7 +84,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->.zip 파일 구조에는 제약 조건이 없습니다. 그러나 참조는 상대적이어야 하며 .zip 폴더의 트리 구조와 일치해야 합니다.
+>.zip 파일 구조에는 제한 사항이 없습니다. 그러나 참조는 상대적이어야 하며 .zip 폴더의 트리 구조와 일치해야 합니다.
 
 1. 템플릿 디자인 페이지에서 **HTML 가져오기**&#x200B;를 선택합니다.
 
@@ -188,13 +188,13 @@ Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs
 
 1. 캔버스에서 구조 구성 요소의 열을 직접 선택하거나 왼쪽에 표시된 _탐색 트리_&#x200B;를 사용합니다.
 
-1. 열 도구 모음에서 _[!UICONTROL Select a column]_&#x200B;도구를 클릭하고 편집할 도구를 선택합니다.
+1. 열 도구 모음에서 _[!UICONTROL Select a column]_도구를 클릭하고 편집할 도구를 선택합니다.
 
-   구조 트리에서 선택할 수도 있습니다. 해당 열에 대해 편집 가능한 매개 변수가 오른쪽의 _[!UICONTROL Settings]_&#x200B;및&#x200B;_[!UICONTROL Styles]_ 탭에 표시됩니다.
+   구조 트리에서 선택할 수도 있습니다. 해당 열에 대해 편집 가능한 매개 변수가 오른쪽의 _[!UICONTROL Settings]_및_[!UICONTROL Styles]_ 탭에 표시됩니다.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 열 속성을 편집하려면 오른쪽의 _[!UICONTROL Styles]_&#x200B;탭을 클릭하고 필요에 따라 변경합니다.
+1. 열 속성을 편집하려면 오른쪽의 _[!UICONTROL Styles]_탭을 클릭하고 필요에 따라 변경합니다.
 
    * **[!UICONTROL Background]**&#x200B;의 경우 필요에 따라 배경색을 변경합니다.
 

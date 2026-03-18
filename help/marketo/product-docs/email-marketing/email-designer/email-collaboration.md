@@ -1,12 +1,12 @@
 ---
-description: 이메일 공동 작업 - Marketo 문서 - 제품 설명서
+description: 이메일 Designer의 이메일 공동 작업 및 댓글에 대해 알아봅니다. 실시간으로 팀과의 피드백을 검토하고, 댓글을 달고, 해결합니다.
 title: 이메일 공동 작업
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '314'
 ht-degree: 2%
 
 ---

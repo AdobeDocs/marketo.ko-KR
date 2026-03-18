@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359877
-description: 소진된 콘텐츠 알림 비활성화 및 활성화 - Marketo 문서 - 제품 설명서
+description: 소진된 콘텐츠 알림을 켜거나 끄는 방법을 알아봅니다. 프로그램에 대해 [설정] 탭 및 [소진된 콘텐츠 알림] 설정을 사용합니다.
 title: 소진된 콘텐츠 알림 비활성화 및 활성화
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '95'
 ht-degree: 16%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 16%
 
 사람들이 스트림의 모든 콘텐츠를 소진하면 Marketo에서 알림을 전송할 수 있습니다. 필요에 따라 알림을 비활성화/활성화할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 

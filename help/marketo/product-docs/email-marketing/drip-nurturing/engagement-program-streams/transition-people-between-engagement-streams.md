@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359947
-description: 참여 스트림 간 사람 전환 - Marketo 문서 - 제품 설명서
+description: 전환 규칙을 설정하여 참여 스트림 간에 사람을 이동하는 방법을 알아봅니다. 가져올 스트림에 대한 규칙을 정의합니다.
 title: 참여 스트림 간 사용자 전환
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 4%
+source-wordcount: '235'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 참여 프로그램에는 두 개 이상의 스트림이 있을 수 있습니다. [스트림을 추가](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)하면 사람들이 한 스트림에서 다른 스트림으로 이동하는 방법을 정의하게 됩니다. 이를 **전환 규칙**&#x200B;이라고 합니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/ma.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12982903
-description: 수신자 시간대로 이메일 프로그램 예약 - Marketo 문서 - 제품 설명서
+description: 수신자 시간대를 사용하여 이메일 프로그램을 예약하는 방법을 알아봅니다. 25시간 또는 그 이후에 대한 게재를 설정하고 표준 시간대 동작을 선택합니다.
 title: 수신자 시간대에 맞춰 이메일 프로그램 예약
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '804'
 ht-degree: 1%
 
 ---

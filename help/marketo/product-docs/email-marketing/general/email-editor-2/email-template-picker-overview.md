@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10912237
-description: 이메일 템플릿 선택기 개요 - Marketo 문서 - 제품 설명서
+description: 이메일 편집기 2.0의 이메일 템플릿 선택기에 대해 알아봅니다. 새 이메일을 만들 때 템플릿 중에서 선택합니다.
 title: 이메일 템플릿 선택기 개요
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 3%
+source-wordcount: '267'
+ht-degree: 4%
 
 ---
 
@@ -65,5 +65,5 @@ ht-degree: 3%
 
 >[!MORELIKETHIS]
 >
->* [전자 메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [이메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 >* [전자 메일 만들기](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)

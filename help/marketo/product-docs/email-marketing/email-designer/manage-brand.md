@@ -2,14 +2,15 @@
 solution: Marketo Engage
 product: Marketo
 title: 브랜드 관리
-description: 브랜드 지침을 만들고 관리하는 방법 알아보기
+description: 이메일 Designer에서 브랜드 지침을 만들고 관리하는 방법을 알아봅니다. 이메일에 대한 브랜드 설정을 구성하고 업데이트합니다.
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1319'
+source-wordcount: '1330'
 ht-degree: 8%
 
 ---

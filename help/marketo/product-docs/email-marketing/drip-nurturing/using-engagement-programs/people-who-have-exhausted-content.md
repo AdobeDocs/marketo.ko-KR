@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359953
-description: 콘텐츠를 많이 사용한 사용자 - Marketo 문서 - 제품 설명서
+description: 모든 스트림 콘텐츠를 소진한 사용자를 찾는 방법에 대해 알아봅니다.
 title: 콘텐츠를 소진한 사용자
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 6%
+source-wordcount: '169'
+ht-degree: 7%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 6%
 
 ## 구성원 탭 {#members-tab}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/ma.png)
 

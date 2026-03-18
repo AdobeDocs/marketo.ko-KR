@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900587
-description: 전용 IP 주소를 사용하여 이메일 보내기 - Marketo 문서 - 제품 설명서
+description: Marketo에서 이메일 전송에 전용 IP 주소를 사용하는 방법을 알아봅니다. 전달성 컨설턴트로부터 IP 준비 및 DNS 설정에 대한 코칭을 받습니다.
 title: 전용 IP 주소를 사용하여 이메일 보내기
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '428'
 ht-degree: 4%
 
 ---

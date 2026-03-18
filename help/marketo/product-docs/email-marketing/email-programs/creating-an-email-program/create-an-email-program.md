@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900591
-description: 이메일 프로그램 만들기 - Marketo 문서 - 제품 설명서
+description: Marketo에서 이메일 프로그램을 만드는 방법을 알아봅니다. 한 곳에서 대상, 이메일, 일정 및 승인을 설정합니다.
 title: 이메일 프로그램 만들기
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 6%
+source-wordcount: '128'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 전자 메일 프로그램을 사용하여 여러 사람에게 전자 메일을 빠르고 쉽게 보낼 수 있습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/one.png)
 

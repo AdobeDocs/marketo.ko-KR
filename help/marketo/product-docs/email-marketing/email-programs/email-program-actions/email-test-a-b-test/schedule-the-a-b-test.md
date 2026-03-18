@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359547
-description: A/B 테스트 예약 - Marketo 문서 - 제품 설명서
+description: 이메일 프로그램에 대한 A/B 테스트를 예약하는 방법을 알아봅니다. 전송 시간과 우승자를 선언할 시기를 설정합니다.
 title: A/B 테스트 예약
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '215'
 ht-degree: 5%
 
 ---

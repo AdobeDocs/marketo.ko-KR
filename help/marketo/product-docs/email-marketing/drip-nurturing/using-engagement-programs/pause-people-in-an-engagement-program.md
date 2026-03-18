@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359949
-description: 참여 프로그램에서 직원 일시 중지 - Marketo 문서 - 제품 설명서
+description: 참여 프로그램에서 사람들이 콘텐츠 수신을 중단하도록 일시 중지하는 방법을 알아봅니다.
 title: 참여 프로그램의 사용자 일시 중지
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 10%
+source-wordcount: '122'
+ht-degree: 9%
 
 ---
 

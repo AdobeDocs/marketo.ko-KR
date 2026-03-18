@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951167
-description: 이메일 프로그램 결과 보기 - Marketo 문서 - 제품 설명서
+description: 이메일 프로그램 결과 및 성능을 확인하는 방법을 알아봅니다. 프로그램의 열기, 클릭, 바운스 및 기타 지표에 액세스합니다.
 title: 이메일 프로그램 결과 보기
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 11%
+source-wordcount: '78'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 스마트 캠페인의 [!UICONTROL Results] 탭과 마찬가지로 전자 메일 프로그램에서도 동일한 정보를 볼 수 있습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 

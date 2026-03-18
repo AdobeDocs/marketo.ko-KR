@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12983291
-description: 수신자 시간대 이해 - Marketo 문서 - 제품 설명서
+description: 이메일 프로그램의 수신자 시간대 예약에 대해 알아봅니다. 각 수신자에 대해 동일한 현지 시간에 이메일을 전송합니다.
 title: 수신자 시간대 이해
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '392'
 ht-degree: 3%
 
 ---

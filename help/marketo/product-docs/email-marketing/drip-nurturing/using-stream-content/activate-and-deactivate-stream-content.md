@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359669
-description: 스트림 콘텐츠 활성화 및 비활성화 - Marketo 문서 - 제품 설명서
+description: 참여 캐스트에 대한 스트림 콘텐츠를 활성화하고 비활성화하는 방법에 대해 알아봅니다.
 title: 스트림 콘텐츠 활성화 및 비활성화
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 9%
+source-wordcount: '129'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 9%
 
 ## 스트림 콘텐츠 활성화 {#activate-stream-content}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 

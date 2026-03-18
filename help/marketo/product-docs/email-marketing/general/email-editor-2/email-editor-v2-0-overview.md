@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11372299
-description: 이메일 편집기 v2.0 개요 - Marketo 설명서 - 제품 설명서
+description: Email Editor v2.0과 그 기능에 대해 알아봅니다. 모듈 기반 편집기 및 템플릿 선택기를 사용하여 이메일을 만들고 편집합니다.
 title: 이메일 편집기 v2.0 개요
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: bbb72b79d4d8b19a3aa986737651a3efa65449e2
-workflow-type: ht
-source-wordcount: '436'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '447'
+ht-degree: 95%
 
 ---
 

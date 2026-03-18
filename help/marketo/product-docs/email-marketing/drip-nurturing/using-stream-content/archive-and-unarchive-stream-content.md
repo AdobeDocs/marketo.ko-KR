@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359930
-description: 스트림 콘텐츠 보관 및 보관 해제 - Marketo 문서 - 제품 설명서
+description: 스트림 콘텐츠를 보관하거나 보관 해제하여 기록을 보존하는 방법에 대해 알아봅니다.
 title: 스트림 콘텐츠 보관 및 보관 취소
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '147'
 ht-degree: 8%
 
 ---

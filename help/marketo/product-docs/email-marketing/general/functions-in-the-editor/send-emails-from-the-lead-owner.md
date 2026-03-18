@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147340
-description: 리드 소유자로부터 이메일 보내기 - Marketo 문서 - 제품 설명서
+description: 잠재 고객 소유자 주소에서 이메일을 보내는 방법을 알아봅니다. 이메일에 올바른 발신자가 표시되도록 잠재 고객 소유자로부터 보내기 옵션을 사용합니다.
 title: 리드 소유자에게 이메일 보내기
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '196'
 ht-degree: 7%
 
 ---

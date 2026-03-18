@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504840
-description: 이메일 프로그램 중단 - Marketo 문서 - 제품 설명서
+description: 보내기 전 또는 전송 중에 이메일 프로그램을 중단하는 방법을 알아봅니다. 게재를 중지하고 필요에 따라 나머지 대상자를 처리합니다.
 title: 이메일 프로그램 중단
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 6%
+source-wordcount: '103'
+ht-degree: 5%
 
 ---
 

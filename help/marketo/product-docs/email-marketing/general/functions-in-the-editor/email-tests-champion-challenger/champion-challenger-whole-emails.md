@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359555
-description: 챔피언/챌린저 - 전체 이메일 - Marketo 문서 - 제품 설명서
+description: 전체 이메일을 사용하여 챔피언/챌린저 테스트를 실행하는 방법을 알아봅니다. 다양한 이메일 버전을 테스트하고 기준별로 우승자를 선언합니다.
 title: 챔피언/챌린저 - 전체 이메일
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 2%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 

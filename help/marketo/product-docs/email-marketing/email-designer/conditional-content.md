@@ -2,12 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: 조건부 콘텐츠
-description: 이메일의 조건부 콘텐츠를 사용하여 수신자에 따라 콘텐츠를 동적으로 표시할 수 있습니다.
+description: 수신자별로 다른 콘텐츠를 표시하기 위한 조건부 콘텐츠에 대해 알아봅니다. 이메일 Designer의 규칙을 사용하여 이메일을 개인화합니다.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
+exl-id: 979ef9db-920f-466f-8c7d-e9de1ee4cf00
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '308'
 ht-degree: 2%
 
 ---

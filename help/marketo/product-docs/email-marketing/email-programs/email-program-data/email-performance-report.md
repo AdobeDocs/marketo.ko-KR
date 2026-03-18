@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359467
-description: 이메일 성과 보고서 - Marketo 설명서 - 제품 설명서
+description: 이메일 성과 보고서를 만들고 사용하는 방법을 알아봅니다. 열기, 클릭 수, 바운스 수 및 기타 이메일 지표를 추적합니다.
 title: 이메일 성과 보고서
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '489'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '500'
+ht-degree: 96%
 
 ---
 

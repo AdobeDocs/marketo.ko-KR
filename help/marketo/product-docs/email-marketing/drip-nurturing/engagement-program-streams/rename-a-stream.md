@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359832
-description: 스트림 이름 바꾸기 - Marketo 문서 - 제품 설명서
+description: 참여 프로그램 스트림의 이름을 변경하는 방법을 알아봅니다.
 title: 스트림 이름 변경
 exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '58'
 ht-degree: 10%
 
 ---

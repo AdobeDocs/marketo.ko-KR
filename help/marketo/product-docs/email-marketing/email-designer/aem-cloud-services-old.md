@@ -1,14 +1,14 @@
 ---
 title: Experience Manager 문서 연결
-description: Adobe Experience Manager Assets를 활용할 수 있도록 Adobe Marketo Engage Cloud Services를 AEM에 연결하는 방법을 알아봅니다.
+description: AEM Cloud Services를 Marketo Engage에 연결하는 방법에 대해 알아봅니다. 디자이너에서 이메일을 작성할 때 AEM 에셋을 사용합니다.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

@@ -2,16 +2,16 @@
 solution: Marketo Engage
 product: marketo
 title: 제목
-description: 재사용 가능한 테마 및 모듈을 사용하여 이메일 생성을 간소화하고 디자인의 일관성과 효율성을 보장하는 방법을 알아봅니다.
+description: 일관된 디자인을 위해 이메일에 브랜드 테마를 적용하는 방법을 알아봅니다. 이메일 Designer에서 재사용 가능한 테마 및 모듈을 사용합니다.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '714'
 ht-degree: 4%
 
 ---

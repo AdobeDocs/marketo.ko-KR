@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147328
-description: 이메일의 하드 및 소프트 바운스 - Marketo 문서 - 제품 설명서
+description: 하드 및 소프트 바운스와 Marketo에서 이를 분류하는 방법에 대해 알아봅니다. 문제가 있는 게재를 관리하려면 이메일 일시 중단 및 이메일 부적합한 필드를 사용합니다.
 title: 이메일의 하드 및 소프트 바운스
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 15%
+source-wordcount: '298'
+ht-degree: 14%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900595
-description: 스마트 목록으로 대상 정의 - Marketo 문서 - 제품 설명서
+description: 스마트 목록으로 이메일 프로그램 대상자를 정의하는 방법을 알아봅니다. 필터를 사용하여 이메일 프로그램을 수신하는 사용자를 타겟팅합니다.
 title: 스마트 목록을 통해 대상자 정의
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 7%
+source-wordcount: '266'
+ht-degree: 8%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 7%
 >
 >대상자 정의는 이메일 프로그램이 승인되지 않은 경우에만 작동합니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 
@@ -63,7 +63,7 @@ ht-degree: 7%
 >
 >메일링이 차단된 사람들의 자세한 목록을 보려면 번호를 클릭하십시오. **참고:** 운영 전자 메일은 여전히 구독 취소됨으로 표시되어 있고 마케팅이 일시 중단된 사람들에게 전송됩니다.
 >
->![&#x200B; 타일의 &#x200B;](assets/image2014-10-23-16-3a32-3a36.png)—**[!UICONTROL Audience]** 단추를 사용하여 얼마나 많은 사용자가 이메일을 수신하는지 확인하십시오.
+>![ 타일의 ](assets/image2014-10-23-16-3a32-3a36.png)—**[!UICONTROL Audience]** 단추를 사용하여 얼마나 많은 사용자가 이메일을 수신하는지 확인하십시오.
 
 >[!MORELIKETHIS]
 >

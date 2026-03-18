@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098691
-description: 이메일 이동 - Marketo 문서 - 제품 설명서
+description: 이메일을 다른 프로그램 또는 폴더로 이동하는 방법에 대해 알아봅니다. 자산 자체를 유지하면서 이메일 자산을 재배치합니다.
 title: 이메일 이동
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '103'
 ht-degree: 10%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 한 프로그램에서 다른 프로그램으로 이메일을 이동해야 합니까? 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/move-an-email-1.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795727
-description: 수신자 시간대로 예약된 이메일 프로그램 배달 중단 - Marketo 문서 - 제품 설명서
+description: 수신자 시간대로 예약된 이메일 프로그램에 대한 게재를 중단하는 방법을 알아봅니다. 전송을 중지하고 나머지 수신자를 처리합니다.
 title: 수신자 시간대에 맞춰 예약된 이메일 프로그램 게재 중단
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '220'
 ht-degree: 9%
 
 ---

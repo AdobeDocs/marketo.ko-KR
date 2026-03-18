@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359451
-description: 기존 이메일 선택 - Marketo 문서 - 제품 설명서
+description: 이메일 프로그램에 대한 기존 이메일을 선택하는 방법을 알아봅니다. Design Studio 또는 프로그램의 로컬 이메일에서 선택하십시오.
 title: 기존 이메일 선택
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 3%
+source-wordcount: '238'
+ht-degree: 4%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 [전자 메일 프로그램을 만들고](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) 대상자를 정의하면 보내는 전자 메일을 결정할 수 있습니다. [전자 메일 프로그램에 대한 전자 메일을 새로 만들거나](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) 이미 있는 전자 메일을 선택할 수 있습니다. 이미 존재하는 항목을 선택하는 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 

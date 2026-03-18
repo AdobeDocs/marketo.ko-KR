@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: AI 어시스턴트 사용
-description: Adobe의 생성형 AI 기술을 활용하여 이메일에 유용한 텍스트 및/또는 이미지를 추가할 수 있습니다.
+description: AI Assistant를 사용하여 이메일에 텍스트 및 이미지를 추가하는 방법을 알아봅니다. 콘텐츠 아이디어를 얻으려면 이메일 Designer에서 Adobe 생성 AI를 사용하십시오.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 9%
+source-wordcount: '824'
+ht-degree: 7%
 
 ---
 

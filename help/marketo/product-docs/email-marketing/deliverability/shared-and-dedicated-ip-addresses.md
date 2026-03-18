@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912085
-description: 공유 및 전용 IP 주소 - Marketo 문서 - 제품 설명서
+description: 공유 및 전용 IP 주소와 그 장단점에 대해 알아봅니다. 전송 볼륨 및 신뢰도 목표에 적합한 옵션을 결정합니다.
 title: 공유 및 전용 IP 주소
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '446'
 ht-degree: 2%
 
 ---

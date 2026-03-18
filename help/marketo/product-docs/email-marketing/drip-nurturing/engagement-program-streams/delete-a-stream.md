@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359936
-description: 스트림 삭제 - Marketo 문서 - 제품 설명서
+description: 참여 프로그램에서 스트림을 삭제하는 방법에 대해 알아봅니다. 필요한 경우 먼저 사람들을 이동시키고 이전 데이터가 손실되지 않도록 확인합니다.
 title: 스트림 삭제
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 7%
+source-wordcount: '100'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 참여 프로그램에서 스트림을 삭제해야 하는 경우 다음과 같은 빠르고 쉬운 단계를 수행합니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 

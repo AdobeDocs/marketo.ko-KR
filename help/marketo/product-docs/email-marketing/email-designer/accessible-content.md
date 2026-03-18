@@ -1,13 +1,14 @@
 ---
 title: 액세스 가능한 콘텐츠 디자인
-description: Adobe Marketo Engage에서 이메일에 대한 액세스 가능한 콘텐츠를 디자인하는 방법을 알아봅니다.
+description: Marketo Engage에서 액세스 가능한 이메일 콘텐츠를 디자인하는 방법을 알아봅니다. 모든 수신자에게 이메일이 작동하도록 모범 사례를 적용합니다.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: 이메일, 디자인, 접근성
-source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
+exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1359'
+source-wordcount: '1365'
 ht-degree: 0%
 
 ---

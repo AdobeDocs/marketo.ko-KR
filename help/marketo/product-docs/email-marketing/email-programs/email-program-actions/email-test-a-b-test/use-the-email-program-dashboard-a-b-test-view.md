@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359549
-description: 이메일 프로그램 대시보드 사용 - A/B 테스트 보기 - Marketo 문서 - 제품 설명서
+description: 이메일 프로그램 대시보드 A/B 테스트 보기를 사용하는 방법을 알아봅니다. 우승자를 선언하기 전에 테스트 변형 및 성능을 모니터링합니다.
 title: 이메일 프로그램 대시보드 - A/B 테스트 보기 사용
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 18%
+source-wordcount: '118'
+ht-degree: 16%
 
 ---
 

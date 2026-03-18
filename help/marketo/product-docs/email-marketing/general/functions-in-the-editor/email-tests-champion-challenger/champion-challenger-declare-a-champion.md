@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359584
-description: 챔피언/챌린저 - 챔피언 선언 - Marketo 문서 - 제품 설명서
+description: 이메일 테스트의 챔피언을 선언하는 방법을 알아봅니다. 채택 변형을 선택하고 대상의 나머지 부분을 승자로 보냅니다.
 title: 챔피언/챌린저 - 챔피언 선언
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 4%
+source-wordcount: '126'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 4%
 >
 >[챔피언/도전자: 이메일 테스트 승인](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099077
-description: 시드 목록을 Marketo Engage 인스턴스로 가져오는 방법을 알아봅니다.
+description: 받은 편지함 배치 테스트를 위해 Marketo Engage에 시드 목록을 가져오는 방법을 알아봅니다. Everest를 사용하여 게재 가능성 캠페인 목록을 다운로드하고 추가합니다.
 title: 이메일 게재 기능 파워 팩 - 시드 목록을 가져오는 방법
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 0%
+source-wordcount: '326'
+ht-degree: 5%
 
 ---
 
-# 이메일 전달성 파워 팩: 시드 목록을 가져오는 방법 {#email-deliverability-power-pack-how-to-import-a-seed-list}
+# 이메일 전달성 강화 팩: 시드 목록을 가져오는 방법 {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
 시드 목록은 Google 앱, Hotmail, Yahoo! 등을 비롯한 여러 사서함 공급자의 이메일 계정 목록으로, 스팸 폴더 전달률과 받은 편지함의 비율을 비교하는 데 사용됩니다. 다음은 해당 목록을 Marketo Engage 인스턴스로 가져오는 단계입니다.
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. **[!UICONTROL Actions]** 드롭다운을 클릭하고 **[!UICONTROL Download: One Per Line]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Actions]** 드롭다운을 클릭하고 **[!UICONTROL Download: One Per Line]**&#x200B;를 선택합니다.
 
    ![](assets/email-deliverability-power-pack-4.png)
 

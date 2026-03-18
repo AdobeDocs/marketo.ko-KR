@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359567
-description: 챔피언/챌린저 - 보고서 경고 구성 - Marketo 문서 - 제품 설명서
+description: 챔피언/챌린저 분석을 보고 보고서 경고를 구성하는 방법을 알아봅니다. 테스트 성능을 추적하고 우승자가 준비되면 알림을 받습니다.
 title: 챔피언/챌린저 - 보고서 경고 구성
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '228'
 ht-degree: 1%
 
 ---

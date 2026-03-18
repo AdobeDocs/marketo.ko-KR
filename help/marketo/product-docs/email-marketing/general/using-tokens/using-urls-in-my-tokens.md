@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11382535
-description: 내 토큰에 URL 사용 - Marketo 문서 - 제품 설명서
+description: 내 토큰에 URL을 사용하는 방법에 대해 알아봅니다. 이메일의 링크 및 랜딩 페이지를 위해 토큰에 URL을 저장하고 참조합니다.
 title: 내 토큰에서 URL 사용
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 5%
+source-wordcount: '250'
+ht-degree: 4%
 
 ---
 

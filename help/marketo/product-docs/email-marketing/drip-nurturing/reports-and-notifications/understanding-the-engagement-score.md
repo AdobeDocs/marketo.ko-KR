@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359890
-description: 참여 점수 이해 - Marketo 문서 - 제품 설명서
+description: 참여 점수(0~100)와 콘텐츠 효과를 측정하는 방법에 대해 알아봅니다. 대시보드를 사용하여 콘텐츠 성능을 비교합니다.
 title: 참여 점수 이해
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '188'
 ht-degree: 4%
 
 ---

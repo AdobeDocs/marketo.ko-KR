@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900556
-description: 텍스트 전용 이메일 만들기 - Marketo 문서 - 제품 설명서
+description: Marketo에서 텍스트 전용 이메일을 만드는 방법을 알아봅니다. 일반 텍스트 캠페인에 대해 텍스트 버전을 사용하거나 대체 항목으로 사용하십시오.
 title: 텍스트 전용 이메일 만들기
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 13%
+source-wordcount: '178'
+ht-degree: 12%
 
 ---
 

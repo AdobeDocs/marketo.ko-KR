@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147344
-description: 시스템 토큰 용어집 - Marketo 문서 - 제품 설명서
+description: Marketo 이메일에서 사용할 수 있는 시스템 토큰에 대해 알아봅니다. 용어집을 사용하여 개인화에 적합한 토큰을 찾습니다.
 title: 시스템 토큰 용어집
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: bf420edcc79aa551e286302fa002df9162371873
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '228'
 ht-degree: 2%
 
 ---

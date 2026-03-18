@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2952678
-description: 경고 정보 보내기 토큰 {{SP_Send_Alert_Info}} 사용 - Marketo 문서 - 제품 설명서
+description: 이메일에서 경고 정보 보내기 토큰을 사용하는 방법을 알아봅니다. 시간 및 프로그램 이름 등 전송 세부 정보를 동적으로 삽입합니다.
 title: 경고 전송 정보 토큰 사용
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 5%
+source-wordcount: '262'
+ht-degree: 4%
 
 ---
 

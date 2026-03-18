@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359581
-description: 챔피언/챌린저 - 이메일 테스트 승인 - Marketo 문서 - 제품 설명서
+description: 챔피언/챌린저 이메일 테스트를 승인하는 방법을 알아봅니다. 승인을 완료하여 테스트를 실행하고 우승자를 선언할 수 있습니다.
 title: 챔피언/챌린저 - 이메일 테스트 승인
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '145'
 ht-degree: 6%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 6%
 >
 >[보고서 경고 구성](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 

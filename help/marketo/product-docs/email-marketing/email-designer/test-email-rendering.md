@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: Litmus로 이메일 렌더링 테스트
-description: Marketo Engage 사용자는 Litmus 계정을 통합하여 다양한 이메일 클라이언트에서 콘텐츠 렌더링을 테스트할 수 있습니다.
+description: Litmus를 사용하여 클라이언트 간에 이메일 렌더링을 테스트하는 방법을 알아봅니다. Litmus 계정을 통합하여 다양한 이메일 클라이언트에서 콘텐츠를 미리 볼 수 있습니다.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---

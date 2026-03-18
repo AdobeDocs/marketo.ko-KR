@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953419
-description: 리치 텍스트 편집기 사용 - Marketo 문서 - 제품 설명서
+description: 이메일 콘텐츠에 리치 텍스트 편집기를 사용하는 방법을 알아봅니다. 이메일 편집기에서 텍스트 서식을 지정하고, 링크를 추가하고, 콘텐츠를 스타일링합니다.
 title: 리치 텍스트 편집기 사용
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '672'
 ht-degree: 3%
 
 ---
@@ -79,7 +79,7 @@ ht-degree: 3%
 | ![—](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Bold] | **어둡고 굵게**. |
 | ![—](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Italic] | *각진, 강조 또는 인용*. |
 | ![—](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Underline] | 텍스트 아래에 줄을 넣습니다. |
-| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alignment] | 이 드롭다운을 사용하여 텍스트 및 이미지를 배치합니다. 가운데로 맞추거나 왼쪽 또는 오른쪽 정렬을 선택하거나 전체 정렬 상태로 가장자리에 펼칩니다. |  | ![—](assets/image2015-7-9-10-3a32-3a47.png) | 목록 | 드롭다운에서 글머리 기호 또는 숫자를 선택합니다. 글머리 기호는 목록이 있는 숫자와 단계가 있는 숫자에 적합합니다. |
+| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alignment] | 이 드롭다운을 사용하여 텍스트 및 이미지를 배치합니다. 가운데로 맞추거나 왼쪽 또는 오른쪽 정렬을 선택하거나 전체 정렬 상태로 가장자리에 펼칩니다. |  | ![—](assets/image2015-7-9-10-3a32-3a47.png) | List | 드롭다운에서 글머리 기호 또는 숫자를 선택합니다. 글머리 기호는 목록이 있는 숫자와 단계가 있는 숫자에 적합합니다. |
 | ![—](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Indent] | 들여쓰기를 더 많이 또는 더 적게 선택합니다. 돋보려는 단락이나 텍스트에 을 사용합니다. |
 | ![—](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Insert/Edit Link] | 웹 사이트 또는 기타 컨텐츠에 대한 링크를 넣습니다. 쉽게 변경할 수 있습니다. |
 | ![—](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Insert/Edit Image] | 그림은 천 마디의 말을 할 가치가 있다. 한 대 떨어뜨려 카메라 아이콘을 클릭하여 Design Studio를 찾아봅니다. 이미지를 나란히 드롭할 수 있습니다. |

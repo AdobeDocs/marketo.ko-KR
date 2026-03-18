@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900585
-description: 이메일 템플릿 v1.0에 편집 가능한 섹션 추가 - Marketo 문서 - 제품 설명서
+description: v1.0에서 이메일 템플릿에 편집 가능한 섹션을 추가하는 방법을 알아봅니다. 사용자가 나머지 부분을 잠근 채 특정 영역을 편집할 수 있도록 허용합니다.
 title: 이메일 템플릿 v1.0에 편집 가능한 섹션 추가
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 15%
+source-wordcount: '110'
+ht-degree: 13%
 
 ---
 

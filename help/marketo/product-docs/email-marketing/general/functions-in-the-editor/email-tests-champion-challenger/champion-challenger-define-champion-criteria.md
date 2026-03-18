@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359562
-description: 챔피언/챌린저 - 챔피언 기준 정의 - Marketo 문서 - 제품 설명서
+description: 이메일 테스트에 대한 챔피언 기준을 정의하는 방법을 알아봅니다. 챔피언/챌린저 테스트에서 우승하는 변형을 결정하는 규칙을 설정합니다.
 title: 챔피언/챌린저 - 챔피언 기준 정의
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '178'
 ht-degree: 4%
 
 ---

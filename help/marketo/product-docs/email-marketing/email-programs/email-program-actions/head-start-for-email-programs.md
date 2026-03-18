@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097202
-description: 이메일 프로그램 - Marketo 문서 - 제품 설명서 헤드 시작
+description: 이메일 프로그램의 Head Start에 대해 알아봅니다. 시간에 민감한 캠페인에 대한 기본 일정 전에 조기 예선자에게 발송합니다.
 title: 이메일 프로그램 시작
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 3%
+source-wordcount: '402'
+ht-degree: 2%
 
 ---
 

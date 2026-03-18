@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359596
-description: 이메일 프로그램에서 통신 제한 활성화/비활성화 - Marketo 문서 - 제품 설명서
+description: 이메일 프로그램에서 통신 제한을 활성화 또는 비활성화하는 방법에 대해 알아봅니다. 사람들이 프로그램에서 이메일을 받는 빈도를 제어합니다.
 title: 이메일 프로그램에서 커뮤니케이션 제한 활성화/비활성화
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 12%
+source-wordcount: '137'
+ht-degree: 13%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 12%
 >
 >통신 제한은 [관리 섹션](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)에 설정되어 있으므로 한 사람에게 너무 많은 전자 메일을 보내지 않도록 합니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-3.png)
 

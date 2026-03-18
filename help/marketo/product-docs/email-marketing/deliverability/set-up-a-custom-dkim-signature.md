@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360219
-description: 사용자 지정 DKIM 서명 설정 - Marketo 문서 - 제품 설명서
+description: Marketo에서 도메인에 대한 사용자 지정 DKIM 서명을 설정하는 방법에 대해 알아봅니다. 관리에 도메인을 추가하고 IT와 협력하여 DNS 레코드를 게시합니다.
 title: 사용자 정의 DKIM 서명 설정
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 4%
+source-wordcount: '437'
+ht-degree: 3%
 
 ---
 

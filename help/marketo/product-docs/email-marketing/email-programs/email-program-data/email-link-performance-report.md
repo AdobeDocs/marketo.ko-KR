@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359478
-description: 이메일 링크 성과 보고서 - Marketo 문서 - 제품 설명서
+description: 이메일 링크 성과 보고서를 만들고 사용하는 방법을 알아봅니다. 클릭 수 및 참여 수에 대해 이메일의 각 링크가 수행되는 방식을 확인하십시오.
 title: 이메일 링크 성과 보고서
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '232'
 ht-degree: 5%
 
 ---

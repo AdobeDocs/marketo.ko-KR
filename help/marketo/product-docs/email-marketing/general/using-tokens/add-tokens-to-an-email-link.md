@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147360
-description: 이메일 링크에 토큰 추가 - Marketo 문서 - 제품 설명서
+description: 이메일 링크에 토큰을 추가하는 방법을 알아봅니다. 개인화 및 추적을 위해 링크 URL에 동적 값을 삽입합니다.
 title: 이메일 링크에 토큰 추가
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 18%
+source-wordcount: '87'
+ht-degree: 17%
 
 ---
 

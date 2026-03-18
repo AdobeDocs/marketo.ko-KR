@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359545
-description: A/B 테스트 승자 기준 정의 - Marketo 문서 - 제품 설명서
+description: A/B 테스트 승자 기준을 정의하는 방법을 알아봅니다. 테스트에 성공한 변형을 결정하는 지표 및 임계값을 설정합니다.
 title: A/B 테스트 우승자 기준 정의
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '413'
-ht-degree: 21%
+source-wordcount: '423'
+ht-degree: 20%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 21%
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=ko" target="_blank">참여 점수</a>를 통해 콘텐츠의 효과를 확인할 수 있습니다.</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">참여 점수</a>를 통해 콘텐츠의 효과를 확인할 수 있습니다.</td>
    </tr>
    </table>
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359502
-description: '"전체 이메일" A/B 테스트 - Marketo 문서 - 제품 설명서 사용'
+description: 전체 이메일 A/B 테스트를 실행하는 방법을 알아봅니다. 다양한 이메일 버전을 테스트하고 선택한 기준에 따라 승자를 선택합니다.
 title: “전체 이메일” A/B 테스트 사용
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '269'
 ht-degree: 6%
 
 ---
@@ -45,11 +45,11 @@ ht-degree: 6%
 
 1. 두 번째 이메일을 선택합니다.
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. **[!UICONTROL Add]**&#x200B;을(를) 클릭하여 두 번째 전자 메일을 적용합니다. 슬라이더를 드래그하여 A/B 테스트를 받을 대상자의 백분율을 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

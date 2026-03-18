@@ -1,18 +1,19 @@
 ---
-title: 이미지를 HTML 템플릿으로 변환
-description: 이 코드 없는 도구를 사용하여 이미지를 편집 가능한 이메일 템플릿으로 변환합니다.
+title: 이미지를 HTML 템플릿으로 전환
+description: 이미지를 편집 가능한 HTML 이메일 템플릿으로 변환하는 방법에 대해 알아봅니다. 이메일 Designer에서 코드 없는 이미지-HTML 간 도구를 사용합니다.
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 74c8b1597bed7e2ac827bea444200dacfe4b29a5
+exl-id: 529e82aa-c00b-49ce-b561-c2448f6a7a9b
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1281'
-ht-degree: 1%
+source-wordcount: '1289'
+ht-degree: 2%
 
 ---
 
-# 이미지를 HTML 템플릿으로 변환 {#image-to-html}
+# 이미지를 HTML 템플릿으로 전환 {#image-to-html}
 
 ## 개요 {#overview}
 
@@ -23,7 +24,7 @@ ht-degree: 1%
 >[!PREREQUISITES]
 >
 >* 먼저 이메일 Designer에서 Gen-AI 기능을 사용하려면 [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에 동의해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
->* _전자 메일 템플릿 액세스_&#x200B;와 _전자 메일 템플릿 편집/생성_ 사용 권한이 [Marketo 역할에서 사용](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)되어야 합니다.
+>* _전자 메일 템플릿 액세스_&#x200B;와 _전자 메일 템플릿 편집/생성_ 사용 권한이 [Marketo 역할에서 사용](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)되어야 합니다.
 
 ## 이미지 변환 {#convert-an-image}
 

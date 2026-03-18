@@ -1,16 +1,16 @@
 ---
-description: 받은 편지함 추적기를 사용하여 게재 기능 문제를 테스트, 모니터링 및 이해합니다.
-title: 받은 편지함 추적기 자습서
+description: 이메일 게재 기능을 테스트하고 모니터링하기 위한 받은 편지함 추적기에 대해 알아봅니다. 탐색, 대시보드 및 캠페인 추적을 위해 교육 비디오에 액세스합니다.
+title: 받은 편지함 추적기 튜토리얼
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 0%
+source-wordcount: '183'
+ht-degree: 3%
 
 ---
 
-# 받은 편지함 추적기 자습서 {#inbox-tracker-tutorials}
+# 받은 편지함 추적기 튜토리얼 {#inbox-tracker-tutorials}
 
 Bird(이전의 MessageBird) 받은 편지함 추적기 플랫폼에서 제공하는 이메일 게재 기능 도구를 사용하여 게재 기능 문제를 테스트, 모니터링 및 이해합니다. Inbox Tracker는 프로그램의 인텔리전스와 이메일 렌더링/받은 편지함 테스트의 선견지명을 결합하여 이메일 성능을 극대화하는 단일 애플리케이션입니다.
 

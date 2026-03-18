@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096409
-description: 중복 컨텐츠 전송 방지 - Marketo 문서 - 제품 설명서
+description: 참여 프로그램에서 중복 이메일을 방지하거나 허용하는 시나리오에 대해 알아봅니다. 프로그램 멤버십 및 CEE 규칙을 사용하여 반복을 방지하십시오.
 title: 중복 콘텐츠 전송 방지
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '214'
 ht-degree: 7%
 
 ---

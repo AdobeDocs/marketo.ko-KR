@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359455
-description: 이메일 프로그램 예약 - Marketo 문서 - 제품 설명서
+description: 이메일 프로그램을 예약하는 방법을 알아봅니다. 게재할 날짜 및 시간을 설정하고 선택적으로 수신자 시간대를 사용합니다.
 title: 이메일 프로그램 예약
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 7%
+source-wordcount: '140'
+ht-degree: 8%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 7%
 
 전자 메일 프로그램을 만들고 대상을 정의하고 전자 메일을 선택하면 *when* 프로그램에서 전자 메일을 보내도록 할 수 있습니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 

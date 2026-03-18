@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: 이메일 콘텐츠에 사용자 정의 CSS 추가
-description: Marketo Engage의 이메일 Designer 내에서 직접 이메일 콘텐츠에 사용자 지정 CSS를 추가하는 방법을 알아봅니다.
+description: 이메일 Designer의 이메일 콘텐츠에 사용자 지정 CSS를 추가하는 방법을 알아봅니다. Marketo Engage에서 사용자 지정 코드를 사용하여 이메일 스타일을 지정합니다.
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '591'
 ht-degree: 3%
 
 ---
@@ -220,13 +220,13 @@ body {
 
 * `global-custom` 스타일 태그에 `data-disabled` 특성이 `true`(으)로 설정되어 있는지 확인하십시오. 이 경우 사용자 지정 CSS는 적용되지 않습니다.
 
-+++ 예:
+  +++ 예:
 
   ```html
   <style data-name="global-custom" type="text/css" data-disabled="true"> body: { color: red; } </style>
   ```
 
-+++
+  +++
 
 * CSS가 다른 CSS 규칙에 의해 재정의되지 않았는지 확인하십시오.
 
@@ -234,7 +234,7 @@ body {
 
    * 선언이 우선하도록 선언에 `!important`을(를) 추가해 보십시오.
 
-+++ 예:
+     +++ 예:
 
      ```css
      .acr-Form {
@@ -242,7 +242,7 @@ body {
      }
      ```
 
-+++
+     +++
 
 >[!NOTE]
 >

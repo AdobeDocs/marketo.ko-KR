@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359557
-description: 챔피언/챌린저 - 제목 줄 - Marketo 문서 - 제품 설명서
+description: 챔피언/챌린저 제목 줄 테스트를 실행하는 방법을 알아봅니다. 다양한 제목 줄을 테스트하고 기준에 따라 우승자를 선언합니다.
 title: 챔피언/챌린저 제목 줄
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '281'
 ht-degree: 2%
 
 ---

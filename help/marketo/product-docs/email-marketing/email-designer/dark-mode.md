@@ -1,12 +1,13 @@
 ---
-description: 다크 모드 - Marketo 문서 - 제품 설명서
+description: 이메일 Designer에서 다크 모드로 이메일을 디자인하는 방법을 알아봅니다. 이메일 클라이언트를 지원하기 위해 사용자 지정 다크 모드 디스플레이를 설정합니다.
 title: 다크 모드
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
+exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 2%
+source-wordcount: '1210'
+ht-degree: 1%
 
 ---
 

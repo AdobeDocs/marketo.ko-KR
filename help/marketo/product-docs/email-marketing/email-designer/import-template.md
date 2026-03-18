@@ -2,13 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: 템플릿 가져오기
-description: 클래식 편집기에서 새 이메일 Designer으로 기존 이메일 템플릿을 가져오는 방법을 알아봅니다.
+description: 클래식 편집기의 이메일 템플릿을 이메일 Designer으로 가져오는 방법을 알아봅니다.
 level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+exl-id: a4755e1c-01a0-40d5-91d1-514ec3d138f5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '756'
 ht-degree: 1%
 
 ---

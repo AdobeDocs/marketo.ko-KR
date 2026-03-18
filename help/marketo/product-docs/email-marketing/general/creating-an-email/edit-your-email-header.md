@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359453
-description: 이메일 헤더 편집 - Marketo 문서 - 제품 설명서
+description: 이메일 헤더(이름, 이메일, 회신, 제목)를 편집하는 방법을 알아봅니다. 이메일 편집기에서 헤더 필드를 설정합니다.
 title: 이메일 헤더 편집
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '200'
 ht-degree: 4%
 
 ---

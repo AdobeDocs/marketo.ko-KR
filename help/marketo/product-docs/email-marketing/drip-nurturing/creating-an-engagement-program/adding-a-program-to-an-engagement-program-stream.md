@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098134
-description: 참여 프로그램 스트림에 프로그램 추가 - Marketo 문서 - 제품 설명서
+description: 참여 스트림의 중첩 프로그램 및 이를 사용할 시기에 대해 알아봅니다. 하위 그룹, 멀티 터치 및 추가 흐름 단계를 위한 프로그램을 추가합니다.
 title: 참여 프로그램 스트림에 프로그램 추가
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '453'
-ht-degree: 3%
+source-wordcount: '462'
+ht-degree: 4%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359955
-description: 참여 스트림 성과 보고서 - Marketo 문서 - 제품 설명서
+description: 참여 스트림 성능 보고서를 만들고 실행하는 방법에 대해 알아봅니다. 프로그램 이메일을 기준으로 필터링하고 세부 스트림 통계를 확인합니다.
 title: 참여 스트림 성과 보고서
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '156'
 ht-degree: 7%
 
 ---

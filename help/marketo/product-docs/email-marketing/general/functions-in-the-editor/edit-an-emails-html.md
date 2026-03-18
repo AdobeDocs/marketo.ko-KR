@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900554
-description: 이메일의 HTML - Marketo 문서 - 제품 설명서 편집
+description: 이메일의 HTML을 직접 편집하는 방법을 알아봅니다. HTML 보기에 액세스하여 이메일 코드를 고급 변경합니다.
 title: 이메일의 HTML 편집
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 2%
+source-wordcount: '342'
+ht-degree: 4%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 2%
 
    ![](assets/two-4.png)
 
-1. 원하는 대로 변경합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 원하는 대로 변경합니다. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/three-3.png)
 
@@ -70,7 +70,7 @@ ht-degree: 2%
 
    ![](assets/six-1.png)
 
-1. 완료되면 **[!UICONTROL Close]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Close]**&#x200B;를 클릭합니다.
 
    ![](assets/seven.png)
 

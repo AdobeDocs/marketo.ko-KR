@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359834
-description: 스트림 콘텐츠 우선 순위 지정 - Marketo 문서 - 제품 설명서
+description: 끌어다 놓기로 스트림 콘텐츠의 우선 순위를 정하는 방법에 대해 알아봅니다. 콘텐츠는 각 캐스트에서 맨 위에서 맨 아래로 전달되고 콘텐츠가 두 번 전송되지 않습니다.
 title: 스트림 콘텐츠 우선순위 지정
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '117'
 ht-degree: 6%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 스트림에 콘텐츠를 추가한 후에는 우선 순위를 변경할 수 있습니다. 각 캐스트에서는 컨텐츠가 항상 맨 위에서 아래로 전달되며, 동일한 사람에게 컨텐츠가 두 번 전송되지 않습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/ma.png)
 

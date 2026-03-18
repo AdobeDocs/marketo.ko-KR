@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720710
-description: 이메일 전달성을 위한 SPF 및 DKIM 설정 - Marketo 설명서 - 제품 설명서
+description: DNS에서 SPF 및 DKIM을 설정하여 이메일 전달성을 높이는 방법을 알아봅니다. Marketo이 사용자를 대신하여 전송하고 스팸 플래그를 줄이도록 승인합니다.
 title: 이메일 전달성을 위한 SPF 및 DKIM 설정
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '421'
-ht-degree: 100%
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+workflow-type: tm+mt
+source-wordcount: '434'
+ht-degree: 94%
 
 ---
 

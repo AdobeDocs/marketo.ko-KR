@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900597
-description: 목록을 가져와서 대상자 정의 - Marketo 문서 - 제품 설명서
+description: 목록을 가져와서 이메일 프로그램 대상자를 정의하는 방법을 알아봅니다. 정적 또는 업로드한 목록을 사용하여 전송을 타깃팅합니다.
 title: 목록 가져오기를 통해 대상자 정의
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '373'
 ht-degree: 15%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 15%
 >
 >가져오는 모든 날짜/시간 필드는 중부 표준시로 처리됩니다. 다른 시간대의 날짜/시간 필드가 있는 경우 Excel 수식을 사용하여 중부 표준시(아메리카/시카고)로 변환할 수 있습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -71,7 +71,7 @@ ht-degree: 15%
 >
 >메일링이 차단된 사람들의 자세한 목록을 보려면 번호를 클릭하십시오.
 >
->![&#x200B; 타일의 &#x200B;](assets/image2014-10-23-16-3a32-3a36-1.png)—**[!UICONTROL Audience]** 단추를 사용하여 스마트 목록 조건에 따라 전자 메일을 받을 자격이 있는 사람 수를 확인합니다. 사람 수에서 차단된 수를 빼면 이메일을 받을 총 사람 수를 가져옵니다.
+>![ 타일의 ](assets/image2014-10-23-16-3a32-3a36-1.png)—**[!UICONTROL Audience]** 단추를 사용하여 스마트 목록 조건에 따라 전자 메일을 받을 자격이 있는 사람 수를 확인합니다. 사람 수에서 차단된 수를 빼면 이메일을 받을 총 사람 수를 가져옵니다.
 
 >[!TIP]
 >

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11373011
-description: 이메일 편집기 2.0으로 전환 - Marketo 문서 - 제품 설명서
+description: 이메일 편집기 2.0으로 전환에 대해 알아봅니다. 변경 사항과 클래식 편집기에서 새 경험으로 전환하는 방법을 이해합니다.
 title: 이메일 편집기 2.0으로 전환
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '618'
-ht-degree: 0%
+source-wordcount: '630'
+ht-degree: 1%
 
 ---
 
 # [!DNL Email Editor 2.0]&#x200B;(으)로 전환 {#transitioning-to-email-editor}
 
-1919년 6월 릴리스부터 모든 Marketo 구독이 [!DNL Email Editor 2.0]&#x200B;(으)로 전환되었습니다. [&#x200B; 사용 중단에 대해 &#x200B;](https://nation.marketo.com/docs/DOC-7038)자세히 알아보세요[!DNL Email Editor 1.0].
+1919년 6월 릴리스부터 모든 Marketo 구독이 [!DNL Email Editor 2.0]&#x200B;(으)로 전환되었습니다. [ 사용 중단에 대해 ](https://nation.marketo.com/docs/DOC-7038)자세히 알아보세요[!DNL Email Editor 1.0].
 
 구독 내 이메일 및 이메일 템플릿에는 버전 번호가 있어야 합니다. 버전은 자산의 요약 페이지에서 찾을 수 있습니다.
 
@@ -65,4 +65,4 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [[!DNL Email Editor 2.0] 개요](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
->* [전자 메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [이메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

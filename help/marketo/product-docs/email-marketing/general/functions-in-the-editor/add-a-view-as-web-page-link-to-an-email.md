@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900560
-description: 웹 페이지로 보기 링크를 이메일에 추가 - Marketo 문서 - 제품 설명서
+description: 전자 메일에 웹 페이지로 보기 링크를 추가하는 방법을 알아봅니다. 수신자가 영구 링크를 사용하여 브라우저에서 이메일을 열 수 있도록 허용합니다.
 title: 이메일에 '웹 페이지로 보기' 링크 추가
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 12%
+source-wordcount: '170'
+ht-degree: 11%
 
 ---
 

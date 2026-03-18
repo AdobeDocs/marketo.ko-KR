@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147354
-description: 이메일 작동 방식 - Marketo 문서 - 제품 설명서
+description: 구독을 취소한 사람에게 도달할 수 있도록 이메일을 작동하는 방법에 대해 알아봅니다. 트랜잭션 또는 필수 커뮤니케이션에 사용됩니다.
 title: 이메일을 운영화
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 5%
+source-wordcount: '166'
+ht-degree: 4%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359462
-description: 이메일 프로그램 승인/승인 취소 - Marketo 문서 - 제품 설명서
+description: 이메일 프로그램을 승인하거나 승인하지 않는 방법에 대해 알아봅니다. 승인 작업 과정을 완료하여 프로그램을 예약하고 전송합니다.
 title: 이메일 프로그램 승인/승인 취소
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 5%
+source-wordcount: '190'
+ht-degree: 7%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 5%
 
 이제 프로그램을 진행할 준비가 되었으므로 마지막 단계는 이를 승인하는 것입니다. 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -53,7 +53,7 @@ ht-degree: 5%
 
 마음이 바뀌고 외출하지 않기로 결정한 경우 이메일 프로그램의 승인을 취소할 수 있습니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities-2.png)
 

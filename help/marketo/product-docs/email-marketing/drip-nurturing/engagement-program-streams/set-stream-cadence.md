@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359665
-description: 스트림 케이던스 설정 - Marketo 문서 - 제품 설명서
+description: 참여 프로그램의 스트림 케이던스를 설정하는 방법에 대해 알아봅니다. 주별 또는 월별 출연자를 예약하고 선택적으로 수신자 시간대를 사용합니다.
 title: 스트림 케이던스 설정
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '374'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ## 케이던스 설정 {#set-cadence}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 

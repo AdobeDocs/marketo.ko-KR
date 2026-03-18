@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147352
-description: 샘플 이메일 보내기 - Marketo 문서 - 제품 설명서
+description: 실행 전에 샘플 이메일을 테스트 콘텐츠로 보내는 방법에 대해 알아봅니다. 이메일 편집기를 사용하여 본인 또는 다른 사용자에게 테스트 사본을 보냅니다.
 title: 샘플 이메일 보내기
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 7%
+source-wordcount: '313'
+ht-degree: 8%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 7%
 
 ## 샘플 이메일 보내기 {#send-a-sample-email-1}
 
-1. 이메일을 찾아 선택합니다. **[!UICONTROL Email Actions]** 드롭다운을 클릭하고 **[!UICONTROL Send Sample]**&#x200B;를 선택합니다.
+1. 이메일을 찾아 선택합니다. **[!UICONTROL Email Actions]** 드롭다운을 클릭하고 **[!UICONTROL Send Sample]**를 선택합니다.
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
    >
    >내 토큰은 이메일 프로그램에 적절한 값으로 확인됩니다.
 
-1. 게재할 이메일 주소를 하나 또는 여러 개 입력합니다. 여러 이메일 주소의 경우 쉼표를 사용하여 구분하십시오. 완료되면 **[!UICONTROL Send]**&#x200B;을(를) 클릭합니다.
+1. 게재할 이메일 주소를 하나 또는 여러 개 입력합니다. 여러 이메일 주소의 경우 쉼표를 사용하여 구분하십시오. 완료되면 **[!UICONTROL Send]**&#x200B;를 클릭합니다.
 
    ![](assets/two.png)
 
@@ -56,7 +56,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >트리거 필드는 [전자 메일 스크립팅](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting)을 사용하는 경우에만 적용할 수 있습니다.
+   >트리거 필드는 [전자 메일 스크립팅](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)을 사용하는 경우에만 적용할 수 있습니다.
 
 ## 세그먼트를 기반으로 샘플 이메일 보내기 {#send-a-sample-email-based-on-a-segment}
 

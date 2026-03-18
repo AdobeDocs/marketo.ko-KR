@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11371065
-description: 이메일에 모듈 추가 - Marketo 문서 - 제품 설명서
+description: 이메일 편집기 2.0에서 이메일에 모듈을 추가하는 방법을 알아봅니다. 레이아웃을 구축할 컨텐츠 모듈을 삽입하고 정렬합니다.
 title: 이메일에 모듈 추가
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 4%
+source-wordcount: '254'
+ht-degree: 5%
 
 ---
 
@@ -67,4 +67,4 @@ ht-degree: 4%
 
 >[!MORELIKETHIS]
 >
->[전자 메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[이메일 템플릿 구문](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
