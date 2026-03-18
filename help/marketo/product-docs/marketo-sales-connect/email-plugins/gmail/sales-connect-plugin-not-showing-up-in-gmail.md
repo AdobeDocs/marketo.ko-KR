@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352547
-description: Sales Connect 플러그인이 Gmail - Marketo 문서 - 제품 설명서에 표시되지 않음
+description: Sales Connect 플러그인이 Gmail에 표시되지 않을 때 도움을 받으십시오. 설치 및 브라우저 호환성 문제를 해결합니다.
 title: Sales Connect 플러그인이 Gmail에 표시되지 않음
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '147'
 ht-degree: 5%
 
 ---

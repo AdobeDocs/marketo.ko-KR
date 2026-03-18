@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352470
-description: Sales Connect 데이터를 사용하여 Salesforce 우선 순위 호출 보고서 만들기 - Marketo 문서 - 제품 설명서
+description: Sales Connect 데이터를 사용하여 Salesforce 우선 순위 호출 보고서를 만드는 방법을 알아봅니다. Sales Connect에서 통화 활동을 포함하는 보고서를 작성합니다.
 title: Sales Connect 데이터로 Salesforce 우선순위 통화 보고서 만들기
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '164'
 ht-degree: 12%
 
 ---

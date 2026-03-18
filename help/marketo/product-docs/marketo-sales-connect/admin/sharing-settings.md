@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746143
-description: 공유 설정 - Marketo 문서 - 제품 설명서
+description: 템플릿을 공유할 수 있는 사용자와 범주를 제어하기 위한 공유 설정을 구성하는 방법에 대해 알아봅니다.
 title: 공유 설정
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '218'
 ht-degree: 2%
 
 ---

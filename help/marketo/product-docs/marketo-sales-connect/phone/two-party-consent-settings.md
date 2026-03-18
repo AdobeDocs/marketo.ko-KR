@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45416566
-description: 서드파티 동의 설정 - Marketo 문서 - 제품 설명서
+description: Sales Connect 통화 녹화에 대한 자사 동의 설정에 대해 알아봅니다. 녹화에 동의해야 하는 주법을 준수합니다.
 title: 양 당사자 동의 설정
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 5%
+source-wordcount: '148'
+ht-degree: 6%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 5%
 
    ![](assets/five.png)
 
-1. 업로드가 완료되면 파일 관리자에서 점(세 개)을 선택하고 **[!UICONTROL Select as Consent Notice]**&#x200B;을(를) 클릭합니다. 완료되면 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. 업로드가 완료되면 파일 관리자에서 점(세 개)을 선택하고 **[!UICONTROL Select as Consent Notice]**&#x200B;을(를) 클릭합니다. 완료되면 **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/six.png)
 

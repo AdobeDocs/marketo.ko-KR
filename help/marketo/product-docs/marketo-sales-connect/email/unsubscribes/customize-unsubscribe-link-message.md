@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746186
-description: 구독 취소 링크 메시지 사용자 지정 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 구독 취소 링크 메시지를 사용자 지정하는 방법을 알아봅니다. 구독 취소 링크에 대해 수신자가 볼 수 있는 텍스트를 변경합니다.
 title: 구독 취소 링크 메시지 사용자 정의
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '196'
 ht-degree: 4%
 
 ---

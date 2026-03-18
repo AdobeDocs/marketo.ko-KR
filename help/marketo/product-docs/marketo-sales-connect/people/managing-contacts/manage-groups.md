@@ -1,13 +1,13 @@
 ---
 unique-page-id: 30081250
-description: 그룹 관리 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 그룹을 관리하는 방법을 알아봅니다. 캠페인 및 전달을 위한 연락처 그룹을 만들고, 편집하고, 공유하고, 구성합니다.
 title: 그룹 관리
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 1%
+source-wordcount: '266'
+ht-degree: 3%
 
 ---
 

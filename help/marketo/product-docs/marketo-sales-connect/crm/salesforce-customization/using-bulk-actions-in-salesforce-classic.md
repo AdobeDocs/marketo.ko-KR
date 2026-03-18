@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762794
-description: ' [!DNL Salesforce] Classic - Marketo 문서 - 제품 설명서에서 일괄 작업 사용'
+description: Sales Connect와 함께 Salesforce Classic에서 대량 작업을 사용하는 방법에 대해 알아봅니다. 한 번에 여러 리드 또는 연락처를 Sales Connect에 푸시합니다.
 title: ' [!DNL Salesforce] Classic에서 일괄 작업 사용'
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---

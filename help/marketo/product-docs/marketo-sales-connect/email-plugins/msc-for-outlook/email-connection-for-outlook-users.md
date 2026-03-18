@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727591
-description: Outlook 사용자용 이메일 연결 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 Outlook 사용자의 전자 메일 연결에 대해 알아봅니다. Outlook을 연결하여 추적된 이메일을 보내고 Salesforce에 로그인합니다.
 title: Outlook 사용자를 위한 이메일 연결
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 5%
+source-wordcount: '279'
+ht-degree: 8%
 
 ---
 
@@ -80,7 +80,7 @@ ht-degree: 5%
 
    >[!NOTE]
    >
-   >[!DNL Outlook Online (Office365)]은(는) 자체 전송 제한을 적용합니다. [자세히 알아보기](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >[!DNL Outlook Online (Office365)]은(는) 자체 전송 제한을 적용합니다. [여기에서 자세히 알아보십시오](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## [!DNL Exchange On-Premise]에 연결 중 {#connecting-to-exchange-on-premise}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352633
-description: 템플릿 즐겨찾기 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 템플릿을 즐겨찾는 방법에 대해 알아봅니다. 작성할 때 신속하게 액세스할 수 있도록 템플릿을 목록의 맨 위에 고정합니다.
 title: 템플릿 즐겨찾기
 exl-id: f2697fff-5be3-4137-9a8d-8d8f338d9627
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 8%
+source-wordcount: '84'
+ht-degree: 7%
 
 ---
 

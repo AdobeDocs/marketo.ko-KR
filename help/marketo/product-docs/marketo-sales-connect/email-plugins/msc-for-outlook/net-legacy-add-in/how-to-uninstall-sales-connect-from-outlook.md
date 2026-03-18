@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352451
-description: Outlook에서 Sales Connect를 제거하는 방법 - Marketo 문서 - 제품 설명서
+description: Outlook에서 Sales Connect 플러그인을 제거하는 방법을 알아봅니다. 필요한 경우 Outlook 데스크톱에서 추가 기능을 제거합니다.
 title: Outlook에서 Sales Connect를 제거하는 방법
 exl-id: 42e12144-665e-4560-84ad-1c0631ed0c9b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 11%
+source-wordcount: '70'
+ht-degree: 10%
 
 ---
 

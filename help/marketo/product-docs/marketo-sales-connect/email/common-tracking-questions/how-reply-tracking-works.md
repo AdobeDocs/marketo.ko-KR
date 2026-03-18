@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352482
-description: 답변 추적 작동 방식 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 회신 추적이 작동하는 방식을 이해합니다. 답글이 검색되어 Salesforce 또는 Marketo에 기록되는 방법을 알아봅니다.
 title: 회신 추적 작동 방식
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '174'
 ht-degree: 4%
 
 ---

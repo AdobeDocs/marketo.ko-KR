@@ -1,11 +1,11 @@
 ---
-description: Salesforce 활동 세부 사항 사용자 지정 구성 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 Salesforce 활동 세부 사항 사용자 지정을 구성하는 방법에 대해 알아봅니다. Salesforce에서 활동이 표시되는 방식을 사용자 지정합니다.
 title: Salesforce 활동 상세 정보 사용자 정의 구성
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '675'
 ht-degree: 2%
 
 ---

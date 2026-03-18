@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352613
-description: Campaign에 직원 추가 - Marketo 문서 - 제품 설명서
+description: 웹 앱, 사용자 페이지 또는 Gmail 및 Outlook에서 Sales Connect 캠페인에 사용자를 추가하는 방법을 알아봅니다. 첫 번째 이메일 단계를 미리 보고, 편집하고, 예약합니다.
 title: 캠페인에 사용자 추가
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '200'
 ht-degree: 5%
 
 ---

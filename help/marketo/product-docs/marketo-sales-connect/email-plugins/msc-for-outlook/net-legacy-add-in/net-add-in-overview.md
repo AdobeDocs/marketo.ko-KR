@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352457
-description: .NET 추가 기능 개요 - Marketo 문서 - 제품 설명서
+description: Outlook용 Sales Connect .NET 추가 기능에 대해 알아봅니다. 기존 추가 기능과 Outlook 데스크톱에서 작동하는 방식을 이해합니다.
 title: .NET 추가 기능 개요
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '214'
 ht-degree: 6%
 
 ---

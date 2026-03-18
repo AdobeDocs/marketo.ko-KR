@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352597
-description: 하이퍼링크가 연결된 텍스트 추가 - Marketo 문서 - 제품 설명서
+description: Sales Connect 템플릿에 하이퍼링크가 연결된 텍스트를 추가하는 방법에 대해 알아봅니다. 템플릿 편집기에서 추적 가능한 링크를 삽입하고 스타일을 지정합니다.
 title: 하이퍼링크된 텍스트 추가
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 15%
+source-wordcount: '59'
+ht-degree: 11%
 
 ---
 

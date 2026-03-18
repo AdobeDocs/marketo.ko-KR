@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352491
-description: 왜 모든 연락처가 Sales Connect로 푸시되지 않았습니까? - Marketo 설명서 - 제품 설명서
+description: 모든 연락처가 Salesforce에서 Sales Connect로 푸시되지 않은 경우 도움을 받습니다. 동기화 필터 및 연락처 기준을 이해합니다.
 title: 내 연락처 중 일부가 Sales Connect로 푸시되지 않은 이유는 무엇입니까?
 exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 17%
+source-wordcount: '91'
+ht-degree: 12%
 
 ---
 

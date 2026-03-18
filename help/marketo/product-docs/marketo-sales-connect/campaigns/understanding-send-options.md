@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352621
-description: 전송 옵션 이해 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 캠페인 이메일 단계에 대한 전송 옵션을 이해합니다. 보낼 시기를 선택하거나, 직접 보낼 작업을 만들거나, 이전 작업으로 이메일을 스레드합니다.
 title: 전송 옵션 이해
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 1%
+source-wordcount: '616'
+ht-degree: 0%
 
 ---
 

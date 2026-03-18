@@ -1,12 +1,12 @@
 ---
 unique-page-id: 18317367
-description: 캠페인 목록을 다른 사용자로 보기 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 캠페인 목록을 다른 사용자로 보는 방법에 대해 알아봅니다. 다음으로 보기 드롭다운을 관리자로 사용하여 사용자의 캠페인을 봅니다.
 title: 다른 사용자로 캠페인 목록 보기
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '94'
 ht-degree: 15%
 
 ---

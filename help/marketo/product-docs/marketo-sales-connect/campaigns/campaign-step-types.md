@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746690
-description: Campaign 단계 유형 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 캠페인 단계 유형에 대해 알아봅니다. 이메일, 호출, InMail 또는 사용자 지정 작업 단계를 추가하여 멀티채널 캠페인을 빌드합니다.
 title: 캠페인 단계 유형
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '193'
 ht-degree: 4%
 
 ---

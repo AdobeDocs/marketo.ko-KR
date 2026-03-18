@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352640
-description: 아카이브 템플릿 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 템플릿을 보관하는 방법을 알아봅니다. 사용 가능한 상태로 유지되지만 활성 목록이 정리되지 않도록 이전 템플릿을 보관합니다.
 title: 템플릿 보관
 exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 5%
+source-wordcount: '93'
+ht-degree: 4%
 
 ---
 

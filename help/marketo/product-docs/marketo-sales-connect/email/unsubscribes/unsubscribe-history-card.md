@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746184
-description: 구독 취소 기록 카드 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 구독 취소 기록 카드에 대해 알아봅니다. 개인 세부 정보 보기에서 연락처의 구독 취소 시기와 방법을 봅니다.
 title: 구독 취소 기록 카드
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 4%
+source-wordcount: '153'
+ht-degree: 3%
 
 ---
 

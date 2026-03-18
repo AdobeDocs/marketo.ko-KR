@@ -1,12 +1,12 @@
 ---
-description: Marketo 연결 설정 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 Marketo 연결을 설정하는 방법을 알아봅니다. 캠페인 및 흥미로운 순간을 위해 Marketo에 연결합니다.
 title: Marketo 연결 설정
 exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 6%
+source-wordcount: '168'
+ht-degree: 5%
 
 ---
 

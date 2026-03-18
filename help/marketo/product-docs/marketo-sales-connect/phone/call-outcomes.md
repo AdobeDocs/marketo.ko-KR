@@ -1,11 +1,11 @@
 ---
-description: 호출 결과 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 통화 결과를 이해합니다. 활동 및 처리가 Salesforce에 동기화되도록 각 호출 후 결과를 기록합니다.
 title: 통화 결과
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '175'
 ht-degree: 4%
 
 ---

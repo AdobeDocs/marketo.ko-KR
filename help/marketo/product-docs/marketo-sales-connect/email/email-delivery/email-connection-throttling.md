@@ -1,11 +1,11 @@
 ---
-description: 이메일 연결 제한 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 이메일 연결 제한에 대해 알아봅니다. 전송 제한 및 제한이 이메일 전달성을 보호하는 방법을 이해합니다.
 title: 이메일 연결 제한
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '385'
 ht-degree: 2%
 
 ---

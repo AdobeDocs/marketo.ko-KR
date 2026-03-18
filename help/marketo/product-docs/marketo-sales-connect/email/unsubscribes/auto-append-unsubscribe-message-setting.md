@@ -1,12 +1,12 @@
 ---
-description: 자동 추가 구독 취소 메시지 설정 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 자동 구독 취소 메시지 설정에 대해 알아봅니다. 판매 이메일에 자동으로 구독 취소 링크를 추가합니다.
 title: 구독 취소 메시지 자동 추가 설정
 feature: Marketo Sales Connect
 exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 4%
+source-wordcount: '208'
+ht-degree: 3%
 
 ---
 

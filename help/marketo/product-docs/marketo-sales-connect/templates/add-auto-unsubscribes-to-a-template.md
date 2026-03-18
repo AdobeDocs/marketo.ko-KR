@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352637
-description: 템플릿에 자동 구독 취소 추가 - Marketo 문서 - 제품 설명서
+description: Sales Connect 템플릿에 자동 구독 취소 를 추가하는 방법을 알아봅니다. 수신자가 옵트아웃할 수 있도록 구독 취소 링크를 포함합니다.
 title: 템플릿에 자동 구독 취소 추가
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 13%
+source-wordcount: '82'
+ht-degree: 12%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356575
-description: 대량 전송 옵션 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 대량 전송 옵션에 대해 알아봅니다. 여러 수신자에게 이메일을 보내고 시간 또는 개인화를 제어하는 방법을 선택하십시오.
 title: 일괄 게재 옵션
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 2%
+source-wordcount: '272'
+ht-degree: 4%
 
 ---
 

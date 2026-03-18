@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352587
-description: Campaign 종료됨 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 Campaign이 종료되면 도움말을 봅니다. 캠페인을 마치면 보낼 수 없는 이유와 수행할 작업을 이해합니다.
 title: 캠페인이 종료됨
 exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 8%
+source-wordcount: '89'
+ht-degree: 6%
 
 ---
 

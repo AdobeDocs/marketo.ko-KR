@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352530
-description: 명령 센터 개요 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 Command Center에 대해 알아봅니다. 이메일 작업, 보낸 메일 및 후속 작업을 한 곳에서 관리합니다.
 title: Command Center 개요
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '568'
 ht-degree: 1%
 
 ---

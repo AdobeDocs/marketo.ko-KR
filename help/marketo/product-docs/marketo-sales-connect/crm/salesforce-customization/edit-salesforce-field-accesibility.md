@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352472
-description: Salesforce 필드 액세스 편집 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 Salesforce 필드 접근성을 편집하는 방법을 알아봅니다. Sales Connect에서 Salesforce에서 읽거나 쓸 수 있는 필드를 제어합니다.
 title: Salesforce 필드 접근성 편집
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 7%
+source-wordcount: '123'
+ht-degree: 6%
 
 ---
 

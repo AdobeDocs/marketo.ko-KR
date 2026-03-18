@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352414
-description: '[!UICONTROL Team] 탭 이해 - Marketo 문서 - 제품 설명서'
+description: Sales Connect의 팀 탭 및 팀 전체 지표를 이해합니다. 템플릿, 최대 참여 시간, 종료된 거래 및 담당자 리더보드로 전송된 이메일 보기
 title: '[!UICONTROL Team] 탭 이해'
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352406
-description: 하위 팀 만들기 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 하위 팀을 만들고 사용자를 추가하는 방법에 대해 알아봅니다. 템플릿, 캠페인 및 그룹을 구성합니다.
 title: 하위 팀 만들기
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 11%
+source-wordcount: '96'
+ht-degree: 13%
 
 ---
 
@@ -53,6 +53,6 @@ ht-degree: 11%
 
    ![](assets/eight.png)
 
-1. 완료되면 **[!UICONTROL Add To Teams]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Add To Teams]**&#x200B;를 클릭합니다.
 
    ![](assets/nine.png)

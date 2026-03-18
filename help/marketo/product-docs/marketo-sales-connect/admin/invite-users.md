@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352402
-description: 사용자 초대 - Marketo 문서 - 제품 설명서
+description: Sales Connect 계정에 사용자를 초대하는 방법을 알아봅니다. 설정 및 사용자 관리를 통해 팀원을 추가하여 빠른 온보딩을 수행할 수 있습니다.
 title: 사용자 초대
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 11%
+source-wordcount: '66'
+ht-degree: 9%
 
 ---
 

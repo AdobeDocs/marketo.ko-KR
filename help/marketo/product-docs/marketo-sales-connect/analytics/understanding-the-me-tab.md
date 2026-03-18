@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352614
-description: '[!UICONTROL Me] 탭 이해 - Marketo 문서 - 제품 설명서'
+description: Sales Connect의 내 탭 및 이메일 참여 상태를 이해합니다. 보낸 이메일, 템플릿 사용 현황 및 가장 매력적인 이메일을 확인합니다.
 title: '[!UICONTROL Me] 탭 이해'
 exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352436
-description: 영업 전화 로컬 상태 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 Sales Phone 로컬 현황에 대해 알아봅니다. 응답률을 개선하기 위해 아웃바운드 통화를 할 때 로컬 발신자 ID를 표시합니다.
 title: 세일즈 전화 현지 존재
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '151'
 ht-degree: 5%
 
 ---

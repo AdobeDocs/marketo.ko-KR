@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745825
-description: Sales Connect 및 GDPR 규정 준수 - Marketo 문서 - 제품 설명서
+description: Sales Connect 및 GDPR 준수에 대해 알아봅니다. Sales Connect에서 데이터 개인 정보 보호 및 동의 요구 사항을 지원하는 방법을 이해합니다.
 title: Sales Connect 및 GDPR 규정 준수
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1299'
+source-wordcount: '1307'
 ht-degree: 1%
 
 ---

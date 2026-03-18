@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352439
-description: 템플릿 추가 방법 - Marketo 문서 - 제품 설명서
+description: Sales Connect를 사용하여 Gmail에서 작성할 때 템플릿을 추가하는 방법을 알아봅니다. 보내기 전에 템플릿을 삽입하고 개인화합니다.
 title: 템플릿을 추가하는 방법
 exl-id: b88cbca8-117c-4100-819d-90666b26b275
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 18%
+source-wordcount: '64'
+ht-degree: 15%
 
 ---
 

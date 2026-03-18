@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352612
-description: 캠페인 예약 - Marketo 문서 - 제품 설명서
+description: Sales Connect 캠페인을 예약하는 방법을 알아봅니다. 각 이메일 단계에 대한 전송 시간을 설정하거나 직원을 추가할 때 첫 번째 이메일과 동일한 시간을 사용합니다.
 title: 캠페인 예약
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '184'
 ht-degree: 3%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355755
-description: 컨텐츠 잠금 - Marketo 문서 - 제품 설명서
+description: 콘텐츠 잠금을 활성화하여 관리자가 아닌 사용자가 템플릿 및 캠페인을 편집할 수 없도록 제한하는 방법에 대해 알아봅니다.
 title: 콘텐츠 잠금
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 4%
+source-wordcount: '104'
+ht-degree: 6%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 4%
 
    ![](assets/two-4.png)
 
-1. [!UICONTROL Content Lockdown]&#x200B;(으)로 스크롤합니다. 슬라이더를 켜면 팀원이 템플릿 및/또는 캠페인을 만들거나 편집할 수 있는 기능이 _비활성화_&#x200B;됩니다.
+1. [!UICONTROL Content Lockdown]로 스크롤합니다. 슬라이더를 켜면 팀원이 템플릿 및/또는 캠페인을 만들거나 편집할 수 있는 기능이 _비활성화_&#x200B;됩니다.
 
    ![](assets/three-4.png)

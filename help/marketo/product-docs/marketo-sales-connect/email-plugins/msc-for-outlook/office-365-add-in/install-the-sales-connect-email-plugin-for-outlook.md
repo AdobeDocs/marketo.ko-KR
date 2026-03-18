@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352455
-description: Outlook용 Sales Connect 이메일 플러그인 - Marketo 문서 - 제품 설명서 설치
+description: Outlook용 Sales Connect 이메일 플러그인을 설치하는 방법을 알아봅니다. 플러그인을 추가하여 추적된 이메일을 보내고 Outlook에서 템플릿을 사용합니다.
 title: Outlook용 Sales Connect 이메일 플러그인 설치
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 6%
+source-wordcount: '194'
+ht-degree: 7%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 6%
 >
 >i. 맨 위 탐색에서 &quot;Outlook&quot; 오른쪽에 있는 도움말 단추로 이동
 >
->아.. 드롭다운 메뉴에서 **[!UICONTROL Check for Updates]** 선택
+>ii. 드롭다운 메뉴에서 **[!UICONTROL Check for Updates]** 선택
 >
 >iii. 최신 버전의 Outlook으로 업데이트하고 완료되면 다음 단계로 돌아가기
 

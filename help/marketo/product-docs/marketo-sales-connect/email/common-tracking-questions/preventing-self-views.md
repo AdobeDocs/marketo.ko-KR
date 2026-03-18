@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352540
-description: 자체 보기 방지 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 자체 보기를 방지하는 방법을 알아봅니다. 이메일을 미리 보거나 테스트할 때 직접 연 수를 계산하지 마십시오.
 title: 자체 보기 방지
 exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 3%
+source-wordcount: '274'
+ht-degree: 2%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352504
-description: 템플릿 참여 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 템플릿 작업에 대해 이해합니다. Analytics에서 보기, 클릭 수 및 답글을 가장 많이 받는 템플릿을 봅니다.
 title: 템플릿 참여
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '187'
 ht-degree: 2%
 
 ---

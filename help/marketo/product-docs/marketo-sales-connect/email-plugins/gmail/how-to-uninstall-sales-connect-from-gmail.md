@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352548
-description: Gmail - Marketo 문서 - 제품 설명서에서 Sales Connect를 제거하는 방법
+description: Gmail에서 Sales Connect 플러그인을 제거하는 방법을 알아봅니다. 필요한 경우 Gmail 계정에서 플러그인을 제거합니다.
 title: Gmail에서 Sales Connect를 제거하는 방법
 exl-id: 36032005-651f-43c8-a92a-0968b52ccb86
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 13%
+source-wordcount: '74'
+ht-degree: 12%
 
 ---
 

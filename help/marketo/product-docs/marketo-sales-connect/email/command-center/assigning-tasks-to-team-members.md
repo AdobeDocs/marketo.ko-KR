@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45417460
-description: 팀원에게 작업 할당 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 팀원에게 작업을 할당하는 방법을 알아봅니다. 명령 센터 또는 라이브 피드에서 전자 메일 또는 호출 작업을 위임할 수 있습니다.
 title: 팀원에게 작업 할당
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 12%
+source-wordcount: '121'
+ht-degree: 10%
 
 ---
 

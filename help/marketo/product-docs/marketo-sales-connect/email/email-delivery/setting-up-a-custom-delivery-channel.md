@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746470
-description: 사용자 지정 게재 채널 설정 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 사용자 정의 게재 채널을 설정하는 방법을 알아봅니다. 영업 이메일에 자체 SMTP 또는 전송 인프라를 사용합니다.
 title: 사용자 정의 게재 채널 설정
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '365'
 ht-degree: 4%
 
 ---

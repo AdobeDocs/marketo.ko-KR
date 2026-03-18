@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352592
-description: 동적 필드를 삽입하는 방법 - Marketo 문서 - 제품 설명서
+description: Sales Connect 템플릿에 동적 필드를 삽입하는 방법을 알아봅니다. 템플릿 편집기에서 이름, 회사 및 기타 병합 필드를 추가합니다.
 title: 동적 필드를 삽입하는 방법
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '235'
 ht-degree: 4%
 
 ---

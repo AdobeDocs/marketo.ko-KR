@@ -1,12 +1,12 @@
 ---
-description: Sales Connect 암호 변경 - Marketo 문서 - 제품 설명서
+description: Sales Connect 암호를 변경하는 방법을 알아봅니다. 계정의 보안을 유지하려면 설정에서 암호를 업데이트하십시오.
 title: Sales Connect 암호 변경
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 8%
+source-wordcount: '163'
+ht-degree: 11%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 8%
 
    ![](assets/change-your-sales-connect-password-2.png)
 
-1. 현재 암호를 입력합니다. 그런 다음 새 이름을 입력하고 일치하는지 다시 입력합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 현재 암호를 입력합니다. 그런 다음 새 이름을 입력하고 일치하는지 다시 입력합니다. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/change-your-sales-connect-password-3.png)
 
@@ -55,6 +55,6 @@ ht-degree: 8%
    >
    >이 이메일이 스팸 폴더로 배달되는 경우가 있으므로 스팸 폴더도 반드시 확인하십시오.
 
-1. 새 암호를 입력하고 확인합니다. 완료되면 **[!UICONTROL Set Password]**&#x200B;을(를) 클릭합니다.
+1. 새 암호를 입력하고 확인합니다. 완료되면 **[!UICONTROL Set Password]**&#x200B;를 클릭합니다.
 
    ![](assets/change-your-sales-connect-password-7.png)

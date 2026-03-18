@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352469
-description: Salesforce ID를 Sales Connect - Marketo 문서 - 제품 설명서로 가져오기
+description: Salesforce ID를 Sales Connect로 가져오는 방법을 알아봅니다. 동기화를 위해 Salesforce 레코드를 Sales Connect 연락처에 매핑합니다.
 title: Sales Connect에 Salesforce ID 가져오기
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '149'
 ht-degree: 9%
 
 ---

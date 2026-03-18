@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352484
-description: Salesforce - Marketo 문서 - 제품 설명서에 연결할 때 "요청을 인증할 수 없습니다"를 해결하는 방법
+description: Salesforce에 Sales Connect에 연결할 때 요청을 인증할 수 없습니다 오류 수정 도움말을 확인합니다. 인증 문제를 해결합니다.
 title: Salesforce에 연결할 때 “요청을 인증할 수 없습니다” 오류 해결 방법
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '157'
 ht-degree: 12%
 
 ---

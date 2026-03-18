@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352408
-description: How Can I 허용 목록에 추가하다 Sales Connect on My Server? - Marketo 설명서 - 제품 설명서
+description: 허용 목록에 추가하다 서버에서 Sales Connect를 연결하는 방법을 알아봅니다. Sales Connect에서 이메일을 보내고 추적할 수 있도록 필요한 IP 또는 도메인을 추가합니다.
 title: 내 서버에서 Sales Connect를 허용 목록에 추가하는 방법은 무엇입니까?
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 18%
+source-wordcount: '78'
+ht-degree: 11%
 
 ---
 

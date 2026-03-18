@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352490
-description: Salesforce - Marketo 문서 - 제품 설명서에 로그인하지 않음
+description: Sales Connect 활동이 Salesforce에 로그인되지 않은 경우 도움을 받습니다. 이메일, 호출 또는 작업이 동기화되지 않는 이유를 해결합니다.
 title: Salesforce에 기록되지 않음
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '88'
+ht-degree: 4%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746491
-description: 이메일 확인 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 이메일을 확인하는 방법을 알아봅니다. 추적된 판매 이메일을 보낼 수 있도록 이메일 확인을 완료합니다.
 title: 이메일 확인
 exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 9%
+source-wordcount: '84'
+ht-degree: 8%
 
 ---
 

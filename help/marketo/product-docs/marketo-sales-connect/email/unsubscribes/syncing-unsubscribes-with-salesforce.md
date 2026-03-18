@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746188
-description: Salesforce - Marketo 문서 - 제품 설명서와 구독 취소 동기화
+description: Sales Connect 가입 해지서를 Salesforce과 동기화하는 방법을 알아봅니다. 구독 취소한 연락처에 이메일을 보내지 않도록 옵트아웃 상태를 동기화에 유지합니다.
 title: Salesforce와 구독 취소 동기화
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '401'
 ht-degree: 2%
 
 ---

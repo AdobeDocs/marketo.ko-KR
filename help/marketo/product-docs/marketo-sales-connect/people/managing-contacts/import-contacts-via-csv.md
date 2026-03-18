@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352468
-description: CSV를 통해 연락처 가져오기 - Marketo 문서 - 제품 설명서
+description: CSV를 통해 Sales Connect로 연락처를 가져오는 방법을 알아봅니다. CSV 파일을 업로드하여 여러 연락처 또는 그룹을 한 번에 추가합니다.
 title: CSV를 통해 연락처 가져오기
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 9%
+source-wordcount: '124'
+ht-degree: 10%
 
 ---
 
@@ -37,6 +37,6 @@ ht-degree: 9%
 
    ![](assets/four.png)
 
-1. CSV의 열을 [!DNL Sales Connect]의 해당 필드에 매핑합니다. 완료되면 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. CSV의 열을 [!DNL Sales Connect]의 해당 필드에 매핑합니다. 완료되면 **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/five.png)

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15368208
-description: Salesforce 샌드박스에 맞춤화를 설치하는 방법 - Marketo 문서 - 제품 설명서
+description: Salesforce 샌드박스에 Sales Connect 맞춤화를 설치하는 방법을 알아봅니다. 테스트를 위해 샌드박스에 버튼과 필드를 배포합니다.
 title: Salesforce Sandbox에 사용자 정의 설치하는 방법
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 25%
+source-wordcount: '75'
+ht-degree: 26%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352627
-description: 템플릿 범주 삭제 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 템플릿 범주를 삭제하는 방법을 알아봅니다. 카테고리를 제거하고 선택적으로 해당 템플릿을 이동하거나 삭제합니다.
 title: 템플릿 카테고리 삭제
 exl-id: 99c64f83-4ff1-4355-af09-0527ca455632
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 16%
+source-wordcount: '61'
+ht-degree: 18%
 
 ---
 

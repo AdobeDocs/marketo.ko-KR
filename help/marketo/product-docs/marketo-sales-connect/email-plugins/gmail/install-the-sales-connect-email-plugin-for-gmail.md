@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352450
-description: Gmail - Marketo 문서 - 제품 설명서용 Sales Connect 이메일 플러그인 설치
+description: Gmail용 Sales Connect 이메일 플러그인을 설치하는 방법을 알아봅니다. 플러그인을 추가하여 추적된 이메일을 보내고 Gmail에서 템플릿을 사용합니다.
 title: Gmail용 Sales Connect 이메일 플러그인 설치
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 19%
+source-wordcount: '94'
+ht-degree: 20%
 
 ---
 

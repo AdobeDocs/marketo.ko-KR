@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352608
-description: Campaign에서 직원 제거 - Marketo 문서 - 제품 설명서
+description: Sales Connect 캠페인에서 사람을 제거하는 방법을 알아봅니다. 캠페인 또는 인물 페이지에서 개인을 제거하거나 그룹을 일괄적으로 제거합니다.
 title: 캠페인에서 사용자 제거
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '269'
 ht-degree: 3%
 
 ---

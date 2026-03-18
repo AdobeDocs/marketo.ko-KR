@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352609
-description: Campaign 끄기 - Marketo 문서 - 제품 설명서
+description: 수신자가 회신할 때 Sales Connect 캠페인을 비활성화하는 방법에 대해 알아봅니다. 한 사람에 대한 캠페인을 종료하거나 보낸 폴더에서 여러 사람을 일괄적으로 제거합니다.
 title: 캠페인 비활성화
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 7%
+source-wordcount: '160'
+ht-degree: 6%
 
 ---
 

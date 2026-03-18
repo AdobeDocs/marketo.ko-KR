@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352463
-description: ' [!DNL Salesforce] - Marketo 문서 - 제품 설명서에 Sales Connect 단추 추가'
+description: Salesforce에 Sales Connect 단추를 추가하는 방법을 알아봅니다. Sales Connect 작업에 빠르게 액세스하기 위해 Salesforce에 연결 단추를 배치합니다.
 title: Salesforce에 Sales Connect 버튼 추가
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '139'
 ht-degree: 4%
 
 ---

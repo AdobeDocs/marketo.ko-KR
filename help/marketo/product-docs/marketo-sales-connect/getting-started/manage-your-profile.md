@@ -1,12 +1,12 @@
 ---
-description: 프로필 관리 - Marketo 문서 - 제품 설명서
+description: Sales Connect 프로필 관리 방법을 알아봅니다. 웹 애플리케이션에서 이름, 이메일 및 기타 프로필 설정을 업데이트합니다.
 title: 프로필 관리
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 2%
+source-wordcount: '244'
+ht-degree: 4%
 
 ---
 
@@ -66,7 +66,7 @@ ht-degree: 2%
 
    ![](assets/manage-your-profile-7.png)
 
-1. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/manage-your-profile-8.png)
 

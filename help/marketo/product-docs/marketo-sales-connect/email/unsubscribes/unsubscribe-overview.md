@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746161
-description: 구독 취소 개요 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 구독 취소에 대해 알아봅니다. Salesforce을 사용하여 옵트아웃, 구독 취소 링크 및 구독 취소를 관리합니다.
 title: 구독 취소 개요
 exl-id: 3212d5be-07ea-47bd-874e-25d02513c23b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '99'
 ht-degree: 4%
 
 ---

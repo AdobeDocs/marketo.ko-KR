@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352615
-description: 콘텐츠 탭 이해 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 Content 탭 및 Template Engagement 지표를 이해합니다. 비밀 무기, 최고 및 최저 참여 템플릿, 최고 첨부 파일을 봅니다.
 title: 콘텐츠 탭 이해
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '196'
 ht-degree: 2%
 
 ---

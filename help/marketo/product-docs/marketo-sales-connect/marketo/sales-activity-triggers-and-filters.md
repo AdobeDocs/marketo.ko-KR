@@ -1,11 +1,11 @@
 ---
-description: 영업 활동 트리거 및 필터 - Marketo 문서 - 제품 설명서
+description: Marketo의 판매 활동 트리거 및 필터에 대해 알아봅니다. Sales Connect 활동을 사용하여 스마트 캠페인 및 필터를 트리거합니다.
 title: 세일즈 활동 트리거 및 필터
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '124'
 ht-degree: 8%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356593
-description: 작성 창에서 템플릿 사용 - Marketo 문서 - 제품 설명서
+description: Sales Connect 작성 창에서 템플릿을 사용하는 방법에 대해 알아봅니다. 추적된 이메일을 보내기 전에 템플릿을 삽입하고 개인화합니다.
 title: Compose Window에서 템플릿 사용
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 6%
+source-wordcount: '234'
+ht-degree: 5%
 
 ---
 

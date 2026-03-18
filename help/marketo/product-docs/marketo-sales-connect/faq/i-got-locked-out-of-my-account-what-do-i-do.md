@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352494
-description: 내 계정이 잠겼습니다. 어떻게 해야 합니까? - Marketo 설명서 - 제품 설명서
+description: Sales Connect 계정이 잠기면 도움을 받으십시오. 암호를 재설정하는 방법을 배우거나 지원팀에 연락하여 다시 액세스하십시오.
 title: 내 계정이 잠겼습니다. 어떻게 잠금을 해제합니까?
 exl-id: ee6b61f8-24d5-4520-a111-00ece2ba02bc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 51%
+source-wordcount: '71'
+ht-degree: 30%
 
 ---
 

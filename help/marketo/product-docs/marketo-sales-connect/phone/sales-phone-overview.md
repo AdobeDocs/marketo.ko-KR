@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352438
-description: 영업 전화 개요 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 Sales Phone에 대해 알아봅니다. 앱에서 호출하고, Salesforce에 로그인하고, 호출 기록 및 로컬 상태를 사용합니다.
 title: 세일즈 전화 개요
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 2%
+source-wordcount: '311'
+ht-degree: 1%
 
 ---
 

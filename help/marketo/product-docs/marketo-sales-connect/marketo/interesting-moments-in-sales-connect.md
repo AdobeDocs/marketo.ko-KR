@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30082174
-description: Sales Connect - Marketo 문서 - 제품 설명서의 흥미로운 순간
+description: Sales Connect 및 Marketo의 흥미로운 순간을 이해합니다. 영업 활동이 라이브 피드로 이동하는 순간을 만드는 방법에 대해 알아봅니다.
 title: Sales Connect의 즐거운 순간
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '279'
 ht-degree: 1%
 
 ---

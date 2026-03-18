@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746176
-description: 구독 취소 링크 랜딩 페이지 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 구독 취소 링크 랜딩 페이지에 대해 알아봅니다. 페이지 수신자가 구독 취소를 클릭하면 표시되는 을 사용자 지정합니다.
 title: 구독 취소 링크 랜딩 페이지
 exl-id: 1ef22db5-56ca-47fb-894b-ef94ec4527ac
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 13%
+source-wordcount: '69'
+ht-degree: 11%
 
 ---
 

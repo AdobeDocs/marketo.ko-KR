@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356329
-description: 고급 검색 개요 - Marketo 문서 - 제품 설명서
+description: Sales Connect Command Center의 고급 검색에 대해 알아봅니다. 수신자, 날짜, 캠페인 또는 기타 필터별로 이메일 및 작업을 찾습니다.
 title: 고급 검색 개요
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '389'
 ht-degree: 4%
 
 ---

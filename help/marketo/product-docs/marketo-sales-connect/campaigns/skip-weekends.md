@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352622
-description: 주말 건너뛰기 - Marketo 문서 - 제품 설명서
+description: Sales Connect 캠페인을 자동화할 때 주말을 건너뛰는 방법에 대해 알아봅니다. 토요일 또는 일요일에 캠페인 이메일을 보내지 못하게 합니다.
 title: 주말 건너뛰기
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 7%
+source-wordcount: '76'
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 캠페인을 자동화할 때 이메일이 토요일이나 일요일에 발송되는 것을 원치 않을 수 있습니다. 그렇지 않다면 주말을 건너뛸 수 있는 능력이 있다.
 
-1. [!DNL Sales Connect]에서 **[!UICONTROL &#x200B; Campaigns]** 탭을 클릭합니다.
+1. [!DNL Sales Connect]에서 **[!UICONTROL  Campaigns]** 탭을 클릭합니다.
 
    ![](assets/one-2.png)
 

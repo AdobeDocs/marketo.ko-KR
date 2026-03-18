@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352485
-description: 삭제한 연락처 또는 그룹을 복구할 수 있습니까? - Marketo 설명서 - 제품 설명서
+description: Sales Connect에서 삭제된 연락처 또는 그룹을 복구할 수 있는지에 대한 도움말을 확인합니다. 삭제 후 복구 옵션을 이해합니다.
 title: 삭제한 연락처 또는 그룹을 복구할 수 있습니까?
 exl-id: 2d12187b-c64a-431f-aefa-d8ed1c90909c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 27%
+source-wordcount: '87'
+ht-degree: 20%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352489
-description: 활동 기록 - Marketo 문서 - 제품 설명서에 로그인하지 않음
+description: Sales Connect 활동이 Salesforce 활동 내역에 기록되지 않은 경우 도움말을 확인합니다. 활동 기록에서 누락된 호출 또는 이메일 문제를 해결합니다.
 title: 활동 기록에 기록되지 않음
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 11%
+source-wordcount: '96'
+ht-degree: 10%
 
 ---
 

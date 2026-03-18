@@ -1,12 +1,12 @@
 ---
-description: 미리 알림 작업 만들기 및 할당 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 미리 알림 작업을 만들고 할당하는 방법을 알아봅니다. 사용자 또는 팀원의 후속 작업을 설정합니다.
 title: 알림 작업 생성 및 할당
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 8%
+source-wordcount: '144'
+ht-degree: 10%
 
 ---
 
@@ -46,6 +46,6 @@ ht-degree: 8%
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 통화 메모, InMail 메시지 템플릿 또는 사용자에 대한 메모 등 작업을 완료할 때 사용할 수 있는 작업에 대한 세부 정보를 추가합니다. 완료되면 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. 통화 메모, InMail 메시지 템플릿 또는 사용자에 대한 메모 등 작업을 완료할 때 사용할 수 있는 작업에 대한 세부 정보를 추가합니다. 완료되면 **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356590
-description: 이메일에 Highspot 콘텐츠 추가 - Marketo 문서 - 제품 설명서
+description: Sales Connect 이메일에 Highspot 컨텐츠를 추가하는 방법을 알아봅니다. 작성 창에 추적 가능한 Highspot 링크 및 첨부 파일을 삽입합니다.
 title: 이메일에 Highspot 콘텐츠 추가
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '140'
 ht-degree: 4%
 
 ---

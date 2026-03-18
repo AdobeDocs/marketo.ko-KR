@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317338
-description: 차단된 도메인 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 도메인을 차단하여 경쟁업체 또는 스팸 트랩으로 이메일을 보내는 것을 방지하는 방법을 알아봅니다.
 title: 차단된 도메인
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 4%
+source-wordcount: '97'
+ht-degree: 7%
 
 ---
 

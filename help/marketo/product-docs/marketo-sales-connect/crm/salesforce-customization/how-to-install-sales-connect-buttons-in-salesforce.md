@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352473
-description: Salesforce - Marketo 문서 - 제품 설명서에서 Sales Connect 단추를 설치하는 방법
+description: Salesforce에서 Sales Connect 단추를 설치하는 방법을 알아봅니다. Sales Connect에 푸시 및 Salesforce 레이아웃에 기타 버튼을 추가합니다.
 title: Salesforce에 Sales Connect 버튼을 설치하는 방법
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 20%
+source-wordcount: '112'
+ht-degree: 18%
 
 ---
 

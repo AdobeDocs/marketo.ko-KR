@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745793
-description: CRM용 [!DNL Sales Connect] 사용자 지정 - Marketo 문서 - 제품 설명서
+description: CRM 및 Salesforce용 Sales Connect 사용자 정의에 대해 알아봅니다. 사용 가능한 사용자 지정 및 설치 방법을 이해합니다.
 title: CRM용 [!DNL Sales Connect] 사용자 지정
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '668'
 ht-degree: 2%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 2%
 
    ![](assets/two.png)
 
-1. **[!UICONTROL Marketo Sales Engage Customizations]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Marketo Sales Engage Customizations]**&#x200B;를 클릭합니다.
 
    ![](assets/three.png)
 
-1. **[!UICONTROL Connect to Salesforce]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Connect to Salesforce]**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
 
@@ -53,11 +53,11 @@ ht-degree: 2%
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. 업데이트를 사용할 수 있는 경우 [!DNL Sales Connect] 사용자 지정 카드가 표시됩니다. **[!UICONTROL Update Customizations]**&#x200B;을(를) 클릭합니다.
+1. 업데이트를 사용할 수 있는 경우 [!DNL Sales Connect] 사용자 지정 카드가 표시됩니다. **[!UICONTROL Update Customizations]**&#x200B;를 클릭합니다.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. **[!UICONTROL Upgrade]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Upgrade]**&#x200B;를 클릭합니다.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 

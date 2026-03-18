@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356587
-description: 이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가 - Marketo 문서 - 제품 설명서
+description: Sales Connect 이메일에 첨부 파일 또는 추적 가능한 컨텐츠를 추가하는 방법을 알아봅니다. 작성 창에서 파일을 첨부하거나 추적된 링크를 추가합니다.
 title: 이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '290'
 ht-degree: 6%
 
 ---

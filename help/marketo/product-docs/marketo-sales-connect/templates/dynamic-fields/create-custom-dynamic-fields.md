@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352508
-description: 사용자 정의 동적 필드 만들기 - Marketo 문서 - 제품 설명서
+description: Sales Connect 템플릿에서 사용자 정의 동적 필드를 만드는 방법을 알아봅니다. 연락처 또는 사용자 데이터를 전자 메일로 가져오는 병합 필드를 추가합니다.
 title: 사용자 정의 동적 필드 만들기
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 4%
+source-wordcount: '237'
+ht-degree: 3%
 
 ---
 

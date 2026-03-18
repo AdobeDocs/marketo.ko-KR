@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352407
-description: 게재 채널 개요 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 전달 채널을 파악합니다. 이메일을 보내는 방법과 연결 및 사용자 지정 채널 간의 차이점에 대해 알아봅니다.
 title: 게재 채널 개요
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '564'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352476
-description: 작업(SFDC)의 활동 유형 필드 - Marketo 문서 - 제품 설명서
+description: Sales Connect를 Salesforce에 동기화할 때 작업의 활동 유형 필드를 이해합니다. 작업 유형이 Salesforce에서 매핑되고 표시되는 방식을 확인하십시오.
 title: 작업의 활동 유형 필드 (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '257'
 ht-degree: 7%
 
 ---

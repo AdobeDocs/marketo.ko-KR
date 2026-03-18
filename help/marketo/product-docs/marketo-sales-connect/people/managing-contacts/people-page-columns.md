@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30081307
-description: 사람 페이지 열 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 People 페이지 열에 대해 알아봅니다. 표시할 열을 사용자 정의하여 필요한 연락처 정보를 봅니다.
 title: 사용자 페이지 열
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '244'
 ht-degree: 8%
 
 ---

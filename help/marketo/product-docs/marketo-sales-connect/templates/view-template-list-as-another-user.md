@@ -1,12 +1,12 @@
 ---
 unique-page-id: 18317369
-description: 템플릿 목록을 다른 사용자로 보기 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 템플릿 목록을 다른 사용자로 보는 방법에 대해 알아봅니다. 관리자로 보기 를 사용하여 사용자에게 표시되는 내용을 확인합니다.
 title: 다른 사용자로 템플릿 목록 보기
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '87'
 ht-degree: 18%
 
 ---

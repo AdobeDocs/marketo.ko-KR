@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745655
-description: Sales Connect 사용자에게 표시되는 캠페인 만들기 - Marketo 문서 - 제품 설명서
+description: Sales Connect 사용자가 Marketo 캠페인을 볼 수 있도록 하는 방법에 대해 알아봅니다. 판매자가 Sales Connect에서 리드를 추가할 수 있도록 마케팅 캠페인을 공유합니다.
 title: Sales Connect 사용자에게 캠페인 표시
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 10%
+source-wordcount: '107'
+ht-degree: 14%
 
 ---
 

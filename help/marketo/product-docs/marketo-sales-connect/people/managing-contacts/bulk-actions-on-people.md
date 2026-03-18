@@ -1,13 +1,13 @@
 ---
 unique-page-id: 30081230
-description: 인력에 대한 대량 작업 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 People 페이지에서 일괄 작업을 사용하는 방법에 대해 알아봅니다. 캠페인에 추가, 캠페인에서 제거 또는 여러 연락처를 삭제합니다.
 title: 사용자에 대한 일괄 작업
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 8%
+source-wordcount: '155'
+ht-degree: 7%
 
 ---
 

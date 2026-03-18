@@ -1,12 +1,12 @@
 ---
-description: 호출 이유 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 문의 사유를 이해합니다. 호출한 이유를 설정하고 기록하여 결과가 Salesforce에 올바르게 동기화되도록 합니다.
 title: 통화 이유
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 4%
+source-wordcount: '160'
+ht-degree: 3%
 
 ---
 

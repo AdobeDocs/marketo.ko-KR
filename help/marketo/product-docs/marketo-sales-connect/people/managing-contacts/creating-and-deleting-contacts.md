@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352516
-description: 연락처 만들기 및 삭제 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 연락처를 만들고 삭제하는 방법을 알아봅니다. 새 연락처를 수동으로 추가하거나 계정에서 연락처를 제거합니다.
 title: 연락처 생성 및 삭제
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 7%
+source-wordcount: '119'
+ht-degree: 9%
 
 ---
 

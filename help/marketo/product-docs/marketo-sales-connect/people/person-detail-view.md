@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13796475
-description: 개인 세부 사항 보기 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 개인 세부 사항 보기에 대해 알아봅니다. 인물 탭에서 연락처 프로필, 내역 및 참여에 액세스합니다.
 title: 사용자 세부 정보 보기
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '284'
 ht-degree: 3%
 
 ---

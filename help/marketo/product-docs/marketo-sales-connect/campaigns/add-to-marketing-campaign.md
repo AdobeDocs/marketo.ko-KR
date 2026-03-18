@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745611
-description: Marketing Campaign에 추가 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 Marketo 마케팅 캠페인에 개인 또는 그룹을 추가하는 방법을 알아봅니다. 작업 공간 선택에서 사람 탭과 마케팅 캠페인 옵션을 사용합니다.
 title: 마케팅 캠페인에 추가
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 4%
+source-wordcount: '297'
+ht-degree: 6%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 4%
 
    ![](assets/four-3.png)
 
-1. 마케팅 캠페인에 추가하고 있으므로 &quot;보낸 사람&quot; 주소 선택을 건너뜁니다. 그러나 연락처를 더 추가하도록 선택할 수 있습니다. 선택한 경우 **[!UICONTROL Individuals]**&#x200B;을(를) 클릭하고 입력하십시오. 완료되면 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. 마케팅 캠페인에 추가하고 있으므로 &quot;보낸 사람&quot; 주소 선택을 건너뜁니다. 그러나 연락처를 더 추가하도록 선택할 수 있습니다. 선택한 경우 **[!UICONTROL Individuals]**&#x200B;을(를) 클릭하고 입력하십시오. 완료되면 **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/five-2.png)
 
@@ -77,7 +77,7 @@ ht-degree: 4%
 
    ![](assets/twelve.png)
 
-1. 마케팅 캠페인에 추가하고 있으므로 &quot;보낸 사람&quot; 주소 선택을 건너뜁니다. 그러나 연락처를 더 추가하도록 선택할 수 있습니다. 선택한 경우 **[!UICONTROL Individuals]**&#x200B;을(를) 클릭하고 입력하십시오. 완료되면 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. 마케팅 캠페인에 추가하고 있으므로 &quot;보낸 사람&quot; 주소 선택을 건너뜁니다. 그러나 연락처를 더 추가하도록 선택할 수 있습니다. 선택한 경우 **[!UICONTROL Individuals]**&#x200B;을(를) 클릭하고 입력하십시오. 완료되면 **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/thirteen.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352539
-description: 사용자 정의 도메인 추적을 설정하는 방법 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 사용자 정의 도메인 추적을 설정하는 방법에 대해 알아봅니다. 링크 추적에 자체 도메인을 사용하여 게재 능력을 개선합니다.
 title: 사용자 정의 도메인 추적을 설정하는 방법
 exl-id: 55a9b5b7-214d-44e6-a52b-612d03835f01
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 15%
+source-wordcount: '100'
+ht-degree: 14%
 
 ---
 

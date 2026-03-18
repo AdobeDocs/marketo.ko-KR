@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352493
-description: Sales Connect가 Salesforce Lightning과 호환됩니까? - Marketo 설명서 - 제품 설명서
+description: Sales Connect가 Salesforce Lightning과 호환되는지 알아봅니다. Lightning 지원 및 사용자 지정에 대한 자세한 내용을 살펴보십시오.
 title: Sales Connect는 Salesforce Lightning과 호환됩니까?
 exl-id: e1543b92-8175-41d2-b56a-ec60253a87d8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 21%
+source-wordcount: '57'
+ht-degree: 12%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13796464
-description: Sales Connect 개요 - Marketo 문서 - 제품 설명서
+description: Marketo Sales Connect에 대해 알아보고 영업 주기 전반에 걸쳐 참여를 유도하는 방법을 알아봅니다. 라이브 피드, 개인 세부 정보 및 캠페인을 사용하여 판매를 마케팅과 연결합니다.
 title: Sales Connect 개요
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '254'
 ht-degree: 9%
 
 ---

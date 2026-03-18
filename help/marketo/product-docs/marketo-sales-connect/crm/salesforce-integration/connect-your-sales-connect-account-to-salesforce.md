@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352423
-description: Sales Connect 계정을 Salesforce - Marketo 문서 - 제품 설명서에 연결
+description: Sales Connect 계정을 Salesforce에 연결하는 방법을 알아봅니다. Salesforce에 이메일, 호출 및 작업 로깅을 활성화합니다.
 title: Sales Connect 계정을 Salesforce에 연결
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 14%
+source-wordcount: '121'
+ht-degree: 13%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 14%
 
    ![](assets/one.png)
 
-1. [!UICONTROL &#x200B; Admin Settings]에서 **[!UICONTROL Salesforce]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL  Admin Settings]에서 **[!UICONTROL Salesforce]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/six.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352410
-description: 이메일 서명 추가 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 이메일 서명을 추가하는 방법을 알아봅니다. 웹 앱 또는 플러그인에서 전송된 판매 이메일에 대한 기본 서명을 설정합니다.
 title: 이메일 서명 추가
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 8%
+source-wordcount: '115'
+ht-degree: 6%
 
 ---
 

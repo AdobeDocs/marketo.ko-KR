@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352537
-description: 이메일 첨부 파일 추적 방법 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 이메일 첨부 파일을 추적하는 방법에 대해 알아봅니다. 첨부 파일을 추적할 수 있도록 하고 수신자가 언제 열거나 다운로드하는지 확인합니다.
 title: 이메일 첨부 파일을 추적하는 방법
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '161'
 ht-degree: 8%
 
 ---

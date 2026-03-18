@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352441
-description: 예정된 이메일 날짜는 나중에 보내기 - Marketo 문서 - 제품 설명서
+description: Gmail 플러그인에서 나중에 전자 메일을 예약하는 방법을 알아봅니다. 추적된 이메일이 원하는 시간에 발송되도록 전송 시간을 설정합니다.
 title: 나중에 보낼 이메일 예약
 exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 10%
+source-wordcount: '145'
+ht-degree: 9%
 
 ---
 
@@ -27,4 +27,4 @@ Gmail에서 이메일을 예약하려면 다음 단계를 수행합니다.
 
    >[!NOTE]
    >
-   >**[!UICONTROL Scheduled]**&#x200B;웹 응용 프로그램[의 &#x200B;](https://toutapp.com/login) 폴더에서 예약된 전자 메일을 항상 확인할 수 있습니다.
+   >**[!UICONTROL Scheduled]**&#x200B;웹 응용 프로그램[의 ](https://toutapp.com/login) 폴더에서 예약된 전자 메일을 항상 확인할 수 있습니다.

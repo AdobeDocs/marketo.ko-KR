@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352545
-description: Gmail - Marketo 문서 - 제품 설명서에 예기치 않은 오류가 발생했습니다.
+description: Sales Connect Gmail 플러그인에 예기치 않은 오류가 표시되면 도움말을 봅니다. 연결 및 플러그인 오류를 해결합니다.
 title: Gmail에서 예기치 않은 오류 발생
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 11%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 

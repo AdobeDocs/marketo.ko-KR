@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317669
-description: Salesforce 동기화 설정 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 Salesforce 동기화 설정을 이해합니다. Sales Connect와 Salesforce 간에 연락처, 활동 및 데이터를 동기화하는 방법을 구성합니다.
 title: Salesforce 동기화 설정
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 5%
+source-wordcount: '370'
+ht-degree: 8%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 5%
 
    ![](assets/four-1.png)
 
-1. **[!UICONTROL Salesforce API]** 탭을 클릭합니다. 이 카드에서 정보를 [!DNL Salesforce]&#x200B;(으)로 로깅하는 기본 설정을 설정할 수 있습니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Salesforce API]** 탭을 클릭합니다. 이 카드에서 정보를 [!DNL Salesforce]&#x200B;(으)로 로깅하는 기본 설정을 설정할 수 있습니다. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/five.png)
 

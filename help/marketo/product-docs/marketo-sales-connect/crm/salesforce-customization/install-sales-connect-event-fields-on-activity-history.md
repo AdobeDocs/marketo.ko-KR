@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352475
-description: 활동 내역 - Marketo 문서 - 제품 설명서에 Sales Connect 이벤트 필드 설치
+description: Salesforce 활동 내역에 Sales Connect 이벤트 필드를 설치하는 방법을 알아봅니다. Sales Connect 이벤트를 추적할 사용자 정의 필드를 추가합니다.
 title: 활동 기록에 Sales Connect 이벤트 필드 설치
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 9%
+source-wordcount: '247'
+ht-degree: 8%
 
 ---
 

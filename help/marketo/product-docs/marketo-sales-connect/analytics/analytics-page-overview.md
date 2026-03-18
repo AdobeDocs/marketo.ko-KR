@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352416
-description: '[!UICONTROL Analytics] 페이지 개요 - Marketo 문서 - 제품 설명서'
+description: Sales Connect Analytics 페이지 및 이메일 참여 데이터에 대해 알아봅니다. 내 탭, 팀 탭 및 컨텐츠 탭에서 개별 및 팀 통계를 봅니다.
 title: Analytics 페이지 개요
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---

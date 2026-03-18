@@ -1,11 +1,11 @@
 ---
-description: Salesforce Classic - Marketo 문서 - 제품 설명서에서 Marketo Sales Connect 제거
+description: Salesforce Classic에서 Marketo Sales Connect를 제거하는 방법을 알아봅니다. Classic에서 Sales Connect 사용자 정의 및 버튼을 제거합니다.
 title: Salesforce Classic에서 Marketo Sales Connect 제거
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1025'
-ht-degree: 11%
+source-wordcount: '1032'
+ht-degree: 12%
 
 ---
 
@@ -41,7 +41,7 @@ Sales Insight 작업 사용을 시작한 후 Salesforce 계정에서 Marketo Sal
 
 1. 이 섹션에 추가할 수 있는 10가지 유형의 MSC 필드가 있습니다. 추가한 필드를 모두 제거하거나 간단히 전체 섹션을 삭제합니다.
 
-1. 완료되면 **[!UICONTROL Quick Save]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Quick Save]**&#x200B;를 클릭합니다.
 
    ![](assets/uninstall-salesforce-classic-customization-package-6.png)
 
@@ -59,7 +59,7 @@ Sales Insight 작업 사용을 시작한 후 Salesforce 계정에서 Marketo Sal
 
    ![](assets/uninstall-salesforce-classic-customization-package-8.png)
 
-1. 완료되면 **[!UICONTROL Quick Save]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Quick Save]**&#x200B;를 클릭합니다.
 
    ![](assets/uninstall-salesforce-classic-customization-package-9.png)
 
@@ -69,7 +69,7 @@ Sales Insight 작업 사용을 시작한 후 Salesforce 계정에서 Marketo Sal
 
    ![](assets/uninstall-salesforce-classic-customization-package-10.png)
 
-1. [!DNL Sales Connect] 영역에서 [!UICONTROL Selected Fields] 필드를 선택하고 [!UICONTROL Remove] 화살표를 클릭합니다. 완료되면 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. [!DNL Sales Connect] 영역에서 [!UICONTROL Selected Fields] 필드를 선택하고 [!UICONTROL Remove] 화살표를 클릭합니다. 완료되면 **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/uninstall-salesforce-classic-customization-package-11.png)
 

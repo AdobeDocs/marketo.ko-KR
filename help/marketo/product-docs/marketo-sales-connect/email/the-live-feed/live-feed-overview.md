@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13796471
-description: 라이브 피드 개요 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 라이브 피드에 대해 알아봅니다. 마케팅 및 영업의 이메일과 콘텐츠에 대한 실시간 참여를 봅니다.
 title: 라이브 피드 개요
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 2%
+source-wordcount: '402'
+ht-degree: 1%
 
 ---
 
@@ -71,7 +71,7 @@ MSE 이메일에 대한 참여(보기, 클릭 수 및 답글)를 실시간으로
   <tr>
    <td>
     <div>
-     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+     <p><img alt="--" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
     </div></td>
    <td><p>누군가 내 이메일을 열람함</p></td>
   </tr>

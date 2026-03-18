@@ -1,11 +1,11 @@
 ---
-description: 영업 활동 용어집 - Marketo 문서 - 제품 설명서
+description: Sales Connect 판매 활동 약관에 대해 알아봅니다. Marketo 및 Salesforce에 동기화되는 활동 유형에 이 용어집을 사용하십시오.
 title: 세일즈 활동 용어집
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '339'
 ht-degree: 8%
 
 ---

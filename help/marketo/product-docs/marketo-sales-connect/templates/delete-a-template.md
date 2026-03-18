@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352630
-description: 템플릿 삭제 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 템플릿을 삭제하는 방법을 알아봅니다. 계정 또는 카테고리에서 더 이상 필요하지 않은 템플릿을 제거합니다.
 title: 템플릿 삭제
 exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 11%
+source-wordcount: '67'
+ht-degree: 13%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352440
-description: Gmail에서 이메일을 보내는 방법 - Marketo 문서 - 제품 설명서
+description: Sales Connect 플러그인을 사용하여 Gmail에서 추적된 이메일을 보내는 방법을 알아봅니다. Gmail에서 작성하여 열기, 클릭 수 및 답글을 추적합니다.
 title: Gmail에서 이메일을 보내는 방법
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 10%
+source-wordcount: '145'
+ht-degree: 9%
 
 ---
 

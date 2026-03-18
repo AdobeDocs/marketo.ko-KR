@@ -1,12 +1,12 @@
 ---
-description: 새 Sales Connect 인스턴스에 액세스 - Marketo 문서 - 제품 설명서
+description: 새 Sales Connect 인스턴스에 액세스하는 방법을 알아봅니다. Marketo 관리자가 Sales Connect에 대한 액세스 권한을 부여할 수 있는 프로비저닝 단계를 얻습니다.
 title: 새 Sales Connect 인스턴스에 액세스
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 11%
+source-wordcount: '125'
+ht-degree: 10%
 
 ---
 

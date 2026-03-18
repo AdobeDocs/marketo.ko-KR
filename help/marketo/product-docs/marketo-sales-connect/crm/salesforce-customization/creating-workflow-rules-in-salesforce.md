@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745823
-description: Salesforce - Marketo 문서 - 제품 설명서에서 워크플로우 규칙 만들기
+description: Salesforce for Sales Connect 활동에서 워크플로우 규칙을 만드는 방법을 알아봅니다. Sales Connect에서 이메일 또는 호출을 기록할 때 작업을 자동화합니다.
 title: Salesforce에서 워크플로 규칙 만들기
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 4%
+source-wordcount: '405'
+ht-degree: 3%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352601
-description: 동적 필드 - Marketo 문서 - 제품 설명서에서 자신을 참조합니다.
+description: Sales Connect 동적 필드에서 자신을 참조하는 방법에 대해 알아봅니다. 템플릿 개인화에 발신자 이름 또는 세부 정보를 사용합니다.
 title: 동적 필드에서 자체 참조
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 15%
+source-wordcount: '89'
+ht-degree: 13%
 
 ---
 

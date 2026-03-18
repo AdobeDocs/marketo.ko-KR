@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352510
-description: 권장 템플릿 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 권장 템플릿에 대해 알아봅니다. 최고의 참여를 얻고 이를 활동에 사용하는 템플릿을 확인하십시오.
 title: 추천 템플릿
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '320'
 ht-degree: 1%
 
 ---

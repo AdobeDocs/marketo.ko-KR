@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352553
-description: Sales Connect 및 Highspot 통합이란 무엇입니까? - Marketo 설명서 - 제품 설명서
+description: Sales Connect 및 Highspot 통합에 대해 알아봅니다. 영업 이메일에 Highspot 컨텐츠를 첨부하고 참여를 추적합니다.
 title: Sales Connect와 Highspot 통합이란 무엇입니까?
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 7%
+source-wordcount: '184'
+ht-degree: 5%
 
 ---
 

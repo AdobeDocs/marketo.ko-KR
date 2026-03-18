@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352619
-description: 캠페인에서 작업 사용 - Marketo 문서 - 제품 설명서
+description: Sales Connect 캠페인에서 작업이 작동하는 방식을 이해합니다. 전자 메일, 호출, InMail 및 사용자 지정 작업을 사용하고 명령 센터 또는 Salesforce에서 관리합니다.
 title: 캠페인에서 작업 사용
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 4%
+source-wordcount: '207'
+ht-degree: 3%
 
 ---
 

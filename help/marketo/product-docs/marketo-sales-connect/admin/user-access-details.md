@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352623
-description: 사용자 액세스 세부 사항 - Marketo 문서 - 제품 설명서
+description: Sales Connect의 관리자 및 비관리자 사용자 권한에 대해 알아봅니다. 템플릿, 캠페인 및 직원들에 대해 각 역할이 액세스할 수 있는 내용을 이해합니다.
 title: 사용자 액세스 상세 정보
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '245'
 ht-degree: 2%
 
 ---

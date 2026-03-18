@@ -1,11 +1,11 @@
 ---
-description: ' [!DNL Sales Connect] 관리자를 위한 시작 안내서 - Marketo 문서 - 제품 설명서'
+description: 새 Sales Connect 인스턴스를 설정하는 방법을 알아봅니다. 단계에 따라 계정에 액세스하고, 사용자를 초대하고, Salesforce 및 Marketo을 연결합니다.
 title: ' [!DNL Sales Connect] 관리자를 위한 시작 안내서'
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---

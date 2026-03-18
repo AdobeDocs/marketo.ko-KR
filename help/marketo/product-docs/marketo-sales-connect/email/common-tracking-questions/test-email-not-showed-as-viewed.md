@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352538
-description: 테스트 이메일이 표시된 상태로 표시되지 않음 - Marketo 문서 - 제품 설명서
+description: 테스트 이메일이 Sales Connect에서 볼 수 있는 것으로 표시되지 않으면 도움을 받으십시오. 테스트 또는 미리 보기 전송에 대한 보기 추적 문제를 해결합니다.
 title: 테스트 이메일이 조회됨으로 표시되지 않음
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '149'
 ht-degree: 8%
 
 ---

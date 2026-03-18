@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352631
-description: 범주 병합 및 중복 제거 - Marketo 문서 - 제품 설명서
+description: Sales Connect에서 템플릿 범주를 병합하고 중복 제거하는 방법을 알아봅니다. 범주를 결합하고 중복을 제거합니다.
 title: 카테고리 병합 및 중복 제거
 exl-id: c57c54a6-565f-4723-9a93-9b193469bccd
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 10%
+source-wordcount: '81'
+ht-degree: 9%
 
 ---
 
