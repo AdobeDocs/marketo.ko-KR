@@ -81,7 +81,7 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;은(는) 효율적�
 
 ![만들기 대화 상자에서 이미지 소스로 AEM Assets 선택](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
-* 기존 콘텐츠 리소스를 열 때 오른쪽의 `AEM Assets` 섹션에서 _[!UICONTROL Body]_을(를) 선택합니다.
+* 기존 콘텐츠 리소스를 열 때 오른쪽의 `AEM Assets` 섹션에서 _[!UICONTROL Body]_&#x200B;을(를) 선택합니다.
 
 ![속성에서 이미지 소스로 AEM Assets 선택](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
@@ -109,7 +109,7 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;은(는) 효율적�
 
 ![이미지 자산에 액세스할 AEM Assets 저장소를 선택하십시오](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
-* 캔버스에 이미지 구성 요소를 추가하고 **[!UICONTROL Browse]**&#x200B;을(를) 클릭하여 _[!UICONTROL Select Assets]_대화 상자를 엽니다.
+* 캔버스에 이미지 구성 요소를 추가하고 **[!UICONTROL Browse]**&#x200B;을(를) 클릭하여 _[!UICONTROL Select Assets]_&#x200B;대화 상자를 엽니다.
 
   대화 상자에서 선택한 저장소에서 이미지를 선택할 수 있습니다.
 
