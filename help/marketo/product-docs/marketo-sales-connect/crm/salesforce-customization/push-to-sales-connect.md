@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352477
 description: Salesforce에서 [Sales Connect로 푸시] 단추를 사용하는 방법을 알아봅니다. 클릭 한 번으로 Salesforce의 리드 또는 연락처를 Sales Connect에 추가합니다.
-title: ' [!DNL Sales Connect](으)로 푸시'
+title: ' [!DNL Sales Connect] (으)로 푸시'
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
 source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b

@@ -81,4 +81,4 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->[!DNL Sales Connect]활동 세부 정보 사용자 지정[!DNL Salesforce] 설정에서 `{{activity_subject}}` 동적 필드를 사용하는 경우 [에서 작업의 제목 필드를 업데이트할 수 있으며 해당 업데이트는 동기화된 작업의 ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 제목 필드에서 동기화됩니다. 반대로 [!DNL Salesforce]의 제목 필드를 업데이트하면 *미리 알림 작업 제목 필드와*&#x200B;동기화되지[!DNL Sales Connect]않습니다.
+>[!DNL Sales Connect]활동 세부 정보 사용자 지정[!DNL Salesforce] 설정에서 `{{activity_subject}}` 동적 필드를 사용하는 경우 [에서 작업의 제목 필드를 업데이트할 수 있으며 해당 업데이트는 동기화된 작업의 &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 제목 필드에서 동기화됩니다. 반대로 [!DNL Salesforce]의 제목 필드를 업데이트하면 *미리 알림 작업 제목 필드와*&#x200B;동기화되지[!DNL Sales Connect]않습니다.
