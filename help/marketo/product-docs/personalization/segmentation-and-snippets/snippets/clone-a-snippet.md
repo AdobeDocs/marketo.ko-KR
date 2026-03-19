@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359514
-description: 코드 조각 복제 - Marketo 문서 - 제품 설명서
+description: 수정할 수 있는 사본을 만들기 위해 코드 조각을 복제하는 방법에 대해 알아봅니다. Design Studio 및 코드 조각 작업을 사용하여 전자 메일 및 랜딩 페이지에 대한 콘텐츠를 복제하고 사용자 지정합니다.
 title: 스니펫 복제
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 9%
+source-wordcount: '85'
+ht-degree: 7%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359463
-description: 코드 조각 승인 - Marketo 문서 - 제품 설명서
+description: 이메일 및 랜딩 페이지에서 사용할 수 있도록 코드 조각을 승인하는 방법을 알아봅니다. Design Studio 및 코드 조각 작업을 사용하여 상태를 초안에서 승인됨으로 변경합니다.
 title: 스니펫 승인
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 16%
+source-wordcount: '72'
+ht-degree: 11%
 
 ---
 

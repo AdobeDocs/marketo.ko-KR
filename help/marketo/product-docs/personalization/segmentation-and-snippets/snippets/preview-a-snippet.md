@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359498
-description: 코드 조각 미리 보기 - Marketo 문서 - 제품 설명서
+description: 각 세그먼트에 대한 콘텐츠를 확인하기 위해 코드 조각을 미리 보는 방법에 대해 알아봅니다. Design Studio 및 Preview Snippet을 사용하여 승인 전에 동적 콘텐츠를 확인하십시오.
 title: 스니펫 미리보기
 exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 10%
+source-wordcount: '72'
+ht-degree: 8%
 
 ---
 

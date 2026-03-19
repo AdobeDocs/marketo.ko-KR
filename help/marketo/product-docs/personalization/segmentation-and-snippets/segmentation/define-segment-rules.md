@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359449
-description: 세그먼트 규칙 정의 - Marketo 문서 - 제품 설명서
+description: 사람들을 함께 수행할 수 없는 그룹으로 분류하는 세그먼트 규칙을 정의하는 방법을 알아봅니다. 스마트 목록 필터를 추가하고, 사람(초안)을 미리 보고, 다이내믹 컨텐츠에 대한 세그먼트를 승인합니다.
 title: 세그먼트 규칙 정의
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 1%
+source-wordcount: '386'
+ht-degree: 2%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 1%
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. **[!UICONTROL Segmentation Actions]**(으)로 이동합니다. **[!UICONTROL Approve]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Segmentation Actions]** 으로 이동합니다. **[!UICONTROL Approve]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 

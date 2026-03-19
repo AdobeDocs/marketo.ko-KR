@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095644
-description: 초안이 아닌 코드 조각 승인 - Marketo 문서 - 제품 설명서
+description: 초안 없음 옵션을 사용하여 코드 조각을 승인하는 방법에 대해 알아봅니다. 승인할 때 모두 업데이트 또는 초안 만들기 를 선택하여 코드 조각을 사용하는 에셋의 업데이트 방법을 제어합니다.
 title: 초안 없는 스니펫 승인
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '229'
 ht-degree: 4%
 
 ---

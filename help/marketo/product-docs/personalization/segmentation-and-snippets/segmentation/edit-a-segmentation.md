@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359474
-description: 세분화 편집 - Marketo 문서 - 제품 설명서
+description: 초안을 만들고 세그먼트 또는 규칙을 변경하여 세그먼테이션을 편집하는 방법을 알아봅니다. 세그먼트를 추가, 편집 또는 삭제하고 초안에서 스마트 목록 규칙을 정의합니다.
 title: 세분화 편집
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '192'
 ht-degree: 3%
 
 ---

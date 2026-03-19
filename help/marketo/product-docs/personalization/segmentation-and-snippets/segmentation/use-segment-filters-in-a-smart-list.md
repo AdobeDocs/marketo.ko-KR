@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359512
-description: 스마트 목록 - Marketo 문서 - 제품 설명서에서 세그먼트 필터 사용
+description: 스마트 목록에서 세그먼트 필터를 사용하여 성능을 최적화하는 방법을 알아봅니다. 스마트 목록의 세분화를 통해 사용자를 타깃팅하려면 세그먼트 필터를 추가하십시오.
 title: 스마트 목록에서 세그먼트 필터 사용
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 11%
+source-wordcount: '77'
+ht-degree: 9%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359518
-description: 코드 조각 삭제 - Marketo 문서 - 제품 설명서
+description: 더 이상 필요하지 않은 코드 조각을 삭제하는 방법에 대해 알아봅니다. 코드 조각 승인을 취소하고 자산 연결을 제거한 다음 Design Studio에서 코드 조각 작업을 사용하여 삭제합니다.
 title: 스니펫 삭제
 exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 8%
+source-wordcount: '90'
+ht-degree: 6%
 
 ---
 

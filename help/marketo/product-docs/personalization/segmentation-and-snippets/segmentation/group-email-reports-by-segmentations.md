@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359488
-description: 이메일 보고서를 세그먼트별로 그룹화 - Marketo 문서 - 제품 설명서
+description: 이메일 성과 보고서를 세그먼트별로 그룹화하는 방법을 알아봅니다. [전자 메일 성과 보고서 설정] 탭을 사용하여 그룹화할 하나 또는 두 개의 세그먼트를 적용합니다.
 title: 세분화별 그룹 이메일 보고서
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 15%
+source-wordcount: '119'
+ht-degree: 13%
 
 ---
 

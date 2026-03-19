@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359459
-description: 코드 조각 만들기 - Marketo 문서 - 제품 설명서
+description: 이메일 및 랜딩 페이지의 동적 콘텐츠용 코드 조각을 만드는 방법을 알아봅니다. 에셋 간에 재사용할 새 코드 조각을 만들고 콘텐츠를 추가합니다.
 title: 스니펫 만들기
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 8%
+source-wordcount: '89'
+ht-degree: 6%
 
 ---
 

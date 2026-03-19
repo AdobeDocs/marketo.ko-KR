@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359466
-description: 다이내믹 콘텐츠를 사용하여 코드 조각 편집 - Marketo 문서 - 제품 설명서
+description: 세그먼테이션을 사용하여 다이내믹 콘텐츠가 있는 스니펫을 편집하는 방법을 알아봅니다. Segment By를 코드 조각에 추가하고 Design Studio에서 세그먼트별로 다른 콘텐츠를 적용합니다.
 title: 동적 콘텐츠로 스니펫 편집
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 9%
+source-wordcount: '127'
+ht-degree: 7%
 
 ---
 

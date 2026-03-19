@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359457
-description: 세그먼테이션 승인 - Marketo 문서 - 제품 설명서
+description: 다이내믹 콘텐츠 및 보고에 사용할 수 있도록 세그먼테이션을 승인하는 방법을 알아봅니다. 세그먼트 규칙을 정의한 후 데이터베이스 및 세분화 작업을 사용하여 승인합니다.
 title: 세분화 승인
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---

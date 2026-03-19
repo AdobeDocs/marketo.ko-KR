@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359500
-description: 세그멘테이션 순서 우선 순위 - Marketo 문서 - 제품 설명서
+description: 세그먼테이션 순서 우선 순위 및 사용자가 속한 세그먼트를 결정하는 방법에 대해 알아봅니다. 데이터베이스의 세그먼트 순서를 편집하여 세그먼트 평가를 제어합니다.
 title: 세분화 순서 우선순위
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '140'
 ht-degree: 4%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 4%
 >[!PREREQUISITES]
 >
 >[세분화 만들기](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->&#x200B;>[세그먼트 규칙 정의](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>[세그먼트 규칙 정의](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >

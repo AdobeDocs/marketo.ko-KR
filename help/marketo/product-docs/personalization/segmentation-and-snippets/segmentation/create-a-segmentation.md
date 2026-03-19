@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359447
-description: 세그먼테이션 만들기 - Marketo 문서 - 제품 설명서
+description: 보고 및 다이내믹 콘텐츠를 위해 사용자를 그룹화하는 세그멘테이션을 만드는 방법을 알아봅니다. 데이터베이스에 세그먼트를 추가하고 순서를 설정한 다음 세그먼트 규칙을 정의합니다.
 title: 세분화 만들기
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '232'
 ht-degree: 3%
 
 ---
