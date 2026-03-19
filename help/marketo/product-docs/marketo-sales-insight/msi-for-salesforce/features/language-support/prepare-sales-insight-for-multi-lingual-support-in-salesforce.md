@@ -55,7 +55,7 @@ Marketo Sales Insight은 언어로 저장됩니다. 따라서 두 개 이상의 
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Marketo으로 이동합니다. [[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**세부 정보를 찾습니다](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Marketo으로 이동합니다. [[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**&#x200B;세부 정보를 찾습니다](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 

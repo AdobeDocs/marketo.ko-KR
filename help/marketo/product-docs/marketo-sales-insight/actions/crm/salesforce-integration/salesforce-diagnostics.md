@@ -53,7 +53,7 @@ ht-degree: 0%
 
 **오류:** CANNOT_UPDATE_CONVERTED_LEAD
 **범주:** 기타
-**메시지:**에서 전환된 잠재 고객을 참조할 수 없음
+**메시지:**&#x200B;에서 전환된 잠재 고객을 참조할 수 없음
 **진행 상황:** 연락처 및 잠재 고객에 대한 가장 최근 활동 로깅 중에 전환된 잠재 고객에 로그인하려고 합니다. 투구용으로도 이런 게 몇 개 보였어요.
 **문제 해결 단계:** 이와 관련된 인스턴스를 [지원 팀](https://nation.marketo.com/t5/Support/ct-p/Support)에 보고하십시오.
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 **오류:** EXPIRED_ACCESS
 **범주:** 인증
 **메시지:** 잘못된 부여: 만료된 액세스/새로 고침 토큰
-**진행 상황:** 액세스 또는 새로 고침 토큰이 만료되었습니다. 토큰은 [ [!DNL Salesforce]의 ](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)세션 설정에 따라 만료됩니다.
+**진행 상황:** 액세스 또는 새로 고침 토큰이 만료되었습니다. 토큰은 [&#x200B; [!DNL Salesforce]의 &#x200B;](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)세션 설정에 따라 만료됩니다.
 **문제 해결 단계:** 다시 인증해야 합니다. [!DNL Salesforce] 연결을 끊고 다시 연결합니다.
 
 **오류:** FAILED_WRITE
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 **오류:** FIELD_CUSTOM_VALIDATION_EXCEPTION
 **범주:** 액세스/유효성 검사
-**메시지:**은(는) 고객마다 다릅니다.
+**메시지:**&#x200B;은(는) 고객마다 다릅니다.
 **진행 상황:** 개체에 대한 사용자 지정 유효성 검사 규칙이 실패했습니다.
 **문제 해결 단계:** 이 오류의 원인이 되는 사용자 지정 유효성 검사 규칙을 확인하십시오. 이 규칙은 사용자 정의 규칙이므로 일회성으로 오류를 처리해야 합니다.
 

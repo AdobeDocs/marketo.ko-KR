@@ -23,8 +23,8 @@ ht-degree: 1%
 위의 다이어그램은 사용자의 활동과 작업 데이터가 시스템 간에 동기화될 수 있는 방법을 보여 줍니다. 몇 가지 주의해야 할 사항:
 
 * 사람 기록이 Marketo Engage에서 [!DNL Sales Insight Actions]에 동기화되어 Marketo Engage이 [!DNL Sales Insight Actions]명의 사람 데이터에 대한 신뢰할 수 있는 원본이 됩니다.
-* Marketo Engage과 [!DNL Sales Insight Actions] [모두 구독 취소 상태를 수집하여 ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)(으)로 동기화하는 메커니즘을 가지고 있습니다[!DNL Salesforce]
-* 구독 취소 상태가 판매 작업에서 Marketo Engage으로 동기화되지 않지만, 판매자가 [!DNL Sales Insight Actions]Marketo 구독 취소 확인[을 사용하여 전자 메일을 보내도록 허용하기 전에 사용자의 Marketo 구독 취소 상태를 확인하도록 ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)을(를) 구성할 수 있습니다.
+* Marketo Engage과 [!DNL Sales Insight Actions] [모두 구독 취소 상태를 수집하여 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)(으)로 동기화하는 메커니즘을 가지고 있습니다[!DNL Salesforce]
+* 구독 취소 상태가 판매 작업에서 Marketo Engage으로 동기화되지 않지만, 판매자가 [!DNL Sales Insight Actions]Marketo 구독 취소 확인[을 사용하여 전자 메일을 보내도록 허용하기 전에 사용자의 Marketo 구독 취소 상태를 확인하도록 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)을(를) 구성할 수 있습니다.
 
 다음은 데이터 통합 동기화 작동 방식과 관련된 몇 가지 FAQ입니다.
 
@@ -113,7 +113,7 @@ Sales Actions 데이터베이스는 Marketo Engage 데이터베이스에 있는 
 
 ![](assets/actions-data-sync-faq-6.png)
 
-위의 다이어그램은 [!DNL Salesforce]에 기록된 정보를 보여 줍니다. 전자 메일 및 통화와 같은 활동은 [!DNL Salesforce]단방향 동기화[에서 ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)에 기록됩니다. [구독 취소](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) 및 [미리 알림 작업](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)이 양방향 동기화로 최신 상태로 유지됩니다. 이러한 각 데이터 동기화는 [!DNL Sales Insight Actions] 웹 앱 인터페이스에서 구성할 수 있습니다.
+위의 다이어그램은 [!DNL Salesforce]에 기록된 정보를 보여 줍니다. 전자 메일 및 통화와 같은 활동은 [!DNL Salesforce]단방향 동기화[에서 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)에 기록됩니다. [구독 취소](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) 및 [미리 알림 작업](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)이 양방향 동기화로 최신 상태로 유지됩니다. 이러한 각 데이터 동기화는 [!DNL Sales Insight Actions] 웹 앱 인터페이스에서 구성할 수 있습니다.
 
 >[!MORELIKETHIS]
 >
