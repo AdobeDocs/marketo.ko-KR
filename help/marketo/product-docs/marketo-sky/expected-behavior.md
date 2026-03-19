@@ -1,12 +1,12 @@
 ---
-description: 예상 동작 - Marketo 문서 - 제품 설명서
+description: Marketo Sky의 Predictive Audiences에 대한 예상 동작에 대해 알아봅니다. 데이터 개인정보 보호, 활성화 타이밍 및 필터 제한을 이해합니다.
 title: 예상 비헤이비어
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '389'
 ht-degree: 1%
 
 ---

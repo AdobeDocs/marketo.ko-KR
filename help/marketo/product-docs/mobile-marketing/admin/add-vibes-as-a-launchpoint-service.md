@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378845
-description: LaunchPoint Service로 비디오 추가 - Marketo 문서 - 제품 설명서
+description: Vibes as a LaunchPoint 서비스를 추가하는 방법을 알아봅니다. Marketo Engage에서 SMS를 활성화하고 SMS 활동을 사용하려면 관리자에 자격 증명을 입력하십시오.
 title: LaunchPoint 서비스로 Vibes 추가
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 9%
+source-wordcount: '168'
+ht-degree: 10%
 
 ---
 

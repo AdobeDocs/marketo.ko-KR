@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511518
-description: 푸시 알림 이해 - Marketo 문서 - 제품 설명서
+description: Marketo의 푸시 알림에 대해 알아봅니다. 관리자 및 개발자 설정을 이해한 다음 스마트 캠페인을 통해 생성, 구성 및 전송합니다.
 title: 푸시 알림 이해
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '226'
 ht-degree: 2%
 
 ---

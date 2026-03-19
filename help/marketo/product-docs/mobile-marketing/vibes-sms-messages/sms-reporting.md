@@ -1,11 +1,11 @@
 ---
-description: SMS 보고 - Marketo 문서 - 제품 설명서
+description: SMS 메시지 대시보드 및 보고에 대해 알아봅니다. SMS 캠페인에 대한 시간에 따른 전송, 게재됨, 바운스 비율 및 활동을 봅니다.
 title: SMS 보고
 feature: Mobile Marketing
 exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '149'
 ht-degree: 3%
 
 ---

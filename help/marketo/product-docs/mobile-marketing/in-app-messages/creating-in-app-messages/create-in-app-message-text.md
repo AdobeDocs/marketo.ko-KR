@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100642
-description: 앱 내 메시지 텍스트 만들기 - Marketo 문서 - 제품 설명서
+description: 인앱 메시지 텍스트 및 스타일을 만드는 방법을 알아봅니다. 기본 및 지원 텍스트, 색상, 크기, 정렬, 토큰 및 탭 작업을 편집합니다.
 title: 인앱 메시지 텍스트 만들기
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '376'
 ht-degree: 2%
 
 ---

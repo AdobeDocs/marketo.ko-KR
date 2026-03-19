@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100397
-description: 인앱 메시지 이해 - Marketo 문서 - 제품 설명서
+description: 오퍼 및 알림 메시지를 통해 앱 사용자의 참여를 유도하기 위한 인앱 메시지에 대해 알아봅니다. 한 번의 탭으로 딥링크 또는 무시하는 메시지를 만들고 전송합니다.
 title: 인앱 메시지 이해
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '258'
 ht-degree: 2%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512457
-description: 모바일 푸시 알림 보내기 - Marketo 문서 - 제품 설명서
+description: 모바일 푸시 알림을 보내는 방법을 알아봅니다. 스마트 목록 및 흐름과 함께 스마트 캠페인을 사용하여 대상자에 대한 푸시를 예약합니다.
 title: 모바일 푸시 알림 보내기
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 19%
+source-wordcount: '104'
+ht-degree: 21%
 
 ---
 

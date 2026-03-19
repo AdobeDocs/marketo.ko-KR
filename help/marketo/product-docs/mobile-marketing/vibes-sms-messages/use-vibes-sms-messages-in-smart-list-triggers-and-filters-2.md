@@ -1,12 +1,12 @@
 ---
-description: 스마트 목록 트리거 및 필터 - Marketo 문서 - 제품 설명서에서 Vibes SMS 메시지 사용
+description: 스마트 캠페인에서 Vibes SMS 트리거 및 필터를 사용하는 방법을 알아봅니다. 구독 및 목록 멤버십을 기준으로 전송하거나 필터링할 시기를 정의합니다.
 title: 스마트 목록 트리거 및 필터에서 SMS 메시지 보기 사용
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---

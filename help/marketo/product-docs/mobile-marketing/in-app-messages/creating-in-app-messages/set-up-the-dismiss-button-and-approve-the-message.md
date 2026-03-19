@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912178
-description: 해제 버튼 설정 및 메시지 승인 - Marketo 문서 - 제품 설명서
+description: 닫기 버튼을 설정하고 인앱 메시지를 승인하는 방법에 대해 알아봅니다. 색상, 디자인 및 탭 작업을 구성한 다음 미리 보고 실행하여 승인합니다.
 title: 닫기 단추 설정 및 메시지 승인
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---

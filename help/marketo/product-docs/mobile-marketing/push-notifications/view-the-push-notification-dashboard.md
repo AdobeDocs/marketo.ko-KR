@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096523
-description: 푸시 알림 대시보드 보기 - Marketo 문서 - 제품 설명서
+description: 푸시 알림 대시보드를 확인하는 방법을 알아봅니다. 푸시 캠페인에 대한 전송된 총 수, 총 탭 수 및 탭 감소 를 참조하십시오.
 title: 푸시 알림 대시보드 보기
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 11%
+source-wordcount: '130'
+ht-degree: 10%
 
 ---
 

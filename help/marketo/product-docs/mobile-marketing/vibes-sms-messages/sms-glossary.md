@@ -1,11 +1,11 @@
 ---
-description: SMS 용어집 - Marketo 문서 - 제품 설명서
+description: Marketo Engage에서 사용되는 일반적인 Vibes SMS 용어에 대해 알아봅니다. 획득, 구독 목록, 짧은 코드 등에 이 용어집을 사용하십시오.
 title: SMS 용어집
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '749'
 ht-degree: 1%
 
 ---

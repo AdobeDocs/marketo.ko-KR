@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100649
-description: 인앱 메시지 배경 설정 - Marketo 문서 - 제품 설명서
+description: 인앱 메시지 배경을 설정하는 방법을 알아봅니다. 색상 또는 이미지를 선택하고, 테두리 및 모서리 반경을 설정하고, 각 플랫폼에 대한 탭 동작을 구성합니다.
 title: 인앱 메시지 배경 설정
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---

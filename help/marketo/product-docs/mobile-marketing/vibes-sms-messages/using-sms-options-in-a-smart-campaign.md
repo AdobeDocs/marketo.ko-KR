@@ -1,11 +1,11 @@
 ---
-description: 스마트 캠페인에서 SMS 옵션 사용 - Marketo 문서 - 제품 설명서
+description: 스마트 캠페인의 SMS 트리거, 필터 및 흐름 단계를 이해합니다. Vibes SMS 활동 및 목록을 사용하여 캠페인을 타깃팅하고 트리거합니다.
 title: 스마트 캠페인에서 SMS 옵션 사용
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '415'
 ht-degree: 3%
 
 ---

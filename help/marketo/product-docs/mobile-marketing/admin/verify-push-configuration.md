@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512445
-description: 푸시 구성 확인 - Marketo 문서 - 제품 설명서
+description: 모바일 앱이 동기화되도록 푸시 구성을 확인하는 방법을 알아봅니다. 관리에서 플랫폼을 확인하고 푸시 알림 전송을 시작합니다.
 title: 푸시 구성 확인
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 10%
+source-wordcount: '82'
+ht-degree: 8%
 
 ---
 

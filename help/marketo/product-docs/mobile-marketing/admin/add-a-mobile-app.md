@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512252
-description: 모바일 앱 추가 - Marketo 문서 - 제품 설명서
+description: Marketo에 모바일 앱을 추가하여 푸시 알림을 전송하는 방법을 알아봅니다. 앱 이름을 지정하고 샌드박스 또는 프로덕션 환경을 선택합니다.
 title: 모바일 앱 추가
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '199'
 ht-degree: 6%
 
 ---

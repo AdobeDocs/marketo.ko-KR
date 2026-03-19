@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11370503
-description: 인앱 메시지 예약 - Marketo 문서 - 제품 설명서
+description: 인앱 메시지를 예약하는 방법을 알아봅니다. 미래 시작 날짜 및 시간을 설정하거나 선택적인 종료 날짜를 사용하여 즉시 실행합니다.
 title: 인앱 메시지 예약
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 9%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 

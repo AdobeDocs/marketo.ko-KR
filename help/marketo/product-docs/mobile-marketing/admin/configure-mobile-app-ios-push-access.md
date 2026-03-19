@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512434
-description: 모바일 앱 iOS 푸시 액세스 구성 - Marketo 문서 - 제품 설명서
+description: 모바일 앱에 대한 iOS 푸시 액세스를 구성하는 방법에 대해 알아봅니다. Admin에서 개발자의 인증서와 암호를 추가합니다.
 title: 모바일 앱 iOS 푸시 액세스 구성
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '139'
 ht-degree: 10%
 
 ---

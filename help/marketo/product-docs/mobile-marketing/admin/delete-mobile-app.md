@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512442
-description: 모바일 앱 삭제 - Marketo 문서 - 제품 설명서
+description: Marketo에서 모바일 앱을 삭제하는 방법에 대해 알아봅니다. 더 이상 푸시 알림을 전송할 수 없도록 앱을 제거합니다.
 title: 모바일 앱 삭제
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 21%
+source-wordcount: '53'
+ht-degree: 15%
 
 ---
 

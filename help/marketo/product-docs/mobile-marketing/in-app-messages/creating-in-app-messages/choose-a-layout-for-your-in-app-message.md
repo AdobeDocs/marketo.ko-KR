@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100434
-description: 인앱 메시지에 대한 레이아웃 선택 - Marketo 문서 - 제품 설명서
+description: 6개의 인앱 메시지 레이아웃에 대해 알아봅니다. [팝업] 또는 [전체 화면 템플릿]을 선택하여 이미지와 단추로 메시지를 작성합니다.
 title: 인앱 메시지 레이아웃 선택
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '490'
 ht-degree: 2%
 
 ---

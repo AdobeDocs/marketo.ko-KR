@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512451
-description: 푸시 알림 만들기 - Marketo 문서 - 제품 설명서
+description: 푸시 알림을 만드는 방법을 알아봅니다. 프로그램의 로컬 자산으로 추가한 다음 모바일 앱에 맞게 구성하고 구성합니다.
 title: 푸시 알림 만들기
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 14%
+source-wordcount: '105'
+ht-degree: 12%
 
 ---
 

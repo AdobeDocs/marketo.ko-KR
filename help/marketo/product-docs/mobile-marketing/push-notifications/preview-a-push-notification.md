@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092730
-description: 푸시 알림 미리 보기 - Marketo 문서 - 제품 설명서
+description: Android 및 iOS에서 푸시 알림을 미리 보는 방법을 알아봅니다. 홈 화면, 잠금 화면 및 알림 센터에서 표시되는 화면 표시 방법을 확인하십시오.
 title: 푸시 알림 미리보기
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '252'
 ht-degree: 3%
 
 ---

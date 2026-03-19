@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100636
-description: 인앱 메시지 이미지 추가 - Marketo 문서 - 제품 설명서
+description: 인앱 메시지에서 이미지를 추가하고 맞춤화하는 방법에 대해 알아봅니다. Design Studio에서 선택하고 맞춤, 테두리를 설정한 다음 플랫폼당 작업을 탭합니다.
 title: 인앱 메시지 이미지 추가
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '349'
 ht-degree: 2%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 2%
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. **[!UICONTROL Remove]**&#x200B;을(를) 클릭합니다. 이제 다른 것을 고르세요.
+1. **[!UICONTROL Remove]**&#x200B;를 클릭합니다. 이제 다른 것을 고르세요.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 

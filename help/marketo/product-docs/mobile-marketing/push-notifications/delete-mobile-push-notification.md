@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512463
-description: 모바일 푸시 알림 삭제 - Marketo 문서 - 제품 설명서
+description: 모바일 푸시 알림을 삭제하고 다른 에셋에서 사용하지 않는 경우 제거하는 방법을 알아봅니다.
 title: 모바일 푸시 알림 삭제
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 20%
+source-wordcount: '71'
+ht-degree: 16%
 
 ---
 

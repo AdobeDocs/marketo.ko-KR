@@ -1,11 +1,11 @@
 ---
-description: SMS 메시지 보내기 - Marketo 문서 - 제품 설명서
+description: 일괄 처리를 통해 SMS 메시지를 보내거나 캠페인을 트리거하는 방법을 알아봅니다. 스마트 목록을 정의하고 SMS 전송 흐름 단계를 추가한 다음 예약하거나 활성화합니다.
 title: SMS 메시지 보내기
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '337'
 ht-degree: 2%
 
 ---

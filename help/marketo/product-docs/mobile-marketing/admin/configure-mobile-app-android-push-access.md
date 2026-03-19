@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512432
-description: 모바일 앱 Android 푸시 액세스 구성 - Marketo 문서 - 제품 설명서
+description: 모바일 앱에 대한 Android 푸시 액세스를 구성하는 방법에 대해 알아봅니다. 관리에서 개발자의 서버 API 키 및 프로젝트 번호를 입력합니다.
 title: 모바일 앱 Android 푸시 액세스 구성
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 24%
+source-wordcount: '91'
+ht-degree: 20%
 
 ---
 

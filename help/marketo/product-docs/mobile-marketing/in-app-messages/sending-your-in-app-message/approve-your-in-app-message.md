@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617440
-description: 인앱 메시지 승인 - Marketo 문서 - 제품 설명서
+description: 인앱 메시지를 실행하도록 승인하는 방법을 알아봅니다. 인앱 대시보드를 사용하여 프로그램을 일시 중지, 다시 시작 또는 중지하고 성능을 모니터링합니다.
 title: 인앱 메시지 승인
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '316'
 ht-degree: 2%
 
 ---

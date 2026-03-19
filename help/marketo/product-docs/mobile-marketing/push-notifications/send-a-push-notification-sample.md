@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783141
-description: 푸시 알림 보내기 샘플 - Marketo 문서 - 제품 설명서
+description: 푸시 알림 샘플을 보내 작동하는지 확인하는 방법을 알아봅니다. 테스트 장치를 선택하거나 추가한 다음 편집기에서 샘플을 보냅니다.
 title: 푸시 알림 샘플 보내기
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 4%
+source-wordcount: '266'
+ht-degree: 3%
 
 ---
 

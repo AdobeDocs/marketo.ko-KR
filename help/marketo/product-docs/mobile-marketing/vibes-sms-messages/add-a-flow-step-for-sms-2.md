@@ -1,12 +1,12 @@
 ---
-description: SMS에 대한 흐름 단계 추가 - Marketo 문서 - 제품 설명서
+description: 스마트 캠페인에 SMS 흐름 단계를 추가하는 방법을 알아봅니다. SMS 메시지 보내기, 바이브 목록 구독 또는 바이브 목록 구독 취소를 사용합니다.
 title: SMS에 대한 흐름 단계 추가
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---

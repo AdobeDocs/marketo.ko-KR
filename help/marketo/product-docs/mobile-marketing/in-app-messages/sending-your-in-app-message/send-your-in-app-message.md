@@ -1,18 +1,18 @@
 ---
-description: 인앱 메시지 보내기 - Marketo 문서 - 제품 설명서
+description: 인앱 메시지를 보내는 방법을 알아봅니다. 프로그램을 만들고 Campaign 컨트롤 패널을 사용하여 대상자와 메시지를 설정한 다음 실행을 승인합니다.
 title: 인앱 메시지 보내기
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 5%
+source-wordcount: '162'
+ht-degree: 7%
 
 ---
 
 # 인앱 메시지 보내기 {#send-your-in-app-message}
 
-인앱 메시지를 만든 후 전송할 차례입니다. 단계는 다음과 같습니다.
+인앱 메시지를 만든 후 전송할 차례입니다. 다음은 단계입니다.
 
 >[!NOTE]
 >

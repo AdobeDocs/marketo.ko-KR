@@ -1,12 +1,12 @@
 ---
-description: 인앱 메시지 만들기 - Marketo 문서 - 제품 설명서
+description: 인앱 메시지를 만드는 방법을 알아봅니다. 마케팅 활동에서 로컬 자산으로 추가하고 이름을 지정한 다음 레이아웃을 선택하고 메시지를 작성합니다.
 title: 인앱 메시지 만들기
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 4%
+source-wordcount: '121'
+ht-degree: 5%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 4%
 
 인앱 메시지를 만든 후 [여기](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)로 이동하여 보내는 방법을 확인하세요.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![이미지 하나](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-1.png)
 

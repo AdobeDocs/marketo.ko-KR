@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100644
-description: 인앱 메시지 단추 설정 - Marketo 문서 - 제품 설명서
+description: 인앱 메시지 버튼을 설정하는 방법을 알아봅니다. Apple 및 Android에 대한 색상, 모양, 사용자 지정 이미지, 글꼴을 구성하고 탭 작업을 수행합니다.
 title: 인앱 메시지 단추 설정
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ ht-degree: 0%
    >
    >단추에는 항상 누르기 작업이 있으므로 [누르기 작업] 확인란이 자동으로 선택됩니다. 기본 메시지는 &quot;[!UICONTROL Dismiss Message]&quot;입니다.
 
-거의 다 됐어 마지막 단계는 [인앱 메시지 배경을 구성하고 &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md) 단추를 해제하는 것입니다.
+거의 다 됐어 마지막 단계는 [인앱 메시지 배경을 구성하고 ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md) 단추를 해제하는 것입니다.
 
 >[!MORELIKETHIS]
 >

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617431
-description: 인앱 메시지 대상 설정 - Marketo 문서 - 제품 설명서
+description: 인앱 메시지 대상자를 설정하는 방법을 알아봅니다. 스마트 목록을 편집하고, 앱 및 트리거를 선택하고, 표시 제한을 설정하고, 필터를 추가합니다.
 title: 인앱 메시지 대상자 설정
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '279'
 ht-degree: 4%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783146
-description: 새 테스트 장치 추가 - Marketo 문서 - 제품 설명서
+description: 푸시 알림용 새 테스트 장치를 추가하는 방법을 알아봅니다. URL 또는 QR 코드를 사용하여 장치를 연결하고 테스트 푸시를 전송합니다.
 title: 새 테스트 디바이스 추가
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 8%
+source-wordcount: '137'
+ht-degree: 9%
 
 ---
 

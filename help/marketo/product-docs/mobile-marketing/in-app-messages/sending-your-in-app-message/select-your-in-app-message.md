@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10617434
-description: 인앱 메시지 선택 - Marketo 문서 - 제품 설명서
+description: 프로그램의 인앱 메시지를 선택하는 방법을 알아봅니다. 드롭다운에서 을 선택한 다음 편집, 미리 보기 또는 예약을 계속합니다.
 title: 인앱 메시지 선택
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 7%
+source-wordcount: '121'
+ht-degree: 6%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096158
-description: 모바일 액세스 보안 인증 - Marketo 문서 - 제품 설명서
+description: 모바일 앱 보안을 위해 액세스 키 및 액세스 보안을 활성화하는 방법을 알아봅니다. 앱 로그인을 확인할 수 있도록 IT에 코드를 제공합니다.
 title: 모바일 액세스 보안 인증
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 7%
+source-wordcount: '142'
+ht-degree: 6%
 
 ---
 

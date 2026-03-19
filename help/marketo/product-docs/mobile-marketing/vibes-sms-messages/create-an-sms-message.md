@@ -1,12 +1,12 @@
 ---
-description: SMS 메시지 만들기 - Marketo 문서 - 제품 설명서
+description: SMS 메시지를 만드는 방법을 알아봅니다. 편집기에 텍스트, 토큰 및 링크를 추가하고 문자 제한 및 준수 요구 사항을 따릅니다.
 title: SMS 메시지 만들기
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 1%
+source-wordcount: '490'
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ SMS 메시지를 만드는 방법은 다음과 같습니다.
 >
 >[LaunchPoint 서비스로 비디오 추가](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/create-an-sms-message-1.png)
 
