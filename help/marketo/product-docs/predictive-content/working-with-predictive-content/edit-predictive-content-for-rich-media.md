@@ -17,7 +17,7 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->[ 페이지에서 ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)예측 콘텐츠에 대해 승인[!UICONTROL All Content]된 콘텐츠여야 합니다.
+>[&#x200B; 페이지에서 &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)예측 콘텐츠에 대해 승인[!UICONTROL All Content]된 콘텐츠여야 합니다.
 
 1. **[!UICONTROL Predictive Content]** 페이지에서 제목을 클릭하여 편집기를 엽니다.
 
