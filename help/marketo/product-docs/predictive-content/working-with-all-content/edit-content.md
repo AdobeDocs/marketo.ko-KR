@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384653
-description: 콘텐츠 편집 - Marketo 문서 - 제품 설명서
+description: 제목, URL, 카테고리 및 예측 승인에 대한 모든 콘텐츠 목록을 편집하는 방법을 알아봅니다.
 title: 콘텐츠 편집
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 4%
+source-wordcount: '95'
+ht-degree: 7%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 4%
 
    ![](assets/edit-content-3.png)
 
-1. 승인하려면 **[!UICONTROL Approve for Predictive Content]** 상자를 선택하고 승인하지 않으려면 이 상자의 선택을 취소하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 승인하려면 **[!UICONTROL Approve for Predictive Content]** 상자를 선택하고 승인하지 않으려면 이 상자의 선택을 취소하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-content-4.png)

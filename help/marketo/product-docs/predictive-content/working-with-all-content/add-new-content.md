@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384651
-description: 새 콘텐츠 추가 - Marketo 문서 - 제품 설명서
+description: 예측 콘텐츠의 모든 콘텐츠 페이지에 새 콘텐츠를 수동으로 추가합니다. 제목, URL, 이미지 및 카테고리를 입력한 다음 권장 사항을 승인합니다.
 title: 새 콘텐츠 추가
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 15%
+source-wordcount: '92'
+ht-degree: 13%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12981204
-description: Predictive Content Analytics 개요 - Marketo 문서 - 제품 설명서
-title: 예측 콘텐츠 분석 개요
+description: 상위 보기, 전환율, 트렌드 콘텐츠 및 제안을 위한 Predictive Content Analytics 대시보드에 대해 알아봅니다. 특성별로 필터링하고, 날짜 범위를 설정하고, 데이터를 내보내 콘텐츠 전략을 구체화합니다.
+title: 예측 Content Analytics 개요
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '337'
 ht-degree: 2%
 
 ---
 
-# 예측 콘텐츠 분석 개요 {#predictive-content-analytics-overview}
+# 예측 Content Analytics 개요 {#predictive-content-analytics-overview}
 
 콘텐츠 분석을 사용하여 기존 콘텐츠에 대한 추가 통찰력을 얻고, AI 및 예측 알고리즘을 기반으로 한 콘텐츠가 대상자에게 어떤 영향을 미치는지 배우고, 마케팅 활동에서 ROI를 높일 수 있습니다.
 

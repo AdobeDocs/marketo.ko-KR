@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385940
-description: 리치 미디어에 대한 예측 콘텐츠 편집 - Marketo 문서 - 제품 설명서
+description: 설명, sRGB 이미지 및 카테고리를 사용하여 리치 미디어에 대한 예측 콘텐츠를 설정하는 방법을 알아봅니다. 웹 추천에 대해 승인된 콘텐츠를 활성화합니다.
 title: 리치 미디어용 예측 콘텐츠 편집
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '220'
 ht-degree: 6%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->[&#x200B; 페이지에서 &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)예측 콘텐츠에 대해 승인[!UICONTROL All Content]된 콘텐츠여야 합니다.
+>[ 페이지에서 ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)예측 콘텐츠에 대해 승인[!UICONTROL All Content]된 콘텐츠여야 합니다.
 
 1. **[!UICONTROL Predictive Content]** 페이지에서 제목을 클릭하여 편집기를 엽니다.
 

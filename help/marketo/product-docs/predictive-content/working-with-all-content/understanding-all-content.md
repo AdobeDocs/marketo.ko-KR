@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384645
-description: 모든 콘텐츠 이해 - Marketo 문서 - 제품 설명서
+description: 모든 컨텐츠 페이지, 해당 지표 및 범주가 예측 결과를 구성하는 방법에 대해 알아봅니다. 범주 및 날짜별로 필터링한 다음 필요에 따라 콘텐츠를 추가, 승인 또는 제거합니다.
 title: 모든 콘텐츠 이해
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---

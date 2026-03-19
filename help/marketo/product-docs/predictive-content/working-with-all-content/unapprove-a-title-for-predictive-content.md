@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384663
-description: 예측 콘텐츠에 대한 제목 승인 취소 - Marketo 문서 - 제품 설명서
+description: 모든 컨텐츠 페이지 또는 컨텐츠 편집 팝업에서 예측 컨텐츠에 대한 제목을 승인 취소하는 방법을 알아봅니다. 필요한 경우 예측 콘텐츠 페이지에서 제목을 제거합니다.
 title: 예측 콘텐츠 제목 승인 취소
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 10%
+source-wordcount: '127'
+ht-degree: 8%
 
 ---
 

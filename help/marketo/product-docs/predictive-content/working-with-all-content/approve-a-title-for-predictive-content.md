@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384661
-description: 예측 콘텐츠의 제목 승인 - Marketo 문서 - 제품 설명서
+description: 모든 콘텐츠 페이지 또는 콘텐츠 편집 팝업에서 예측 콘텐츠의 제목을 승인하는 방법을 알아봅니다. 권장 사항에 대한 예측 콘텐츠 페이지에 승인된 콘텐츠를 추가합니다.
 title: 예측 콘텐츠 제목 승인
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 14%
+source-wordcount: '135'
+ht-degree: 12%
 
 ---
 

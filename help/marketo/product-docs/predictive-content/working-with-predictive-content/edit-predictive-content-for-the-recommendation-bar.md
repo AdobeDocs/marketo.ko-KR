@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385942
-description: 권장 사항 막대에 대한 예측 콘텐츠 편집 - Marketo 문서 - 제품 설명서
+description: 콘텐츠 권장 사항 표시줄에 대해 승인된 예측 콘텐츠를 활성화하는 방법을 알아봅니다.
 title: 추천 바에 대한 예측 콘텐츠 편집
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 22%
+source-wordcount: '73'
+ht-degree: 21%
 
 ---
 

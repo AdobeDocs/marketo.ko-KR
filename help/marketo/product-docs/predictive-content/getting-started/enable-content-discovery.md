@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719190
-description: 콘텐츠 검색 활성화 - Marketo 문서 - 제품 설명서
+description: 예측 콘텐츠가 사이트의 콘텐츠를 자동으로 검색하고 태그를 지정하도록 콘텐츠 검색을 활성화하는 방법에 대해 알아봅니다. 권장 사항을 위해 PDF, 비디오 등의 보기를 추적합니다.
 title: 콘텐츠 검색 활성화
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '164'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 콘텐츠 검색 기능은 웹 사이트에서 기존 콘텐츠(사례 연구, 블로그 게시물, 비디오, 보도 자료 등)를 자동으로 검색하고 태그를 지정하고 해당 자료의 조회수를 추적합니다.  예측 콘텐츠는 검색된 콘텐츠를 사용하며, 예측 분석을 사용하여 성과가 가장 좋은 콘텐츠 식별 및 적합한 사람에게 최선의 콘텐츠를 권장합니다.
 
-1. **[!UICONTROL Content Settings]**(으)로 이동합니다.
+1. **[!UICONTROL Content Settings]** 으로 이동합니다.
 
    ![](assets/settings-dropdown-hand.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384665
-description: 예측 콘텐츠 이해 - Marketo 문서 - 제품 설명서
+description: 승인된 예측 콘텐츠 제목, 활성화된 소스, 클릭 수 및 전환 데이터에 대해 알아봅니다. 필터 및 날짜를 사용하여 추천이 웹 및 이메일에서 어떻게 수행되는지 비교합니다.
 title: 예측 콘텐츠 이해
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---

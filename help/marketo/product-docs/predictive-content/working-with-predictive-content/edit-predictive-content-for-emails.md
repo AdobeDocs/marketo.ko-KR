@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385938
-description: 이메일에 대한 예측 콘텐츠 편집 - Marketo 문서 - 제품 설명서
+description: 이미지, 단추 레이블 및 범주가 있는 이메일에 대한 예측 콘텐츠를 설정하는 방법을 알아봅니다. 예측 콘텐츠 편집기에서 이메일에 대해 승인된 콘텐츠를 활성화합니다.
 title: 이메일의 예측 콘텐츠 편집
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 4%
+source-wordcount: '244'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 >[!PREREQUISITES]
 >
->[&#x200B; 페이지에서 &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)예측 콘텐츠에 대해 승인[!UICONTROL All Content]된 콘텐츠여야 합니다.
+>[ 페이지에서 ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)예측 콘텐츠에 대해 승인[!UICONTROL All Content]된 콘텐츠여야 합니다.
 
 1. [!UICONTROL Predictive Content] 페이지에서 제목을 클릭하여 편집기를 엽니다.
 
@@ -51,7 +51,7 @@ ht-degree: 4%
 
    ![](assets/five.png)
 
-1. 슬라이더를 클릭하고 드래그하여 이미지 크기를 변경합니다. 그런 다음 자르기 상자를 클릭하고 드래그하여 사용할 이미지 영역을 분리합니다. 완료되면 **[!UICONTROL Preview]**&#x200B;을(를) 클릭합니다.
+1. 슬라이더를 클릭하고 드래그하여 이미지 크기를 변경합니다. 그런 다음 자르기 상자를 클릭하고 드래그하여 사용할 이미지 영역을 분리합니다. 완료되면 **[!UICONTROL Preview]**&#x200B;를 클릭합니다.
 
    ![](assets/six.png)
 

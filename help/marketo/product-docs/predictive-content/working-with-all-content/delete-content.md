@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384659
-description: 콘텐츠 삭제 - Marketo 문서 - 제품 설명서
+description: 더 이상 추적할 필요가 없을 때 모든 컨텐츠 페이지에서 컨텐츠를 삭제하는 방법에 대해 알아봅니다. 콘텐츠 작업을 통해 콘텐츠를 제거하여 목록을 최신 상태로 유지합니다.
 title: 콘텐츠 삭제
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 19%
+source-wordcount: '68'
+ht-degree: 13%
 
 ---
 

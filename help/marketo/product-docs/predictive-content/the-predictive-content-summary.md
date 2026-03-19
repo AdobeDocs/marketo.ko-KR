@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384634
-description: 예측 콘텐츠 요약 - Marketo 문서 - 제품 설명서
+description: 예측 콘텐츠 요약 대시보드와 해당 테이블, 그래프 및 주요 지표에 대해 알아봅니다. 권장 사항을 최적화하기 위해 인기 콘텐츠, 전환율, 트렌드 및 카테고리 참여를 봅니다.
 title: 예측 콘텐츠 요약
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '194'
 ht-degree: 4%
 
 ---

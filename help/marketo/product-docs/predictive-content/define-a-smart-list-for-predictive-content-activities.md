@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097873
-description: 예측 콘텐츠 활동에 대한 스마트 목록 정의 - Marketo 문서 - 제품 설명서
+description: 리치 미디어, 권장 사항 표시줄 및 이메일에 대한 예측 콘텐츠 활동으로 스마트 목록을 정의하는 방법을 알아봅니다. 캠페인을 트리거하고 권장 콘텐츠를 클릭하는 사람을 필터링합니다.
 title: 예측 콘텐츠 활동에 대한 스마트 목록 정의
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '304'
 ht-degree: 5%
 
 ---

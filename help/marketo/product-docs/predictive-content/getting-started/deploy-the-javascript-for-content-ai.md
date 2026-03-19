@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385053
-description: Content-AI용 JavaScript 배포 - Marketo 문서 - 제품 설명서
+description: 예측 콘텐츠에 대한 RTP 웹 Personalization 태그를 생성하고 배치하는 방법을 알아봅니다. 페이지 헤드에 복사하여 적용 범위를 확인하고 토글이 켜져 있는지 확인합니다.
 title: Content-AI용 JavaScript 배포
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 7%
+source-wordcount: '148'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 7%
 
 ## 태그 생성 {#generate-tag}
 
-1. Predictive Content 계정에 로그인합니다. **[!UICONTROL Account Settings]**(으)로 이동합니다.
+1. Predictive Content 계정에 로그인합니다. **[!UICONTROL Account Settings]** 으로 이동합니다.
 
    ![](assets/settings-dropdown-account-hands.png)
 

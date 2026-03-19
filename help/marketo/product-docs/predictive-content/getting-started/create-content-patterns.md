@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385579
-description: 콘텐츠 패턴 만들기 - Marketo 문서 - 제품 설명서
+description: 예측 콘텐츠가 방문자가 보거나 클릭할 때 HTML 페이지를 자동 검색하도록 URL 패턴을 정의하는 방법에 대해 알아봅니다. 콘텐츠 설정 URL 패턴 아래에 경로와 범주를 추가합니다.
 title: 콘텐츠 패턴 만들기
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 컨텐츠 패턴을 설정하면 웹 방문자가 컨텐츠 패턴과 관련된 HTML 웹 페이지를 클릭할 때 컨텐츠가 자동으로 검색됩니다. HTML 페이지(블로그 게시물, 보도 자료, 뉴스 기사)를 모든 컨텐츠 페이지에 컨텐츠 조각으로 추가하는 데 사용됩니다. 자동 검색은 콘텐츠 패턴을 기반으로 하는 경우 웹 방문자가 페이지 링크를 보거나 클릭할 때 정의된 URL 패턴과 관련된 HTML 페이지를 검색하고 추적합니다. 이 콘텐츠 조각(URL, 페이지 이름 및 메타데이터(이미지 URL 및 설명을 포함)은 모든 콘텐츠 페이지에 추가되어 예측 콘텐츠를 준비합니다. PDF 및 포함된 비디오와 같은 다른 콘텐츠를 자동으로 검색하려면 [콘텐츠 검색을 활성화](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)해야 합니다.
 
-1. **[!UICONTROL Content Settings]**(으)로 이동합니다.
+1. **[!UICONTROL Content Settings]** 으로 이동합니다.
 
    ![](assets/settings-dropdown-hand-2.png)
 
@@ -71,7 +71,7 @@ _domain.com_&#x200B;의 경우:
    <td><p>domain.com/article/2017/ 패턴과 일치하는 모든 콘텐츠를 검색합니다.</p><p>domain.com/article/2017/5-top-tricks</p></td>
   </tr>
   <tr>
-   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
+   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
    <td><p>"데이터시트:"라는 단어가 포함된 URL을 검색합니다.</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td>
   </tr>
   <tr>

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385057
-description: 범주 설정 - Marketo 문서 - 제품 설명서
+description: 예측 콘텐츠에서 카테고리를 설정하여 예측 결과를 웹 또는 이메일에 그룹화합니다. 간편한 필터링 및 검색을 위해 콘텐츠 설정에서 카테고리 태그를 만듭니다.
 title: 카테고리 설정
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '158'
 ht-degree: 5%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 5%
 
 카테고리 태그를 만드는 방법은 다음과 같습니다.
 
-1. **[!UICONTROL Content Settings]**(으)로 이동합니다.
+1. **[!UICONTROL Content Settings]** 으로 이동합니다.
 
    ![](assets/settings-dropdown-hand-1.png)
 

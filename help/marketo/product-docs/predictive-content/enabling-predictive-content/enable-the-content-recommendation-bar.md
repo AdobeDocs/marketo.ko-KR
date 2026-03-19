@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720108
-description: 콘텐츠 권장 사항 표시줄 - Marketo 문서 - 제품 설명서 활성화
+description: 각 URL에 대한 예측 분석을 사용하여 콘텐츠 추천 막대 를 활성화하고 스타일을 지정하는 방법을 알아봅니다. 페이지를 전환하고 색상 및 경로를 사용자 지정하려면 콘텐츠 설정 을 사용하십시오.
 title: 콘텐츠 추천 바 활성화
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 3%
+source-wordcount: '333'
+ht-degree: 4%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 3%
 
 ## 콘텐츠 추천 바 활성화 및 사용자 지정 {#enable-and-customize-the-content-recommendation-bar}
 
-1. **[!UICONTROL Content Settings]**(으)로 이동합니다.
+1. **[!UICONTROL Content Settings]** 으로 이동합니다.
 
    ![](assets/settings-dropdown-hand.png)
 

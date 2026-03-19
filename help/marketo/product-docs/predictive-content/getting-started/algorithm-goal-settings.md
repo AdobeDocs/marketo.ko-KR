@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745750
-description: 알고리즘 목표 설정 - Marketo 문서 - 제품 설명서
+description: 콘텐츠 설정에서 예측 콘텐츠 알고리즘 목표를 클릭 수 또는 전환으로 설정하는 방법을 알아봅니다. 비즈니스 목표에 따라 AI를 조정하여 콘텐츠 성능을 극대화합니다.
 title: 알고리즘 목표 설정
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 6%
+source-wordcount: '119'
+ht-degree: 7%
 
 ---
 
@@ -31,6 +31,6 @@ ht-degree: 6%
    |---|---|
    | **[!UICONTROL Conversions]** | 컨텐츠를 보는 사람이 양식을 제출하도록 할 가능성이 높은 컨텐츠 표시 |
 
-1. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/four.png)
