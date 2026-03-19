@@ -1,11 +1,11 @@
 ---
-description: 하이퍼링크가 연결된 텍스트 추가 - Marketo 문서 - 제품 설명서
+description: 이메일 템플릿에 하이퍼링크가 연결된 텍스트를 추가하는 방법을 알아봅니다. 템플릿 편집기에 추적 가능한 링크를 삽입하고 링크 텍스트 서식을 지정합니다.
 title: 하이퍼링크된 텍스트 추가
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '131'
 ht-degree: 5%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 5%
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. 연결할 URL(예: `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ko`)을 입력하십시오. URL을 같은 창에서 열지 또는 새 창에서 열지를 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 연결할 URL(예: `https://experienceleague.adobe.com/docs/marketo/using/home.html`)을 입력하십시오. URL을 같은 창에서 열지 또는 새 창에서 열지를 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-hyperlinked-text-4.png)
 

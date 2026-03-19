@@ -1,11 +1,11 @@
 ---
-description: 영업 활동 트리거 및 필터 - Marketo 문서 - 제품 설명서
+description: Marketo의 판매 활동 트리거 및 필터를 이해합니다. 작업 활동을 사용하여 스마트 캠페인 및 세그먼트 리드를 트리거합니다.
 title: 세일즈 활동 트리거 및 필터
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '122'
 ht-degree: 8%
 
 ---

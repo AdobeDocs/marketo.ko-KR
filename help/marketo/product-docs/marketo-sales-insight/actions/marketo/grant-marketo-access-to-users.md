@@ -1,12 +1,12 @@
 ---
-description: 사용자에게 Marketo 액세스 권한 부여 - Marketo 문서 - 제품 설명서
+description: Sales Insight 작업에서 사용자에게 Marketo 액세스 권한을 부여하는 방법을 알아봅니다. 사용자가 Marketo 데이터를 보고 Marketo 연결 기능을 사용할 수 있습니다.
 title: 사용자에게 Marketo 액세스 권한 부여
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 7%
+source-wordcount: '212'
+ht-degree: 6%
 
 ---
 

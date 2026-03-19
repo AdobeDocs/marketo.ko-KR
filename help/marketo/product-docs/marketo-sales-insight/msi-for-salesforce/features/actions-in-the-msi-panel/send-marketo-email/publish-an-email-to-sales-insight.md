@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949718
-description: Sales Insight - Marketo 문서 - 제품 설명서에 이메일 게시
+description: Marketo에서 Sales Insight으로 이메일을 게시하는 방법을 알아봅니다. MSI 패널에서 영업 사용자가 사용할 수 있는 Marketo 이메일 템플릿을 만듭니다.
 title: Sales Insight에 이메일 게시
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '202'
 ht-degree: 3%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[에서 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) 또는 [!DNL Sales Insight]에 전자 메일을 보낼 때 [!DNL Microsoft Dynamics]내 토큰[!DNL Salesforce]이 확인되지 않습니다. 표준 토큰만 채워집니다(Lead, Company 등). 그러나 토큰의 기본값은 작동합니다.
+>[에서 ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) 또는 [!DNL Sales Insight]에 전자 메일을 보낼 때 [!DNL Microsoft Dynamics]내 토큰[!DNL Salesforce]이 확인되지 않습니다. 표준 토큰만 채워집니다(Lead, Company 등). 그러나 토큰의 기본값은 작동합니다.
 
 >[!TIP]
 >

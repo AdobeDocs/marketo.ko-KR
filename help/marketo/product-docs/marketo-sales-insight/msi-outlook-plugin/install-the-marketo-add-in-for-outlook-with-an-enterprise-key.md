@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377488
-description: 엔터프라이즈 키 - Marketo 문서 - 제품 설명서와 함께  [!DNL Outlook] 용 Marketo 추가 기능 설치
+description: 엔터프라이즈 키를 사용하여 Outlook용 Marketo 추가 기능을 설치하는 방법을 알아봅니다. Enterprise 키를 사용하여 조직의 추가 기능을 배포합니다.
 title: Enterprise 키로  [!DNL Outlook] 용 Marketo 추가 기능 설치
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 0%
+source-wordcount: '271'
+ht-degree: 1%
 
 ---
 

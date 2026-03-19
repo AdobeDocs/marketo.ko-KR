@@ -1,12 +1,12 @@
 ---
-description: 서드파티 동의 설정 - Marketo 문서 - 제품 설명서
+description: 통화 녹화를 위한 서드파티 동의 설정을 구성하는 방법에 대해 알아봅니다. 주 및 현지 녹음 법을 준수합니다.
 title: 양 당사자 동의 설정
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 5%
+source-wordcount: '146'
+ht-degree: 6%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 5%
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. 업로드가 완료되면 파일 관리자에서 점(세 개)을 선택하고 **[!UICONTROL Select as Consent Notice]**&#x200B;을(를) 클릭합니다. 완료되면 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. 업로드가 완료되면 파일 관리자에서 점(세 개)을 선택하고 **[!UICONTROL Select as Consent Notice]**&#x200B;을(를) 클릭합니다. 완료되면 **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/two-party-consent-settings-6.png)
 

@@ -1,11 +1,11 @@
 ---
-description: 영업 활동 및 활동 필드가 Salesforce과 동기화되지 않는 이유는 무엇입니까? - Marketo 설명서 - 제품 설명서
+description: 영업 활동 및 필드가 Salesforce과 동기화되지 않는 경우 문제를 해결합니다. API 로깅, 사용자 정의 필드 및 권한을 확인합니다.
 title: 내 세일즈 활동 및 활동 필드가 Salesforce와 동기화되지 않는 이유는 무엇입니까?
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 7%
+source-wordcount: '330'
+ht-degree: 6%
 
 ---
 

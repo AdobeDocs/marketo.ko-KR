@@ -1,12 +1,12 @@
 ---
-description: 동적 필드를 채우지 않는 이유는 무엇입니까? - Marketo 설명서 - 제품 설명서
+description: 동적 필드가 템플릿을 채우지 못할 때 문제를 해결합니다. Salesforce 연결 및 필드 매핑에서 병합 필드를 확인하십시오.
 title: 내 동적 필드가 채워지지 않는 이유는 무엇입니까?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 6%
+source-wordcount: '301'
+ht-degree: 4%
 
 ---
 

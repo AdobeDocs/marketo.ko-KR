@@ -1,12 +1,12 @@
 ---
-description: 차단된 도메인 - Marketo 문서 - 제품 설명서
+description: 이메일 경쟁 업체 또는 스팸 트랩을 방지하기 위해 판매 Insight 작업에서 도메인을 차단하는 방법을 알아봅니다.
 title: 차단된 도메인
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 4%
+source-wordcount: '98'
+ht-degree: 7%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: 사용자 정의 도메인 추적을 설정하는 방법 - Marketo 문서 - 제품 설명서
+description: 추적 가능한 링크가 회사 도메인을 사용하도록 사용자 지정 도메인 추적을 설정하는 방법에 대해 알아봅니다.
 title: 사용자 정의 도메인 추적을 설정하는 방법
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '191'
 ht-degree: 7%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Sales Insight 작업 사용자 온보딩 확인 목록 - Marketo 문서 - 제품 설명서
+description: 시작하려면 Sales Insight Actions 사용자 온보딩 체크리스트 를 사용하십시오. 새 사용자에 대한 설정 단계 및 활성화를 추적합니다.
 title: Sales Insight Actions 사용자 온보딩 체크리스트
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '131'
 ht-degree: 9%
 
 ---

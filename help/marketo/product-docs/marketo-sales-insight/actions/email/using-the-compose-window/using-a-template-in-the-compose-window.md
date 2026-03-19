@@ -1,11 +1,11 @@
 ---
-description: 작성 창에서 템플릿 사용 - Marketo 문서 - 제품 설명서
+description: 판매 이메일을 보낼 때 작성 창에서 템플릿을 사용하는 방법을 알아봅니다. 빠른 액세스를 위해 템플릿을 삽입하고 범주를 고정합니다.
 title: Compose Window에서 템플릿 사용
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '294'
 ht-degree: 4%
 
 ---

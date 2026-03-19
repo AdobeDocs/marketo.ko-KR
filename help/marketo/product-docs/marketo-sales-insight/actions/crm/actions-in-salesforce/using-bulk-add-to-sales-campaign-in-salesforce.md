@@ -1,10 +1,10 @@
 ---
-description: Salesforce - Marketo 문서 - 제품 설명서에서 Sales Campaign에 일괄 추가 사용
+description: Salesforce에서 Sales Campaign에 리드 및 연락처를 대량으로 추가하는 방법을 알아봅니다. 목록 보기를 선택하고 Lightning 또는 Classic에서 판매 캠페인에 추가 버튼을 사용합니다.
 title: Salesforce에서 세일즈 캠페인에 일괄 추가 사용
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '598'
 ht-degree: 2%
 
 ---

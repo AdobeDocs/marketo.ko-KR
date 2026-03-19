@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949283
-description: ' [!DNL Outlook] Marketo 템플릿 사용 - Marketo 문서 - 제품 설명서 보내기 및 추적'
+description: Marketo 템플릿을 사용하여 Outlook에서 보내고 추적하는 방법에 대해 알아봅니다. 판매 템플릿을 삽입하고 Outlook에서 추적된 이메일을 전송합니다.
 title: ' [!DNL Outlook] Marketo 템플릿 사용'
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---

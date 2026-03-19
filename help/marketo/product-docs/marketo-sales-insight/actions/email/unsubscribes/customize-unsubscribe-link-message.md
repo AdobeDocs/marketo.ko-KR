@@ -1,11 +1,11 @@
 ---
-description: 구독 취소 링크 메시지 사용자 지정 - Marketo 문서 - 제품 설명서
+description: 판매 이메일의 구독 취소 링크 메시지를 사용자 지정하는 방법을 알아봅니다. 사용자가 옵트아웃할 때 표시되는 텍스트를 편집합니다.
 title: 구독 취소 링크 메시지 사용자 정의
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '199'
 ht-degree: 4%
 
 ---

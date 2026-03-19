@@ -1,11 +1,11 @@
 ---
-description: 국제 전화 걸기 - Marketo 문서 - 제품 설명서
+description: Sales Insight Actions에서 국제 전화에 대해 알아봅니다. 전화 걸기에서 국제 번호로 전화를 걸고 기록합니다.
 title: 국제 전화
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '404'
 ht-degree: 6%
 
 ---

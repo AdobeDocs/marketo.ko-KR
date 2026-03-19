@@ -1,11 +1,11 @@
 ---
-description: 위치 추적은 어떻게 작동합니까 - Marketo 문서 - 제품 설명서
+description: 판매 이메일에 대한 위치 추적이 작동하는 방식을 이해합니다. 수집된 위치 데이터와 그 사용 방법에 대해 알아봅니다.
 title: 위치 추적은 어떻게 작동합니까
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '123'
 ht-degree: 4%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 명령 센터 개요 - Marketo 문서 - 제품 설명서
+description: 영업 이메일 및 작업 관리를 위한 관리 센터에 대해 알아봅니다. 보낸 이메일을 보고, 작업을 할당하고, Sales Insight 작업에서 빠른 작업을 사용합니다.
 title: Command Center 개요
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 4%
+source-wordcount: '489'
+ht-degree: 3%
 
 ---
 

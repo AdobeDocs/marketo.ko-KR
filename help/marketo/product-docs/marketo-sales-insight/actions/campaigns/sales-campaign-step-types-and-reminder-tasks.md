@@ -1,12 +1,12 @@
 ---
-description: 판매 캠페인 단계 유형 및 미리 알림 작업 - Marketo 문서 - 제품 설명서
+description: Sales Campaign 단계 유형 및 미리 알림 작업을 이해할 수 있습니다. 명령 센터 및 Salesforce에서 이메일, 호출, InMail 및 사용자 지정 작업 단계를 사용하고 작업을 큐에 추가합니다.
 title: 세일즈 캠페인 단계 유형 및 알림 작업
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 5%
+source-wordcount: '325'
+ht-degree: 4%
 
 ---
 

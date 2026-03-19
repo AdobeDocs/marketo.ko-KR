@@ -1,11 +1,11 @@
 ---
-description: Salesforce의 자동 로그인 - Marketo 문서 - 제품 설명서
+description: 사용자가 Salesforce 작업에 자동으로 인증할 수 있도록 Insight에서 자동 로그인을 활성화하는 방법을 알아봅니다. 로그인 관리를 Salesforce 전용으로 설정하고 계정을 연결합니다.
 title: Salesforce에서 자동 로그인
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

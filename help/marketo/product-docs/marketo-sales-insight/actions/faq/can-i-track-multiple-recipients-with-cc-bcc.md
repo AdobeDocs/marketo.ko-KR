@@ -1,12 +1,12 @@
 ---
-description: CC/BCC - Marketo 문서 - 제품 설명서를 통해 여러 수신자를 추적할 수 있습니까?
+description: CC 및 BCC를 사용할 때 여러 수신자를 추적할 수 있는지 여부를 알아봅니다. 그룹 이메일의 추적 제한 및 동작을 이해합니다.
 title: CC/BCC로 여러 수신자를 추적할 수 있습니까?
 exl-id: cc14cbb5-6c1f-470c-9836-dd853ef7befc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 9%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 

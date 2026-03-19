@@ -1,12 +1,12 @@
 ---
-description: 추적된 이메일 보내기 - Marketo 문서 - 제품 설명서
+description: 조회수, 클릭수 및 답글을 확인할 수 있도록 추적된 판매 이메일을 보내는 방법에 대해 알아봅니다. 게재 채널을 사용하고 명령 센터에서 추적합니다.
 title: 추적된 이메일 보내기
 hide: true
 hidefromtoc: true
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 4%
+source-wordcount: '215'
+ht-degree: 3%
 
 ---
 

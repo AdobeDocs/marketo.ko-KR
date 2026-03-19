@@ -1,11 +1,11 @@
 ---
-description: 자가 보기를 방지하는 방법 - Marketo 문서 - 제품 설명서
+description: 이메일 추적에서 자체 보기가 카운트되지 않도록 하는 방법을 알아봅니다. 자신의 이메일을 볼 때 열려 있는 통계를 부풀리지 마십시오.
 title: 자아 보기를 방지하려면 어떻게 합니까
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '283'
 ht-degree: 2%
 
 ---

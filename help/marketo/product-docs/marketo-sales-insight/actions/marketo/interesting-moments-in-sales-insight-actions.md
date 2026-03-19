@@ -1,11 +1,11 @@
 ---
-description: 영업 Insight 작업의 중요한 순간 - Marketo 문서 - 제품 설명서
+description: Sales Insight Actions 의 흥미로운 순간에 대해 알아봅니다. Marketo 및 Salesforce에서 주요 활동이 기록되고 표시되는 방식을 이해합니다.
 title: Sales Insight Actions의 즐거운 순간
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---

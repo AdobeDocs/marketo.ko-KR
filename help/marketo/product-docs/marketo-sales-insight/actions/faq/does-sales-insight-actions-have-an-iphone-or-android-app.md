@@ -1,12 +1,12 @@
 ---
-description: Sales Insight 작업에는 iPhone 또는 Android 앱이 있습니까? - Marketo 설명서 - 제품 설명서
+description: Sales Insight Actions에 iPhone 또는 Android용 모바일 앱이 있는지 확인합니다. 모바일 장치에서 작업을 사용하는 방법을 알아봅니다.
 title: Sales Insight Actions에 iPhone 또는 Android 앱이 있습니까?
 exl-id: 2789c76e-a26f-4efd-ae6b-e897197b9f55
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 27%
+source-wordcount: '59'
+ht-degree: 16%
 
 ---
 

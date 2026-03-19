@@ -1,12 +1,12 @@
 ---
-description: Campaign 종료됨 - Marketo 문서 - 제품 설명서
+description: 캠페인이 종료된 상태에서 예약된 캠페인 이메일이 실패한 이유를 이해합니다. 바운스, 답글 또는 수동 캠페인 종료와 같은 원인을 찾습니다.
 title: 캠페인이 종료됨
 exl-id: ca1ec3bb-7e7d-4524-b8ac-f0ce386c0c36
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 9%
+source-wordcount: '74'
+ht-degree: 8%
 
 ---
 

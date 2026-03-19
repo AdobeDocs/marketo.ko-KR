@@ -1,12 +1,12 @@
 ---
-description: 이메일 서명 추가 또는 업데이트 - Marketo 문서 - 제품 설명서
+description: Sales Insight 작업에서 이메일 서명을 추가하거나 업데이트하는 방법에 대해 알아봅니다. 기본 서명을 설정합니다.
 title: 이메일 서명 추가 또는 업데이트
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 11%
+source-wordcount: '112'
+ht-degree: 10%
 
 ---
 

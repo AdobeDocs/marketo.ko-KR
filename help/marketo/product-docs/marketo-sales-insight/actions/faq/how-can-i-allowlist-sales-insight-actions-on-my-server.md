@@ -1,12 +1,12 @@
 ---
-description: 내 서버에서 판매 Insight 작업을 어떻게 허용 목록 할 수 있습니까? - Marketo 설명서 - 제품 설명서
+description: 서버 또는 방화벽에서 Sales Insight 작업 허용 목록 방법을 알아봅니다. 추적 및 전달을 허용할 IP 및 도메인을 가져옵니다.
 title: 내 서버에서 Sales Insight Actions를 허용 목록에 추가하려면 어떻게 해야 합니까?
 exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 20%
+source-wordcount: '77'
+ht-degree: 12%
 
 ---
 

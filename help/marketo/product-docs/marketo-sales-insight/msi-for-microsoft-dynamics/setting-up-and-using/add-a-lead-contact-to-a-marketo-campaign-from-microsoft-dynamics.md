@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953342
-description: Microsoft Dynamics - Marketo 문서 - 제품 설명서에서 Marketo 캠페인에 리드/연락처 추가
+description: Microsoft Dynamics에서 Marketo 캠페인에 리드 또는 연락처를 추가하는 방법을 알아봅니다. MSI 패널을 사용하여 캠페인에 리드를 추가합니다.
 title: Microsoft Dynamics에서 Marketo 캠페인에 리드/연락처 추가
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 10%
+source-wordcount: '136'
+ht-degree: 9%
 
 ---
 

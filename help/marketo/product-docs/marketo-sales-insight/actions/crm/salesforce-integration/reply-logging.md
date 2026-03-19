@@ -1,13 +1,13 @@
 ---
-description: 회신 로깅 - Marketo 문서 - 제품 설명서
+description: 잠재 고객 답글이 Salesforce에 기록되도록 답글 로깅에 대해 알아봅니다. API 로깅이 켜져 있고 회신 추적을 사용할 수 있는 경우 로그 회신 을 활성화합니다.
 title: 답변 로깅
 hide: true
 hidefromtoc: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '255'
 ht-degree: 2%
 
 ---

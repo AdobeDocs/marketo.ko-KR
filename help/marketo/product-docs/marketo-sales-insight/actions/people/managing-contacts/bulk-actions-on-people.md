@@ -1,12 +1,12 @@
 ---
-description: 인력에 대한 대량 작업 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업에서 직원에 대해 대량 작업을 실행하는 방법을 알아봅니다. 캠페인을 추가하거나 이메일을 보내거나 한 번에 여러 연락처를 삭제할 수 있습니다.
 title: 사용자에 대한 일괄 작업
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 8%
+source-wordcount: '144'
+ht-degree: 7%
 
 ---
 

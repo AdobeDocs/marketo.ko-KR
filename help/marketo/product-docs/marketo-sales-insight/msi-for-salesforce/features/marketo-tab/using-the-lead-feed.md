@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512979
-description: 리드 피드 사용 - Marketo 문서 - 제품 설명서
+description: Salesforce의 Marketo 탭에서 리드 피드를 사용하는 방법을 알아봅니다. 피드의 실시간 잠재 고객 활동 및 참여 를 참조하십시오.
 title: 리드 피드 사용
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '342'
 ht-degree: 3%
 
 ---

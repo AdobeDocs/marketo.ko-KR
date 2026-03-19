@@ -1,11 +1,11 @@
 ---
-description: Salesforce - Marketo 문서 - 제품 설명서와 구독 취소 동기화
+description: Sales Insight 작업과 Salesforce 간에 구독 취소를 동기화하는 방법을 알아봅니다. 시스템 전체에서 옵트아웃 상태를 일관되게 유지합니다.
 title: Salesforce와 구독 취소 동기화
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '467'
 ht-degree: 2%
 
 ---

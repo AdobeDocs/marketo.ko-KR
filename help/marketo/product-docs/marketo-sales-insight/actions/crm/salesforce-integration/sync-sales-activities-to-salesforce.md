@@ -1,10 +1,10 @@
 ---
-description: 영업 활동을 Salesforce - Marketo 문서 - 제품 설명서에 동기화
+description: API 또는 BCC를 통해 영업 활동을 Salesforce에 동기화하는 방법을 알아봅니다. 이메일 및 호출 로깅을 구성합니다.
 title: 세일즈 활동을 Salesforce에 동기화
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '769'
 ht-degree: 1%
 
 ---

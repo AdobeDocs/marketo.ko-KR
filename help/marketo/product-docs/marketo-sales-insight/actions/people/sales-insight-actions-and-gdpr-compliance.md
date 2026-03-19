@@ -1,11 +1,11 @@
 ---
-description: 영업 Insight 작업 및 GDPR 준수 - Marketo 문서 - 제품 설명서
+description: Sales Insight 작업 및 GDPR 준수에 대해 알아봅니다. 데이터 처리 및 개인정보 보호 및 동의를 지원하는 옵션을 이해합니다.
 title: Sales Insight Actions 및 GDPR 규정 준수
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1307'
+source-wordcount: '1315'
 ht-degree: 1%
 
 ---

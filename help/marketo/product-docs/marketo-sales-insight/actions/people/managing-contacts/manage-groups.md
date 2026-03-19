@@ -1,12 +1,12 @@
 ---
-description: 그룹 관리 - Marketo 문서 - 제품 설명서
+description: 판매 Insight 작업에서 연락처 그룹을 관리하는 방법을 알아봅니다. 이메일 및 캠페인에 그룹을 생성, 편집, 공유 및 사용합니다.
 title: 그룹 관리
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 2%
+source-wordcount: '325'
+ht-degree: 3%
 
 ---
 

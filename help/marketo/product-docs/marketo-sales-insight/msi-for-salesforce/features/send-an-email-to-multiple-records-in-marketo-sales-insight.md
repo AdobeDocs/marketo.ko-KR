@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472672
-description: Marketo Sales Insight - Marketo 문서 - 제품 설명서에서 여러 레코드에 이메일 보내기
+description: Salesforce의 Marketo Sales Insight에서 여러 레코드로 이메일을 보내는 방법을 알아봅니다. 계정 또는 영업 기회에 있는 모든 담당자에게 이메일을 보냅니다.
 title: Marketo Sales Insight에서 여러 레코드에 이메일 보내기
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 10%
+source-wordcount: '133'
+ht-degree: 9%
 
 ---
 

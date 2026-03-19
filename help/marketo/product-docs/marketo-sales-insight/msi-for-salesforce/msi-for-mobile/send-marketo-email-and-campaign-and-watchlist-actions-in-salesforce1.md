@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511931
-description: Salesforce1에서 Marketo 이메일, 캠페인 및 관심 목록 작업 보내기 - Marketo 문서 - 제품 설명서
+description: Salesforce Mobile에서 Marketo 이메일을 보내고 캠페인 및 관심 목록 작업을 사용하는 방법을 알아봅니다. 모바일에서 MSI 작업 사용.
 title: Salesforce1에서 Marketo 이메일, 캠페인 및 관심 목록 작업 보내기
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 7%
+source-wordcount: '159'
+ht-degree: 6%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >어떤 스마트 캠페인이 표시됩니까? &quot;Campaign이 요청됨&quot; 트리거가 있는 트리거입니다. &quot;캠페인이 요청됨[&quot;을(를) 사용하여 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)트리거된 캠페인을 설정하는 방법을 알아봅니다.
+   >어떤 스마트 캠페인이 표시됩니까? &quot;Campaign이 요청됨&quot; 트리거가 있는 트리거입니다. &quot;캠페인이 요청됨[&quot;을(를) 사용하여 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)트리거된 캠페인을 설정하는 방법을 알아봅니다.
 
 좋습니다. 이제 영업사원이 마케팅 활동에 적극적으로 참여할 수 있습니다.
 

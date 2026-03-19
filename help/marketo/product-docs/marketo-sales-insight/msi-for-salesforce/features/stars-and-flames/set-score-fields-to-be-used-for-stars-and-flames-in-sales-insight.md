@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360301
-description: Sales Insight - Marketo 문서 - 제품 설명서에서 Stars and Flames에 사용할 스코어 필드 설정
+description: Sales Insight에서 별과 불꽃에 대한 스코어 필드를 설정하는 방법에 대해 알아봅니다. Marketo 스코어 필드를 Salesforce의 MSI 표시에 매핑합니다.
 title: Sales Insight에서 Stars 및 Flames에 사용할 점수 필드 설정
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 9%
+source-wordcount: '152'
+ht-degree: 11%
 
 ---
 

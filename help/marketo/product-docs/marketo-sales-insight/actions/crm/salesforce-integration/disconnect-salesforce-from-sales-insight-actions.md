@@ -1,13 +1,13 @@
 ---
-description: 영업 Insight에서 Salesforce 연결 끊기 작업 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업에서 Salesforce의 연결을 끊는 방법을 알아봅니다.
 title: Sales Insight Actions에서 Salesforce 연결 해제
 hide: true
 hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 10%
 
 ---

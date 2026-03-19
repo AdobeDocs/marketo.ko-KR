@@ -1,14 +1,14 @@
 ---
-description: 템플릿 범주 관리 - Marketo 문서 - 제품 설명서
+description: 판매 Insight 작업에서 템플릿 범주를 관리하는 방법을 알아봅니다. 템플릿을 카테고리로 구성하고 공유를 제어합니다.
 title: 템플릿 카테고리 관리
 hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 10%
+source-wordcount: '123'
+ht-degree: 19%
 
 ---
 

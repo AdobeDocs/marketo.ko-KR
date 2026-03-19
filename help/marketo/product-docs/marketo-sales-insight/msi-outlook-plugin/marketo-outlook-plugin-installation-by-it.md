@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382815
-description: IT별 Marketo [!DNL Outlook] 플러그인 설치 - Marketo 문서 - 제품 설명서
+description: IT에서 조직에 대한 Marketo Outlook 플러그인을 설치하는 방법을 알아봅니다. Outlook 사용자를 위해 추가 기능을 규모에 맞게 배포합니다.
 title: IT에서 제공하는 Marketo [!DNL Outlook] 플러그인 설치
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---

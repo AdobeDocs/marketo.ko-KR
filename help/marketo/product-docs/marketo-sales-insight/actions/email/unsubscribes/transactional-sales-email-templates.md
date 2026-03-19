@@ -1,11 +1,11 @@
 ---
-description: 트랜잭션 판매 이메일 템플릿 - Marketo 문서 - 제품 설명서
+description: 트랜잭션 판매 이메일 템플릿 및 구독 취소 링크가 필요하지 않은 경우에 대해 알아봅니다. 일대일 트랜잭션 메시지에 사용합니다.
 title: 트랜잭션 세일즈 이메일 템플릿
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '183'
 ht-degree: 4%
 
 ---

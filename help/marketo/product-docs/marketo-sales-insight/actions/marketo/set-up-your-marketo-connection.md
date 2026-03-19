@@ -1,13 +1,13 @@
 ---
-description: Marketo 연결 설정 - Marketo 문서 - 제품 설명서
+description: 판매 Insight 작업에 대한 Marketo 연결을 설정하는 방법을 알아봅니다. Marketo 관리에서 연결하여 인스턴스에 대한 작업을 활성화합니다.
 title: Marketo 연결 설정
 hide: true
 hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '180'
 ht-degree: 5%
 
 ---

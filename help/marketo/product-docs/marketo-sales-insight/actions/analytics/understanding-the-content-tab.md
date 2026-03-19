@@ -1,11 +1,11 @@
 ---
-description: 콘텐츠 탭 이해 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업의 컨텐츠 탭과 템플릿 참여 지표를 이해합니다. 비밀 무기, 최고 및 최저 참여, 최고 첨부 파일 및 링크를 봅니다.
 title: 콘텐츠 탭 이해
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '198'
 ht-degree: 2%
 
 ---

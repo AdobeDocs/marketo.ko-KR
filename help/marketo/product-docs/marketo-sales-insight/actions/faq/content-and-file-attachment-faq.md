@@ -1,11 +1,11 @@
 ---
-description: 컨텐츠 및 파일 첨부 파일 FAQ - Marketo 문서 - 제품 설명서
+description: 영업 이메일의 콘텐츠와 첨부 파일에 대한 일반적인 질문에 대한 답변을 받아 보십시오. 크기 제한, 추적 및 모범 사례에 대해 알아봅니다.
 title: 콘텐츠 및 파일 첨부 FAQ
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '271'
 ht-degree: 3%
 
 ---

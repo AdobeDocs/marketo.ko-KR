@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953338
-description: Microsoft Dynamics에서 Marketo 판매 이메일 보내기 - Marketo 문서 - 제품 설명서
+description: Microsoft Dynamics에서 Marketo 판매 이메일을 보내는 방법을 알아봅니다. Dynamics의 MSI 패널에서 추적된 이메일을 작성하고 보냅니다.
 title: Microsoft Dynamics에서 Marketo 세일즈 이메일 보내기
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '157'
 ht-degree: 6%
 
 ---

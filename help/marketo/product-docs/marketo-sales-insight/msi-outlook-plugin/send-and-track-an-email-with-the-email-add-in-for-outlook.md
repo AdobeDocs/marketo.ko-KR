@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949716
-description: ' [!DNL Outlook] 용 이메일 추가 기능을 사용하여 이메일 보내기 및 추적 - Marketo 문서 - 제품 설명서'
+description: Outlook용 Marketo 이메일 추가 기능을 사용하여 이메일을 보내고 추적하는 방법에 대해 알아봅니다. Outlook에서 작성하여 보기, 클릭 수 및 답글을 확인합니다.
 title: ' [!DNL Outlook]의 전자 메일 추가 기능을 사용하여 전자 메일 전송 및 추적'
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---

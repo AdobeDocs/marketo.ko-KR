@@ -1,12 +1,12 @@
 ---
-description: 통화 기록 활성화 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업에서 통화 녹화를 활성화하는 방법을 알아봅니다. 녹화를 켜고 필요한 경우 서드파티 동의를 준수합니다.
 title: 통화 녹음 활성화
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 6%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: 내 계정이 잠겼습니다. 어떻게 해야 합니까? - Marketo 설명서 - 제품 설명서
+description: 영업 Insight 작업 계정이 잠기면 도움말을 봅니다. 암호를 재설정하거나 Salesforce을 다시 연결하여 다시 액세스하는 방법에 대해 알아봅니다.
 title: 내 계정이 잠겼습니다. 어떻게 잠금을 해제합니까?
 exl-id: e3ef9909-36e6-434b-8f6e-161af69e093b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 61%
+source-wordcount: '61'
+ht-degree: 36%
 
 ---
 

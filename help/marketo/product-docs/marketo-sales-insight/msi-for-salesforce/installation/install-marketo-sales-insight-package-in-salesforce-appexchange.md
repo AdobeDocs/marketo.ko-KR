@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516390
-description: Salesforce AppExchange - Marketo 설명서 - 제품 설명서에 Marketo Sales Insight 패키지 설치
+description: Salesforce AppExchange에서 Marketo Sales Insight 패키지를 설치하는 방법을 알아봅니다. 패키지를 Salesforce 인스턴스에 추가합니다.
 title: Salesforce AppExchange에서 Marketo Sales Insight 패키지 설치
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 5%
+source-wordcount: '218'
+ht-degree: 6%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 >
 >[!DNL Marketo Sales Insight]은(는) [!DNL Salesforce] 플랫폼(Shield) 암호화와 호환됩니다.
 
-1. [&#x200B; [!DNL Marketo Sales Insight]의 &#x200B;](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)AppExchange 페이지로 이동한 다음 **[!UICONTROL Get it Now]**&#x200B;을(를) 클릭합니다.
+1. [ [!DNL Marketo Sales Insight]의 ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)AppExchange 페이지로 이동한 다음 **[!UICONTROL Get it Now]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 

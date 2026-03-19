@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11375827
-description: Marketo과 Dynamics 동기화 필수 필드 - Marketo 문서 - 제품 설명서
+description: Marketo과 Dynamics를 동기화하는 데 필요한 필드에 대해 알아봅니다. MSI가 올바르게 작동하도록 올바른 필드가 매핑되어 있는지 확인합니다.
 title: Marketo와 Dynamics 동기화에 필요한 필드
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 6%
+source-wordcount: '159'
+ht-degree: 5%
 
 ---
 

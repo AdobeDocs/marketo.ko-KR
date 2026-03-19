@@ -1,12 +1,12 @@
 ---
-description: 팀에 대한 사용자 지정 게재 채널 설정 - Marketo 문서 - 제품 설명서
+description: 팀에 대한 사용자 지정 게재 채널을 설정하는 방법을 알아봅니다. 판매 이메일에 대한 전송 및 추적을 구성합니다.
 title: 팀을 위한 사용자 정의 게재 채널 설정
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 11%
+source-wordcount: '165'
+ht-degree: 14%
 
 ---
 

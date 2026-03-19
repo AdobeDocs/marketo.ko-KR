@@ -1,11 +1,11 @@
 ---
-description: 필드 프롬프트 - Marketo 문서 - 제품 설명서
+description: 이메일 템플릿의 필드 프롬프트에 대해 알아봅니다. 보낼 때 발신자에게 사용자 지정 콘텐츠를 입력하라는 메시지를 표시하는 자리 표시자를 추가합니다.
 title: 필드 프롬프트
 exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 3%
+source-wordcount: '174'
+ht-degree: 2%
 
 ---
 

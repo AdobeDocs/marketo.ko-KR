@@ -1,12 +1,12 @@
 ---
-description: MSI 보기 설정 - Marketo 문서 - 제품 설명서
+description: Microsoft Dynamics에서 MSI 보기를 설정하는 방법을 알아봅니다. 사용자를 위해 표시되는 Marketo Sales Insight 탭 및 데이터를 구성합니다.
 title: MSI 보기 설정
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 3%
+source-wordcount: '249'
+ht-degree: 4%
 
 ---
 
@@ -54,4 +54,4 @@ URL: mkt_/MainViewWebActivity.html</br>
 ID: marketo_anonymous_webactivity</br>
 제목: 익명 웹 활동
 
-1. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.

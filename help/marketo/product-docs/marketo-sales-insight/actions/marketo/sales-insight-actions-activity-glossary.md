@@ -1,12 +1,12 @@
 ---
-description: 영업 Insight 작업 활동 용어집 - Marketo 문서 - 제품 설명서
+description: 판매 Insight 작업 활동 유형 및 약관에 대해 알아봅니다. 용어집을 사용하여 Marketo 및 Salesforce과 동기화하는 활동을 이해합니다.
 title: Sales Insight Actions 활동 용어집
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 7%
+source-wordcount: '319'
+ht-degree: 6%
 
 ---
 

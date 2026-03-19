@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720314
-description: 영업 Insight 이메일 성과 보고서 - Marketo 문서 - 제품 설명서
+description: Salesforce의 Sales Insight 이메일 성과 보고서에 대해 알아봅니다. 영업 이메일에 대한 이메일 지표 및 참여 보기
 title: Sales Insight 이메일 성과 보고서
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 9%
+source-wordcount: '146'
+ht-degree: 22%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 9%
 
 설정을 변경하여 Sales Rep 별로 그룹화된 이 보고서를 볼 수 있습니다.
 
-1. **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다. **[!UICONTROL Email]**&#x200B;을(를) 두 번 클릭합니다.
+1. **[!UICONTROL Setup]**&#x200B;를 클릭합니다. **[!UICONTROL Email]**&#x200B;을(를) 두 번 클릭합니다.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 

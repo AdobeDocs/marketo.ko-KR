@@ -1,12 +1,12 @@
 ---
-description: 제품 사용 제한 - Marketo 문서 - 제품 설명서
+description: Sales Insight Actions 제품 사용 제한을 이해합니다. 계정의 이메일, 호출 및 API 제한에 대해 알아봅니다.
 title: 제품 사용 제한 사항
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 18%
+source-wordcount: '243'
+ht-degree: 17%
 
 ---
 

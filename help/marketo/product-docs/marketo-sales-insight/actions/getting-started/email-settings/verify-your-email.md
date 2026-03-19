@@ -1,11 +1,11 @@
 ---
-description: 이메일 확인 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업에서 이메일 주소를 확인하는 방법을 알아봅니다. 추적된 판매 이메일을 보낼 수 있도록 확인을 완료합니다.
 title: 이메일 확인
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '104'
 ht-degree: 7%
 
 ---

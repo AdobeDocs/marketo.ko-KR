@@ -1,12 +1,12 @@
 ---
-description: Salesforce 동기화 설정 - Marketo 문서 - 제품 설명서
+description: 이메일 활동 기록을 위한 Salesforce 동기화 설정을 구성하는 방법을 알아봅니다.
 title: Salesforce 동기화 설정
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '574'
-ht-degree: 2%
+source-wordcount: '578'
+ht-degree: 4%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 2%
 
    ![](assets/salesforce-sync-settings-4.png)
 
-1. **[!UICONTROL Salesforce API]** 탭을 클릭합니다. 이 카드에서 정보를 [!DNL Salesforce]&#x200B;(으)로 로깅하는 기본 설정을 설정할 수 있습니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Salesforce API]** 탭을 클릭합니다. 이 카드에서 정보를 [!DNL Salesforce]&#x200B;(으)로 로깅하는 기본 설정을 설정할 수 있습니다. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/salesforce-sync-settings-5.png)
 

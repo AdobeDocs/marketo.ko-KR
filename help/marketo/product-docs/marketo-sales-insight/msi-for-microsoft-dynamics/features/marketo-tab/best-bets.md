@@ -1,12 +1,12 @@
 ---
-description: 최상의 선택 - Marketo 문서 - 제품 설명서
+description: Marketo Sales Insight for Dynamics의 모범 사례에 대해 알아봅니다. 어떤 리드가 가장 많이 참여하며 봉사 준비가 되었는지 확인합니다.
 title: Best Bets
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 3%
+source-wordcount: '69'
+ht-degree: 2%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 3%
 * [!UICONTROL Send Marketo Email]
 * [!UICONTROL Add to Marketo Campaign]
 
-[!DNL Best Bets] 탭에서 여러 리드를 선택하고 _[!UICONTROL Send Marketo Email]_&#x200B;또는&#x200B;_[!UICONTROL Add to Marketo Campaign]_&#x200B;을(를) 선택할 수도 있습니다.
+[!DNL Best Bets] 탭에서 여러 리드를 선택하고 _[!UICONTROL Send Marketo Email]_또는_[!UICONTROL Add to Marketo Campaign]_&#x200B;을(를) 선택할 수도 있습니다.
 
 ![](assets/best-bets-1.png)

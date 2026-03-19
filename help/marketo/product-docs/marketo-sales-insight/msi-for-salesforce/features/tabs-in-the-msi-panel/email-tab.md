@@ -1,11 +1,11 @@
 ---
-description: 이메일 탭 - Marketo 문서 - 제품 설명서
+description: Marketo Sales Insight 패널의 이메일 탭에 대해 알아봅니다. 잠재 고객 또는 연락처에 대해 보낸 이메일, 열기, 클릭 수 및 답글을 봅니다.
 title: 이메일 탭
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '171'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 이메일 탭에는 연락처 또는 잠재 고객에게 전송된 모든 이메일 목록이 표시됩니다. 여기에는 다음 열이 포함됩니다.
 
 * 제목
-* Date
+* 일자
 * 열림
 * 클릭됨
 

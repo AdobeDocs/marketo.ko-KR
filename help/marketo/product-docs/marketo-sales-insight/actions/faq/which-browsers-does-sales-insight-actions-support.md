@@ -1,12 +1,12 @@
 ---
-description: Sales Insight 작업은 어떤 브라우저를 지원합니까? - Marketo 설명서 - 제품 설명서
+description: Sales Insight Actions에서 지원하는 브라우저를 확인합니다. 최상의 경험을 위해 지원되는 브라우저를 사용하십시오.
 title: Sales Insight Actions가 지원하는 브라우저는 무엇입니까?
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 31%
+source-wordcount: '66'
+ht-degree: 28%
 
 ---
 

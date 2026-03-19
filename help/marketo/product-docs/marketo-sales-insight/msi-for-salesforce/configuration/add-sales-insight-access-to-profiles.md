@@ -1,12 +1,12 @@
 ---
-description: 프로필에 Sales Insight 액세스 추가 - Marketo 문서 - 제품 설명서
+description: Salesforce 프로필에 Sales Insight 액세스 권한을 추가하는 방법을 알아봅니다. 사용자에게 Marketo Sales Insight 패키지에 대한 액세스 권한을 부여합니다.
 title: 프로필에 Sales Insight 액세스 추가
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 1%
+source-wordcount: '372'
+ht-degree: 5%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 1%
 
 1. 복제할 프로필을 선택하고 이름을 지정합니다(예: Sales Insight 사용자).
 
-1. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 ## [!DNL Sales Insight] 권한 추가 {#add-sales-insight-permissions}
 
@@ -50,7 +50,7 @@ ht-degree: 1%
    * 탭 설정에서 Marketo 탭을 탭 숨김으로 변경합니다
    * 사용자 지정 개체 권한에서 [!DNL Marketo Sales Insight] 구성에서 읽기, 만들기, 편집 및 삭제 선택을 취소합니다
 
-1. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 ## [!DNL Sales Insight]에 대한 레이아웃 만들기 {#create-layout-for-sales-insight}
 
@@ -58,7 +58,7 @@ ht-degree: 1%
 
 1. 선택한 레이아웃을 복제하고 레이아웃에 적절한 이름을 지정합니다(예: Sales Insight Layout).
 
-1. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 1. [!UICONTROL Contacts], [!UICONTROL Opportunities] 및 [!UICONTROL Accounts] 페이지 레이아웃에 대해 이 단계를 반복합니다.
 
@@ -70,7 +70,7 @@ ht-degree: 1%
 
 1. 목록에서 [!DNL Sales Insight] 프로필을 선택한 다음 &quot;[!DNL Sales insight]&quot; 드롭다운에서 [!UICONTROL Select Page Layout] 레이아웃을 선택합니다.
 
-1. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
 1. [!UICONTROL Contacts], [!UICONTROL Opportunities] 및 [!UICONTROL Accounts] 페이지 레이아웃에 대해 이 단계를 반복합니다.
 

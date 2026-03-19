@@ -1,11 +1,11 @@
 ---
-description: Salesforce Classic - Marketo 문서 - 제품 설명서에 일괄 작업 단추 추가
+description: Salesforce Classic의 목록 보기에 일괄 작업 버튼을 추가하는 방법을 알아봅니다. 판매 이메일 보내기 및 판매 캠페인에 추가 버튼을 추가합니다.
 title: Salesforce Classic에 일괄 작업 버튼 추가
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '102'
 ht-degree: 7%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 7%
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. **[!UICONTROL Setup]**&#x200B;을(를) 클릭합니다. &quot;[!UICONTROL search layout]&quot;을(를) 검색하고 **[!UICONTROL Search Layouts]** 아래의 **[!UICONTROL Leads]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Setup]**&#x200B;를 클릭합니다. &quot;[!UICONTROL search layout]&quot;을(를) 검색하고 **[!UICONTROL Search Layouts]** 아래의 **[!UICONTROL Leads]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 

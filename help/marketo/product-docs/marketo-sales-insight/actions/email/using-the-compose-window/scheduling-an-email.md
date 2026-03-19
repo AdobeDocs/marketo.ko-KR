@@ -1,9 +1,9 @@
 ---
-description: 이메일 예약 - Marketo 문서 - 제품 설명서
+description: 판매 이메일을 예약하여 나중에 게재하는 방법을 알아봅니다. Sales Insight 작업 또는 받은 편지함에서 작성할 날짜 및 시간을 설정합니다.
 title: 이메일 예약
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '147'
 ht-degree: 4%
 
 ---

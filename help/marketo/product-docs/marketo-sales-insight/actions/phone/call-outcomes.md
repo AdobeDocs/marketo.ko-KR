@@ -1,11 +1,11 @@
 ---
-description: 호출 결과 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업의 호출 결과에 대해 알아봅니다. 호출을 종료할 때의 결과를 기록하여 활동이 Marketo 및 Salesforce에 기록됩니다.
 title: 통화 결과
 exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '196'
 ht-degree: 2%
 
 ---

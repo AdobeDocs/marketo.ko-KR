@@ -1,12 +1,12 @@
 ---
-description: Salesforce Lightning 사용자 지정 패키지 제거 - Marketo 문서 - 제품 설명서
+description: Sales Insight용 Salesforce Lightning 사용자 지정 패키지를 제거하는 방법을 알아봅니다. 필요한 경우 Salesforce 인스턴스에서 패키지를 제거합니다.
 title: Salesforce Lightning 사용자 지정 패키지 제거
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '993'
-ht-degree: 11%
+source-wordcount: '1005'
+ht-degree: 12%
 
 ---
 
@@ -54,7 +54,7 @@ MSI 작업 패키지 사용을 시작하면 [!DNL Sales Connect] 계정에서 Ma
 
 1. 이 섹션에 추가할 수 있는 10가지 유형의 MSC 필드가 있습니다. 추가한 필드를 모두 제거하거나 간단히 전체 섹션을 삭제합니다.
 
-1. 완료되면 **[!UICONTROL Quick Save]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Quick Save]**&#x200B;를 클릭합니다.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-8.png)
 
@@ -72,7 +72,7 @@ MSI 작업 패키지 사용을 시작하면 [!DNL Sales Connect] 계정에서 Ma
 
    ![](assets/uninstall-salesforce-lightning-customization-package-10.png)
 
-1. 완료되면 **[!UICONTROL Quick Save]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Quick Save]**&#x200B;를 클릭합니다.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-11.png)
 
@@ -82,7 +82,7 @@ MSI 작업 패키지 사용을 시작하면 [!DNL Sales Connect] 계정에서 Ma
 
    ![](assets/uninstall-salesforce-lightning-customization-package-12.png)
 
-1. [!DNL Sales Connect] 영역에서 [!UICONTROL Selected Fields] 필드를 선택하고 [!UICONTROL Remove] 화살표를 클릭합니다. 완료되면 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. [!DNL Sales Connect] 영역에서 [!UICONTROL Selected Fields] 필드를 선택하고 [!UICONTROL Remove] 화살표를 클릭합니다. 완료되면 **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-13.png)
 

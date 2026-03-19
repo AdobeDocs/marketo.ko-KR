@@ -1,11 +1,11 @@
 ---
-description: 이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가 - Marketo 문서 - 제품 설명서
+description: 판매 이메일에 첨부 파일 또는 추적 가능한 콘텐츠를 추가하는 방법을 알아봅니다. 참여 추적을 위해 파일을 첨부하거나 추적 가능한 링크 및 콘텐츠를 추가합니다.
 title: 이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '409'
 ht-degree: 4%
 
 ---

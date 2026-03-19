@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762519
-description: 기존 고객에 대한 구성 - Marketo 문서 - 제품 설명서
+description: 기존 Salesforce 고객을 위해 Marketo Sales Insight을 구성하는 방법을 알아봅니다. 이전 패키지에서 업데이트하거나 작업을 추가합니다.
 title: 기존 고객에 대한 구성
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '157'
 ht-degree: 10%
 
 ---

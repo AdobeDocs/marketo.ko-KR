@@ -1,11 +1,11 @@
 ---
-description: 팀 탭 이해 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업의 팀 탭 및 팀 전체 이메일 지표를 이해합니다. 템플릿 사용, 최대 참여 시간, 종료된 거래 및 담당자 리더보드를 봅니다.
 title: 팀 탭 이해
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '152'
 ht-degree: 2%
 
 ---

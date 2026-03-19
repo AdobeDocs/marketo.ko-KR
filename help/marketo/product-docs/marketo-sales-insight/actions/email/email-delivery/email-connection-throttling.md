@@ -1,11 +1,11 @@
 ---
-description: 이메일 연결 제한 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업의 이메일 연결 제한 및 전송 제한을 이해합니다. 제한이 전달에 미치는 영향 및 제한 범위를 유지하는 방법을 알아봅니다.
 title: 이메일 연결 제한
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '409'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: 판매 캠페인 만들기 - Marketo 문서 - 제품 설명서
+description: 이메일, 호출, InMail 및 사용자 지정 작업 단계를 사용하여 판매 캠페인을 만드는 방법을 알아봅니다. 봉사 활동을 구성, 크기 조정 및 측정할 수 있습니다.
 title: 세일즈 캠페인 만들기
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 2%
+source-wordcount: '314'
+ht-degree: 3%
 
 ---
 

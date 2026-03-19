@@ -1,12 +1,12 @@
 ---
-description: Marketo 영업 암호 변경 - Marketo 문서 - 제품 설명서
+description: 판매 Insight 작업에서 Marketo 판매 암호를 변경하는 방법을 알아봅니다. Salesforce 전용 로그인을 사용하지 않을 때 설정에서 암호를 업데이트합니다.
 title: Marketo Sales 암호 변경
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 8%
+source-wordcount: '172'
+ht-degree: 11%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 8%
 
    ![](assets/change-your-marketo-sales-password-2.png)
 
-1. 현재 암호를 입력합니다. 그런 다음 새 이름을 입력하고 일치하는지 다시 입력합니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 현재 암호를 입력합니다. 그런 다음 새 이름을 입력하고 일치하는지 다시 입력합니다. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/change-your-marketo-sales-password-3.png)
 
@@ -59,6 +59,6 @@ ht-degree: 8%
    >
    >이 이메일이 스팸 폴더로 배달되는 경우가 있으므로 스팸 폴더도 반드시 확인하십시오.
 
-1. 새 암호를 입력하고 확인합니다. 완료되면 **[!UICONTROL Set Password]**&#x200B;을(를) 클릭합니다.
+1. 새 암호를 입력하고 확인합니다. 완료되면 **[!UICONTROL Set Password]**&#x200B;를 클릭합니다.
 
    ![](assets/change-your-marketo-sales-password-8.png)

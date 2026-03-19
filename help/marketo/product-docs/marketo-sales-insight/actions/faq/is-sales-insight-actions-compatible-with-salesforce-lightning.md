@@ -1,14 +1,14 @@
 ---
-description: 영업 Insight 액션이 Salesforce Lightning과 호환됩니까? - Marketo 설명서 - 제품 설명서
+description: Sales Insight Actions 이 Salesforce Lightning 과 호환되는지 확인합니다. 번개 경험에서 작업 을 사용합니다.
 title: Sales Insight Actions는 Salesforce Lightning과 호환됩니까?
 hide: true
 hidefromtoc: true
 exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 24%
+source-wordcount: '55'
+ht-degree: 14%
 
 ---
 

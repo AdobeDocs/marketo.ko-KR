@@ -1,11 +1,11 @@
 ---
-description: Salesforce - Marketo 문서 - 제품 설명서와 미리 알림 작업 동기화
+description: 미리 알림 작업이 Salesforce과 동기화되는 방법을 알아봅니다. 작업의 이메일, 호출 및 사용자 지정 작업이 Salesforce 활동에 표시되는지 확인합니다.
 title: Salesforce와 알림 작업 동기화
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '497'
 ht-degree: 1%
 
 ---
@@ -81,4 +81,4 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->[!DNL Sales Insight Actions]활동 세부 정보 사용자 지정[!DNL Salesforce] 설정에서 `{{activity_subject}}` 동적 필드를 사용하는 경우 [에서 작업의 제목 필드를 업데이트할 수 있으며 해당 업데이트는 동기화된 작업의 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 제목 필드에서 동기화됩니다. 반대로 [!DNL Salesforce]의 제목 필드를 업데이트하면 *미리 알림 작업 제목 필드와*&#x200B;동기화되지[!DNL Sales Insight Actions]않습니다.
+>[!DNL Sales Insight Actions]활동 세부 정보 사용자 지정[!DNL Salesforce] 설정에서 `{{activity_subject}}` 동적 필드를 사용하는 경우 [에서 작업의 제목 필드를 업데이트할 수 있으며 해당 업데이트는 동기화된 작업의 ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 제목 필드에서 동기화됩니다. 반대로 [!DNL Salesforce]의 제목 필드를 업데이트하면 *미리 알림 작업 제목 필드와*&#x200B;동기화되지[!DNL Sales Insight Actions]않습니다.

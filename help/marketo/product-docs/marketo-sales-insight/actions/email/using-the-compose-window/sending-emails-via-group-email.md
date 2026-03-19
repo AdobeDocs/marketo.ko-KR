@@ -1,12 +1,12 @@
 ---
-description: 그룹 이메일을 통한 이메일 보내기 - Marketo 문서 - 제품 설명서
+description: 그룹 이메일을 통해 판매 이메일을 보내는 방법에 대해 알아봅니다. 추적 및 개인화 옵션을 사용하여 한 번에 여러 수신자에게 이메일을 보낼 수 있습니다.
 title: 그룹 이메일을 통해 이메일 보내기
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 6%
+source-wordcount: '164'
+ht-degree: 7%
 
 ---
 

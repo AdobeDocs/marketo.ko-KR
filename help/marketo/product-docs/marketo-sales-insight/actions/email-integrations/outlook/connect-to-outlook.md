@@ -1,11 +1,11 @@
 ---
-description: Outlook에 연결 - Marketo 문서 - 제품 설명서
+description: Outlook을 Sales Insight 작업에 연결하는 방법을 알아봅니다. 작업 통합을 사용하여 Outlook에서 판매 이메일을 보내고 추적합니다.
 title: Outlook에 연결
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 2%
+source-wordcount: '498'
+ht-degree: 3%
 
 ---
 
@@ -78,7 +78,7 @@ Outlook에 연결하면 회신 추적을 받고, Outlook 게재 채널에 액세
 
    >[!NOTE]
    >
-   >Outlook Online(Office365)에서는 자체 전송 제한을 적용합니다. [자세히 알아보기](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >Outlook Online(Office365)에서는 자체 전송 제한을 적용합니다. [여기에서 자세히 알아보십시오](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Exchange 온-프레미스에 연결 {#connecting-to-exchange-on-premise}
 

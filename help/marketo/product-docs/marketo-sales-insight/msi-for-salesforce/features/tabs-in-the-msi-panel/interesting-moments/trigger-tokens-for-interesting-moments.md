@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146999
-description: 즐거운 순간을 위한 트리거 토큰 - Marketo 문서 - 제품 설명서
+description: Marketo의 흥미로운 순간에 대한 트리거 토큰에 대해 알아봅니다. MSI 패널에서 흥미로운 순간을 만드는 활동을 구성합니다.
 title: 즐거운 순간에 대한 트리거 토큰
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '556'
 ht-degree: 40%
 
 ---

@@ -1,10 +1,10 @@
 ---
-description: Sales Insight Actions Sandbox 설정 - Marketo Docs - Product Documentation
+description: 테스트를 위해 Sales Insight Actions 샌드박스를 설정하는 방법을 알아봅니다. 프로비저닝을 요청하고 인스턴스를 활성화한 다음 Salesforce 샌드박스에 연결합니다.
 title: Sales Insight Actions 샌드박스 설정
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '682'
 ht-degree: 2%
 
 ---

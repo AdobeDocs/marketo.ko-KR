@@ -1,11 +1,11 @@
 ---
-description: Sales Insight 액세스 제거 - Marketo 문서 - 제품 설명서
+description: Salesforce의 사용자 또는 프로필에서 Sales Insight 액세스를 제거하는 방법을 알아봅니다. 사용자가 더 이상 MSI를 필요로 하지 않는 경우 액세스 취소
 title: Sales Insight 액세스 제거
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '342'
 ht-degree: 4%
 
 ---

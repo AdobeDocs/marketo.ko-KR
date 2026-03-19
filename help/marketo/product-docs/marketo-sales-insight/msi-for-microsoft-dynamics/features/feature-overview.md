@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37357043
-description: 기능 개요 - Marketo 문서 - 제품 설명서
+description: Microsoft Dynamics용 Marketo Sales Insight 기능에 대해 알아봅니다. Dynamics CRM에서 잠재 고객 점수, 활동 및 작업을 봅니다.
 title: 기능 개요
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 13%
+source-wordcount: '181'
+ht-degree: 12%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 13%
 
 ## 리드 레이아웃의 [!DNL Marketo Sales Insight]개 사용자 정의 필드  {#marketo-sales-insight-custom-fields-in-lead-layout}
 
-* 잠재 고객 점수
+* 리드 점수
 * 상대 스코어
 * 우선순위
 * 긴급도
@@ -50,7 +50,7 @@ ht-degree: 13%
 
 ## 연락처 레이아웃의 사용자 지정 필드 [!DNL Marketo Sales Insight]개  {#marketo-sales-insight-custom-fields-in-contact-layout}
 
-* 잠재 고객 점수
+* 리드 점수
 * 상대 스코어
 * 우선순위
 * 긴급도

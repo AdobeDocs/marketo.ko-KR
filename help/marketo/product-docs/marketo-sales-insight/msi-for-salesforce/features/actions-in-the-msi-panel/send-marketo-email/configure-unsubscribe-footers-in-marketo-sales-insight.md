@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953373
-description: Marketo Sales Insight - Marketo 설명서 - 제품 설명서에서 구독 취소 바닥글 구성
+description: Marketo Sales Insight에서 구독 취소 바닥글을 구성하는 방법을 알아봅니다. 판매 이메일에 대한 구독 취소 링크 및 규정 준수를 설정합니다.
 title: Marketo Sales Insight에서 구독 취소 바닥글 구성
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 5%
+source-wordcount: '192'
+ht-degree: 7%
 
 ---
 

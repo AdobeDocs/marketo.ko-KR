@@ -1,12 +1,12 @@
 ---
-description: 영업 캠페인 설정 - Marketo 문서 - 제품 설명서
+description: 주말 건너뛰기, 바운스 시 제거 및 회신 동작을 포함하여 Sales Campaign 설정을 구성하는 방법을 알아봅니다.
 title: 세일즈 캠페인 설정
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 5%
+source-wordcount: '217'
+ht-degree: 9%
 
 ---
 

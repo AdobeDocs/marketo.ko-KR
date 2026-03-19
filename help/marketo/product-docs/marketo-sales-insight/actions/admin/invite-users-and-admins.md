@@ -1,12 +1,12 @@
 ---
-description: 사용자 및 관리자 초대 - Marketo 문서 - 제품 설명서
+description: 사용자 관리에서 사용자 및 관리자를 Sales Insight 작업에 초대하는 방법을 알아봅니다. 이메일 또는 CSV를 통해 사용자를 추가하고 팀 및 Marketo 작업 영역을 할당합니다.
 title: 사용자 및 관리자 초대
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 6%
+source-wordcount: '188'
+ht-degree: 5%
 
 ---
 

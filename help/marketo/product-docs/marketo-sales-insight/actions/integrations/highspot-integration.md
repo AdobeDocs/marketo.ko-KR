@@ -1,11 +1,11 @@
 ---
-description: Highspot 통합 - Marketo 문서 - 제품 설명서
+description: Sales Insight Actions 과의 Highspot 통합에 대해 알아봅니다. 영업 이메일에서 Highspot 콘텐츠를 사용하고 참여를 추적합니다.
 title: Highspot 통합
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '346'
 ht-degree: 1%
 
 ---

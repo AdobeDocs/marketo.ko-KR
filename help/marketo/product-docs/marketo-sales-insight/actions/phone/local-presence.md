@@ -1,11 +1,11 @@
 ---
-description: 로컬 상태 - Marketo 문서 - 제품 설명서
+description: 판매 호출에 대한 로컬 프레즌스에 대해 알아봅니다. 전화를 걸 때 잠재 고객이 해당 지역의 번호를 볼 수 있도록 로컬 발신자 ID를 표시합니다.
 title: 현지 전화
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '158'
 ht-degree: 3%
 
 ---

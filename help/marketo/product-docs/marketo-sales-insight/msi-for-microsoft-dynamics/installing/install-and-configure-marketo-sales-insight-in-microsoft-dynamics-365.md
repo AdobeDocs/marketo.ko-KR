@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571739
-description: Microsoft Dynamics 365 - Marketo 설명서 - 제품 설명서에서 Marketo Sales Insight 설치 및 구성
+description: Microsoft Dynamics 365에서 Marketo Sales Insight을 설치하고 구성하는 방법에 대해 알아봅니다. 솔루션을 추가하고 Marketo에 연결합니다.
 title: Microsoft Dynamics 365에 Marketo Sales Insight 설치 및 구성
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 4%
+source-wordcount: '392'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 4%
 >
 >Marketo-Microsoft 통합을 완료합니다.
 >
->[&#x200B; 버전에 대해 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)올바른 솔루션을 다운로드하십시오[!DNL Microsoft Dynamics CRM].
+>[ 버전에 대해 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)올바른 솔루션을 다운로드하십시오[!DNL Microsoft Dynamics CRM].
 
 ## 솔루션 가져오기 {#import-solution}
 
@@ -43,7 +43,7 @@ ht-degree: 4%
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. 새 창에서 **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다. 1[단계에서 다운로드한 &#x200B;](#msi)Marketo Sales Insight 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
+1. 새 창에서 **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다. 1[단계에서 다운로드한 ](#msi)Marketo Sales Insight 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-13-15-3a38-3a49.png)
 

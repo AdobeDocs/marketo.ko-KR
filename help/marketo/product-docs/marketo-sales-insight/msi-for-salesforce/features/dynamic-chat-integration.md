@@ -1,12 +1,12 @@
 ---
-description: Dynamic Chat 통합 - Marketo 문서 - 제품 설명서
+description: Marketo Sales Insight과의 Dynamic Chat 통합에 대해 알아봅니다. Salesforce의 MSI 패널에서 채팅 활동 및 참여 를 참조하십시오.
 title: Dynamic Chat 통합
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 7%
+source-wordcount: '364'
+ht-degree: 6%
 
 ---
 

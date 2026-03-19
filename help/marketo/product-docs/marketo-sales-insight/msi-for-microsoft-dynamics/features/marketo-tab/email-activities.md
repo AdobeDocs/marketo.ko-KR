@@ -1,12 +1,12 @@
 ---
-description: 이메일 활동 - Marketo 문서 - 제품 설명서
+description: Dynamics의 Marketo 탭에서 이메일 활동에 대해 알아봅니다. 잠재 고객 및 연락처에 대해 보낸 이메일, 열기, 클릭 수 및 답글을 봅니다.
 title: 이메일 활동
 exl-id: 8c5bd8dc-15a2-49c8-8c1c-e2e0b7c8745b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 9%
+source-wordcount: '58'
+ht-degree: 6%
 
 ---
 

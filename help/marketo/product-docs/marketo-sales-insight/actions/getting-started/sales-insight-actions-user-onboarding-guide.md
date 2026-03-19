@@ -1,12 +1,12 @@
 ---
-description: Sales Insight 작업 사용 온보딩 안내서 - Marketo 문서 - 제품 설명서
+description: 새 Sales Insight 작업 사용자로 시작하는 방법을 알아봅니다. 설정 단계를 완료하고 이메일, Salesforce 및 Marketo에 연결합니다.
 title: Sales Insight Actions 사용자 온보딩 안내서
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 6%
+source-wordcount: '310'
+ht-degree: 5%
 
 ---
 

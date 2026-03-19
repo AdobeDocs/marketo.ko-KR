@@ -1,11 +1,11 @@
 ---
-description: Salesforce - Marketo 문서 - 제품 설명서에 호출 이유 및 호출 결과 기록
+description: 호출 사유를 기록하고 결과를 Salesforce에 호출하는 방법을 알아봅니다. 통화 활동 및 특성이 CRM에 동기화되는지 확인하십시오.
 title: Salesforce에 통화 이유 및 통화 결과 기록
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '469'
 ht-degree: 5%
 
 ---

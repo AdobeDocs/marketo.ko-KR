@@ -1,11 +1,11 @@
 ---
-description: 마케팅 캠페인을 판매 Insight 작업 - Marketo 문서 - 제품 설명서에 표시
+description: Marketo 마케팅 캠페인을 판매 Insight 작업에 표시하는 방법을 알아봅니다. 영업 사용자가 작업에서 캠페인에 가망 고객을 추가할 수 있도록 허용합니다.
 title: 마케팅 캠페인을 판매 Insight 작업에 표시
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---

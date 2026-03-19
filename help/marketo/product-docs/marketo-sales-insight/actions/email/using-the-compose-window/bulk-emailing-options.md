@@ -1,11 +1,11 @@
 ---
-description: 벌크 이메일 옵션 - Marketo 문서 - 제품 설명서
+description: Sales Insight 작업의 일괄 이메일 전송 옵션에 대해 알아봅니다. 그룹 이메일, 선택 및 보내기 또는 캠페인을 사용하여 여러 수신자에게 보냅니다.
 title: 일괄 이메일 전송 옵션
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '266'
 ht-degree: 5%
 
 ---

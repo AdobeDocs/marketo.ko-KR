@@ -1,12 +1,12 @@
 ---
-description: 삭제한 연락처 또는 그룹을 복구할 수 있습니까? - Marketo 설명서 - 제품 설명서
+description: 영업 Insight 작업에서 삭제된 연락처 또는 그룹을 복구할 수 있는지 확인합니다. 복구 옵션 및 제한 사항에 대해 알아봅니다.
 title: 삭제한 연락처 또는 그룹을 복구할 수 있습니까?
 exl-id: ef783d23-3b43-4e6c-9581-1e7d3958ae54
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 27%
+source-wordcount: '87'
+ht-degree: 20%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: Marketo 구독 취소 확인 - Marketo 문서 - 제품 설명서
+description: 판매자가 Marketo에서 구독을 취소한 사람에게 이메일을 보낼 수 없도록 Marketo 구독 취소 확인에 대해 알아봅니다.
 title: Marketo 구독 취소 확인
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 7%
+source-wordcount: '135'
+ht-degree: 8%
 
 ---
 

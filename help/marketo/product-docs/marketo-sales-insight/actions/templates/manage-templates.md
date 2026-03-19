@@ -1,12 +1,12 @@
 ---
-description: 템플릿 관리 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업에서 이메일 템플릿을 관리하는 방법을 알아봅니다. 팀을 위한 템플릿을 만들고, 편집하고, 공유하고, 구성합니다.
 title: 템플릿 관리
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 3%
+source-wordcount: '511'
+ht-degree: 5%
 
 ---
 
@@ -83,7 +83,7 @@ ht-degree: 3%
 
    ![](assets/manage-templates-8.png)
 
-1. 템플릿을 현재 카테고리에 보관하거나 다른 카테고리로 이동할 수 있습니다. 이 예제에서는 현재 상태로 유지합니다. 완료되면 **[!UICONTROL Share]**&#x200B;을(를) 클릭합니다.
+1. 템플릿을 현재 카테고리에 보관하거나 다른 카테고리로 이동할 수 있습니다. 이 예제에서는 현재 상태로 유지합니다. 완료되면 **[!UICONTROL Share]**&#x200B;를 클릭합니다.
 
    ![](assets/manage-templates-9.png)
 

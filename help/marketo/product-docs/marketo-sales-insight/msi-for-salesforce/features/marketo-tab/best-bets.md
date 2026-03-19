@@ -1,11 +1,11 @@
 ---
-description: 최상의 선택 - Marketo 문서 - 제품 설명서
+description: Salesforce의 Marketo 탭에서 최고의 베트에 대해 알아봅니다. 가장 참여도가 높고 판매 활동에 대한 준비가 완료된 잠재 고객을 확인합니다.
 title: Best Bets
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---

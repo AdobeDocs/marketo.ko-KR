@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356893
-description: MSI 기능 개요 - Marketo 문서 - 제품 설명서
+description: Salesforce의 Marketo Sales Insight 기능에 대해 알아봅니다. 잠재 고객 점수, 활동, 이메일 및 캠페인 작업을 패널에서 봅니다.
 title: MSI 기능 개요
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '943'
 ht-degree: 2%
 
 ---

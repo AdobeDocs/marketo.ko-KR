@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762244
-description: 리드/연락처 레코드에 대한 Stars 및 Flames 설정 - Marketo 문서 - 제품 설명서
+description: Dynamics에서 리드 및 연락처 레코드에 대한 별과 불꽃을 설정하는 방법을 알아봅니다. CRM에서 잠재 고객 점수 및 긴급도를 표시합니다.
 title: 리드/연락처 레코드에 대한 Stars 및 Flames 설정
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 11%
+source-wordcount: '164'
+ht-degree: 10%
 
 ---
 

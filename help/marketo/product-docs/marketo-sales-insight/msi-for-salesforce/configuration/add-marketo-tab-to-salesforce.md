@@ -1,12 +1,12 @@
 ---
-description: Salesforce에 Marketo 탭 추가 - Marketo 문서 - 제품 설명서
+description: Marketo 탭을 Salesforce에 추가하는 방법을 알아봅니다. Salesforce의 사용자가 Marketo Sales Insight 탭을 볼 수 있게 합니다.
 title: Marketo 탭을 Salesforce에 추가
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 10%
+source-wordcount: '61'
+ht-degree: 8%
 
 ---
 

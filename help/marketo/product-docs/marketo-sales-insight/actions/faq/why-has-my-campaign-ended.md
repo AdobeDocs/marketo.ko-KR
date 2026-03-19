@@ -1,11 +1,11 @@
 ---
-description: 내 캠페인이 종료된 이유는 무엇입니까? - Marketo 설명서 - 제품 설명서
+description: 판매 캠페인이 종료된 이유를 이해합니다. 수동 종료, 회신 설정, 바운스 제거 및 자동 종료 조건에 대해 알아봅니다.
 title: 내 캠페인이 종료된 이유는 무엇입니까?
 exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 17%
+source-wordcount: '89'
+ht-degree: 11%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-description: 개인 세부 사항 보기 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업에서 개인 세부 사항 보기를 이해합니다. 잠재 고객 또는 연락처에 대한 연락처 정보, 활동 내역 및 빠른 작업 을 참조하십시오.
 title: 사용자 세부 정보 보기
 hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '298'
 ht-degree: 3%
 
 ---

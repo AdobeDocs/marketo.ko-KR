@@ -1,12 +1,12 @@
 ---
-description: 캠페인 목록을 다른 사용자로 보기 - Marketo 문서 - 제품 설명서
+description: 관리자인 경우 캠페인을 다른 사용자로 보는 방법에 대해 알아봅니다. 캠페인 페이지의 다른 이름으로 보기 드롭다운을 사용하여 사용자의 캠페인을 볼 수 있습니다.
 title: 다른 사용자로 캠페인 목록 보기
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 15%
+source-wordcount: '93'
+ht-degree: 16%
 
 ---
 

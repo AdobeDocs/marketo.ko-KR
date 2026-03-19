@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949711
-description: 등록 코드 - Marketo 문서 - 제품 설명서와 함께  [!DNL Outlook] 용 Marketo 이메일 추가 기능 설치
+description: 등록 코드를 사용하여 Outlook용 Marketo 이메일 추가 기능을 설치하는 방법을 알아봅니다. 등록 코드가 있는 사용자의 추가 기능을 가져옵니다.
 title: 등록 코드를 사용하여  [!DNL Outlook] 용 Marketo 이메일 추가 기능 설치
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 4%
+source-wordcount: '532'
+ht-degree: 3%
 
 ---
 

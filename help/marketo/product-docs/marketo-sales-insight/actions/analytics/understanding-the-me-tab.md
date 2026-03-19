@@ -1,12 +1,12 @@
 ---
-description: 내 탭 이해 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업에서 내 탭 및 이메일 참여 상태를 이해합니다. 보낸 이메일, 템플릿 사용 현황 및 가장 매력적인 이메일과 연락처를 봅니다.
 title: 내 탭 이해
 exl-id: 7663f2f3-5266-4ef0-a719-f6630cc0f427
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 4%
+source-wordcount: '105'
+ht-degree: 3%
 
 ---
 

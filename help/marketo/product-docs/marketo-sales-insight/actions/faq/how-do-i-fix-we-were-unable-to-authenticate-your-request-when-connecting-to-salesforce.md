@@ -1,11 +1,11 @@
 ---
-description: Salesforce - Marketo 문서 - 제품 설명서에 연결할 때 "요청을 인증할 수 없습니다"를 해결하려면 어떻게 합니까?
+description: Salesforce에 판매 Insight 작업을 연결할 때 발생하는 인증 오류를 수정합니다. OAuth, 권한 및 연결 단계를 확인합니다.
 title: Salesforce에 연결할 때 "요청을 인증할 수 없습니다"를 해결하려면 어떻게 합니까
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---

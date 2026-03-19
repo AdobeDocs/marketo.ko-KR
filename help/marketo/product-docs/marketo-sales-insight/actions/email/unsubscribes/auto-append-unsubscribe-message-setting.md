@@ -1,11 +1,11 @@
 ---
-description: 자동 추가 구독 취소 메시지 설정 - Marketo 문서 - 제품 설명서
+description: 판매 이메일에 대한 자동 추가 구독 취소 메시지를 활성화하거나 비활성화하는 방법에 대해 알아봅니다.
 title: 구독 취소 메시지 자동 추가 설정
 feature: Sales Insight Actions
 exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '180'
 ht-degree: 4%
 
 ---

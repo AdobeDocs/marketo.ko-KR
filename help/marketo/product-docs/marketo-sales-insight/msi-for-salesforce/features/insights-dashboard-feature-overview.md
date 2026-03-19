@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762514
-description: Insights 대시보드 기능 개요 - Marketo 문서 - 제품 설명서
+description: Marketo Sales Insight의 Insights 대시보드에 대해 알아봅니다. 패널에서 참여 속도, 예정된 캠페인 및 작업을 봅니다.
 title: Insights 대시보드 기능 개요
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1473'
+source-wordcount: '1484'
 ht-degree: 0%
 
 ---

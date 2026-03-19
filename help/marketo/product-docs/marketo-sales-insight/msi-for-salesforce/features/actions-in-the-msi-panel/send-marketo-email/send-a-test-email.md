@@ -1,12 +1,12 @@
 ---
-description: 테스트 이메일 보내기 - Marketo 문서 - 제품 설명서
+description: Salesforce의 MSI 패널에서 테스트 이메일을 보내는 방법을 알아봅니다. 잠재 고객에게 보내기 전에 판매 이메일 템플릿을 미리 보고 테스트합니다.
 title: 테스트 이메일 보내기
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 7%
+source-wordcount: '157'
+ht-degree: 8%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 7%
 
 1. **[!UICONTROL Edit Test Recipients]**&#x200B;를 클릭합니다.
 
-1. 목록에서 하나 이상의 리드를 선택하여 해당 리드가 어떻게 렌더링될지 확인할 수 있습니다. 완료되면 **[!UICONTROL Apply Changes]**&#x200B;을(를) 클릭합니다.
+1. 목록에서 하나 이상의 리드를 선택하여 해당 리드가 어떻게 렌더링될지 확인할 수 있습니다. 완료되면 **[!UICONTROL Apply Changes]**&#x200B;를 클릭합니다.
 
    ![](assets/send-a-test-email-1.png)
 

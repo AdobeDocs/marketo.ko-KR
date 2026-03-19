@@ -1,11 +1,11 @@
 ---
-description: Sales Insight 작업 관리 설정 안내서 - Marketo 문서 - 제품 설명서
+description: 관리자로서 Sales Insight 작업 을 설정하는 방법을 알아봅니다. Marketo 연결, 데이터 동기화를 구성하고 사용자를 초대합니다.
 title: Sales Insight Actions 관리자 설정 안내서
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '613'
 ht-degree: 3%
 
 ---
@@ -106,7 +106,7 @@ Salesforce에 이미 로그인한 경우 연결됩니다. 로그인하지 않은
 
    ![](assets/msi-actions-admin-guide-8.png)
 
-1. **[!UICONTROL connect]**&#x200B;을(를) 클릭합니다. 그러면 계정이 연결됩니다.
+1. **[!UICONTROL connect]**&#x200B;를 클릭합니다. 그러면 계정이 연결됩니다.
 
    ![](assets/msi-actions-admin-guide-9.png)
 

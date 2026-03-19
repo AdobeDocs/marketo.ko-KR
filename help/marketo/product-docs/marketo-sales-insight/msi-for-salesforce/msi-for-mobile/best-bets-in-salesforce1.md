@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511959
-description: Salesforce1 - Marketo 문서 - 제품 설명서의 최상의 선택
+description: Salesforce Mobile(Salesforce1)의 모범 베팅에 대해 알아봅니다. Marketo Sales Insight 모바일 경험에서 참여도가 높은 잠재 고객을 확인하십시오.
 title: Salesforce1의 Best Bets
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 5%
+source-wordcount: '83'
+ht-degree: 4%
 
 ---
 

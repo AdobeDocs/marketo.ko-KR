@@ -1,12 +1,12 @@
 ---
-description: 팀 만들기 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업에서 팀을 만들어 템플릿, 캠페인 및 그룹을 공유하는 방법을 알아봅니다.
 title: 팀 만들기
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 6%
+source-wordcount: '117'
+ht-degree: 8%
 
 ---
 
@@ -54,6 +54,6 @@ ht-degree: 6%
 
    ![](assets/creating-a-team-8.png)
 
-1. 완료되면 **[!UICONTROL Add]**&#x200B;을(를) 클릭합니다.
+1. 완료되면 **[!UICONTROL Add]**&#x200B;를 클릭합니다.
 
    ![](assets/creating-a-team-9.png)

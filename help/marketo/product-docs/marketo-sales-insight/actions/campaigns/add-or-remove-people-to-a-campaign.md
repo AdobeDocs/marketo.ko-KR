@@ -1,11 +1,11 @@
 ---
 unique-page-id: 14352613
-description: Campaign에 직원 추가 - Marketo 문서 - 제품 설명서
+description: 웹 앱, Salesforce 또는 받은 편지함에서 Sales Campaigns에 사람을 추가하거나 제거하는 방법을 알아봅니다. 캠페인 종료에 대한 회신 및 바운스 옵션을 자동으로 설정합니다.
 title: 캠페인에 사용자 추가
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '462'
 ht-degree: 3%
 
 ---

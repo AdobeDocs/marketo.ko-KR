@@ -1,12 +1,12 @@
 ---
-description: 웹 활동 - Marketo 문서 - 제품 설명서
+description: Dynamics의 Marketo 탭에서 웹 활동에 대해 알아봅니다. 리드 및 연락처에 대한 웹 방문 및 참여 데이터 를 참조하십시오.
 title: 웹 활동
 exl-id: dca3f5ca-72b4-4c9c-a0fc-d9dee37c8ad6
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 5%
+source-wordcount: '89'
+ht-degree: 4%
 
 ---
 

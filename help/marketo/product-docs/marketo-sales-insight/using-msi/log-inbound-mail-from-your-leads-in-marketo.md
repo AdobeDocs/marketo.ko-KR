@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949285
-description: Marketo - Marketo 문서 - 제품 설명서에서 잠재 고객의 인바운드 메일 기록
+description: Marketo의 잠재 고객으로부터 인바운드 메일을 기록하는 방법을 알아봅니다. 올바른 잠재 고객 레코드로 회신 및 인바운드 이메일을 캡처하고 특성화합니다.
 title: Marketo에서 리드의 인바운드 메일 로깅
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 12%
+source-wordcount: '139'
+ht-degree: 11%
 
 ---
 

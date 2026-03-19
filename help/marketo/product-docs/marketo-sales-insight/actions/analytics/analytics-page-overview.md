@@ -1,11 +1,11 @@
 ---
-description: Analytics 페이지 개요 - Marketo 문서 - 제품 설명서
+description: Analytics 탭 및 판매 Insight 작업에 대한 이메일 참여 데이터에 대해 알아봅니다. 내, 팀 및 컨텐츠 탭에서 개별 및 팀 통계를 봅니다.
 title: Analytics 페이지 개요
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '391'
 ht-degree: 1%
 
 ---

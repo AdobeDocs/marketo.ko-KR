@@ -1,11 +1,11 @@
 ---
-description: 동적 필드 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업 템플릿의 동적 필드에 대해 알아봅니다. 병합 필드를 사용하여 연락처 및 발신자 데이터가 포함된 이메일을 개인화합니다.
 title: 동적 필드
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '539'
 ht-degree: 2%
 
 ---

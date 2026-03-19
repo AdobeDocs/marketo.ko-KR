@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356282
-description: Salesforce Lightning의 일괄 작업 - Marketo 문서 - 제품 설명서
+description: Marketo Sales Insight용 Salesforce Lightning의 대량 작업에 대해 알아봅니다. 목록 보기에서 판매 이메일 전송 및 판매 캠페인에 추가 를 사용합니다.
 title: Salesforce Lightning의 일괄 작업
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 7%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 

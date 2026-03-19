@@ -1,12 +1,12 @@
 ---
-description: 로그인 관리 설정 - Marketo 문서 - 제품 설명서
+description: Sales Insight 작업 인증에 대한 로그인 관리 설정에 대해 알아봅니다. Salesforce 전용 또는 기타 옵션을 설정합니다.
 title: 로그인 관리 설정
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 1%
+source-wordcount: '443'
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->기본적으로 [!UICONTROL Salesforce Only] 인스턴스에 대해 [!DNL Sales Insight Actions] 옵션이 선택됩니다. 사용자가 [에서 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)자동 로그인[!DNL Salesforce]할 수 있도록 이 설정을 사용하는 것이 좋습니다.
+>기본적으로 [!UICONTROL Salesforce Only] 인스턴스에 대해 [!DNL Sales Insight Actions] 옵션이 선택됩니다. 사용자가 [에서 ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)자동 로그인[!DNL Salesforce]할 수 있도록 이 설정을 사용하는 것이 좋습니다.
 
 ## 로그인 관리 설정 업데이트 {#update-login-management-settings}
 
@@ -34,7 +34,7 @@ ht-degree: 1%
 
    ![](assets/login-management-settings-2.png)
 
-1. [!UICONTROL Login Management] 카드까지 아래로 스크롤하고 원하는 설정을 선택합니다(이 예에서는 Salesforce만 선택). 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL Login Management] 카드까지 아래로 스크롤하고 원하는 설정을 선택합니다(이 예에서는 Salesforce만 선택). 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/login-management-settings-3.png)
 

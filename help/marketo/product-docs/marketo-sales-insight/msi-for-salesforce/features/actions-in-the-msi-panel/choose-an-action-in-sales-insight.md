@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099167
-description: Sales Insight - Marketo 문서 - 제품 설명서에서 작업 선택
+description: MSI 패널에서 Sales Insight의 작업을 선택하는 방법을 알아봅니다. 이메일을 보내거나, 캠페인에 추가하거나, 호출을 기록하거나, 작업을 추가합니다.
 title: Sales Insight에서 작업 선택
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 3%
+source-wordcount: '202'
+ht-degree: 2%
 
 ---
 

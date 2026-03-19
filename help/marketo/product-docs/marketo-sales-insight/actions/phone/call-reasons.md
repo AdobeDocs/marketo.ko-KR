@@ -1,11 +1,11 @@
 ---
-description: 호출 이유 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업에서 호출 사유에 대해 알아봅니다. 전화를 걸 때 Marketo 및 Salesforce에 로그인되는 이유를 설정합니다.
 title: 통화 이유
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '181'
 ht-degree: 2%
 
 ---

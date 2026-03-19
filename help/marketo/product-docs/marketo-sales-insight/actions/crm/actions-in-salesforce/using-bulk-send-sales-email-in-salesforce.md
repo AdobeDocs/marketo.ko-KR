@@ -1,10 +1,10 @@
 ---
-description: Salesforce - Marketo 문서 - 제품 설명서에서 판매 이메일 대량 보내기
+description: Salesforce에서 대량 판매 이메일을 보내는 방법에 대해 알아봅니다. 목록 보기에서 잠재 고객 또는 연락처를 선택하고 Lightning 또는 Classic에서 판매 이메일 보내기 버튼을 사용합니다.
 title: Salesforce에서 일괄 세일즈 이메일 전송 사용
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '613'
 ht-degree: 2%
 
 ---

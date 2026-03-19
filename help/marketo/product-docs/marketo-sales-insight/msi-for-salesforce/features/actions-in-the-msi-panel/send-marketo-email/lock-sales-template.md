@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12981050
-description: 판매 템플릿 잠금 - Marketo 문서 - 제품 설명서
+description: Marketo Sales Insight에서 판매 템플릿을 잠그는 방법에 대해 알아봅니다. 판매에서 승인된 버전을 사용하도록 템플릿 변경을 방지합니다.
 title: 세일즈 템플릿 잠금
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 4%
+source-wordcount: '198'
+ht-degree: 5%
 
 ---
 

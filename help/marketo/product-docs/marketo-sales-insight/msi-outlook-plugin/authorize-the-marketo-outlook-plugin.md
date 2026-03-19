@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377640
-description: Marketo [!DNL Outlook] 플러그인 - Marketo 문서 - 제품 설명서 승인
+description: Marketo Outlook 플러그인을 승인하는 방법을 알아봅니다. 사용자가 Outlook에서 이메일을 보내고 추적할 수 있도록 OAuth를 완료합니다.
 title: Marketo [!DNL Outlook] Plugin 승인
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---

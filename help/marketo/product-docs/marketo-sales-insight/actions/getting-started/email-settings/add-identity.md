@@ -1,11 +1,11 @@
 ---
-description: ID 추가 - Marketo 문서 - 제품 설명서
+description: 영업 Insight 작업에서 이메일 ID를 추가하는 방법을 알아봅니다. 이메일 아래의 설정에서 전송 주소를 추가하고 확인합니다.
 title: ID 추가
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '188'
 ht-degree: 3%
 
 ---

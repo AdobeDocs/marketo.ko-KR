@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949279
-description: ' [!DNL Outlook] 용 Marketo 이메일 추가 기능 업그레이드 - Marketo 문서 - 제품 설명서'
+description: Outlook용 Marketo 이메일 추가 기능을 업그레이드하는 방법에 대해 알아봅니다. 새로운 기능 및 수정 사항에 대한 최신 버전을 다운로드하십시오.
 title: ' [!DNL Outlook]용 Marketo 이메일 추가 기능 업그레이드'
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '326'
 ht-degree: 11%
 
 ---
@@ -129,7 +129,7 @@ ht-degree: 11%
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -153,11 +153,11 @@ ht-degree: 11%
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
-1. 이제 설치가 완료되었습니다. **[!UICONTROL Close]**&#x200B;을(를) 클릭합니다.
+1. 이제 설치가 완료되었습니다. **[!UICONTROL Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 

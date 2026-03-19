@@ -1,11 +1,11 @@
 ---
-description: Salesforce 활동 세부 사항 사용자 지정 구성 - Marketo 문서 - 제품 설명서
+description: 작업 제목 필드에 대한 Salesforce 활동 세부 사항 사용자 지정을 구성하는 방법에 대해 알아봅니다. 활동이 동기화될 때 Salesforce 작업에 기록할 로그를 설정합니다.
 title: Salesforce 활동 상세 정보 사용자 정의 구성
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '684'
 ht-degree: 2%
 
 ---

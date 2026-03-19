@@ -1,9 +1,9 @@
 ---
-description: 스팸으로 표시된 이메일 - Marketo 문서 - 제품 설명서
+description: 판매 이메일이 스팸으로 표시되면 도움을 받습니다. 전달성을 개선하고 스팸 필터를 방지하는 원인과 단계를 알아봅니다.
 title: 스팸으로 표시된 이메일
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '221'
 ht-degree: 3%
 
 ---

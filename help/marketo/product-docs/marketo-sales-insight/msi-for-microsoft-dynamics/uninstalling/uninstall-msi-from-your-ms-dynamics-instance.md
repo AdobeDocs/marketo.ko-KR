@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355600
-description: MS [!DNL Dynamics] 인스턴스 - Marketo 문서 - 제품 설명서에서 MSI 제거
+description: MS Dynamics 인스턴스에서 Marketo Sales Insight을 제거하는 방법을 알아봅니다. 솔루션을 제거하고 필요한 경우 정리합니다.
 title: MS [!DNL Dynamics] 인스턴스에서 MSI 제거
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 3%
+source-wordcount: '141'
+ht-degree: 2%
 
 ---
 

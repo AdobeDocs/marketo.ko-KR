@@ -1,8 +1,8 @@
 ---
-description: 판매 작업 데이터를 Marketo 및 Salesforce과 동기화 - Marketo 문서 - 제품 설명서
+description: Sales Insight 작업 데이터를 Marketo Engage 및 Salesforce과 동기화하는 방법에 대해 알아봅니다.
 title: Sales Action 데이터를 Marketo 및 Salesforce와 동기화
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
 source-wordcount: '1068'
 ht-degree: 3%

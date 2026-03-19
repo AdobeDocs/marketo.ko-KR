@@ -1,11 +1,11 @@
 ---
-description: Salesforce 목록 보기 - Marketo 문서 - 제품 설명서에 작업 단추 추가
+description: Salesforce 목록 보기에 판매 이메일 보내기 및 판매 캠페인에 추가 버튼을 추가하는 방법을 알아봅니다. 목록 보기 단추 레이아웃을 통해 Lightning 또는 Classic에서 구성합니다.
 title: Salesforce 목록 보기에 작업 버튼 추가
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 6%
+source-wordcount: '306'
+ht-degree: 5%
 
 ---
 

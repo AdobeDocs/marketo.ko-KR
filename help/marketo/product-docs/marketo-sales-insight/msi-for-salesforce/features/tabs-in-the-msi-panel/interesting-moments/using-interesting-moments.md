@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951640
-description: 즐거운 순간 사용 - Marketo 문서 - 제품 설명서
+description: MSI 패널에서 흥미로운 순간을 사용하는 방법에 대해 알아봅니다. 잠재 고객 참여를 나타내는 주요 활동을 보고 해석합니다.
 title: 즐거운 순간 사용
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '428'
 ht-degree: 1%
 
 ---

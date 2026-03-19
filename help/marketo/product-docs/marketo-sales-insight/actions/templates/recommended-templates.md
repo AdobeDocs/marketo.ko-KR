@@ -1,11 +1,11 @@
 ---
-description: 권장 템플릿 - Marketo 문서 - 제품 설명서
+description: 권장 템플릿 및 모범 사례에 대해 알아봅니다. 참여를 유도하는 효과적인 영업 이메일 템플릿을 만드십시오.
 title: 추천 템플릿
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '289'
 ht-degree: 1%
 
 ---

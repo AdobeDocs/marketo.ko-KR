@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512654
-description: Salesforce1 - Marketo 문서 - 제품 설명서에서 리드 피드 보기
+description: Salesforce Mobile(Salesforce1)에서 리드 피드를 보는 방법을 알아봅니다. 모바일의 MSI 패널에서 실시간 리드 활동 보기.
 title: Salesforce1에서 리드 피드 보기
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '79'
 ht-degree: 7%
 
 ---

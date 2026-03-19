@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949720
-description: 관심 있는 순간 개요 - Marketo 문서 - 제품 설명서
+description: Marketo Sales Insight 패널에서 흥미로운 순간에 대해 알아봅니다. Salesforce의 주요 리드 활동 및 참여를 참조하십시오.
 title: 즐거운 순간 개요
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 6%
+source-wordcount: '106'
+ht-degree: 5%
 
 ---
 

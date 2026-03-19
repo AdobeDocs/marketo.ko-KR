@@ -1,12 +1,12 @@
 ---
-description: 왜 모든 연락처가 Sales Insight 작업에 푸시되지 않습니까? - Marketo 설명서 - 제품 설명서
+description: 일부 연락처가 Sales Insight Actions와 동기화되지 않은 이유를 확인하십시오. 잠재 고객 및 연락처에 대한 영업 담당자 및 동기화 요구 사항에 대해 알아봅니다.
 title: 내 연락처 중 일부가 Sales Insight Actions로 푸시되지 않은 이유는 무엇입니까?
 exl-id: 5f0a4a66-7650-43c6-a8ea-4f991f4048fd
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 17%
+source-wordcount: '96'
+ht-degree: 12%
 
 ---
 

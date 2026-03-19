@@ -1,12 +1,12 @@
 ---
-description: 판매 Insight 작업 서비스 약관은 무엇입니까? - Marketo 설명서 - 제품 설명서
+description: Sales Insight Actions 서비스 약관을 찾습니다. 제품 사용에 적용되는 법률 약관을 검토하십시오.
 title: Sales Insight Actions 서비스 약관은 무엇입니까?
 exl-id: 5a5409a0-2a26-4d5b-b1c9-89841255059d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 30%
+source-wordcount: '50'
+ht-degree: 18%
 
 ---
 

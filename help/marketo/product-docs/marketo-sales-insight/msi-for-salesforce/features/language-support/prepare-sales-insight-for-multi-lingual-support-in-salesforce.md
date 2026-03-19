@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516460
-description: Salesforce에서 다국어 지원을 위한 Sales Insight 준비 - Marketo 문서 - 제품 설명서
+description: Salesforce에서 다국어 지원을 위해 Marketo Sales Insight을 준비하는 방법을 알아봅니다. 글로벌 사용자를 위한 언어 및 로케일을 설정합니다.
 title: Salesforce에서 다국어 지원을 위해 Sales Insight 준비
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 10%
+source-wordcount: '210'
+ht-degree: 11%
 
 ---
 
@@ -55,7 +55,7 @@ Marketo Sales Insight은 언어로 저장됩니다. 따라서 두 개 이상의 
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Marketo으로 이동합니다. [[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**&#x200B;세부 정보를 찾습니다](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Marketo으로 이동합니다. [[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**세부 정보를 찾습니다](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 

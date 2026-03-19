@@ -1,12 +1,12 @@
 ---
-description: 사용자 액세스 세부 사항 - Marketo 문서 - 제품 설명서
+description: Sales Insight 작업에서 관리자 및 관리자가 아닌 사용자가 액세스할 수 있는 권한을 이해합니다. 템플릿, 캠페인, 분석 및 사람에 대한 권한을 비교합니다.
 title: 사용자 액세스 상세 정보
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 3%
+source-wordcount: '212'
+ht-degree: 2%
 
 ---
 

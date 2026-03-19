@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377552
-description: Marketo [!UICONTROL Sales Insight] 플러그 인 관리자 지정 - Marketo 문서 - 제품 설명서
+description: Outlook용 Marketo Sales Insight 플러그인 관리자를 지정하는 방법을 알아봅니다. 조직의 추가 기능을 관리할 사용자를 지정합니다.
 title: Marketo [!UICONTROL Sales Insight] 플러그 인 관리자 지정
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 2%
+source-wordcount: '88'
+ht-degree: 5%
 
 ---
 

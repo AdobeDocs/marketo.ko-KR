@@ -1,11 +1,11 @@
 ---
-description: Sales Insight 권한 집합 추가 - Marketo 문서 - 제품 설명서
+description: Salesforce에서 Sales Insight 권한 집합을 추가하는 방법을 알아봅니다. Marketo Sales Insight 액세스 권한이 필요한 사용자에게 세트를 할당합니다.
 title: Sales Insight 권한 집합 추가
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '348'
 ht-degree: 3%
 
 ---

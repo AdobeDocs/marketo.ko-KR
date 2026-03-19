@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147326
-description: Google Chrome용 Marketo 인사이트 설치 - Marketo 문서 - 제품 설명서
+description: Google Chrome용 Marketo Insights 를 설치하는 방법을 알아봅니다. Gmail에서 리드 및 계정 정보와 활동을 보려면 확장을 추가하십시오.
 title: Google Chrome용 Marketo Insights 설치
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '199'
 ht-degree: 3%
 
 ---
