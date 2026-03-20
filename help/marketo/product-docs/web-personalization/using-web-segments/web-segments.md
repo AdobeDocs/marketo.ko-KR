@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->명명된 계정 목록 이름 옆에 있는 대괄호 안의 숫자는 웹 Personalization [API 읽기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)에 대한 목록에 대한 인덱스 참조로 사용됩니다.
+>명명된 계정 목록 이름 옆에 있는 대괄호 안의 숫자는 웹 Personalization [API 읽기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/web-personalization)에 대한 목록에 대한 인덱스 참조로 사용됩니다.
 
 **ISP 제외**
 
@@ -286,7 +286,7 @@ ht-degree: 0%
 
 **사용자 컨텍스트 API**
 
-웹 Personalization API 호출 [자세한 내용은 여기를 참조하십시오.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+웹 Personalization API 호출 [자세한 내용은 여기를 참조하십시오.](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
