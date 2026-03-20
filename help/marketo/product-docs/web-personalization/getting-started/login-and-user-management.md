@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7513771
-description: 로그인 및 사용자 관리 - Marketo 문서 - 제품 설명서
+description: 로그인 및 사용자 관리 로그인 및 사용자 관리를 사용하여 Marketo Engage에서 로그인하고 사용자를 관리하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 로그인 및 사용자 관리
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 3%
+source-wordcount: '283'
+ht-degree: 4%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 3%
 
 ## 사용자에게 WP 역할 할당 {#assign-wp-role-to-user}
 
-1. **[!UICONTROL Users]**(으)로 이동합니다.
+1. **[!UICONTROL Users]** 으로 이동합니다.
 
    ![](assets/image2015-4-29-11-3a31-3a3.png)
 

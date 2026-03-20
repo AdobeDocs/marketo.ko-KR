@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718681
-description: 매출 Modeler - Marketo 문서 - 제품 설명서에서 계정별 추적 시작
+description: 계정별 시작 추적을 포함하여 Marketo Engage의 수익 모델러에서 계정별 시작 추적에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: Revenue Modeler에서 계정별 추적 시작
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 7%
+source-wordcount: '241'
+ht-degree: 6%
 
 ---
 

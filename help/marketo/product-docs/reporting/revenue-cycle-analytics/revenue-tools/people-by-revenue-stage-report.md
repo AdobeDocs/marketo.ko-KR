@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360418
-description: 수익 단계별 인원 보고서 - Marketo 문서 - 제품 설명서
+description: Marketo Engage의 수익 단계별 보고서를 비롯하여 수익 단계별 보고서별 인력에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 수익 단계별 사용자 보고서
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '139'
 ht-degree: 12%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 12%
 >
 >일부 Marketo 버전에는 이 기능이 포함되어 있지 않습니다. 자세한 내용은 계정 관리자에게 문의하십시오.
 
-1. **[!UICONTROL Analytics]**(으)로 이동합니다.
+1. **[!UICONTROL Analytics]** 으로 이동합니다.
 
    ![](assets/image2017-3-27-15-3a43-3a55.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382593
-description: 웹 Personalization을 추적하지 않도록 설정 - Marketo 문서 - 제품 설명서
+description: 웹 개인화를 로 설정하는 것을 포함하여 Marketo Engage에서 추적하지 않도록 웹 개인화를 설정하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 웹 개인화를 추적 금지로 설정
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '183'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 ## 토글 활성화 또는 비활성화 {#enable-or-disable-the-toggle}
 
-1. **[!UICONTROL Account Settings]**(으)로 이동합니다.
+1. **[!UICONTROL Account Settings]** 으로 이동합니다.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 

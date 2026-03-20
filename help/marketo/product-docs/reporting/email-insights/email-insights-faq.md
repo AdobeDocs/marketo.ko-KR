@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100257
-description: 이메일 인사이트 FAQ - Marketo 문서 - 제품 설명서
+description: 지표 계산, 사용자 지정 차원 및 장치 필터링을 포함하여 이메일 인사이트에 대해 자주 묻는 질문과 대답(FAQ)을 찾습니다. 이메일 인사이트가 다른 보고 도구와 어떻게 다른지 이해합니다.
 title: 이메일 인사이트 FAQ
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '599'
 ht-degree: 1%
 
 ---

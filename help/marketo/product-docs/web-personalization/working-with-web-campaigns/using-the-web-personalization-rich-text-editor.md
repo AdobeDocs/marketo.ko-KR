@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719179
-description: 웹 Personalization 리치 텍스트 편집기 사용 - Marketo 문서 - 제품 설명서
+description: dnl 웹 개인화를 사용하여 Marketo Engage에서 웹 개인화 리치 텍스트 편집기를 사용하는 방법에 대해 알아봅니다. 자신 있게 다음 단계를 수행하십시오.
 title: 웹 개인화 리치 텍스트 편집기 사용
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 4%
+source-wordcount: '185'
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 4%
 <table>
  <tbody>
   <tr>
-   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><img alt="--" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
    <td colspan="1"><strong>HTML Source 편집</strong></td>
    <td colspan="1">HTML 소스 코드를 볼 수 있습니다.</td>
   </tr>
@@ -51,7 +51,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->웹 토큰은 [&#x200B; > &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)에서 [!DNL Marketo Database]에서 관리되는 [!DNL Web Personalization]의 [!UICONTROL Account Settings]사람 데이터[!UICONTROL Database]를 사용합니다. 웹 토큰이 아직 [!UICONTROL Account Settings] > [!UICONTROL Database]에 없는 새 데이터베이스 필드인 경우 자동으로 추가되며 활성화하는 데 최대 24시간이 걸릴 수 있습니다.
+>웹 토큰은 [ > ](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)에서 [!DNL Marketo Database]에서 관리되는 [!DNL Web Personalization]의 [!UICONTROL Account Settings]사람 데이터[!UICONTROL Database]를 사용합니다. 웹 토큰이 아직 [!UICONTROL Account Settings] > [!UICONTROL Database]에 없는 새 데이터베이스 필드인 경우 자동으로 추가되며 활성화하는 데 최대 24시간이 걸릴 수 있습니다.
 
 >[!MORELIKETHIS]
 >

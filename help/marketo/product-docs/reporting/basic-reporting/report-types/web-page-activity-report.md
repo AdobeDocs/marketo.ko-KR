@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359971
-description: 웹 페이지 활동 보고서 - Marketo 문서 - 제품 설명서
+description: 자세한 방문자 정보와 함께 웹 사이트를 방문하는 사용자를 보여 주는 웹 페이지 활동 보고서에 대해 알아봅니다. 알려진 사용자 또는 익명의 사용자를 표시하고 페이지 보기, 시작 페이지 및 레퍼러를 추적합니다.
 title: 웹 페이지 활동 보고서
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '341'
 ht-degree: 3%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 3%
    >
    >사이트를 가장 많이 방문하는 사용자를 확인하려면 [페이지 보기 수](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} 열에서 _보고서를 정렬_&#x200B;하고 내림차순 정렬을 선택하십시오.
 
-   [Marketo은 익명의 &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} 웹 사이트 방문자를 데이터베이스에 추가하므로 이 보고서에 표시하도록 선택할 수 있습니다. 익명임에도 불구하고 풍부한 정보를 제공합니다.
+   [Marketo은 익명의 ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} 웹 사이트 방문자를 데이터베이스에 추가하므로 이 보고서에 표시하도록 선택할 수 있습니다. 익명임에도 불구하고 풍부한 정보를 제공합니다.
    웹 페이지 활동 보고서에 대해 선택할 수 있는 [열](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}에는 다음이 포함됩니다.
 
 <table>

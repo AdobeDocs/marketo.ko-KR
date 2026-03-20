@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571888
-description: Revenue Cycle Analytics에 대해 사용자 정의 필드 동기화 활성화 - Marketo 문서 - 제품 설명서
+description: 사용자 정의 필드 활성화를 포함하여 Marketo Engage의 수익 주기 분석에 대한 사용자 정의 필드 동기화를 활성화하는 방법에 대해 알아봅니다. 자신 있게 다음 단계를 수행하십시오.
 title: 수익 주기 분석용 사용자 정의 필드 동기화 활성화
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 11%
+source-wordcount: '90'
+ht-degree: 10%
 
 ---
 

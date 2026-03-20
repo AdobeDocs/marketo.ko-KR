@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096420
-description: Sales Intelligence - Marketo 문서 - 제품 설명서
+description: 웹 방문자 및 조직에 대한 중요한 정보를 제공하는 Sales Intelligence 기능에 대해 알아봅니다. 지역별 주요 조직 및 계정에 대한 경고를 추적, 모니터링 및 수신합니다.
 title: 세일즈 인텔리전스
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 2%
+source-wordcount: '213'
+ht-degree: 1%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360035
-description: 사람 성과 보고서에서 드릴다운 - Marketo 문서 - 제품 설명서
+description: 행을 선택하고 속성을 선택하여 인력 성과 보고서에서 드릴다운하여 추가 개인 정보를 확인하는 방법에 대해 알아봅니다. 새 보고서 탭에서 자세한 리드 데이터를 탐색합니다.
 title: 사용자 성과 보고서에서 드릴다운
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 14%
+source-wordcount: '147'
+ht-degree: 12%
 
 ---
 

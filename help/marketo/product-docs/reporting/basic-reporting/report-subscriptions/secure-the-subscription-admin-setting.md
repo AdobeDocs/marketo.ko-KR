@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095347
-description: 구독 관리 설정의 보안 - Marketo 문서 - 제품 설명서
+description: 보고서를 다운로드하기 전에 로그인해야 하는 구독 관리자 설정을 보호하는 방법을 알아봅니다. 스마트 목록 보고서 설정에 대한 관리자 로그인 설정에서 이 보안 옵션을 구성합니다.
 title: 구독 관리자 설정 보안
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 12%
+source-wordcount: '99'
+ht-degree: 13%
 
 ---
 

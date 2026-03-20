@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360421
-description: 프로그램 수준에서 Analytics 동작 재정의 - Marketo 문서 - 제품 설명서
+description: 분석 비헤이비어 재정의를 포함하여 Marketo Engage의 프로그램 수준에서 분석 비헤이비어를 재정의하는 방법에 대해 알아봅니다. 자신 있게 다음 단계를 수행하십시오.
 title: 프로그램 수준에서 분석 동작 재정의
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 10%
+source-wordcount: '194'
+ht-degree: 9%
 
 ---
 

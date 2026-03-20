@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359968
-description: 보고서 시간대 변경 - Marketo 문서 - 제품 설명서
+description: 특정 활동 날짜에 집중하도록 보고서에서 다루는 기간을 변경하는 방법에 대해 알아봅니다. 사용자 지정 날짜 범위를 설정하거나 설정 탭에서 사전 정의된 기간을 사용합니다.
 title: 보고서 시간대 변경
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 7%
+source-wordcount: '162'
+ht-degree: 6%
 
 ---
 

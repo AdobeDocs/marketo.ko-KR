@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720215
-description: Wordpress Enterprise에서 RTP 구현 - Marketo 설명서 - 제품 설명서
+description: 워드 프레스에서 rtp를 구현하는 것을 포함하여 Marketo Engage에서 워드 프레스 엔터프라이즈에서 rtp를 구현하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: Wordpress Enterprise에 RTP 구현
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '109'
 ht-degree: 11%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 [!UICONTROL RTP tag]을(를) 구현하려면 아래 설치 지침을 따르십시오.
 
-1. **[!UICONTROL Account Settings]**(으)로 이동합니다.
+1. **[!UICONTROL Account Settings]** 으로 이동합니다.
 
    a. 지원에서 JavaScript 태그를 이미 받은 경우 3단계로 이동합니다.
 

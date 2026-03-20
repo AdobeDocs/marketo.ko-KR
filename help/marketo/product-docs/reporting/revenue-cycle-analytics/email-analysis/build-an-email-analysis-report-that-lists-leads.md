@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360407
-description: 잠재 고객을 나열하는 이메일 분석 보고서 구축 - Marketo 문서 - 제품 설명서
+description: 이메일 분석 보고서 작성을 사용하여 Marketo Engage의 잠재 고객을 나열하는 이메일 분석 보고서를 작성하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 리드를 나열하는 이메일 분석 보고서 작성
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '209'
 ht-degree: 9%
 
 ---

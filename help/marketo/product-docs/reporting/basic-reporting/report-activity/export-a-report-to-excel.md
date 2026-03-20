@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360020
-description: ' [!DNL Excel] (으)로 보고서 내보내기 - Marketo 문서 - 제품 설명서'
-title: ' [!DNL Excel] (으)로 보고서 내보내기'
+description: 다른 소프트웨어에서 분석할 보고서를 Excel 파일로 내보내는 방법에 대해 알아봅니다. 데이터를 다운로드하려면 보고서 탭에서 내보내기 단추를 클릭합니다.
+title: ' [!DNL Excel](으)로 보고서 내보내기'
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '93'
+ht-degree: 4%
 
 ---
 

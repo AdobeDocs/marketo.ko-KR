@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718675
-description: 단계 이름 변경 - Marketo 문서 - 제품 설명서
+description: 단계 이름 변경을 포함하여 Marketo Engage에서 단계 이름 변경에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 단계 이름 변경
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 26%
+source-wordcount: '85'
+ht-degree: 21%
 
 ---
 

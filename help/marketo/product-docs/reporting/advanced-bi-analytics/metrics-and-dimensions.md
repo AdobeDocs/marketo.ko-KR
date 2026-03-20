@@ -1,12 +1,12 @@
 ---
-description: 지표 및 차원 - Marketo 문서 - 제품 설명서
+description: 이메일, 리드, 프로그램 및 기회 분석을 포함하여 고급 BI Analytics 보고서에 사용할 수 있는 지표 및 차원에 대해 알아봅니다. 이러한 데이터 요소를 사용하여 사용자 지정 보고서를 작성하십시오.
 title: 지표 및 차원
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1040'
-ht-degree: 7%
+source-wordcount: '1058'
+ht-degree: 8%
 
 ---
 
@@ -514,7 +514,7 @@ ht-degree: 7%
             <li>분기</li>
             <li>Month</li>
             <li>주</li>
-            <li>Date</li>
+            <li>일자</li>
           </ul>
       </td>
       <td>
@@ -663,7 +663,7 @@ ht-degree: 7%
             <li>대화 비율(모든 유형)</li>
             <li>대화 비율(기존)</li>
             <li>대화 비율(신규)</li>
-            <li>플로우</li>
+            <li>흐름</li>
             <li>흐름(기존)</li>
             <li>플로우(신규 항목만)</li>
         </ul>

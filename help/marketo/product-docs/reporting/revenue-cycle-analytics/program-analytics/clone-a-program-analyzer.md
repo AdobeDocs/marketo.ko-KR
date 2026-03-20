@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11383877
-description: 프로그램 분석기 복제 - Marketo 문서 - 제품 설명서
+description: Marketo Engage에서 프로그램 분석기 복제 를 사용하여 프로그램 분석기를 복제하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 프로그램 분석기 복제
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 8%
+source-wordcount: '115'
+ht-degree: 6%
 
 ---
 

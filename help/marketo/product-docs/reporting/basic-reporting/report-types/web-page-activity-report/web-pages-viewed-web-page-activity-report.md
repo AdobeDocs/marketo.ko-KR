@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360052
-description: 웹 페이지 확인함, 웹 페이지 활동 보고서 - Marketo 문서 - 제품 설명서
+description: 본 웹 페이지, 웹 페이지를 포함하여 Marketo Engage에서 본 웹 페이지, 웹 페이지 활동 보고서에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 조회한 웹 페이지, 웹 페이지 활동 보고서
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 13%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 

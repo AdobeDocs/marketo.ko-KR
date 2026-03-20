@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504922
-description: 매출 탐색기 보고서 유형 - Marketo 문서 - 제품 설명서
+description: 수익 탐색기 보고서 유형을 포함하여 Marketo Engage의 수익 탐색기 보고서 유형에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: Revenue Explorer 보고서 유형
 exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 8%
+source-wordcount: '160'
+ht-degree: 7%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514224
-description: 히트그리드 사용자 정의 및 표시 - Marketo 문서 - 제품 설명서
+description: 열 그리드 사용자 정의 및 표시를 포함하여 Marketo Engage에서 열 그리드를 사용자 정의 및 표시하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 히트 그리드 사용자 정의 및 표시
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 15%
+source-wordcount: '81'
+ht-degree: 12%
 
 ---
 

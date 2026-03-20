@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720232
-description: 새 계정 목록 만들기 - Marketo 문서 - 제품 설명서
+description: 새 계정 목록 만들기 를 사용하여 Marketo Engage에서 새 계정 목록을 만드는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 새 계정 목록 만들기
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 4%
+source-wordcount: '409'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 4%
 
 ## 새 계정 목록 만들기 {#create-a-new-account-list-1}
 
-1. **[!UICONTROL Account Lists]**(으)로 이동합니다.
+1. **[!UICONTROL Account Lists]** 으로 이동합니다.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
@@ -68,7 +68,7 @@ ht-degree: 4%
 
 ![](assets/create-new-account-list-edit.jpg)
 
-**[!UICONTROL Browse...]**&#x200B;을(를) 선택하고 새 CSV 파일을 업로드하십시오. 이 파일은 원본 파일을 대체합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다. 새로 업로드한 파일은 Marketo 지원에서 승인할 때까지 보류 중인 상태가 되며, 보류 중인 상태에서는 원래 파일이 활성 상태로 유지됩니다.
+**[!UICONTROL Browse...]**&#x200B;을(를) 선택하고 새 CSV 파일을 업로드하십시오. 이 파일은 원본 파일을 대체합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다. 새로 업로드한 파일은 Marketo 지원에서 승인할 때까지 보류 중인 상태가 되며, 보류 중인 상태에서는 원래 파일이 활성 상태로 유지됩니다.
 
 ![](assets/set-account-list-edit-hands.jpg)
 

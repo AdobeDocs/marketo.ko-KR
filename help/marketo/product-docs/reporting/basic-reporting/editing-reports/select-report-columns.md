@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359994
-description: 보고서 열 선택 - Marketo 문서 - 제품 설명서
+description: 사용 가능한 옵션에서 선택하여 보고서에 표시될 열을 선택하는 방법에 대해 알아봅니다. 열 머리글을 클릭하고 열을 선택하여 보고서 보기를 사용자 지정합니다.
 title: 보고서 열 선택
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 10%
+source-wordcount: '73'
+ht-degree: 8%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718685
-description: 매출 Modeler - Marketo 문서 - 제품 설명서의 두 단계 병합
+description: 수입의 두 단계 병합을 포함하여 Marketo Engage의 수입 모델러에서 두 단계를 병합하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: Revenue Modeler에서 두 단계 병합
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 15%
+source-wordcount: '115'
+ht-degree: 13%
 
 ---
 

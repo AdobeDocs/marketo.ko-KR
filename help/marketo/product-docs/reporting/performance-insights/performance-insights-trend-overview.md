@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979010
-description: 성능 통찰력 트렌드 개요 - Marketo 문서 - 제품 설명서
+description: 도넛형 및 꺾은선형 차트를 통해 시간 경과에 따른 채널 성능 트렌드를 표시하는 성능 통찰력 트렌드 보기에 대해 알아봅니다. 12개월 추세를 분석하여 일관된 성공 전략을 파악합니다.
 title: 성과 인사이트 트렌드 개요
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '178'
 ht-degree: 2%
 
 ---

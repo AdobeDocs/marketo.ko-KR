@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511980
-description: 보고서 저장 - Marketo 문서 - 제품 설명서
+description: 보고서 작업에서 다른 이름으로 저장을 선택하여 나중에 다시 볼 수 있도록 기본 보고서를 저장하는 방법을 알아봅니다. 내 보고서 또는 그룹 보고서 내의 폴더에 저장된 보고서를 구성합니다.
 title: 보고서 저장
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 14%
+source-wordcount: '92'
+ht-degree: 10%
 
 ---
 

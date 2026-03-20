@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979006
-description: 성능 통찰력 개요 - Marketo 문서 - 제품 설명서
+description: 채널 혼합을 최적화하고 장기적인 트렌드를 파악하여 일관된 성공 전략을 구현하는 데 도움이 되는 성능 인사이트에 대해 알아봅니다. 기여도, 트렌드를 분석하고 데이터를 PowerPoint 또는 Excel로 내보냅니다.
 title: 성과 인사이트 개요
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 3%
+source-wordcount: '240'
+ht-degree: 2%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718656
-description: 새 수익 모델 만들기 - Marketo 문서 - 제품 설명서
+description: 새 수익 모델 만들기 를 사용하여 Marketo Engage에서 새 수익 모델을 만드는 방법을 알아봅니다. 자신 있게 다음 단계를 수행하십시오.
 title: 새 수익 모델 만들기
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 9%
+source-wordcount: '116'
+ht-degree: 8%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: 보고 개요 - Marketo 문서 - 제품 설명서
+description: 기본 보고서, 이메일 인사이트, 성능 인사이트 및 고급 BI 분석을 포함한 Marketo Engage 보고 모듈에 대해 알아봅니다. 요구 사항에 맞는 보고 솔루션을 알아봅니다.
 title: 보고 개요
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---
@@ -54,7 +54,7 @@ _(이전 이름: Revenue Cycle Explorer/Advanced Report Builder)_
 
 ## 고급 여정 분석 {#advanced-journey-analytics}
 
-수익 주기 모델: 리드와 처음 상호 작용할 때부터 리드가 인증된 고객이 될 때까지 전체 수익 단계의 모든 단계와 이러한 단계 간에 전환하는 방법을 모델링합니다.
+수익 주기 모델: 전체 수익의 모든 단계를 funnel으로 모델링하고, 리드와 처음 상호 작용할 때부터 리드가 인증된 고객이 될 때까지 이러한 단계 간에 전환하는 방법을 모델링합니다.
 
 성공 경로 분석기: 수익 주기 모델의 속도와 흐름을 시각적으로 표시합니다. Success Path Analyzer 를 사용하려면 Revenue Cycle 모델을 생성해야 합니다.
 

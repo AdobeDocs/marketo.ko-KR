@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718677
-description: Marketo 예제 수익 모델 복제 - Marketo 문서 - 제품 설명서
+description: Marketo 샘플 수익 복제를 포함하여 Marketo Engage에서 marketo 샘플 수익 모델을 복제하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: Marketo 예시 수익 모델 복제
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 23%
+source-wordcount: '83'
+ht-degree: 19%
 
 ---
 

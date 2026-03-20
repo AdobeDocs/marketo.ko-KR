@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514146
-description: 속성 예 2 - Marketo 문서 - 제품 설명서
+description: 기여도 분석 예 2 기여도 분석 예를 포함하여 Marketo Engage의 기여도 분석 예 2에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 속성 예제 2
 exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '194'
 ht-degree: 4%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719093
-description: 웹 세그먼트 - Marketo 문서 - 제품 설명서
+description: 모든 사용자 지정 항목을 표시하는 세그먼트 탭을 포함하여 Marketo Engage의 웹 세그먼트에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 웹 세그먼트
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1980'
+source-wordcount: '1998'
 ht-degree: 0%
 
 ---
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->명명된 계정 목록 이름 옆에 있는 대괄호 안의 숫자는 웹 Personalization [API 읽기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/web-personalization)에 대한 목록에 대한 인덱스 참조로 사용됩니다.
+>명명된 계정 목록 이름 옆에 있는 대괄호 안의 숫자는 웹 Personalization [API 읽기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)에 대한 목록에 대한 인덱스 참조로 사용됩니다.
 
 **ISP 제외**
 
@@ -286,7 +286,7 @@ ht-degree: 0%
 
 **사용자 컨텍스트 API**
 
-웹 Personalization API 호출 [자세한 내용은 여기를 참조하십시오.](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+웹 Personalization API 호출 [자세한 내용은 여기를 참조하십시오.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

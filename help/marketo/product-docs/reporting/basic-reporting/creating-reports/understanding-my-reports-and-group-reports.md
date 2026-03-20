@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7511725
-description: 내 보고서 및 그룹 보고서 이해 - Marketo 문서 - 제품 설명서
+description: 자신에게만 표시되는 내 보고서와 모든 작업 영역 사용자가 볼 수 있는 그룹 보고서의 차이점에 대해 알아봅니다. 저장된 보고서를 효과적으로 구성합니다.
 title: 내 보고서 및 그룹 보고서 이해
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 20%
+source-wordcount: '77'
+ht-degree: 15%
 
 ---
 
 # 내 보고서 및 그룹 보고서 이해 {#understanding-my-reports-and-group-reports}
 
-**[!UICONTROL My Reports]** Analytics 홈&#x200B;**[!UICONTROL Group Reports]**&#x200B;에서 [&#x200B; 및 &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)을(를) 만들 수 있습니다.
+**[!UICONTROL My Reports]** Analytics 홈&#x200B;**[!UICONTROL Group Reports]**&#x200B;에서 [ 및 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)을(를) 만들 수 있습니다.
 
 **[!UICONTROL My Reports]**&#x200B;은(는) 귀하에게만 표시됩니다.
 

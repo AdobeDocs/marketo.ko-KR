@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360240
-description: Opportunity Influence Analyzer 구성 - Marketo 문서 - 제품 설명서
+description: 기회 영향 구성 을 사용하여 Marketo Engage에서 기회 영향 분석기를 구성하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 기회 영향 분석기 구성
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 7%
 
 ---
 

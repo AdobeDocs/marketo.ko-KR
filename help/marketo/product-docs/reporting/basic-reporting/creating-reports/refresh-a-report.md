@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472328
-description: 보고서 새로 고침 - Marketo 문서 - 제품 설명서
+description: 보고서가 24시간마다 자동으로 새로 고쳐지지만 보고서를 수동으로 새로 고쳐 최신 데이터를 얻는 방법에 대해 알아봅니다. 새로 고침 버튼 또는 보고서 작업 메뉴를 사용하여 결과를 업데이트합니다.
 title: 보고서 새로 고침
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 5%
+source-wordcount: '127'
+ht-degree: 4%
 
 ---
 

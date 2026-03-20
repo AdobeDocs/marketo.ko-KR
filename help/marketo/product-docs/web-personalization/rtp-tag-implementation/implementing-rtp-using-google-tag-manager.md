@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720145
-description: Google Tag Manager를 사용하여 RTP 구현 - Marketo 문서 - 제품 설명서
+description: dnl google을 사용하여 rtp를 구현하는 방법을 포함하여 Marketo Engage에서 google tag manager를 사용하여 rtp에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: Google Tag Manager를 사용하여 RTP 구현
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 5%
+source-wordcount: '144'
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ RTP 태그를 구현하려면 아래의 설치 지침을 따르십시오.
 
 1. **RTP 계정**&#x200B;에 로그인합니다.
 
-1. **[!UICONTROL Account Settings]**(으)로 이동합니다.
+1. **[!UICONTROL Account Settings]** 으로 이동합니다.
 
    a. 지원에서 JavaScript 태그를 이미 받은 경우 6단계로 이동합니다.
 
@@ -33,7 +33,7 @@ RTP 태그를 구현하려면 아래의 설치 지침을 따르십시오.
 
 1. RTP JavaScript 태그를 복사하여 새로 만든 **사용자 지정 HTML 태그**&#x200B;에 붙여넣습니다(1단계).
 
-1. **[!UICONTROL Add Rule to Fire Tag]**&#x200B;을(를) 클릭합니다. **[!UICONTROL All Pages]**&#x200B;를 선택합니다.
+1. **[!UICONTROL Add Rule to Fire Tag]**&#x200B;를 클릭합니다. **[!UICONTROL All Pages]**&#x200B;를 선택합니다.
 
 1. **[!UICONTROL Save]**&#x200B;을(를) 클릭하고 [새 버전을 게시](https://support.google.com/tagmanager/answer/2699097?hl=en)합니다.
 

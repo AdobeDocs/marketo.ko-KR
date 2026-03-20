@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360409
-description: 프로그램 정보 - Marketo 문서 - 제품 설명서를 보여주는 이메일 분석 보고서 작성
+description: 이메일 작성을 사용하여 Marketo Engage의 프로그램 정보를 표시하는 이메일 분석 보고서를 작성하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 프로그램 정보를 보여 주는 이메일 분석 보고서 작성
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 16%
+source-wordcount: '143'
+ht-degree: 14%
 
 ---
 

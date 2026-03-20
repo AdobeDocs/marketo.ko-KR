@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360405
-description: 잠재 고객을 나열하는 프로그램 멤버십 분석 보고서 작성 - Marketo 문서 - 제품 설명서
+description: 프로그램 빌드를 사용하여 Marketo Engage의 잠재 고객을 나열하는 프로그램 멤버십 분석 보고서를 빌드하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 리드를 나열하는 프로그램 멤버십 분석 보고서 작성
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 15%
+source-wordcount: '149'
+ht-degree: 14%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 15%
 
 ![](assets/seven.png)
 
-_[!UICONTROL Full Name]_&#x200B;과(와) 같은 잠재 고객 특성을 빠르게 추가하여 구성원이 누구인지 확인할 수 있습니다.
+_[!UICONTROL Full Name]_과(와) 같은 잠재 고객 특성을 빠르게 추가하여 구성원이 누구인지 확인할 수 있습니다.
 
 >[!TIP]
 >

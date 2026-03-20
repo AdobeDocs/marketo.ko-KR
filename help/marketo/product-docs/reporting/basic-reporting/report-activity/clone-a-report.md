@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360028
-description: 보고서 복제 - Marketo 문서 - 제품 설명서
+description: 보고서를 복제하여 원본을 변경하지 않고 사용자 지정에 대한 중복을 생성하는 방법에 대해 알아봅니다. 보고서 작업을 사용하거나 마우스 오른쪽 버튼을 클릭하여 새 보고서를 복제하고 이름을 지정합니다.
 title: 보고서 복제
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 8%
+source-wordcount: '88'
+ht-degree: 6%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719340
-description: 특정 IP를 추적에서 제외 - Marketo 문서 - 제품 설명서
+description: 특정 IP 주소 또는 IP 범위를 웹 Personalization에서 추적되지 않도록 제외하는 방법을 알아봅니다. 계정 설정에서 직원 및 조직을 추적 및 보고에서 제외합니다.
 title: 특정 IPS를 추적에서 제외
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 6%
+source-wordcount: '208'
+ht-degree: 5%
 
 ---
 

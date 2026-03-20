@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949170
-description: 캠페인을 템플릿으로 저장 - Marketo 문서 - 제품 설명서
+description: 캠페인을 템플릿으로 저장을 포함하여 Marketo Engage에서 캠페인을 템플릿으로 저장하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 캠페인을 템플릿으로 저장
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '105'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 완벽한 웹 캠페인을 만드는 데 시간을 보낸 적이 있습니까? 이제 템플릿으로 저장하여 나중에 쉽게 다시 사용할 수 있습니다.
 
-1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]** 으로 이동합니다.
 
    ![](assets/web-campaigns-hand-1.jpg)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360055
-description: 보고서 이메일, 작업 공간 전반에 걸친 캠페인 성과 - Marketo 문서 - 제품 설명서
+description: 보고서 이메일, 캠페인을 포함하여 Marketo Engage의 작업 공간 전반에 걸친 캠페인 성과 및 보고서 이메일에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 작업 영역 전체에서 이메일, 캠페인 성과 보고
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 17%
+source-wordcount: '87'
+ht-degree: 14%
 
 ---
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719410
-description: 웹 캠페인 삭제 - Marketo 문서 - 제품 설명서
+description: 웹 캠페인 delete-a-web-campaign을 사용하여 Marketo Engage에서 웹 캠페인을 삭제하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 웹 캠페인 삭제
 exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 11%
+source-wordcount: '83'
+ht-degree: 12%
 
 ---
 
 # 웹 캠페인 삭제 {#delete-a-web-campaign}
 
-1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]** 으로 이동합니다.
 
    ![](assets/web-campaigns-hand-3.jpg)
 

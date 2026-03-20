@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360225
-description: 이메일 보고서에서 Assets 필터링 - Marketo 문서 - 제품 설명서
+description: 이메일 보고서에서 에셋 필터링을 사용하여 Marketo Engage의 이메일 보고서에서 에셋을 필터링하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 이메일 보고서에서 자산 필터링
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 7%
+source-wordcount: '181'
+ht-degree: 6%
 
 ---
 

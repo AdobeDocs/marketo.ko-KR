@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719398
-description: 새 대화 상자 만들기 웹 캠페인 - Marketo 문서 - 제품 설명서
+description: 웹 사이트에서 팝업 메시지를 통해 실시간으로 콘텐츠를 개인화할 수 있는 대화 상자 웹 캠페인을 만듭니다. 대화 상자 스타일, 위치, 애니메이션 및 디스플레이 설정을 사용자 지정하여 방문자를 참여시킵니다.
 title: 새 대화 웹 캠페인 만들기
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '748'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 웹 캠페인은 특정 세그먼트와 연관된 사용자 지정 반응입니다. 반응은 웹 사이트의 대화 상자, [영역 교체](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), [위젯 기능](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) 또는 이메일 알림일 수 있습니다.
 
-1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]** 으로 이동합니다.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 

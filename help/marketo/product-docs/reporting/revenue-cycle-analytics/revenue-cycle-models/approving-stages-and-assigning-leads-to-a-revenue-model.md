@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718683
-description: 단계 승인 및 수익 모델에 리드 할당 - Marketo 문서 - 제품 설명서
+description: 단계 승인 및 를 포함하여 Marketo Engage의 수익 모델에 단계 승인 및 리드 지정에 대해 알아봅니다. 자신 있게 다음 단계를 수행하십시오.
 title: 단계 승인 및 수익 모델에 리드 할당
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '313'
 ht-degree: 7%
 
 ---

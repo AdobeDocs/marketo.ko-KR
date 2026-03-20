@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360014
-description: 사람 성과 보고서 - Marketo 문서 - 제품 설명서
+description: 시간 경과에 따른 데이터베이스 증가를 측정하고 특성별로 사용자를 그룹화하는 사람 성과 보고서에 대해 알아봅니다. 드릴다운 기능을 사용하여 프로그램을 분석하고 자세한 리드 정보를 탐색합니다.
 title: 사용자 성과 보고서
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---

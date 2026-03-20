@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360032
-description: 보고서 이메일의 URL 만료 시간 변경 - Marketo 문서 - 제품 설명서
+description: 만료 변경을 포함하여 Marketo Engage에서 보고서 이메일의 URL에 대한 만료 시간 변경에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 보고서 이메일의 URL 만료 시간 변경
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '112'
 ht-degree: 19%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949162
-description: 보고서 구독 활성화/비활성화 - Marketo 문서 - 제품 설명서
+description: 웹 Personalization 이메일 보고서에 대한 보고서 구독을 활성화하거나 비활성화하는 방법을 알아봅니다. 사용자 설정에서 보고서 및 빈도 를 선택하여 자동화된 이메일 알림을 사용자 지정합니다.
 title: 보고서 구독 활성화/비활성화
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 17%
+source-wordcount: '80'
+ht-degree: 13%
 
 ---
 

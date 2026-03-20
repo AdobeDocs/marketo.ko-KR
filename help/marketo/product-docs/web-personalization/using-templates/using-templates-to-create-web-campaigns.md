@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949168
-description: 템플릿을 사용하여 웹 캠페인 만들기 - Marketo 문서 - 제품 설명서
+description: 템플릿을 사용하여 Marketo Engage에서 웹 캠페인을 만들고 템플릿을 사용하여 웹 캠페인을 만드는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 템플릿을 사용하여 웹 캠페인 만들기
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '149'
 ht-degree: 11%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 11%
 >
 >템플릿은 데스크톱과 모바일 모두에서 모든 장치 및 탐색 환경에 최적화됩니다.
 
-1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]** 으로 이동합니다.
 
    ![](assets/web-campaigns-hand.jpg)
 

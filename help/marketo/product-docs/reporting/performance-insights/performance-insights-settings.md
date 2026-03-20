@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795492
-description: 성능 인사이트 설정 - Marketo 문서 - 제품 설명서
+description: 프로그램 성공 집계, 이전 기간 구성, 마케팅 영향을 받은 기회 및 비용 계산 옵션을 포함한 성능 통찰력 설정에 대해 알아봅니다. 대시보드 보기에 따라 설정을 구성합니다.
 title: 성과 인사이트 설정
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---

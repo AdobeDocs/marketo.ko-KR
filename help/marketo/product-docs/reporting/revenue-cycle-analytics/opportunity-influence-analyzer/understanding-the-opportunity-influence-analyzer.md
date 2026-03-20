@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718648
-description: Opportunity Influence Analyzer 이해 - Marketo 문서 - 제품 설명서
+description: 에 대한 이해를 포함하여 Marketo Engage의 Opportunity Influence Analyzer에 대한 이해를 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 기회 영향 분석기 이해
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '267'
 ht-degree: 3%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951220
-description: 모바일 플랫폼 열을 사용하여 직원 성과 보고서 작성 - Marketo 문서 - 제품 설명서
+description: 사람 만들기 를 사용하여 Marketo Engage에서 모바일 플랫폼 열을 사용하여 사람 성과 보고서를 작성하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 모바일 플랫폼 열을 사용하여 사용자 성과 보고서 만들기
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '269'
 ht-degree: 8%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 8%
 
 ## 모바일 스마트 목록 만들기 {#create-mobile-smart-lists}
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/ma.png)
 

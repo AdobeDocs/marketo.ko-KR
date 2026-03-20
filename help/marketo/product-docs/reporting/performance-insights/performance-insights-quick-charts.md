@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980873
-description: 성능 통찰력 빠른 차트 - Marketo 문서 - 제품 설명서
+description: 자주 사용하는 차트 보기를 위해 성능 인사이트에서 빠른 차트를 만들고 저장하는 방법에 대해 알아봅니다. 빠른 액세스를 위해 특정 필터 및 지표를 사용하여 최대 20개의 사용자 정의 차트를 저장합니다.
 title: 성과 인사이트 빠른 차트
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 3%
+source-wordcount: '186'
+ht-degree: 2%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359999
-description: 보고서 열 순서 바꾸기 - Marketo 문서 - 제품 설명서
+description: 보고서 열을 새 위치로 끌어다 놓아 순서를 변경하는 방법에 대해 알아봅니다. 보고서 탭에서 열 순서를 사용자 지정하여 가장 중요한 데이터의 우선 순위를 지정합니다.
 title: 보고서 열 재정렬
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 9%
+source-wordcount: '107'
+ht-degree: 7%
 
 ---
 

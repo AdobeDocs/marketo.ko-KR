@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719400
-description: 새 In Zone Web Campaign 만들기 - Marketo 문서 - 제품 설명서
+description: 영역 ID를 기반으로 하는 웹 사이트 요소를 개인화된 콘텐츠 또는 그래픽 배너로 바꾸는 영역 내 웹 캠페인을 만듭니다. 영역 ID를 사용하여 웹 사이트의 특정 영역을 타깃팅합니다.
 title: 새 내부 영역 웹 캠페인 만들기
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '691'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ## In Zone 웹 캠페인 만들기 {#create-an-in-zone-web-campaign}
 
-1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]** 으로 이동합니다.
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 

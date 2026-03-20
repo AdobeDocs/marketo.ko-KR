@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360012
-description: 상태별 인원 보고서 - Marketo 문서 - 제품 설명서
+description: 각 개인 상태 값에 월별 표시되는 사람 수를 보여 주는 상태별 사람 보고서에 대해 알아봅니다. 프로세스를 통해 진행 상황을 추적하고 funnel의 병목 현상을 식별합니다.
 title: 상태별 사용자 보고서
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 8%
+source-wordcount: '119'
+ht-degree: 6%
 
 ---
 
 # 상태별 사용자 보고서 {#people-by-status-report}
 
-매월 각 _[!UICONTROL Person Status]_&#x200B;값에 표시되는 사람 수를 확인하여 이 프로세스를 얼마나 잘 진행하고 있는지 확인하십시오.
+매월 각 _[!UICONTROL Person Status]_값에 표시되는 사람 수를 확인하여 이 프로세스를 얼마나 잘 진행하고 있는지 확인하십시오.
 
 1. [보고서를 만들고](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) **[!UICONTROL People by Status]** [보고서 형식](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)을(를) 선택하십시오.
 
 1. [보고서의 시간대를 설정](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)하고 **[!UICONTROL Report]** 탭을 클릭합니다.
 
-1. 잘됐네! 이제 각 _[!UICONTROL Person Status]_&#x200B;에 몇 명이 있는지 매달 볼 수 있습니다.
+1. 잘됐네! 이제 각 _[!UICONTROL Person Status]_에 몇 명이 있는지 매달 볼 수 있습니다.
 
    ![](assets/image2017-3-27-11-3a17-3a4.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360199
-description: 속성별 개인 보고서 그룹화 - Marketo 문서 - 제품 설명서
+description: 속성별 그룹 개인 보고서를 포함하여 Marketo Engage에서 속성별 그룹 개인 보고서에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 속성별 그룹 사용자 보고서
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 10%
+source-wordcount: '126'
+ht-degree: 9%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 10%
 
    >[!TIP]
    >
-   >숫자 값이 있는 특성(예: _[!UICONTROL Created At]_&#x200B;또는&#x200B;_[!UICONTROL Annual Revenue]_)을 선택하는 경우 오른쪽의 **[!UICONTROL Units]** 드롭다운에서 지표를 선택합니다.
+   >숫자 값이 있는 특성(예: _[!UICONTROL Created At]_또는_[!UICONTROL Annual Revenue]_)을 선택하는 경우 오른쪽의 **[!UICONTROL Units]** 드롭다운에서 지표를 선택합니다.
 
    됐습니다. 보고서를 그룹화하려면 **[!UICONTROL Report]** 탭을 클릭하십시오.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720218
-description: Adobe Tag Manager을 사용하여 RTP 구현 - Marketo 문서 - 제품 설명서
+description: adobe 태그를 사용한 rtp 구현 등 Marketo Engage에서 adobe tag manager를 사용하여 rtp에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: Adobe Tag Manager를 사용하여 RTP 구현
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 6%
+source-wordcount: '191'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ RTP 태그를 구현하려면 아래 설치 지침을 따르십시오.
 
 1. RTP 계정에 로그인합니다.
 
-1. **[!UICONTROL Account Settings]**(으)로 이동합니다.
+1. **[!UICONTROL Account Settings]** 으로 이동합니다.
 
    a. 지원에서 JavaScript 태그를 이미 받은 경우 4단계를 계속 진행합니다.
 
@@ -29,7 +29,7 @@ RTP 태그를 구현하려면 아래 설치 지침을 따르십시오.
 
 1. [!DNL Dynamic Tag Manager] 계정([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in))에 로그인합니다.
 
-1. **[!UICONTROL Dashboard] (으)로 이동합니다.** 관련 웹 속성을 클릭합니다.
+1. **[!UICONTROL Dashboard]으로 이동합니다.** 관련 웹 속성을 클릭합니다.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 

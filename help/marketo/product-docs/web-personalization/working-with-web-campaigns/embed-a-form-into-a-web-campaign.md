@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095554
-description: 웹 캠페인에 양식 포함 - Marketo 문서 - 제품 설명서
+description: 웹 캠페인에 양식 임베드를 포함하여 Marketo Engage의 웹 캠페인에 양식 임베드에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 웹 캠페인에 양식 임베드
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 8%
+source-wordcount: '330'
+ht-degree: 7%
 
 ---
 
@@ -85,4 +85,4 @@ Set Campaign에서 대화 상자 또는 위젯 색상을 변경하려면:
 >
 >* [양식 테마의 CSS 편집](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [후속 랜딩 페이지 없이 감사 메시지 표시](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

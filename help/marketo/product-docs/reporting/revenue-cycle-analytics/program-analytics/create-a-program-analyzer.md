@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360399
-description: 프로그램 분석기 만들기 - Marketo 설명서 - 제품 설명서
+description: 프로그램 분석기 만들기를 사용하여 Marketo Engage에서 프로그램 분석기를 만드는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 프로그램 분석기 만들기
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '276'
 ht-degree: 1%
 
 ---

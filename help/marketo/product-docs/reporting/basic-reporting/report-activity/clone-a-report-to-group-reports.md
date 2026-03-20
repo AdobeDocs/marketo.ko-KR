@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512105
-description: 보고서를 그룹 보고서에 복제 - Marketo 문서 - 제품 설명서
+description: 내 보고서에서 그룹 보고서로 보고서를 복제하여 모든 작업 영역 사용자가 볼 수 있도록 하는 방법에 대해 알아봅니다. 다음으로 복제 옵션을 사용하여 팀과 보고서를 공유합니다.
 title: 그룹 보고서에 보고서 복제
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 14%
+source-wordcount: '113'
+ht-degree: 12%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099415
-description: 이메일 인사이트 빠른 차트 - Marketo 문서 - 제품 설명서
+description: 이메일 인사이트에서 자주 사용하는 차트 보기를 위한 썸네일로 빠른 차트를 만들고 저장하는 방법에 대해 알아봅니다. 최대 20개의 사용자 정의 차트를 저장하고 빠른 차트 아이콘을 통해 빠르게 액세스할 수 있습니다.
 title: 이메일 인사이트 빠른 차트
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 4%
+source-wordcount: '246'
+ht-degree: 3%
 
 ---
 

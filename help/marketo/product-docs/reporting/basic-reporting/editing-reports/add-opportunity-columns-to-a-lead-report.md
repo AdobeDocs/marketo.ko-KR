@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360018
-description: 리드 보고서에 영업 기회 열 추가 - Marketo 문서 - 제품 설명서
+description: 잠재 고객 보고서에 영업 기회 열을 추가하여 영업 기회 통계 및 지표를 보는 방법을 알아봅니다. 금액, 전환율 및 판매 주기 정보를 포함한 영업 기회 데이터를 표시합니다.
 title: 리드 보고서에 기회 열 추가
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 8%
+source-wordcount: '255'
+ht-degree: 7%
 
 ---
 

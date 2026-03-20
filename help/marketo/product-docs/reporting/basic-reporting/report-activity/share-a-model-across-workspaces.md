@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360205
-description: 작업 영역 간 모델 공유 - Marketo 문서 - 제품 설명서
+description: 작업 영역 간 모델 공유를 포함하여 Marketo Engage의 작업 영역 간 모델 공유에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 작업 영역 전체에서 모델 공유
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 11%
+source-wordcount: '120'
+ht-degree: 10%
 
 ---
 

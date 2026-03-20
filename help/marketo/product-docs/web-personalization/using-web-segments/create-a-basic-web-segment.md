@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719344
-description: 기본 웹 세그먼트 만들기 - Marketo 문서 - 제품 설명서
+description: 기본 웹 세그먼트 만들기 를 사용하여 Marketo Engage에서 기본 웹 세그먼트를 만드는 방법에 대해 알아봅니다. 자신 있게 다음 단계를 수행하십시오.
 title: 기본 웹 세그먼트 만들기
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '165'
 ht-degree: 7%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 미국 및 금융 서비스 업계의 모든 웹 방문자를 타겟팅하는 기본 세그먼트를 만들어 보겠습니다.
 
-1. **[!UICONTROL Segments]**(으)로 이동합니다.
+1. **[!UICONTROL Segments]** 으로 이동합니다.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 

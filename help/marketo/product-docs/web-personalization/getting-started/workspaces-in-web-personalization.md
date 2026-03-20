@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727499
-description: 웹 Personalization의 작업 공간 - Marketo 문서 - 제품 설명서
+description: 웹 개인화의 작업 영역을 포함하여 Marketo Engage에서 웹 개인화의 작업 영역에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 웹 개인화의 작업 영역
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '117'
 ht-degree: 3%
 
 ---

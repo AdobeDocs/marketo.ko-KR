@@ -1,11 +1,11 @@
 ---
-description: 고급 BI Analytics 개요 - Marketo 문서 - 제품 설명서
+description: Marketo Engage 데이터에 대한 풍부한 시각화와 빠른 성능을 갖춘 유연한 보고 인터페이스인 고급 BI Analytics에 대해 알아봅니다. 대화형 대시보드를 사용하여 사용자 정의 보고서를 만들고 내보내기 옵션을 제공합니다.
 title: 고급 BI 분석 개요
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: '1058'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 * **고성능 쿼리 엔진**: 대규모 데이터 세트에서 5배 더 빠른 성능을 제공하여 더 빠른 데이터 처리, 더 빠른 보고서 로드 및 더 원활한 분석 환경을 가능하게 합니다.
 
-* **풍부하고 매력적인 시각화**: 차트, 맵 및 KPI 지표를 포함하여 방대한 확장된 기본 제공 시각화 옵션 컬렉션으로 대시보드를 보다 통찰력 있고 효과적이며 데이터 스토리텔링을 크게 향상시킵니다.
+* **풍부하고 매력적인 시각화**: 차트, 맵 및 KPI 지표를 포함하여 광범위한 기본 제공 시각화 옵션 컬렉션으로 대시보드를 보다 통찰력 있고 영향력 있게 만들며 데이터 storytelling을 크게 향상시킵니다.
 
 * **고급 상호 작용 및 동적 필터링**: 시각적 개체에 동적 슬라이서, 상호 필터링 및 상호 종속 필터를 적용합니다. 다중 페이지 보고서는 고급 드릴다운, 드릴업 및 드릴스루를 지원하므로 데이터 탐색을 쉽게 수행할 수 있습니다.
 
@@ -125,7 +125,7 @@ ht-degree: 1%
 
 다음 비디오를 통해 다중 페이지 드릴스루 보고서 경험의 예를 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451689/?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## 고급 BI Analytics의 표준 보고서 {#standard-reports}
 

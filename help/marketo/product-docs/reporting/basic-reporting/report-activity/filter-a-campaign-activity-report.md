@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360184
-description: 캠페인 활동 보고서 필터링 - Marketo 문서 - 제품 설명서
+description: 캠페인 활동 보고서 필터링을 사용하여 Marketo Engage에서 캠페인 활동 보고서를 필터링하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 캠페인 활동 보고서 필터링
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 9%
+source-wordcount: '137'
+ht-degree: 8%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979008
-description: 성능 통찰력 기여도 개요 - Marketo 문서 - 제품 설명서
+description: 참여, 파이프라인 및 매출 지표를 통해 매출에 대한 마케팅 기여도를 평가하는 Performance Insights 기여도 보기에 대해 알아봅니다. 도넛형 차트와 막대형 차트를 사용하여 채널 및 프로그램 성능을 봅니다.
 title: 성과 인사이트 기여 개요
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '367'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Marketo [!UICONTROL Performance Insights]에서 기여도 보기는 기본적으
 
 ![](assets/one-1.png)
 
-성능을 확인할 지표를 선택합니다. 이 예제에서는 **[!UICONTROL Multi-Touch]** 대시보드에서 _[!UICONTROL Revenue]_&#x200B;을(를) 통해 얻은 영업 기회를 살펴봅니다.
+성능을 확인할 지표를 선택합니다. 이 예제에서는 **[!UICONTROL Multi-Touch]** 대시보드에서 _[!UICONTROL Revenue]_을(를) 통해 얻은 영업 기회를 살펴봅니다.
 
 ![](assets/2.png)
 

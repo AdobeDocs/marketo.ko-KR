@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360429
-description: 수익 모델에 대한 보고서 - Marketo 문서 - 제품 설명서
+description: 수익 모델에 대한 보고서를 포함하여 Marketo Engage의 수익 모델에 대한 보고서에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 수익 모델 보고서
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 8%
+source-wordcount: '144'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 8%
 >
 >리드는 보고서에 포함할 모델의 멤버여야 합니다.
 
-1. **[!UICONTROL Analytics]**(으)로 이동합니다.
+1. **[!UICONTROL Analytics]** 으로 이동합니다.
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
@@ -43,4 +43,4 @@ ht-degree: 8%
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 
-이것이 유용한 이유는 무엇입니까? 이 모델은 판매 및 마케팅 단계를 보여 줍니다. 문제가 되기 전에 병목 현상을 파악하기 위해 시간이 지남에 따라 잔고를 추적하십시오.
+이것이 유용한 이유는 무엇입니까? 이 모델은 판매 및 마케팅 funnel을 보여 줍니다. 문제가 되기 전에 병목 현상을 파악하기 위해 시간이 지남에 따라 잔고를 추적하십시오.

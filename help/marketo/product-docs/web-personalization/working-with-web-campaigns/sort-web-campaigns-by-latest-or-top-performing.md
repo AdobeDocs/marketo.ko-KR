@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951252
-description: 최신 또는 최고 실적을 기준으로 웹 캠페인 정렬 - Marketo 문서 - 제품 설명서
+description: 웹 캠페인을 최신 또는 최신으로 정렬하여 Marketo Engage에서 가장 성과가 좋은 웹 캠페인을 정렬하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 최신순 또는 최고 성과순으로 웹 캠페인 정렬
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 19%
+source-wordcount: '101'
+ht-degree: 17%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 19%
 
 두 가지 방법으로 웹 캠페인을 정렬할 수 있습니다.
 
-1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]** 으로 이동합니다.
 
    ![](assets/web-campaigns-hand-1.jpg)
 

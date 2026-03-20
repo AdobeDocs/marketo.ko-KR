@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504749
-description: 매출 탐색기 보고서 내보내기 - Marketo 문서 - 제품 설명서
+description: 수익 탐색기 보고서 내보내기를 포함하여 Marketo Engage에서 수익 탐색기 보고서 내보내기에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: Revenue Explorer 보고서 내보내기
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 9%
+source-wordcount: '90'
+ht-degree: 7%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360016
-description: 스마트 목록으로 보고서 사람 필터링 - Marketo 문서 - 제품 설명서
+description: 스마트 목록을 사용하여 보고서에서 사용자를 필터링하여 특정 사용자 특성별로 결과를 좁히는 방법을 알아봅니다. 다양한 보고서 유형에 대해 스마트 목록 탭에서 필터를 적용합니다.
 title: 스마트 목록을 사용하여 보고서의 사용자 필터링
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 17%
+source-wordcount: '142'
+ht-degree: 15%
 
 ---
 

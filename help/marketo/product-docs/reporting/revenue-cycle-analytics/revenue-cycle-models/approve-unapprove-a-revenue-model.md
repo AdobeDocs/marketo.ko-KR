@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718687
-description: 수익 모델 승인/승인 취소 - Marketo 문서 - 제품 설명서
+description: 승인수익 모델 비승인을 사용하여 Marketo Engage에서 수익 모델을 승인/비승인하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 수익 모델 승인/승인 취소
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 14%
+source-wordcount: '157'
+ht-degree: 12%
 
 ---
 

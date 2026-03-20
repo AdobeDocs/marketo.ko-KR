@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719336
-description: 사용자 설정 - Marketo 문서 - 제품 설명서
+description: 시간대, 이메일 보고서, 암호, 모바일 알림 및 개인 지역 설정을 포함하여 사용자 설정을 구성하는 방법에 대해 알아봅니다. 웹 Personalization 환경 및 내보내기 환경 설정을 사용자 지정합니다.
 title: 사용자 설정
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 1%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 

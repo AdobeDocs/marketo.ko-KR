@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099408
-description: 이메일 인사이트 개요 - Marketo 문서 - 제품 설명서
+description: Analytics 및 전송함 섹션을 통해 이전 이메일 데이터에서 강력한 분석을 제공하는 이메일 인사이트에 대해 알아봅니다. 고급 필터링 옵션을 사용하여 게재 및 참여 지표를 탐색합니다.
 title: 이메일 인사이트 개요
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '219'
 ht-degree: 3%
 
 ---

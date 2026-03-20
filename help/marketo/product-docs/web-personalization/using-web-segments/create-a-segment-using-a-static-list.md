@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795536
-description: 정적 목록을 사용하여 세그먼트 만들기 - Marketo 문서 - 제품 설명서
+description: Marketo Engage의 정적 목록을 사용하여 세그먼트를 만드는 방법(정적 목록을 사용하여 세그먼트 만들기 사용)에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 정적 목록을 사용하여 세그먼트 만들기
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '172'
 ht-degree: 9%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 알려진 웹 방문자가 Marketo [정적 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) 중 하나에 있는지 여부에 따라 웹 사이트를 방문할 때 세그먼트화하십시오.
 
-1. **[!UICONTROL Segments]**(으)로 이동합니다.
+1. **[!UICONTROL Segments]** 으로 이동합니다.
 
    ![](assets/1.jpg)
 

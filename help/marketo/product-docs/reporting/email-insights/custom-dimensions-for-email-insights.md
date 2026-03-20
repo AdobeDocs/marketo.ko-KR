@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11375276
-description: 이메일 인사이트에 대한 사용자 지정 차원 - Marketo 문서 - 제품 설명서
+description: 세분화 및 프로그램 태그를 사용하여 이메일 인사이트에 최대 10개의 사용자 지정 차원을 추가하는 방법을 알아봅니다. 한번 추가한 차원은 삭제하거나 바꿀 수 없으므로 신중하게 선택하십시오.
 title: 이메일 인사이트용 사용자 정의 차원
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '117'
 ht-degree: 11%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097867
-description: 웹 Personalization 활동에 대한 스마트 목록 정의 - Marketo 문서 - 제품 설명서
+description: 용 스마트 목록 정의를 사용하여 Marketo Engage에서 웹 개인화 활동을 위한 스마트 목록을 정의하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 웹 개인화 활동에 대한 스마트 목록 정의
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -57,7 +57,7 @@ ht-degree: 2%
    >
    >여러 트리거를 사용하면 트리거 중 하나가 활성화되면 사람이 플로우로 이동합니다.
 
-   사람들 집합에서 동시에 캠페인을 실행하려면 [Smart Campaign용 스마트 목록을 정의하는 방법을 알아보세요 | 일괄 처리 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   사람들 집합에서 동시에 캠페인을 실행하려면 [Smart Campaign용 스마트 목록을 정의하는 방법을 알아보세요 | 일괄 처리 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >

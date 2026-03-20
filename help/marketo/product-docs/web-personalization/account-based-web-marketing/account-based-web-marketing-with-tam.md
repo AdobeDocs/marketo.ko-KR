@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11381689
-description: TAM을 통한 계정 기반 웹 마케팅 - Marketo 설명서 - 제품 설명서
+description: tam의 계정 기반 웹 마케팅을 포함하여 Marketo Engage에서 tam을 사용한 계정 기반 웹 마케팅에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: TAM을 통한 계정 기반 웹 마케팅
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 6%
+source-wordcount: '180'
+ht-degree: 5%
 
 ---
 
@@ -23,7 +23,7 @@ Marketo [!UICONTROL Web Personalization] 및 [!UICONTROL Target Account Manageme
 
    * **참고**: 동기화하는 데 최대 5분이 걸릴 수 있습니다.
 
-* [!UICONTROL Web Personalization]에서 TAM에서 만든 [계정 목록에서 &#x200B;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)세그먼트를 타겟팅하는 계정을 만들고 이러한 계정에 대한 콘텐츠를 개인화할 수 있습니다
+* [!UICONTROL Web Personalization]에서 TAM에서 만든 [계정 목록에서 ](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)세그먼트를 타겟팅하는 계정을 만들고 이러한 계정에 대한 콘텐츠를 개인화할 수 있습니다
 
 ## 기존 ABWM 고객의 경우 {#for-existing-abwm-customers}
 

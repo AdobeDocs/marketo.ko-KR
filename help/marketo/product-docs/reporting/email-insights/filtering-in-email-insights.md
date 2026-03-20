@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099798
-description: 이메일 인사이트에서 필터링 - Marketo 문서 - 제품 설명서
+description: 대상, 콘텐츠, 플랫폼, 장치 유형 및 날짜 범위별로 이메일 인사이트 데이터를 필터링하는 방법을 알아봅니다. 여러 필터를 적용하여 특정 지표로 드릴다운하고 성능을 비교합니다.
 title: 이메일 인사이트 필터링
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '188'
 ht-degree: 2%
 
 ---

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4718654
-description: 수익 모델 이해 - Marketo 문서 - 제품 설명서
+description: 수익 모델 이해를 포함하여 Marketo Engage의 수익 모델을 이해하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 수익 모델 이해
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
 
 # 수익 모델 이해 {#understanding-revenue-models}
 
-수익 주기 모델은 마케팅을 한 단계 업그레이드합니다. 이 모델은 리드와 처음 상호 작용할 때부터 리드가 성공한 고객이 될 때까지 전체 매출 단계의 모든 단계를 모델링합니다.
+수익 주기 모델은 마케팅을 한 단계 업그레이드합니다. 이 모델은 잠재 고객과 처음 상호 작용할 때부터 잠재 고객이 단일 고객일 때까지 전체 매출의 모든 단계를 funnel으로 모델링합니다.
 
 ## 정신 모델(이에 대한 생각 방법) {#mental-model-how-to-think-about-this-thing}
 

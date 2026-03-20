@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359991
-description: 보고서 구독 관리 - Marketo 문서 - 제품 설명서
+description: Analytics 구독 탭에서 모든 보고서 구독을 한 곳에서 관리하는 방법을 알아봅니다. 필요에 따라 빈도, 수신자 및 설정을 편집하거나 구독을 삭제합니다.
 title: 보고서 구독 관리
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 6%
+source-wordcount: '222'
+ht-degree: 7%
 
 ---
 

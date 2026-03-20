@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719402
-description: 새 위젯 웹 캠페인 만들기 - Marketo 문서 - 제품 설명서
+description: 확장 및 축소 기능을 사용하여 웹 페이지의 세로 면에 고정 텍스트 또는 배너로 표시되는 위젯 웹 캠페인을 만듭니다. 위치, 색상, 애니메이션 및 디스플레이 설정을 사용자 지정합니다.
 title: 새 위젯 웹 캠페인 만들기
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 3%
+source-wordcount: '630'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ## 위젯 웹 캠페인 만들기 {#create-a-widget-web-campaign}
 
-1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]** 으로 이동합니다.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 

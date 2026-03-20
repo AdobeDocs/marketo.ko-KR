@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949160
-description: Adobe Analytics - Marketo 문서 - 제품 설명서와 통합
+description: adobe analytics와의 통합을 사용하여 Marketo Engage에서 adobe analytics와 통합하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: Adobe Analytics와 통합
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '984'
+source-wordcount: '999'
 ht-degree: 1%
 
 ---
@@ -64,7 +64,7 @@ Adobe Analytics의 사용자 지정 링크에서 RTP 캠페인 노출 횟수 및
 
 1. AA 계정의 **[!UICONTROL Admin Tools]**(으)로 이동합니다.
 1. 통합에 사용할 **[!UICONTROL Report Suite]**&#x200B;을(를) 선택하십시오.
-1. **[!UICONTROL Edit Settings]**&#x200B;에서 **[!UICONTROL Conversion]**(으)로 이동하여 **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Edit Settings]**&#x200B;에서 **[!UICONTROL Conversion]**(으)로 이동하여 **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**을(를) 선택합니다.
 [전환 변수](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) 번호를 선택하십시오(권장).
 
    1. 업계 사용자 정의 전환용 Evar # 20
@@ -200,7 +200,7 @@ AA의 맞춤화된 보고서 및 대시보드의 예는 다음과 같습니다.
 
 대시보드에 세그먼트 Reportlet 추가
 
-1. **[!UICONTROL Site Metrics]**(으)로 이동합니다. **[!UICONTROL Custom Events]**, **[!UICONTROL Segments]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Site Metrics]** 으로 이동합니다. **[!UICONTROL Custom Events]**, **[!UICONTROL Segments]**&#x200B;을(를) 클릭합니다.
 
 1. 그래프를 **세로 막대**&#x200B;로 구성합니다.
 

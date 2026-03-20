@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504051
-description: 개인 데이터 관리 - Marketo 문서 - 제품 설명서
+description: 개인 데이터 관리 - 개인 데이터 관리를 포함하여 Marketo Engage에서 개인 데이터 관리에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 사용자 데이터 관리
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 10%
+source-wordcount: '206'
+ht-degree: 12%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 10%
 
 세분화에 사용할 개인 필드를 선택하여 [!DNL Web Personalization]의 개인 데이터를 활용하십시오.
 
-1. **[!UICONTROL Account Settings]**(으)로 이동합니다.
+1. **[!UICONTROL Account Settings]** 으로 이동합니다.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. **[!UICONTROL Database]**(으)로 이동합니다.
+1. **[!UICONTROL Database]** 으로 이동합니다.
 
    ![](assets/account-settings-dropdown-database.jpg)
 

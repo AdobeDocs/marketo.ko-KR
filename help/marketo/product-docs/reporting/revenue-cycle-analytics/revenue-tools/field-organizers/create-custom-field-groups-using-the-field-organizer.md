@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094404
-description: Field Organizer - Marketo 문서 - 제품 설명서를 사용하여 사용자 정의 필드 그룹 만들기
+description: Marketo Engage에서 사용자 정의 필드 그룹 만들기를 사용하여 필드 구성 관리자를 사용하여 사용자 정의 필드 그룹을 만드는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 필드 조직자를 사용하여 사용자 정의 필드 그룹 만들기
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 5%
+source-wordcount: '966'
+ht-degree: 4%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 5%
 | URL | 문자열 |
 | 참조 | 지원되지 않음 |
 | 통화 | 정수 |
-| 날짜/시간 | Date |
+| 날짜/시간 | 일자 |
 | 부울 | 지원되지 않음 |
 | 전화 | 문자열 |
-| Date | Date |
+| 일자 | 일자 |
 | 부동 | 정수 |
 | 계산됨 | 지원되지 않음 |
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7513141
-description: Analytics 홈 페이지 탐색 - Marketo 문서 - 제품 설명서
+description: Analytics 홈 페이지를 탐색하여 다양한 보고서 유형에 액세스하고 홈 보기로 돌아가는 방법을 알아봅니다. 보고서 유형을 선택하고 보고 작업 영역을 관리합니다.
 title: Analytics 홈 페이지 탐색
 exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 23%
+source-wordcount: '77'
+ht-degree: 18%
 
 ---
 

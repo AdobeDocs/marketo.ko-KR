@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979012
-description: 성능 인사이트에서 필터링 - Marketo 문서 - 제품 설명서
+description: ABM 계정 목록, 사용자 지정 속성, 영업 기회 유형, 프로그램 태그 및 작업 영역별로 Performance Insights 데이터를 필터링하는 방법을 알아봅니다. 여러 필터를 적용하여 특정 정보를 쿼리하고 차트를 업데이트합니다.
 title: 성과 인사이트 필터링
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '328'
 ht-degree: 1%
 
 ---

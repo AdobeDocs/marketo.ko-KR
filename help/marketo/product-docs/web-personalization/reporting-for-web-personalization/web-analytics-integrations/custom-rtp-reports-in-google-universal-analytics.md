@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504218
-description: Google Universal Analytics의 사용자 정의 RTP 보고서 - Marketo 문서 - 제품 설명서
+description: 의 사용자 정의 rtp 보고서를 포함하여 Marketo Engage의 Google Universal Analytics에 있는 사용자 정의 rtp 보고서에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: Google Universal Analytics의 사용자 정의 RTP 보고서
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '376'
 ht-degree: 7%
 
 ---

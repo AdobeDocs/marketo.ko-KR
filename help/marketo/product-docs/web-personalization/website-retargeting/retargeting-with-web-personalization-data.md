@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720796
-description: 웹 Personalization 데이터를 사용하여 재타겟팅 - Marketo 문서 - 제품 설명서
+description: dnl 웹을 사용한 리타겟팅을 포함하여 Marketo Engage에서 웹 개인화 데이터를 사용한 리타겟팅에 대해 알아보십시오. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 웹 개인화 데이터로 리타기팅
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '395'
 ht-degree: 3%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 3%
 
 ## 리마케팅 구성 {#remarketing-configuration}
 
-1. **[!UICONTROL Retargeting]**(으)로 이동합니다.
+1. **[!UICONTROL Retargeting]** 으로 이동합니다.
 
    ![](assets/one.png)
 

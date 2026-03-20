@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727870
-description: 계정 설정 - Marketo 문서 - 제품 설명서에서 하위 도메인 추가
+description: 계정 설정의 하위 도메인 추가를 사용하여 Marketo Engage의 계정 설정에서 하위 도메인을 추가하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 계정 설정에서 하위 도메인 추가
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '149'
 ht-degree: 5%
 
 ---

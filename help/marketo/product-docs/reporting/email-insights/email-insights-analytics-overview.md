@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099411
-description: 이메일 인사이트 분석 개요 - Marketo 문서 - 제품 설명서
+description: 이메일 게재 및 참여 지표를 위해 집계 시계열 데이터를 탐색하는 이메일 통찰력 분석에 대해 알아봅니다. 차트 및 안내식 인사이트를 사용하여 관련 성능 드라이버를 알아보십시오.
 title: 이메일 인사이트 분석 개요
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 3%
+source-wordcount: '277'
+ht-degree: 2%
 
 ---
 

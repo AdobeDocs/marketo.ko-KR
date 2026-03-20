@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719408
-description: 기존 웹 캠페인 편집 - Marketo 문서 - 제품 설명서
+description: 기존 웹 캠페인 편집을 사용하여 Marketo Engage에서 기존 웹 캠페인을 편집하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 기존 웹 캠페인 편집
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 18%
+source-wordcount: '71'
+ht-degree: 16%
 
 ---
 
 # 기존 웹 캠페인 편집 {#edit-an-existing-web-campaign}
 
-1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]** 으로 이동합니다.
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 

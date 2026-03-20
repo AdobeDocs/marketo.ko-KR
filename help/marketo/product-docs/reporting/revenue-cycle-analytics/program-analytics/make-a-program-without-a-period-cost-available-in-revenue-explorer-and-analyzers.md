@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360389
-description: 기간 비용이 없는 프로그램을 수익 탐색기 및 분석기 - Marketo 문서 - 제품 설명서에서 사용할 수 있습니다.
+description: Marketo Engage의 수입 탐색기 및 분석기에서 기간 비용 없이 프로그램을 사용할 수 있도록 하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: Revenue Explorer 및 Analyzers에서 기간 비용이 없는 프로그램 만들기
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 10%
+source-wordcount: '254'
+ht-degree: 11%
 
 ---
 

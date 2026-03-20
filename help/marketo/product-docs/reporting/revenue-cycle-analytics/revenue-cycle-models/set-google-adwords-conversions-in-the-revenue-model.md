@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6095029
-description: 매출 모델 - Marketo 문서 - 제품 설명서에서  [!DNL Google AdWords] 전환 설정
+description: set dnl google을 사용하여 Marketo Engage의 수입 모델에서 [!dnl google adwords] 전환을 설정하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 수익 모델에서  [!DNL Google AdWords] 전환 설정
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '426'
 ht-degree: 2%
 
 ---

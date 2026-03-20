@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360005
-description: 회사 웹 활동 보고서 - Marketo 문서 - 제품 설명서
+description: 회사별로 그룹화된 웹 사이트를 방문하는 회사를 보여 주는 회사 웹 활동 보고서에 대해 알아봅니다. 알려진 방문자나 익명 방문자를 표시하고 페이지 보기, 사람 및 지리적 위치를 추적합니다.
 title: 회사 웹 활동 보고서
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 6%
+source-wordcount: '270'
+ht-degree: 5%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 6%
 
    >[!TIP]
    >
-   >사이트를 가장 많이 방문하는 회사를 찾으려면 [&#x200B; 열에서 &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)보고서를 정렬&#x200B;_[!UICONTROL Page Views]_&#x200B;하고&#x200B;**[!UICONTROL Sort Descending]**&#x200B;을 선택하세요.
+   >사이트를 가장 많이 방문하는 회사를 찾으려면 [ 열에서 ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)보고서를 정렬&#x200B;_[!UICONTROL Page Views]_하고&#x200B;**[!UICONTROL Sort Descending]**을 선택하세요.
 
    회사 웹 활동 보고서에 대해 선택할 수 있는 [열](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)에는 다음이 포함됩니다.
 

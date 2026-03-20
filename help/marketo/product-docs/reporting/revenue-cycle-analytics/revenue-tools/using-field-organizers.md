@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571892
-description: 필드 이끌이 사용 - Marketo 문서 - 제품 설명서
+description: Marketo Engage에서 필드 이끌이를 사용하는 방법(필드 이끌이를 사용하는 필드 이끌이 사용)을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 필드 조직자 사용
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '170'
 ht-degree: 5%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360437
-description: 프로그램 분석기 - Marketo 문서 - 제품 설명서를 통해 프로그램 및 채널 세부 정보 탐색
+description: 탐색 프로그램을 포함하여 Marketo Engage의 프로그램 분석기와 프로그램 및 채널 세부 정보에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 프로그램 분석기를 사용하여 프로그램 및 채널 세부 정보 탐색
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '198'
 ht-degree: 4%
 
 ---

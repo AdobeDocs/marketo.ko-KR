@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782266
-description: 웹 캠페인 우선 순위 지정 - Marketo 문서 - 제품 설명서
+description: 웹 캠페인의 우선 순위를 포함하여 Marketo Engage에서 웹 캠페인의 우선 순위에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 웹 캠페인 우선순위 지정
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 3%
+source-wordcount: '177'
+ht-degree: 4%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 3%
 >
 >영역 내 캠페인과 (위젯 또는 대화 상자) 캠페인은 동일한 페이지에서 반응할 수 있습니다.
 
-1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]** 으로 이동합니다.
 
    ![](assets/web-campaigns-hand-6.jpg)
 

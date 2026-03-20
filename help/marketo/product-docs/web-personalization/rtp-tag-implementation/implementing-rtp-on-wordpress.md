@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720149
-description: Wordpress에서 RTP 구현 - Marketo 설명서 - 제품 설명서
+description: dnl wordpress에서 rtp를 구현하는 방법을 포함하여 Marketo Engage의 wordpress에서 rtp를 구현하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: Wordpress에 RTP 구현
 exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 2%
+source-wordcount: '187'
+ht-degree: 4%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 1. 텍스트 편집기 오른쪽의 템플릿 파일 목록에서 **header.php**&#x200B;을(를) 찾아 엽니다.
 
-1. **[!UICONTROL Account Settings]**(으)로 이동합니다.
+1. **[!UICONTROL Account Settings]** 으로 이동합니다.
 
    a. 지원에서 JavaScript 태그를 이미 받은 경우 5단계로 이동합니다.
 
@@ -43,4 +43,4 @@ ht-degree: 2%
 
 1. 랜딩 페이지 및 하위 도메인을 포함한 모든 페이지에 표시되는지 확인합니다.
 
-   a. 웹 사이트의 페이지를 마우스 오른쪽 버튼으로 클릭하여 이 작업을 수행할 수 있습니다. **[!UICONTROL View Page Source] (으)로 이동합니다.** 태그를 찾으려면 **RTP**&#x200B;을 검색합니다.
+   a. 웹 사이트의 페이지를 마우스 오른쪽 버튼으로 클릭하여 이 작업을 수행할 수 있습니다. **[!UICONTROL View Page Source]으로 이동합니다.** 태그를 찾으려면 **RTP**&#x200B;을 검색합니다.

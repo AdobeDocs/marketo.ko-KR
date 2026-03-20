@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359987
-description: 기본 보고서 구독 - Marketo 문서 - 제품 설명서
+description: 이메일 주소를 기본 보고서에 구독하여 자동 업데이트를 받고 팀과 보고서를 공유하는 방법에 대해 알아봅니다. 구독 탭에서 구독 빈도를 설정합니다.
 title: 기본 보고서 구독
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 14%
+source-wordcount: '136'
+ht-degree: 12%
 
 ---
 

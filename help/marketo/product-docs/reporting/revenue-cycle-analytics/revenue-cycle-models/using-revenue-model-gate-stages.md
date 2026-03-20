@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718670
-description: 수익 모델 게이트 단계 사용 - Marketo 문서 - 제품 설명서
+description: Marketo Engage에서 수익 모델 게이트 단계를 사용하여 수익 모델 게이트 단계를 사용하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 수익 모델 게이트 단계 사용
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '262'
 ht-degree: 6%
 
 ---

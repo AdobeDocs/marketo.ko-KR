@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359963
-description: 프로그램에서 보고서 만들기 - Marketo 문서 - 제품 설명서
+description: 프로그램 내에서 보고서를 만들어 사람, 프로그램, 랜딩 페이지, 이메일 및 소셜 에셋을 분석하는 방법을 알아봅니다. 마케팅 활동 또는 Analytics 탭에서 직접 보고서를 실행합니다.
 title: 프로그램에서 보고서 만들기
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '191'
 ht-degree: 7%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 보고서를 실행하여 사람, 프로그램, 랜딩 페이지, 이메일 및 소셜 자산을 분석합니다.
 
-1. **[!UICONTROL Marketing Activities]**(으)로 이동합니다.
+1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
    ![](assets/login-marketing-activities.png)
 

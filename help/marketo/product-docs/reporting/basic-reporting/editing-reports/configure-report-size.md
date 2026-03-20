@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360002
-description: 보고서 크기 구성 - Marketo 문서 - 제품 설명서
+description: 기본 5,000개의 행에서 최대 행 제한을 변경하여 보고서 크기를 구성하는 방법에 대해 알아봅니다. 보고서 성능을 최적화하려면 설정 탭에서 사용할 수 있는 내보내기 행을 조정합니다.
 title: 보고서 크기 구성
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 9%
+source-wordcount: '124'
+ht-degree: 8%
 
 ---
 

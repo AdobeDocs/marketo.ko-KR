@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720810
-description: Google의 개인화된 리마케팅 - Marketo 문서 - 제품 설명서
+description: Google의 개인화된 리마케팅을 포함하여 Marketo Engage의 Google에서 개인화된 리마케팅에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: Google의 개인화된 리마케팅
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 6%
+source-wordcount: '239'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->* [데이터 [!DNL Web Personalization]  구성을 사용하여 &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)재타겟팅 완료
+>* [데이터 [!DNL Web Personalization]  구성을 사용하여 ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)재타겟팅 완료
 >* [Google Analytics 도움말로 리마케팅](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645) 설명서를 검토하십시오.
 
 ## Google에서 리마케팅 대상 만들기 {#creating-a-remarketing-audience-in-google}
@@ -34,7 +34,7 @@ ht-degree: 6%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. 대상 빌더에서 **[!UICONTROL Sequences]**, **[!UICONTROL Find the RTP Data]**, [!UICONTROL Custom Dimensions] 아래의 [!UICONTROL UICONTROL [ !] Custom Variables] 및 [!UICONTROL Events]을(를) 클릭합니다.
+1. 대상 빌더에서 **[!UICONTROL Sequences]**, **[!UICONTROL Find the RTP Data]**, [!UICONTROL Custom Dimensions] 아래의 [!UICONTROL [!]UICONTROL Custom Variables] 및 [!UICONTROL Events]을(를) 클릭합니다.
 
 >[!TIP]
 >

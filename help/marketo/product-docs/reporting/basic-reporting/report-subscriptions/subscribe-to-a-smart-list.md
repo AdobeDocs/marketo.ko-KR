@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7505310
-description: 스마트 목록 구독 - Marketo 문서 - 제품 설명서
+description: 스마트 목록을 구독하여 받은 편지함으로 직접 전송된 보고서를 받는 방법에 대해 알아봅니다. 마케팅 활동 또는 데이터베이스에서 사용자 지정 가능한 빈도 및 형식으로 구독을 만듭니다.
 title: 스마트 목록 구독
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '418'
 ht-degree: 2%
 
 ---

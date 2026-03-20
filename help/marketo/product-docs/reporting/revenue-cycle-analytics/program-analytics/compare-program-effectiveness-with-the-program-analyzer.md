@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360403
-description: 프로그램 분석기와 프로그램 효율성 비교 - Marketo 설명서 - 제품 설명서
+description: 비교 프로그램을 포함하여 Marketo Engage의 프로그램 분석기와 프로그램 효율성 비교에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 프로그램 분석기로 프로그램 효과 비교
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '430'
 ht-degree: 1%
 
 ---

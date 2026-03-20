@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949158
-description: RTP를 Google Analytics - Marketo 문서 - 제품 설명서와 통합
+description: Google Analytics와 rtp 통합을 사용하여 Marketo Engage에서 Rtp를 Google Analytics와 통합하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: RTP를 Google Analytics와 통합
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '575'
 ht-degree: 2%
 
 ---
@@ -66,7 +66,7 @@ RTP 캠페인을 측정하고 이를 전체 사이트 평균과 상호 연관시
 
 1. GA 계정에 <rtp.ga2@gmail.com> 전자 메일을 읽기 및 분석 사용자로 추가합니다. 자세한 내용은 [여기](https://support.google.com/analytics/answer/2884495?hl=en)를 참조하세요.
 
-1. RTP 계정에서 **[!UICONTROL Account Settings]**(으)로 이동합니다.
+1. RTP 계정에서 **[!UICONTROL Account Settings]** 으로 이동합니다.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 

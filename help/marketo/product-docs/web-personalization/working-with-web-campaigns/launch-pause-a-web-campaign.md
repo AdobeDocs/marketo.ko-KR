@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719406
-description: 웹 캠페인 시작/일시 중지 - Marketo 문서 - 제품 설명서
+description: 웹 캠페인 시작 일시 중지를 포함하여 Marketo Engage에서 웹 캠페인 시작/일시 중지에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 웹 캠페인 시작/일시 중지
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '164'
 ht-degree: 7%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 7%
 
    ![](assets/one-1.png)
 
-1. **[!UICONTROL Web Campaigns]**(으)로 이동합니다.
+1. **[!UICONTROL Web Campaigns]** 으로 이동합니다.
 
    ![](assets/two-1.png)
 

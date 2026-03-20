@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12981145
-description: 성능 인사이트 설정 - Marketo 문서 - 제품 설명서
+description: 영업 기회 설정, 프로그램 비용, 분석 비헤이비어 및 성공 기준을 구성하여 성과 인사이트를 설정하는 방법에 대해 알아봅니다. 정확한 보고를 위해 적절한 속성 및 데이터 흐름을 보장합니다.
 title: 성과 인사이트 설정
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 3%
+source-wordcount: '296'
+ht-degree: 4%
 
 ---
 

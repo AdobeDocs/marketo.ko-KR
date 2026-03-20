@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795534
-description: Performance Insights 대시보드 - Marketo 문서 - 제품 설명서
+description: 참여, 파이프라인 및 매출 보기를 포함한 Performance Insights 대시보드에 대해 알아봅니다. 첫 번째 접점 및 다중 접점 지표를 사용하여 대상자 참여, 새 이름 획득 및 채널 성능을 측정합니다.
 title: 성과 인사이트 대시보드
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 1%
+source-wordcount: '511'
+ht-degree: 0%
 
 ---
 

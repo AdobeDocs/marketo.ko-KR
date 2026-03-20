@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571927
-description: 웹 Personalization 용어집 - Marketo 문서 - 제품 설명서
+description: dnl 웹 개인화 용어집을 포함하여 Marketo Engage의 웹 개인화 용어집에 대해 알아보십시오. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 웹 개인화 용어집
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 24%
+source-wordcount: '267'
+ht-degree: 22%
 
 ---
 

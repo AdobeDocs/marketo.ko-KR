@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720236
-description: 계정 목록을 사용하여 세그먼트 만들기 - Marketo 문서 - 제품 설명서
+description: Marketo Engage에서 계정 목록을 사용하여 세그먼트를 만들고 계정 목록을 사용하여 세그먼트 만들기 를 사용하여 세그먼트를 만드는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 계정 목록을 사용하여 세그먼트 만들기
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '166'
 ht-degree: 10%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 10%
 >
 >[새 계정 목록 만들기](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. **[!UICONTROL Segments]**(으)로 이동합니다.
+1. **[!UICONTROL Segments]** 으로 이동합니다.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 

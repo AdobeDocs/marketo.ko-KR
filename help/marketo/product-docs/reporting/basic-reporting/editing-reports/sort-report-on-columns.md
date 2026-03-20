@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359996
-description: 열에 대한 보고서 정렬 - Marketo 문서 - 제품 설명서
+description: 열을 기준으로 보고서 데이터를 정렬하여 가장 중요한 수치를 강조 표시하는 방법을 알아봅니다. 보고서 탭에서 열 머리글을 클릭하여 오름차순 또는 내림차순 정렬 순서를 선택합니다.
 title: 열을 기준으로 보고서 정렬
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 10%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 

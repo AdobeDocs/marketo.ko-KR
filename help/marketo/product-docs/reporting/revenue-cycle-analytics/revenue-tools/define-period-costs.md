@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953444
-description: 기간 비용 정의 - Marketo 문서 - 제품 설명서
+description: 기간 원가 정의 기간 원가를 사용하여 Marketo Engage에서 기간 원가를 정의하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 기간별 비용 정의
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '229'
 ht-degree: 2%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360394
-description: Opportunity Influence Analyzer 데이터 내보내기 - Marketo 문서 - 제품 설명서
+description: Export Opportunity Influence Analyzer를 사용하여 Marketo Engage에서 Opportunity Influence Analyzer 데이터를 내보내는 방법에 대해 알아봅니다. 자신 있게 다음 단계를 수행하십시오.
 title: 기회 영향 분석기 데이터 내보내기
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 9%
+source-wordcount: '138'
+ht-degree: 8%
 
 ---
 

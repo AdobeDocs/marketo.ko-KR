@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359965
-description: 보고서 유형 개요 - Marketo 문서 - 제품 설명서
+description: 사람 성과, 이메일 성과, 캠페인 이메일 성과 및 웹 활동 보고서를 포함하여 사용 가능한 보고서 유형에 대해 알아봅니다. 분석 요구에 적합한 보고서 유형을 선택합니다.
 title: 보고서 유형 개요
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 11%
+source-wordcount: '235'
+ht-degree: 10%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 11%
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">수익 단계별 사용자 보고서</a></strong></td>
-   <td>수익 모델에 대한 기본 보고. 자세한 보고는 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">수익 주기 분석</a>을 참조하십시오.</td>
+   <td>수익 모델에 대한 기본 보고. 자세한 보고는 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">수익 주기 분석</a>을 참조하십시오.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">랜딩 페이지 성능</a>  </strong></td>
@@ -55,7 +55,7 @@ ht-degree: 11%
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">프로그램 성능</a>  </strong></td>
-   <td>멤버 및 성공과 같은 기본 프로그램 지표. 자세한 보고는 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">수익 주기 분석</a>을 참조하십시오.</td>
+   <td>멤버 및 성공과 같은 기본 프로그램 지표. 자세한 보고는 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">수익 주기 분석</a>을 참조하십시오.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">회사 웹 활동</a></strong></td>
@@ -67,11 +67,11 @@ ht-degree: 11%
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">참여 스트림 성과 보고서</a> </strong></td>
-   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">참여 프로그램</a>의 작동 상태를 확인하세요.</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">참여 프로그램</a>의 작동 상태를 확인하세요.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Campaign 이메일 성과</a> </strong></td>
-   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">참여 프로그램</a>의 작동 상태를 확인하세요.</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">참여 프로그램</a>의 작동 상태를 확인하세요.</td>
   </tr>
  </tbody>
 </table>

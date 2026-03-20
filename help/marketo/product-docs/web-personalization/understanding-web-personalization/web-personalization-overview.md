@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571900
-description: 웹 Personalization 개요 - Marketo 문서 - 제품 설명서
+description: 웹 캠페인, 계정 기반 웹 마케팅, 웹 사이트 리타겟팅 및 ContentAI를 비롯한 웹 Personalization 기능에 대해 알아봅니다. 개인화된 웹 경험 및 방문자 통찰력을 시작합니다.
 title: 웹 개인화 개요
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '775'
+source-wordcount: '792'
 ht-degree: 1%
 
 ---

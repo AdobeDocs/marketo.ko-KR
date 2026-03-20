@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360423
-description: 수익 주기 모델 - Marketo 문서 - 제품 설명서에서 모든 리드 찾기
+description: 수익 주기의 모든 리드 찾기를 사용하여 Marketo Engage의 수익 주기 모델에서 모든 리드를 찾는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 수익 주기 모델의 모든 리드 찾기
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 9%
+source-wordcount: '189'
+ht-degree: 8%
 
 ---
 

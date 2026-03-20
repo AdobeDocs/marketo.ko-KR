@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095084
-description: 매출 탐색기 - Marketo 문서 - 제품 설명서의 결과 그래프화
+description: 수입의 그래프 결과를 포함하여 Marketo Engage의 수입 탐색기의 그래프 결과에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: Revenue Explorer 결과 그래프 생성
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '238'
 ht-degree: 2%
 
 ---

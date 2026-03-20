@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360030
-description: 보고서 삭제 - Marketo 문서 - 제품 설명서
+description: 탐색 트리에서 마우스 오른쪽 단추로 클릭하여 더 이상 필요하지 않은 보고서를 삭제하는 방법을 알아봅니다. 오래된 보고서를 제거하여 보고 작업 영역을 계속 정리합니다.
 title: 보고서 삭제
 exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 9%
+source-wordcount: '84'
+ht-degree: 7%
 
 ---
 
