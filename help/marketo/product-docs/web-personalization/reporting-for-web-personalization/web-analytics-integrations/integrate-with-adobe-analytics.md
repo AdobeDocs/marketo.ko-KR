@@ -64,7 +64,7 @@ Adobe Analytics의 사용자 지정 링크에서 RTP 캠페인 노출 횟수 및
 
 1. AA 계정의 **[!UICONTROL Admin Tools]**(으)로 이동합니다.
 1. 통합에 사용할 **[!UICONTROL Report Suite]**&#x200B;을(를) 선택하십시오.
-1. **[!UICONTROL Edit Settings]**&#x200B;에서 **[!UICONTROL Conversion]**(으)로 이동하여 **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**을(를) 선택합니다.
+1. **[!UICONTROL Edit Settings]**&#x200B;에서 **[!UICONTROL Conversion]**(으)로 이동하여 **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**&#x200B;을(를) 선택합니다.
 [전환 변수](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) 번호를 선택하십시오(권장).
 
    1. 업계 사용자 정의 전환용 Evar # 20

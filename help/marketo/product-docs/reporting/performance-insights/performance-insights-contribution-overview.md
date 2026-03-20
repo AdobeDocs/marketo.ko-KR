@@ -17,7 +17,7 @@ Marketo [!UICONTROL Performance Insights]에서 기여도 보기는 기본적으
 
 ![](assets/one-1.png)
 
-성능을 확인할 지표를 선택합니다. 이 예제에서는 **[!UICONTROL Multi-Touch]** 대시보드에서 _[!UICONTROL Revenue]_을(를) 통해 얻은 영업 기회를 살펴봅니다.
+성능을 확인할 지표를 선택합니다. 이 예제에서는 **[!UICONTROL Multi-Touch]** 대시보드에서 _[!UICONTROL Revenue]_&#x200B;을(를) 통해 얻은 영업 기회를 살펴봅니다.
 
 ![](assets/2.png)
 

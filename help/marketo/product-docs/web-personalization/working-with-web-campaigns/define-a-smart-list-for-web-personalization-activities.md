@@ -57,7 +57,7 @@ ht-degree: 2%
    >
    >여러 트리거를 사용하면 트리거 중 하나가 활성화되면 사람이 플로우로 이동합니다.
 
-   사람들 집합에서 동시에 캠페인을 실행하려면 [Smart Campaign용 스마트 목록을 정의하는 방법을 알아보세요 | 일괄 처리 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   사람들 집합에서 동시에 캠페인을 실행하려면 [Smart Campaign용 스마트 목록을 정의하는 방법을 알아보세요 | 일괄 처리 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >

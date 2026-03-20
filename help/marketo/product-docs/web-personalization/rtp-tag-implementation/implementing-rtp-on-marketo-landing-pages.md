@@ -15,7 +15,7 @@ ht-degree: 7%
 
 [!UICONTROL RTP tag]을(를) 구현하려면 아래 설치 지침을 따르십시오.
 
-1. **[!UICONTROL Design Studio](으)로 이동합니다.** 편집할 항목을 엽니다. **[!UICONTROL Template Actions]**&#x200B;을(를) 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL Design Studio] (으)로 이동합니다.** 편집할 항목을 엽니다. **[!UICONTROL Template Actions]**&#x200B;을(를) 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-4-26-18-3a27-3a4.png)
 
