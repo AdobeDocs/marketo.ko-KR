@@ -3,10 +3,10 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 39%
+source-wordcount: '462'
+ht-degree: 38%
 
 ---
 
@@ -38,8 +38,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>이메일 Designer - 브랜드 정렬</strong>: 이메일에 대한 콘텐츠 품질 검사기를 사용하여 메시징의 일반적인 가독성과 일관성을 측정합니다.
-   </td>
+   <td><strong>이메일 Designer - 브랜드 품질 검사기</strong>: 일반 콘텐츠 품질을 평가하여 브랜드 지침과 관계없이 가독성, 콘텐츠 응집성 및 효과성에 문제가 있을 수 있음을 식별합니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
@@ -93,7 +92,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **SEO 기능 사용 중단**: 2026년 3월 31일 화요일에 Marketo Engage은 SEO(검색 엔진 최적화 기능)를 사용하지 않습니다. SEO를 적극적으로 활용하지 않는다면 아무것도 하지 않아도 된다. 최근 SEO를 사용한 경우 데이터를 내보낼 수 있습니다. [자세히 알아보기](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=ko){target="_blank"}
+* **SEO 기능 사용 중단**: 2026년 3월 31일 화요일에 Marketo Engage은 SEO(검색 엔진 최적화 기능)를 사용하지 않습니다. SEO를 적극적으로 활용하지 않는다면 아무것도 하지 않아도 된다. 최근 SEO를 사용한 경우 데이터를 내보낼 수 있습니다. [자세히 알아보기](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}
 
 * **REST API 병합 리드 제한**: 2026년 3월 31일부터 병합 리드 API 호출의 leadIds 매개 변수에 25개 이상의 ID를 포함하는 호출은 1080 오류 코드를 생성하며, 호출이 건너뜁니다. 25개 이상의 레코드를 하나로 병합해야 하는 작업은 이러한 호출의 성공을 보장하기 위해 여러 작업으로 분할해야 합니다.
 

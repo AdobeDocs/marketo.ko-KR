@@ -4,9 +4,9 @@ description: 릴리스 일정 - Marketo 설명서 - 제품 설명서
 title: 릴리스 일정
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 466f4b43124a2cb0894c4b8ce605521be1c4b4cd
+source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 90%
 
 ---
@@ -50,7 +50,7 @@ _릴리스 일자/기능은 변경될 수 있습니다._
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">2026년 2월</a></td>
    <td>2026년 2월 20일</td>
-   <td>진행 중</td>
+   <td>완료</td>
   </tr>
   <tr>
   <td>2026년 3월</td>

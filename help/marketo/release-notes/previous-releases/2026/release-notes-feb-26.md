@@ -3,9 +3,9 @@ description: 릴리스 노트 - 2026년 2월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2026년 2월
 feature: Release Information
 exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
-source-git-commit: 937c4a43066f957ddbeab9363174bc04e9a7d718
+source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '372'
 ht-degree: 39%
 
 ---
@@ -34,8 +34,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <li>작업 공간에서 폴더를 공유하고, 폴더를 마우스 오른쪽 단추로 클릭하여 새 자산을 만든 다음 드래그 앤 드롭을 통해 자산을 이동합니다.</li>
    </ul>
    </td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>릴리스됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   <tr>
    <td> </td>
@@ -44,18 +44,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 Designer - API</strong>: 이제 이메일 Designer에 대한 API 호출을 사용할 수 있습니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>이메일 Designer - 브랜드 품질 검사기</strong>: 일반 콘텐츠 품질을 평가하여 브랜드 지침과 관계없이 가독성, 콘텐츠 응집성 및 효과성에 문제가 있을 수 있음을 식별합니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>릴리스됨</td>
+   <td><a href="https://developer.adobe.com/marketo-apis/api/asset#">Marketo 자산 API</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -65,7 +55,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>이메일 Designer - AI Assistant 이미지 생성</strong>: 이제 Firefly 외에도 Nano Banana 모델을 사용하여 이메일 콘텐츠에 대한 AI Assistant를 사용하여 이미지를 생성할 수 있습니다.</td>
    <td>릴리스됨</td>
-   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">이메일의 특정 섹션에 대한 콘텐츠 만들기</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">이메일의 특정 섹션에 대한 콘텐츠 만들기</a></td>
   </tr>
   </tbody>
 </table>
@@ -73,7 +63,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **SEO 기능 사용 중단**: 2026년 3월 31일 화요일에 Marketo Engage은 SEO(검색 엔진 최적화 기능)를 사용하지 않습니다. SEO를 적극적으로 활용하지 않는다면 아무것도 하지 않아도 된다. 최근 SEO를 사용한 경우 데이터를 내보낼 수 있습니다. [자세히 알아보기](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=ko){target="_blank"}
+* **SEO 기능 사용 중단**: 2026년 3월 31일 화요일에 Marketo Engage은 SEO(검색 엔진 최적화 기능)를 사용하지 않습니다. SEO를 적극적으로 활용하지 않는다면 아무것도 하지 않아도 된다. 최근 SEO를 사용한 경우 데이터를 내보낼 수 있습니다. [자세히 알아보기](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}
 
 * **REST API 병합 리드 제한**: 2026년 3월 31일부터 병합 리드 API 호출의 leadIds 매개 변수에 25개 이상의 ID를 포함하는 호출은 1080 오류 코드를 생성하며, 호출이 건너뜁니다. 25개 이상의 레코드를 하나로 병합해야 하는 작업은 이러한 호출의 성공을 보장하기 위해 여러 작업으로 분할해야 합니다.
 
