@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
 workflow-type: tm+mt
-source-wordcount: '9338'
+source-wordcount: '9340'
 ht-degree: 99%
 
 ---
@@ -164,6 +164,7 @@ ht-degree: 99%
          + [필드 숨기기 및 숨기기 취소](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [이메일의 HTML 인코딩 토큰](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [필드를 민감한 항목으로 표시](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
+         + [선택 목록 관리](product-docs/administration/field-management/picklist-management.md)
          + [필드 이름 바꾸기](product-docs/administration/field-management/rename-a-field.md)
          + [시스템 관리 필드 이해](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Marketo와 Salesforce 간 필드 매핑 보기](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
