@@ -8,10 +8,10 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 5688edd53ead1c6a4f0f7e90ab3f4f6598fa489f
 workflow-type: tm+mt
-source-wordcount: '1330'
-ht-degree: 8%
+source-wordcount: '1256'
+ht-degree: 2%
 
 ---
 
@@ -27,31 +27,27 @@ ht-degree: 8%
 
 ## 브랜드 액세스 {#generative-access}
 
-**[!UICONTROL Brands]**&#x200B;에서 [!DNL Adobe Marketo Engage] 메뉴에 액세스하려면 사용자에게 **[!UICONTROL Manage brand kit]** 또는 **[!UICONTROL Enable AI assistant]** 권한이 부여되어야 합니다.
+**[!UICONTROL Brands]**&#x200B;의 [!DNL Adobe Marketo Engage] 메뉴에 액세스하려면 사용자에게 관련 권한이 부여되어야 합니다.
 
 +++  브랜드 관련 권한을 할당하는 방법을 알아봅니다.
 
-브랜드에 대한 권한을 할당하려면 다음 단계를 따르십시오.
+### 사용자 및 역할 {#users-and-roles}
 
-1. **권한** 제품에서 **역할** 탭으로 이동하여 원하는 **역할**&#x200B;을 선택하십시오.
+1. _관리자_&#x200B;에서 **사용자 및 역할**&#x200B;을 선택하세요.
 
-1. 권한을 수정하려면 **편집**&#x200B;을 클릭하십시오.
+1. 원하는 역할을 선택합니다.
 
-1. **AI Assistant** 리소스를 추가한 다음 드롭다운 메뉴에서 **브랜드 키트 관리** 또는 **[!UICONTROL Enable Ai assistant]**&#x200B;를 선택합니다.
+1. **Access Design Studio** 메뉴를 확장하려면 클릭하세요.
 
-   **[!UICONTROL Enable Ai assistant]** 권한은 **[!UICONTROL Brands]** 메뉴에 대한 읽기 전용 액세스를 제공합니다.
+1. **AI Assistant 액세스**&#x200B;를 선택하고 **저장**&#x200B;을 클릭합니다.
 
-   스크린샷
+### 관리
 
-1. 변경 내용을 적용하려면 **저장**&#x200B;을 클릭하십시오.
+1. 다시 관리자 영역으로 돌아가 새 경험을 클릭합니다.
 
-   이 역할에 이미 할당된 모든 사용자의 권한은 자동으로 업데이트됩니다.
+1. _브랜드 관리_ 옆에 있는 **편집**&#x200B;을 클릭하세요.
 
-1. 새 사용자에게 이 역할을 할당하려면 **역할** 대시보드의 **사용자** 탭으로 이동하여 **사용자 추가**&#x200B;를 클릭하십시오.
-
-1. 사용자 이름, 이메일 주소를 입력하거나 목록에서 선택한 다음 **저장**&#x200B;을 클릭합니다.
-
-1. 이전에 사용자를 생성하지 않은 경우 [이 설명서](https://experienceleague.adobe.com/ko/docs/experience-platform/access-control/abac/permissions-ui/users)를 참조하십시오.
+좋아요, 그 다음은 뭐죠???
 
 +++
 
