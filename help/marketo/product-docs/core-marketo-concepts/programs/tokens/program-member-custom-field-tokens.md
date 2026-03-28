@@ -4,7 +4,7 @@ description: 프로그램 멤버 사용자 지정 필드 토큰에 대해 알아
 title: 프로그램 멤버 사용자 정의 필드 토큰
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 5%
@@ -19,7 +19,7 @@ ht-degree: 5%
 
 PMCF 토큰은 토큰 계열의 멤버 도메인에서 지원됩니다.
 
-멤버 토큰은 프로그램 멤버의 범위에 있는 필드에 사용됩니다. 현재 상태에서는 멤버 토큰을 사용하여 통합 서비스 파트너의 고유 값을 삽입할 수도 있습니다. `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유 확인 URL을 자동으로 확인합니다. {{member.registration code}}이(가) 서비스 공급자가 제공한 등록 코드로 확인됩니다.
+멤버 토큰은 프로그램 멤버의 범위에 있는 필드에 사용됩니다. 현재 상태에서는 멤버 토큰을 사용하여 통합 서비스 파트너의 고유 값을 삽입할 수도 있습니다. `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유 확인 URL을 자동으로 확인합니다. `{{member.registration code}}`이(가) 서비스 공급자가 제공한 등록 코드로 확인됩니다.
 
 >[!NOTE]
 >

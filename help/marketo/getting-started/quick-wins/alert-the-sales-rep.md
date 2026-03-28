@@ -4,7 +4,7 @@ description: 영업 담당자에게 알림 - Marketo 문서 - 제품 설명서
 title: 영업 담당자에게 경고
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 8%
@@ -61,7 +61,7 @@ ht-degree: 8%
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}}은(는) 경고 전자 메일에 대한 특수 토큰입니다. 자세한 내용은 [경고 정보 보내기 토큰 사용](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"}을 참조하세요.
+   >`{{SP_Send_Alert_Info}}`은(는) 경고 전자 메일에 대한 특수 토큰입니다. 자세한 내용은 [경고 정보 보내기 토큰 사용](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}을 참조하세요.
 
 1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 

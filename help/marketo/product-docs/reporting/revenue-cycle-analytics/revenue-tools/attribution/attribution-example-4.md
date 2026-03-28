@@ -4,7 +4,7 @@ description: 기여도 분석 예 4 기여도 분석 예를 포함하여 Marketo
 title: 속성 예제 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 3%
@@ -15,15 +15,15 @@ ht-degree: 3%
 
 다음 시나리오를 읽고 그리드에 있어야 하는 숫자를 결정하십시오.
 
-* 4월 11일 | Michelle 전자책 다운로드 (콘텐츠) - 성공
-* 4월 15일 | John이 참석함(웨비나) - 성공
-* 4월 22일 | (영업 기회 1) $3,000에 생성됨
+* 4월 11일 | Michelle 다운로드 e-Book (콘텐츠) - 성공
+* 4월 15일 | John이 참석함 (웨비나) - 성공
+* 4월 22일 | (Opportunity 1) 이 $3,000에 대해 생성됨
 * 4월 24일 | (영업 기회 2) $5,000에 생성됨
-* 4월 25일 | John과 Michelle은 **둘 다** Optys에 연결되어 있습니다.
-* 4월 29일 | [옵션 1]이(가) 비공개 상태입니다.
+* 4월 25일 | John과 Michelle이 **모두** Optys에 연결되어 있습니다.
+* 4월 29일 | [옵션 1]이(가) 마감되었습니다.
 
-| 프로그램 이름 | (컨텐츠) | (웨비나) |
-|---|---|---|
+| 프로그램 이름 | (컨텐츠) | (웨비나) | | |
+|---|---|---|---|---|
 |   | (옵션 1) | (옵션 2) | (옵션 1) | (옵션 2) |
 | (MT) 옵션 생성됨 | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT) 파이프라인 생성됨 | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |

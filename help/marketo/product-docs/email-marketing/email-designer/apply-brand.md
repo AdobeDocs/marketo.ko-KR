@@ -9,7 +9,7 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '714'
 ht-degree: 4%
@@ -26,7 +26,8 @@ ht-degree: 4%
 
 이 기능을 통해 마케터는 시각적으로 호소력 있고 브랜드 일관성이 있는 이메일을 적은 노력으로 더 빠르고 활용할 수 있으며, 고유한 디자인 요구 사항에 대한 고급 사용자 지정 옵션을 제공할 수 있습니다.
 
-<!--What is the Enhanced Email Authoring Experience?
+<!--
+What is the Enhanced Email Authoring Experience?
 
 This feature introduces two key components to simplify and enhance email creation:
 
@@ -39,7 +40,8 @@ Key Benefits:
 - **Consistency**: Ensure all emails align with your brand's design guidelines.
 - **Efficiency**: Save time by reusing themes and modules across campaigns.
 - **Customization**: Add custom CSS and mobile-specific styles for advanced designs.
-- **Scalability**: Eliminate repetitive styling tasks, enabling faster email creation.-->
+- **Scalability**: Eliminate repetitive styling tasks, enabling faster email creation.
+-->
 
 ## 가드레일 및 제한 사항 {#themes-guardrails}
 
@@ -55,9 +57,11 @@ Key Benefits:
 
   테마를 포함한 이메일 Designer의 모든 기능을 완전히 활용하려면 _테마 사용_ 모드에서 새 콘텐츠를 만들거나 [가져온 HTML 콘텐츠를 변환](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html)해야 합니다.
 
-<!--If using a content created in Manual Styling mode or HTML, you cannot apply themes to this content. You must create a new content in Use Themes mode.
+<!--
+If using a content created in Manual Styling mode or HTML, you cannot apply themes to this content. You must create a new content in Use Themes mode.
 
-If you apply a theme to a content using a [fragment](../content-management/fragments.md) created in Manual Styling mode, the rendering may not be optimal.-->
+If you apply a theme to a content using a [fragment](../content-management/fragments.md) created in Manual Styling mode, the rendering may not be optimal.
+-->
 
 ## 테마 만들기 {#create-and-edit-themes}
 
@@ -164,4 +168,5 @@ If you apply a theme to a content using a [fragment](../content-management/fragm
 - The theme is saved and reused across multiple email campaigns.
 
 ### 2. Switching Themes
-- A marketer applies a holiday-themed design to an existing email by switching to a pre-designed holiday theme.-->
+- A marketer applies a holiday-themed design to an existing email by switching to a pre-designed holiday theme.
+-->

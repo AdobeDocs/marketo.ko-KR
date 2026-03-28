@@ -4,7 +4,7 @@ title: 컨시어지 만들기
 hide: true
 hidefromtoc: true
 index: false
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '1092'
 ht-degree: 1%
@@ -248,7 +248,7 @@ name.com 제품 카탈로그를 제공합니다.
 그들이 긍정적으로 말하고 있습니까?
 
 10:00
-감정 방문자들이 하고 있는 어떤 종류의 불만, 당신은 그것을 이해할 수 있을 것이고 심지어 내가 말했던 것처럼 방문자의 어조, 중립, 감사, 열성, 등등...
+방문자들이 하고 있는 어떤 종류의 불만, 당신은 그것을 이해할 수 있을 것이고 심지어 내가 말했던 것처럼 방문자의 어조, 중립, 감사, 열성, 등등...
 
 10:14
 지금으로선 안내원에 대한 모든 걸 말씀드렸잖아요
