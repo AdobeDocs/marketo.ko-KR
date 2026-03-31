@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
+source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
 workflow-type: tm+mt
-source-wordcount: '9340'
+source-wordcount: '9337'
 ht-degree: 99%
 
 ---
@@ -220,7 +220,7 @@ ht-degree: 99%
          + [랜딩 페이지 헤더](product-docs/administration/settings/landing-page-headers.md)
          + [제품 사용 대시보드](product-docs/administration/settings/product-usage-dashboards.md)
          + [IP를 기준으로 Marketo 로그인 제한](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
-         + [언어, 로케일 및 시간대 선택](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+         + [표준 시간대 변경](product-docs/administration/settings/change-time-zone.md)
          + [대체 페이지 설정](product-docs/administration/settings/set-a-fallback-page.md)
          + [구독에 대한 기본 위치 설정](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [개인 정보 보호 설정 이해](product-docs/administration/settings/understanding-privacy-settings.md)

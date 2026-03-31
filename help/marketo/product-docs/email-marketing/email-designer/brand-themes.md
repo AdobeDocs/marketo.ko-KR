@@ -6,7 +6,7 @@ description: Marketo Engage에서 브랜드 지침을 만들고 관리하는 방
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
 workflow-type: tm+mt
 source-wordcount: '1107'
 ht-degree: 1%
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->최대 6개의 변형을 만들 수 있습니다.
+>최대 4개의 변형을 만들 수 있습니다.
 
 여러 요소를 사용자 정의할 수 있습니다. 변형 설정은 다음 카테고리로 그룹화됩니다.
 
