@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: 릴리스 노트 - 17년 겨울 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2017년 겨울
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -38,7 +38,7 @@ ht-degree: 1%
 
 ## 로컬라이제이션 {#localization}
 
-이제 웹 Personalization, [!UICONTROL Predictive Content] 및 이메일 인사이트 앱을 일본어, 독일어 및 스페인어로 사용할 수 있습니다. 해당 언어로 콘텐츠를 보려면 [언어 및 로케일을 선택하십시오](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
+이제 웹 Personalization, [!UICONTROL Predictive Content] 및 이메일 인사이트 앱을 일본어, 독일어 및 스페인어로 사용할 수 있습니다. 해당 언어로 콘텐츠를 보려면 [언어 및 로케일을 선택하십시오](/help/marketo/product-docs/administration/settings/change-time-zone.md).
 
 ![](assets/japanese-web-personalization.png)
 

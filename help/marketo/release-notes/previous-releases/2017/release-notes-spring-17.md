@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: 릴리스 노트 - 2017년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2017년 봄
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## [LinkedIn 리드 세대 Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads)은(는) 비즈니스에서 [!DNL LinkedIn]에 리드 생성 캠페인을 더 직접적으로 실행할 수 있는 방법입니다. 사람들은 제품이나 서비스에 관심을 표현하기 위한 양식을 작성할 수 있으며, 이를 통해 기업은 개인의 세부 정보를 캡처하고 이를 Marketo에 동기화하여 자동화된 후속 프로세스 및 잠재 고객 라우팅 활동이 발생할 수 있습니다.
+[[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads)은(는) 비즈니스에서 [!DNL LinkedIn]에 리드 생성 캠페인을 더 직접적으로 실행할 수 있는 방법입니다. 사람들은 제품이나 서비스에 관심을 표현하기 위해 양식을 작성할 수 있으며, 이를 통해 기업은 개인의 세부 정보를 캡처하고 이를 Marketo에 동기화하여 자동화된 후속 프로세스 및 잠재 고객 라우팅 활동이 발생할 수 있습니다.
 
 [!UICONTROL LinkedIn Lead Gen] Forms과의 Marketo 통합은 잠재 고객이 제공한 정보를 잠재 고객 확보 양식 내에서 자동으로 캡처합니다. 그런 다음 새 **[!DNL LinkedIn Lead Gen] 양식 작성** 트리거 및 필터를 사용하여 후속 작업 및 알림을 자동화할 수 있습니다.
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 **[종료 시 웹 캠페인](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-페이지를 닫기 전에 방문자의 관심을 사로잡습니다. 마우스 동작이 방문자가 페이지를 나가는 것을 나타낼 때만 표시하도록 개인화된 [!UICONTROL Web Campaigns]을(를) 설정하십시오.
+방문자가 페이지를 닫기 전에 방문자의 관심을 사로잡습니다. 마우스 동작이 방문자가 페이지를 나가는 것을 나타낼 때만 표시하도록 개인화된 [!UICONTROL Web Campaigns]을(를) 설정하십시오.
 
 **[에 대한[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**&#x200B;애니메이션 효과
 
@@ -86,13 +86,13 @@ ht-degree: 0%
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-**[로컬라이제이션](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[로컬라이제이션](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Web Personalization은 이제 모든 Marketo 지원 언어(영어, 일본어, 독일어, 스페인어, 프랑스어 및 포르투갈어)로 제공됩니다.
 
 ## 예측 개선 사항 {#predictive-enhancements}
 
-**[로컬라이제이션](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[로컬라이제이션](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 예측 콘텐츠는 이제 Marketo에서 지원하는 모든 언어(영어, 일본어, 독일어, 스페인어, 프랑스어 및 포르투갈어)로 제공됩니다.
 

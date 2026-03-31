@@ -4,8 +4,8 @@ description: 이메일 보내기 - Marketo Docs - 제품 설명서
 title: 이메일 보내기
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 100%
 
@@ -125,7 +125,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >기본 시간대가 귀하의 시간대가 아닙니까? 업데이트하는 방법은 [여기](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}에서 알아보십시오.
+   >기본 시간대가 귀하의 시간대가 아닙니까? 업데이트하는 방법은 [여기](/help/marketo/product-docs/administration/settings/change-time-zone.md){target="_blank"}에서 알아보십시오.
 
 1. [!UICONTROL Approval] 타일 아래에서 **[!UICONTROL Approve Program]**&#x200B;을 클릭하면 완료됩니다.
 
