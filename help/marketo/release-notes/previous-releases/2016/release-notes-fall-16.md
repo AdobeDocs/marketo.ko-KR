@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: 릴리스 노트 - 16년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 16년 가을
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ![](assets/facebook.png)
 
-## [범용 ID](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## 유니버설 ID {#universal-id}
 
 범용 ID를 사용하면 단일 로그인으로 여러 Marketo 구독에 액세스하고 구독 간을 빠르게 전환할 수 있습니다. 모든 구독에 단일 커뮤니티 프로필을 사용할 수 있습니다.
 

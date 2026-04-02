@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '9340'
+source-wordcount: '9333'
 ht-degree: 99%
 
 ---
@@ -224,7 +224,6 @@ ht-degree: 99%
          + [대체 페이지 설정](product-docs/administration/settings/set-a-fallback-page.md)
          + [구독에 대한 기본 위치 설정](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [개인 정보 보호 설정 이해](product-docs/administration/settings/understanding-privacy-settings.md)
-         + [구독 로그인을 위해 Universal ID 사용](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
       + 태그 {#tags}
          + [새 프로그램 태그 및 태그 값 만들기](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [프로그램 채널 만들기](product-docs/administration/tags/create-a-program-channel.md)
