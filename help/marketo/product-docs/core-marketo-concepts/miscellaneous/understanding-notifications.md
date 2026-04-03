@@ -3,9 +3,9 @@ unique-page-id: 2952292
 description: 캠페인 오류 및 CRM 동기화에 대한 Marketo Engage 알림에 대해 알아봅니다. 구독을 통해 이메일로 알림을 받고 최신 상태를 유지하세요.
 title: 알림 이해
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: ea341c472b6e4ac81edd60e269916f0451b94152
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---
@@ -24,6 +24,10 @@ ht-degree: 3%
 
    ![](assets/understanding-notifications-2.png){width="800" zoomable="yes"}
 
+   >[!NOTE]
+   >
+   >알림은 Marketo 계정에서 60일 동안 사용할 수 있습니다.
+
 ## 알림 구독 {#subscribe-to-notifications}
 
 알림을 구독하면 이메일로 알림을 받을 수 있습니다.
@@ -38,9 +42,9 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->_[!UICONTROL Send to]_&#x200B;상자는 전자 메일 주소를 입력할 때만 사용되며 기존 구독자 목록은 표시되지 않습니다.
+>_[!UICONTROL Send to]_상자는 전자 메일 주소를 입력할 때만 사용되며 기존 구독자 목록은 표시되지 않습니다.
 
-경우에 따라 알림에서 쉼표로 구분된 값(CSV) 파일(예: Microsoft Dynamics 동기화 오류 파일)을 다운로드할 수 있는 &quot;전체 목록 보기&quot; 링크를 제공합니다. Marketo Engage은 이러한 CSV 파일을 30일 동안 유지합니다. 30일 후에 파일을 다운로드하려고 하면 404 오류가 발생합니다.
+경우에 따라 알림에서 쉼표로 구분된 값(CSV) 파일(예: Microsoft Dynamics 동기화 오류 파일)을 다운로드할 수 있는 &quot;전체 목록 보기&quot; 링크를 제공합니다. Marketo Engage은 이러한 CSV 파일을 30일 동안 유지합니다. 30일 후에 파일을 다운로드하려고 하면 오류가 발생합니다.
 
 >[!TIP]
 >
