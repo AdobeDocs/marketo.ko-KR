@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: e867cd5611d2727e08242685cb666ae1295ce680
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '9342'
+source-wordcount: '9160'
 ht-degree: 99%
 
 ---
@@ -60,44 +60,10 @@ ht-degree: 99%
 + 제품 설명서 {#product-docs}
    + 추가 앱 {#additional-apps}
       + SEO {#seo}
-         + SEO 이해 {#understanding-seo}
-            + [검색 엔진 최적화 이해](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [SEO 대시보드 이해: SEO 권장 사항](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
-            + [SEO 대시보드 이해: SEO 스냅샷](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
-            + [SEO - 사이트 추가/사이트 삭제](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
-            + [SEO - 경쟁업체 추가](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
-            + [SEO - 목록 관리](product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
-            + [SEO - 검색 엔진에 대한 지역/국가 선택](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
-            + [SEO - 이메일 알림 환경 설정](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
          + 키워드 {#keywords}
-            + [SEO - 키워드 추가](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-            + [SEO - 키워드 보기에서 열 추가/제거](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
-            + [SEO - 목록에서 키워드 추가/제거](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
             + [SEO - 키워드 결과 내보내기](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
-            + [SEO - 키워드 결과 필터링](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
-            + [SEO - 추천 키워드 가져오기](product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)
-            + [SEO - CSV로 키워드 가져오기](product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)
-            + [SEO - 키워드 트렌드 차트](product-docs/additional-apps/seo/keywords/seo-keyword-trends-chart.md)
-            + [SEO - 타기팅된 키워드로 특정 페이지 최적화](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-            + [SEO - 키워드 제거](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
-            + [SEO - 키워드 이해](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO - 검색 엔진에서 키워드 결과 보기](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + 페이지 {#pages}
-            + [SEO - 페이지 문제에 메모 추가](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
-            + [SEO - 페이지 추가](product-docs/additional-apps/seo/pages/seo-add-pages.md)
-            + [SEO - 목록에서 페이지 추가/제거](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
-            + [SEO - 목록에서 페이지 문제 추가/제거](product-docs/additional-apps/seo/pages/seo-add-remove-page-issue-from-a-list.md)
             + [SEO - 문제를 CSV로 내보내기](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
-            + [SEO - 페이지 문제 제거/삭제](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
-            + [SEO - 페이지 제거/삭제](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page.md)
-            + [SEO - 페이지 이해](product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-            + [SEO - 페이지 세부 사항 드릴다운 사용](product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-         + 인바운드 링크 {#inbound-links}
-            + [SEO - 인바운드 링크 URL 수동으로 추가](product-docs/additional-apps/seo/inbound-links/seo-add-an-inbound-link-url-manually.md)
-            + [SEO - 목록에서 인바운드 링크 URL 추가/제거](product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)
-            + [SEO - 인바운드 링크 제안 받기](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
-            + [SEO - 인바운드 링크 URL 제거/삭제](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
-            + [SEO - 인바운드 링크 이해](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
          + 보고서 {#reports}
             + [SEO - 경쟁업체 KW 트렌드 보고서 활용](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - 키워드 트렌드 보고서 활용](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
