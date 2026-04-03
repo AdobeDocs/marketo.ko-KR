@@ -5,7 +5,7 @@ description: 이메일 Designer 및 드래그 앤 드롭 편집기에 대해 알
 title: 개요
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '670'
 ht-degree: 95%
@@ -54,7 +54,7 @@ ht-degree: 95%
 
 * [이미지를 HTML 전환기로](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: 호환되는 이메일의 PNG/JPEG 이미지 파일을 업로드하면 새 이메일 디자이너에서 사용할 수 있도록 HTML로 자동 전환됩니다.
 
-* [브랜드 테마](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}: Marketo Engage 내에서 브랜드 테마를 정의합니다. 브랜드 일관성을 위해 스타일링 구성을 이메일 템플릿 및 기타 이메일 자산 전반에 걸쳐 재사용 및 적용할 수 있습니다.
+* [브랜드 테마](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md){target="_blank"}: Marketo Engage 내에서 브랜드 테마를 정의합니다. 브랜드 일관성을 위해 스타일링 구성을 이메일 템플릿 및 기타 이메일 자산 전반에 걸쳐 재사용 및 적용할 수 있습니다.
 
 * [템플릿 가져오기](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}: 클래식 이메일 편집기에서 이메일 템플릿을 가져와 Design Studio의 새 이메일 디자이너와 호환되는 템플릿을 만듭니다.
 
@@ -84,7 +84,7 @@ API를 통해 편집되는 에셋은 현재 새 이메일 디자이너에서 지
 
 **브랜딩(글꼴, 로고, 색상)을 시행할 방법이 있습니까?**
 
-예! [브랜드 테마](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md)를 사용하여 브랜드 지침을 만들고 관리하십시오.
+예! [브랜드 테마](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md)를 사용하여 브랜드 지침을 만들고 관리하십시오.
 
 **템플릿 모듈을 사용자 정의 및 확장할 수 있도록 만들 예정입니까?**
 

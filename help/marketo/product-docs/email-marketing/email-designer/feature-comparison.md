@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '864'
 ht-degree: 10%
@@ -233,7 +233,7 @@ ht-degree: 10%
   </tr>
   <tr>
     <td>브랜드 테마</td>
-    <td>스타일, 색상, 글꼴 크기 등과 같은 요소의 일관성을 보장하기 위해 조직 전체에서 <a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">승인된 테마를 적용</a>하는 기능.</td>
+    <td>스타일, 색상, 글꼴 크기 등과 같은 요소의 일관성을 보장하기 위해 조직 전체에서 <a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank">승인된 테마를 적용</a>하는 기능.</td>
     <td>사용할 수 없음</td>
     <td>사용 가능</td>
   </tr>
