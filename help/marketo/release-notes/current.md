@@ -3,10 +3,10 @@ description: 최신 릴리스 정보 - Marketo 설명서 - 제품 설명서
 title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
+source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
 workflow-type: tm+mt
 source-wordcount: '462'
-ht-degree: 38%
+ht-degree: 37%
 
 ---
 
@@ -29,8 +29,19 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이메일 Designer - 브랜드 관리(베타)</strong>: 조직/브랜드별 카피라이팅 지침을 기반으로 이메일 콘텐츠를 생성합니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>릴리스됨</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md" target="_blank">브랜드 생성 및 관리</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>이메일 Designer - 빠른 작업</strong>: <i>이전 이메일 편집기와 동일</i>. 이제 모든 이메일 Designer 에셋(이메일, 이메일 템플릿, 조각)에 대해 빠른 작업을 사용할 수 있습니다. 지원되는 빠른 작업에는 복제, 삭제, 이동, 초안 생성/편집 등이 있습니다.
+   </td>
+   <td>릴리스됨</i></td>
+   <td>해당 사항 없음</td>
   </tr>
   <tr>
    <td> </td>
@@ -49,17 +60,6 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>전자 메일 Designer - Outlook 렌더링 수정 사항</strong>: 이 업데이트는 특히 MS Outlook의 렌더링 문제를 수정합니다. "전문가 모드"를 사용하면 HTML/CSS를 약간 편집하거나 이메일에 스크립트 태그를 추가할 수 있습니다(시각적 요소를 그대로 유지하기 위해 이메일의 HTML에 다른 변경 작업을 수행하지 않는 것이 좋습니다).
-   </td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>이메일 Designer - 빠른 작업</strong>: <i>이전 이메일 편집기와 동일</i>. 이제 모든 이메일 Designer 에셋(이메일, 이메일 템플릿, 조각)에 대해 빠른 작업을 사용할 수 있습니다. 지원되는 빠른 작업에는 복제, 삭제, 이동, 초안 생성/편집 등이 있습니다.
    </td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
@@ -92,7 +92,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **SEO 기능 사용 중단**: 2026년 3월 31일 화요일에 Marketo Engage은 SEO(검색 엔진 최적화 기능)를 사용하지 않습니다. SEO를 적극적으로 활용하지 않는다면 아무것도 하지 않아도 된다. 최근 SEO를 사용한 경우 데이터를 내보낼 수 있습니다. [자세히 알아보기](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=ko){target="_blank"}
+* **SEO 기능 사용 중단**: 2026년 3월 31일 화요일에 Marketo Engage은 SEO(검색 엔진 최적화 기능)를 사용하지 않습니다. SEO를 적극적으로 활용하지 않는다면 아무것도 하지 않아도 된다. 최근 SEO를 사용한 경우 데이터를 내보낼 수 있습니다. [자세히 알아보기](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}
 
 * **REST API 병합 리드 제한**: 2026년 3월 31일부터 병합 리드 API 호출의 leadIds 매개 변수에 25개 이상의 ID를 포함하는 호출은 1080 오류 코드를 생성하며, 호출이 건너뜁니다. 25개 이상의 레코드를 하나로 병합해야 하는 작업은 이러한 호출의 성공을 보장하기 위해 여러 작업으로 분할해야 합니다.
 

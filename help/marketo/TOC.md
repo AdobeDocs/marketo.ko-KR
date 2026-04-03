@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
 workflow-type: tm+mt
-source-wordcount: '9333'
+source-wordcount: '9339'
 ht-degree: 99%
 
 ---
@@ -1035,9 +1035,6 @@ ht-degree: 99%
          + [이미지를 HTML 템플릿으로 변환](product-docs/email-marketing/email-designer/image-to-html.md)
          + [액세스 가능한 콘텐츠 디자인](product-docs/email-marketing/email-designer/accessible-content.md)
          + [사용자 정의 CSS](product-docs/email-marketing/email-designer/custom-css.md)
-         + [브랜드 테마](product-docs/email-marketing/email-designer/brand-themes.md)
-         + [브랜드 적용](product-docs/email-marketing/email-designer/apply-brand.md)
-         + [브랜드 관리](product-docs/email-marketing/email-designer/manage-brand.md)
          + [다크 모드](product-docs/email-marketing/email-designer/dark-mode.md)
          + [Litmus로 이메일 렌더링 테스트](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [개인화 토큰](product-docs/email-marketing/email-designer/personalization-tokens.md)
@@ -1050,6 +1047,12 @@ ht-degree: 99%
          + [이메일 공동 작업](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [이메일 Designer용 AI 지원](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [SpamAssassin으로 이메일 스팸 신고](product-docs/email-marketing/email-designer/spam-report.md)
+         + 브랜드 {#brands}
+            + [브랜드 테마](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+            + [브랜드 적용](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [브랜드 관리](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [브랜드 개인화](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [브랜드 관리](product-docs/email-marketing/email-designer/brands/manage-brands.md)
       + 이메일 프로그램 {#email-programs}
          + 이메일 프로그램 만들기 {#creating-an-email-program}
             + [이메일 프로그램 만들기](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
