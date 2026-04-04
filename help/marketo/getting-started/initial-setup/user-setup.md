@@ -113,7 +113,7 @@ Marketo Engage의 기본 대화 자동화 채널인 [Dynamic Chat](https://exper
 <tbody>
   <tr>
     <td>Adobe Marketo 상태 업데이트</td>
-    <td><li><a href="https://status.adobe.com/cloud/experience_cloud">Adobe Marketo Engage 상태 업데이트 구독</a>.</li></td>
+    <td><li><a href="https://status.adobe.com/ko-kr/cloud/experience_cloud">Adobe Marketo Engage 상태 업데이트 구독</a>.</li></td>
   </tr>
   <tr>
     <td>알림</td>
