@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 8a9445f0cce6afc6506d0cb30b67bd071828f0a1
+source-git-commit: 62f5166e6a77c8ef50e7c596754205e8f02c6dc7
 workflow-type: tm+mt
-source-wordcount: '9168'
+source-wordcount: '9171'
 ht-degree: 99%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 99%
 + 제품 설명서 {#product-docs}
    + Marketo Mcp {#marketo-mcp}
       + [개요](product-docs/marketo-mcp/overview.md)
+      + [설정 및 설정](product-docs/marketo-mcp/settings-setup.md)
       + 상담원 {#agents}
          + [리드 가져오기](product-docs/marketo-mcp/agents/import-leads.md)
          + [프로그램 QA](product-docs/marketo-mcp/agents/program-qa.md)
