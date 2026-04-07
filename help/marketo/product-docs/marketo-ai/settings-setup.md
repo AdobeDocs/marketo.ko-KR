@@ -4,10 +4,10 @@ title: 설정 및 설정
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
+source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 5%
+source-wordcount: '167'
+ht-degree: 4%
 
 ---
 
@@ -15,11 +15,23 @@ ht-degree: 5%
 
 소개 텍스트입니다.
 
+## 설정 {#settings}
+
+NAME을 Marketo Engage 계정에 연결하려면 아래 단계를 따르십시오.
+
+1. 내 Marketo에서 **AI로 빌드** 타일을 클릭합니다.
+
+스크린샷
+
+1. 톱니바퀴 아이콘 클릭
+
+인스턴스가 아직 연결되어 있지 않아야 함
+
 ## 연결 {#connection}
 
 연결 탭에서 아래 단계에 따라 MARKETO MCP의 이름 초기 설정을 수행합니다.
 
-+++
++++초기 설정 단계
 
 텍스트
 
