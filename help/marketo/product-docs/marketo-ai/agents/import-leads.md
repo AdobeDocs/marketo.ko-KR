@@ -4,9 +4,9 @@ title: 리드 가져오기
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
+source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/import-leads-2.png)
 
-   대화형 AI로 이동됩니다. 왼쪽 창에서 에이전트는 실행할 데이터 표준화 기능에 대한 지침, 응답 및 옵션을 게시합니다.
+   대화형 AI 화면으로 이동합니다. 왼쪽 창에서 에이전트는 실행할 데이터 표준화 기능에 대한 지침, 응답 및 옵션을 게시합니다.
 
    ![](assets/import-leads-3.png)
 
