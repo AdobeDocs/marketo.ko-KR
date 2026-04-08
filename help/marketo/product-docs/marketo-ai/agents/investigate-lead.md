@@ -3,7 +3,7 @@ description: 곧 출시 예정
 title: 리드 조사
 hide: true
 hidefromtoc: true
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 누군가 MQL을 사용하지 않았거나, 프로그램에 적격이거나, 라이프사이클을 진행하지 않은 이유를 알아보십시오.
 
-조사 시나리오의 전체 목록을 보려면 오른쪽의 아래쪽 화살표를 클릭합니다.
+조사 시나리오의 전체 목록을 보려면 오른쪽에 있는 아래쪽 화살표를 클릭합니다.
 
 스크린샷
 
