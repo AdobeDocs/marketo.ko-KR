@@ -4,7 +4,7 @@ title: 설정 및 설정
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
+source-git-commit: d5f5c11a56f21e7dba3e1e79eb6785937f165b14
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Marketo AI의 Alpha 단계에서 관리자, Adobe 제품 관리자 마케팅 사용자, 표준 사용자 역할에 대해 _액세스가 기본적으로 활성화됨_&#x200B;됩니다. 따라서 액세스하려는 역할에 대해 이 기능을 켜는 대신 그렇지 않은 역할에 대해 이 기능을 꺼야 합니다.
+>Marketo AI의 Alpha 단계에서 관리자, Adobe 제품 관리자, 마케팅 사용자, 표준 사용자 역할에 대해 _액세스가 기본적으로 활성화됨_&#x200B;됩니다. 따라서 액세스하려는 역할에 대해 이 기능을 켜는 대신 그렇지 않은 역할에 대해 이 기능을 꺼야 합니다.
 
 ### 모든 항목에 대한 액세스 {#access-for-all}
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ### 사용자 정의 역할 {#custom-role}
 
-또한 [새 역할을 만들고](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} 권한을 사용자 지정할 수 있는 옵션이 있으며, _AI로 빌드에 액세스_&#x200B;를 추가하고[특정 사용자에게 해당 역할을 할당](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}할 수 있습니다.
+[새 역할을 만들고](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} 사용 권한을 사용자 지정하는 옵션이 있습니다. _AI로 빌드에 액세스_&#x200B;를 추가하고 [특정 사용자에게 해당 역할을 할당](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}합니다.
 
 <!-- ## Permissions {#permissions}
 
