@@ -14,7 +14,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**시스템** 관리자는 Adobe 조직 수준에서만 만들어집니다. 두 개 이상이 필요한 경우 [Adobe 지원](https://experienceleague.adobe.com/en/support)에 문의하십시오.
+>**시스템** 관리자는 Adobe 조직 수준에서만 만들어집니다. 두 개 이상이 필요한 경우 [Adobe 지원](https://experienceleague.adobe.com/ko/support)에 문의하십시오.
 
 ## 제품 관리자 추가 {#add-a-product-admin}
 
