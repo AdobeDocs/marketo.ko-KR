@@ -4,10 +4,10 @@ description: 이름 지정 역할, 권한 선택 및 변경할 수 없는 시스
 title: 사용자 역할 만들기, 삭제, 편집 및 변경
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 15%
+source-wordcount: '268'
+ht-degree: 16%
 
 ---
 
@@ -21,13 +21,10 @@ ht-degree: 15%
 
 >[!IMPORTANT]
 >
->다음 역할은 시스템 역할이며 편집하거나 삭제할 수 없습니다.
+>다음 역할은 시스템 역할이며 삭제할 수 없습니다.
 >
 >* 관리
 >* Adobe 제품 관리자
->* 표준 사용자
->* RTP 편집기
->* RTP 런처
 
 ## 역할 만들기 {#create-a-role}
 
