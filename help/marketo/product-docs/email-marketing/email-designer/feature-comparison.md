@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '830'
 ht-degree: 10%
 
 ---
@@ -262,22 +262,10 @@ ht-degree: 10%
     <td>사용 가능</td>
   </tr>
   <tr>
-    <td>콘텐츠 승인 워크플로</td>
-    <td>Marketo Engage 내에 이메일에 대한 승인 워크플로우를 도입하는 기능입니다.</td>
-    <td>사용할 수 없음</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>CRM의 이메일</td>
-    <td>이메일과 관련된 정보를 CRM으로 전송하는 기능.</td>
+    <td>HTML 편집기</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md">전자 메일 템플릿</a>의 HTML 콘텐츠를 수정하는 기능.</td>
     <td>사용 가능</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>코드 편집기</td>
-    <td>이메일, 이메일 템플릿 및 조각의 HTML 콘텐츠를 수정하는 기능입니다.</td>
     <td>사용 가능</td>
-    <td>TBD</td>
   </tr>
   <tr>
     <td>이메일 에셋이 있는 프로그램의 이동, 삭제 및 가져오기 지원</td>
