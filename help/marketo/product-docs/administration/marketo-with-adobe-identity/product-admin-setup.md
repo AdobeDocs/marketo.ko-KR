@@ -3,7 +3,7 @@ description: 시작 링크 및 사용자 추가를 포함하여 제품 관리자
 title: 제품 관리자 설정
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
 feature: Marketo with Adobe Identity
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 6%
@@ -16,8 +16,8 @@ ht-degree: 6%
 
    ![](assets/admin-setup-7.png)
 
-1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Adobe Admin Console으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/kr/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
+1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Adobe Admin Console으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
 
    ![](assets/admin-setup-8.png)
 
-그렇게 간단해! 제품 관리자는 주로 사용자 추가에 대한 책임이 있습니다. [여기에서 해당 작업을 수행하는 방법에 대해 알아보세요](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}.
+그렇게 간단해! 제품 관리자는 주로 사용자 추가에 대한 책임이 있습니다. [여기에서 해당 작업을 수행하는 방법에 대해 알아보세요](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user){target="_blank"}.
