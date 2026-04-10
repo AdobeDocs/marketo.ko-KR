@@ -37,7 +37,7 @@ ht-degree: 0%
 
 고급 HTML 편집기를 열고 템플릿 소스를 편집하려면 다음 단계를 따르십시오.
 
-1. 이메일 Designer에서 [이메일 템플릿을 열거나 ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)하세요.
+1. 이메일 Designer에서 [이메일 템플릿을 열거나 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)하세요.
 
 1. _전자 메일 템플릿 편집_ 화면에서 오른쪽 상단의 HTML 단추를 클릭합니다.
 
