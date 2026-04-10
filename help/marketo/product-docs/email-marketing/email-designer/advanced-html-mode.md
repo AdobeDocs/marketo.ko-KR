@@ -7,14 +7,14 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: 02d809b2c44e8c852375d8944819660cd4f9c6ad
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '365'
 ht-degree: 2%
 
 ---
 
-# 고급 HTML 편집기를 사용하여 이메일 템플릿 편집 {#email-template-expert-mode}
+# 고급 HTML 편집기를 사용하여 이메일 템플릿 편집 {#advanced-html-mode}
 
 고급 HTML 모드를 사용하면 [!DNL Marketo Engage] 이메일 Designer 인터페이스에서 직접 이메일 템플릿의 원시 소스 코드를 보고 편집할 수 있습니다.
 
@@ -38,15 +38,15 @@ ht-degree: 2%
 
 고급 HTML 편집기를 열고 템플릿 소스를 편집하려면 다음 단계를 따르십시오.
 
-1. 이메일 Designer에서 [이메일 템플릿을 열거나 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)하세요.
+1. 이메일 Designer에서 [이메일 템플릿을 열거나 ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)하세요.
 
-1. 이메일 템플릿 편집 화면에서 오른쪽 상단의 HTML 버튼을 클릭합니다.
+1. _전자 메일 템플릿 편집_ 화면에서 오른쪽 상단의 HTML 단추를 클릭합니다.
 
-   스크린샷
+   ![](assets/advanced-html-mode-1.png){width="800" zoomable="yes"}
 
 1. 고급 HTML 편집기를 처음 열면 경고 메시지가 표시됩니다. 검토를 마치면 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
-   스크린샷
+   ![](assets/advanced-html-mode-2.png)
 
    >[!NOTE]
    >
@@ -54,7 +54,7 @@ ht-degree: 2%
 
 1. 고급 HTML 편집기가 표시됩니다.
 
-   스크린샷
+   ![](assets/advanced-html-mode-3.png){width="800" zoomable="yes"}
 
 1. 이메일 콘텐츠에 원하는 변경 사항을 추가합니다.
 
@@ -64,7 +64,7 @@ ht-degree: 2%
 
 1. 호환성의 이유로 고급 HTML 보기에서는 콘텐츠 시뮬레이션 및 저장을 사용할 수 없습니다. 데스크탑 보기로 다시 전환하여 콘텐츠를 미리 보고 변경 사항을 저장합니다.
 
-   스크린샷
+   ![](assets/advanced-html-mode-4.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
