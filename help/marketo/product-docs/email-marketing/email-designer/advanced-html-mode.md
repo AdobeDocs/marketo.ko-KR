@@ -1,15 +1,15 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: 이메일 콘텐츠에 사용자 정의 CSS 추가
-description: 이메일 Designer의 이메일 콘텐츠에 사용자 지정 CSS를 추가하는 방법을 알아봅니다. Marketo Engage에서 사용자 지정 코드를 사용하여 이메일 스타일을 지정합니다.
+title: 고급 HTML 편집기를 사용하여 이메일 템플릿 편집
+description: 보호, 액세스 단계 및 주요 제한 사항을 포함하여 Marketo Engage Email Designer에서 원시 HTML 소스 코드를 보고 편집하는 방법에 대해 알아봅니다.
 level: Intermediate
 feature: Email Designer
 exl-id: b030e56a-de70-4b0d-9788-04a01235cffb
-source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
+source-git-commit: 2b638c3945d6b28379655596d2c5c878d842e60e
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 2%
+source-wordcount: '367'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 2%
 
 고급 HTML 편집기를 열고 템플릿 소스를 편집하려면 다음 단계를 따르십시오.
 
-1. 이메일 Designer에서 [이메일 템플릿을 열거나 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)하세요.
+1. 이메일 Designer에서 [이메일 템플릿을 열거나 ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)하세요.
 
 1. _전자 메일 템플릿 편집_ 화면에서 오른쪽 상단의 HTML 단추를 클릭합니다.
 
