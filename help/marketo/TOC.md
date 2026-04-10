@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '9176'
+source-wordcount: '9146'
 ht-degree: 99%
 
 ---
@@ -163,16 +163,7 @@ ht-degree: 99%
          + [Adobe Identity Management 개요](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [관리자 설정](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [제품 관리자 설정](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
-         + [Adobe IMS 활성화된 구독을 위한 API 전용 사용자 추가](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
-         + [제품 관리자 추가 또는 제거](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
-         + [사용자 추가 또는 제거](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-         + [FAQ](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Adobe ID로 사용자 로그인](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
-         + 구독 및 사용자 마이그레이션 {#subscription-and-user-migration}
-            + [Adobe Identity로 마이그레이션](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
-            + [Marketo 구독 및 Adobe Admin Console로의 사용자 마이그레이션 이해](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
-            + [Marketo Engage 지원 마이그레이션](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
-            + [문제 해결 안내서](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + 설정 {#settings}
          + [일괄 내보내기 API 정보](product-docs/administration/settings/bulk-export-api-information.md)
          + [캠페인 검사기](product-docs/administration/settings/campaign-inspector.md)
@@ -205,7 +196,10 @@ ht-degree: 99%
          + [프로그램 채널 숨기기/숨기기 취소](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [태그 값 관리](product-docs/administration/tags/managing-tag-values.md)
       + 사용자 및 역할 {#users-and-roles}
+         + [제품 관리자 추가 또는 제거](product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md)
+         + [사용자 추가 또는 제거](product-docs/administration/users-and-roles/add-or-remove-a-user.md)
          + [API 전용 사용자 역할 만들기](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+         + [API 전용 사용자 만들기](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [사용자 역할 만들기, 삭제, 편집 및 변경](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [이메일 인증](product-docs/administration/users-and-roles/email-verification.md)
          + [사용자 및 역할 목록 내보내기](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
