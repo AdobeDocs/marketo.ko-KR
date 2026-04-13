@@ -3,7 +3,7 @@ unique-page-id: 11386358
 description: 프로덕션 전 테스트를 위한 Marketo Engage 샌드박스에 대해 알아봅니다. 샌드박스 인스턴스를 사용하여 프로덕션에 영향을 주지 않고 테스트합니다.
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Marketo 샌드박스가 프로덕션 인스턴스에 이미 동기화된 경우 
 
 ## 샌드박스에 대해 알아야 할 사항 {#things-to-know-about-sandboxes}
 
-* 사용자를 추가하려면 프로세스는 [프로덕션에서 사용자를 추가](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user#add-a-user)하는 것과 같습니다. 또한 Marketo 로그인이 이미 있는 경우 다른 이메일 주소를 사용해야 합니다.
+* 사용자를 추가하려면 프로세스는 [프로덕션에서 사용자를 추가](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user)하는 것과 같습니다. 또한 Marketo 로그인이 이미 있는 경우 다른 이메일 주소를 사용해야 합니다.
 * Marketo 샌드박스는 비어 있지만 프로덕션 인스턴스와 동일한 기능을 사용할 수 있습니다.
 * 샌드박스에서 프로그램을 만들어 프로덕션으로 이동하려면 [프로그램 가져오기](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)를 수행할 수 있습니다.
 * 샌드박스가 제한되므로 프로덕션 인스턴스가 테스트 환경의 영향을 받지 않습니다. 캠페인 실행당 최대 20개의 이메일을 보낼 수 있습니다.
