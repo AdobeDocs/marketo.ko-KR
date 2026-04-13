@@ -4,9 +4,9 @@ description: 이름 지정 역할, 권한 선택 및 변경할 수 없는 시스
 title: 사용자 역할 만들기, 삭제, 편집 및 변경
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '256'
 ht-degree: 16%
 
 ---
@@ -95,10 +95,6 @@ ht-degree: 16%
    >[!NOTE]
    >
    >역할에 대한 변경 사항은 이 역할에 연결된 모든 사용자에게 영향을 줍니다.
-
-   >[!TIP]
-   >
-   >계정 이메일 주소를 업데이트하시겠습니까? [방법을 알아보세요](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## 사용자의 역할 변경 {#change-a-users-role}
 

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
+source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9129'
 ht-degree: 99%
 
 ---
@@ -169,7 +169,6 @@ ht-degree: 99%
          + [캠페인 검사기](product-docs/administration/settings/campaign-inspector.md)
          + [분석용 속성 설정 변경](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [개인 세부 정보 페이지용 사용자 정의 탭 만들기](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [계정 설정 편집](product-docs/administration/settings/edit-account-settings.md)
          + [“추적 금지” 브라우저 지원 설정 편집](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [랜딩 페이지 설정 편집](product-docs/administration/settings/edit-landing-page-settings.md)
          + [보고서 및 알림에서 링크 만료 편집](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
