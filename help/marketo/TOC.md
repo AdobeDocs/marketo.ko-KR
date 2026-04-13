@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
 workflow-type: tm+mt
-source-wordcount: '9146'
+source-wordcount: '9132'
 ht-degree: 99%
 
 ---
@@ -168,8 +168,6 @@ ht-degree: 99%
          + [일괄 내보내기 API 정보](product-docs/administration/settings/bulk-export-api-information.md)
          + [캠페인 검사기](product-docs/administration/settings/campaign-inspector.md)
          + [분석용 속성 설정 변경](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
-         + [Marketo 암호 변경](product-docs/administration/settings/change-your-marketo-password.md)
-         + [암호 보안 설정 변경](product-docs/administration/settings/change-your-password-security-settings.md)
          + [개인 세부 정보 페이지용 사용자 정의 탭 만들기](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
          + [계정 설정 편집](product-docs/administration/settings/edit-account-settings.md)
          + [“추적 금지” 브라우저 지원 설정 편집](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
@@ -185,7 +183,7 @@ ht-degree: 99%
          + [IP를 기준으로 Marketo 로그인 제한](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [표준 시간대 변경](product-docs/administration/settings/change-time-zone.md)
          + [대체 페이지 설정](product-docs/administration/settings/set-a-fallback-page.md)
-         + [구독에 대한 기본 위치 설정](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
+         + [기본 통화 설정](product-docs/administration/settings/set-default-currency.md)
          + [개인 정보 보호 설정 이해](product-docs/administration/settings/understanding-privacy-settings.md)
       + 태그 {#tags}
          + [새 프로그램 태그 및 태그 값 만들기](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
@@ -201,9 +199,8 @@ ht-degree: 99%
          + [API 전용 사용자 역할 만들기](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [API 전용 사용자 만들기](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [사용자 역할 만들기, 삭제, 편집 및 변경](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [이메일 인증](product-docs/administration/users-and-roles/email-verification.md)
+         + [사용자 작업 공간 편집](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [사용자 및 역할 목록 내보내기](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
-         + [Marketo 사용자 관리](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [사용자 역할 및 권한 관리](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [역할 및 권한 내보내기](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [역할 권한 설명](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
