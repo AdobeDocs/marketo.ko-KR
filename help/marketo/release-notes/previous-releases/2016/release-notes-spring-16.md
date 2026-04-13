@@ -4,7 +4,7 @@ description: 릴리스 노트 - 2016년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2016년 봄
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ![](assets/two.png)
 
-## [전자 메일 템플릿 선택기](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
+## [이메일 템플릿 선택기](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
 
 새로운 시작 템플릿을 사용하여 멋진 이메일을 만드십시오! 또한 라이브 썸네일에서 템플릿을 빠르게 찾을 수 있습니다.
 
@@ -85,7 +85,7 @@ Marketo 내에서 바로 앱에 대한 멋진 인앱 메시지를 만들 수 있
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
-## [구독에 대한 액세스 제한 시간](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
+## 구독에 대한 제한된 시간 액세스 {#limited-time-access-for-subscriptions}
 
 이제 사용자는 무기한 Marketo 구독에 초대됩니다. 이 기능을 사용하면 관리자가 2주 또는 1개월과 같은 제한된 기간 동안 사용자를 구독에 초대할 수 있습니다.
 

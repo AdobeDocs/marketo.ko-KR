@@ -4,7 +4,7 @@ description: 영업 기회 동기화가 Salesforce에서 Marketo으로 작동하
 title: SFDC 동기화 - 영업 기회 동기화
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 4%
@@ -27,7 +27,7 @@ ht-degree: 4%
 
 ## Marketo은 Opportunity Amount에서 두 개 이상의 통화를 지원합니까? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-아니요. Marketo은 하나의 통화만 지원합니다. 영업 기회 금액은 [!DNL Salesforce]에서 동기화되지만 통화는 Marketo 구독에서 [기본 통화](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription)가 됩니다.
+아니요. Marketo은 하나의 통화만 지원합니다. 영업 기회 금액은 [!DNL Salesforce]에서 동기화되지만 통화는 Marketo 구독에서 [기본 통화](/help/marketo/product-docs/administration/settings/set-default-currency.md)가 됩니다.
 
 ## Marketo은 기회와 연락처를 어떻게 연결합니까? {#how-does-marketo-associate-opportunities-and-contacts}
 
@@ -35,7 +35,7 @@ Marketo은 [영업 기회 연락처 역할](https://help.salesforce.com/HTViewHe
 
 ## 한 사람의 모든 기회를 어떻게 볼 수 있습니까? {#how-can-i-see-all-the-opportunities-of-a-person}
 
-**[!UICONTROL Opportunity Info]**&#x200B;개인 세부 정보[&#x200B; 페이지의 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 탭에서 기회 목록을 볼 수 있습니다.
+**[!UICONTROL Opportunity Info]**&#x200B;개인 세부 정보[ 페이지의 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 탭에서 기회 목록을 볼 수 있습니다.
 
 ## 영업 기회와 관련된 트리거/필터는 무엇입니까? {#what-are-the-triggers-filters-related-to-opportunity}
 
