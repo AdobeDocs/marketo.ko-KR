@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '9129'
 ht-degree: 99%
@@ -988,6 +988,12 @@ ht-degree: 99%
             + [스트림 콘텐츠 우선순위 지정](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [스트림 콘텐츠 제거](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + 이메일 디자이너 {#email-designer}
+         + 브랜드 {#brands}
+            + [브랜드 테마](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+            + [브랜드 적용](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [브랜드 생성 및 관리](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [브랜드 개인화](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+            + [브랜드 정렬](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
          + [개요](product-docs/email-marketing/email-designer/overview.md)
          + [기능 비교](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [이메일 작성](product-docs/email-marketing/email-designer/email-authoring.md)
@@ -1010,12 +1016,6 @@ ht-degree: 99%
          + [이메일 공동 작업](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [이메일 Designer용 AI 지원](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [SpamAssassin으로 이메일 스팸 신고](product-docs/email-marketing/email-designer/spam-report.md)
-         + 브랜드 {#brands}
-            + [브랜드 테마](product-docs/email-marketing/email-designer/brands/brand-themes.md)
-            + [브랜드 적용](product-docs/email-marketing/email-designer/brands/apply-brand.md)
-            + [브랜드 생성 및 관리](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-            + [브랜드 개인화](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
-            + [브랜드 정렬](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
       + 이메일 프로그램 {#email-programs}
          + 이메일 프로그램 만들기 {#creating-an-email-program}
             + [이메일 프로그램 만들기](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
