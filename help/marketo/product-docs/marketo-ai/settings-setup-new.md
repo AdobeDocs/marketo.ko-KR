@@ -3,9 +3,9 @@ description: Marketo AI 권한을 활성화하고 조직 규칙을 구성하고 
 title: 설정 및 설정
 hide: true
 hidefromtoc: true
-source-git-commit: 967c0accb8ac82a0b27c03de9d577cf48fb034eb
+source-git-commit: 2e7e068ac53c9f26075d700822fc1f89274dddbe
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '471'
 ht-degree: 2%
 
 ---
@@ -22,38 +22,14 @@ ht-degree: 2%
 >
 >_AI로 빌드 액세스_ 권한이 모든 역할에 대해 기본적으로 활성화되어 있지 않습니다. 자세한 내용은 아래 표를 참조하십시오.
 
-<table><thead>
-  <tr>
-    <th>역할</th>
-    <th>기본 상태</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>관리</td>
-    <td>활성화됨</td>
-  </tr>
-  <tr>
-    <td>Adobe 제품 관리자</td>
-    <td>활성화됨</td>
-  </tr>
-  <tr>
-    <td>마케팅 사용자</td>
-    <td>비활성화됨</td>
-  </tr>
-  <tr>
-    <td>표준 사용자</td>
-    <td>사용할 수 없음</td>
-  </tr>
-  <tr>
-    <td>AI 사용자로 빌드</td>
-    <td>활성화됨</td>
-  </tr>
-  <tr>
-    <td>사용자 정의 역할</td>
-    <td>비활성화됨</td>
-  </tr>
-</tbody>
-</table>
+| 역할 | 기본 상태 |
+| --- | --- |
+| 관리 | 활성화됨 |
+| Adobe 제품 관리자 | 활성화됨 |
+| 마케팅 사용자 | 비활성화됨 |
+| 표준 사용자 | 사용할 수 없음 |
+| AI 사용자로 빌드 | 활성화됨 |
+| 사용자 정의 역할 | 비활성화됨 |
 
 ### AI 권한으로 빌드에 액세스 {#access-build-with-ai-permission}
 
@@ -81,7 +57,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->이 **only** 역할에 _AI로 빌드 액세스_ 권한이 포함되어 있습니다. 사용자가 Marketo AI 이상에 액세스할 수 있도록 하려면 추가 권한을 추가해야 합니다.
+>이 **only** 역할에 _AI로 빌드 액세스_ 권한이 포함되어 있습니다.
 
 1. 내 Marketo에서 **관리자**&#x200B;를 클릭한 다음 **사용자 및 역할**&#x200B;을 클릭합니다.
 
@@ -97,7 +73,7 @@ ht-degree: 2%
 
 ### 사용자 정의 역할 {#custom-role}
 
-[새 역할을 만들고](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} 사용 권한을 사용자 지정하는 옵션이 있습니다. _AI로 빌드에 액세스_&#x200B;를 추가하고 [특정 사용자에게 해당 역할을 할당](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}합니다.
+[새 역할을 만들고](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} 사용 권한을 사용자 지정하는 옵션이 있습니다. _AI로 빌드에 액세스_&#x200B;를 추가하고 [특정 사용자에게 해당 역할을 할당](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}합니다.
 
 ## 설정 {#settings}
 
