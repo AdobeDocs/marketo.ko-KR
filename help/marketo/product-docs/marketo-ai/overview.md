@@ -1,19 +1,24 @@
 ---
 description: 프로그램 QA, 리드 가져오기, 데이터 표준화 등과 같은 마케팅 작업을 자동화하기 위해 설계된 Marketo Engage AI 에이전트 제품군을 살펴봅니다.
 title: Marketo Engage AI 개요
+beta: true
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
+source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 3%
+source-wordcount: '283'
+ht-degree: 2%
 
 ---
 
 # Marketo Engage AI 개요 {#overview}
 
 Marketo Engage AI는 지루하지만 중요한 마케팅 기능을 자동화하도록 설계된 에이전트 호스트를 제공합니다.
+
+>[!NOTE]
+>
+>이 기능은 Open Beta이며 현재 향후 몇 달에 걸쳐 단계적으로 롤아웃될 예정입니다. 내 Marketo 화면에서 _AI로 빌드_ 타일이 표시되면 구독이 활성화될 때를 알 수 있습니다.
 
 ## 액세스 방법 {#access}
 
