@@ -1,13 +1,11 @@
 ---
 description: 이메일, 랜딩 페이지, 캠페인 등 모든 구성 요소에서 모범 사례를 감사하는 방법을 알아봅니다.
 title: 프로그램 QA
-beta: true
-hide: true
-hidefromtoc: true
+badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
+source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---

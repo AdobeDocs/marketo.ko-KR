@@ -1,13 +1,11 @@
 ---
 description: 리드 가져오기 에이전트를 사용하여 CSV를 업로드하고, 비즈니스 규칙을 적용하고, 필드를 매핑하고, Marketo Engage 데이터베이스로 리드를 직접 가져오는 방법에 대해 알아봅니다.
 title: 리드 가져오기
-beta: true
-hide: true
-hidefromtoc: true
+badge: Beta
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
+source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
