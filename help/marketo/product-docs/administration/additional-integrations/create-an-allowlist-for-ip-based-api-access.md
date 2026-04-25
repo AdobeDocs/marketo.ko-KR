@@ -21,7 +21,7 @@ ht-degree: 15%
 
 >[!CAUTION]
 >
->이 기능을 사용하면 현재 [Marketo MCP 서버](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"}에 액세스할 수 없습니다. 향후 릴리스에서 수정됩니다.
+>이 기능을 사용하면 현재 [Marketo MCP 서버](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mcp-server){target="_blank"}에 액세스할 수 없습니다. 향후 릴리스에서 수정됩니다.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
