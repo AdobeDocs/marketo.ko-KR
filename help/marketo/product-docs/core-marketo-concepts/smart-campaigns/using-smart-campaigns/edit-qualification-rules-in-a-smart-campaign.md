@@ -4,10 +4,10 @@ description: Smart Campaign에서 자격 규칙을 편집하는 방법을 알아
 title: 스마트 캠페인에서 자격 규칙 편집
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 6%
+source-wordcount: '194'
+ht-degree: 7%
 
 ---
 
@@ -29,14 +29,6 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >매일 한 번씩에 대한 규칙을 설정하면 Marketo이 해당 규칙을 시간으로 변환합니다. 예를 들어 규칙을 하루에 한 번으로 설정했는데 어떤 사람이 일요일 밤 10시에 자격을 얻으면 월요일 밤 10시까지 다시 자격을 얻을 수 없습니다. 이 논리는 주 또는 월을 사용하는 경우에도 적용됩니다. 한 달은 항상 30일로 계산됩니다.
-
-   >[!NOTE]
+   >* 매일 한 번씩에 대한 규칙을 설정하면 Marketo이 해당 규칙을 시간으로 변환합니다. 예를 들어 규칙을 하루에 한 번으로 설정했는데 어떤 사람이 일요일 밤 10시에 자격을 얻으면 월요일 밤 10시까지 다시 자격을 얻을 수 없습니다. 이 논리는 주 또는 월을 사용하는 경우에도 적용됩니다. 한 달은 항상 30일로 계산됩니다.
    >
-   >기본적으로 스마트 캠페인에는 통신 제한이 적용되지 않습니다. [스마트 캠페인에 통신 제한을 적용하는 방법](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}을 알아보세요.
-
-   >[!NOTE]
-   >
-   >[스마트 캠페인에 통신 제한 적용](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}
-
-임무 완수! 이제 Smart Campaign에서 자격 규칙을 제어하는 방법을 알 수 있습니다.
+   >* 기본적으로 스마트 캠페인에는 통신 제한이 적용되지 않습니다. [스마트 캠페인에 통신 제한을 적용하는 방법](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}을 알아보세요.
