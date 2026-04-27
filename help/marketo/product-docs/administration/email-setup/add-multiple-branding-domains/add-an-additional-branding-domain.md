@@ -4,10 +4,10 @@ description: 여러 브랜드에 대한 추가 브랜딩 도메인을 한 인스
 title: 추가 브랜딩 도메인 추가
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
 workflow-type: tm+mt
-source-wordcount: '587'
-ht-degree: 3%
+source-wordcount: '713'
+ht-degree: 19%
 
 ---
 
@@ -45,9 +45,9 @@ ht-degree: 3%
 
 기존 도메인에 대해 SSL을 활성화하려면 다음 단계를 따르십시오.
 
-1. _[!UICONTROL Admin]_&#x200B;영역에서&#x200B;**[!UICONTROL Email]**&#x200B;을(를) 선택합니다.
+1. _[!UICONTROL Admin]_영역에서&#x200B;**[!UICONTROL Email]**을(를) 선택합니다.
 
-1. _[!UICONTROL Domain]_&#x200B;탭에서 도메인 행을 선택하고&#x200B;**[!UICONTROL Add SSL]**&#x200B;을(를) 클릭합니다.
+1. _[!UICONTROL Domain]_탭에서 도메인 행을 선택하고&#x200B;**[!UICONTROL Add SSL]**을(를) 클릭합니다.
 
    ![관리자 - 전자 메일 - 도메인 - SSL 추가](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
@@ -91,13 +91,15 @@ ht-degree: 3%
 
 ## 참고할 사항 {#things-to-note}
 
-* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑[해야 합니다.](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}
+* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}해야 합니다.[
 
 * **사용자 지정 SSL**: 사용자 지정 SSL이 필요한 경우 [지원 티켓](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}을 제출하세요. SSL 생성을 위해 셀프서비스 확인란을 사용하지 마십시오.
 
 * **기존 SSL**: 도메인을 추가하는 동안 시스템은 이전에 수동으로 생성했을 수 있는 기존 SSL을 확인합니다. 이 유효성 검사가 발생하면 SSL 생성을 선택하지 않고 도메인을 생성하면 자동으로 연결됩니다. [지원 센터에 문의](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 추가 세부 정보/옵션을 제공합니다.
 
 * **도메인 삭제**: **도메인을 자동으로 삭제해도 SSL 인증서는 삭제되지 않습니다**. 이 가드레일은 SSL 인증서 없이 웹 사이트를 생성하는 사용자 오류를 방지합니다. SSL 인증서를 제거하려면 [지원팀에 문의](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}하십시오.
+
+* 추가하는 도메인이 CNAME 이외의 항목으로 나열되면 더 이상 브랜드 추적 도메인을 추가하는 기능이 차단됩니다. 기존 도메인을 편집하고 A 레코드가 아닌 CNAME 레코드인지 확인해야 합니다. 추가 버튼은 CNAME 및 CNAME만 동적으로 확인합니다.
 
 >[!MORELIKETHIS]
 >

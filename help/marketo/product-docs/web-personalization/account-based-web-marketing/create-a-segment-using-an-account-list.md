@@ -4,10 +4,10 @@ description: Marketo Engage에서 계정 목록을 사용하여 세그먼트를 
 title: 계정 목록을 사용하여 세그먼트 만들기
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 10%
+source-wordcount: '205'
+ht-degree: 8%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 10%
 >
 >[새 계정 목록 만들기](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
+>[!NOTE]
+>
+>웹 Personalization 내에서 계정 목록을 보려면 &quot;Web ABM&quot;이라는 추가 모듈이 필요합니다. 계정 목록 이 선택 사항으로 표시되지 않는 경우 Adobe 계정 팀(계정 관리자)에 문의하여 지원을 받으십시오.
+
 1. **[!UICONTROL Segments]** 으로 이동합니다.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
@@ -27,7 +31,7 @@ ht-degree: 10%
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. 세그먼트 이름을 입력합니다. **[!UICONTROL Account Lists]** 섹션에서 **[!UICONTROL Firmographics]**&#x200B;을(를) 끌어서 놓습니다.
+1. 세그먼트 이름을 입력합니다. **[!UICONTROL Firmographics]** 섹션에서 **[!UICONTROL Account Lists]**&#x200B;을(를) 끌어서 놓습니다.
 
    ![](assets/set-segment-hands.jpg)
 
