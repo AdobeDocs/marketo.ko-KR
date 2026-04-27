@@ -30,7 +30,7 @@ ht-degree: 21%
 
 ## 텍스트 {#text}
 
-영역을 리치 텍스트로 정의하면 사용자는 [Marketo의 리치 텍스트 편집기를 사용하여 ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)콘텐츠를 편집할 수 있습니다.
+영역을 리치 텍스트로 정의하면 사용자는 [Marketo의 리치 텍스트 편집기를 사용하여 &#x200B;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)콘텐츠를 편집할 수 있습니다.
 
 필수 속성:
 **class**: &quot;mktoText&quot;
