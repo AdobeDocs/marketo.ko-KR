@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512272
 description: Marketo에 등록 및 참석을 동기화하려면  [!DNL Webex] 웨비나를 LaunchPoint 서비스로 추가하십시오.
-title: ' [!DNL Webex] 서비스로  [!DNL LaunchPoint] 추가'
+title: ' [!DNL LaunchPoint] 서비스로  [!DNL Webex] 추가'
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 9%
+source-wordcount: '97'
+ht-degree: 10%
 
 ---
 
@@ -43,7 +43,7 @@ Marketo Engage에서 [!DNL Webex] 웨비나 등록 및 출석을 관리합니다
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
-1. 로그인에 성공하면 탭이 닫히고 Marketo Engage의 _새 서비스_ 모달에는 &quot;Webex Webinars 계정이 설정되었습니다&quot;라고 표시됩니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
+1. 로그인에 성공하면 탭이 닫히고 Marketo Engage의 _새 서비스_ 모달에는 &quot;Webex Webinars 계정이 설정되었습니다&quot;라는 메시지가 표시됩니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/add-webex-as-a-launchpoint-service-7.png)
 

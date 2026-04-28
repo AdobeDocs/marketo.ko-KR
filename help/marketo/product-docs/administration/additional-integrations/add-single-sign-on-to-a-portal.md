@@ -4,20 +4,20 @@ description: ID 공급자가 Marketo에 대한 사용자를 인증하도록 SAML
 title: 포털에 Single Sign-On 추가
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 5%
+source-wordcount: '620'
+ht-degree: 6%
 
 ---
 
 # 포털에 Single Sign-On 추가 {#add-single-sign-on-to-a-portal}
 
-사용자를 인증하는 디렉터리 서비스가 있는 경우 Marketo에 SSO(Single Sign-On)를 허용할 수 있습니다. [!DNL Security Assertion Markup Language]&#x200B;(SAML) 버전 2.0 이상을 사용하여 이 기능을 지원합니다.
+사용자를 인증하는 디렉터리 서비스가 있는 경우 Marketo에 SSO(Single Sign-On)를 허용할 수 있습니다. Marketo은 [!DNL Security Assertion Markup Language]&#x200B;(SAML) 버전 2.0 이상을 사용하여 이 기능을 지원합니다.
 
 Marketo은 SAML SP(서비스 공급자)로 작동하며 사용자를 인증하기 위해 외부 Id 제공업체(IdP)에 의존합니다.
 
-SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습니다. 사용자가 Marketo 소프트웨어를 사용하려는 경우 IdP가 서명된 SAML 메시지를 Marketo에 보내어 SP 역할을 합니다. 이 메시지는 사용자에게 Marketo 소프트웨어 사용 권한이 있음을 Marketo에 보증합니다.
+SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습니다. 사용자가 Marketo 소프트웨어를 사용하려는 경우 IdP가 서명된 SAML 메시지를 Marketo에 보내어 SP 역할을 합니다. 이 메시지는 사용자에게 Marketo 소프트웨어 사용 권한이 있음을 Marketo에 확인합니다.
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습
 
 >[!IMPORTANT]
 >
->Adobe ID에 온보딩된 구독에는 적용되지 **않습니다**. 이전 설정은 (IMS 마이그레이션 전부터) 나타날 수 있지만 더 이상 적용되지 않습니다. Adobe ID에 온보딩된 구독의 경우 단일 사인온이 Adobe Admin Console의 Adobe 조직 수준에서 설정됩니다. [여기에서 자세히 알아보십시오](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}.
+>Adobe ID에 온보딩된 구독에는 적용되지 **않습니다**. 이전 설정은 (IMS 마이그레이션 전부터) 나타날 수 있지만 더 이상 적용되지 않습니다. Adobe Identity에 온보딩된 구독의 경우 Adobe Admin Console의 Adobe 조직 수준에서 [Single Sign-On이 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}됩니다.
 
 >[!NOTE]
 >
->[!DNL Microsoft Azure] 사용자이십니까? [통합 자습서](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}를 확인하십시오. 참고로, 그들의 자습서의 5c단계에 오타가 있습니다. 릴레이 상태를 `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`(으)로 설정하십시오.
+>[!DNL Microsoft Azure] 사용자이십니까? [통합 자습서](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}를 확인하십시오. 자습서의 5c단계에 오타가 있습니다. 릴레이 상태를 `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`(으)로 설정합니다.
 
 ## 요청을 보내는 방법 {#how-to-send-the-request}
 
@@ -69,7 +69,7 @@ SSO는 기본적으로 비활성화되어 있습니다. 다음 단계에 따라 
 
    >[!NOTE]
    >
-   >**[!UICONTROL Single Sign-On]**&#x200B;에 **[!UICONTROL Admin]**&#x200B;이(가) 표시되지 않으면 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}에 문의하십시오.
+   >**[!UICONTROL Admin]**&#x200B;에 **[!UICONTROL Single Sign-On]**&#x200B;이(가) 표시되지 않으면 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}에 문의하십시오.
 
 1. **[!UICONTROL SAML Settings]** 섹션 아래에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
@@ -116,4 +116,4 @@ SSO는 기본적으로 비활성화되어 있습니다. 다음 단계에 따라 
 >[!MORELIKETHIS]
 >
 >* [SSO로만 사용자 로그인 제한](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [범용 ID를 사용하는 두 개의 인스턴스에 Marketo 사용자 초대](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
+>* [Inviting Marketo Users to Two Instances with Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

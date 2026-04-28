@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512289
 description: Marketo에서 웨비나 등록 및 출석을 관리할 수 있도록  [!DNL GoToWebinar] 을(를) LaunchPoint 서비스로 추가합니다.
-title: ' [!DNL GoToWebinar] 서비스로  [!DNL LaunchPoint] 추가'
+title: ' [!DNL LaunchPoint] 서비스로  [!DNL GoToWebinar] 추가'
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '134'
 ht-degree: 6%
 
 ---
@@ -59,7 +59,7 @@ Marketo에서 [!DNL GoToWebinar] 등록 및 출석을 관리합니다.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 
-1. 잘됐네! **[!UICONTROL GoToWebinar]** 계정이 이제 Marketo과 동기화되었습니다.
+1. **[!UICONTROL GoToWebinar]** 계정이 이제 Marketo과 동기화되었습니다.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-8.png)
 

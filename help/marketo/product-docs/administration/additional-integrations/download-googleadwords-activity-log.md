@@ -4,16 +4,16 @@ description: 통합 문제를 해결하려면 LaunchPoint에서  [!DNL Google Ad
 title: ' [!DNL GoogleAdwords Activity Log] 다운로드'
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 10%
+source-wordcount: '40'
+ht-degree: 12%
 
 ---
 
 # [!DNL Google Adwords] 활동 로그 다운로드 {#download-googleadwords-activity-log}
 
-일이 일어나죠. 문제를 해결하려면 활동 로그를 다운로드해야 하는 경우가 있습니다.
+문제를 해결하기 위해 활동 로그를 다운로드하는 방법을 알아봅니다.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 

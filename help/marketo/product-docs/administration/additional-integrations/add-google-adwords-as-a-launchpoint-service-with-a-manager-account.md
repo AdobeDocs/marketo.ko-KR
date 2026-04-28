@@ -4,16 +4,16 @@ description: LaunchPoint에서 관리자 계정을 사용하여 여러  [!DNL Go
 title: 관리자 계정을 사용하여  [!DNL Google AdWords] as a [!DNL Launchpoint] Service 추가
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '292'
 ht-degree: 7%
 
 ---
 
 # 관리자 계정을 사용하여 [!DNL Google AdWords]을(를) [!DNL Launchpoint] 서비스로 추가 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-[!DNL Google AdWords] 계정을 Marketo에 연결하여 Marketo에서 [!DNL Google AdWords]&#x200B;(으)로 오프라인 전환 데이터를 자동으로 업로드합니다. [!DNL AdWords]에서 [사용자 지정 열을 추가](https://support.google.com/adwords/answer/3073556){target="_blank"}한 후 [!DNL AdWords] UI에서 자격 있는 리드, 기회 및 신규 고객(또는 추적하려는 매출 단계)을 일으킨 클릭 수를 쉽게 확인할 수 있습니다. 이 정보는 Marketo UI에 표시되지 않습니다.
+[!DNL Google AdWords] 계정을 Marketo에 연결하여 Marketo에서 [!DNL Google AdWords]&#x200B;(으)로 오프라인 전환 데이터를 자동으로 업로드합니다. [!DNL AdWords]에서 [사용자 지정 열을 추가](https://support.google.com/adwords/answer/3073556){target="_blank"}한 후 [!DNL AdWords] UI에서 자격 있는 리드, 기회 및 신규 고객(또는 추적하려는 매출 단계)을 일으킨 클릭 수를 확인할 수 있습니다. 이 정보는 Marketo UI에 표시되지 않습니다.
 
 [!DNL Google Adwords] 계정이 여러 개 있는 경우 [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"}(이전의 [!DNL My Client Center])을(를) 사용하여 Marketo과 통합할 수 있습니다.
 
@@ -88,12 +88,12 @@ ht-degree: 7%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-11.png)
 
-1. 업데이트하지 않으려는 계정의 선택을 취소합니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
+1. Deselect accounts you do not want to update. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
-   이제 매출 모델에서 [!DNL AdWords] 오프라인 전환을 매핑하는 방법에 대해서는 아래 관련 문서를 참조하십시오.
+   See the Related Article below for how to map [!DNL AdWords] offline conversions in your revenue model.
 
    >[!MORELIKETHIS]
    >
-   >관리자 계정을 사용하여 [수익 모델에서 전환 설정 [!DNL Google AdWords] 2&rbrace;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
+   >[Set [!DNL Google AdWords] Conversions in the Revenue Model with a Manager Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

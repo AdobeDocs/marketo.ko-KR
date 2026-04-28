@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6095008
 description: LaunchPoint를 통해  [!DNL Google AdWords] Marketo에 연결하여 AdWords에서 보고할 오프라인 전환 데이터를 업로드합니다.
-title: ' [!DNL Google AdWords] 서비스로  [!DNL LaunchPoint] 추가'
+title: ' [!DNL LaunchPoint] 서비스로  [!DNL Google AdWords] 추가'
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '264'
 ht-degree: 5%
 
 ---
 
 # [!DNL Google AdWords]을(를) [!DNL LaunchPoint] 서비스로 추가 {#add-google-adwords-as-a-launchpoint-service}
 
-[!DNL Google AdWords] 계정을 Marketo에 연결하여 Marketo에서 [!DNL Google AdWords]&#x200B;(으)로 오프라인 전환 데이터를 자동으로 업로드합니다. [!DNL AdWords]에서 [사용자 지정 열을 추가](https://support.google.com/adwords/answer/3073556){target="_blank"}한 후 [!DNL AdWords] UI에서 자격 있는 리드, 기회 및 새 고객(또는 추적하려는 매출 단계)을 일으킨 클릭 수를 쉽게 확인할 수 있습니다. 이 정보는 Marketo UI에 표시되지 않습니다.
+[!DNL Google AdWords] 계정을 Marketo에 연결하여 Marketo에서 [!DNL Google AdWords]&#x200B;(으)로 오프라인 전환 데이터를 자동으로 업로드합니다. [!DNL AdWords]에서 [사용자 지정 열을 추가](https://support.google.com/adwords/answer/3073556){target="_blank"}한 후 [!DNL AdWords] UI에서 자격 있는 리드, 기회 및 신규 고객(또는 추적하려는 매출 단계)을 일으킨 클릭 수를 확인할 수 있습니다. 이 정보는 Marketo UI에 표시되지 않습니다.
 
 [Google의 오프라인 전환 가져오기 기능](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}에 대해 자세히 알아보세요.
 
@@ -90,8 +90,8 @@ ht-degree: 5%
    >
    >이 기능을 사용하려면 [자동 태그 지정](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"}을 선택해야 합니다. 비활성화는 [!DNL AdWords] 내에서 수행해야 합니다.
 
-잘됐네! 이제 매출 모델에서 [!DNL AdWords] 오프라인 전환을 매핑하는 방법에 대해 알아보려면 아래 관련 문서를 참조하십시오.
+See the Related Article below to learn how to map [!DNL AdWords] offline conversions in your revenue model.
 
 >[!MORELIKETHIS]
 >
->[수익 모델에서 전환 설정 [!DNL Google AdWords] 전환](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}
+>[Set [!DNL Google AdWords] Conversions in the Revenue Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}
