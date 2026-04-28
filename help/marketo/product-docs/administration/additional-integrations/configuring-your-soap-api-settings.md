@@ -17,7 +17,7 @@ ht-degree: 22%
 
 >[!IMPORTANT]
 >
->2026년 7월 31일에 SOAP API가 [더 이상 사용되지 않습니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api). 대신 [REST API](https://developer.adobe.com/marketo-apis/)를 사용하는 것이 좋습니다.
+>2026년 7월 31일에 SOAP API가 [더 이상 사용되지 않습니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/soap/soap-api). 대신 [REST API](https://developer.adobe.com/marketo-apis/)를 사용하는 것이 좋습니다.
 
 >[!NOTE]
 >

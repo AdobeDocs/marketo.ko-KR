@@ -90,4 +90,4 @@ Marketo은 익명의 사람들이 스마트 캠페인과 상호 작용하는 방
 
 ## I have more questions! How do I get them answered? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Visit the [Marketo Community](https://experienceleaguecommunities.adobe.com/){target="_blank"}. You can also contact Marketo Support. They are happy to answer your questions.
+Visit the [Marketo Community](https://experienceleaguecommunities.adobe.com/?profile.language=ko){target="_blank"}. You can also contact Marketo Support. They are happy to answer your questions.
