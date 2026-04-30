@@ -4,16 +4,16 @@ description: 작업 영역의 리드 파티션, 주 개인 파티션 및 주 브
 title: 작업 영역 편집
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 11%
+ht-degree: 10%
 
 ---
 
 # 작업 영역 편집 {#edit-a-workspace}
 
-경우에 따라 Workspace에서 변경해야 합니다. 쉽습니다.
+경우에 따라 Workspace에서 변경해야 합니다.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->[작업 영역 및 개인 파티션 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}를 통해 작업 영역을 정리합니다.
+>작업 영역에 대한 자세한 내용은 [작업 영역 및 개인 파티션 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}를 참조하십시오.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
@@ -57,7 +57,7 @@ ht-degree: 11%
 
    >[!NOTE]
    >
-   >작업 영역 언어를 변경할 수 없습니다.
+   >작업 영역 언어는 변경할 수 없습니다.
 
 >[!MORELIKETHIS]
 >

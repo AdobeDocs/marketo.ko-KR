@@ -4,10 +4,10 @@ description: 총 에셋 확인을 포함하여 작업 영역을 삭제하는 단
 title: 작업 영역 삭제
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 23%
+source-wordcount: '55'
+ht-degree: 25%
 
 ---
 
@@ -33,6 +33,6 @@ ht-degree: 23%
 
    ![](assets/delete-a-workspace-3.png)
 
-1. 삭제하려는 자산 수(&quot;[!UICONTROL total assets]&quot; 옆에 나열됨)를 확인하고 **[!UICONTROL Cannot Undo]** 확인란을 선택한 다음 **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
+1. 삭제할 자산의 수(&quot;[!UICONTROL total assets]&quot; 옆에 나열됨)를 확인하고 **[!UICONTROL Cannot Undo]** 확인란을 선택한 다음 **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/delete-a-workspace-4.png)

@@ -4,16 +4,16 @@ description: 이름 지정 역할, 권한 선택 및 변경할 수 없는 시스
 title: 사용자 역할 만들기, 삭제, 편집 및 변경
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '254'
 ht-degree: 16%
 
 ---
 
 # 사용자 역할 만들기, 삭제, 편집 및 변경 {#create-delete-edit-and-change-a-user-role}
 
-**역할**&#x200B;은(는) 여러 권한을 함께 그룹화합니다. **권한**&#x200B;을 통해 Marketo에서 작업을 수행할 수 있습니다. 사용자에게 **역할**&#x200B;을(를) 할당합니다. 식은 죽 먹기야.
+**역할**&#x200B;이(가) 권한 집합을 함께 그룹화합니다. **권한**&#x200B;을 통해 Marketo에서 작업을 수행할 수 있습니다. 사용자에게 **역할**&#x200B;을(를) 할당합니다.
 
 >[!NOTE]
 >

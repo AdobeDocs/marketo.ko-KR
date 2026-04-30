@@ -4,10 +4,10 @@ description: 작업 공간 이름을 변경하는 방법을 알아봅니다.
 title: 작업 영역 이름 변경
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 28%
+source-wordcount: '67'
+ht-degree: 29%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 28%
 >
 >[새 Workspace 만들기](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
-사용자는 작업 영역의 이름을 변경할 수 있습니다. 아주 간단합니다.
+사용자는 작업 영역의 이름을 변경할 수 있습니다.
 
 >[!NOTE]
 >
->먼저 [작업 공간 및 개인 파티션 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)를 참조하십시오.
+>자세한 내용은 [작업 영역 및 개인 파티션 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)를 참조하십시오.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 

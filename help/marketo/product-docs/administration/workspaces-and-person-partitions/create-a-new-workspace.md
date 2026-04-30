@@ -4,9 +4,9 @@ description: 작업 영역 이름 지정, 개인 파티션 선택, 기본 브랜
 title: 새 작업 영역 만들기
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '209'
 ht-degree: 8%
 
 ---
@@ -18,19 +18,17 @@ ht-degree: 8%
 * 지역: 유럽 마케팅 운영 대 북미 마케팅 운영
 * 사업부 A와 사업부 B 비교
 
-새 작업 영역을 만드는 방법은 다음과 같습니다.
-
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
 >[!NOTE]
 >
->먼저 [작업 공간 및 개인 파티션 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}를 참조하십시오.
+>자세한 내용은 [작업 영역 및 개인 파티션 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}를 참조하십시오.
 
 >[!TIP]
 >
->Workspace 모범 사례에 대한 자세한 내용은 [Marketo Professional Services](https://business.adobe.com/kr/products/marketo/services-support.html){target="_blank"}에 문의하세요.
+>Workspace 모범 사례에 대해 자세히 알아보려면 [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}에 문의하세요.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
@@ -44,7 +42,7 @@ ht-degree: 8%
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. **[!UICONTROL Name]**&#x200B;을(를) 입력하고 사용할 **[!UICONTROL Person Partitions]**&#x200B;을(를) 선택하십시오. **[!UICONTROL Primary Person Partition]** 선택. 아직 수행하지 않았다면 [개인 파티션을 만듭니다](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}.
+1. **[!UICONTROL Name]**&#x200B;을(를) 입력하고 사용할 **[!UICONTROL Person Partitions]**&#x200B;을(를) 선택하십시오. **[!UICONTROL Primary Person Partition]** 선택. [개인 파티션](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}이(가) 아직 만들어지지 않았는지 확인하십시오.
 
    ![](assets/create-a-new-workspace-4.png)
 

@@ -3,10 +3,10 @@ description: 제품 프로필을 선택하고 사용자 탭을 관리하여 Adob
 title: 사용자 추가 또는 제거
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 9%
+source-wordcount: '260'
+ht-degree: 13%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 9%
 
    ![](assets/add-or-remove-a-user-5.png)
 
-1. 추가하려는 사용자의 이름, 사용자 그룹 또는 이메일 주소를 입력합니다. 이름과 성은 선택 사항입니다.
+1. 추가할 사용자의 이름, 사용자 그룹 또는 이메일 주소를 입력합니다. 이름과 성은 선택 사항입니다.
 
    ![](assets/add-or-remove-a-user-6.png)
 
@@ -54,7 +54,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->사용자가 Adobe Admin Console을 통해 Marketo Engage에 추가되면 구독의 기본 작업 영역 내에서 &quot;표준 사용자&quot; 역할이 부여됩니다. 작업 영역에서 사용자의 역할을 조정해야 하는 경우 [여기에 설명된 대로 Marketo Engage에서 수행됩니다](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>사용자가 Adobe Admin Console을 통해 Marketo Engage에 추가되면 구독의 기본 작업 영역 내에서 &quot;표준 사용자&quot; 역할이 부여됩니다. 작업 영역 내에서 사용자의 역할을 조정해야 하는 경우 [여기에 설명된 대로 Marketo Engage에서 수행됩니다](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## 사용자 제거 {#remove-a-user}
 
