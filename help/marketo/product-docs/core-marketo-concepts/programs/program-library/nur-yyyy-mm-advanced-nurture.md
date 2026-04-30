@@ -3,10 +3,10 @@ description: 고급 육성 프로그램 템플릿 이름 지정 규칙을 사용
 title: NUR-YYYY-MM-고급 육성
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 10%
+source-wordcount: '508'
+ht-degree: 11%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 10%
 
 다음은 Marketo Engage Engagement Program을 활용한 고급 육성 프로그램의 예입니다. 중첩된 이메일 프로그램은 사용자가 이미 사용한 콘텐츠를 수신하지 못하도록 하거나 각 스트림에서 소비해야 하는 콘텐츠 유형을 제어합니다. 각각의 중첩된 이메일 프로그램에 대해 속성 보고를 실행할 수 있습니다. 채널: 중첩된 이메일 프로그램에 대한 &quot;Grooth&quot; 및 전용 &quot;Grooth Email&quot; 채널은 Marketo Engage 이메일 프로그램을 사용하여 뉴스레터 이메일 1개를 전송합니다. 이메일에는 A/B 테스트가 포함되거나 포함되지 않을 수 있습니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -213,4 +213,4 @@ ht-degree: 10%
 
 >[!TIP]
 >
->성공 추적을 위해 &quot;04 - 참여(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 이메일을 보내기 전에 _다음 작업을 수행합니다_.
+>이메일을 보내기 전에 성공 추적을 위해 &quot;04 - 참여(프로그램 성공)&quot; 캠페인을 활성화합니다.

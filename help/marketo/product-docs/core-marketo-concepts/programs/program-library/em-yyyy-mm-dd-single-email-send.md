@@ -3,10 +3,10 @@ description: 단일 이메일 전송 프로그램 템플릿 명확한 명명 규
 title: EM-YYYY-MM-DD-단일 이메일 전송
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 10%
+source-wordcount: '309'
+ht-degree: 11%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 10%
 
 이 예제는 Marketo Engage 이메일 프로그램을 활용하여 하나의 이메일을 전송합니다. 이메일에는 A/B 테스트가 포함되거나 포함되지 않을 수 있습니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -144,4 +144,4 @@ ht-degree: 10%
 
 >[!TIP]
 >
->성공 추적을 위해 &quot;01-참여&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 양식이 라이브되고 전자 메일이 전송되기 전에 _먼저_&#x200B;하세요.
+>양식이 라이브되고 이메일이 전송되기 전에 성공 추적을 위해 &quot;01-참여&quot; 캠페인을 활성화합니다.

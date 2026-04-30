@@ -3,10 +3,10 @@ description: 웨비나 프로그램 템플릿. 표준 명명 규칙을 사용하
 title: WBN-YYYY-MM-DD-웨비나 프로그램
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 15%
+source-wordcount: '621'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 이는 등록 관리, 3개의 초대 이메일, 참석 알림 및 Marketo Engage 이벤트 프로그램을 활용하는 후속 이메일이 포함된 웨비나 프로그램의 예입니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 
@@ -30,7 +30,7 @@ ht-degree: 15%
    <td>이벤트</td>
    <td>01 - 초대됨
    <br/>02 - 대기자 명단 등록됨
-   <br/>03 - 등록
+   <br/>03 - 등록됨
    <br/>04 - 표시 안 함
    <br/>05 - 참석함 - 성공
    <br/>06 - 온디맨드 참석 - 성공</td>
@@ -310,7 +310,7 @@ ht-degree: 15%
 
 ## 모범 사례 {#best-practices}
 
-* 통합 웨비나 공급자를 사용하는 경우 호스팅 시스템에서 Marketo Engage 프로그램을 웨비나에 연결하는 것을 잊지 마십시오.
+* 통합 웨비나 공급자를 사용하는 경우 호스팅 시스템에서 Marketo Engage 프로그램을 웨비나에 연결합니다.
 
 * 웨비나 프로그램을 가져온 후 양식을 로컬 에셋에서 Design Studio에 있는 글로벌 에셋으로 이동합니다.
    * Design Studio에서 양식 수를 줄이고 더 많은 글로벌 에셋을 사용하면 프로그램 설계 및 관리 거버넌스에서 더 많은 확장성을 얻을 수 있습니다. 또한 필드, 옵트인 언어 등에 대한 정기적인 규정 준수 업데이트의 유연성을 제공합니다.
@@ -325,7 +325,7 @@ ht-degree: 15%
 
 >[!TIP]
 >
->성공 추적을 위해 &quot;05 - 참석함(프로그램 성공)&quot; 캠페인을 활성화하는 것을 잊지 마십시오! 이메일을 보내기 전에 _다음 작업을 수행합니다_.
+>이메일을 보내기 전에 성공 추적을 위해 &quot;05 - 참석함(프로그램 성공)&quot; 캠페인을 활성화합니다.
 
 >[!IMPORTANT]
 >

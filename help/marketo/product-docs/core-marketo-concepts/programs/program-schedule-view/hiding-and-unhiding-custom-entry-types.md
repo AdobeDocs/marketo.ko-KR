@@ -4,10 +4,10 @@ description: 프로그램 일정 보기에서 사용자 지정 항목 유형을 
 title: 사용자 정의 항목 유형 숨기기 및 숨기기 취소
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 10%
+source-wordcount: '106'
+ht-degree: 11%
 
 ---
 
@@ -25,16 +25,16 @@ ht-degree: 10%
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
-   끝내주네 이 항목 유형은 더 이상 사용할 수 없습니다.
+   이 항목 유형은 더 이상 사용할 수 없습니다.
 
 ## 사용자 지정 항목 유형 숨기기 취소 {#unhide-a-custom-entry-type}
 
-사용자 지정 항목 유형의 숨김을 해제하려면 이 방법도 간단합니다.
+사용자 지정 항목 유형의 숨김을 해제하려면 다음을 수행합니다.
 
 1. 항목을 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Unhide]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 
-   짜잔! 이제 사용자 지정 항목 유형이 숨김 해제되었습니다.
+   이제 사용자 지정 항목 유형이 표시됩니다.
 
    ![](assets/image2014-9-24-10-3a12-3a19.png)
