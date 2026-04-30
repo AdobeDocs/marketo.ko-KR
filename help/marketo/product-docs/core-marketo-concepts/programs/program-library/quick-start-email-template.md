@@ -24,7 +24,7 @@ Marketo Engage 이메일 편집기에는 이메일 레이아웃을 변경하고 
 
 * **변수**: 모듈을 선택하면 편집기 오른쪽에 변수가 나타납니다. 이러한 속성은 이미지 또는 텍스트 요소를 통해 쉽게 편집할 수 없는 모듈의 속성을 조정하는 데 사용할 수 있습니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 모듈 요약 {#modules-summary}
 
