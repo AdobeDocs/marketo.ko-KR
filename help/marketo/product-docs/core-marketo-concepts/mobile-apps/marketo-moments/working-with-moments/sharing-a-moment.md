@@ -4,16 +4,16 @@ description: Marketo 모멘트 앱에서 순간을 공유하는 방법을 알아
 title: Moments 공유
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 5%
+source-wordcount: '170'
+ht-degree: 4%
 
 ---
 
 # Moments 공유 {#sharing-a-moment}
 
-팀에 업데이트를 제공하시겠습니까? 공유를 선택할 수 있는 두 가지 선택 사항이 있습니다.
+시간을 나누는 방법은 두 가지가 있습니다.
 
 >[!IMPORTANT]
 >
@@ -29,11 +29,11 @@ ht-degree: 5%
 
    ![](assets/image2015-7-14-16-3a8-3a18.png)
 
-1. 공유할 방법을 선택하십시오. 이메일로 갑시다.
+1. 공유할 방법을 선택하십시오. 이 예에서는 이메일이 선택되어 있습니다.
 
    >[!NOTE]
    >
-   >공유는 휴대폰에 설치된 앱에 따라 다릅니다. 따라서 [!DNL Facebook]이(가) 없으면 [잠시 후]에 표시되지 않습니다.
+   >공유는 휴대폰에 설치된 앱에 따라 다릅니다. [!DNL Facebook]이(가) 설치되어 있지 않으면 [잠시 후]에 나타나지 않습니다.
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 

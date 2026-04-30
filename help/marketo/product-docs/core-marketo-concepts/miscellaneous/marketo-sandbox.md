@@ -3,10 +3,10 @@ unique-page-id: 11386358
 description: 프로덕션 전 테스트를 위한 Marketo Engage 샌드박스에 대해 알아봅니다. 샌드박스 인스턴스를 사용하여 프로덕션에 영향을 주지 않고 테스트합니다.
 title: Marketo Sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 1%
+source-wordcount: '306'
+ht-degree: 3%
 
 ---
 
@@ -29,11 +29,11 @@ Marketo 샌드박스가 프로덕션 인스턴스에 이미 동기화된 경우 
 
 >[!CAUTION]
 >
->지금은 Marketo Dynamics _또는_ Salesforce 동기화에 대한 샌드박스 새로 고침을 지원하지 않습니다. CRM 샌드박스를 새로 고쳐야 하는 경우 새 Marketo 샌드박스가 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+>Marketo Dynamics _또는_ Salesforce 동기화에 대한 샌드박스 새로 고침은 현재 지원되지 않습니다. CRM 샌드박스를 새로 고쳐야 하는 경우 새 Marketo 샌드박스가 필요합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 ## 인스턴스 복사 {#instance-copy}
 
-샌드박스를 채울 일회성 인스턴스 사본을 요청하는 지원 사례를 제출할 수 있습니다. 그러나 인스턴스 복사는 _모든 항목_&#x200B;을 가져오지 않습니다. 자세한 내용은 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support)을 참조하십시오.
+샌드박스를 채울 일회성 인스턴스 사본을 요청하는 지원 사례를 제출할 수 있습니다. 그러나 인스턴스 복사는 _모든 항목_&#x200B;을 가져오지 않습니다. 자세한 내용은 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 >[!NOTE]
 >

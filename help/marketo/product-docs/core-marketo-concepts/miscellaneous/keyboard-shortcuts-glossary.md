@@ -1,18 +1,20 @@
 ---
 unique-page-id: 1147318
 description: 영역 탐색, 달력 등을 위한 Marketo 키보드 단축키에 대한 도움말을 봅니다. 단축키를 사용하여 Marketo Engage에서 더 빠르게 이동할 수 있습니다.
+hide: true
+hidefromtoc: true
 title: 키보드 단축키 용어집
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '129'
 ht-degree: 15%
 
 ---
 
 # 키보드 단축키 용어집 {#keyboard-shortcuts-glossary}
 
-키보드 단축키 사용자이신가요? 엄호해!
+다음 키보드 단축키를 사용하여 Marketo을 보다 빠르게 탐색할 수 있습니다.
 
 ## 영역 탐색 {#area-navigation}
 
@@ -41,4 +43,4 @@ ht-degree: 15%
 |---|---|
 | ESC | 팝업 닫기 |
 | 반환/입력 | 팝업 제출 |
-| Ctrl + Alt/Opt + H | 양식 편집기에서 필드 숨기기/숨기기 취소 |
+| Ctrl + Alt/Opt + H | 양식 편집기에서 필드 숨기기 또는 숨기기 취소 |

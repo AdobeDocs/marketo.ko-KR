@@ -4,7 +4,7 @@ description: HDTV의 프로젝트 보기에 대한 마케팅 달력 프레젠테
 title: 프레젠테이션 만들기
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 7%
@@ -36,7 +36,7 @@ ht-degree: 7%
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 
-   잘했어! 이제 프레젠테이션을 맞춤화할 준비가 되었습니다.
+   이제 프레젠테이션을 맞춤화할 준비가 되었습니다.
 
 >[!MORELIKETHIS]
 >

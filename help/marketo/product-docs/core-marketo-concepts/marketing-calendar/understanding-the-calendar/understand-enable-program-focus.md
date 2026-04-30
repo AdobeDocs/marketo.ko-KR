@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953364
 description: 프로그램 포커스를 통해 마케팅 달력 항목과 상호 작용하는 방법을 이해합니다. 프로그램에 초점을 맞추어 항목을 생성, 편집, 삭제 또는 확인할 수 있습니다.
-title: 프로그램 초점 이해/활성화
+title: 프로그램 포커스 이해 및 활성화
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 4%
+source-wordcount: '166'
+ht-degree: 0%
 
 ---
 
-# 프로그램 초점 이해/활성화 {#understand-enable-program-focus}
+# 프로그램 포커스 이해 및 활성화 {#understand-enable-program-focus}
 
 마케팅 캘린더에서는 사물을 한눈에 볼 수 있지만, 몇 가지 상호 작용도 가능합니다. 항목을 [만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [편집](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [삭제](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"} 및 [확인](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}할 수 있습니다. 항목과 상호 작용하려면 먼저 프로그램에 중점을 두어야 합니다.
 
@@ -23,7 +23,7 @@ ht-degree: 4%
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
-1. 이제 &quot;보도 자료&quot;라는 프로그램에 집중하고 있습니다.
+1. 그 프로그램은 이제 &quot;보도 자료&quot;에 초점을 맞추고 있다.
 
    ![](assets/image2014-10-20-13-3a24-3a15.png)
 
@@ -31,11 +31,11 @@ ht-degree: 4%
    >
    >프로그램에 초점을 맞추면 프로그램에 속한 항목들과만 상호 작용하고 프로그램에 의해 저장될 새 항목을 만들 수 있습니다.
 
-1. 작업이 완료되면 다른 프로그램/항목과 상호 작용하도록 포커스를 해제합니다.
+1. 작업이 완료되면 포커스를 해제하여 다른 프로그램 또는 항목과 상호 작용합니다.
 
    ![](assets/image2014-10-20-13-3a24-3a24.png)
 
-멋지다! 이제 항목을 사용하여 상호 작용하는 방법을 배웁니다.
+아래 링크를 사용하여 항목과 상호 작용하는 방법을 알아보십시오.
 
 >[!MORELIKETHIS]
 >

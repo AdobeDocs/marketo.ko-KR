@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 10%
@@ -31,7 +31,7 @@ Adobe Experience Manager(AEM)를 구성하여 AEM 에셋에 액세스하고, 선
 
    ![](assets/one.png)
 
-1. Adobe으로 로그인하거나 로컬로 로그인할 수 있습니다. 이 예에서는 로컬로 로그인합니다.
+1. Adobe으로 로그인하거나 로컬로 로그인할 수 있습니다. 이 예에서는 로컬 로그인을 사용합니다.
 
    ![](assets/two.png)
 

@@ -3,10 +3,10 @@ description: 예측 대상 모델 및 영향 요인에 대해 알아봅니다. A
 title: 모델 및 인사이트
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 3%
+source-wordcount: '227'
+ht-degree: 5%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 3%
 >
 >(+)로 표시된 행동은 예측에 긍정적인 영향을 미친다(그 반대의 경우도 가능).
 
-다음은 모델의 상태를 평가하는 방법입니다.
+다음 항목을 사용하여 모델의 상태를 평가합니다.
 
-Marketo Engage의 **[!UICONTROL Models and Data Health]** 영역에서 **[!UICONTROL Predictive Audiences]** 아래의 **[!UICONTROL Admin]** 섹션으로 이동합니다. 여기에서 모든 모델과 상태를 볼 수 있습니다.
+Marketo Engage의 **[!UICONTROL Admin]** 영역에서 **[!UICONTROL Predictive Audiences]** 아래의 **[!UICONTROL Models and Data Health]** 섹션으로 이동합니다. 모든 모델 및 해당 상태가 여기에 표시됩니다.
 
 ![이미지 하나](assets/models-and-insights-1.png)
 

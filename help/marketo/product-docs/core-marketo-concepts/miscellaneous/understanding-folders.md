@@ -3,9 +3,9 @@ unique-page-id: 4720779
 description: 스마트 캠페인 및 자산을 구성하기 위한 프로그램 내의 폴더에 대해 알아봅니다. 폴더를 만들고 이름을 바꾸고 삭제합니다.
 title: 폴더 이해
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '259'
 ht-degree: 8%
 
 ---
@@ -28,11 +28,9 @@ ht-degree: 8%
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
-잘됐네! 이제 로컬 자산을 저장할 새 폴더가 제공됩니다.
+이제 새 폴더가 로컬 자산에 대해 준비되었습니다.
 
 ## 폴더 이름 바꾸기 {#rename-a-folder}
-
-마음을 바꾸셔도 괜찮습니다.
 
 1. 폴더를 마우스 오른쪽 버튼으로 클릭하고 **[!UICONTROL Rename Folder]**&#x200B;를 선택합니다.
 

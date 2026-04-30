@@ -4,16 +4,16 @@ description: 보기 및 순환을 설정한 후 마케팅 달력 프레젠테이
 title: 프레젠테이션 시작
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 5%
+source-wordcount: '113'
+ht-degree: 6%
 
 ---
 
 # 프레젠테이션 시작 {#launch-a-presentation}
 
-프레젠테이션의 보기 횟수와 회전 빈도를 설정했으면 이제 시작할 차례입니다.
+보기 및 회전 빈도가 설정되면 프레젠테이션을 시작할 준비가 됩니다.
 
 >[!AVAILABILITY]
 >
@@ -27,7 +27,7 @@ ht-degree: 5%
 
 >[!TIP]
 >
->시작하기 전에 _프레젠테이션 미리 보기_&#x200B;를 확인하세요.
+>시작하기 전에 프레젠테이션을 미리 봅니다.
 
 1. **[!UICONTROL Launch]**&#x200B;를 클릭합니다.
 

@@ -4,9 +4,9 @@ description: 보기 및 목표가 있는 마케팅 달력 프레젠테이션을 
 title: 프레젠테이션 사용자 정의
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '273'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 2%
 
 ## 목표 추가 {#add-a-goal}
 
-프레젠테이션은 팀 목표를 표시할 때 가장 멋집니다. 다른 [사용자 지정 목표](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} 또는 [스마트 목록 목표](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"} 위로 드래그하기만 하면 됩니다. 최대 10개까지 사용할 수 있습니다.
+프레젠테이션은 팀 목표를 표시할 때 가장 효과적입니다. 다른 [사용자 지정 목표](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} 또는 [스마트 목록 목표](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"} 위로 드래그합니다. 최대 10개까지 사용할 수 있습니다.
 
 1. 오른쪽 트리에서 프레젠테이션에 표시할 다른 목표를 드래그합니다.
 
@@ -44,7 +44,7 @@ ht-degree: 2%
 
 ## 회전 빈도 설정 {#set-the-frequency-of-rotation}
 
-프레젠테이션에서 원하는 보기를 가져온 후에는 서로 다른 보기 사이에서 회전하는 빈도를 설정하십시오.
+뷰를 가져온 후 서로 다른 뷰 사이에서 회전하는 빈도를 설정합니다.
 
 1. **[!UICONTROL 5 minutes]**&#x200B;을(를) 클릭합니다(기본 케이던스).
 
@@ -66,11 +66,9 @@ ht-degree: 2%
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
-   멋지다! 프레젠테이션을 볼 준비가 되셨습니까?
-
 >[!TIP]
 >
->프레젠테이션의 [배경 이미지](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"}를 설정합니다. 우리는 새끼 고양이나 무지개를 추천합니다.
+>프레젠테이션의 [배경 이미지](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"}를 설정합니다.
 
 ## 프레젠테이션 미리 보기 {#preview-a-presentation}
 
@@ -80,11 +78,11 @@ ht-degree: 2%
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
-   짜잔! 이것이 당신의 프레젠테이션의 모습입니다.
+   이것이 당신의 프레젠테이션의 모습입니다.
 
    ![](assets/image2015-3-24-14-3a29-3a29.png)
 
-   보이는 게 마음에 안 들어? 돌아가서 다른 필터 정의를 사용하여 원하는 보기를 만듭니다.
+   보기를 조정하려면 다른 필터 정의를 사용합니다.
 
 >[!MORELIKETHIS]
 >

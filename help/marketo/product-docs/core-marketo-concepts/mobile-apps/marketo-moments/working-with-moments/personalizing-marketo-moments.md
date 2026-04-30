@@ -4,16 +4,16 @@ description: Marketo Moment를 개인화하는 방법을 알아봅니다. 모바
 title: Marketo Moments 개인화
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '150'
 ht-degree: 5%
 
 ---
 
 # Marketo Moments 개인화 {#personalizing-marketo-moments}
 
-많은 마케팅 프로그램과 스마트 캠페인이 진행 중인 경우, 모든 것을 볼 수 있어 좋지만 자신의 작업에만 집중할 수도 있습니다.
+많은 마케팅 프로그램과 스마트 캠페인이 진행될 때, 자신의 업무에만 집중하는 것이 도움이 됩니다.
 
 >[!IMPORTANT]
 >

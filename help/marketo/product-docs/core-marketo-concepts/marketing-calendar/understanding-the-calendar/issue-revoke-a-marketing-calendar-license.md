@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147255
 description: 사용자에 대한 마케팅 캘린더 라이선스를 발급하거나 취소하는 방법에 대해 알아봅니다. 캘린더 액세스 권한을 부여하거나 제거합니다.
-title: 마케팅 캘린더 라이선스 발급/취소
+title: 마케팅 달력 라이선스 문제 또는 취소
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 18%
+source-wordcount: '99'
+ht-degree: 4%
 
 ---
 
-# 마케팅 캘린더 라이선스 발급/취소 {#issue-revoke-a-marketing-calendar-license}
+# 마케팅 달력 라이선스 문제 또는 취소 {#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-[마케팅 일정](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} 시트를 사용하려면 액세스 권한이 필요한 사용자에게 라이선스를 발급해야 합니다. 방법은 다음과 같습니다.
+[마케팅 일정](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} 시트를 사용하려면 액세스 권한이 필요한 사용자에게 라이선스를 발급해야 합니다.
 
 1. **[!UICONTROL Admin]** 섹션으로 이동합니다.
 
@@ -43,6 +43,6 @@ ht-degree: 18%
 
    ![](assets/4.png)
 
-   잘했어! &#39;[!UICONTROL Calendar]&#39; 아래의 녹색 확인 표시를 확인합니다.
+   이제 녹색 확인 표시가 &#39;[!UICONTROL Calendar]&#39; 아래에 나타납니다.
 
    ![](assets/5.png)

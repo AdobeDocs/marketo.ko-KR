@@ -3,16 +3,16 @@ unique-page-id: 2952484
 description: Marketo Engage에서 폴더, 프로그램 및 로컬 에셋의 이름을 바꾸는 방법에 대해 알아봅니다.
 title: Marketo 자산 이름 바꾸기
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '84'
 ht-degree: 10%
 
 ---
 
 # Marketo 자산 이름 바꾸기 {#rename-a-marketo-asset}
 
-폴더, 프로그램 및 로컬 에셋의 이름은 모두 쉽게 변경할 수 있습니다.
+폴더, 프로그램 및 로컬 에셋의 이름을 모두 변경할 수 있습니다.
 
 1. 이름을 바꿀 에셋을 선택하고 오른쪽 패널 이름 블록을 클릭합니다.
 
