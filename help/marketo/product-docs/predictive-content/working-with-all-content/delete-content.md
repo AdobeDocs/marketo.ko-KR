@@ -4,10 +4,10 @@ description: 더 이상 추적할 필요가 없을 때 모든 컨텐츠 페이�
 title: 콘텐츠 삭제
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 13%
+ht-degree: 14%
 
 ---
 
@@ -22,5 +22,3 @@ ht-degree: 13%
 1. **[!UICONTROL Content Actions]** 드롭다운을 클릭하고 **[!UICONTROL Delete Content]**&#x200B;를 선택합니다.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
-
-   다 됐습니다.

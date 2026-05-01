@@ -3,9 +3,9 @@ description: Marketo에서 대화형 웨비나를 시작합니다. 대화형 웨
 title: 대화형 웨비나 시작하기
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '302'
 ht-degree: 3%
 
 ---
@@ -24,13 +24,11 @@ ht-degree: 3%
 
 **3단계(선택 사항)**: [웨비나 팀 추가](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}{target="_blank"} — 웨비나를 직접 호스팅할 계획이 없는 경우 발표자 및 공동 호스트를 추가하여 호스팅/프레젠테이션 의무를 공유하는 방법을 알아보세요.
 
-**4단계**: [대화형 웨비나 디자인](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} — 웨비나가 만들어지고 선택적 팀이 추가되면 사용자의 특정 요구 사항에 맞게 이벤트를 조정할 차례입니다.
+**4단계**: [대화형 웨비나 디자인](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} — 웨비나가 만들어지고 선택적 팀이 추가되면 사용자의 특정 요구 사항에 맞게 이벤트를 조정할 수 있습니다.
 
 **5단계**: [웨비나 홍보](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} - 예정된 이벤트를 홍보하는 방법에 대한 중요한 팁을 알아봅니다.
 
 **6단계**: [대화형 웨비나 게재](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} — 웨비나 발표에 대해 알아야 할 모든 사항.
-
-다 됐습니다!
 
 ## 추가 설명서 {#additional-documentation}
 

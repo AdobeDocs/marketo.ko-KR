@@ -4,10 +4,10 @@ description: 계정 트리거를 사용하여 계정 수준 동작 활동을 수
 title: 계정 트리거
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 5%
+source-wordcount: '109'
+ht-degree: 3%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 
 ![](assets/two-1.png)
 
-원하는 트리거를 캔버스로 드래그합니다. 이 예제에서는 _[!UICONTROL Added to Named Account]_&#x200B;을(를) 사용합니다.
+원하는 트리거를 캔버스로 드래그합니다. 이 예제에서는 _[!UICONTROL Added to Named Account]_을(를) 사용합니다.
 
 ![](assets/three-1.png)
 
@@ -39,7 +39,7 @@ ht-degree: 5%
 
 ![](assets/six-1.png)
 
-됐습니다. 스마트 캠페인의 나머지 부분을 완료한 후 활성화해야 합니다.
+스마트 캠페인의 나머지 부분을 완료한 후 반드시 활성화하십시오.
 
 >[!MORELIKETHIS]
 >

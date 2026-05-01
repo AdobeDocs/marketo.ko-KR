@@ -4,10 +4,10 @@ description: 더 이상 필요하지 않은 세그먼테이션을 삭제하는 �
 title: 세분화 삭제
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 5%
+source-wordcount: '95'
+ht-degree: 6%
 
 ---
 
@@ -36,5 +36,3 @@ ht-degree: 5%
 1. 승인되지 않으면 **[!UICONTROL Segmentation Actions]** 및 [!UICONTROL Delete] 세분화를 클릭합니다.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
-
-다 됐습니다. 다시 가져올 수 없으니 필요 없도록 하세요.

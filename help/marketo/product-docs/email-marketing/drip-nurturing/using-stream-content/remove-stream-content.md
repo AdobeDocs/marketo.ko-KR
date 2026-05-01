@@ -4,10 +4,10 @@ description: 기록을 보존할 필요가 없을 때 스트림 콘텐츠를 제
 title: 스트림 콘텐츠 제거
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 8%
+source-wordcount: '121'
+ht-degree: 6%
 
 ---
 
@@ -31,4 +31,4 @@ ht-degree: 8%
    >
    >기록에 관심이 없는 경우에만 콘텐츠를 제거합니다. 기록을 유지하려면 [보관](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)하세요.
 
-   됐습니다. 이제 콘텐츠 일부를 제거하는 방법을 이해할 수 있습니다.
+   이제 콘텐츠 일부를 제거하는 방법을 이해할 수 있습니다.

@@ -4,10 +4,10 @@ description: 캠페인을 템플릿으로 저장을 포함하여 Marketo Engage�
 title: 캠페인을 템플릿으로 저장
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 15%
+source-wordcount: '104'
+ht-degree: 13%
 
 ---
 
@@ -31,6 +31,6 @@ ht-degree: 15%
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 
-1. 됐습니다. 다음에 캠페인을 만들고 템플릿을 선택하면 캠페인 설정 페이지에서 [!UICONTROL My Templates]을(를) 선택하여 저장한 템플릿을 확인합니다.
+1. 다음에 캠페인을 만들고 템플릿을 선택하면 캠페인 설정 페이지에서 [!UICONTROL My Templates]을(를) 선택하여 저장한 템플릿을 확인합니다.
 
    ![](assets/image2014-9-17-20-3a55-3a31.png)

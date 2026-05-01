@@ -4,10 +4,10 @@ description: 흐름 단계를 통해 Salesforce 캠페인에서 사람을 제거
 title: SFDC 캠페인에서 제거
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 8%
+source-wordcount: '116'
+ht-degree: 6%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 8%
    >
    >사용자 또는 잠재 고객이 선택한 캠페인의 구성원이 아닌 경우 건너뜁니다.
 
-됐습니다. 사람 또는 잠재 고객이 통과하면 선택한 [!DNL Salesforce] 캠페인에서 제거됩니다.
+사람 또는 잠재 고객이 통과하면 선택한 [!DNL Salesforce] 캠페인에서 제거됩니다.

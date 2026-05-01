@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '113'
 ht-degree: 7%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 7%
 
    ![](assets/setting-event-goals-3.png)
 
-1. [!UICONTROL Registered]을(를) 클릭하여 **[!UICONTROL Set a goal]**&#x200B;의 목표를 입력하십시오. 에 숫자를 입력하고 enter 키를 누릅니다.
+1. **[!UICONTROL Set a goal]**&#x200B;을(를) 클릭하여 [!UICONTROL Registered]의 목표를 입력하십시오. 에 숫자를 입력하고 enter 키를 누릅니다.
 
    ![](assets/setting-event-goals-4.png)
 
@@ -46,4 +46,4 @@ ht-degree: 7%
 >
 >이벤트가 시작된 후에는 이벤트에 대한 목표를 설정할 수 없습니다.
 
-다 됐습니다! [!UICONTROL Reports] 탭을 클릭하여 이벤트 목표 상태를 확인합니다.
+[!UICONTROL Reports] 탭을 클릭하여 이벤트 목표 상태를 확인합니다.

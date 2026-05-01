@@ -4,10 +4,10 @@ description: 보고서 열을 새 위치로 끌어다 놓아 순서를 변경하
 title: 보고서 열 재정렬
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 7%
+source-wordcount: '105'
+ht-degree: 5%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 7%
 
    ![](assets/image2014-9-16-10-3a50-3a34.png)
 
-1. 됐습니다. 이제 열이 새 순서로 나타납니다.
+1. 이제 열이 새 순서로 나타납니다.
 
    ![](assets/image2014-9-16-10-3a50-3a37.png)
 

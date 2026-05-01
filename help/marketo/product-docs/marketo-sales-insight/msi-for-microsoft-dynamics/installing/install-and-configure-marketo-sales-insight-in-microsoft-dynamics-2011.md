@@ -4,14 +4,14 @@ description: Microsoft Dynamics 2011에서 Marketo Sales Insight을 설치하고
 title: Microsoft Dynamics 2011에 Marketo Sales Insight 설치 및 구성
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '330'
 ht-degree: 6%
 
 ---
 
-# [!DNL Marketo Sales Insight]에서 [!DNL Microsoft Dynamics 2011] 설치 및 구성 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
+# [!DNL Microsoft Dynamics 2011]에서 [!DNL Marketo Sales Insight] 설치 및 구성 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 [!DNL Marketo Sales Insight]은(는) 영업팀에게 훌륭한 도구입니다. 다음은 [!DNL Microsoft Dynamics 2011] 온-프레미스에서 설치 및 구성 방법에 대한 단계별 지침입니다.
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 >
 >Marketo-Microsoft 통합을 완료합니다.
 >
->[&#x200B; CRM 버전에 대해 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)올바른 솔루션을 다운로드하십시오[!DNL Microsoft Dynamics].
+>[!DNL Microsoft Dynamics] CRM 버전에 대해 [올바른 솔루션을 다운로드하십시오](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md).
 
 ## 솔루션 가져오기 {#import-solution}
 
@@ -39,7 +39,7 @@ ht-degree: 6%
    >
    >계속 진행하기 전에 이미 Marketo 솔루션을 [설치 및 구성](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)해야 합니다.
 
-1. **[!UICONTROL Browse]**&#x200B;를 클릭합니다. [!DNL Marketo Sales Insight]다운로드한[에서 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Browse]**&#x200B;를 클릭합니다. [다운로드한](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)에서 [!DNL Marketo Sales Insight] 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -143,11 +143,9 @@ ht-degree: 6%
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
-   다 됐습니다! 이제 액세스 권한이 있는 모든 사용자가 잠재 고객/연락처 세부 정보 보기에서 판매 insight 섹션을 볼 수 있습니다.
+   이제 액세스 권한이 있는 모든 사용자가 잠재 고객/연락처 세부 정보 보기에서 판매 insight 섹션을 볼 수 있습니다.
 
    ![](assets/image2015-5-4-11-3a39-3a23.png)
-
-   축하합니다. 이제 [!DNL Marketo Sales Insight]의 기능을 해제했습니다.
 
 >[!MORELIKETHIS]
 >

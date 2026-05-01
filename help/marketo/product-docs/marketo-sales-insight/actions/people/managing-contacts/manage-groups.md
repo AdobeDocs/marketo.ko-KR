@@ -3,9 +3,9 @@ description: 판매 Insight 작업에서 연락처 그룹을 관리하는 방법
 title: 그룹 관리
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '324'
 ht-degree: 3%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 3%
   </tr>
   <tr>
    <td>[!UICONTROL Dynamic Groups]</td>
-   <td>내 연락처: 사용자가 소유한 모든 연락처.<br>구독 취소: 서신 수신을 옵트아웃한 연락처.</td>
+   <td>내 연락처: 회원님이 소유한 모든 연락처.<br>구독 취소: 편지 수신을 옵트아웃한 연락처.</td>
   </tr>
   <tr>
    <td>[!UICONTROL My Groups]</td>
@@ -47,15 +47,13 @@ ht-degree: 3%
 
 ## 그룹 만들기 {#create-a-group}
 
-1. [!UICONTROL People] 페이지에서 **옆에 있는**+[!UICONTROL Groups]을(를) 클릭합니다.
+1. [!UICONTROL People] 페이지에서 [!UICONTROL Groups] 옆에 있는 **+**&#x200B;을(를) 클릭합니다.
 
    ![](assets/manage-groups-1.png)
 
 1. 그룹 이름을 지정하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/manage-groups-2.png)
-
-   다 됐습니다!
 
 ## 그룹에 연락처 추가 {#add-contacts-to-a-group}
 

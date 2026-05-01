@@ -4,10 +4,10 @@ description: Marketo의 랜딩 페이지 성능 보고서에 대해 알아봅니
 title: 랜딩 페이지 성과 보고서
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 4%
+source-wordcount: '212'
+ht-degree: 3%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->스마트 목록과 랜딩 페이지 성과 보고서 간에 숫자가 일치하지 않는 경우, 스마트 목록은 사람에 대한 데이터만 필터링하지만, 랜딩 페이지 성과 보고서에는 사람 데이터 외에 소셜(Facebook, Google 광고 등) 및 익명 활동이 포함되기 때문일 수 있습니다.
+>스마트 목록과 랜딩 페이지 성과 보고서 간에 숫자가 일치하지 않는 경우, 스마트 목록은 사람에 대한 데이터만 필터링하지만, 랜딩 페이지 성과 보고서에는 소셜(Facebook, Google 광고 등)이 포함되어 있기 때문일 수 있습니다. 및 People 데이터 외에 익명 활동.
 
 1. [보고서를 만들고](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) [!UICONTROL Landing Page Performance] [보고서 형식](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)을(를) 선택하십시오.
 1. [보고서의 시간대를 설정](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)하고 [!UICONTROL Report] 탭을 클릭합니다.
-1. 됐습니다. 보고서를 탐색하여 랜딩 페이지의 성능을 평가합니다.
+1. 보고서를 탐색하여 랜딩 페이지의 성능을 평가합니다.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
 

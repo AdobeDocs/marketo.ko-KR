@@ -4,9 +4,9 @@ description: 계정 팀에 대한 주간 TAM 판매 보고서 이메일을 설�
 title: TAM 보고서 설정
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '167'
 ht-degree: 6%
 
 ---
@@ -48,8 +48,6 @@ TAM Sales Report 는 계정 팀에게 매주 전송되는 개인화된 이메일
 1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/seven-2.png)
-
-다 됐습니다!
 
 ## 구독을 취소하는 방법 {#how-to-unsubscribe}
 

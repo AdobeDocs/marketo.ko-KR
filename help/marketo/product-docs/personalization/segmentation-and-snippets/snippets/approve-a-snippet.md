@@ -4,10 +4,10 @@ description: 이메일 및 랜딩 페이지에서 사용할 수 있도록 코드
 title: 스니펫 승인
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 11%
+source-wordcount: '71'
+ht-degree: 8%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 11%
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
-됐습니다. 코드 조각의 상태가 초안에서 승인됨으로 변경됩니다.
+코드 조각의 상태가 초안에서 승인됨으로 변경됩니다.
 
 >[!MORELIKETHIS]
 >

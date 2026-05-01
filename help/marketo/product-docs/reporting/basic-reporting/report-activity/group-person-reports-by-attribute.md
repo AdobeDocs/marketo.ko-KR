@@ -4,10 +4,10 @@ description: 속성별 그룹 개인 보고서를 포함하여 Marketo Engage에
 title: 속성별 그룹 사용자 보고서
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 9%
+ht-degree: 7%
 
 ---
 
@@ -37,9 +37,9 @@ ht-degree: 9%
 
    >[!TIP]
    >
-   >숫자 값이 있는 특성(예: _[!UICONTROL Created At]_&#x200B;또는&#x200B;_[!UICONTROL Annual Revenue]_)을 선택하는 경우 오른쪽의 **[!UICONTROL Units]** 드롭다운에서 지표를 선택합니다.
+   >숫자 값이 있는 특성(예: _[!UICONTROL Created At]_또는_[!UICONTROL Annual Revenue]_)을 선택하는 경우 오른쪽의 **[!UICONTROL Units]** 드롭다운에서 지표를 선택합니다.
 
-   됐습니다. 보고서를 그룹화하려면 **[!UICONTROL Report]** 탭을 클릭하십시오.
+   보고서를 그룹화하려면 **[!UICONTROL Report]** 탭을 클릭하십시오.
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 
