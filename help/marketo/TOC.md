@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
+source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9236'
 ht-degree: 99%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 99%
       + [시스템 상태 알림 구독](getting-started/things-to-know/system-status-notifications.md)
       + [제품 지식을 위한 AI Assistant](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [마케팅 국가 커뮤니티](getting-started/things-to-know/community.md)
+      + [AWS 마이그레이션](getting-started/things-to-know/aws-migration.md)
    + 빠른 성공 {#quick-wins}
       + [설정 및 사용자 추가](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [이메일 보내기](getting-started/quick-wins/send-an-email.md)
@@ -121,7 +122,7 @@ ht-degree: 99%
          + [스마트 캠페인에 대한 개인 제한 활성화](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [캠페인 수준 이메일 열람 추적](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
          + [이메일 봇 활동 필터링](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [구독 취소 텍스트 제거](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [구독 취소 텍스트 제거](product-docs/administration/email-setup/remove-unsubscribe-text.md)
       + 필드 관리 {#field-management}
          + [신뢰할 수 없는 소스에서 목록 가져오기 중 블록 필드 업데이트](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [필드에 대한 블록 업데이트](product-docs/administration/field-management/block-updates-to-a-field.md)
@@ -1306,22 +1307,13 @@ ht-degree: 99%
          + [Salesforce와 알림 작업 동기화](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [Sales Connect 작업을 Salesforce와 처음 동기화](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + 템플릿 {#templates}
-         + [템플릿에 자동 구독 취소 추가](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
+         + [템플릿 관리](product-docs/marketo-sales-connect/templates/manage-templates.md)
          + [하이퍼링크된 텍스트 추가](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [템플릿 보관](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [새 카테고리 만들기](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
-         + [새 템플릿 만들기](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
-         + [템플릿 보기 맞춤화](product-docs/marketo-sales-connect/templates/customize-template-view.md)
-         + [템플릿 카테고리 삭제](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
-         + [템플릿 삭제](product-docs/marketo-sales-connect/templates/delete-a-template.md)
-         + [템플릿 카테고리 편집](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [템플릿 즐겨찾기](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
-         + [카테고리 병합 및 중복 제거](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [추천 템플릿](product-docs/marketo-sales-connect/templates/recommended-templates.md)
-         + [공유 템플릿](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [템플릿 참여](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [HTML 사용](product-docs/marketo-sales-connect/templates/using-html.md)
          + [다른 사용자로 템플릿 목록 보기](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
+         + [템플릿 카테고리 관리](product-docs/marketo-sales-connect/templates/manage-template-categories.md)
          + 동적 필드 {#dynamic-fields}
             + [사용자 정의 동적 필드 만들기](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [동적 필드 용어집](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
