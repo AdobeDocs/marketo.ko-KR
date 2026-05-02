@@ -121,4 +121,4 @@ Marketo에서 가장 유용한 기능 중 하나는 프로그램을 복제하는
 
 ## 요약 {#summary}
 
-보시다시피 Marketo에 힘이 많이 들어가 있습니다. 기본 사항은 여기에서 다루지만 [Marketo Engage 전문가](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}의 추가 서비스를 참고하여 세부 조정하고 성공을 위한 준비를 하십시오.
+보시다시피 Marketo에 힘이 많이 들어가 있습니다. 기본 사항은 여기에서 다루지만 [Marketo Engage 전문가](https://business.adobe.com/kr/products/marketo/services-support.html){target="_blank"}의 추가 서비스를 참고하여 세부 조정하고 성공을 위한 준비를 하십시오.
