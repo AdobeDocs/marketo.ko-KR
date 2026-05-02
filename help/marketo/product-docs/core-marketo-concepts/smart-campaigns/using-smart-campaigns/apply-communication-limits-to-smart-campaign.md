@@ -4,9 +4,9 @@ description: Smart Campaign에 통신 제한을 적용하는 방법을 알아봅
 title: 스마트 캠페인에 커뮤니케이션 제한 적용
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '140'
 ht-degree: 8%
 
 ---
@@ -39,4 +39,4 @@ ht-degree: 8%
 >
 >이를 기본값으로 설정하려면 관리 섹션에서 [통신 제한](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}을(를) 편집하세요.
 
-이제 대상자에게 실수로 너무 많은 이메일을 보내지 않는다는 것을 확신할 수 있습니다.
+이제 실수로 너무 많은 이메일을 대상자에게 보내지 않는다고 확신할 수 있습니다.

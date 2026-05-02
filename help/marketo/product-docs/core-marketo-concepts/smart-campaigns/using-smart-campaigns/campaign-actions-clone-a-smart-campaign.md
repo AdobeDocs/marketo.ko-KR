@@ -4,9 +4,9 @@ description: Smart Campaign을 복제하는 방법을 알아봅니다. 캠페인
 title: Campaign 작업 - 스마트 캠페인 복제
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '88'
 ht-degree: 6%
 
 ---
@@ -26,5 +26,3 @@ ht-degree: 6%
 1. **[!UICONTROL Program]** 선택. **[!UICONTROL Campaign Name]**&#x200B;을(를) 입력하고 **[!UICONTROL Clone]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/campaign-actions-clone-a-smart-campaign-3.png)
-
-완료되었습니다!

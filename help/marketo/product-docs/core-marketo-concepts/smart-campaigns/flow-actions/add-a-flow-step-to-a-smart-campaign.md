@@ -4,9 +4,9 @@ description: Smart Campaign에 흐름 단계를 추가하는 방법을 알아봅
 title: 스마트 캠페인에 플로우 단계 추가
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '174'
 ht-degree: 10%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 10%
 >
 >잘못된 항목이 있는 경우 빨간색 물결 모양 줄이 나타납니다. 마우스를 라인 위로 가져가면 수정 방법을 확인할 수 있습니다.
 
-멋지다! 예약하거나 활성화하기 전에 [스마트 캠페인을 검토하고 확인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"}하세요.
+예약하거나 활성화하기 전에 [스마트 캠페인을 검토하고 확인](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"}하세요.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: 흐름 단계를 통해 Salesforce 캠페인에 사용자를 추가
 title: SFDC 캠페인에 추가
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 4%
 
 ---

@@ -4,16 +4,16 @@ description: Smart Campaign에서 자격 규칙을 편집하는 방법을 알아
 title: 스마트 캠페인에서 자격 규칙 편집
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '188'
 ht-degree: 7%
 
 ---
 
 # 스마트 캠페인에서 자격 규칙 편집 {#edit-qualification-rules-in-a-smart-campaign}
 
-자격 규칙은 스마트 캠페인에서 누군가가 플로우를 통해 실행할 수 있는 횟수를 제어합니다. 기본적으로 어떤 사용자가 Smart Campaign을 여러 번 트리거하더라도 흐름은 한 번만 전송됩니다. 이러한 설정을 수정하는 방법은 다음과 같습니다.
+자격 규칙은 스마트 캠페인에서 누군가가 플로우를 통해 실행할 수 있는 횟수를 제어합니다. 기본적으로 어떤 사용자가 Smart Campaign을 여러 번 트리거하더라도 흐름은 한 번만 전송됩니다.
 
 1. 스마트 캠페인에서 **[!UICONTROL Schedule]** 탭을 클릭한 다음 **[!UICONTROL Edit Settings]**&#x200B;을(를) 클릭합니다.
 

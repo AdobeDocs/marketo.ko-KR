@@ -3,9 +3,9 @@ description: 프로그램의 로컬 자산 만료에 대해 알아봅니다. 프
 title: 로컬 자산 만료
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '251'
 ht-degree: 6%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 6%
 
    ![](assets/local-asset-expiration-6.png)
 
-1. 시간을 설정합니다. 미래 시간으로 최소 15분 시간을 예약해야 합니다(오전/오후 입장 잊지 마십시오). 완료되면 **[!UICONTROL Confirm]**&#x200B;를 클릭합니다.
+1. 시간을 설정합니다. 앞으로 최소 15분 동안 시간을 예약해야 합니다(오전/오후 시작). 완료되면 **[!UICONTROL Confirm]**&#x200B;를 클릭합니다.
 
    ![](assets/local-asset-expiration-7.png)
 

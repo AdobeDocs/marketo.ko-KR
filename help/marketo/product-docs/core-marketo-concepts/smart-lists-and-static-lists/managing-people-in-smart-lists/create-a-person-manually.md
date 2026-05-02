@@ -4,16 +4,16 @@ description: 데이터베이스에서 개인을 수동으로 만드는 방법을
 title: 사용자 수동으로 만들기
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '68'
 ht-degree: 11%
 
 ---
 
 # 사용자 수동으로 만들기 {#create-a-person-manually}
 
-Marketo Engage에 사용자를 초대하는 방법에는 여러 가지가 있습니다. 수동으로 만들어야 하는 경우 방법은 다음과 같습니다.
+Marketo Engage에 사용자를 초대하는 방법에는 여러 가지가 있습니다. 수동으로 만들려면 아래 단계를 수행하십시오.
 
 >[!CAUTION]
 >

@@ -4,10 +4,10 @@ description: Smart Campaign 검사 목록에 대한 도움말을 확인합니다
 title: 스마트 캠페인 체크리스트
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 3%
+source-wordcount: '245'
+ht-degree: 2%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 3%
 >
 >빨간색 구불구불한 선은 오류나 누락된 정보를 나타냅니다. 수정하지 않으면 캠페인이 유효하지 않고 실행되지 않습니다.
 >
->또한, 일을 간단하게 하세요. 수십, 수백 개의 필터를 가지고 있으면 유지와 추적이 어렵다. 적은 수의 필터도 로드하는 것이 더 빠릅니다.
+>또한, 일을 간단하게 하세요. 필터를 수십, 수백 개 보유하고 있다면 유지 및 추적이 어렵다. 적은 수의 필터도 로드하는 것이 더 빠릅니다.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ ht-degree: 3%
 
 ## 개인 제한 사항 확인 {#check-person-restrictions-limit}
 
-**[!UICONTROL Schedule]** 탭에서 자격이 있는 사람의 수가 개인 제한 한도를 초과하지 않도록 합니다.
+**[!UICONTROL Schedule]** 탭에서 자격 있는 사람의 수가 개인 제한 한도를 초과하지 않는지 확인하십시오.
 
 ![](assets/smart-campaign-checklist-4.png)
 
@@ -63,4 +63,4 @@ ht-degree: 3%
 >
 >Smart Campaign이 계속 실패하는 경우 [알림을 이해](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)하여 무엇이 잘못되었는지 파악하고 이를 수정하는 방법을 알아보십시오.
 
-좋습니다! 스마트 캠페인을 실행하기 전에 이 체크리스트를 가까이 유지하십시오.
+스마트 캠페인을 실행하기 전에 이 체크리스트를 가까이 유지하십시오.

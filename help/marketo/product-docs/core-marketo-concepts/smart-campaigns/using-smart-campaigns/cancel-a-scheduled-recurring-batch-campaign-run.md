@@ -4,16 +4,16 @@ description: 예약된 반복 배치 캠페인 실행을 취소하는 방법을 
 title: 예약된 반복 배치 캠페인 실행 취소
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 13%
+source-wordcount: '122'
+ht-degree: 12%
 
 ---
 
 # 예약된 반복 배치 캠페인 실행 취소 {#cancel-a-scheduled-recurring-batch-campaign-run}
 
-더 이상 원하지 않는 반복 배치 캠페인이 있는 경우 향후 실행을 취소할 수 있습니다. 방법은 다음과 같습니다.
+더 이상 원하지 않는 반복 배치 캠페인이 있는 경우 향후 실행을 취소할 수 있습니다.
 
 1. 스마트 캠페인을 선택하고 **일정** 탭을 클릭합니다.
 

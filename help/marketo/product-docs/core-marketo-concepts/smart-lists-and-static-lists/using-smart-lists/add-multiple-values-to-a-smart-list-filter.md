@@ -4,9 +4,9 @@ description: 스마트 목록 필터에 여러 값을 추가하는 방법을 알
 title: 스마트 목록 필터에 여러 값 추가
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '132'
 ht-degree: 13%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 13%
 >* [스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [스마트 목록에 필터 찾기 및 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-캘리포니아에 있는 모든 사람을 찾고 싶지만 데이터베이스에 &quot;California&quot;와 &quot;CA&quot;를 모두 저장할 수 있습니다. 적용 가능한 모든 사람을 포함하려면 두 개의 [!UICONTROL State] 필터를 사용할 수 있지만 한 개의 필터로 더 쉽게 만들 수 있습니다.
+California에서 모든 사람을 찾고 싶지만 데이터베이스에 &quot;California&quot;와 &quot;CA&quot;를 모두 저장할 수 있다고 가정합니다. 적용 가능한 모든 사람을 포함하려면 두 개의 [!UICONTROL State] 필터를 사용할 수 있지만 한 개의 필터로 더 쉽게 만들 수 있습니다.
 
 1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
@@ -36,7 +36,6 @@ ht-degree: 13%
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-4.png)
 
-빨리 해!
 
 >[!MORELIKETHIS]
 >

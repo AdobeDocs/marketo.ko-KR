@@ -4,9 +4,9 @@ description: 스마트 캠페인 흐름 단계에서 필드 값을 지우는 방
 title: 필드 값 지우기
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '103'
 ht-degree: 5%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 5%
 
    >[!CAUTION]
    >
-   >새 값을 비워 두거나 단순히 SPACE를 입력해도 필드가 실제로 비어 있지 않습니다. NULL을 입력해야 합니다. 또한, 플로우 단계는 실행 후 실행 취소할 수 없습니다.
+   >새 값을 비워 두거나 SPACE를 입력하면 필드가 실제로 비어 있지 않습니다. NULL을 입력해야 합니다. 또한 실행 후에는 플로우 단계를 실행 취소할 수 없습니다.

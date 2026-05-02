@@ -4,16 +4,16 @@ description: 목록 또는 스마트 목록을 새로 고치는 방법에 대해
 title: 목록 또는 스마트 목록 새로 고침
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '148'
 ht-degree: 8%
 
 ---
 
 # 목록 또는 스마트 목록 새로 고침 {#refresh-a-list-or-smart-list}
 
-Smart List를 실행하고 몇 분 정도 지난 경우 결과가 지금 달라질 수 있습니다. 확인하려면 새로 고침하십시오.
+스마트 목록을 실행하고 몇 분이 지난 경우 결과가 지금 달라질 수 있습니다. 확인하려면 새로 고침하십시오.
 
 ## 결과 새로 고침 {#refresh-results}
 

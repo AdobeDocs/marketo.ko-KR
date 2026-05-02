@@ -4,16 +4,16 @@ description: 스마트 목록 또는 정적 목록에서 사람을 삭제하는 
 title: 스마트 목록 또는 목록에서 사용자 삭제
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '274'
 ht-degree: 7%
 
 ---
 
 # 스마트 목록 또는 목록에서 사용자 삭제 {#delete-people-in-a-smart-list-or-list}
 
-목록 또는 스마트 목록에 있는 일부/모든 사람을 빠르고 쉽게 삭제할 수 있습니다.
+목록 또는 스마트 목록에 있는 일부 또는 모든 사람을 삭제할 수 있습니다.
 
 >[!PREREQUISITES]
 >
@@ -67,4 +67,4 @@ ht-degree: 7%
    >
    >대량 삭제 결과를 보려면 화면 오른쪽 상단의 단일 흐름 작업 팝업 상자에서 **[!UICONTROL View Results]**&#x200B;을(를) 클릭합니다. 삭제 시간은 여러 요인에 따라 크게 달라질 수 있습니다.
 
-   이것은 아주 좋은 기능입니다. 사용할 때 주의하세요!
+   이 기능은 주의해서 사용하십시오.

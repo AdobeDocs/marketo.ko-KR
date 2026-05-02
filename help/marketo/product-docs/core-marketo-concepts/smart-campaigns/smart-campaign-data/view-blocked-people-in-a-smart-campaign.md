@@ -4,16 +4,16 @@ description: Smart Campaign에서 차단된 사용자를 보는 방법을 알아
 title: 스마트 캠페인에서 차단된 사용자 보기
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 11%
 
 ---
 
 # 스마트 캠페인에서 차단된 사용자 보기 {#view-blocked-people-in-a-smart-campaign}
 
-Marketo Engage 데이터베이스에서 차단된 사람은 차단 목록에 추가된, 구독 취소, 마케팅 중단 등으로 표시되거나 이메일이 잘못되었거나 비어 있습니다.
+Marketo Engage 데이터베이스에서 차단된 사용자는 차단 목록에 추가된, 구독 취소, 마케팅 중단 등으로 표시되거나 이메일이 잘못되었거나 비어 있습니다.
 
 1. 스마트 캠페인에서 **[!UICONTROL Schedule]**&#x200B;을(를) 클릭합니다. **[!UICONTROL Smart List Status]**&#x200B;에서 두 번째 링크를 클릭합니다.
 

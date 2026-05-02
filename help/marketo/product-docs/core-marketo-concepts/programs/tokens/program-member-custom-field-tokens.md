@@ -4,9 +4,9 @@ description: 프로그램 멤버 사용자 지정 필드 토큰에 대해 알아
 title: 프로그램 멤버 사용자 정의 필드 토큰
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '423'
 ht-degree: 5%
 
 ---
@@ -51,7 +51,7 @@ PMCF 토큰은 토큰 계열의 멤버 도메인에서 지원됩니다.
 
 >[!NOTE]
 >
->이메일 승인 잊지 마세요.
+>전자 메일을 승인하는 것을 잊지 마십시오.
 
 **랜딩 페이지**
 

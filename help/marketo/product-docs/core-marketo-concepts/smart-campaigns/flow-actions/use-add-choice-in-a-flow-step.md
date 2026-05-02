@@ -4,7 +4,7 @@ description: 흐름 단계에서 선택 항목 추가를 사용하는 방법을 
 title: 플로우 단계에서 선택 항목 추가 사용
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 6%
@@ -51,7 +51,7 @@ ht-degree: 6%
    >
    >첫 번째 일치 선택 사항만 흐름 단계에 적용됩니다. [흐름 작업에서 &quot;선택 항목 추가&quot;를 다시 정렬하는 방법](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}을 알아보세요.
 
-   잘됐네! 이제 각 선택 사항에 대해 여러 개의 스마트 캠페인을 만드는 대신 흐름 단계 선택 사항을 사용하여 단일 스마트 캠페인을 만들 수 있습니다.
+   이제 각 선택 사항에 대해 여러 개의 스마트 캠페인을 만드는 대신 흐름 단계 선택 사항을 사용하여 단일 스마트 캠페인을 만들 수 있습니다.
 
    >[!MORELIKETHIS]
    >

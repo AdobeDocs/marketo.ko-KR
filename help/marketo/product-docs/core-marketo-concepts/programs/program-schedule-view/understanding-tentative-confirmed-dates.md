@@ -4,9 +4,9 @@ description: 프로그램 일정 보기에서 잠정 및 확정된 날짜에 대
 title: 잠정적/확정 날짜 이해
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '207'
 ht-degree: 4%
 
 ---
@@ -47,8 +47,8 @@ ht-degree: 4%
 
 ## 완료됨  {#finished}
 
-완료된 항목이 이미 실행되었습니다. 과거에만 있을 수 있습니다(분명히). 항목이 실행되어 **[!UICONTROL Finished]**&#x200B;이(가) 되면 이동하거나 미정으로 설정할 수 없습니다. (변화하는 현실과 시간 흐름의 연속성을 방해하는 것은 없다.)
+완료된 항목이 이미 실행되었습니다. 과거에만 있을 수 있습니다. 항목이 실행되어 **[!UICONTROL Finished]**&#x200B;이(가) 되면 이동하거나 미정으로 설정할 수 없습니다.
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
-이러한 상태는 강력한 도구입니다. 프로그램을 복제하면 모든 스마트 캠페인 및 이메일 프로그램 날짜가 잠정적으로 표시됩니다. 모두 일정 보기에서 바로 확인할 수 있습니다. 멋지지?
+이러한 상태는 강력한 도구입니다. 프로그램을 복제하면 모든 스마트 캠페인 및 이메일 프로그램 날짜가 잠정적으로 표시됩니다. 모두 일정 보기에서 바로 확인할 수 있습니다.

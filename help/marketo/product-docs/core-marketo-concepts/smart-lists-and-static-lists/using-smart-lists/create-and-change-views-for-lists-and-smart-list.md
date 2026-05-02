@@ -4,20 +4,20 @@ description: 목록 및 스마트 목록의 보기를 만들고 변경하는 방
 title: 목록 및 스마트 목록에 대한 보기 만들기 및 변경
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 9%
+source-wordcount: '214'
+ht-degree: 8%
 
 ---
 
 # 목록 및 스마트 목록에 대한 보기 만들기 및 변경 {#create-and-change-views-for-lists-and-smart-list}
 
-스마트 목록에는 기본 열 세트가 표시됩니다. 그 열들을 마음껏 편집할 수 있다는 것을 알고 있었습니까? 방법은 다음과 같습니다.
+스마트 목록에는 기본 열 세트가 표시됩니다. 이러한 열은 사용자 정의할 수 있습니다.
 
 ## 보기 만들기 {#create-a-view}
 
-1. 목록 또는 스마트 목록으로 이동하여 **[!UICONTROL People]** 탭을 클릭하고 **[!UICONTROL Create View]** 드롭다운 아래의 **[!UICONTROL View]**&#x200B;을(를) 클릭합니다.
+1. 목록 또는 스마트 목록으로 이동하여 **[!UICONTROL People]** 탭을 클릭하고 **[!UICONTROL View]** 드롭다운 아래의 **[!UICONTROL Create View]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 9%
 
 ## 보기 편집 {#edit-a-view}
 
-1. 편집할 보기를 **[!UICONTROL View]** 드롭다운에서 선택해야 합니다.
+1. 편집할 보기가 **[!UICONTROL View]** 드롭다운에서 선택되어 있는지 확인합니다.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 
@@ -59,7 +59,7 @@ ht-degree: 9%
 
 ## 보기 삭제 {#delete-a-view}
 
-1. **[!UICONTROL Edit]** 드롭다운에서 삭제할 보기에 대한 **[!UICONTROL View]** 옵션을 선택합니다.
+1. **[!UICONTROL View]** 드롭다운에서 삭제할 보기에 대한 **[!UICONTROL Edit]** 옵션을 선택합니다.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-8.png)
 

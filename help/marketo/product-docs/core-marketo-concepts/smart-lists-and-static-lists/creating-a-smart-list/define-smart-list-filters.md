@@ -4,10 +4,10 @@ description: 스마트 목록 필터를 정의하는 방법을 알아봅니다. 
 title: 스마트 목록 필터 정의
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 6%
+ht-degree: 5%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 6%
 >* [스마트 목록 만들기](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [스마트 목록에 필터 찾기 및 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-이제 [스마트 목록을 만들고](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}에 [필터를 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}했으므로 필터를 정의해 보겠습니다. 방법은 다음과 같습니다.
+[스마트 목록을 만들고](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}에 [필터를 추가](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}했으므로 필터를 다음과 같이 정의하십시오.
 
-계속해서 예를 들어 캘리포니아에 있는 점수가 50이 넘는 모든 사람을 찾기 위해 이러한 필터를 정의해 보겠습니다.
+이 예제를 계속 진행하여 점수가 50이 넘는 캘리포니아 주의 모든 사람을 찾도록 이러한 필터를 정의합니다.
 
 1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 

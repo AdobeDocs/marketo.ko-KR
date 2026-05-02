@@ -4,9 +4,9 @@ description: 흐름 단계에서 선택 항목 추가 옵션을 재정렬하는 
 title: 흐름 단계에서 선택 항목 추가 순서 바꾸기
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >순서를 변경할 때 **[!UICONTROL Move Up]**, **[!UICONTROL Move Down]** 또는 **[!UICONTROL Move To]**&#x200B;할 수 있습니다.
 
-   잘했어! 이제 선택 항목을 한 단계씩 위/아래로 이동하는 방법을 알 수 있습니다.
+   선택 항목을 한 단계씩 위 또는 아래로 이동할 수 있습니다.
 
    ![](assets/reorder-add-choice-in-a-flow-step-3.png)
 
@@ -35,4 +35,3 @@ ht-degree: 0%
 
 ![](assets/reorder-add-choice-in-a-flow-step-4.png)
 
-플로우 단계 선택 순서를 재구성하는 것은 매우 쉽습니다.

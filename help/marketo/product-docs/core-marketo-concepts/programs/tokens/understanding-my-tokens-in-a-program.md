@@ -4,10 +4,10 @@ description: 프로그램의 내 토큰에 대해 알아봅니다. 토큰을 사
 title: 프로그램에서 내 토큰 이해
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '429'
-ht-degree: 4%
+source-wordcount: '441'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 토큰은 이메일, 랜딩 페이지 및 스마트 캠페인에 사용하여 생활을 편리하게 할 수 있는 변수입니다.
 
-내 토큰 외에도 프로그램의 기본 제공 토큰을 사용할 수 있습니다. [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}를 확인하십시오.
+내 토큰 외에도 프로그램의 기본 제공 토큰을 사용할 수 있습니다. [토큰 개요](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}를 참조하세요.
 
 ## 내 토큰  {#my-tokens}
 
@@ -46,7 +46,7 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>이메일 스크립트 <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>이 토큰을 사용하여 이메일에서 Velocity 스크립트를 실행하십시오. <a href="https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting" title="링크 따라가기" rel="nofollow">여기</a>에서 자세히 알아보세요. </td>
+   <td>이 토큰을 사용하여 이메일에서 Velocity 스크립트를 실행하십시오. <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="링크 따라가기" rel="nofollow">여기</a>에서 자세히 알아보세요. </td>
   </tr>
   <tr>
    <td>번호<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

@@ -4,16 +4,16 @@ description: 고급 스마트 목록 규칙 논리를 사용하는 방법을 알
 title: 고급 스마트 목록 규칙 논리 사용
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
 # 고급 스마트 목록 규칙 논리 사용 {#using-advanced-smart-list-rule-logic}
 
-스마트 목록 내의 여러 필터에 스마트 목록 규칙 논리를 적용하여 필요한 정확한 사람을 찾을 수 있습니다. 방법은 다음과 같습니다.
+스마트 목록 내의 여러 필터에 스마트 목록 규칙 논리를 적용하여 필요한 정확한 사람을 찾을 수 있습니다.
 
 >[!PREREQUISITES]
 >
@@ -26,7 +26,7 @@ ht-degree: 4%
 
 ## 스마트 목록에 논리 추가 {#add-logic-to-a-smart-list}
 
-기본적으로 스마트 목록은 **[!UICONTROL ALL]**&#x200B;개의 필터(필터 1 _및_ 2 _및_ 3)와 일치하는 사람을 찾습니다. 규칙 논리를 변경하여 정의된 필터(필터 1 **[!UICONTROL ANY]** or _2_ or _3)의_&#x200B;과(와) 일치하는 사람을 찾거나 고급 필터(필터 1 _and_ 2 _or_ 3)를 사용할 수 있습니다.
+기본적으로 스마트 목록은 **[!UICONTROL ALL]**&#x200B;개의 필터(필터 1 _및_ 2 _및_ 3)와 일치하는 사람을 찾습니다. 규칙 논리를 변경하여 정의된 필터(필터 1 _or_ 2 _or_ 3)의 **[!UICONTROL ANY]**&#x200B;과(와) 일치하는 사람을 찾거나 고급 필터(필터 1 _and_ 2 _or_ 3)를 사용할 수 있습니다.
 
 이 예에서는 캘리포니아 _and_&#x200B;에서 최소 50점 _or_&#x200B;의 점수를 받고 &quot;판매 적격&quot; 상태의 사람들을 찾고자 한다고 가정해 보겠습니다.
 

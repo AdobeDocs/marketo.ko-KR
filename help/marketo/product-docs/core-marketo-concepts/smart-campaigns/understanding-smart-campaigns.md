@@ -4,16 +4,16 @@ description: Marketo의 자동화를 위한 스마트 캠페인에 대해 알아
 title: 스마트 캠페인 이해
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 92%
+source-wordcount: '248'
+ht-degree: 85%
 
 ---
 
 # 스마트 캠페인 이해 {#understanding-smart-campaigns}
 
-Marketo Engage가 자동차라면 Smart Campaign은 자동차의 엔진입니다. 스마트 캠페인은 여러분이 상상하는 것보다 더 많은 일을 수행할 수 있으며 사용을 시작하기도 용이합니다.
+Marketo Engage가 자동차라면 Smart Campaign은 자동차의 엔진입니다. 스마트 캠페인은 상상하는 것보다 더 많은 작업을 수행할 수 있으며 사용을 시작하기 쉽습니다.
 
 스마트 캠페인에는 [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [흐름](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}, [일정](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} 등 세 가지 기본 탭 영역이 있습니다.
 
@@ -51,7 +51,7 @@ Marketo Engage가 자동차라면 Smart Campaign은 자동차의 엔진입니다
 
 마지막으로, 스마트 캠페인을 실행할 시기를 제어합니다. 재발을 설정하여 반복 일정에 따라 실행되도록 할 수도 있습니다.
 
-스마트 캠페인이 수행할 수 있는 작업은 매우 방대합니다. 요령을 터득하면 Marketo의 모든 것을 이해하기가 훨씬 더 간단해집니다.
+스마트 캠페인이 수행할 수 있는 작업은 매우 방대합니다.
 
 >[!CAUTION]
 >

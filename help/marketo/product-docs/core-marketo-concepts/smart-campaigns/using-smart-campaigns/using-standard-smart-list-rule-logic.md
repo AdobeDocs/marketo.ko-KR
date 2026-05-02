@@ -4,10 +4,10 @@ description: 스마트 캠페인에서 표준 스마트 목록 규칙 논리를 
 title: 표준 스마트 목록 규칙 논리 사용
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 8%
+source-wordcount: '138'
+ht-degree: 10%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 8%
 >
 >스마트 목록 규칙 논리 변경은 필터 _not_ 트리거에만 적용됩니다.
 
-위의 설정이 ALL로 설정되어 있더라도 트리거는 항상 OR로 평가됩니다. 예를 들면 다음과 같습니다.
+위의 설정이 ALL로 설정되어 있더라도 트리거는 항상 OR로 평가됩니다. 예:
 
 ![](assets/using-standard-smart-list-rule-logic-2.png)
 
