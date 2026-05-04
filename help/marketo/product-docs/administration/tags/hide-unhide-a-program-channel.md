@@ -4,9 +4,9 @@ description: 프로그램 채널이 사용 중일 때 숨기거나 숨김 표시
 title: 프로그램 채널 숨기기/숨기기 취소
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 17%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 17%
 >
 >**관리자 권한 필요**
 
-어떤 프로그램에서도 사용되지 않는 경우 [프로그램 채널을 삭제](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)할 수 있습니다.  하지만 한번 사용한 후에는 주변에 보관해야 합니다.  그러나 더 이상 필요하지 않으면 숨길 수 있습니다.
+프로그램에서 사용하고 있지 않은 경우 [프로그램 채널을 삭제](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)할 수 있습니다.  그러나 일단 사용되고 나면 시스템에 남아 있어야 합니다. 더 이상 필요하지 않으면 숨길 수 있습니다.
 
 ## 프로그램 채널 숨기기 {#hide-a-program-channel}
 
@@ -36,8 +36,6 @@ ht-degree: 17%
 1. **[!UICONTROL Tag Actions]**&#x200B;에서 **[!UICONTROL Hide]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
-
-천천히, 천천히!
 
 ## 프로그램 채널 숨기기 취소 {#unhide-a-program-channel}
 
