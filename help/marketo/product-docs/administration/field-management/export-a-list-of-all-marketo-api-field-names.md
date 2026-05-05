@@ -4,16 +4,16 @@ description: SOAP API 또는 Munchkin API 사용을 위해 모든 Marketo 필드
 title: 모든 Marketo API 필드 이름 목록 내보내기
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 26%
+source-wordcount: '94'
+ht-degree: 27%
 
 ---
 
 # 모든 Marketo API 필드 이름 목록 내보내기 {#export-a-list-of-all-marketo-api-field-names}
 
-[!DNL SOAP API] 또는 [!DNL Munchkin API]을(를) 사용하는 경우 모든 필드와 해당 API 이름 목록이 필요합니다. 이 목록을 가져오는 방법은 다음과 같습니다.
+[!DNL SOAP API] 또는 [!DNL Munchkin API]을(를) 사용하는 경우 모든 필드와 해당 API 이름의 목록이 필요합니다.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 26%
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-3.png)
 
-좋네! 이제 모든 필드와 해당 API 이름 목록이 포함된 스프레드시트가 있습니다.
+이제 모든 필드와 해당 API 이름 목록이 포함된 스프레드시트가 있습니다.
 
 ![](assets/export-a-list-of-all-marketo-api-field-names-4.png)
 

@@ -4,16 +4,16 @@ description: 팀에 링크 해제를 위임할 수 있도록 필드를 사용하
 title: 필드의 사용 데이터 내보내기
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 27%
+source-wordcount: '99'
+ht-degree: 28%
 
 ---
 
 # 필드의 사용 데이터 내보내기 {#export-used-by-data-for-a-field}
 
-관리자는 필드의 관련 에셋을 내보낼 수 있으므로 해당 링크 해제를 팀에 위임할 수 있습니다.
+관리자는 필드의 관련 에셋을 내보내 팀의 링크 해제를 위임할 수 있습니다.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 27%
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. [!DNL Excel] 파일을 내보냅니다. 컨텐츠를 보려면 엽니다.
+1. [!DNL Excel] 파일 내보내기. 컨텐츠를 보려면 엽니다.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

@@ -4,16 +4,16 @@ description: 개인 세부 정보 페이지에서 편집할 수 없는 시스템
 title: 시스템 관리 필드 이해
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '532'
-ht-degree: 11%
+source-wordcount: '537'
+ht-degree: 10%
 
 ---
 
 # 시스템 관리 필드 이해 {#understanding-system-managed-fields}
 
-[개인 세부 정보 페이지](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}에 Marketo에서 만든 일련의 편집 불가능한 필드가 있습니다. 이 데이터는 다양한 출처에서 나오며, 표시할 수 있는 수많은 가치가 있다.
+[개인 세부 정보 페이지](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}에 Marketo에서 만든 일련의 편집 불가능한 필드가 있습니다. 이 데이터는 다양한 출처에서 나오며, 보여줄 수 있는 수많은 가치가 있다.
 
 ## 필드 유형 {#field-types}
 
@@ -129,7 +129,7 @@ ht-degree: 11%
   </tr>
   <tr>
     <td>연락처</td>
-    <td>사용자가 Webhook에서 연락처로 동기화되었습니다.</td>
+    <td>사용자가 Salesforce에서 연락처로 동기화됨</td>
   </tr>
   <tr>
     <td>MUNCHKIN API</td>

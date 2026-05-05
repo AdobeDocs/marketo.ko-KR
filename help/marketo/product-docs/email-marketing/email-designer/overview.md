@@ -5,10 +5,10 @@ description: 이메일 Designer 및 드래그 앤 드롭 편집기에 대해 알
 title: 개요
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '670'
-ht-degree: 95%
+source-wordcount: '672'
+ht-degree: 89%
 
 ---
 
@@ -62,9 +62,9 @@ ht-degree: 95%
 
 ## FAQ {#faq}
 
-**이전 이메일 편집기는 계속 작동합니까? 그렇다면 얼마나 오래 사용할 수 있습니까?**
+**클래식 전자 메일 편집기는 언제 사용되지 않습니까?**
 
-예. 이전(클래식) 이메일 편집기를 새 이메일 디자이너와 함께 사용할 수 있습니다. 클래식 편집기에서 만든 이메일은 유지됩니다. 클래식 편집기가 서비스 중단될 날짜는 아직 정해지지 않았지만 2026년까지는 계속 작동합니다. 이전 편집기를 사용하지 않게 되면 몇 달 전에 통지해 드리겠습니다.
+클래식 편집기는 결국 더 이상 사용되지 않지만, 현재는 특정 날짜가 없습니다. 하지만 사용 중단 전에 _몇 달_&#x200B;개월 전에 알림이 표시됩니다.
 
 **새 이메일 디자이너 이메일을 사용할 수 있는 프로그램은 무엇입니까?**
 

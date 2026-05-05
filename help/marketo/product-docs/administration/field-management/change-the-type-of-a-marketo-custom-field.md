@@ -4,16 +4,16 @@ description: 필드 관리에서 사용자 정의 필드의 데이터 유형을 
 title: Marketo 사용자 정의 필드 유형 변경
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '105'
 ht-degree: 20%
 
 ---
 
 # Marketo 사용자 정의 필드 유형 변경 {#change-the-type-of-a-marketo-custom-field}
 
-다음은 사용자 정의 필드의 필드 유형을 변경하는 방법입니다.
+사용자 정의 필드의 필드 유형을 변경하는 방법을 알아봅니다.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
@@ -45,7 +45,7 @@ ht-degree: 20%
 
    >[!NOTE]
    >
-   >표시되는 경고 메시지는 변경 중인 필드 유형에 따라 달라집니다.
+   >표시되는 경고 메시지는 및 로 변경하려는 필드 유형에 따라 달라집니다.
 
    >[!MORELIKETHIS]
    >

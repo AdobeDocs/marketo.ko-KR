@@ -4,16 +4,16 @@ description: 기록된 첫 번째 값이 레코드 수명 동안 유지되도록
 title: 필드에 대한 블록 업데이트
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '169'
 ht-degree: 10%
 
 ---
 
 # 필드에 대한 블록 업데이트 {#block-updates-to-a-field}
 
-필드 업데이트를 차단하면 필드에 한 번 쓴 다음 필드의 수명 동안 원래 값을 유지할 수 있습니다. [!UICONTROL Person Source]과(와) 같은 필드에 유용할 수 있습니다.
+필드의 업데이트를 차단하면 필드에 한 번 쓴 다음 레코드 수명 동안 원래 값을 유지할 수 있습니다. [!UICONTROL Person Source]과(와) 같은 필드에 유용할 수 있습니다.
 
 >[!NOTE]
 >
