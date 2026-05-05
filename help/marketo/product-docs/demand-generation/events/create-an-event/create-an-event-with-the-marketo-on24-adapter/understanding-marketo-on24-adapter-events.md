@@ -4,9 +4,9 @@ description: Marketo ON24 어댑터와 ON24 웨비나를 Marketo에 연결하는
 title: Marketo On24 어댑터 이벤트 이해
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '145'
 ht-degree: 6%
 
 ---

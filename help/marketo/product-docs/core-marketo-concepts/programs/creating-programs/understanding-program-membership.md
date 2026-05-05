@@ -4,9 +4,9 @@ description: 프로그램 멤버십과 사람들이 프로그램을 입력하는
 title: 프로그램 멤버십 이해
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 ## 사람들이 프로그램의 구성원이 되는 방법 {#how-people-become-members-of-a-program}
 
-1. 사용자가 프로그램의 랜딩 페이지[에 &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}양식을 작성합니다.
+1. 사용자가 프로그램의 랜딩 페이지](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}에 [양식을 작성합니다.
 
    * 개인은 자동으로 진행 중 첫 번째 상태를 갖게 됩니다.
 
@@ -52,7 +52,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->웨비나의 경우, 실제로 웨비나를 시청하지 않는다면 등록은 의미 있는 상호 작용이 아닙니다. 이 경우 참석은 성공입니다.
+>웨비나의 경우 실제로 웨비나를 시청하지 않는다면 등록은 의미 있는 상호 작용이 아니다. 이 경우 참석은 성공입니다.
 
 ## 확보 프로그램 {#acquisition-program}
 

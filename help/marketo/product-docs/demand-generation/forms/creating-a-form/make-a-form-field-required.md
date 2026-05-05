@@ -4,9 +4,9 @@ description: Marketo에서 필요한 양식 필드를 만드는 방법을 알아
 title: 양식 필드 필수 항목으로 만들기
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '109'
 ht-degree: 14%
 
 ---

@@ -4,9 +4,9 @@ description: Marketo에서 양식을 삭제하는 방법을 알아봅니다. 인
 title: 양식 삭제
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 7%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >모든 랜딩 페이지에서 양식을 제거해야 합니다. 또한 양식이 공개 웹 사이트에서 사용되고 있지 않은지 확인하십시오.
+   >모든 랜딩 페이지에서 양식을 제거해야 합니다. 또한 양식이 공용 웹 사이트에서 사용되고 있지 않은지 확인하십시오.
 
 1. **[!UICONTROL Delete]**&#x200B;을(를) 클릭하여 확인합니다.
 

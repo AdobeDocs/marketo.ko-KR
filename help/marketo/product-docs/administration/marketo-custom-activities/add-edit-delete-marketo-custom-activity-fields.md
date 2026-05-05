@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100275
 description: 사용자 지정 활동에서 필드를 추가, 편집 또는 삭제하는 방법입니다.
-title: Marketo 사용자 정의 활동 필드 추가/편집/삭제
+title: Marketo 사용자 지정 활동 필드 추가, 편집 또는 삭제
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 14%
+source-wordcount: '246'
+ht-degree: 7%
 
 ---
 
-# Marketo 사용자 정의 활동 필드 추가/편집/삭제 {#add-edit-delete-marketo-custom-activity-fields}
+# Marketo 사용자 지정 활동 필드 추가, 편집 또는 삭제 {#add-edit-delete-marketo-custom-activity-fields}
 
-사용자 지정 활동 필드를 추가, 변경 또는 제거해야 할 수 있습니다. 방법은 다음과 같습니다.
+사용자 지정 활동 필드를 추가, 변경 또는 제거하는 방법에 대해 알아봅니다.
 
 ## 사용자 지정 활동 필드 추가 {#add-a-custom-activity-field}
 
@@ -43,13 +43,13 @@ ht-degree: 14%
 
    >[!TIP]
    >
-   >무엇을 선택할지 확실하지 않습니까? 엄호해! 사용 가능한 모든 데이터 형식은 [이 문서](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)에 정의되어 있습니다.
+   >사용 가능한 모든 데이터 형식에 대한 정의는 [이 문서](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)를 참조하십시오.
 
-1. 필드 이름을 지정합니다. Api 이름이 자동으로 채워집니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 필드 이름을 지정합니다. [!UICONTROL API Name]이(가) 자동으로 채워집니다. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
-   됐습니다. 새 필드가 추가되었습니다.
+   새 필드가 추가되었습니다.
 
 ## 사용자 지정 활동 필드 편집 {#edit-a-custom-activity-field}
 
@@ -73,27 +73,27 @@ ht-degree: 14%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
-   **[!UICONTROL Edit Field]** 팝업이 나타납니다. 이 예제에서는 필드의 이름을 변경해 보겠습니다.
+   **[!UICONTROL Edit Field]** 팝업이 나타납니다. 이 예제에서는 필드 이름이 변경됩니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. 새 이름과 API 이름을 입력한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 새 이름과 [!UICONTROL API Name]을(를) 입력한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
    >[!NOTE]
    >
-   >필드를 편집할 때 [!UICONTROL Api Name]이(가) 자동으로 채워지지 않습니다. 필드 [!UICONTROL Name]과(와) [!UICONTROL Api Name]이(가) 일치할 필요는 없지만 일치하는 것이 좋습니다.
+   >필드를 편집할 때 [!UICONTROL API Name]이(가) 자동으로 채워지지 않습니다. 필드 [!UICONTROL Name]과(와) [!UICONTROL API Name]이(가) 일치할 필요는 없지만 Marketo에서는 일치할 것을 권장합니다.
 
    >[!CAUTION]
    >
-   >사용자 지정 활동이 게시된 적이 없는 경우에만 API 이름을 편집하거나 필드를 기본으로 변경할 수 있습니다.
+   >사용자 지정 활동이 게시된 적이 없는 경우에만 [!UICONTROL API Name]을(를) 편집하거나 필드를 기본으로 변경할 수 있습니다.
 
    >[!NOTE]
    >
    >기본 필드를 변경하려면 먼저 기존 필드를 선택 해제해야 합니다.
 
-이제 필드가 편집되었습니다!
+필드가 업데이트되었습니다.
 
 ## 사용자 지정 활동 필드 삭제 {#delete-a-custom-activity-field}
 

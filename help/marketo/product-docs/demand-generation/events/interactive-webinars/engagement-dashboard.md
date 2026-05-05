@@ -3,9 +3,9 @@ description: 대화형 웨비나 참여 대시보드에 대해 알아봅니다. 
 title: 참여 대시보드
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '1712'
+source-wordcount: '1736'
 ht-degree: 0%
 
 ---
@@ -301,9 +301,9 @@ Q&amp;A pod의 다음 속성을 확인합니다.
     <li>참석자가 Q&amp;A pod에서 하나 이상의 질문을 했습니다.</li></td>
   </tr>
   <tr>
-    <td>중간</td>
+    <td>보통</td>
     <td>다음 기준을 모두 충족하는 참가자
-    <li>참석자의 참여 수준은 높지 않은 것으로 판단됩니다.</li>
+    <li>참석자의 참여 수준은 높지 않은 것으로 판단된다.</li>
     <li>출석 기간은 전체 행사 시간의 60% 이상입니다.</li>
     <li>다음 작업 중 하나 이상을 참석자가 수행했습니다.
     <ul>

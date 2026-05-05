@@ -4,16 +4,16 @@ description: 사용자 지정 활동을 게시하는 단계입니다.
 title: 사용자 정의 활동 게시
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 31%
+source-wordcount: '46'
+ht-degree: 41%
 
 ---
 
 # 사용자 정의 활동 게시 {#publish-a-custom-activity}
 
-사용자 정의 활동이 원하는 대로 정확하게 표시됩니다. 이제 게시할 차례입니다!
+사용자 지정 활동을 게시하는 방법을 알아봅니다.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
@@ -31,12 +31,10 @@ ht-degree: 31%
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   사용자 지정 활동의 [!UICONTROL state]이(가) [!UICONTROL Draft]에서 이동하는 것을 볼 수 있습니다.
+   사용자 지정 활동의 [!UICONTROL State]이(가) [!UICONTROL Draft]에서 변경됨...
 
    ![](assets/publish-a-custom-activity-5.png)
 
    ...에서 [!UICONTROL Published]&#x200B;(으)로
 
    ![](assets/publish-a-custom-activity-6.png)
-
-   잘했어!
