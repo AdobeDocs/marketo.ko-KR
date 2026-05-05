@@ -4,9 +4,9 @@ description: 역할에 대한 감사 추적 및 로그인 기록을 활성화하
 title: 감사 추적 활성화
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '211'
 ht-degree: 5%
 
 ---
@@ -67,13 +67,13 @@ ht-degree: 5%
    >
    >이 프로세스는 새 사용자를 만들 때도 적용됩니다.
 
-1. 생성한 감사 추적 역할을 선택합니다. 이 예제에서는 &quot;Audit Trail - Asset and Admin&quot;과 &quot;Audit Trail - With Login History&quot;를 만들었습니다.
+1. 생성한 감사 추적 역할을 선택합니다. 이 예에서는 &quot;감사 추적 - 에셋 및 관리자&quot; 및 &quot;감사 추적 - 로그인 내역 포함&quot;을 생성하는 방법을 보여 줍니다.
 
    ![](assets/enable-audit-trail-7.png)
 
    >[!CAUTION]
    >
-   >작업 영역이 활성화되어 있으면 모든 작업 영역을 선택하는 역할의 확인란을 선택해야 합니다. 개별 작업 영역을 선택 해제하면 감사 추적이 숨겨집니다. 즉, 모든 작업 공간에 대한 감사 추적 데이터를 보게 됩니다. [필터링](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)할 때 작업 영역을 숨길 수 있습니다.
+   >작업 영역이 활성화되어 있으면 모든 작업 영역을 선택하는 역할의 확인란을 선택해야 합니다. 개별 작업 영역을 선택 해제하면 감사 추적이 숨겨집니다. [필터링](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)할 때 작업 영역을 숨길 수 있습니다.
 
 1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 

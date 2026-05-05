@@ -4,9 +4,9 @@ description: 관리자 사용자 및 역할을 통해 구독에 로그인한 사
 title: 사용자 로그인 기록
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '181'
 ht-degree: 8%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 8%
 
    >[!NOTE]
    >
-   >사용자 인터페이스는 최대 30일의 데이터를 표시합니다. 더 필요한 경우 최근 6개월 동안의 데이터를 csv 파일로 다운로드할 수 있습니다.
+   >사용자 인터페이스는 최대 30일의 데이터를 표시합니다. 더 필요한 경우 최근 6개월 동안의 데이터를 CSV 파일로 다운로드할 수 있습니다.
 
    >[!MORELIKETHIS]
    >
