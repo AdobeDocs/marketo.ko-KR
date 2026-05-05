@@ -4,9 +4,9 @@ description: Sales Connect 템플릿에서 사용자 정의 동적 필드를 만
 title: 사용자 정의 동적 필드 만들기
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 3%
 
 위의 방법을 사용하여 사용자 정의 필드를 저장하면 템플릿에서 참조할 수 있습니다.
 
-1. [템플릿을 만들고](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) 평소처럼 **[!UICONTROL Dynamic Fields]** 단추를 클릭합니다.
+1. [템플릿을 만들고](/help/marketo/product-docs/marketo-sales-connect/templates/manage-templates.md#create-a-template) 평소처럼 **[!UICONTROL Dynamic Fields]** 단추를 클릭합니다.
 
 1. 표시되는 드롭다운에서 **[!UICONTROL Custom Fields]**&#x200B;을(를) 선택합니다.
 
