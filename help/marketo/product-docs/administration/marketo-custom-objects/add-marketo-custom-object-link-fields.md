@@ -4,9 +4,9 @@ description: 중간 개체 사용을 포함하여 일대다 및 다대다 구조
 title: Marketo 사용자 정의 오브젝트 링크 필드 추가
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '685'
 ht-degree: 3%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 3%
 
 >[!IMPORTANT]
 >
->Marketo Engage은 다대다 관계의 각 브리지 객체에 대해 단일 에지 객체만 지원합니다. 아래 샘플에서 각 등록은 단일 과정에만 연결할 수 있습니다. 그러나 각 과정에 많은 학생이 등록(다대일 관계)한 것처럼 Edge 객체마다 Bridge 객체가 많을 수 있습니다. 각 Edge 개체 레코드(일대다 또는 다대다)에 대해 두 개 이상의 Bridge 개체 레코드가 존재하도록 사용자 지정 개체 데이터를 구조화한 경우, 각 레코드가 단일 Edge 개체 레코드를 참조하는 여러 Bridge 개체 레코드를 만들어 Marketo의 해당 데이터를 나타낼 수 있습니다.
+>Marketo Engage은 다대다 관계의 각 브리지 객체에 대해 단일 에지 객체만 지원합니다. 아래 샘플에서 각 등록은 단일 과정에만 연결할 수 있습니다. 그러나 각 과정에 많은 학생이 등록(다대일 관계)한 것처럼 Edge 객체마다 Bridge 객체가 많을 수 있습니다. 각 Bridge 개체 레코드(일대다 또는 다대다)에 대해 두 개 이상의 Edge 개체 레코드가 있도록 사용자 지정 개체 데이터를 구조화한 경우, 각각이 단일 Edge 개체 레코드를 참조하는 여러 Bridge 개체 레코드를 만들어 Marketo의 해당 데이터를 나타낼 수 있습니다.
 
 ## 일대다 구조에 대한 링크 필드 만들기 {#create-a-link-field-for-a-one-to-many-structure}
 
-일대다 구조에 대한 사용자 지정 개체에 링크 필드를 만드는 방법은 다음과 같습니다.
+일대다 구조에 대한 사용자 지정 개체에 링크 필드를 만들려면 아래 단계를 따르십시오.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
@@ -74,7 +74,7 @@ ht-degree: 3%
 
 ## 다대다 구조에 대한 링크 필드 만들기 {#create-a-link-field-for-a-many-to-many-structure}
 
-다대다 구조에서 사용할 중간 개체에 링크 필드를 만드는 방법은 다음과 같습니다.
+다대다 구조에서 사용할 중간 개체에 링크 필드를 만들려면 아래 단계를 따르십시오.
 
 >[!PREREQUISITES]
 >
@@ -96,7 +96,7 @@ ht-degree: 3%
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. 두 개의 링크 필드를 만들어야 합니다. 한 번에 하나씩 만듭니다. 먼저 데이터베이스 목록의 멤버에 대한 필드 이름을 지정합니다(예: leadID). 선택적 [!UICONTROL Description]을(를) 추가합니다. [!UICONTROL link] [!UICONTROL Data Type]을(를) 선택하십시오.
+1. 한 번에 하나씩, 두 개의 링크 필드를 만듭니다. 먼저 데이터베이스 목록의 멤버에 대한 필드 이름을 지정합니다(예: leadID). 선택적 [!UICONTROL Description]을(를) 추가합니다. [!UICONTROL link] [!UICONTROL Data Type]을(를) 선택하십시오.
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
@@ -128,7 +128,7 @@ ht-degree: 3%
 
 ## 사용자 지정 개체 사용 {#using-custom-objects}
 
-다음 단계는 스마트 캠페인의 필터에서 이러한 사용자 지정 개체를 사용하는 것입니다. 다대다 관계를 사용하면 여러 사람/회사와 여러 사용자 지정 개체를 선택할 수 있습니다. 아래 예제에는 이러한 기준과 일치하는 데이터베이스의 모든 사용자가 나열됩니다. 과정 이름 필드는 과정 사용자 지정 개체에서 가져오고 등록 등급은 중간 개체에서 가져옵니다.
+다음 단계는 스마트 캠페인의 필터에서 이러한 사용자 지정 개체를 사용하는 것입니다. 다대다 관계를 사용하면 여러 사람 또는 회사와 여러 사용자 지정 개체를 선택할 수 있습니다. 아래 예제에는 이러한 기준과 일치하는 데이터베이스의 모든 사용자가 나열됩니다. 과정 이름 필드는 과정 사용자 지정 개체에서 가져오고 등록 등급은 중간 개체에서 가져옵니다.
 
 ![](assets/add-marketo-custom-object-link-fields-18.png)
 

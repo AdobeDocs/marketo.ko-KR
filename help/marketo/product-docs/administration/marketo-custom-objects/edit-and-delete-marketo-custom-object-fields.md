@@ -4,9 +4,9 @@ description: 필드 작업을 사용하여 승인되지 않은 사용자 지정 
 title: Marketo 사용자 정의 오브젝트 필드 편집 및 삭제
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 12%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 12%
 
    >[!NOTE]
    >
-   >API 이름을 편집할 수 없습니다.
+   >API 이름은 편집할 수 없습니다.
 
 1. 변경 내용이 **[!UICONTROL Fields]** 목록에 나타납니다.
 
@@ -39,17 +39,17 @@ ht-degree: 12%
 
 ## 필드 삭제 {#delete-a-field}
 
-사용자 지정 개체에 더 이상 필드가 필요하지 않으면 삭제할 수 있습니다.
+사용자 지정 개체의 필드가 더 이상 필요하지 않으면 삭제할 수 있습니다.
 
 1. 필드 탭에서 **[!UICONTROL Field Actions]** 및 **[!UICONTROL Delete Field]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. 트리거를 가져오기 전에 필드를 삭제하시겠습니까? **[!UICONTROL Delete]**&#x200B;를 클릭합니다.
+1. 계속하기 전에 필드를 삭제할지 확인하십시오. **[!UICONTROL Delete]**&#x200B;를 클릭합니다.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
-없어졌어!
+필드가 삭제됩니다.
 
 ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 
