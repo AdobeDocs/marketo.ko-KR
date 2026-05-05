@@ -4,9 +4,9 @@ description: 작업 영역을 사용할 때 추가 브랜딩 도메인을 추가
 title: 작업 영역을 사용하여 추가 브랜딩 도메인 추가
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '126'
 ht-degree: 15%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 15%
 
 >[!PREREQUISITES]
 >
->먼저 [기본 브랜딩 도메인을 편집](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)해야 합니다.
+>* [기본 브랜딩 도메인을 편집](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)합니다.
 >
->추가 브랜딩 도메인을 추가하기 전에 먼저 [일반 추적 링크를 브랜딩 도메인으로 바꾸기](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)해야 합니다.
+>* 추가 브랜딩 도메인을 추가하기 전에 [일반 추적 링크를 브랜딩 도메인으로 바꾸기](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)하십시오.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
@@ -39,7 +39,7 @@ ht-degree: 15%
 
    >[!NOTE]
    >
-   >하나 이상의 작업 영역에 대해 이 도메인을 주 도메인으로 설정할 수 있으며, 기존의 모든 전송되지 않은 이메일이 &quot;기본&quot;으로 설정되고 새로 생성된 모든 이메일은 기본적으로 주 도메인으로 설정됩니다. 이메일별로 이를 재정의할 수 있습니다.
+   >하나 이상의 작업 공간에 대해 이 도메인을 주 도메인으로 설정할 수 있으며, &quot;기본값&quot;으로 설정된 기존의 모든 전송되지 않은 이메일과 새로 생성된 모든 이메일은 기본적으로 주 도메인으로 설정됩니다. 이메일별로 이를 재정의할 수 있습니다.
 
 1. 새 브랜딩 도메인을 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 

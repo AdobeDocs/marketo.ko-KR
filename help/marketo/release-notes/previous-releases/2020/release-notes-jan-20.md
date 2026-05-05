@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2020년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2020년 1월
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '842'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->현재 AEM Asset Selector는 Firefox에서만 완전히 지원됩니다. 이 기능은 Safari에서 지원되지 않으며, SameSite 쿠키 설정에 따라 최신 버전의 Chrome(v. 80)에서 작동하지 않을 수 있습니다.
+>현재 AEM Asset Selector는 Firefox에서만 완전히 지원됩니다. Safari에서 지원되지 않으며 최신 버전의 Chrome(v)에서 작동하지 않을 수 있습니다. SameSite 쿠키 설정에 따라 다릅니다.
 
 * **[!DNL Microsoft Dynamics]- Lead를 CRM에 실시간으로 동기화**: Marketo Engage과 [!DNL Microsoft Dynamics] 사이의 Lead 및 연락처의 실시간 동기화. 리드나 연락처를 만들고 &quot;사용자를 Microsoft에 동기화&quot; 흐름 동작을 통해 즉시 [!DNL Microsoft Dynamics]에서 볼 수 있습니다.
 * **[!DNL LinkedIn]잠재 고객 확보 Forms 추가 필드 매핑**: [!DNL LinkedIn] 잠재 고객 확보 Forms의 잠재 고객 데이터를 캡처하여 판매 및 마케팅 접점 모두에 대해 더 적절한 경험을 만듭니다. 숨겨진 필드, 동의 필드 및 테스트 리드 필드를 Marketo Engage으로 가져옵니다.
@@ -57,12 +57,12 @@ ht-degree: 1%
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [이미지 편집](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=ko#design-studio): Marketo Engage에서 나가지 않고 Adobe의 편집 기능에 액세스합니다. 이 새로운 기능을 사용하면 [!UICONTROL Design Studio]에서 이미지에 텍스트를 직접 보강, 자르기 및 추가하는 등의 작업을 쉽게 수행할 수 있습니다.
+* [이미지 편집](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Marketo Engage에서 나가지 않고 Adobe의 편집 기능에 액세스합니다. 이 새로운 기능을 사용하면 [!UICONTROL Design Studio]에서 이미지에 텍스트를 직접 보강, 자르기 및 추가하는 등의 작업을 쉽게 수행할 수 있습니다.
 
 ## [!DNL Sales Insight] {#sales-insight}
 
 * **[!DNL Salesforce Lightning]일괄 작업**: 판매 효율성을 높이고 구매자가 캠페인에 최대 200개의 연락처/리드를 추가하고 [!DNL Salesforce Lightning]과(와) 함께 Marketo Engage 이메일을 일괄적으로 보낼 수 있는 기능을 계속 사용할 수 있도록 합니다.
-* **에 대한[!DNL Salesforce1]**&#x200B;모바일 지원: 이제 [!DNL Sales Insight] 앱에서 바로 관심 있는 순간, 웹 활동 및 전자 메일과 같은 모든 [!DNL Salesforce1] 기능에 대한 이동 중 모바일 액세스 권한을 갖습니다.
+* [!DNL Salesforce1]**에 대한**&#x200B;모바일 지원: 이제 [!DNL Salesforce1] 앱에서 바로 관심 있는 순간, 웹 활동 및 전자 메일과 같은 모든 [!DNL Sales Insight] 기능에 대한 이동 중 모바일 액세스 권한을 갖습니다.
 * **UI 개선 사항**: 가독성 및 [!DNL Marketo Sky] 경험과 일치하는 디자인을 개선하여 인터페이스를 업데이트했습니다.
 
 ## [!DNL Sales Connect] {#sales-connect}

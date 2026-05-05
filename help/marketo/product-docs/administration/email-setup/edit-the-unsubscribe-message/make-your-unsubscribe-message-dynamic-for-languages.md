@@ -4,16 +4,16 @@ description: 다이내믹 콘텐츠 및 세분화를 사용하여 구독 취소 
 title: 구독 취소 메시지를 언어에 따라 동적으로 만들기
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '415'
 ht-degree: 7%
 
 ---
 
 # 구독 취소 메시지를 언어에 따라 동적으로 만들기 {#make-your-unsubscribe-message-dynamic-for-languages}
 
-기본 구독 취소 메시지 및 링크는 영어입니다. 다이내믹 콘텐츠를 사용하여 다른 언어로 표시할 수 있습니다.
+기본 구독 취소 메시지 및 링크는 영어입니다. 다이내믹 콘텐츠를 사용하여 여러 언어로 표시할 수 있습니다.
 
 >[!NOTE]
 >
@@ -87,7 +87,7 @@ ht-degree: 7%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
-1. **[!UICONTROL Segment By]** 섹션에서 **[!UICONTROL Segmentation]** 선택.
+1. **[!UICONTROL Segmentation]** 섹션에서 **[!UICONTROL Segment By]** 선택.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
@@ -95,7 +95,7 @@ ht-degree: 7%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. 트리에서 세그먼트를 선택합니다. 구독 취소를 클릭한 다음 링크 아이콘을 클릭합니다.
+1. 트리에서 세그먼트를 선택합니다. 구독 취소 텍스트를 클릭한 다음 링크 아이콘을 클릭합니다.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
@@ -107,9 +107,7 @@ ht-degree: 7%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-끝내주네 거의 다 됐어!
-
-## 이메일에 코드 조각 사용 {#use-snippet-in-an-email}
+## 이메일에 코드 조각 사용 {#use-a-snippet-in-an-email}
 
 1. 이메일 편집기 내에서 편집 가능한 요소를 클릭합니다. 그런 다음 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Replace with Snippet]**&#x200B;을(를) 선택합니다. 편집 가능한 코드 조각 요소를 선택하는 경우 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Edit]**&#x200B;을(를) 선택합니다.
 
@@ -133,9 +131,9 @@ ht-degree: 7%
 
    >[!TIP]
    >
-   >물론 다이내믹 언어를 위해 나머지 이메일을 편집할 수도 있습니다. 작업하는 동안 구독 취소 페이지에서 동일한 기술을 수행합니다.
+   >다이내믹 언어를 위해 나머지 이메일을 편집할 수도 있습니다. 구독 취소 페이지에서 동일한 기술을 사용합니다.
 
-## 다이내믹 콘텐츠를 사용하여 구독 취소 페이지 맞춤화 {#customizing-your-unsubscribe-page-with-dynamic-content}
+## 다이내믹 콘텐츠를 사용하여 구독 취소 페이지 사용자 지정 {#customize-your-unsubscribe-page-with-dynamic-content}
 
 사용자가 기본 언어로 구독 취소 페이지를 방문하도록 하려면 랜딩 페이지 및 확인 페이지에서 동적 콘텐츠를 사용할 수 있습니다.
 
@@ -159,8 +157,6 @@ ht-degree: 7%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
-   각 랜딩 페이지에 대한 콘텐츠를 편집하고 승인하면 바로 사용할 수 있습니다.
-
    >[!NOTE]
    >
-   >[다이내믹 콘텐츠](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) 및 수행할 수 있는 모든 멋진 작업에 대해 자세히 알아보세요.
+   >[다이내믹 콘텐츠](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)에 대해 자세히 알아보세요.
