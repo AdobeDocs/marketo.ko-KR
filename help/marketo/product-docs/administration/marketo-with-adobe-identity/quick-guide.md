@@ -3,10 +3,10 @@ description: 시스템 관리 설정, 사용자 관리, API 전용 사용자 및
 title: 빠른 안내서
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 81%
+source-wordcount: '135'
+ht-degree: 69%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 81%
 
 ## 사용자 관리 {#user-management}
 
-사용자 추가 및 제거. 제품 관리자(또는 시스템 관리자)에 의해 완료됨.
+사용자 추가 및 제거 제품 관리자(또는 시스템 관리자)에 의해 완료됨.
 
 [사용자 추가](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user){target="_blank"}
 

@@ -4,7 +4,7 @@ description: 실험적인 보물 상자 기능을 켜거나 끄는 방법.
 title: 실험실 기능 활성화 또는 비활성화
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 25%
@@ -13,7 +13,7 @@ ht-degree: 25%
 
 # 실험실 기능 활성화 또는 비활성화 {#enable-or-disable-treasure-chest-features}
 
-보물상자에는 온전히 지지되지 않는 재미있는 실험적 특징이 담겨 있다.
+보물상자에는 완벽하게 뒷받침되지 않는 실험적 특징이 담겨 있다.
 
 >[!NOTE]
 >
@@ -37,4 +37,4 @@ ht-degree: 25%
 
    >[!TIP]
    >
-   >변경 사항이 적용되는지 확인하려면 로그아웃한 후 Marketo으로 다시 로그인해야 할 수 있습니다.
+   >변경 사항이 적용되는지 확인하려면 Marketo에서 로그아웃했다가 다시 로그인해야 할 수 있습니다.

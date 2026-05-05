@@ -4,16 +4,16 @@ description: 개인 세부 정보 페이지에 대한 사용자 정의 레이아
 title: 개인 세부 정보 페이지용 사용자 정의 탭 만들기
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 18%
+source-wordcount: '131'
+ht-degree: 19%
 
 ---
 
 # 개인 세부 정보 페이지용 사용자 정의 탭 만들기 {#creating-a-custom-tab-for-the-person-detail-page}
 
-개인 세부 정보에서 특정 필드 세트를 반복해서 찾고 있는 경우 작업을 더 쉽게 할 수 있도록 사용자 정의 레이아웃을 만드는 것이 좋습니다.
+개인 세부 정보 페이지의 특정 필드 세트에 자주 액세스해야 하는 경우 사용자 정의 레이아웃을 만드는 것이 좋습니다.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
@@ -43,6 +43,6 @@ ht-degree: 18%
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   멋진 작품이야! 이제 개인의 세부 정보를 로드할 때 사용자 정의 레이아웃을 사용하여 중요한 정보에 액세스할 수 있습니다.
+   개인의 세부 정보를 로드할 때 사용자 정의 레이아웃을 사용하여 중요한 정보에 액세스할 수 있습니다.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

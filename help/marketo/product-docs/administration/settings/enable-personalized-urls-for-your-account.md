@@ -4,16 +4,16 @@ description: 인쇄 메일 및 기타 캠페인에서 사용할 구독에 대해
 title: 계정에 대한 개인화된 URL 활성화
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 25%
+source-wordcount: '88'
+ht-degree: 23%
 
 ---
 
 # 계정에 대한 개인화된 URL 활성화 {#enable-personalized-urls-for-your-account}
 
-개인화된 URL은 인쇄 메일 캠페인에 적합합니다.
+개인화된 URL은 인쇄 메일 캠페인에 유용합니다.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 25%
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-좋습니다! 계정에 대해 PURL을 활성화했으므로 [개별 랜딩 페이지에 대해 활성화](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)할 수 있습니다.
+계정에 대해 PURL을 활성화했으므로 [개별 랜딩 페이지에 대해 활성화](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)할 수 있습니다.
 
 >[!NOTE]
 >

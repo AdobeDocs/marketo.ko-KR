@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359904
-description: Marketo Engage 구독에서 시간대를 빠르고 쉽게 업데이트합니다.
+description: Marketo Engage 구독에서 시간대를 업데이트하는 방법입니다.
 title: 표준 시간대 변경
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 14%
+source-wordcount: '71'
+ht-degree: 16%
 
 ---
 

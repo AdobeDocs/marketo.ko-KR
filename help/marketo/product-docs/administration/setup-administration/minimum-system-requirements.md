@@ -4,9 +4,9 @@ description: OS, 디스플레이 해상도, 브라우저 및 네트워크 Market
 title: 최소 시스템 요구 사항
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '109'
 ht-degree: 5%
 
 ---

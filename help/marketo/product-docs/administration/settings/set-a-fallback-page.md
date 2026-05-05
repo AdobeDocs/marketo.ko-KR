@@ -4,16 +4,16 @@ description: 랜딩 페이지가 오프라인이거나 찾을 수 없을 때 방
 title: 대체 페이지 설정
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '72'
 ht-degree: 22%
 
 ---
 
 # 대체 페이지 설정 {#set-a-fallback-page}
 
-랜딩 페이지가 오프라인이거나 찾을 수 없는 경우 대체 페이지는 마지막 방어선입니다. 꼭 하나 있어라.
+랜딩 페이지가 오프라인이거나 찾을 수 없는 경우 대체 페이지는 마지막 방어선입니다. 설정되어 있는지 확인합니다.
 
 >[!NOTE]
 >

@@ -3,9 +3,9 @@ description: 액세스 양식 유효성 검사 규칙 권한을 활성화하고 
 title: 글로벌 양식 유효성 검사 규칙
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '262'
 ht-degree: 5%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 5%
 
 ## 액세스 활성화 방법 {#how-to-enable-access}
 
-이 기능을 활용하려면 먼저 원하는 역할에 따라 권한을 활성화해야 합니다.
+이 기능을 사용하려면 원하는 역할에 대해 해당 권한을 활성화해야 합니다.
 
 1. Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
@@ -46,7 +46,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->이 규칙은 Marketo Engage 구독의 모든 양식에 적용됩니다.
+>이러한 규칙은 Marketo Engage 구독의 모든 양식에 적용됩니다.
 
 1. Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
@@ -64,13 +64,13 @@ ht-degree: 5%
    >
    >[!UICONTROL Form Validation Rule Actions] 드롭다운을 사용하면 기존 규칙을 삭제하거나 편집할 수 있습니다.
 
-1. 규칙 이름을 지정하고 선택적 설명을 지정한 다음 양식 방문자에게 표시할 오류 메시지를 입력합니다. 규칙 상자에 차단하려는 도메인을 입력하고 **[!UICONTROL Activate Rule]**&#x200B;을(를) 선택한 다음 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. 규칙 이름을 지정하고 선택적 설명을 지정한 다음 양식 방문자에게 표시할 오류 메시지를 입력합니다. 규칙 상자에 차단하려는 도메인을 하나 이상 입력하고 **[!UICONTROL Activate Rule]**&#x200B;을(를) 선택한 다음 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/global-form-validation-rules-10.png)
 
 >[!NOTE]
 >
->Marketo Engage에는 사전 로드된 소비자 이메일 도메인이 &quot;소비자 이메일 도메인 차단 목록에 추가하다&quot; 규칙을 사용할 때 차단되는 차단 목록에 추가하다가 정의되어 있습니다. [여기에서 해당 목록을 봅니다](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv)(다운로드하려면 브라우저가 최신 상태이고 다운로드를 수락할 수 있는지 확인).
+>Marketo Engage에는 사전 로드된 &quot;소비자 이메일 도메인 차단 목록에 추가하다&quot; 규칙을 사용할 때 차단되는 무료 소비자 이메일 도메인이 정의되어 있습니다. [여기에서 해당 목록을 봅니다](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv)(다운로드하려면 브라우저가 최신 상태이고 다운로드를 수락할 수 있는지 확인).
 
 ## 양식당 액세스를 비활성화하는 방법{#how-to-disable-access-per-form}
 

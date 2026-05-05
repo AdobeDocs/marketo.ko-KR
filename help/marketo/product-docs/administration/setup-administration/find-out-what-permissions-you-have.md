@@ -4,16 +4,16 @@ description: 현재 Marketo 권한을 보는 방법을 알아봅니다.
 title: 보유 권한 찾기
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 19%
+source-wordcount: '63'
+ht-degree: 22%
 
 ---
 
 # 보유 권한 찾기 {#find-out-what-permissions-you-have}
 
-Marketo에 어떤 권한이 있는지 궁금하다면 손쉽게 확인할 수 있는 방법이 있습니다.
+Marketo에서 보유하고 있는 권한을 보려면 아래 단계를 따르십시오.
 
 1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 

@@ -3,10 +3,10 @@ description: HTTPS에 대한 Strict-Transport-Security를 포함하여 이메일
 title: 이메일 추적 링크 헤더
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 8%
+source-wordcount: '115'
+ht-degree: 7%
 
 ---
 

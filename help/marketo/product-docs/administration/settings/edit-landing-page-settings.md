@@ -4,16 +4,16 @@ description: 도메인 이름, 대체 페이지, 양식 미리 채우기 및 기
 title: 랜딩 페이지 설정 편집
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 10%
+source-wordcount: '208'
+ht-degree: 8%
 
 ---
 
 # 랜딩 페이지 설정 편집 {#edit-landing-page-settings}
 
-도메인 이름과 대체 페이지를 편집하고, 양식 미리 채우기를 활성화하거나 비활성화하고, 랜딩 페이지의 오용을 방지하는 등의 작업을 수행할 수 있습니다. 방법은 다음과 같습니다.
+도메인 이름과 대체 페이지를 편집하고, 양식 미리 채우기를 활성화하거나 비활성화하고, 랜딩 페이지의 오용을 방지하는 등의 작업을 수행할 수 있습니다. 아래 단계를 수행합니다.
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ ht-degree: 10%
 
    | 용어 | 정의 |
    |---|---|
-   | [!UICONTROL Domain name for landing pages] | CNAME입니다. CNAME은 랜딩 페이지에 사용자에게 제공하는 URL의 첫 번째 부분입니다. 예를 들어 `https://go.yourCompany.com`에서 &quot;go&quot;라는 단어는 CNAME입니다. 여러 개를 사용할 수 있지만 대부분의 사용자는 하나를 사용합니다. |
+   | [!UICONTROL Domain name for landing pages] | CNAME입니다. CNAME은 랜딩 페이지에 사용자에게 제공하는 URL의 첫 번째 부분입니다. 예를 들어 `https://go.yourCompany.com`에서 &quot;go&quot;라는 단어는 CNAME입니다. 여러 개를 사용할 수 있지만 대부분의 사용자는 한 개만 사용합니다. |
    | [!UICONTROL Fallback page] | 랜딩 페이지가 없거나 다운된 경우 이 위치로 이동해야 합니다. [대체 페이지](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)에 대해 자세히 알아보세요. |
    | [!UICONTROL Homepage] | 회사 사이트 URL을 입력합니다. |
 
@@ -55,4 +55,4 @@ ht-degree: 10%
 
    ![](assets/edit-landing-page-settings-6.png)
 
-   좋습니다! 이제 랜딩 페이지에 올바른 정보가 있으므로 즉시 작업을 시작해야 합니다.
+   이제 랜딩 페이지에 올바른 정보가 있으므로 즉시 작업을 시작해야 합니다.
