@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: fbb3747227eca8f47eae43c8fbf02ef2ee702978
+source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
 workflow-type: tm+mt
 source-wordcount: '9238'
 ht-degree: 99%
@@ -996,7 +996,7 @@ ht-degree: 99%
             + [브랜드 적용](product-docs/email-marketing/email-designer/brands/apply-brand.md)
             + [브랜드 생성 및 관리](product-docs/email-marketing/email-designer/brands/manage-brands.md)
             + [브랜드 개인화](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
-            + [브랜드 정렬](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
+            + [브랜드 점수](product-docs/email-marketing/email-designer/brands/brand-score.md)
          + [개요](product-docs/email-marketing/email-designer/overview.md)
          + [기능 비교](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [이메일 작성](product-docs/email-marketing/email-designer/email-authoring.md)
