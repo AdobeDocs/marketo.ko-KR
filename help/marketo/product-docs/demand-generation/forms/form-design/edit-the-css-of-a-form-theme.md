@@ -4,7 +4,7 @@ description: Marketo에서 양식 테마의 CSS를 편집하는 방법을 알아
 title: 양식 테마의 CSS 편집
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 11%
@@ -13,7 +13,7 @@ ht-degree: 11%
 
 # 양식 테마의 CSS 편집 {#edit-the-css-of-a-form-theme}
 
-[에서 선택할 수 있는 미리 만들어진 &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)테마가 몇 개 있습니다. 그러나 CSS 편집이 마음에 들면 원하는 대로 변경할 수 있습니다. 방법은 다음과 같습니다.
+](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)에서 선택할 수 있는 미리 만들어진 [테마가 몇 개 있습니다. 그러나 CSS 편집이 마음에 들면 원하는 대로 변경할 수 있습니다. 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ ht-degree: 11%
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
-1. 이 CSS를 자유롭게 잘라내 편집기에 붙여넣으십시오. 읽기 전용이므로 재정의 CSS만 있으면 됩니다.
+1. 이 CSS를 고유한 편집기에 복사할 수 있습니다. 읽기 전용이므로 재정의 CSS만 있으면 됩니다.
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
@@ -62,5 +62,3 @@ ht-degree: 11%
 1. 사용자 지정된 양식을 보려면 **[!UICONTROL Preview Draft]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
-
-바로 그거야!

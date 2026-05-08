@@ -4,9 +4,9 @@ description: Marketo에서 양식 감사 페이지를 설정하는 방법에 대
 title: 감사 페이지 양식 설정
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '334'
 ht-degree: 5%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 5%
 
 [페이지에 있음] 옵션은 양식을 제출할 때 방문자를 동일한 페이지에 유지합니다.
 
-1. **[!UICONTROL Stay On Page]**&#x200B;에 대해 **[!UICONTROL Follow Up With]**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Follow Up With]**&#x200B;에 대해 **[!UICONTROL Stay On Page]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ ht-degree: 5%
 
 외부 URL 설정을 사용하면 모든 URL을 후속 페이지로 정의할 수 있습니다. 사용자가 양식을 제출하면 지정된 URL로 이동됩니다.
 
-1. **[!UICONTROL External URL]**&#x200B;에 대해 **[!UICONTROL Follow Up With]**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Follow Up With]**&#x200B;에 대해 **[!UICONTROL External URL]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -127,8 +127,6 @@ ht-degree: 5%
 
    ![](assets/image2014-9-15-17-3a40-3a26.png)
 
-   좋아, 좋아 보여!
-
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
 1. **[!UICONTROL Finish]**&#x200B;를 클릭합니다.
@@ -138,5 +136,3 @@ ht-degree: 5%
 1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
-
-잘했어!

@@ -4,16 +4,16 @@ description: Marketo 양식에 필드 세트를 추가하는 방법을 알아봅
 title: 양식에 FieldSet 추가
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 13%
+source-wordcount: '99'
+ht-degree: 14%
 
 ---
 
 # 양식에 FieldSet 추가 {#add-a-fieldset-to-a-form}
 
-필드 세트는 훌륭합니다. 그들은 여러 밭을 함께 모은다. 한 번에 전체 블록을 제어할 수도 있습니다!
+필드 세트는 여러 필드를 함께 그룹화합니다. 한 번에 전체 블록을 제어할 수 있습니다.
 
 1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
@@ -35,11 +35,9 @@ ht-degree: 13%
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
-1. 완료 시 표시되어야 하는 모양이 다음과 같습니다.
+1. 다음은 완료 시 표시되어야 하는 모습을 보여 줍니다.
 
    ![](assets/image2014-9-15-15-3a2-3a31.png)
-
-여기 있습니다!
 
 >[!TIP]
 >

@@ -4,9 +4,9 @@ description: Marketo 양식에서 알려진 사용자를 위한 사용자 지정
 title: 알려진 사용자에 대한 사용자 정의 HTML 양식 표시
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 8%
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. 알려진 사람들에게 표시될 ![을(를) 편집하려면 &#x200B;](assets/image2014-9-25-14-3a1-3a26.png)—**[!UICONTROL Custom HTML]**&#x200B;을(를) 클릭하십시오.
+1. 알려진 사람들에게 표시될 **[!UICONTROL Custom HTML]**&#x200B;을(를) 편집하려면 ![—](assets/image2014-9-25-14-3a1-3a26.png)을(를) 클릭하십시오.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -68,7 +68,7 @@ ht-degree: 8%
    >
    >양식을 변경하여 만든 랜딩 페이지 초안 [승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)해야 합니다.
 
-   케이크 한 조각! 동일한 양식으로 돌아왔다면 어떤 결과가 표시될지 확인하십시오.
+   다음은 동일한 양식으로 돌아왔을 때 보게 되는 내용을 보여줍니다.
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 

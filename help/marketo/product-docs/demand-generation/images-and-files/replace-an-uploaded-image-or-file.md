@@ -4,10 +4,10 @@ description: Marketo에서 업로드된 이미지 또는 파일을 바꾸는 방
 title: 업로드된 이미지 또는 파일 교체
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 15%
+source-wordcount: '112'
+ht-degree: 16%
 
 ---
 
@@ -40,8 +40,6 @@ ht-degree: 15%
    >[!NOTE]
    >
    >대체 파일의 이름은 이전 파일의 이름과 일치하도록 변경됩니다.
-
-잘했어!
 
 >[!MORELIKETHIS]
 >

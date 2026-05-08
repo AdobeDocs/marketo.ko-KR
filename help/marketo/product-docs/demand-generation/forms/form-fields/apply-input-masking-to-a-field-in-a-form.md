@@ -4,9 +4,9 @@ description: Marketo의 양식 필드에 입력 마스킹을 적용하는 방법
 title: 양식의 필드에 입력 마스킹 적용
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '172'
 ht-degree: 12%
 
 ---
@@ -51,12 +51,10 @@ ht-degree: 12%
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
-   확인해 봐! 이제 방문자에게 특정 형식으로 숫자를 입력하도록 요청하고 있습니다.
+   이제 방문자에게 특정 형식으로 숫자를 입력하도록 요청합니다.
 
    ![](assets/image2014-9-15-13-3a41-3a39.png)
 
    >[!NOTE]
    >
    >필드는 위 이미지에 표시된 대로 사전 정의된 영역을 표시하지 않을 수 있습니다. 방문자가 숫자를 입력하기 시작할 때까지 비어 있을 수 있으며, 이 때 필드에 대해 정의한 입력 형식을 자동으로 준수합니다.
-
-멋지지?

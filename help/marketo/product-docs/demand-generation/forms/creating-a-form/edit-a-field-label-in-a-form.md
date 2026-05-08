@@ -4,9 +4,9 @@ description: Marketo 양식에서 필드 레이블을 편집하는 방법을 알
 title: 양식에서 필드 레이블 편집
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '121'
 ht-degree: 14%
 
 ---
@@ -45,4 +45,4 @@ ht-degree: 14%
 
 >[!NOTE]
 >
->양식을 변경하여 만든 [랜딩 페이지 초안 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}을 잊지 마십시오.
+>양식을 변경하여 만든 [랜딩 페이지 초안을 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}해야 합니다.

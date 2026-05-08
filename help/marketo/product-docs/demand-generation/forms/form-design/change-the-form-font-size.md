@@ -4,10 +4,10 @@ description: Marketo에서 양식 글꼴 크기를 변경하는 방법을 알아
 title: 양식 글꼴 크기 변경
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 13%
+source-wordcount: '111'
+ht-degree: 14%
 
 ---
 
@@ -52,5 +52,3 @@ Marketo을 사용하면 양식의 모양과 느낌을 손쉽게 맞춤화할 수
    >양식 변경으로 생성된 랜딩 페이지 초안을 승인해야 합니다.
 
    ![](assets/image2014-9-15-16-3a11-3a42.png)
-
-케이크 한 조각! 네가 맡을게

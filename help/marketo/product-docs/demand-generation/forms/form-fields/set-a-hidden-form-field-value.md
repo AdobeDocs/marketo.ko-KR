@@ -4,9 +4,9 @@ description: Marketo에서 숨겨진 양식 필드 값을 설정하는 방법을
 title: 숨겨진 양식 필드 값 설정
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '266'
 ht-degree: 6%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 6%
 
 ## 필드 선택 {#select-the-field}
 
-1. 양식에서 숨겨진 필드를 선택하고 **[!UICONTROL Edit]**&#x200B;에 대해 **[!UICONTROL Autofill]**&#x200B;을(를) 클릭합니다.
+1. 양식에서 숨겨진 필드를 선택하고 **[!UICONTROL Autofill]**&#x200B;에 대해 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/autofill.png)
 
@@ -37,9 +37,9 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->매개 변수는 일종의 기술이죠, 그렇죠? 일단 그것들을 얻으면, 그것들은 강력합니다. 이 [쿼리 문자열의 Wikipedia 페이지](https://en.wikipedia.org/wiki/Query_string)이(가) 도움이 됩니다.
+>매개 변수는 기술적입니다. 일단 여러분이 그들을 이해하면, 그들은 강력합니다. 이 [쿼리 문자열의 Wikipedia 페이지](https://en.wikipedia.org/wiki/Query_string)이(가) 도움이 됩니다.
 
-1. **[!UICONTROL URL Parameter]**&#x200B;에 대해 **[!UICONTROL Get Value Type]**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Get Value Type]**&#x200B;에 대해 **[!UICONTROL URL Parameter]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/image2014-9-15-13-3a6-3a48.png)
 
@@ -55,7 +55,7 @@ ht-degree: 6%
 
 쿠키에 데이터를 저장하는 경우 양식을 제출할 때 **[!UICONTROL Cookie Value]**&#x200B;을(를) 사용하여 데이터를 선택할 수 있습니다.
 
-1. **[!UICONTROL Cookie Value]**&#x200B;에 대해 **[!UICONTROL Get Value From]**&#x200B;을(를) 선택하십시오.
+1. **[!UICONTROL Get Value From]**&#x200B;에 대해 **[!UICONTROL Cookie Value]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 

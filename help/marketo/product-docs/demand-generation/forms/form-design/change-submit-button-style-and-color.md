@@ -4,10 +4,10 @@ description: Marketo 양식에서 제출 단추 스타일과 색상을 변경하
 title: 제출 버튼 스타일 및 색상 변경
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 11%
+source-wordcount: '139'
+ht-degree: 12%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 11%
 
    >[!TIP]
    >
-   >제출 버튼을 왼쪽이나 오른쪽으로 드래그하여 위치를 변경할 수 있다는 것을 알고 계십니까? 그렇게 쉬워 사용해 보세요!
+   >제출 단추를 왼쪽 또는 오른쪽으로 드래그하여 위치를 변경할 수 있습니다.
 
 1. 원하는 단추 스타일을 선택합니다(위/아래로 스크롤).
 
@@ -54,8 +54,6 @@ ht-degree: 11%
 1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
-
-   여기요!
 
    ![](assets/image2014-9-15-16-3a57-3a17.png)
 

@@ -4,16 +4,16 @@ description: Marketo에서 양식 글꼴 모음을 변경하는 방법을 알아
 title: 양식 글꼴 모음 변경
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '103'
+ht-degree: 13%
 
 ---
 
 # 양식 글꼴 모음 변경 {#change-the-form-font-family}
 
-Google 글꼴은 훌륭하며 양식 편집기에 바로 빌드되었습니다. 확인해 봐!
+Google 글꼴은 양식 편집기에 내장되어 있습니다.
 
 >[!NOTE]
 >
@@ -56,8 +56,6 @@ Google 글꼴은 훌륭하며 양식 편집기에 바로 빌드되었습니다. 
    >양식 변경으로 생성된 랜딩 페이지 초안을 승인해야 합니다.
 
    ![](assets/image2014-9-15-16-3a2-3a1.png)
-
-양식의 글꼴 모음을 변경하는 것이 얼마나 쉬웠는지 살펴보세요. 좋습니다. 이제 완료되었으므로 양식 글꼴 크기를 변경하는 방법을 알아보겠습니다.
 
 >[!MORELIKETHIS]
 >

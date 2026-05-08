@@ -4,16 +4,16 @@ description: 게시하기 전에 Marketo에서 양식을 미리 보는 방법에
 title: 양식 미리보기
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 10%
+source-wordcount: '72'
+ht-degree: 11%
 
 ---
 
 # 양식 미리보기 {#preview-a-form}
 
-게시하기 전에 이 빠르고 간단한 양식 미리 보기에서 양식을 볼 수 있습니다.
+게시하기 전에 이 양식 미리 보기에서 양식을 볼 수 있습니다.
 
 1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
@@ -31,7 +31,7 @@ ht-degree: 10%
 
    ![](assets/preview-a-form-3.png)
 
-1. **[!UICONTROL Edit Draft]**&#x200B;편집&#x200B;_모드로 돌아가려면_&#x200B;을(를) 클릭하십시오.
+1. _편집_ 모드로 돌아가려면 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭하십시오.
 
    ![](assets/preview-a-form-4.png)
 

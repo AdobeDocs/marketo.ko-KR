@@ -4,10 +4,10 @@ description: Marketo의 양식 필드에 힌트 텍스트를 추가하는 방법
 title: 양식 필드에 힌트 텍스트 추가
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 15%
+source-wordcount: '123'
+ht-degree: 14%
 
 ---
 
@@ -45,8 +45,8 @@ ht-degree: 15%
 
    >[!NOTE]
    >
-   >양식을 변경하여 만든 [랜딩 페이지 초안 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)을 잊지 마십시오.
+   >양식을 변경하여 만든 랜딩 페이지 초안 [승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)해야 합니다.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-확인해 봐! 이제 [지침](add-tooltip-instructions-to-a-form-field.md)을 추가해 보겠습니다.
+양식 필드에 도구 설명 지침을 추가하려면 [양식 필드에 도구 설명 지침 추가](add-tooltip-instructions-to-a-form-field.md)를 참조하십시오.

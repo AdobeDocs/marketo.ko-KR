@@ -4,9 +4,9 @@ description: Marketo에서 양식을 만드는 방법을 알아봅니다. 필드
 title: 양식 만들기
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '124'
 ht-degree: 7%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 7%
 
 >[!TIP]
 >
->대부분의 사용자는 각 랜딩 페이지에 대해 새 양식을 만들지만, 여러 랜딩 페이지에서 사용할 하나의 양식을 만들 수도 있습니다. 전적으로 당신에게 달려 있습니다!
+>대부분의 사용자는 각 랜딩 페이지에 대해 새 양식을 만들지만, 여러 랜딩 페이지에서 사용할 하나의 양식을 만들 수도 있습니다.
 
 >[!MORELIKETHIS]
 >

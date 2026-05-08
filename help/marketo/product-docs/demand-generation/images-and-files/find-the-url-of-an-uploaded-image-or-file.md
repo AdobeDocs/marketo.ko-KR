@@ -4,16 +4,16 @@ description: Marketo에서 업로드된 이미지 또는 파일의 URL을 찾는
 title: 업로드된 이미지 또는 파일의 URL 찾기
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '78'
 ht-degree: 24%
 
 ---
 
 # 업로드된 이미지 또는 파일의 URL 찾기 {#find-the-url-of-an-uploaded-image-or-file}
 
-업로드한 이미지 또는 파일의 웹 주소(URL)를 찾고 계십니까?
+업로드한 이미지 또는 파일의 URL을 찾으려면 다음 단계를 따르십시오.
 
 1. **[!UICONTROL Design Studio]**(으)로 이동합니다.
 

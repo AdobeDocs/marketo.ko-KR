@@ -3,16 +3,16 @@ description: Marketo Forms에서 CAPTCHA를 활성화하는 방법을 알아봅�
 title: Marketo 양식에서 CAPTCHA 활성화
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 12%
+source-wordcount: '101'
+ht-degree: 11%
 
 ---
 
 # Marketo 양식에서 CAPTCHA 활성화 {#enable-captcha-in-marketo-forms}
 
-양식별로 [!UICONTROL CAPTCHA]을(를) 활성화/비활성화할 수 있습니다.
+양식별로 [!UICONTROL CAPTCHA]을(를) 활성화하거나 비활성화할 수 있습니다.
 
 1. 원하는 양식을 찾아 선택합니다.
 

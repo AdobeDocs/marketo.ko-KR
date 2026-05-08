@@ -4,16 +4,16 @@ description: Marketo에서 양식 테마를 선택하는 방법을 알아봅니�
 title: 양식 테마 선택
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 9%
+source-wordcount: '118'
+ht-degree: 11%
 
 ---
 
 # 양식 테마 선택 {#select-a-form-theme}
 
-귀하의 양식을 위해 멋진 테마를 많이 만들었습니다. 어느 것이 가장 좋으세요?
+양식에는 몇 가지 테마를 사용할 수 있습니다.
 
 1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
@@ -53,8 +53,6 @@ ht-degree: 9%
 1. 다른 양식 옵션을 구성하려면 **[!UICONTROL Next]**&#x200B;을(를) 클릭하고, 양식 테마를 변경하려는 경우에만 **[!UICONTROL Finish]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/select-a-form-theme-5.png)
-
-얼마나 쉬웠죠?! 이제 HTML/CSS 설명서에서 일부 먼지를 수집하도록 할 수 있습니다.
 
 >[!MORELIKETHIS]
 >

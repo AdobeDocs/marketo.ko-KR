@@ -4,10 +4,10 @@ description: Marketo 양식의 라디오 또는 드롭다운 필드에서 값을
 title: 양식에서 라디오 또는 선택된 필드의 값 정의
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 15%
+source-wordcount: '174'
+ht-degree: 16%
 
 ---
 
@@ -62,5 +62,3 @@ ht-degree: 15%
 1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
-
-훌륭해! 정말 잘하고 계시네요.

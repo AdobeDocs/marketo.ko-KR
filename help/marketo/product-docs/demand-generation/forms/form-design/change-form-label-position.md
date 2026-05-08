@@ -4,10 +4,10 @@ description: Marketo에서 양식 레이블 위치를 변경하는 방법을 알
 title: 양식 레이블 위치 변경
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 12%
+source-wordcount: '95'
+ht-degree: 15%
 
 ---
 
@@ -51,8 +51,6 @@ ht-degree: 12%
    >[!NOTE]
    >
    >양식 변경으로 생성된 랜딩 페이지 초안을 승인해야 합니다.
-
-잘했어! 양식의 레이블 위치를 변경하는 것이 얼마나 쉬웠는지 살펴보십시오. 좋아요, 양식 라벨의 글꼴을 변경하는 것에 대해 우리가 무엇을 할 수 있는지 알아봅시다.
 
 >[!MORELIKETHIS]
 >

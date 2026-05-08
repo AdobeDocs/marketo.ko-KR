@@ -4,9 +4,9 @@ description: Marketo에서 양식 제출 단추 텍스트를 변경하는 방법
 title: 양식 제출 버튼 텍스트 변경
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '85'
 ht-degree: 18%
 
 ---
@@ -38,7 +38,5 @@ ht-degree: 18%
 1. **[!UICONTROL Approve and Close]**&#x200B;를 클릭합니다.
 
    ![](assets/image2014-9-15-12-3a43-3a36.png)
-
-   밤!
 
    ![](assets/image2014-9-15-12-3a44-3a7.png)
