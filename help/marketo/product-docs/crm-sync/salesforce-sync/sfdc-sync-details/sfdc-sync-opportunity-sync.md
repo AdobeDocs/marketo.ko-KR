@@ -19,7 +19,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
-> [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)에 대해 Marketo에 입력한 [자격 증명은 데이터를 동기화하는 데 사용됩니다. 해당 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
+> [!DNL Salesforce][&#128279;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)에 대해 Marketo에 입력한 자격 증명은 데이터를 동기화하는 데 사용됩니다. 해당 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
 
 ## Opportunity Sync 를 시작할 수 있습니까? {#can-i-initiate-an-opportunity-sync}
 

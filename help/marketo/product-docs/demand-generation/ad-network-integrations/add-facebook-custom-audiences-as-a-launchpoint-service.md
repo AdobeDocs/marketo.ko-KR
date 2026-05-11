@@ -69,4 +69,4 @@ ht-degree: 1%
 >
 >* [사용자 지정 대상 만들기 [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >
->* [리드 광고 설정 [!DNL Facebook] 2}](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>* [리드 광고 설정 [!DNL Facebook] 2&rbrace;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

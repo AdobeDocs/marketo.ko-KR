@@ -20,7 +20,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
-> [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}의 [사용자 지정 대상자에 대해 자세히 알아보세요.
+> [!DNL Facebook][&#128279;](https://www.facebook.com/help/341425252616329){target="_blank"}의 사용자 지정 대상자에 대해 자세히 알아보세요.
 
 1. 대상을 만들 잠재 고객이 포함된 스마트 또는 정적 목록을 찾아 선택합니다.
 
