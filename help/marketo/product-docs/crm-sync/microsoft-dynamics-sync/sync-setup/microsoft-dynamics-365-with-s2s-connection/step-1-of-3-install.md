@@ -3,9 +3,9 @@ description: Dynamics 365에서 서버 간 연결을 통해 Marketo 솔루션을
 title: 1/3단계 - 서버 간 연결을 통해 Marketo 솔루션 설치
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '244'
 ht-degree: 3%
 
 ---
@@ -86,7 +86,7 @@ ht-degree: 3%
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
-   하이 파이브! 설치가 완료되었습니다.
+   설치가 완료되었습니다.
 
    >[!MORELIKETHIS]
    >

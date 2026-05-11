@@ -6,10 +6,10 @@ hide: true
 hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '133'
-ht-degree: 100%
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 91%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Marketo Engage가 무엇인지 궁금하십니까? 좋은 질문입니다.
 
-[Marketo Engage 알아보기](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
+[Marketo Engage 학습](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## 설정하기 {#get-set-up}
 
@@ -125,6 +125,6 @@ IT 팀의 약간의 도움을 받으면 금방 완료할 수 있습니다.
 </tr>
 </table>
 
-## 4단계입니다. 축하합니다. 이제 Nation을 사용할 준비가 되었습니다.  {#congrats-youre-ready-for-the-nation}
+## 4단계입니다. 축하합니다. 당신은 국가를 위해 준비되었습니다  {#congrats-youre-ready-for-the-nation}
 
 [Marketing Nation](https://nation.marketo.com){target="_blank"}을 확인하십시오.

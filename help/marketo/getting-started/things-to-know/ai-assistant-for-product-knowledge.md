@@ -3,12 +3,11 @@ description: 제품 지식을 위한 AI 지원 - Marketo Engage 문서 - 제품 
 title: 제품 지식을 위한 AI Assistant
 feature: Getting Started
 hide: true
-hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '169'
+ht-degree: 1%
 
 ---
 
@@ -42,4 +41,4 @@ ht-degree: 0%
 
 제품 지식에 대한 AI Assistant가 작동하는 방식을 약 1분 안에 확인할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480122?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}

@@ -2,12 +2,11 @@
 description: 선택 및 보내기를 사용하여 대량 이메일을 작성하고 보내는 방법에 대해 알아봅니다. 인물 페이지에서 연락처를 선택하고 규모에 따라 개인화된 이메일을 전송합니다.
 title: 선택 및 보내기 기능으로 일괄 이메일 작성
 hide: true
-hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '400'
 ht-degree: 3%
 
 ---

@@ -4,16 +4,16 @@ description: 마지막 단계에서 Marketo 및 Dynamics 2013을 온프레미스
 title: 3단계 중 3단계 - Marketo 및 Dynamics 연결(2013 온프레미스)
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '364'
 ht-degree: 1%
 
 ---
 
 # 3단계/3단계: Marketo 및 [!DNL Dynamics] 연결(2013 온-프레미스) {#step-of-connect-marketo-and-dynamics-on-premises}
 
-좋아! 솔루션을 설치하고 동기화 사용자를 구성했습니다. 그런 다음 Marketo과 [!DNL Dynamics]을(를) 연결해야 합니다.
+솔루션이 설치되고 동기화 사용자가 구성되었습니다. 그런 다음 Marketo과 [!DNL Dynamics]을(를) 연결합니다.
 
 >[!PREREQUISITES]
 >
@@ -38,13 +38,13 @@ ht-degree: 1%
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. **[!UICONTROL Edit]**&#x200B;에서 **[!UICONTROL Step 1: Enter Credentials]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Step 1: Enter Credentials]**&#x200B;에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
    >[!CAUTION]
    >
-   >제출 후 후속 스키마 변경 사항을 되돌릴 수 없으므로 자격 증명이 올바른지 확인하십시오. 잘못된 자격 증명을 저장하면 새 Marketo 구독을 얻어야 합니다.
+   >자격 증명이 올바른지 확인합니다. 제출 후에는 이후의 스키마 변경 내용을 되돌릴 수 없습니다. 잘못된 자격 증명을 저장하면 새 Marketo 구독이 필요합니다.
 
 1. **[!UICONTROL Username]**, **[!UICONTROL Password]** 및 [!DNL Microsoft Dynamics] **URL**&#x200B;을(를) 입력한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
@@ -57,9 +57,9 @@ ht-degree: 1%
 
 ## 동기화할 필드 선택 {#select-fields-to-sync}
 
-이제 동기화할 필드를 선택해야 합니다.
+동기화할 필드를 선택하십시오.
 
-1. **[!UICONTROL Edit]**&#x200B;에서 **[!UICONTROL Step 2: Select Fields to Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Step 2: Select Fields to Sync]**&#x200B;에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -73,13 +73,13 @@ ht-degree: 1%
 
 ## 사용자 정의 필터의 동기화 필드 {#sync-fields-for-a-custom-filter}
 
-사용자 지정 필터를 만든 경우 로 이동하여 Marketo과 동기화할 새 필드를 선택하십시오.
+사용자 지정 필터를 만든 경우 로 이동하여 Marketo과 동기화할 새 필드를 선택합니다.
 
 1. [!UICONTROL Admin]&#x200B;(으)로 이동하여 **[!UICONTROL Microsoft Dynamics]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. **[!UICONTROL Edit]**&#x200B;에서 [!UICONTROL Field Sync Details]을(를) 클릭합니다.
+1. [!UICONTROL Field Sync Details]에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -89,7 +89,7 @@ ht-degree: 1%
 
 ## 동기화 활성화 {#enable-sync}
 
-1. **[!UICONTROL Edit]**&#x200B;에서 **[!UICONTROL Step 3: Enable Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Step 3: Enable Sync]**&#x200B;에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -105,7 +105,7 @@ ht-degree: 1%
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
-훌륭합니다! Marketo과 [!DNL Microsoft Dynamics] 간의 양방향 동기화 기능을 방금 해제했습니다. [!DNL Marketo Sales Insight]을(를) 구입한 경우 더 즐거운 시간을 보낼 수 있습니다.
+이제 Marketo과 [!DNL Microsoft Dynamics] 간의 양방향 동기화가 설정되었습니다. [!DNL Marketo Sales Insight]을(를) 구입한 경우 다음을 참조하세요.
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,9 @@ description: Dynamic Chat을 Marketo Engage 구독에 연결하는 방법을 알
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '293'
 ht-degree: 3%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->Dynamic Chat은 [Marketo 기본](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}과(와) 사용자 정의 개인 필드 및 회사 필드 동기화를 지원합니다.
+>Dynamic Chat은 [Marketo 기본](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}과(와) 사용자 정의 개인 필드 및 회사 필드 동기화를 지원합니다.
 
 1. 내 Marketo에서 **[!UICONTROL Dynamic Chat]** 타일을 클릭합니다.
 
@@ -28,7 +28,7 @@ ht-degree: 3%
    >
    >타일이 표시되지 않으면 Marketo 관리자에게 문의하십시오.
 
-1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Dynamic Chat으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/kr/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
+1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Dynamic Chat으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
 
 1. Marketo 인스턴스를 연결하려면 **[!UICONTROL Integrations]**&#x200B;을(를) 선택하십시오.
 
@@ -52,9 +52,9 @@ ht-degree: 3%
 
 ## 속성 추가 {#add-an-attribute}
 
-초기 동기화 후 속성을 추가하는 방법은 다음과 같습니다.
+초기 동기화 후 다음 단계에 따라 속성을 추가합니다.
 
-1. **[!UICONTROL Integrations]**&#x200B;에서 **[!UICONTROL Adobe Marketo Engage]** 탭이 선택되어 있는지 확인하고 **[!UICONTROL Add Attribute]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Integrations]**&#x200B;에서 **[!UICONTROL Adobe Marketo Engage]** 탭이 선택되었는지 확인하고 **[!UICONTROL Add Attribute]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/adobe-marketo-engage-6.png)
 
@@ -68,13 +68,13 @@ ht-degree: 3%
 
 ## 속성 제거 {#remove-an-attribute}
 
-초기 동기화 후 특성을 제거하는 방법은 다음과 같습니다.
+초기 동기화 후 다음 단계에 따라 속성을 제거합니다.
 
 >[!NOTE]
 >
->현재 대화 상자에서 사용하고 있지 않은 속성만 제거하는 옵션이 표시됩니다.
+>현재 대화 상자에서 사용 중이 아닌 경우에만 속성을 제거하는 옵션이 표시됩니다.
 
-1. **[!UICONTROL Integrations]**&#x200B;에서 **[!UICONTROL Adobe Marketo Engage]** 탭을 선택하고 제거할 특성을 클릭합니다.
+1. **[!UICONTROL Integrations]**&#x200B;에서 **[!UICONTROL Adobe Marketo Engage]** 탭이 선택되었는지 확인하고 제거할 특성을 클릭합니다.
 
    ![](assets/adobe-marketo-engage-9.png)
 

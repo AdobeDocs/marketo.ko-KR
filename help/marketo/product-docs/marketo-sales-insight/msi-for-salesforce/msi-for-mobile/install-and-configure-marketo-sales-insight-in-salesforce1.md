@@ -33,7 +33,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->[!DNL Salesforce1]의 [!DNL Marketo Sales Insight]에는 [!DNL B최고의 베팅], 리드 피드, 즐거운 순간 및 Marketo 캠페인에 추가 기능이 포함됩니다.
+>[!DNL Salesforce1]의 [!DNL Marketo Sales Insight]에는 [!DNLB최고의 베팅], 리드 피드, 즐거운 순간 및 Marketo 캠페인에 추가 기능이 포함됩니다.
 
 ## [!DNL Salesforce1] 모바일 앱 사용 {#enable-the-salesforce1-mobile-app}
 

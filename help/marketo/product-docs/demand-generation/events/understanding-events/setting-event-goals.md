@@ -2,10 +2,9 @@
 description: Marketo 이벤트 프로그램에서 이벤트 목표를 설정하는 방법에 대해 알아봅니다. 성공 지표를 정의하고 이벤트 목표에 대한 진행률을 추적합니다.
 title: 이벤트 목표 설정
 hide: true
-hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 7%

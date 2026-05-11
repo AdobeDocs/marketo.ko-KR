@@ -7,11 +7,10 @@ feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
-hidefromtoc: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '714'
+source-wordcount: '718'
 ht-degree: 4%
 
 ---
@@ -131,7 +130,7 @@ If you apply a theme to a content using a [fragment](../content-management/fragm
      >
      >_수동 스타일링_ 모드를 선택한 경우 이메일을 다시 설정하지 않으면 테마를 적용할 수 없습니다.
      >
-     >[테마 사용](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) 모드에서 _조각_&#x200B;을 사용하려면 _테마 사용_ 모드를 사용하여 이 조각을 직접 만들어야 합니다.
+     >_테마 사용_ 모드에서 [조각](/help/marketo/product-docs/email-marketing/email-designer/fragments.md)을 사용하려면 _테마 사용_ 모드를 사용하여 이 조각을 직접 만들어야 합니다.
 
 1. 이메일 Designer에서 오른쪽 레일의 **[!UICONTROL Themes]** 단추를 클릭합니다. 기본 테마 또는 템플릿의 테마가 표시됩니다. 이 테마의 두 색상 변형 간을 전환할 수 있습니다.
 

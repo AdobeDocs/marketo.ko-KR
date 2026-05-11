@@ -3,10 +3,10 @@ description: Dynamics 365에서 ROPC 연결을 사용하여 Marketo 솔루션을
 title: 1/4단계 - 리소스 소유자 암호 제어 연결을 사용하여 Marketo 솔루션 설치
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 3%
+source-wordcount: '290'
+ht-degree: 5%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 3%
    >
    >설치 프로세스를 완료하려면 브라우저에서 팝업을 활성화해야 합니다.
 
-1. 이제 가져오기가 완료될 때까지 기다립니다. 일어나서 스트레칭을 좀 하세요.
+1. 이제 가져오기가 완료될 때까지 기다립니다.
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
@@ -87,7 +87,7 @@ ht-degree: 3%
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
-   수고하셨습니다! 설치가 완료되었습니다.
+   설치가 완료되었습니다.
 
    >[!MORELIKETHIS]
    >

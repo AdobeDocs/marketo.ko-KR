@@ -2,10 +2,9 @@
 description: 판매 Insight 작업에서 템플릿 범주를 관리하는 방법을 알아봅니다. 템플릿을 카테고리로 구성하고 공유를 제어합니다.
 title: 템플릿 카테고리 관리
 hide: true
-hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 19%
@@ -20,7 +19,7 @@ ht-degree: 19%
 
    ![](assets/manage-template-categories-1.png)
 
-1. **옆에 있는**+**[!UICONTROL Categories]** 아이콘을 클릭합니다.
+1. **[!UICONTROL Categories]** 옆에 있는 **+** 아이콘을 클릭합니다.
 
    ![](assets/manage-template-categories-2.png)
 

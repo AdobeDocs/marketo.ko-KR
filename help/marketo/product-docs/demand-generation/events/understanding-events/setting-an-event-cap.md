@@ -2,12 +2,11 @@
 description: Marketo에서 이벤트 상한을 설정하는 방법에 대해 알아봅니다. 이벤트 프로그램에 대한 등록자 또는 참석자 수를 제한하십시오.
 title: 이벤트 상한 설정
 hide: true
-hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '197'
 ht-degree: 5%
 
 ---

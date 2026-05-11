@@ -3,9 +3,9 @@ description: Admin Console의 Dynamic Chat 권한 및 제품 프로필에 대해
 title: 권한
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '737'
 ht-degree: 4%
 
 ---
@@ -28,7 +28,7 @@ Dynamic Chat에서 편집할 수 있는 사전 정의된 권한이 있는 5개�
 
    ![](assets/permissions-3.png)
 
-1. 편집할 프로필 영역을 선택합니다. 이 예제에서는 라이브 채팅을 선택합니다. 연필 아이콘을 클릭합니다.
+1. 편집할 프로필 영역을 선택합니다. 이 예제에서는 **실시간 채팅**&#x200B;을(를) 선택했습니다. 연필 아이콘을 클릭합니다.
 
    ![](assets/permissions-4.png)
 

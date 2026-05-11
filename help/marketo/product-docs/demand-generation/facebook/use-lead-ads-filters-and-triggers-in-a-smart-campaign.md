@@ -4,9 +4,9 @@ description: Marketo 스마트 캠페인에서 Facebook 리드 광고 필터 및
 title: 스마트 캠페인에서 리드 광고 필터 및 트리거 사용
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '85'
 ht-degree: 23%
 
 ---

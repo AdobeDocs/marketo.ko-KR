@@ -3,10 +3,10 @@ description: Adobe Admin Console에서 Dynamic Chat 사용자를 추가하거나
 title: 채팅 사용자 추가 또는 제거
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 12%
+source-wordcount: '260'
+ht-degree: 16%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 12%
 
 ## Marketo 역할에 Dynamic Chat 액세스 추가 {#add-dynamic-chat-access-to-marketo-role}
 
-새로 추가된 채팅 사용자의 Marketo 역할에 이미 [!DNL Dynamic Chat] 권한이 없는 경우 추가하는 방법은 다음과 같습니다.
+새로 추가된 채팅 사용자의 Marketo 역할에 아직 [!DNL Dynamic Chat] 권한이 없는 경우 다음 단계에 따라 추가합니다.
 
 1. Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭하고 **[!UICONTROL Users & Roles]**&#x200B;을(를) 선택합니다.
 

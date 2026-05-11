@@ -2,12 +2,11 @@
 description: 판매 Insight 작업에서 Marketo 마케팅 캠페인에 연락처를 추가하는 방법을 알아봅니다. 연락처를 선택하고 캠페인에 추가합니다.
 title: 마케팅 캠페인에 추가
 hide: true
-hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '314'
 ht-degree: 5%
 
 ---
@@ -40,7 +39,7 @@ ht-degree: 5%
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. 마케팅 캠페인에 추가하고 있으므로 &quot;보낸 사람&quot; 주소 선택을 건너뜁니다. 그러나 연락처를 더 추가하도록 선택할 수 있습니다. 선택한 경우 [!UICONTROL Individuals]을(를) 클릭하고 입력하십시오. 완료되면 **[!UICONTROL Next]**&#x200B;를 클릭합니다.
+1. 마케팅 캠페인에 추가하려고 하므로 &quot;보낸 사람&quot; 주소 선택을 건너뜁니다. 그러나 연락처를 더 추가하도록 선택할 수 있습니다. 선택한 경우 [!UICONTROL Individuals]을(를) 클릭하고 입력하십시오. 완료되면 **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/add-to-marketing-campaign-5.png)
 
@@ -78,7 +77,7 @@ PICC
 
 PICC
 
-1. 마케팅 캠페인에 추가하고 있으므로 &quot;보낸 사람&quot; 주소 선택을 건너뜁니다. 그러나 연락처를 더 추가하도록 선택할 수 있습니다. 선택한 경우 [!UICONTROL Individuals]을(를) 클릭하고 입력하십시오. 완료되면 **[!UICONTROL Next]**&#x200B;를 클릭합니다.
+1. 마케팅 캠페인에 추가하려고 하므로 &quot;보낸 사람&quot; 주소 선택을 건너뜁니다. 그러나 연락처를 더 추가하도록 선택할 수 있습니다. 선택한 경우 [!UICONTROL Individuals]을(를) 클릭하고 입력하십시오. 완료되면 **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
 PICC
 

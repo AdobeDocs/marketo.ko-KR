@@ -3,16 +3,16 @@ description: 마지막 설정 단계에서 Marketo Engage을 Veeva CRM에 연결
 title: 3단계/3단계 - Marketo Engage 및 [!DNL Veeva] CRM 연결
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '319'
 ht-degree: 2%
 
 ---
 
 # 3단계/3단계: Marketo Engage 및 [!DNL Veeva] CRM 연결 {#step-3-of-3-connect-marketo-engage-and-veeva-crm}
 
-이 문서에서는 구성된 [!DNL Veeva] CRM 인스턴스와 동기화하도록 Marketo Engage을 구성합니다. **CRM이 [!DNL Salesforce] 플랫폼에 구축되어 있으므로**&#x200B;일부 팝업에 [!DNL Veeva]이(가) 표시됩니다[!DNL Salesforce].
+이 문서에서는 구성된 [!DNL Veeva] CRM 인스턴스와 동기화하도록 Marketo Engage을 구성합니다. [!DNL Veeva] CRM이 [!DNL Salesforce] 플랫폼에 구축되어 있으므로 **일부 팝업에 [!DNL Salesforce]이(가) 표시됩니다**.
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >동기화 필드 를 클릭하기 전에 동기화 사용자로부터 Marketo에서 [필요하지 않은 모든 필드를 숨기십시오](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}. 필드 동기화 를 클릭하면 사용자가 볼 수 있는 모든 필드가 Marketo에 영구적으로 만들어지며 삭제할 수 없습니다.
+   >[필드 동기화를 클릭하기 전에 동기화 사용자로부터 Marketo에서 필요하지 않은 모든 필드를 숨깁니다](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}. 필드 동기화 를 클릭하면 사용자가 볼 수 있는 모든 필드가 Marketo에 영구적으로 만들어지며 삭제할 수 없습니다.
 
 1. **[!UICONTROL Login with Veeva]**&#x200B;를 클릭합니다.
 
@@ -39,7 +39,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >Marketo 샌드박스를 [!UICONTROL Sandbox] CRM 샌드박스와 동기화하는 경우 [!DNL Veeva]을(를) 확인하십시오.
+   >Marketo 샌드박스를 [!DNL Veeva] CRM 샌드박스와 동기화하는 경우 [!UICONTROL Sandbox]을(를) 선택합니다.
 
 1. **[!UICONTROL Confirm Credentials]**&#x200B;를 클릭합니다.
 
@@ -57,7 +57,7 @@ ht-degree: 2%
 
    ![](assets/step-3-of-3-connect-marketo-engage-6.png)
 
-1. 몇 분 후에 Marketo Engae에 팝업이 나타납니다. **[!UICONTROL Confirm Credentials]**&#x200B;를 클릭합니다.
+1. 몇 분 후에 Marketo Engage에 팝업이 나타납니다. **[!UICONTROL Confirm Credentials]**&#x200B;를 클릭합니다.
 
    ![](assets/step-3-of-3-connect-marketo-engage-7.png)
 

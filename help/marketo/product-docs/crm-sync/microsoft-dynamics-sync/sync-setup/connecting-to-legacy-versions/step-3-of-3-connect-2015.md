@@ -4,9 +4,9 @@ description: 마지막 단계에서 Marketo을 Dynamics 2015 온프레미스에 
 title: Microsoft Dynamics 2015용 Marketo 온-프레미스 단계 3/3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '367'
 ht-degree: 2%
 
 ---
@@ -36,13 +36,13 @@ ht-degree: 2%
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. **[!UICONTROL Edit]**&#x200B;에서 **[!UICONTROL Step 1: Enter Credentials]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Step 1: Enter Credentials]**&#x200B;에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-3-16-9-48-43.png)
 
    >[!CAUTION]
    >
-   >제출 후 후속 스키마 변경 사항을 되돌릴 수 없으므로 자격 증명이 올바른지 확인하십시오. 잘못된 자격 증명을 저장하면 새 Marketo 구독을 얻어야 합니다.
+   >자격 증명이 올바른지 확인합니다. 제출 후에는 이후의 스키마 변경 내용을 되돌릴 수 없습니다. 잘못된 자격 증명을 저장하면 새 Marketo 구독이 필요합니다.
 
 1. **[!UICONTROL Username]**, **[!UICONTROL Password]**, [!DNL Microsoft Dynamics] **URL** 및 **[!UICONTROL Client Id]/[!UICONTROL Client Secret]**&#x200B;을(를) 입력하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
@@ -60,7 +60,7 @@ ht-degree: 2%
 
 ## 동기화할 필드 선택 {#select-fields-to-sync}
 
-1. **[!UICONTROL Edit]**&#x200B;에서 **[!UICONTROL Step 2: Select Fields to Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Step 2: Select Fields to Sync]**&#x200B;에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -74,13 +74,13 @@ ht-degree: 2%
 
 ## 사용자 정의 필터의 동기화 필드 {#sync-fields-for-a-custom-filter}
 
-사용자 지정 필터를 만든 경우 로 이동하여 Marketo과 동기화할 새 필드를 선택하십시오.
+사용자 지정 필터를 만든 경우 로 이동하여 Marketo과 동기화할 새 필드를 선택합니다.
 
 1. [!UICONTROL Admin]&#x200B;(으)로 이동하여 **[!UICONTROL Microsoft Dynamics]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. **[!UICONTROL Edit]**&#x200B;에서 [!UICONTROL Field Sync Details]을(를) 클릭합니다.
+1. [!UICONTROL Field Sync Details]에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -90,7 +90,7 @@ ht-degree: 2%
 
 ## 동기화 활성화 {#enable-sync}
 
-1. **[!UICONTROL Edit]**&#x200B;에서 **[!UICONTROL Step 3: Enable Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Step 3: Enable Sync]**&#x200B;에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-3-16-9-52-2.png)
 

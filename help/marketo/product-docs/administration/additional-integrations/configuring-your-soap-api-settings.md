@@ -3,10 +3,9 @@ unique-page-id: 2360352
 description: 개발자용 Admin Web Services에서 SOAP API 암호화 키를 설정하고 끝점 세부 정보를 가져옵니다.
 title: SOAP API 설정 구성
 hide: true
-hidefromtoc: true
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 22%
@@ -17,7 +16,7 @@ ht-degree: 22%
 
 >[!IMPORTANT]
 >
->2026년 7월 31일에 SOAP API가 [더 이상 사용되지 않습니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/soap/soap-api). 대신 [REST API](https://developer.adobe.com/marketo-apis/)를 사용하는 것이 좋습니다.
+>2026년 7월 31일에 SOAP API가 [더 이상 사용되지 않습니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api). 대신 [REST API](https://developer.adobe.com/marketo-apis/)를 사용하는 것이 좋습니다.
 
 >[!NOTE]
 >

@@ -26,9 +26,9 @@ ht-degree: 74%
 
 ## 인기 있는 Marketo Engage 문서
 
-* [&#x200B; [!DNL Salesforce] 동기화 이해](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [ [!DNL Salesforce] 동기화 이해](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [&#x200B; [!DNL Microsoft Dynamics] 동기화 이해](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [ [!DNL Microsoft Dynamics] 동기화 이해](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [스마트 캠페인 이해](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 

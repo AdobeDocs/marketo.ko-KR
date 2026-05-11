@@ -2,10 +2,9 @@
 unique-page-id: 1147318
 description: 영역 탐색, 달력 등을 위한 Marketo 키보드 단축키에 대한 도움말을 봅니다. 단축키를 사용하여 Marketo Engage에서 더 빠르게 이동할 수 있습니다.
 hide: true
-hidefromtoc: true
 title: 키보드 단축키 용어집
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 15%

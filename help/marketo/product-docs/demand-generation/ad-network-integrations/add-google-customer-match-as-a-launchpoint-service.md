@@ -4,9 +4,9 @@ description: Google Customer Match as a LaunchPoint 서비스를 추가하는 �
 title: Google Customer Match as a [!DNL LaunchPoint] Service 추가
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 4%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 4%
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. **[!UICONTROL Display Name]**&#x200B;을(를) 입력하고 **[!UICONTROL Google Customer Match]** 드롭다운에서 **[!UICONTROL Service]**&#x200B;을(를) 선택합니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Display Name]**&#x200B;을(를) 입력하고 **[!UICONTROL Service]** 드롭다운에서 **[!UICONTROL Google Customer Match]**&#x200B;을(를) 선택합니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/chooseservice.png)
 
@@ -55,7 +55,7 @@ ht-degree: 4%
 
    ![](assets/authorizesuccess.png)
 
-   멋지다! 이제 [설치된 서비스] 탭에 [!DNL LaunchPoint] 서비스로 나열된 Google 일치 대상이 표시됩니다.
+   Google과 일치하는 대상이 이제 설치된 서비스 탭에 [!DNL LaunchPoint] 서비스로 나열됩니다.
 
 >[!NOTE]
 >

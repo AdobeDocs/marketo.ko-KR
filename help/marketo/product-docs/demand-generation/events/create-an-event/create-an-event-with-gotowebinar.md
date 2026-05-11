@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949874
 description: Marketo에서 GotoWebinar를 사용하여 이벤트를 만드는 방법을 알아봅니다. Marketo과의 통합 및 동기화 웨비나 등록을 구성합니다.
-title: ' [!DNL GotoWebinar] (으)로 이벤트 만들기'
+title: ' [!DNL GotoWebinar](으)로 이벤트 만들기'
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Marketo 이벤트를 만들고 [!DNL GoToWebinar]을(를) 연결하면 시스템
 
 ## 날짜 및 시간 {#date-time}
 
-웨비나에 대한 다음 정보를 입력하면 어댑터를 통해 Marketo으로 가져옵니다. 이 정보를 변경하는 경우 **[!UICONTROL Refresh from Webinar Provider]** 아래의 &quot;**[!UICONTROL Event Actions]**&quot; 링크를 클릭해야 Marketo에서 변경 사항을 볼 수 있습니다.
+웨비나에 대한 다음 정보를 입력하면 어댑터를 통해 Marketo으로 가져옵니다. 이 정보를 변경하는 경우 **[!UICONTROL Event Actions]** 아래의 &quot;**[!UICONTROL Refresh from Webinar Provider]**&quot; 링크를 클릭해야 Marketo에서 변경 사항을 볼 수 있습니다.
 
 **[!UICONTROL Start Date]** - 시작 날짜를 입력하십시오. 이 화면은 Marketo에서 볼 수 있습니다.
 
@@ -55,9 +55,9 @@ Marketo 이벤트를 만들고 [!DNL GoToWebinar]을(를) 연결하면 시스템
 
 >[!TIP]
 >
->추가 [!DNL GoToWebinar] 도움이 필요한 경우 [도움말 사이트](https://support.logmeininc.com/gotowebinar)를 방문하세요.
+>추가 [!DNL GoToWebinar] 도움말이 필요한 경우 [도움말 사이트](https://support.logmeininc.com/gotowebinar)를 참조하세요.
 
-이제 Marketo으로 뛰어들어 보겠습니다!
+이제 Marketo으로 이동합니다.
 
 1. 이벤트를 선택합니다. **[!UICONTROL Event Actions]**&#x200B;을(를) 클릭하고 **[!UICONTROL Event Settings]**&#x200B;을(를) 선택합니다.
 
@@ -67,7 +67,7 @@ Marketo 이벤트를 만들고 [!DNL GoToWebinar]을(를) 연결하면 시스템
    >
    >선택한 이벤트의 채널 형식은 **웨비나**&#x200B;여야 합니다.
 
-1. **[!UICONTROL GoToWebinar]** 목록에서 **[!UICONTROL Event Partner]** 선택.
+1. **[!UICONTROL Event Partner]** 목록에서 **[!UICONTROL GoToWebinar]** 선택.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -83,7 +83,7 @@ Marketo 이벤트를 만들고 [!DNL GoToWebinar]을(를) 연결하면 시스템
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. 훌륭합니다! 이제 이벤트가 **[!DNL GoToWebinar]**&#x200B;에 의해 동기화되고 예약됩니다.
+1. 이제 이벤트가 동기화되어 **[!DNL GoToWebinar]**&#x200B;에 의해 예약됩니다.
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
@@ -105,9 +105,9 @@ Marketo 이벤트를 만들고 [!DNL GoToWebinar]을(를) 연결하면 시스템
 
    >[!TIP]
    >
-   >Marketo에 데이터가 표시되는 데 최대 48시간이 걸릴 수 있습니다. 그렇게 오래 기다린 후에도 아무 것도 표시되지 않으면 이벤트의 **[!UICONTROL Refresh from Webinar Provider]** 탭에 있는 [!UICONTROL Event Actions] 메뉴에서 **[!UICONTROL Summary]**&#x200B;을(를) 선택하십시오.
+   >Marketo에 데이터가 표시되는 데 최대 48시간이 걸릴 수 있습니다. 그렇게 오래 기다린 후에도 아무 것도 표시되지 않으면 이벤트의 **[!UICONTROL Summary]** 탭에 있는 [!UICONTROL Event Actions] 메뉴에서 **[!UICONTROL Refresh from Webinar Provider]**&#x200B;을(를) 선택하십시오.
 
-[!UICONTROL Change Program Status]이(가) &quot;등록됨&quot;으로 설정되면 웨비나에 등록한 사용자는 [!UICONTROL New Status] 흐름 단계를 통해 웨비나 공급자에게 푸시됩니다. 다른 상태는 사용자를 밀어내지 않습니다. 또한 [!UICONTROL Change Program Status] 흐름 단계를 #1, [!UICONTROL Send Email] 흐름 단계를 #2 합니다.
+[!UICONTROL New Status]이(가) &quot;등록됨&quot;으로 설정되면 웨비나에 등록한 사용자는 [!UICONTROL Change Program Status] 흐름 단계를 통해 웨비나 공급자에게 푸시됩니다. 다른 상태는 사용자를 밀어내지 않습니다. 또한 [!UICONTROL Change Program Status] 흐름 단계를 #1 [!UICONTROL Send Email] 흐름 단계를 #2.
 
 ## 일정 보기  {#viewing-the-schedule}
 

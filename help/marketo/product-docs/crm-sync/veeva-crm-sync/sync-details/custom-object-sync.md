@@ -2,10 +2,9 @@
 description: Veeva CRM에서 Marketo Engage으로 사용자 지정 개체 동기화를 설정하는 방법에 대해 알아봅니다. 관리자에서 사용자 지정 개체를 활성화하고 스마트 목록 및 트리거에서 사용합니다.
 title: 사용자 정의 오브젝트 동기화
 hide: true
-hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 4%

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504736
 description: Dynamics 2015용 Marketo 솔루션을 온프레미스에 설치하는 방법을 알아봅니다. 솔루션을 가져오고 Dynamics의 설치 단계를 완료합니다.
-title: Marketo Microsoft Dynamics 2015 온-프레미스 단계 1/3
+title: Microsoft Dynamics 2015 온-프레미스 단계 1/3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '287'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[!DNL Microsoft Dynamics] 온-프레미스를 사용하는 경우 [Active Directory Federation Services](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) 2.0+(ADFS)가 구성된 [IFD(인터넷 연결 배포](https://msdn.microsoft.com/en-us/library/bb897402.aspx))가 있어야 합니다. 참고: 링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
+>[!DNL Microsoft Dynamics] 온-프레미스를 사용하는 경우 [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+(ADFS)가 구성된 [IFD(인터넷 연결 배포](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701))가 있어야 합니다. 참고: 링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
 >
 >시작하기 전에 [Marketo 리드 관리 솔루션을 다운로드하십시오](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}.
 
@@ -87,7 +87,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-19-8-41-21.png)
 
-   수고하셨습니다! 설치가 완료되었습니다.
+   설치가 완료되었습니다.
 
    >[!CAUTION]
    >

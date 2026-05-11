@@ -4,10 +4,10 @@ description: 영업 기회 동기화가 Salesforce에서 Marketo으로 작동하
 title: SFDC 동기화 - 영업 기회 동기화
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 4%
+source-wordcount: '292'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->[에 대해 Marketo에 입력한  [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)자격 증명은 데이터를 동기화하는 데 사용됩니다. 해당 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
+> [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)에 대해 Marketo에 입력한 [자격 증명은 데이터를 동기화하는 데 사용됩니다. 해당 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
 
 ## Opportunity Sync 를 시작할 수 있습니까? {#can-i-initiate-an-opportunity-sync}
 
@@ -35,7 +35,7 @@ Marketo은 [영업 기회 연락처 역할](https://help.salesforce.com/HTViewHe
 
 ## 한 사람의 모든 기회를 어떻게 볼 수 있습니까? {#how-can-i-see-all-the-opportunities-of-a-person}
 
-**[!UICONTROL Opportunity Info]**&#x200B;개인 세부 정보[&#x200B; 페이지의 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 탭에서 기회 목록을 볼 수 있습니다.
+[개인 세부 정보](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) 페이지의 **[!UICONTROL Opportunity Info]** 탭에서 기회 목록을 볼 수 있습니다.
 
 ## 영업 기회와 관련된 트리거/필터는 무엇입니까? {#what-are-the-triggers-filters-related-to-opportunity}
 
@@ -43,7 +43,7 @@ Marketo은 [영업 기회 연락처 역할](https://help.salesforce.com/HTViewHe
 
 * 영업 기회에 추가됨
 * 영업 기회에서 제거됨
-* 영업 기회가 업데이트되었습니다.
+* 기회 업데이트됨
 
 필터:
 
@@ -57,6 +57,6 @@ Marketo은 [영업 기회 연락처 역할](https://help.salesforce.com/HTViewHe
 
 >[!TIP]
 >
->필터 및 트리거에 대한 제약 조건을 확인하십시오. 멋진 디테일이 많이 들어 있어요.
+>자세한 내용은 필터 및 트리거에 대한 제약 조건을 검토하십시오.
 >
 >[!DNL Salesforce]의 영업 기회 개체에 새 필드를 만들면 자동으로 제약 조건이 됩니다.

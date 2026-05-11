@@ -3,7 +3,7 @@ description: 모바일 푸시 알림을 구성하는 방법을 알아봅니다. 
 title: 모바일 푸시 알림 구성
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '506'
 ht-degree: 2%
@@ -32,7 +32,7 @@ ht-degree: 2%
 
    ![](assets/configure-mobile-push-notification-4.png)
 
-1. 메시지 텍스트를 입력하거나 토큰 아이콘을 선택하여 토큰을 추가하십시오. 이 편집기에서 토큰은 [과(와) 같은 형식으로 &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)됩니다. 여러 토큰을 사용할 수 있습니다. **탭 동작**&#x200B;을 선택하세요.
+1. 메시지 텍스트를 입력하거나 토큰 아이콘을 선택하여 토큰을 추가하십시오. 이 편집기에서 토큰은 [과(와) 같은 형식으로 ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)됩니다. 여러 토큰을 사용할 수 있습니다. **탭 동작**&#x200B;을 선택하세요.
 
    ![](assets/configure-mobile-push-notification-5.png)
 
@@ -82,11 +82,11 @@ ht-degree: 2%
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-즉, 앱의 딥링크 구조는 위의 예와 다를 수 있습니다. 개발자는 딥링크 URI를 정의하는 데 많은 옵션을 사용할 수 있으므로 개발자에게 사용하려는 페이지의 URI(링크)를 보내도록 요청하십시오. 이렇게 하면 푸시 메시지에 입력한 URI가 올바른 위치를 가리킵니다. 개발자는 [여기에서 추가 정보를 찾을 수 있습니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+즉, 앱의 딥링크 구조는 위의 예와 다를 수 있습니다. 개발자는 딥링크 URI를 정의하는 데 많은 옵션을 사용할 수 있으므로 개발자에게 사용하려는 페이지의 URI(링크)를 보내도록 요청하십시오. 이렇게 하면 푸시 메시지에 입력한 URI가 올바른 위치를 가리킵니다. 개발자는 [여기에서 추가 정보를 찾을 수 있습니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 ## 리디렉션 URI {#redirect-uris}
 
-푸시 알림 메시지에 구성된 리디렉션 URI는 해당 URI에서 Marketo 토큰을 지원합니다. &#39;Launch 앱 URL&#39;에만 적용됩니다.
+푸시 알림 메시지에 구성된 리디렉션 URI는 해당 URI에서 Marketo 토큰을 지원합니다. &#39;앱 URI 실행&#39;에만 적용됩니다.
 
 샘플 형식:
 

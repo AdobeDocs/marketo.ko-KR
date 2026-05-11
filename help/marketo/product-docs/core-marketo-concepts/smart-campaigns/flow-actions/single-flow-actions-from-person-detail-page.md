@@ -2,12 +2,11 @@
 description: 개인 세부 정보 페이지에서 단일 흐름 작업을 실행하는 방법을 알아봅니다. 요청 시 개인에 대해 하나의 플로우 단계를 실행합니다.
 title: 개인 정보 페이지의 단일 플로우 작업
 hide: true
-hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '128'
 ht-degree: 11%
 
 ---

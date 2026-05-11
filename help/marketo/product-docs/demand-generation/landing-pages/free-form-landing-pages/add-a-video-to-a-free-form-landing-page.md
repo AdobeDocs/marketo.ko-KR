@@ -4,11 +4,10 @@ description: Marketo의 자유 형식 랜딩 페이지에 비디오를 추가하
 title: 자유 형식 랜딩 페이지에 비디오 추가
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
-hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '238'
 ht-degree: 7%
 
 ---
@@ -35,7 +34,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >**[!UICONTROL Create New]** 기능은 [!UICONTROL Marketing Activities]에만 나타나며 [!UICONTROL Design Studio]에서는 사용할 수 없습니다. Design Studio에서는 이미 만들어진 비디오만 사용할 수 있습니다. 그러나 _>_&#x200B;을(를) 선택하여 **[!UICONTROL New]** 프로그램 내에서 **[!UICONTROL New Local Asset]**&#x200B;비디오 공유를 만들 수 있습니다. 그런 다음 여기에 표시된 대로 드롭다운에서 선택할 수 있습니다.
+   >**[!UICONTROL Create New]** 기능은 [!UICONTROL Marketing Activities]에만 나타나며 [!UICONTROL Design Studio]에서는 사용할 수 없습니다. Design Studio에서는 이미 만들어진 비디오만 사용할 수 있습니다. 그러나 **[!UICONTROL New]** > **[!UICONTROL New Local Asset]**&#x200B;을(를) 선택하여 _프로그램 내에서_&#x200B;비디오 공유를 만들 수 있습니다. 그런 다음 여기에 표시된 대로 드롭다운에서 선택할 수 있습니다.
 
 1. YouTube 비디오의 URL을 입력한 다음 비디오 이름을 지정합니다. **[!UICONTROL Clone From]** 드롭다운 아래에서 **[!UICONTROL None]**&#x200B;을(를) 선택한 다음 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 

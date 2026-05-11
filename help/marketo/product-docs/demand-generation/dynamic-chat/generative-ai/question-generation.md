@@ -3,10 +3,10 @@ description: 소스 URL 및 주제를 사용하여 Dynamic Chat에 대한 질문
 title: 질문 생성
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 3%
+source-wordcount: '307'
+ht-degree: 4%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 3%
 
    ![](assets/question-generation-7.png)
 
-1. **[!DNL Task details]**&#x200B;은(는) Excel 파일에 질문 및/또는 응답을 추가/편집하는 방법에 대한 지침을 포함하여 작업에 대한 다양한 세부 정보를 표시합니다.
+1. **[!DNL Task details]**&#x200B;은(는) Excel 파일에 질문 및 응답을 추가하거나 편집하는 방법에 대한 지침을 포함하여 작업에 대한 다양한 세부 정보를 표시합니다.
 
    ![](assets/question-generation-8.png)
 

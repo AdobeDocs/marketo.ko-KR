@@ -3,8 +3,8 @@ description: AWS 마이그레이션 - Marketo Engage 문서 - 제품 설명서
 title: AWS 마이그레이션
 feature: Getting Started
 hide: true
-hidefromtoc: true
-source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
+exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
@@ -46,6 +46,6 @@ ht-degree: 0%
 
 ## 업데이트 및 지원
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support)의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support)의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
 
 추가: POD/데이터 센터 세부 정보

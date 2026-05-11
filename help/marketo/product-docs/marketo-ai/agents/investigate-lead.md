@@ -4,10 +4,10 @@ title: 리드 조사
 beta: true
 hide: true
 hidefromtoc: true
-source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 스크린샷
 
-| **Title** | 설명 |
+| **제목** | 설명 |
 |----------|------------|
 | **MQL 조사** | 특정 잠재 고객이 자격을 얻지 못하거나, 참여를 중단하거나, 중단된 이유에 대한 세부 정보를 제공합니다. |
 | **프로그램 자격** | 잠재 고객이 육성 프로그램에 적합하지 않은 이유에 대한 세부 정보를 제공합니다. |

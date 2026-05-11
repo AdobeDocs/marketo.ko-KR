@@ -4,9 +4,9 @@ title: 대화형 흐름 랜딩 페이지 사용
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Dynamic Chat 대화 플로우를 Marketo Engage 랜딩 페이지에 직접 포�
 
 >[!PREREQUISITES]
 >
->[모임 예약](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) 카드만 포함된 간단한 **대화 흐름**&#x200B;을 만듭니다.
+>**모임 예약** 카드만 포함된 간단한 [대화 흐름](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)을 만듭니다.
 
 ## 가이드 랜딩 페이지 {#guided-landing-pages}
 
