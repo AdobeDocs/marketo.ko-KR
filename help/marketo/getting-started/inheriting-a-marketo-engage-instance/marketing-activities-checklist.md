@@ -157,7 +157,7 @@ ht-degree: 2%
   </tr>
   <tr>
    <td>구독/환경 설정 센터</td>
-   <td><li><a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">구독/환경 설정 센터</a>를 설정했습니까? 제대로 작동하고 있습니까?</li></td>
+   <td><li><a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=ko" target="_blank">구독/환경 설정 센터</a>를 설정했습니까? 제대로 작동하고 있습니까?</li></td>
   </tr>
   <tr>
    <td>즐거운 순간(해당되는 경우)</td>

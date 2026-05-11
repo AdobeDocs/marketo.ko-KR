@@ -104,7 +104,7 @@ Broadcast Control은 대화형 웨비나 세션에 가상 녹색 공간을 추�
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-[채팅 패널](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}에 대해 자세히 알아보세요.
+[채팅 패널](https://helpx.adobe.com/kr/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}에 대해 자세히 알아보세요.
 
 ### 준비 모드 {#prepare-mode}
 
@@ -127,22 +127,22 @@ Broadcast Control은 대화형 웨비나 세션에 가상 녹색 공간을 추�
 >[!NOTE]
 >
 >* 라이브 포드에 대한 모든 변경 사항은 즉시 참가자에게 반영됩니다.
->* [채팅 패널](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}은(는) 준비 모드의 일부가 아니므로 변경 사항은 참가자에게 즉시 반영됩니다.
+>* [채팅 패널](https://helpx.adobe.com/kr/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}은(는) 준비 모드의 일부가 아니므로 변경 사항은 참가자에게 즉시 반영됩니다.
 
 ### 접근성 {#accessibility}
 
 Adobe은 대화형 웨비나의 접근성을 개선하여 장애가 있는 발표자 및 참가자를 포함하기 위해 노력하고 있습니다. 이 소프트웨어는 모든 유형의 사용자의 요구 사항을 충족하고 시각적, 청각적, 이동성 또는 기타 장애가 있는 개인을 포함한 전 세계 표준을 준수하도록 지속적으로 향상됩니다.
 
-Adobe Connect에서 [시각적, 청각적 및 이동성 요구 사항](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}에 대한 지원을 제공하는 방법에 대해 알아봅니다.
+Adobe Connect에서 [시각적, 청각적 및 이동성 요구 사항](https://helpx.adobe.com/kr/adobe-connect/using/accessibility-features.html){target="_blank"}에 대한 지원을 제공하는 방법에 대해 알아봅니다.
 
 ### 폐쇄 캡션 {#closed-captions}
 
 폐쇄 캡션은 Adobe Connect 룸 내의 오디오를 텍스트로 표현한 것으로서, 귀가 들리지 않거나 난청인 참가자가 이벤트에 참여할 수 있도록 도와줍니다. 오디오 컨텐츠의 실시간 캡션을 이벤트에 통합하고 이러한 캡션을 닫힌 캡션 표시에 표시할 수 있습니다.
 
-[폐쇄 캡션을 사용](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}하는 방법에 대해 알아봅니다.
+[폐쇄 캡션을 사용](https://helpx.adobe.com/kr/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}하는 방법에 대해 알아봅니다.
 
 ### 시뮬레이션된 라이브 웨비나 {#simulated-live-webinars}
 
 시뮬레이션된 라이브 웨비나 형식을 사용하여 라이브한 것처럼 사전 녹음된 웨비나를 제공합니다. 참석자는 예약된 시간에 참여하여 채팅, 투표 및 Q&amp;A와 같은 대화형 기능을 즐기면서 실시간으로 세션을 경험할 수 있습니다. 시뮬레이션된 라이브 웨비나는 기록된 콘텐츠의 신뢰성과 라이브 이벤트의 대화형 경험을 결합합니다.
 
-[시뮬레이션된 라이브 웨비나](https://helpx.adobe.com/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}에 대해 자세히 알아보세요.
+[시뮬레이션된 라이브 웨비나](https://helpx.adobe.com/kr/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}에 대해 자세히 알아보세요.
