@@ -45,9 +45,9 @@ ht-degree: 19%
 
 기존 도메인에 대해 SSL을 활성화하려면 다음 단계를 따르십시오.
 
-1. _[!UICONTROL Admin]_영역에서&#x200B;**[!UICONTROL Email]**을(를) 선택합니다.
+1. _[!UICONTROL Admin]_&#x200B;영역에서&#x200B;**[!UICONTROL Email]**&#x200B;을(를) 선택합니다.
 
-1. _[!UICONTROL Domain]_탭에서 도메인 행을 선택하고&#x200B;**[!UICONTROL Add SSL]**을(를) 클릭합니다.
+1. _[!UICONTROL Domain]_&#x200B;탭에서 도메인 행을 선택하고&#x200B;**[!UICONTROL Add SSL]**&#x200B;을(를) 클릭합니다.
 
    ![관리자 - 전자 메일 - 도메인 - SSL 추가](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
@@ -91,7 +91,7 @@ ht-degree: 19%
 
 ## 참고할 사항 {#things-to-note}
 
-* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}해야 합니다.[
+* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑[&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}해야 합니다.
 
 * **사용자 지정 SSL**: 사용자 지정 SSL이 필요한 경우 [지원 티켓](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}을 제출하세요. SSL 생성을 위해 셀프서비스 확인란을 사용하지 마십시오.
 

@@ -39,7 +39,7 @@ Marketo과 [!DNL Dynamics] 간의 동기화는 리드나 연락처에 양방향 
 * [기회](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [사용자 지정 엔티티](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
- [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)에 대해 Marketo에 입력한 [자격 증명은 데이터를 동기화하는 데 사용됩니다.
+ [!DNL Dynamics][&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)에 대해 Marketo에 입력한 자격 증명은 데이터를 동기화하는 데 사용됩니다.
 
 >[!NOTE]
 >
