@@ -2,10 +2,10 @@
 description: Gmail을 Sales Insight 작업에 연결하는 방법을 알아봅니다. 작업 통합을 사용하여 Gmail에서 판매 이메일을 보내고 추적합니다.
 title: Gmail에 연결
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 7%
+source-wordcount: '205'
+ht-degree: 6%
 
 ---
 

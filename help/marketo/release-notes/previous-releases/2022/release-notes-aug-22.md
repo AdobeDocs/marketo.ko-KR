@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2022년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2022년 8월
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '517'
 ht-degree: 6%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 6%
 
 * [!DNL Dynamic Chat]에 대해 게시된 모든 대화 상자를 한 번에 활성화/비활성화**: 단추를 눌러 [구성] 페이지에서 게시된 모든 대화 상자를 한 번에 전체적으로 활성화/비활성화합니다.
 
-* **에 대한[!DNL Dynamic Chat]**&#x200B;사용자 지정 아바타: 사용자 지정 챗봇 아바타를 업로드하여 내 브랜드에 맞게 개인화할 수 있습니다.
+* [!DNL Dynamic Chat]**에 대한**&#x200B;사용자 지정 아바타: 사용자 지정 챗봇 아바타를 업로드하여 내 브랜드에 맞게 개인화할 수 있습니다.
 
-* **에 대한[!DNL Dynamic Chat]**&#x200B;채팅 트랜스크립트: 모든 대화에 대한 채팅 트랜스크립트를 보고 각 웹 방문자가 관심을 갖는 내용에 대해 더 자세한 insight을 얻습니다.
+* [!DNL Dynamic Chat]**에 대한**&#x200B;채팅 트랜스크립트: 모든 대화에 대한 채팅 트랜스크립트를 보고 각 웹 방문자가 관심을 갖는 내용에 대해 더 자세한 insight을 얻습니다.
 
 ## 차세대 경험
 
@@ -58,7 +58,7 @@ ht-degree: 6%
 
 ## 마케팅 데이터 환경 {#marketing-data-environment}
 
-* **사용자 지정 개체 &quot;[!UICONTROL Used By]&quot; 필드의 UI 자르기 수정**: 이제 &quot;사용 중&quot;인 사용자 지정 개체 필드를 보다 쉽게 식별하여 필요한 경우 사용자 지정 개체에서 필드를 삭제할 수 있습니다.
+* **사용자 지정 개체 &quot;[!UICONTROL Used By]&quot; 필드의 UI 잘림 수정**: 이제 &quot;사용 중&quot;인 사용자 지정 개체 필드를 더 쉽게 식별하여 필요한 경우 사용자 지정 개체에서 필드를 삭제할 수 있습니다.
 
 ## API 개선 사항 {#api-enhancements}
 
@@ -68,7 +68,7 @@ ht-degree: 6%
 
 ![(별)](assets/yellow-star.png)
 
-* **[[!DNL Sales Insight] 와 통합 [!DNL Dynamic Chat]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**: [!DNL Dynamic Chat] 패널에서 [!DNL Sales Insight]의 활동을 보고 예측에 이 새로운 데이터 포인트를 활용하십시오.
+* **[[!DNL Sales Insight] 와 통합 [!DNL Dynamic Chat]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**: [!DNL Sales Insight] 패널에서 [!DNL Dynamic Chat]의 활동을 보고 예측에 이 새로운 데이터 포인트를 활용하십시오.
 
 ## 공지 {#announcements}
 

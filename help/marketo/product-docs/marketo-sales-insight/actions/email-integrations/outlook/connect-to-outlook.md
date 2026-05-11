@@ -2,10 +2,10 @@
 description: Outlook을 Sales Insight 작업에 연결하는 방법을 알아봅니다. 작업 통합을 사용하여 Outlook에서 판매 이메일을 보내고 추적합니다.
 title: Outlook에 연결
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 3%
+source-wordcount: '577'
+ht-degree: 2%
 
 ---
 
@@ -143,7 +143,7 @@ IT 팀과 협력하여 Marketo Sales가 Outlook Online 계정(Microsoft 365)에 
 >
 >Microsoft 365 계정을 관리하는 IT 팀에 액세스가 필요한 애플리케이션이 &quot;Marketo Sales Connect&quot;라고 알립니다.
 
-IT 팀의 환경 설정 및 현재 구성에 따라 액세스 권한 부여 방법에 대해 IT 팀에 문의하는 것이 좋습니다. 다음은 대화를 안내하는 데 도움이 될 수 있는 몇 가지 문서입니다.
+IT 팀의 환경 설정 및 현재 구성에 따라 액세스 권한 부여 방법에 대해 IT 팀에 문의하는 것이 가장 좋습니다. 다음은 대화를 안내하는 데 도움이 될 수 있는 몇 가지 문서입니다.
 
 * 전역 동의: [Microsoft 365 관리자를 위한 통합 앱 및 Azure AD](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
 * 사용자 동의: [사용자가 응용 프로그램에 동의하는 방법 구성](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}

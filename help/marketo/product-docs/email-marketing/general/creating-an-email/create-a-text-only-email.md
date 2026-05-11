@@ -4,10 +4,10 @@ description: Marketo에서 텍스트 전용 이메일을 만드는 방법을 알
 title: 텍스트 전용 이메일 만들기
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 12%
+source-wordcount: '184'
+ht-degree: 13%
 
 ---
 
@@ -67,4 +67,4 @@ ht-degree: 12%
 
    ![](assets/nine.png)
 
-그만큼 쉽습니다.
+그것은 그만큼 쉽다.

@@ -4,10 +4,10 @@ description: Rtp 활성화 또는 비활성화를 포함하여 Marketo Engage에
 title: RTP JavaScript 태그 활성화 또는 비활성화
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 12%
+source-wordcount: '134'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ RTP JavaScript 태그는 웹 Personalization이 웹 활동을 추적하는지 �
 
 >[!NOTE]
 >
->**웹 사이트의 html 코드에서 태그를 제거할 필요는 없습니다.** [!UICONTROL Account Settings]을(를) 통해 제어합니다.
+>**웹 사이트의 html 코드에서 태그를 제거할 필요가 없습니다.** [!UICONTROL Account Settings]을(를) 통해 제어합니다.
 
 ## 태그 활성화 또는 비활성화 {#enable-or-disable-the-tag}
 

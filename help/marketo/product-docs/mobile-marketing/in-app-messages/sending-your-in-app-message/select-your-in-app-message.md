@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10617434
-description: 프로그램의 인앱 메시지를 선택하는 방법을 알아봅니다. 드롭다운에서 을 선택한 다음 편집, 미리 보기 또는 예약을 계속합니다.
+description: 프로그램의 인앱 메시지를 선택하는 방법을 알아봅니다. 드롭다운에서 을(를) 선택한 다음 편집, 미리 보기 또는 예약을 계속합니다.
 title: 인앱 메시지 선택
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 6%
+source-wordcount: '129'
+ht-degree: 7%
 
 ---
 
@@ -31,4 +31,4 @@ ht-degree: 6%
    >
    >다른 메시지를 선택하려면 [!UICONTROL In-App Message] 필드에서 삭제하십시오. 그러면 [!UICONTROL New In-App Message] 링크가 다시 나타납니다. 클릭한 다음 다른 메시지를 선택합니다.
 
-제대로 찾아오셨네요 [전송을 예약](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)할 시간입니다.
+제대로 찾아오셨습니다. [전송을 예약](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)할 시간입니다.

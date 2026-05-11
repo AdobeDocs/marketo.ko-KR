@@ -4,9 +4,9 @@ description: Marketo에서 랜딩 페이지 테스트 그룹을 복제하는 방
 title: 랜딩 페이지 테스트 그룹 복제
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '170'
 ht-degree: 7%
 
 ---

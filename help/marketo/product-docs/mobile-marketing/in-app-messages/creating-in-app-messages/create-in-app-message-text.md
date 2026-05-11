@@ -4,9 +4,9 @@ description: 인앱 메시지 텍스트 및 스타일을 만드는 방법을 알
 title: 인앱 메시지 텍스트 만들기
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '387'
 ht-degree: 2%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 2%
 
    승인된 인앱 메시지 프로그램에서 사용된 토큰에 대한 변경 사항은 프로그램이 일시 중지되었다가 다시 시작될 때까지 인앱 메시지에 적용되지 않습니다.
 
-넌 금덩이야 [인앱 메시지 단추를 설정](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)해야 합니다.
+당신은 금덩어리입니다. [인앱 메시지 단추를 설정](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)해야 합니다.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Sales Connect를 Salesforce 샌드박스에 연결하는 방법을 
 title: Sales Connect를 Salesforce Sandbox에 연결하는 방법
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '138'
 ht-degree: 13%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 >[!PREREQUISITES]
 >
->샌드박스에 연결할 때 [!DNL &#x200B; Sales Connect] 계정이 [!DNL Salesforce]에 이미 연결되어 있을 수 없습니다. 이 경우 이 문서의 단계를 따르려면 먼저 [연결을 끊어야 합니다](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md).
+>샌드박스에 연결할 때 [!DNL  Sales Connect] 계정이 [!DNL Salesforce]에 이미 연결되어 있을 수 없습니다. 이 경우 이 문서의 단계를 따르려면 먼저 [연결을 끊어야 합니다](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md).
 
 1. [!DNL Sales Connect]에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 

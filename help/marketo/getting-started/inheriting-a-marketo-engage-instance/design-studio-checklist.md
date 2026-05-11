@@ -3,9 +3,9 @@ description: 상속된 인스턴스 Design Studio 검사 목록 - Marketo 문서
 title: 상속된 인스턴스 Design Studio 검사 목록
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '602'
 ht-degree: 3%
 
 ---
@@ -25,8 +25,8 @@ ht-degree: 3%
   <tr>
    <td>전역 랜딩 페이지</td>
    <td><li>몇 개의 전역 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">랜딩 페이지</a>가 있습니까? 프로그램에서 사용하고 있습니까?</li>
-   <li><a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=ko" target="_blank">구독 센터</a>를 설정했습니까?
-   <br/>     그렇지 않으면 새로 만드는 것이 좋습니다.</li></td>
+   <li><a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">구독 센터</a>를 설정했습니까?
+   <br/> 그렇지 않으면 새로 만드는 것이 좋습니다.</li></td>
   </tr>
   <tr>
    <td>템플릿</td>
@@ -95,7 +95,7 @@ ht-degree: 3%
   <tr>
    <td>개인 정보 및 규정 준수</td>
    <td><li>양식 전략이 회사 데이터 개인 정보 보호 및 옵트인 요구 사항과 일치합니까?
-   <br/>     규정 준수를 위해 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR(일반 데이터 보호 규정)</a>, 캐나다의 CASL(스팸 방지 법률), 2003년 CAN-SPAM(Controlling The Assault Of Non-Solicited Porology and Marketing Act), CCPA(California Consumer Privacy Act) 등을 고려해 보십시오.</li>
+   <br/> 규정 준수를 위해 <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR(일반 데이터 보호 규정)</a>, 캐나다의 CASL(스팸 방지 법률), 2003년 CAN-SPAM(요청하지 않은 음란물 및 마케팅 법), CCPA(캘리포니아 소비자 개인 정보 보호법) 등을 고려하십시오.</li>
 <p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 이러한 문제에 대해서는 항상 법무팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
   </tr>
  </tbody>
@@ -124,7 +124,7 @@ ht-degree: 3%
   </tr>
   <tr>
    <td>개인 정보 및 규정 준수</td>
-   <td><li>모든 이메일에 적합한 바닥글이 있습니까? GDPR, CASL, CAN-SPAM, CCPA 등을 고려합니다. 규정 준수에 관한 내용입니다.</li>
+   <td><li>모든 이메일에 적합한 바닥글이 있습니까? 규정 준수에 대한 영향은 GDPR, CASL, CAN-SPAM, CCPA 등을 고려하십시오.</li>
 <p><img src="assets/tip-icon.png" alt="팁 아이콘">팁: 이러한 규정 준수 문제는 항상 법률 팀에 문의하십시오. 변경하기 전에 규정 준수를 유지하기 위한 이전 이니셔티브에 대해 팀에 문의하십시오.</td>
   </tr>
  </tbody>
@@ -141,7 +141,7 @@ ht-degree: 3%
   <tr>
    <td>스니펫</td>
    <td><li><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">스니펫</a>이 몇 개나 있습니까? 사용 중입니까?
-   <br/>     그렇지 않은 경우 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">이메일</a> 및 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">랜딩 페이지</a> 바닥글 콘텐츠, 로고 등에 해당 페이지를 사용하는 것이 좋습니다.</li></td>
+   <br/> 그렇지 않으면 <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">전자 메일</a> 및 <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">랜딩 페이지</a> 바닥글 콘텐츠, 로고 등에 사용할 수 있습니다.</li></td>
   </tr>
  </tbody>
 </table>
@@ -157,7 +157,7 @@ ht-degree: 3%
   <tr>
    <td>에셋 상태</td>
    <td><li><i>초안</i> 및 <i>초안으로 승인됨</i> 상태(예: <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">이메일</a>, <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">랜딩 페이지</a>, <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">양식</a>, <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">코드 조각</a>)에 있는 에셋 수는 몇 개입니까?
-   <br/>     많은 항목이 있는 경우 삭제하거나 승인하는 것이 좋습니다.</li></td>
+   <br/> 많으면 삭제하거나 승인하는 것이 좋습니다.</li></td>
   </tr>
   <tr>
    <td>자산 공유</td>

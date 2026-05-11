@@ -4,10 +4,10 @@ description: 설정 및 사용자 추가 - Marketo Docs - 제품 설명서
 title: 설정 및 사용자 추가
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '207'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '211'
+ht-degree: 96%
 
 ---
 
@@ -73,7 +73,7 @@ ht-degree: 100%
 
 ## 설정 완료 {#set-up-complete}
 
-첫 번째 미션을 시작할 준비가 되었습니다.
+첫 번째 임무를 시작할 준비가 되었습니다!
 
 <br> 
 

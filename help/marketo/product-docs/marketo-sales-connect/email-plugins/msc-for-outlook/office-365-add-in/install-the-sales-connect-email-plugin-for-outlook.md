@@ -4,16 +4,16 @@ description: Outlook용 Sales Connect 이메일 플러그인을 설치하는 방
 title: Outlook용 Sales Connect 이메일 플러그인 설치
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 7%
+source-wordcount: '225'
+ht-degree: 6%
 
 ---
 
 # Outlook용 Sales Connect 이메일 플러그인 설치 (온라인, Mac, Windows) {#install-the-sales-connect-email-plugin-for-outlook}
 
-[!DNL Outlook Web Apps]과(와) 통합을 만들었습니다. [!DNL Outlook Web Apps]은(는) [!DNL Outlook] 구독과 함께 제공된 [!DNL Office 365] 버전입니다. 브라우저 기반이므로 통합은 Mac 및 [!DNL Windows] 모두에서 작동합니다. [전체 설치 가이드를 보려면 여기를 클릭하세요](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+[!DNL Outlook Web Apps]과(와) 통합을 만들었습니다. [!DNL Outlook Web Apps]은(는) [!DNL Office 365] 구독과 함께 제공된 [!DNL Outlook] 버전입니다. 브라우저 기반이므로 통합은 Mac 및 [!DNL Windows] 모두에서 작동합니다. [전체 설치 가이드를 보려면 여기를 클릭하세요](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
 책임자는 [전체 팀을 대신하여 설치](https://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)할 수 있습니다.
 
@@ -23,9 +23,9 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->저장 단추가 없다면 Mac용 [!DNL Outlook]의 최신 버전이 아닙니다. 다음 단계에 따라 업데이트하십시오.
+>스토어 단추가 없다면 Mac용 [!DNL Outlook]의 최신 버전이 아닙니다. 다음 단계에 따라 업데이트하십시오.
 >
->i. 맨 위 탐색에서 &quot;Outlook&quot; 오른쪽에 있는 도움말 단추로 이동
+>난... 맨 위 탐색에서 &quot;Outlook&quot; 오른쪽에 있는 도움말 단추로 이동합니다.
 >
 >ii. 드롭다운 메뉴에서 **[!UICONTROL Check for Updates]** 선택
 >

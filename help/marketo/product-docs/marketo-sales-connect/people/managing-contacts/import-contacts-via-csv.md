@@ -4,9 +4,9 @@ description: CSV를 통해 Sales Connect로 연락처를 가져오는 방법을 
 title: CSV를 통해 연락처 가져오기
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '126'
 ht-degree: 10%
 
 ---

@@ -3,9 +3,9 @@ description: 이메일, 호출, InMail 및 사용자 지정 작업 단계를 사
 title: 세일즈 캠페인 만들기
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '319'
 ht-degree: 3%
 
 ---
@@ -32,7 +32,7 @@ Sales Campaign 을 통해 다음과 같은 작업을 수행할 수 있습니다.
 
    >[!NOTE]
    >
-   >**옆에 있는**+**[!UICONTROL Categories]**&#x200B;을(를) 클릭하여 새 범주를 만듭니다.
+   >**[!UICONTROL Categories]** 옆에 있는 **+**&#x200B;을(를) 클릭하여 새 범주를 만듭니다.
 
 1. 선택한 범주가 선택됩니다. 마음이 바뀌면 드롭다운을 클릭하고 다른 드롭다운을 선택합니다. 완료되면 **[!UICONTROL Continue]**&#x200B;을(를) 클릭합니다.
 
@@ -62,7 +62,7 @@ Sales Campaign 을 통해 다음과 같은 작업을 수행할 수 있습니다.
 
    ![](assets/create-a-sales-campaign-8.png)
 
-이제 사용자를 추가할 차례입니다!
+이제 사용자를 추가해야 합니다.
 
 >[!MORELIKETHIS]
 >

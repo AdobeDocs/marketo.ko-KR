@@ -3,16 +3,16 @@ description: 일괄 처리를 통해 SMS 메시지를 보내거나 캠페인을 
 title: SMS 메시지 보내기
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '342'
 ht-degree: 2%
 
 ---
 
 # SMS 메시지 보내기 {#send-a-vibes-sms-message}
 
-[SMS 메시지를 만들었습니다](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}. 이제 메시지를 보낼 차례입니다. 일괄 처리 또는 트리거 캠페인을 통해 전송할 수 있습니다.
+[SMS 메시지를 만들었습니다](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}. 이제 보낼 차례입니다. 일괄 처리 또는 트리거 캠페인을 통해 전송할 수 있습니다.
 
 >[!NOTE]
 >

@@ -3,9 +3,9 @@ description: 릴리스 노트 - 2023년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2023년 7월
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '664'
 ht-degree: 20%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 20%
 
 </br>
 
-* **참여 맵**: 참여 맵은 재사용 가능한 캠페인을 빌드하고 구성할 수 있는 시각적 도구입니다. 완전히 이전 버전과 호환되므로 버튼 클릭으로 기존의 모든 캠페인을 이 새 구조에서 볼 수 있습니다. 맵을 다운로드하고 공유할 수 있습니다.
+* **참여 맵**: 참여 맵은 재사용 가능한 캠페인을 빌드하고 구성할 수 있는 시각적 도구입니다. 완전히 이전 버전과 호환되므로 이 새 구조에서 단추 한 번만 클릭하면 기존의 모든 캠페인을 볼 수 있습니다. 맵을 다운로드하고 공유할 수 있습니다.
 
 <table>
   <tr>

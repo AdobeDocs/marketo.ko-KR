@@ -2,9 +2,9 @@
 description: Salesforce Classic에서 Marketo Sales Connect를 제거하는 방법을 알아봅니다. Classic에서 Sales Connect 사용자 정의 및 버튼을 제거합니다.
 title: Salesforce Classic에서 Marketo Sales Connect 제거
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1032'
+source-wordcount: '1035'
 ht-degree: 12%
 
 ---
@@ -63,21 +63,21 @@ Sales Insight 작업 사용을 시작한 후 Salesforce 계정에서 Marketo Sal
 
    ![](assets/uninstall-salesforce-classic-customization-package-9.png)
 
-## [!DNL Sales Connect] 섹션에서 [!UICONTROL Activity History] 필드 제거 {#remove-sales-connect-fields-from-activity-history-section}
+## [!UICONTROL Activity History] 섹션에서 [!DNL Sales Connect] 필드 제거 {#remove-sales-connect-fields-from-activity-history-section}
 
 1. 페이지 맨 아래로 스크롤하여 [!UICONTROL Activity History] 관련 목록 섹션으로 이동한 다음 렌치 아이콘을 클릭합니다.
 
    ![](assets/uninstall-salesforce-classic-customization-package-10.png)
 
-1. [!DNL Sales Connect] 영역에서 [!UICONTROL Selected Fields] 필드를 선택하고 [!UICONTROL Remove] 화살표를 클릭합니다. 완료되면 **[!UICONTROL OK]**&#x200B;를 클릭합니다.
+1. [!UICONTROL Selected Fields] 영역에서 [!DNL Sales Connect] 필드를 선택하고 [!UICONTROL Remove] 화살표를 클릭합니다. 완료되면 **[!UICONTROL OK]**&#x200B;를 클릭합니다.
 
    ![](assets/uninstall-salesforce-classic-customization-package-11.png)
 
    >[!NOTE]
    >
-   >약어 MSE _is_ [!DNL Sales Connect]. 바로 이전 이름인 &quot;Marketo Sales Engage&quot;입니다.
+   >약어 MSE _is_ [!DNL Sales Connect]. 이는 바로 이전 이름인 &quot;Marketo Sales Engage&quot;입니다.
 
-1. 리드 페이지가 완료되면 **저장**&#x200B;을 클릭하세요.
+1. 리드 페이지가 완료되면 **저장**&#x200B;을 클릭합니다.
 
 ## 리드 목록 보기에서 [!DNL Sales Connect] 일괄 작업 단추 제거 {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 

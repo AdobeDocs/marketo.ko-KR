@@ -1,9 +1,9 @@
 ---
 description: 판매 이메일을 예약하여 나중에 게재하는 방법을 알아봅니다. Sales Insight 작업 또는 받은 편지함에서 작성할 날짜 및 시간을 설정합니다.
 title: 이메일 예약
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '148'
 ht-degree: 4%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 4%
 
    ![](assets/scheduling-an-email-1.png)
 
-1. 전자 메일 작성이 끝나면 오른쪽 하단의 **일정**&#x200B;을 클릭하세요
+1. 전자 메일 작성이 끝나면 오른쪽 하단의 **일정**&#x200B;을 클릭합니다
 
    ![](assets/scheduling-an-email-2.png)
 

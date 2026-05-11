@@ -4,14 +4,14 @@ description: Salesforce의 Marketo Sales Insight 구성 탭에 대해 알아봅�
 title: Salesforce의 Marketo Sales Insight 구성 탭
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '626'
 ht-degree: 1%
 
 ---
 
-# [!DNL Marketo Sales Insight]의 [!DNL Salesforce] 구성 탭 {#marketo-sales-insight-configuration-tab-in-salesforce}
+# [!DNL Salesforce]의 [!DNL Marketo Sales Insight] 구성 탭 {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## 운영 설정 {#operational-settings}
 

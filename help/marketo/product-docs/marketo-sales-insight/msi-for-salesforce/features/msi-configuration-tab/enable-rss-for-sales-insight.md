@@ -4,10 +4,10 @@ description: Marketo Sales Insight용 RSS를 활성화하는 방법을 알아봅
 title: Sales Insight용 RSS 활성화
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 10%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 

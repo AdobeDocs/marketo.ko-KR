@@ -4,9 +4,9 @@ description: 승인된 모델 편집을 포함하여 Marketo Engage에서 승인
 title: 승인된 모델 편집
 exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '260'
 ht-degree: 3%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 3%
 
    ![](assets/three.png)
 
-1. 모델을 모두 변경했으면 **[!UICONTROL Approve Model Draft]** 메뉴에서 **[!UICONTROL Model Actions]**&#x200B;을(를) 선택하여 다시 승인합니다.
+1. 모델을 변경했으면 **[!UICONTROL Model Actions]** 메뉴에서 **[!UICONTROL Approve Model Draft]**&#x200B;을(를) 선택하여 다시 승인합니다.
 
    ![](assets/four.png)
 

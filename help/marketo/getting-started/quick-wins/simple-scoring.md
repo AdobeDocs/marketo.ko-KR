@@ -4,10 +4,10 @@ description: 단순 점수 - Marketo 문서 - 제품 설명서
 title: 간단한 채점
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 15%
+source-wordcount: '361'
+ht-degree: 14%
 
 ---
 
@@ -96,7 +96,7 @@ ht-degree: 15%
 
    ![](assets/simple-scoring-14.png)
 
-1. **[!UICONTROL Preview]**&#x200B;을(를) 클릭합니다. 랜딩 페이지가 새 탭에서 열립니다.
+1. **[!UICONTROL Preview]**&#x200B;를 클릭합니다. 랜딩 페이지가 새 탭에서 열립니다.
 
    ![](assets/simple-scoring-15.png)
 

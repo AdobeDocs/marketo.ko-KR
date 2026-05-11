@@ -4,9 +4,9 @@ description: 수익 모델 인벤토리 단계를 사용하여 Marketo Engage에
 title: 수익 모델 인벤토리 단계 사용
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '258'
 ht-degree: 4%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 4%
 
 ## 인벤토리 단계 추가 {#add-an-inventory-stage}
 
-1. 새 수익 주기 모델 인벤토리 단계를 추가하려면 **[!UICONTROL Analytics]** 홈 화면에서 **[!UICONTROL My Marketo]** 단추를 클릭하십시오.
+1. 새 수익 주기 모델 인벤토리 단계를 추가하려면 **[!UICONTROL My Marketo]** 홈 화면에서 **[!UICONTROL Analytics]** 단추를 클릭하십시오.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 

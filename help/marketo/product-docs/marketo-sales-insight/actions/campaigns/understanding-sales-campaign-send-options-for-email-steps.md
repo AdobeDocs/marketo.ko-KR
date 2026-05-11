@@ -3,10 +3,10 @@ description: Sales Campaign 이메일 단계에 대한 전송 옵션을 이해�
 title: 이메일 단계에 대한 세일즈 캠페인 게재 옵션 이해
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '755'
-ht-degree: 2%
+source-wordcount: '758'
+ht-degree: 3%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 ## 첫 번째 단계 전송 옵션 {#first-step-send-options}
 
-첫 번째 단계이고 Sales Campaign 첫 번째 날인 경우 다음과 같은 옵션을 사용할 수 있습니다.
+첫 번째 단계이고 Sales Campaign의 첫 번째 날인 경우 다음과 같은 옵션이 제공됩니다.
 
 ![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
@@ -75,5 +75,5 @@ Sales Campaign의 이후 며칠/단계에서는 다음과 같은 옵션을 사�
 >[!MORELIKETHIS]
 >
 >[판매 캠페인 만들기](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->[판매 캠페인 단계 유형 및 미리 알림 작업](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>[세일즈 캠페인 단계 유형 및 알림 작업](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
 >[판매 캠페인 설정](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

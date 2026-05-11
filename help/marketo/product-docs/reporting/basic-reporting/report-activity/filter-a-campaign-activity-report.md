@@ -4,10 +4,10 @@ description: 캠페인 활동 보고서 필터링을 사용하여 Marketo Engage
 title: 캠페인 활동 보고서 필터링
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 8%
+source-wordcount: '139'
+ht-degree: 7%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 8%
    >
    >폴더를 선택하면 보고서가 실행될 때 폴더에 포함된 모든 내용이 보고서에 포함됩니다.
 
-1. 완료되었습니다! 보고서에서 선택한 스마트 캠페인을 **[!UICONTROL Report]** just _하려면_ 탭을 클릭하십시오.
+1. 완료되었습니다! 보고서에서 선택한 스마트 캠페인을 _just_&#x200B;하려면 **[!UICONTROL Report]** 탭을 클릭하십시오.
 
    ![](assets/filter-a-campaign-activity-report-4.png)
 

@@ -4,9 +4,9 @@ description: Audience Manager 및 기타 Adobe 앱과 동기화하기 위해 Mar
 title: Adobe 조직 매핑 설정
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '239'
 ht-degree: 5%
 
 ---
@@ -36,7 +36,7 @@ Audience Manager, B2B CDP Marketo 커넥터, [!DNL Dynamic Chat] 등과 같은 A
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Adobe IMS 조직 ID를 입력하고([여기](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=ko){target="_blank"}에서 찾는 방법 알아보기) **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
+1. [Adobe IMS 조직 ID](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"})를 입력하고 **[!UICONTROL OK]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
@@ -52,6 +52,6 @@ Audience Manager, B2B CDP Marketo 커넥터, [!DNL Dynamic Chat] 등과 같은 A
    >
    >보안상의 이유로 매핑하려는 Adobe 조직의 조직 관리자여야 합니다. 그렇지 않으면 작업이 실패합니다. 또한 Adobe 사용자 및 Marketo 사용자는 로그인할 때 동일한 이메일 주소를 사용해야 합니다.
 
-1. _아직 로그인하지 않은_&#x200B;경우 새 탭/창에 팝업이 나타납니다. Adobe 조직에 로그인합니다(이 작업은 조직 액세스를 확인합니다).
+1. _아직 로그인하지 않은_&#x200B;경우 새 탭이나 창에 팝업이 나타납니다. Adobe 조직에 로그인합니다(이 작업은 조직 액세스를 확인합니다).
 
 이제 Adobe Experience Cloud에서 대상 데이터를 [공유](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}하거나 [대상 동기화](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}할 수 있습니다.

@@ -3,9 +3,9 @@ description: Marketo Engage에서 사용되는 일반적인 Vibes SMS 용어에 
 title: SMS 용어집
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '779'
 ht-degree: 1%
 
 ---

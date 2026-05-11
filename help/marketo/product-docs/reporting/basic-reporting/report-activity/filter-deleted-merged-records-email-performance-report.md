@@ -3,9 +3,9 @@ description: 에서 삭제된 병합 레코드 필터를 사용하여 Marketo En
 title: 이메일 보고서에서 병합/삭제된 레코드 필터링
 feature: Reporting
 exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 6%
 
 ---

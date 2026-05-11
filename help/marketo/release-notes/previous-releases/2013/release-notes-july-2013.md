@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2013년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2013년 7월
 exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '205'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 ## 커뮤니케이션 제한 {#communication-limits}
 
-잠재 고객 과다 이메일 전송을 중단하시겠습니까? 이제 각 개인에게 자동으로 빈도를 제한하기 쉽습니다. 간단히 일별 및 주별 통신 한도를 설정하기만 하면 시스템이 나머지 작업을 수행합니다. Select, Enterprise 및 Standard 고객을 위한 추가 기능 패키지와 함께 제공됩니다.
+잠재 고객 과다 이메일 전송을 중단하시겠습니까? 이제 각 개인에게 자동으로 빈도를 제한하는 것이 쉬워졌다. 간단히 일별 및 주별 통신 한도를 설정하기만 하면 시스템이 나머지 작업을 수행합니다. Select, Enterprise 및 Standard 고객을 위한 추가 기능 패키지와 함께 제공됩니다.
 
 ![](assets/image2014-9-22-16-3a31-3a13.png)
 

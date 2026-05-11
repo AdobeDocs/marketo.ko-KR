@@ -4,9 +4,9 @@ description: Marketo Engage에서 수익 모델 게이트 단계를 사용하여
 title: 수익 모델 게이트 단계 사용
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '266'
 ht-degree: 6%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->그래픽이나 프레젠테이션 프로그램에서 연습 모델을 만들어 동료들과 확인하는 것이 좋습니다.
+>그래픽이나 프레젠테이션 프로그램에서 연습 모델을 만들어 동료와 확인하는 것이 좋습니다.
 
 ## 게이트 스테이지 추가 {#add-a-gate-stage}
 

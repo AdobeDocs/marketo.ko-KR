@@ -4,9 +4,9 @@ description: 예측 콘텐츠의 모든 콘텐츠 페이지에 새 콘텐츠를 
 title: 새 콘텐츠 추가
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '95'
 ht-degree: 13%
 
 ---

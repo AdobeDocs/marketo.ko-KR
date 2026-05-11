@@ -4,9 +4,9 @@ description: Sales Connect 템플릿에 동적 필드를 삽입하는 방법을 
 title: 동적 필드를 삽입하는 방법
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '239'
 ht-degree: 4%
 
 ---

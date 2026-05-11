@@ -3,16 +3,16 @@ description: 기본 대상 동기화 및 Audience Manager을 포함하여 Market
 title: Adobe Experience Cloud 통합 개요
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 85%
+source-wordcount: '188'
+ht-degree: 73%
 
 ---
 
 # Adobe Experience Cloud 통합 개요{#adobe-experience-cloud-integrations-overview}
 
-Adobe는 Adobe Experience Cloud 제품 전반에 걸쳐 기본 대상자 동기화를 시작으로 강력한 수요 마케팅 솔루션을 제공합니다. Adobe Audience Manager 전반에서 고유한 B2B 중심 데이터를 활용하여 강력한 수요 마케팅 사용 사례 및 기존 Adobe 애플리케이션의 활용되지 않은 잠재력을 발휘합니다.
+Adobe는 Adobe Experience Cloud 제품 전반에 걸쳐 기본 대상자 동기화를 시작으로 강력한 수요 마케팅 솔루션을 제공합니다. Adobe Audience Manager에서 고유한 B2B 중심 데이터를 활용하여 강력한 수요 마케팅 사용 사례와 기존 Adobe 애플리케이션에 대한 잠재력을 확보할 수 있습니다.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Marketo의 흥미로운 순간에 대한 트리거 토큰에 대해
 title: 즐거운 순간에 대한 트리거 토큰
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '557'
 ht-degree: 40%
 
 ---
@@ -1067,4 +1067,4 @@ ht-degree: 40%
 >
 >항상 재미있는 순간을 테스트하여 의도한 방식으로 렌더링하는지 확인하십시오.
 >
->또한, 여러분뿐만 아니라 영업 담당자에게도 흥미로운 내용인지 확인하십시오!
+>또한, 그것은 당신뿐만 아니라 영업 사원에게도 흥미로운지 확인하십시오!

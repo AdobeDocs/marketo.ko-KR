@@ -3,9 +3,9 @@ description: 판매 이메일에 첨부 파일 또는 추적 가능한 콘텐츠
 title: 이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '412'
 ht-degree: 4%
 
 ---

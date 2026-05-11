@@ -2,9 +2,9 @@
 description: Salesforce Lightning에서 Marketo Sales Connect를 제거하는 방법을 알아봅니다. Lightning에서 Sales Connect 사용자 지정 및 버튼을 제거합니다.
 title: Salesforce Lightning에서 Marketo Sales Connect 제거
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1199'
+source-wordcount: '1202'
 ht-degree: 9%
 
 ---
@@ -87,9 +87,9 @@ Sales Insight 작업 사용을 시작한 후 Salesforce 계정에서 Marketo Sal
 
    >[!NOTE]
    >
-   >약어 MSE _is_ Sales Connect. 바로 이전 이름인 &quot;Marketo Sales Engage&quot;입니다.
+   >약어 MSE _is_ Sales Connect. 이는 바로 이전 이름인 &quot;Marketo Sales Engage&quot;입니다.
 
-1. 리드 페이지가 완료되면 **저장**&#x200B;을 클릭하세요.
+1. 리드 페이지가 완료되면 **저장**&#x200B;을 클릭합니다.
 
 ## 가망 고객 목록 보기에서 Sales Connect 일괄 조치 버튼 제거 {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 

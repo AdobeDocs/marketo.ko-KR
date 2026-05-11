@@ -2,10 +2,10 @@
 description: 판매 이메일이 스팸으로 표시되면 도움을 받으십시오. 일반적인 원인 및 전달성과 발신자의 신뢰도를 향상시키는 방법에 대해 알아봅니다.
 title: 내 이메일이 스팸으로 표시되는 이유는 무엇입니까?
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 8%
+source-wordcount: '206'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 **설정 확인**
 
-* 사용자 정의 도메인 추적: 모든 추적 링크를 그대로 표시할 수 있습니다.&quot;yourdomain&quot;을 사용하십시오. 일부 이메일 보안에서는 이메일이 &quot;사용자 도메인&quot;에서 발송되지만 링크가 go.toutapp으로 리디렉션되고 있음을 알 수 있습니다. 사용자 정의 도메인 링크 추적을 구현하면 이메일이 올바르게 표시되고 수신자의 받은 편지함에 도달할 확률이 높아집니다.
+* 사용자 정의 도메인 추적: 이렇게 하면 모든 추적 링크가 go.toutapp 대신 go.&quot;yourdomain&quot;으로 표시되도록 할 수 있습니다. 일부 이메일 보안에서는 이메일이 &quot;사용자 도메인&quot;에서 발송되지만 링크가 go.toutapp으로 리디렉션되고 있음을 알 수 있습니다. 사용자 정의 도메인 링크 추적을 구현하면 이메일이 올바르게 표시되고 수신자의 받은 편지함에 도달할 확률이 높아집니다.
 
 **메일 동작 확인**
 

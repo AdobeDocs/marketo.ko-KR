@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2022년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2022년 5월
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '828'
 ht-degree: 4%
 
 ---
@@ -27,11 +27,11 @@ ht-degree: 4%
 
 ## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
 
-**에 대한[!DNL Dynamic Chat]**&#x200B;챗봇 이벤트: 웹 방문자에 대한 자세한 동작 데이터(예: 페이지 체류 시간, 사이트 체류 시간 및 페이지 스크롤 백분율)를 활용하여 채팅 대화 상자가 표시되는 시기를 정의합니다.
+[!DNL Dynamic Chat]**에 대한**&#x200B;챗봇 이벤트: 웹 방문자에 대한 자세한 동작 데이터(예: 페이지 체류 시간, 사이트 체류 시간 및 페이지 스크롤 백분율)를 활용하여 채팅 대화 상자가 표시되는 시기를 정의합니다.
 
-**용[!DNL Dynamic Chat]** PDF 포함: PDF를 채팅 대화 상자에 포함하여 참여를 늘리고 의미 있는 콘텐츠를 공유하며 참여 활동 추적을 통해 콘텐츠 성능을 측정합니다.
+[!DNL Dynamic Chat]**용** PDF 포함: PDF를 채팅 대화 상자에 포함하여 참여를 늘리고 의미 있는 콘텐츠를 공유하며 참여 활동 추적을 통해 콘텐츠 성능을 측정합니다.
 
-**에 대한[!DNL Dynamic Chat]**&#x200B;확장 언어 지원: 이제 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어로도 [!DNL Dynamic Chat] 사용자 인터페이스를 사용할 수 있습니다. 이러한 언어로 채팅 대화 상자를 구성할 수도 있습니다.
+[!DNL Dynamic Chat]**에 대한**&#x200B;확장 언어 지원: 이제 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어로도 [!DNL Dynamic Chat] 사용자 인터페이스를 사용할 수 있습니다. 이러한 언어로 채팅 대화 상자를 구성할 수도 있습니다.
 
 **[!DNL Dynamic Chat]**&#x200B;에 대한 URL 제외: 타깃팅 기준에서 특정 URL을 제외하는 기능으로 웹 페이지 [!DNL Dynamic Chat]의 표시 항목을 제어합니다.
 
@@ -65,7 +65,7 @@ ht-degree: 4%
 
 &quot;[!UICONTROL Login in Invite User Dialog]&quot; 기능을 사용하거나 여러 사용자와 연결된 하나의 이메일을 포함하는 구독에 대한 이메일 확인은 5월 릴리스와 일치합니다. 여러 사용자와 연결된 하나의 이메일이 있는 구독은 이메일 확인을 통해 활성화되며 이러한 사용자가 충돌을 해결하고 사용자당 고유한 이메일을 사용해야 합니다. &#39;사용자 초대에서 로그인 대화 상자&#39; 기능이 활성화된 경우 이 기능을 통해 초대된 사용자의 이메일 주소는 고유해야 합니다. 이 기능을 통해 초대된 API 전용 사용자의 경우 이메일 주소가 고유할 필요가 없습니다.
 
-**보관 폴더 동작 변경**: 이 릴리스에서는 보관 폴더에 새 자산을 만드는 기능을 트리 컨텍스트 메뉴에서 더 이상 사용할 수 없습니다. 새 에셋을 만들기 위한 메뉴 옵션은 모든 에셋에 대해 숨겨집니다. [자세히 알아보기](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
+**보관 폴더 동작 변경**: 이 릴리스에서는 보관 폴더에 새 자산을 만드는 기능을 트리 컨텍스트 메뉴에서 더 이상 사용할 수 없습니다. 새 에셋을 만들기 위한 메뉴 옵션은 모든 에셋에 대해 숨겨집니다. [여기에서 자세히 알아보십시오](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
 
 **_제품 릴리스 웨비나_**
 

@@ -4,16 +4,16 @@ description: 관리 필드 관리에서 Marketo 필드에 매핑된  [!DNL Sales
 title: Marketo과  [!DNL Salesforce] 간의 필드 매핑 보기
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 8%
 
 ---
 
 # Marketo과 [!DNL Salesforce] 간의 필드 매핑 보기 {#view-field-mappings-between-marketo-and-salesforce}
 
-특정 Marketo 필드가 연결된 [!DNL Salesforce]개 필드를 알고 싶을 수 있습니다. 확인 방법은 다음과 같습니다.
+특정 Marketo 필드가 매핑되는 [!DNL Salesforce]개 필드를 알 수 있습니다. 아래 단계를 수행합니다.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->레이블 이름이 아닌 [!DNL Salesforce] API 이름을 표시합니다.
+>레이블 이름이 아닌 [!DNL Salesforce] API 이름이 표시됩니다.
 
 >[!IMPORTANT]
 >

@@ -3,9 +3,9 @@ description: 영업 Insight 작업에서 이메일 템플릿을 관리하는 방
 title: 템플릿 관리
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '516'
 ht-degree: 5%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 5%
 
    ![](assets/manage-templates-3.png)
 
-1. 템플릿 편집기에서 이메일의 제목 줄을 만들고 원하는 메시지를 입력합니다. 편집 도구(글꼴, 텍스트 크기 등)를 사용하여 모양을 사용자 정의합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭하여 변경 내용을 완료합니다.
+1. 템플릿 편집기에서 이메일의 제목 줄을 만들고 원하는 메시지를 입력합니다. 편집 도구 사용(글꼴, 텍스트 크기 등) 를 클릭하여 모양을 사용자 지정합니다. **[!UICONTROL Save]**&#x200B;을(를) 클릭하여 변경 내용을 완료합니다.
 
    ![](assets/manage-templates-4.png)
 
@@ -61,7 +61,7 @@ ht-degree: 5%
 
 ## 템플릿 공유 {#share-a-template}
 
-팀 계정 중 하나를 사용하는 경우 모든 템플릿은 기본적으로 비공개입니다.
+팀 계정 중 하나를 사용하는 경우 기본적으로 모든 템플릿이 여전히 비공개입니다.
 
 1. **[!UICONTROL Templates]** 탭으로 이동합니다.
 
@@ -77,7 +77,7 @@ ht-degree: 5%
 
    >[!NOTE]
    >
-   >사용자와 공유된 템플릿이 **[!UICONTROL Team Templates]** 페이지의 왼쪽에 있는 [!UICONTROL Templates] 머리글 아래에 표시됩니다. 팀은 Premium 사용자만 사용할 수 있습니다.
+   >사용자와 공유된 템플릿이 [!UICONTROL Templates] 페이지의 왼쪽에 있는 **[!UICONTROL Team Templates]** 머리글 아래에 표시됩니다. 팀은 Premium 사용자만 사용할 수 있습니다.
 
 1. [!UICONTROL Share With] 드롭다운을 클릭하고 공유할 팀을 선택합니다.
 
@@ -99,7 +99,7 @@ ht-degree: 5%
 
    ![](assets/manage-templates-11.png)
 
-   유명해지고 나면, 그 스타는 남을 것이다.
+   그 별이 유명해지고 나면, 그 별은 남을 것이다.
 
    ![](assets/manage-templates-12.png)
 

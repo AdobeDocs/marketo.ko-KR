@@ -4,9 +4,9 @@ description: 사용자 지정 측정값 추가를 포함하여 Marketo Engage의
 title: Revenue Explorer 보고서에 사용자 정의 측정 항목 추가
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '214'
 ht-degree: 7%
 
 ---

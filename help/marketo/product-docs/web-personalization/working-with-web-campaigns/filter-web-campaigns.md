@@ -4,9 +4,9 @@ description: 필터 웹 캠페인 필터 웹 캠페인을 사용하여 Marketo E
 title: 웹 캠페인 필터링
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '105'
 ht-degree: 8%
 
 ---
