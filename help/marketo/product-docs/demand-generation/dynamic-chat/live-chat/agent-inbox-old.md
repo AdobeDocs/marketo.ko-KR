@@ -4,9 +4,9 @@ title: 에이전트 받은 편지함
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '318'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->**에이전트 설정에서 설정한**&#x200B;실시간 채팅 가용성[을 재정의합니다](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"}. 상태를 다시 전환하거나 사용 가능한 다음 시간 블록으로 전환할 때까지 유지됩니다.
+>**에이전트 설정에서 설정한 [실시간 채팅 가용성](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"}을 재정의합니다**. 상태를 다시 전환하거나 사용 가능한 다음 시간 블록으로 전환할 때까지 유지됩니다.
 
 >[!NOTE]
 >

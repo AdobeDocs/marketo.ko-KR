@@ -5,8 +5,7 @@ title: 다음 세대 [!DNL Munchkin] 추적 FAQ
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
-hidefromtoc: true
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '705'
 ht-degree: 0%
@@ -76,18 +75,18 @@ Marketo은 익명의 사람들이 스마트 캠페인과 상호 작용하는 방
 
 [익명 잠재 고객 업그레이드 개요](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
 
-[Anonymous Lead Upgrades - Changes Inside Marketo UI](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
+[익명 잠재 고객 업그레이드 - Marketo UI 내 변경 사항](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
 
-[Anonymous Lead Upgrades - Customer Action Needed](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
+[익명의 잠재 고객 업그레이드 - 고객 조치 필요](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
 
-[Anonymous Lead Upgrades - Analytics Reports](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
+[익명 잠재 고객 업그레이드 - Analytics 보고서](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
 
-[Anonymous Lead Upgrades - Release Schedule](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
+[익명 잠재 고객 업그레이드 - 릴리스 일정](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
 
-[Anonymous Lead Upgrades - Under The Hood](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
+[익명의 잠재 고객 업그레이드 - 내부](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
 
-[Anonymous Lead Promotion to Known Lead - [!DNL Munchkin] V2 Behavior](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
+[알려진 잠재 고객으로 익명 잠재 고객 프로모션 - [!DNL Munchkin] V2 동작](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
 
-## I have more questions! How do I get them answered? {#i-have-more-questions-how-do-i-get-them-answered}
+## 질문이 더 있습니다! 어떻게 해야 답을 얻을 수 있습니까? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Visit the [Marketo Community](https://experienceleaguecommunities.adobe.com/?profile.language=ko){target="_blank"}. You can also contact Marketo Support. They are happy to answer your questions.
+[Marketo 커뮤니티](https://experienceleaguecommunities.adobe.com/?profile.language=ko){target="_blank"}를 방문하세요. Marketo 지원에도 문의할 수 있습니다. 그들은 기꺼이 당신의 질문에 대답합니다.

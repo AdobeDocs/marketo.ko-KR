@@ -4,9 +4,9 @@ title: 2/3단계 - Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimite
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '436'
 ht-degree: 4%
 
 ---

@@ -4,9 +4,9 @@ description: Salesforce에서 Marketo 동기화 사용자를 마케팅 사용자
 title: Marketo 동기화 사용자를 마케팅 사용자로 만들기
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '110'
 ht-degree: 16%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 16%
 >
 >**관리자 권한 필요**
 
-1. Salesforce에 로그인. 왼쪽 검색 창에서 사용자를 검색하고 **[!UICONTROL Users]** 아래의 **[!UICONTROL Managing Users]**&#x200B;을(를) 클릭합니다.
+1. Salesforce에 로그인. 왼쪽 검색 창에서 사용자를 검색하고 **[!UICONTROL Managing Users]** 아래의 **[!UICONTROL Users]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-7-8-14-3a25-3a49.png)
 
@@ -35,4 +35,4 @@ ht-degree: 16%
 
    ![](assets/image2015-7-8-14-3a30-3a16.png)
 
-   잘됐네! 이 Marketo 동기화 사용자는 이제 마케팅 사용자가 됩니다.
+   이 Marketo 동기화 사용자는 이제 마케팅 사용자가 됩니다.

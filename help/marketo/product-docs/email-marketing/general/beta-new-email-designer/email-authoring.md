@@ -2,10 +2,9 @@
 description: 새로운 이메일 Designer에서의 이메일 작성에 대해 알아봅니다. Marketo Engage에서 이메일을 만들고, 개인화하고, 미리 볼 수 있습니다.
 title: 이메일 작성
 hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '1531'
 ht-degree: 5%

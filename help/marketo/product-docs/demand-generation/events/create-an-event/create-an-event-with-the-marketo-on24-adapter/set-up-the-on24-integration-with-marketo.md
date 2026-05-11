@@ -3,7 +3,7 @@ description: Marketo과 ON24 통합을 설정하는 방법에 대해 알아봅�
 title: Marketo와 ON24 통합 설정
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 10%
@@ -12,7 +12,7 @@ ht-degree: 10%
 
 # Marketo와 ON24 통합 설정{#set-up-the-on24-integration-with-marketo}
 
-다음은 ON24 이벤트 통합을 설정하는 방법입니다.
+다음 단계에 따라 ON24 이벤트 통합을 설정하십시오.
 
 ## API 전용 역할 만들기 {#create-an-api-only-role}
 
@@ -42,7 +42,7 @@ ht-degree: 10%
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. 방금 만든 [!UICONTROL ON24 API Only Role (all workspaces)]을(를) 선택합니다. **[!UICONTROL API Only]** 확인란을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
+1. 만든 [!UICONTROL ON24 API Only Role (all workspaces)]을(를) 선택합니다. **[!UICONTROL API Only]** 확인란을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
@@ -68,7 +68,7 @@ ht-degree: 10%
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
-1. 방금 만든 사용자 지정 [!DNL LaunchPoint] 서비스를 찾은 다음 [!UICONTROL View Details]을(를) 클릭합니다.
+1. 만든 사용자 지정 [!DNL LaunchPoint] 서비스를 찾은 다음 [!UICONTROL View Details]을(를) 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 

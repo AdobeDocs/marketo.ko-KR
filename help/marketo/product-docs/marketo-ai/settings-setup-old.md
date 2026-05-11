@@ -2,11 +2,10 @@
 description: Marketo AI 권한을 활성화하고 조직 규칙을 구성하고 통합 및 알림과 같은 설정을 관리하는 방법을 알아봅니다.
 title: 설정 및 설정
 hide: true
-hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: c0854d574b4fc995f249783aebcd15ed7d224851
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -37,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/settings-setup-2.png)
 
-1. 아래로 스크롤하여 _AI로 빌드 액세스_ 확인란을 **선택 취소**&#x200B;한 다음 **저장**&#x200B;을 클릭합니다.
+1. 아래로 스크롤하여 **AI로 빌드 액세스** 확인란을 _선택 취소_&#x200B;한 다음 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/settings-setup-3.png)
 

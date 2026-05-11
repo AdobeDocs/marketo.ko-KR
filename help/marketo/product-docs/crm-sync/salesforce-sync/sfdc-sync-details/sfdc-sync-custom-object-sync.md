@@ -4,10 +4,10 @@ description: Salesforce에서 Marketo으로 사용자 지정 개체 동기화를
 title: SFDC 동기화 - 사용자 지정 개체 동기화
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 3%
+source-wordcount: '291'
+ht-degree: 7%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->사용자 지정 개체를 사용하려면 [의 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)리드[, &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)연락처[&#x200B; 또는 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)계정[!DNL Salesforce] 개체와 연결되어 있어야 합니다.
+>사용자 지정 개체를 사용하려면 [!DNL Salesforce]의 [리드](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [연락처](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md) 또는 [계정](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) 개체와 연결되어 있어야 합니다.
 
 >[!IMPORTANT]
 >
@@ -65,7 +65,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >전역 동기화를 다시 활성화하는 것을 잊지 마십시오!
+   >글로벌 동기화를 다시 활성화해야 합니다.
 
 1. **[!UICONTROL Salesforce]** 탭으로 돌아갑니다.
 
@@ -87,6 +87,6 @@ ht-degree: 3%
 
 ### 다음 단계: {#whats-next}
 
-[사용자 지정 개체 필드를 스마트 목록/트리거 제약 조건으로 추가/제거](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+[스마트 목록/트리거 제약 조건으로 사용자 정의 오브젝트 필드 추가/제거](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
-훌륭합니다! 이제 스마트 캠페인 및 스마트 목록에서 이 사용자 지정 개체의 데이터를 사용할 수 있습니다.
+이제 스마트 캠페인 및 스마트 목록에서 이 사용자 지정 개체의 데이터를 사용할 수 있습니다.

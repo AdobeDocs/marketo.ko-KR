@@ -3,9 +3,9 @@ description: 채팅 대화 작성을 위한 스트림 Designer 및 카드에 대
 title: 스트림 디자이너
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1191'
+source-wordcount: '1182'
 ht-degree: 2%
 
 ---
@@ -57,7 +57,7 @@ ht-degree: 2%
   <td style="width:25%"><strong>실시간 채팅</strong></td>
   <td>방문자가 라이브 에이전트와 채팅하도록 하려면 라이브 채팅 카드를 사용하십시오.
   <li>라이브 채팅 카드가 분기의 마지막 카드여야 합니다.</li>
-  <li>방문자는 스트림의 이 카드에 도달하면 에이전트로 라우팅됩니다. 따라서 방문자에게 라이브 에이전트와 채팅할 것인지 묻는 질문 카드와 함께 이 카드 앞에 서는 것이 좋습니다.</li></td>
+  <li>방문자는 스트림의 이 카드에 도달하면 에이전트로 라우팅되므로, 라이브 에이전트와 채팅하고 싶은지 묻는 질문 카드와 함께 이 카드 앞에 서는 것이 좋습니다.</li></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>생성된 응답*</strong></td>
@@ -76,7 +76,7 @@ ht-degree: 2%
 
 ## 스트림 Designer 아이콘 {#stream-designer-icons}
 
-스트림 Designer 오른쪽 상단에 아이콘이 표시됩니다. 그들이 하는 일은 다음과 같습니다.
+스트림 Designer 오른쪽 상단에 아이콘이 표시됩니다. 다음은 각 아이콘에 대해 설명합니다.
 
 <table>
  <tr>
@@ -103,7 +103,7 @@ ht-degree: 2%
 
 ## 스트림 만들기 {#create-a-stream}
 
-대화 상자 또는 [대화형 Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}에 대한 스트림을 만들 수 있습니다. 이 예제에서는 대화 상자에 대해 하나를 만들겠습니다.
+대화 상자 또는 [대화형 Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}에 대한 스트림을 만들 수 있습니다. 이 예제에서는 대화 상자에 대한 스트림이 만들어집니다.
 
 1. [대화 상자를 만든](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}후 **[!UICONTROL Stream Designer]** 탭을 클릭합니다.
 
@@ -119,7 +119,7 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >채팅 방문자에 대한 경험을 사용자 지정할 수 있습니다!
+   >채팅 방문자에 대한 경험을 사용자 지정할 수 있습니다.
    >
    >* &quot;HTML 삽입&quot; 아이콘 `</>`을(를) 클릭하여 원하는 대화의 모양과 느낌을 제공하기 위해 고유한 HTML을 삽입합니다.
    >
@@ -137,7 +137,7 @@ ht-degree: 2%
    >
    >**[!UICONTROL Edit Stored Values]**&#x200B;은(는) 질문 카드에서 매핑된 속성을 위해 챗봇의 방문자에게 표시되는 내용과 다른 값을 데이터베이스에 저장하려는 사용자를 위한 선택적 단계입니다(예: 방문자에게 &quot;검색 엔진 최적화&quot;가 표시되고 해당 값을 &quot;SEO&quot;로 저장함).
 
-1. &quot;예&quot;의 경우 모임을 예약하려고 하므로 해당 옵션 아래에 _모임 예약_ 카드 위로 끌어서 놓습니다.
+1. &quot;예&quot;의 경우 해당 옵션 아래의 _모임 예약_ 카드 위로 끌어서 놓습니다.
 
    ![](assets/stream-designer-10.png)
 
@@ -153,7 +153,7 @@ ht-degree: 2%
 
    ![](assets/stream-designer-13.png)
 
-1. &quot;아니요&quot;의 경우 메일 그룹에 가입할 것인지 확인하고 싶으므로 해당 옵션 아래에 다른 [!UICONTROL Question] 카드를 끌어 놓습니다.
+1. &quot;아니요&quot;의 경우 해당 옵션 아래의 다른 [!UICONTROL Question] 카드 위로 드래그하여 방문자가 메일링 목록에 가입할 것인지 확인하십시오.
 
    ![](assets/stream-designer-14.png)
 
@@ -185,11 +185,11 @@ ht-degree: 2%
 
    ![](assets/stream-designer-20.png)
 
-1. &quot;아니요&quot;라고 말하면 응답을 추가하는 것을 잊지 마십시오. 한 가지 옵션은 아래에 메시지 카드를 드래그하여 &quot;어쨌든 감사합니다.&quot;라고 말하는 것입니다. 그러나 이 예제에서는 무료 PDF 문서를 대신 제공합니다.
+1. &quot;아니요&quot;라고 말하면 응답을 추가하는 것을 잊지 마십시오. 한 가지 옵션은 아래에 메시지 카드를 드래그하여 &quot;어쨌든 감사합니다.&quot;라고 말하는 것입니다. 그러나 이 예제에서는 무료 PDF 문서가 대신 제공됩니다.
 
    ![](assets/stream-designer-21.png)
 
-1. 이 예제에서는 새 문서를 만듭니다. 이름을 지정하고 이미 호스팅한 PDF의 URL을 입력한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 새 문서를 만듭니다. 이름을 지정하고 이미 호스팅한 PDF의 URL을 입력한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/stream-designer-22.png)
 

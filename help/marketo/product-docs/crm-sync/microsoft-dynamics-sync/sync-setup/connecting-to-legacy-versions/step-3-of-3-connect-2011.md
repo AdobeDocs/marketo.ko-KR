@@ -4,16 +4,16 @@ description: 마지막 단계에서 Microsoft Dynamics 2011 온프레미스를 M
 title: 3단계/3단계 - Marketo(2011 온-프레미스)와  [!DNL Microsoft Dynamics] 연결
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '344'
 ht-degree: 1%
 
 ---
 
 # 3단계/3단계: [!DNL Microsoft Dynamics]을(를) Marketo(2011 온-프레미스)와 연결 {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
-좋아! 솔루션을 설치하고 동기화 사용자를 구성했습니다. 그런 다음 Marketo과 [!DNL Dynamics]을(를) 연결해야 합니다.
+솔루션이 설치되고 동기화 사용자가 구성되었습니다. 그런 다음 Marketo과 [!DNL Dynamics]을(를) 연결합니다.
 
 >[!PREREQUISITES]
 >
@@ -38,13 +38,13 @@ ht-degree: 1%
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. **[!UICONTROL Edit]**&#x200B;에서 **[!UICONTROL Step 1: Enter credentials]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Step 1: Enter credentials]**&#x200B;에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
    >[!CAUTION]
    >
-   >제출 후 후속 스키마 변경 사항을 되돌릴 수 없으므로 자격 증명이 올바른지 확인하십시오. 잘못된 자격 증명을 저장하면 새 Marketo 구독을 얻어야 합니다.
+   >자격 증명이 올바른지 확인합니다. 제출 후에는 이후의 스키마 변경 내용을 되돌릴 수 없습니다. 잘못된 자격 증명을 저장하면 새 Marketo 구독이 필요합니다.
 
 1. **[!UICONTROL Username]**, **[!UICONTROL Password]** 및 CRM **[!UICONTROL URL]**&#x200B;을(를) 입력한 다음 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
@@ -57,9 +57,9 @@ ht-degree: 1%
 
 ## 동기화할 필드 선택 {#select-fields-to-sync}
 
-이제 동기화할 필드를 선택해야 합니다.
+동기화할 필드를 선택하십시오.
 
-1. **[!UICONTROL Edit]**&#x200B;에서 **[!UICONTROL Step 2: Select Fields to Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Step 2: Select Fields to Sync]**&#x200B;에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
@@ -73,13 +73,13 @@ ht-degree: 1%
 
 ## 사용자 정의 필터의 동기화 필드 {#sync-fields-for-a-custom-filter}
 
-사용자 지정 필터를 만든 경우 로 이동하여 Marketo과 동기화할 새 필드를 선택하십시오.
+사용자 지정 필터를 만든 경우 로 이동하여 Marketo과 동기화할 새 필드를 선택합니다.
 
 1. 관리자로 이동하여 **[!UICONTROL Microsoft Dynamics]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. **[!UICONTROL Edit]**&#x200B;에서 [!UICONTROL Field Sync Details]을(를) 클릭합니다.
+1. [!UICONTROL Field Sync Details]에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -89,7 +89,7 @@ ht-degree: 1%
 
 ## 동기화 활성화 {#enable-sync}
 
-1. **[!UICONTROL Edit]**&#x200B;에서 **[!UICONTROL Step 3: Enable Sync]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL Step 3: Enable Sync]**&#x200B;에서 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-3-16-9-52-2b.png)
 

@@ -2,13 +2,12 @@
 description: 새 이메일 Designer에서 이메일 템플릿에 대해 알아봅니다. 템플릿을 만들고 재사용하여 Marketo Engage에서 더 빠른 이메일 만들기
 title: 이메일 템플릿
 hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '1728'
-ht-degree: 3%
+source-wordcount: '1769'
+ht-degree: 4%
 
 ---
 
@@ -225,7 +224,7 @@ Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs
 
    >[!NOTE]
    >
-   >&quot;대체 텍스트&quot;는 기본값에 대한 새로운 편집기 용어입니다. 예: ``{{lead.First Name:default=Friend}}`` 선택한 필드에 사용자에 대한 값이 없는 경우 사용하는 것이 좋습니다.
+   >&quot;대체 텍스트&quot;는 기본값에 대한 새로운 편집기 용어입니다. 예: ``{{lead.First Name:default=Friend}}``. 선택한 필드에 사용자에 대한 값이 없는 경우 사용하는 것이 좋습니다.
 
 1. 대체 텍스트를 설정하고 **추가**&#x200B;를 클릭합니다.
 

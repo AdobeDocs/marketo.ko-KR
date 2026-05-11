@@ -3,9 +3,9 @@ description: Dynamic Chat 대화 상자 창의 모양과 느낌을 사용자 지
 title: 구성
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '414'
 ht-degree: 2%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 2%
 
 **모바일에서 메시지 가져오기 사용**
 
-슬라이더를 선택하여 &quot;Poke&quot;를 활성화합니다. 이 옵션은 방문자가 모바일 디바이스에서 채팅하고 있는 방문자에 대해 채팅 아이콘 옆에 열린 질문을 클릭할 필요 없이 표시합니다.
+슬라이더를 선택하여 &quot;Poke&quot;를 활성화하십시오. 이 옵션은 방문자가 모바일 디바이스에서 채팅하고 있는 방문자에게 채팅 아이콘 옆에 열린 질문을 클릭하지 않고도 보기 위해 클릭할 수 있습니다.
 
 ![](assets/configuration-6.png)
 
@@ -60,7 +60,7 @@ ht-degree: 2%
 >
 >Poke는 대화의 첫 번째 [카드](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}에서만 사용할 수 있습니다.
 
-변경을 마치면 **저장**&#x200B;을 클릭하세요.
+변경을 마쳤으면 **저장**&#x200B;을 클릭하세요.
 
 ![](assets/configuration-7.png)
 
@@ -82,4 +82,4 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Marketo 문제 해결을 지원하기 위해 HTML 지원이 설정되지 않았습니다. HTML 지원이 필요한 경우 웹 개발자에게 문의하십시오.
+>Marketo 문제 해결을 지원하기 위해 HTML 지원이 설정되지 않았습니다. HTML에 대한 지원은 웹 개발자에게 문의하십시오.

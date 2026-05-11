@@ -4,10 +4,10 @@ description: Marketo Engage에서 Salesforce 캠페인 동기화를 활성화하
 title: 캠페인 동기화 활성화/비활성화
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 10%
+source-wordcount: '76'
+ht-degree: 11%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 10%
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
-여기 있습니다. Salesforce에서 데이터를 가져올 시간을 동기화하기만 하면 됩니다.
+Salesforce에서 데이터를 가져오는 데 동기화가 다소 시간이 걸릴 수 있습니다.
 
 >[!MORELIKETHIS]
 >

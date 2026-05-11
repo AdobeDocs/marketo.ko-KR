@@ -3,9 +3,9 @@ description: 연결하기 전에 Veeva CRM에 Marketo 필드를 추가하는 방
 title: 1단계/3단계 -  [!DNL Veeva] CRM에 Marketo 필드 추가
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '495'
 ht-degree: 8%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 8%
 >
 >[!DNL Veeva] CRM 인스턴스는 Salesforce API에 액세스하여 Marketo Engage과 [!DNL Veeva] CRM 간에 데이터를 동기화해야 합니다.
 
-Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 정보를 캡처합니다. 이 데이터를 [!DNL Veeva] CRM에 포함하려면 아래 지침을 따르십시오.
+Marketo Engage은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 정보를 캡처합니다. 이 데이터를 [!DNL Veeva] CRM에 넣으려면 아래 지침을 따르십시오.
 
 1. 연락처 개체의 [!DNL Veeva] CRM에 사용자 지정 필드를 만듭니다. 점수
 1. 원하는 경우 추가 필드를 만들 수 있습니다(아래 표 참조).

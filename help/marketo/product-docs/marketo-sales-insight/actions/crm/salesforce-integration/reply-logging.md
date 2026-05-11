@@ -2,12 +2,11 @@
 description: 잠재 고객 답글이 Salesforce에 기록되도록 답글 로깅에 대해 알아봅니다. API 로깅이 켜져 있고 회신 추적을 사용할 수 있는 경우 로그 회신 을 활성화합니다.
 title: 답변 로깅
 hide: true
-hidefromtoc: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '261'
 ht-degree: 2%
 
 ---

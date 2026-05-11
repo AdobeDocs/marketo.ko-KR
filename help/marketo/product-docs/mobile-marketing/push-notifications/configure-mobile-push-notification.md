@@ -3,7 +3,7 @@ description: 모바일 푸시 알림을 구성하는 방법을 알아봅니다. 
 title: 모바일 푸시 알림 구성
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '506'
 ht-degree: 2%
@@ -86,7 +86,7 @@ ht-degree: 2%
 
 ## 리디렉션 URI {#redirect-uris}
 
-푸시 알림 메시지에 구성된 리디렉션 URI는 해당 URI에서 Marketo 토큰을 지원합니다. &#39;Launch 앱 URL&#39;에만 적용됩니다.
+푸시 알림 메시지에 구성된 리디렉션 URI는 해당 URI에서 Marketo 토큰을 지원합니다. &#39;앱 URI 실행&#39;에만 적용됩니다.
 
 샘플 형식:
 

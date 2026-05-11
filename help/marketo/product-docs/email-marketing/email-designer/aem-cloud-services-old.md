@@ -5,10 +5,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 1%
+source-wordcount: '218'
+ht-degree: 8%
 
 ---
 
@@ -24,7 +24,7 @@ AEM Assets 이메일 Designer에서 AEM 에셋 저장소를 활용할 수 있도
 
 스크린샷
 
-1. **Adobe Experience Manager 클라우드 서비스** 옆에 있는 _편집_&#x200B;을 클릭합니다.
+1. _Adobe Experience Manager 클라우드 서비스_ 옆에 있는 **편집**&#x200B;을 클릭합니다.
 
 스크린샷
 
@@ -44,7 +44,7 @@ AEM Assets 이메일 Designer에서 AEM 에셋 저장소를 활용할 수 있도
 
 스크린샷
 
-1. 구성된 저장소는 상태 및 만료와 함께 아래에 표시됩니다. 인증서를 보려면 줄임표 단추(**...**)를 클릭하십시오. 그렇지 않으면, 넌 끝이야.
+1. 구성된 저장소는 상태 및 만료와 함께 아래에 표시됩니다. 줄임표 단추(**...**)를 클릭합니다. 인증서를 봅니다. 그렇지 않으면 완료됩니다.
 
 스크린샷
 

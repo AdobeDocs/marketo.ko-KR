@@ -2,10 +2,9 @@
 description: 판매 Insight 작업에 대한 Marketo 연결을 설정하는 방법을 알아봅니다. Marketo 관리에서 연결하여 인스턴스에 대한 작업을 활성화합니다.
 title: Marketo 연결 설정
 hide: true
-hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 5%
@@ -16,7 +15,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->[!DNL Sales Insight Actions]을(를) 프로비전하면 Marketo에서 자격 증명을 작업에 자동으로 보내고 인스턴스를 Marketo에 연결합니다. 이 단계는 **인스턴스가 프로비저닝된 후** 연결이 설정되지 않은 경우에만 [!DNL Sales Connect]필요합니다. 연결이 설정되면 Marketo 관리 설정 페이지에 입력한 자격 증명과 연결 해제 옵션이 표시됩니다.
+>[!DNL Sales Insight Actions]을(를) 프로비전하면 Marketo에서 자격 증명을 작업에 자동으로 보내고 인스턴스를 Marketo에 연결합니다. 이 단계는 [!DNL Sales Connect] 인스턴스가 프로비저닝된 후 **연결이 설정되지 않은 경우에만**&#x200B;필요합니다. 연결이 설정되면 Marketo 관리 설정 페이지에 입력한 자격 증명과 연결 해제 옵션이 표시됩니다.
 
 ## [!DNL Sales Connect]을(를) Marketo에 연결하기 전에 자격 증명을 가져오는 중 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 

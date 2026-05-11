@@ -2,12 +2,11 @@
 description: Marketo Engage 커뮤니티 - Marketo Engage 문서 - 제품 설명서
 title: Marketo Engage 커뮤니티
 hide: true
-hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '590'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -50,7 +49,7 @@ ht-degree: 0%
 
 ## 질문 제출 {#submit-a-question}
 
-이 단계에서 일반적으로 도움을 요청할 수 있습니다. 특정 문제에 대한 피드백을 찾는 경우 토론 스레드를 시작하거나 기존 토론 스레드를 검색하십시오. 또는 다른 사람의 스레드로 이동하여 여러분이 알고 있는 문제에 대해 다른 사람의 스레드를 지원합니다.
+이 단계에서 일반적으로 도움을 요청할 수 있습니다. 특정 문제에 대한 피드백을 찾고 있을 때 토론 스레드를 시작하거나 기존 토론 스레드를 검색하거나 다른 사람의 스레드로 이동하여 여러분이 알고 있는 문제를 해결하도록 도와주십시오.
 
 스크린샷
 

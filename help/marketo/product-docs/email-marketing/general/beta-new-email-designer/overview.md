@@ -2,13 +2,12 @@
 description: 새로운 이메일 Designer 베타에 대해 알아봅니다. Marketo Engage Beta 프로그램의 드래그 앤 드롭 편집기 및 템플릿에 액세스합니다.
 title: 개요
 hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 86475b8b-4dd2-4c73-9586-889f6a3c01e8
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 30%
+source-wordcount: '240'
+ht-degree: 36%
 
 ---
 

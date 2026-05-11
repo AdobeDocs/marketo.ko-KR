@@ -4,12 +4,11 @@ description: Marketo의 자유 형식 랜딩 페이지에 소셜 버튼을 추�
 title: 자유 형식 랜딩 페이지에 소셜 버튼 추가
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
-hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 8%
+source-wordcount: '241'
+ht-degree: 9%
 
 ---
 
@@ -43,7 +42,7 @@ ht-degree: 8%
    >
    >**[!UICONTROL New]** > **[!UICONTROL New Local Asset]**&#x200B;을(를) 선택하여 프로그램 내에 소셜 단추를 만들 수도 있습니다.
 
-1. 소셜 단추의 이름을 지정하고 **[!UICONTROL None]**&#x200B;에서 **[!UICONTROL Clone From]**&#x200B;을(를) 선택한 다음 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
+1. 소셜 단추의 이름을 지정하고 **[!UICONTROL Clone From]**&#x200B;에서 **[!UICONTROL None]**&#x200B;을(를) 선택한 다음 **[!UICONTROL Insert]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 

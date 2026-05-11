@@ -4,9 +4,9 @@ description: Dynamics 365용 서버 간 연결을 사용하여 Marketo 솔루션
 title: 2/3단계 - 서버 간 연결을 통해 Marketo 솔루션 설정
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->클라이언트 암호 값(아래 스크린샷에 표시됨)은 나중에 필요하므로 기록해 두십시오. 한 번만 표시되며 다시 검색할 수 없습니다.
+>클라이언트 암호 값(아래 스크린샷에 표시됨)은 한 번만 표시되며 다시 검색할 수 없으므로 이 값을 확인합니다.
 
 ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
@@ -51,20 +51,20 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >* 애플리케이션 사용자에게 권한을 부여하는 동안 &quot;Marketo 동기화 사용자 역할&quot;에 할당해야 합니다.
+   >* 애플리케이션 사용자에게 권한을 부여하는 동안 &quot;Marketo 동기화 사용자 역할&quot;에 할당하십시오.
    >* Power Platform의 [세부 정보 보기 옵션](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user)에서 응용 프로그램 사용자의 전자 메일 주소를 확인하세요. 이 전자 메일 주소는 Marketo 내에서 MS [!DNL Dynamics]에 대한 연결을 설정할 때 사용자 이름으로 사용됩니다.
 
 ## [!DNL Azure AD]이(가) [!DNL AD FS On-prem]&#x200B;(으)로 연결됨 {#azure-ad-federated-with-ad-fs-on-prem}
 
 [!DNL Azure AD]에서 [!DNL ADFS Onprem]&#x200B;(으)로 페더레이션된 경우 특정 응용 프로그램에 대한 홈 영역 검색 정책을 만들어야 합니다. 이 정책을 사용하면 [!DNL Azure AD]이(가) 인증 요청을 페더레이션 서비스에 리디렉션합니다. 이에 대해 [!DNL AD Connect]에서 암호 해시 동기화를 사용하도록 설정해야 합니다. 자세한 내용은 [[!DNL OAuth] 함께 [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) 및 [응용 프로그램에 대한 hrd 정책 설정](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)을 참조하세요.
 
-추가 참조 [이(가) 여기에 있습니다](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=이%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
+추가 참조 [이(가) 여기에 있습니다](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD입니다.){target="_blank"}.
 
 ## Marketo 솔루션 구성 {#configure-marketo-solution}
 
-거의 다 됐어! 이제 새로 만든 사용자에 대해 Marketo 솔루션에 알리는 일만 남았습니다.
+마지막 한 단계: 만든 새 사용자에 대해 Marketo 솔루션에 알립니다.
 
-1. [!UICONTROL Advanced Settings] 섹션으로 돌아가서 ![](assets/image2015-5-13-15-3a49-3a19.png) 옆에 있는 [!UICONTROL Settings] 아이콘을 클릭하고 **[!UICONTROL Marketo Config]**&#x200B;을(를) 선택합니다.
+1. [!UICONTROL Advanced Settings] 섹션으로 돌아가서 [!UICONTROL Settings] 옆에 있는 ![](assets/image2015-5-13-15-3a49-3a19.png) 아이콘을 클릭하고 **[!UICONTROL Marketo Config]**&#x200B;을(를) 선택합니다.
 
    ![](assets/fourteen.png)
 
@@ -88,7 +88,7 @@ ht-degree: 0%
 
    ![](assets/seventeen.png)
 
-1. ![](assets/image2015-5-13-15-3a49-3a19-1.png) 옆에 있는 [!UICONTROL Settings] 아이콘을 클릭하고 **[!UICONTROL Solutions]**&#x200B;을(를) 선택합니다.
+1. [!UICONTROL Settings] 옆에 있는 ![](assets/image2015-5-13-15-3a49-3a19-1.png) 아이콘을 클릭하고 **[!UICONTROL Solutions]**&#x200B;을(를) 선택합니다.
 
    ![](assets/eighteen.png)
 

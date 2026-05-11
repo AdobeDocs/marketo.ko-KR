@@ -2,10 +2,9 @@
 description: 사람 페이지 열과 보기를 사용자 지정하는 방법에 대해 알아봅니다. 필요한 연락처 데이터를 보려면 열을 표시하거나 숨깁니다.
 title: 사용자 페이지 열
 hide: true
-hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 8%

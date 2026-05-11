@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504163
 description: LinkedIn 일치 대상을 LaunchPoint 서비스로 추가하는 방법을 알아봅니다. 광고 타깃팅을 위해 Marketo 목록을 LinkedIn 대상 세그먼트로 사용합니다.
-title: ' [!DNL LinkedIn] 서비스로  [!DNL LaunchPoint] 일치하는 대상 추가'
+title: ' [!DNL LaunchPoint] 서비스로  [!DNL LinkedIn] 일치하는 대상 추가'
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '211'
 ht-degree: 2%
 
 ---
@@ -59,7 +59,7 @@ Marketo 계정을 일치하는 대상 [!DNL LinkedIn]과(와) 연결하여 Marke
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   멋지다! 이제 [설치된 서비스] 탭에 [!DNL LinkedIn]명의 일치하는 대상이 [!DNL LaunchPoint] 서비스로 나열됩니다.
+   [!DNL LinkedIn]개의 일치하는 대상이 [설치된 서비스] 탭에 [!DNL LaunchPoint] 서비스로 나열됩니다.
 
    ![](assets/bartholomew2.png)
 

@@ -4,9 +4,9 @@ description: Enterprise 또는 Unlimited Edition을 사용하는 Marketo용 Sale
 title: 2/3단계 - Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '359'
 ht-degree: 2%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 2%
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. **[!UICONTROL Administrative Permissions]** 섹션에서 다음 상자가 선택되어 있는지 확인하십시오.
+1. **[!UICONTROL Administrative Permissions]** 섹션에서 다음 확인란이 선택되어 있는지 확인합니다.
 
    * [!UICONTROL API Enabled]
    * [!UICONTROL Edit HTML Templates]
@@ -58,9 +58,9 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >**[!UICONTROL Password Never Expires]** 상자를 확인하십시오.
+   >**[!UICONTROL Password Never Expires]** 상자를 선택합니다.
 
-1. [!UICONTROL General User Permissions] 섹션에서 다음 상자가 선택되어 있는지 확인하십시오.
+1. [!UICONTROL General User Permissions] 섹션에서 다음 확인란이 선택되어 있는지 확인합니다.
 
    * [!UICONTROL Convert Leads]
    * [!UICONTROL Edit Events]
@@ -111,7 +111,7 @@ ht-degree: 2%
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. 불필요한 필드를 찾아 **[!UICONTROL Read Access]** 및 **[!UICONTROL Edit Access]**&#x200B;이(가) 선택 취소되었는지 확인하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. 필요 없는 필드를 찾아 **[!UICONTROL Read Access]** 및 **[!UICONTROL Edit Access]**&#x200B;이(가) 선택 취소되어 있는지 확인하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    >[!NOTE]
    >
@@ -148,7 +148,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->Marketo의 변경 사항과 다른 [!DNL Salesforce] 사용자를 구별하기 위해 전용 <marketo@yourcompany.com> 계정(예: [!DNL Salesforce])을 만듭니다.
+>Marketo의 변경 사항과 다른 [!DNL Salesforce] 사용자를 구별하기 위해 전용 [!DNL Salesforce] 계정(예: <marketo@yourcompany.com>)을 만듭니다.
 
 1. 탐색 검색 창에 &quot;사용자 관리&quot;를 입력한 다음 **[!UICONTROL Users]**&#x200B;을(를) 클릭합니다. **[!UICONTROL New User]**&#x200B;을(를) 클릭합니다.
 

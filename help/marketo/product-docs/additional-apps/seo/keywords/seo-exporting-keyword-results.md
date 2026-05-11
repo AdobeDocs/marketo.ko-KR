@@ -1,12 +1,11 @@
 ---
 unique-page-id: 2949210
-description: Export keyword results from the Keywords section to share with your team or create reports.
+description: 키워드 섹션에서 키워드 결과를 내보내 팀과 공유하거나 보고서를 만들 수 있습니다.
 title: SEO - 키워드 결과 내보내기
 exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 hide: true
-hidefromtoc: true
 feature: SEO
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 5%
@@ -15,7 +14,7 @@ ht-degree: 5%
 
 # SEO - 키워드 결과 내보내기 {#seo-exporting-keyword-results}
 
-Learn how to export keyword results to share with your team or create a report.
+키워드 결과를 내보내어 팀과 공유하거나 보고서를 만드는 방법을 알아봅니다.
 
 >[!IMPORTANT]
 >

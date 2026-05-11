@@ -4,16 +4,16 @@ description: Microsoft Dynamics 및 Marketo에서 사용자 지정 엔터티에 
 title: 사용자 정의 엔티티에 대한 동기화 활성화
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '310'
 ht-degree: 4%
 
 ---
 
 # 사용자 정의 엔티티에 대한 동기화 활성화 {#enable-sync-for-a-custom-entity}
 
-Marketo Engage에서 사용할 수 있도록 [!DNL Dynamics]의 사용자 지정 엔터티 데이터가 필요한 경우 이에 대한 동기화를 사용하도록 설정하는 방법은 다음과 같습니다.
+Marketo Engage에서 사용할 수 있도록 [!DNL Dynamics]의 사용자 지정 엔터티 데이터가 필요한 경우 아래 단계를 따르십시오.
 
 >[!PREREQUISITES]
 >
@@ -64,7 +64,7 @@ Marketo Engage에서 사용할 수 있도록 [!DNL Dynamics]의 사용자 지정
 
    ![](assets/enable-sync-for-a-custom-entity-7.png)
 
-1. 전역 동기화를 다시 활성화하는 것을 잊지 마십시오!
+1. 전역 동기화를 다시 사용하도록 설정합니다.
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
 

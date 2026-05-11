@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720257
 description: Facebook 사용자 지정 대상을 LaunchPoint 서비스로 추가하는 방법을 알아봅니다. 광고 캠페인에서 사용자 지정 대상으로 사용할 Marketo 목록을 Facebook에 보냅니다.
-title: ' [!DNL Facebook] 서비스로  [!DNL LaunchPoint] 사용자 지정 대상 추가'
+title: ' [!DNL LaunchPoint] 서비스로  [!DNL Facebook] 사용자 지정 대상 추가'
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 2%
+source-wordcount: '294'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 2%
 >
 >**관리자 권한 필요**
 
-이 통합을 통해 Marketo 정적 및 스마트 목록의 대상 데이터를 [!DNL Facebook]&#x200B;(으)로 전송하여 [!DNL Facebook] 광고 캠페인에서 사용자 지정 대상으로 사용할 수 있습니다. 설정 방법은 다음과 같습니다.
+이 통합을 통해 Marketo 정적 및 스마트 목록의 대상 데이터를 [!DNL Facebook]&#x200B;(으)로 전송하여 [!DNL Facebook] 광고 캠페인에서 사용자 지정 대상으로 사용할 수 있습니다. 설정하려면 다음 단계를 따르십시오.
 
 1. Marketo **[!UICONTROL Admin]**(으)로 이동합니다.
 
@@ -27,7 +27,7 @@ ht-degree: 2%
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. 서비스에 대한 **[!UICONTROL Display Name]**&#x200B;을(를) 입력하고 **[!UICONTROL Facebook Custom Audiences]** 드롭다운에서 **[!UICONTROL Service]** 서비스를 선택합니다.
+1. 서비스에 대한 **[!UICONTROL Display Name]**&#x200B;을(를) 입력하고 **[!UICONTROL Service]** 드롭다운에서 **[!UICONTROL Facebook Custom Audiences]** 서비스를 선택합니다.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
@@ -45,7 +45,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >*사용자 지정 대상 통합이 작동하려면* Business Manager 계정을 사용해야[!DNL Facebook]합니다. Business Manager 계정을 설정하는 방법은 [[!DNL Facebook] 도움말](https://www.facebook.com/business/help/1710077379203657)을 참조하세요.
+   >*사용자 지정 대상 통합이 작동하려면 [!DNL Facebook] Business Manager 계정을 사용해야*&#x200B;합니다. Business Manager 계정을 설정하는 방법은 [[!DNL Facebook] 도움말](https://www.facebook.com/business/help/1710077379203657)을 참조하세요.
 
 1. 메시지가 표시되면 **[!UICONTROL OK]**&#x200B;을(를) 클릭하여 [!DNL Facebook]에 Marketo 앱 설치를 수락합니다.
 
@@ -59,11 +59,11 @@ ht-degree: 2%
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   좋습니다! 이제 Marketo의 모든 정적 또는 스마트 목록으로 이동하여 대상 데이터를 [!DNL Facebook]에 보낼 수 있습니다.
+   이제 Marketo의 모든 정적 또는 스마트 목록으로 이동하여 대상 데이터를 [!DNL Facebook]에 보낼 수 있습니다.
 
    >[!CAUTION]
    >
-   >가기 전에 [&#x200B; 계정 내에서  [!DNL Facebook]Accept](https://www.facebook.com/ads/manage/customaudiences/tos.php)의 사용자 지정 대상 약관[!DNL Facebook]을 확인하세요! 이렇게 하지 않으면 대상자 업데이트가 실패합니다.
+   >통합을 사용하기 전에 [!DNL Facebook] 계정 내에서 [사용자 지정 대상 약관에 동의 [!DNL Facebook]합니다](https://www.facebook.com/ads/manage/customaudiences/tos.php)! 이렇게 하지 않으면 대상자 업데이트가 실패합니다.
 
 >[!MORELIKETHIS]
 >

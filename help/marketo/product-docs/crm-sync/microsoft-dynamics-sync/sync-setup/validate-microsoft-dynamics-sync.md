@@ -4,10 +4,10 @@ description: 동기화 유효성 검사 도구를 실행하여 Microsoft Dynamic
 title: ' [!DNL Microsoft Dynamics] 동기화 확인'
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 3%
+source-wordcount: '261'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 ## Marketo에서 동기화 유효성 검사 실행 {#run-validate-sync-in-marketo}
 
-동기화 유효성 검사 도구를 실행하여 Marketo과 [!DNL Microsoft Dynamics] 동기화가 올바르게 설정되었는지 확인한 후 마지막으로 연결하는 것이 매우 중요합니다. 이 프로세스는 문제가 있는 위치를 정확히 찾아내는 7가지 설정 단계의 체크리스트를 생성합니다. 이러한 작업이 올바르게 수행되었는지 확인하는 것은 나중에 많은 시간을 절약할 수 있습니다.
+동기화 유효성 검사 도구를 실행하여 Marketo과 [!DNL Microsoft Dynamics] 동기화가 올바르게 설정되었는지 확인한 후에 해당 동기화 도구를 최종 연결하는 것이 매우 중요합니다. 이 프로세스는 문제가 있는 위치를 정확히 찾아내는 7가지 설정 단계의 체크리스트를 생성합니다. 이러한 작업이 올바르게 수행되었는지 확인하는 것은 나중에 많은 시간을 절약할 수 있습니다.
 
 1. **[!UICONTROL Admin]** 탭을 클릭한 다음 통합 영역에서 **[!DNL Microsoft Dynamics]** 링크를 클릭합니다.
 

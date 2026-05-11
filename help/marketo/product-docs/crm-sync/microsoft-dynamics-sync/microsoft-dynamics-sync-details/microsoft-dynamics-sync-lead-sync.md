@@ -4,7 +4,7 @@ description: Microsoft Dynamics과 Marketo 간 리드 동기화가 작동하는 
 title: Microsoft Dynamics 동기화 - 리드 동기화
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # [!DNL Microsoft Dynamics] 동기화: 리드 동기화 {#microsoft-dynamics-sync-lead-sync}
 
-[!DNL Dynamics] 동기화로의 Marketo은 매우 강력합니다. 자세한 내용은 다음과 같습니다.
+[!DNL Dynamics]에 대한 Marketo 동기화가 강력합니다. 자세한 내용은 다음과 같습니다.
 
 ## 두 시스템 간에 세부 사항이 어떻게 동기화됩니까? {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## 두 시스템의 동일한 필드에 동시에 변경 사항이 적용되면 어떻게 됩니까? (데이터 충돌) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-드문 경우이긴 하지만 Marketo이 사람(잠재 고객)을 위해 우승하고 [!DNL Dynamics]이(가) 연락처를 위해 우승합니다. 이는 마케팅 부서가 사람을 위한 권위적인 것으로 간주되는 반면, 연락처에 대한 공식 기록 시스템은 영업(CRM) 부서에 있기 때문입니다.
+드문 경우이긴 하지만 Marketo이 사람(잠재 고객)을 위해 우승하고 [!DNL Dynamics]이(가) 연락처를 위해 우승합니다. 마케팅 부서는 사람을 위해 권위 있는 것으로 간주되는 반면 연락처에 대한 공식 기록 시스템은 영업(CRM) 부서에 있기 때문입니다.
 
 ## Marketo을 사용하여 [!DNL Dynamics]에서 잠재 고객을 만들 수 있습니까? {#can-i-create-a-lead-in-dynamics-using-marketo}
 

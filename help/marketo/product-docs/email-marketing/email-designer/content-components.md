@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '1172'
-ht-degree: 15%
+source-wordcount: '1184'
+ht-degree: 14%
 
 ---
 
@@ -76,11 +76,11 @@ ht-degree: 15%
 
    스크린샷
 
-1. **[!UICONTROL Border]**, **[!UICONTROL Size]**, **[!UICONTROL Margin]** 등의 스타일 특성을 변경하여 단추를 추가로 개인화할 수 있습니다. **[!UICONTROL Component settings]** 창에서 액세스할 수 있습니다.
+1. **[!UICONTROL Component settings]** 창에서 **[!UICONTROL Border]**, **[!UICONTROL Size]**, **[!UICONTROL Margin]** 등의 스타일 특성을 변경하여 버튼을 추가로 개인화할 수 있습니다.
 
 ## 텍스트 {#text}
 
-**[!UICONTROL Text]** 구성 요소를 사용하여 전자 메일에 텍스트를 삽입하고 **[!UICONTROL Styles]** 탭을 사용하여 스타일(테두리, 크기, 패딩 등)을 조정합니다.
+**[!UICONTROL Text]** 구성 요소를 사용하여 전자 메일에 텍스트를 삽입하고 스타일(테두리, 크기, 패딩 등)을 조정합니다. **[!UICONTROL Styles]** 탭을 사용합니다.
 
 스크린샷
 
@@ -107,7 +107,7 @@ ht-degree: 15%
    * **[!UICONTROL Duplicate]**: 텍스트 구성 요소의 복사본을 추가합니다.
    * **[!UICONTROL Delete]**: 전자 메일에서 선택한 텍스트 구성 요소를 삭제합니다.
 
-1. [구성 요소 설정] 창에서 텍스트 색상, 글꼴 패밀리, 테두리, 패딩, 여백 등과 같은 기타 스타일 속성을 조정합니다. **[!UICONTROL Styles]** 탭에서.
+1. **[!UICONTROL Styles]** 탭에서 텍스트 색상, 글꼴 모음, 테두리, 패딩, 여백 등의 다른 스타일 특성을 조정합니다.
 
    스크린샷
 
@@ -158,13 +158,13 @@ ht-degree: 15%
 1. 새로 추가한 구성 요소를 클릭하고 이미지 속성을 설정합니다.
 
    * **[!UICONTROL Image title]**&#x200B;을(를) 사용하면 이미지에 제목을 정의할 수 있습니다.
-   * **[!UICONTROL Alt text]** 이미지에 연결된 캡션을 정의할 수 있습니다. 이는 alt HTML 속성에 해당합니다.
+   * **[!UICONTROL Alt text]** 이미지에 연결된 캡션을 정의할 수 있습니다. 이는 대체 HTML 속성에 해당합니다.
 
    스크린샷
 
 1. **[!UICONTROL Find similar Stock photos]**&#x200B;을(를) 선택할 수도 있습니다. `[Learn more](../integrations/stock.md)`
 
-1. **[!UICONTROL Styles]** 탭에서 여백, 테두리 등의 다른 스타일 특성을 조정합니다. 또는 대상을 **[!UICONTROL Component settings]** 창에서 다른 콘텐츠로 리디렉션하는 링크를 추가합니다.
+1. **[!UICONTROL Styles]** 탭에서 여백, 테두리 등과 같은 다른 스타일 특성을 조정하거나, **[!UICONTROL Component settings]** 창에서 대상을 다른 콘텐츠로 리디렉션할 수 있는 링크를 추가합니다.
 
 ## 소셜 {#social}
 
@@ -174,7 +174,7 @@ ht-degree: 15%
 
 1. 새로 추가한 구성 요소를 선택합니다.
 
-1. **[!UICONTROL Social]** 탭의 **[!UICONTROL Settings]** 필드에서 추가하거나 제거할 소셜 미디어를 선택합니다.
+1. **[!UICONTROL Settings]** 탭의 **[!UICONTROL Social]** 필드에서 추가하거나 제거할 소셜 미디어를 선택합니다.
 
    스크린샷
 
@@ -186,7 +186,7 @@ ht-degree: 15%
 
 1. 필요한 경우 Assets에서 각 소셜 미디어의 아이콘을 변경할 수도 있습니다.
 
-1. [구성 요소 설정] 창에서 스타일, 여백, 테두리 등과 같은 다른 스타일 속성을 조정합니다. **[!UICONTROL Styles]** 탭에서.
+1. **[!UICONTROL Styles]** 탭에서 스타일, 여백, 테두리 등의 다른 스타일 특성을 조정합니다.
 
 ## 오퍼 결정 {#offer-decision}
 

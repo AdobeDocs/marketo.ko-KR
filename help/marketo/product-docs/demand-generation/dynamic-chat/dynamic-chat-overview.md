@@ -3,16 +3,16 @@ description: 방문자 타겟팅 및 리드 수집을 위한 Dynamic Chat에 대
 title: Dynamic Chat 개요
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 96%
+source-wordcount: '625'
+ht-degree: 74%
 
 ---
 
 # [!DNL Dynamic Chat] 개요 {#dynamic-chat-overview}
 
-Dynamic Chat은 사용하기 쉬운 인터페이스를 활용하여 웹 사이트를 방문하는 사용자와 계정을 모두 타겟팅할 수 있는 기능입니다. 이름, 연락처 정보 및 자유 텍스트와 같은 관련 콘텐츠를 수집합니다. 사이트 방문자는 라이브 에이전트와 채팅하고 영업 팀과 회의를 예약할 수도 있습니다. Dynamic Chat 활동 및 참여 데이터를 사용하여 Marketo 프로그램에 멤버를 추가하고 크로스 채널 활동을 트리거할 수 있습니다.
+Dynamic Chat에서는 직관적인 인터페이스를 활용하여 웹 사이트를 방문하는 사용자와 계정을 모두 타겟팅할 수 있습니다. 이름, 연락처 정보 및 자유 텍스트와 같은 관련 콘텐츠를 수집합니다. 사이트 방문자는 라이브 에이전트와 채팅하고 영업 팀과 회의를 예약할 수도 있습니다. Dynamic Chat 활동 및 참여 데이터를 사용하여 Marketo 프로그램에 멤버를 추가하고 크로스 채널 활동을 트리거할 수 있습니다.
 
 >[!TIP]
 >
@@ -42,11 +42,11 @@ Dynamic Chat의 주요 구성 요소는 Marketo 구독과 기본적으로 상호
 
 ## 회의 {#meetings}
 
-캘린더는 다양한 대화 상자를 통해 웹 사이트 방문자가 예약한 모든 약속을 볼 수 있는 곳입니다. [회의에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md){target="_blank"}
+여기에서 다양한 대화 상자를 통해 웹 사이트 방문자가 예약한 모든 약속을 볼 수 있습니다. [회의에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md){target="_blank"}
 
 ## 라우팅 {#routing}
 
-여기에서 캘린더에 연결된 모든 에이전트 목록과 웹 사이트 방문자에게 제공될 순서를 보고 사용자 정의 라우팅 규칙을 만들 수 있습니다. [라우팅에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md){target="_blank"}.
+여기에서 달력에 연결된 모든 에이전트 목록과 웹 사이트 방문자에게 제공될 순서 및 사용자 지정 라우팅 규칙을 만들 수 있습니다. [라우팅에 대해 자세히 알아보기](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md){target="_blank"}.
 
 ## 라이브 채팅 {#live-chat}
 
@@ -84,11 +84,11 @@ Dynamic Chat 언어를 변경하는 방법은 다음과 같습니다.
    >
    >선택할 수 있는 언어가 수십 가지 있지만 [!DNL Dynamic Chat]은 영어, 프랑스어, 독일어, 일본어, 스페인어, 이탈리아어, 포르투갈어(브라질), 한국어, 중국어 간체 및 중국어 번체만 지원합니다.
 
-언어를 업데이트하면 개인적으로 채운 단어(예: 스트림 응답)를 제외하고 앱 자체의 모든 내용이 변경됩니다.
+언어를 업데이트할 때 개인적으로 채운 단어(예: 스트림 응답)를 제외한 앱 자체의 모든 내용이 변경됩니다.
 
 ## Dynamic Chat 데이터 보존 제한 {#dynamic-chat-data-retention-limits}
 
-다음은 Dynamic Chat 내의 몇 가지 제한/매개변수입니다. 전체 목록에 대해서는 Marketo Engage [제품 설명 페이지](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}를 참조하십시오.
+다음은 Dynamic Chat 내의 몇 가지 제한/매개 변수입니다. 전체 목록을 보려면 Marketo Engage [제품 설명 페이지](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}를 참조하세요.
 
 <table>
   <th>데이터 유형</th>
@@ -117,4 +117,4 @@ Dynamic Chat 언어를 변경하는 방법은 다음과 같습니다.
 
 ## FAQ {#faq}
 
-[Dynamic Chat FAQ](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}를 참조하십시오.
+[Dynamic Chat FAQ](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}를 참조하세요.

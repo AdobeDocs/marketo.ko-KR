@@ -4,9 +4,9 @@ description: 새 사용자 정의 필드를 추가할 때 Microsoft Dynamics과 
 title: 새 사용자 정의 필드에 Microsoft Dynamics와 빠른 동기화 사용
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '341'
 ht-degree: 4%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 4%
 
 마케팅 또는 영업 팀이 새 필드를 원합니다. 또는 초기 필드 선택에서 하나를 잊어버렸을 수 있습니다. 또는 요구 사항이 변경되었습니다. 어떤 경우든 빠른 동기화를 사용하여 특정 필드를 다시 동기화할 수 있습니다.
 
-일반적으로 빠른 동기화를 사용하여 새 필드를 추가하고 값을 새로 고칩니다. 그러나 기존 필드를 동기화할 수 있는 경우가 있습니다. 업데이트되거나 생성된 날짜 범위에 따라 필드 동기화를 제한할 수 있습니다. 자세한 내용은 아래의 [고급 동기화 옵션](#Advanced_Sync_Options)을 참조하십시오.
+일반적으로 빠른 동기화는 새 필드를 추가하고 값을 새로 고치는 데 사용됩니다. 그러나 기존 필드를 동기화할 수 있는 경우가 있습니다. 업데이트되거나 생성된 날짜 범위에 따라 필드 동기화를 제한할 수 있습니다. 자세한 내용은 아래의 [고급 동기화 옵션](#Advanced_Sync_Options)을 참조하십시오.
 
 빠른 동기화는 null 값을 동기화할 수 있습니다. 예를 들어 값 A와 B를 사용하고 [!DNL Dynamics]의 B 값을 null로 변경하면 null 값이 Marketo에 동기화됩니다.
 
 ## 모든 레코드에 대한 빠른 동기화 {#quick-sync-for-all-records}
-
-빠른 동기화를 사용하여 새 필드를 재동기화하는 방법은 다음과 같습니다.
 
 1. Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
@@ -53,7 +51,7 @@ ht-degree: 4%
 
 ## 고급 동기화 옵션 {#advanced-sync-options}
 
-기존 필드를 동기화하되, 제한된 데이터 세트에만 동기화하려면 어떻게 해야 합니까? 방법은 다음과 같습니다.
+기존 필드를 동기화하되, 제한된 데이터 세트에만 동기화하려면 어떻게 해야 합니까?
 
 1. 기존 필드에 대한 확인란의 선택을 취소합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
@@ -75,7 +73,7 @@ ht-degree: 4%
 
 ## 동기화 필드 문제 해결 {#fixing-out-of-sync-fields}
 
-드물지만 [!DNL Dynamics]과(와) Marketo 필드가 동기화되지 않는 경우 빠르고 쉽게 다시 동기화할 수 있습니다.
+드물지만 [!DNL Dynamics]과(와) Marketo 필드가 동기화되지 않는 경우 신속하게 다시 동기화할 수 있습니다.
 
 1. 필드 선택을 취소하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
