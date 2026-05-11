@@ -3,9 +3,9 @@ description: 동적 필드가 템플릿을 채우지 못할 때 문제를 해결
 title: 내 동적 필드가 채워지지 않는 이유는 무엇입니까?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '312'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ Sales Insight 작업에는 기본, 사용자 지정 및 Salesforce의 세 가지
 
 [!DNL Salesforce] 필드: 예: `{{sfdc_account_name}}`
 
-* 이 앱이 Sales Insight Actions와 제대로 연결되어 있는지 확인합니다. [설정]&#x200B;(<https://toutapp.com/login{target="_blank"}> 페이지로 이동하고 CRM 옆에 있는 **관리**&#x200B;를 클릭합니다.
+* 이 ID가 Sales Insight Actions과 제대로 연결되어 있는지 확인합니다. [설정]&#x200B;(<https://toutapp.com/login{target="_blank"}> 페이지로 이동하고 CRM 옆에 있는 **관리**&#x200B;를 클릭합니다.
 
 **기본 및 사용자 지정 필드 문제 해결**
 
@@ -30,7 +30,7 @@ Marketo Sales Insight 작업 기본 필드: 예: `{{company}}`
 
 Marketo Sales Insight 작업 사용자 지정 필드: 예: `{{custom_field_favorite_movie}}`
 
-* 동적 필드를 참조하려면 연락처의 [사람 페이지](https://toutapp.com/next#relationships){target="_blank"}에 해당 필드를 저장해야 합니다. 예를 들어 Mary에게 전자 메일을 보내고 `{{company}}` 필드를 사용하지만 연락처 기록에 회사가 나열되어 있지 않으면 해당 전자 메일을 작성할 수 없습니다.
+* 동적 필드를 참조하려면 연락처의 [사람 페이지](https://toutapp.com/next#relationships){target="_blank"}에 해당 필드를 저장해야 합니다. 예를 들어 Mary에게 이메일을 보내고 `{{company}}` 필드를 사용하지만 연락처 기록에 회사가 나열되어 있지 않으면 해당 정보를 입력할 수 없습니다.
 
 ## 모든 동적 필드를 채우지 않고 이메일이 전송된 이유는 무엇입니까? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 

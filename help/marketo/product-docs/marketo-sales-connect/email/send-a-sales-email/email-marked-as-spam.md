@@ -4,9 +4,9 @@ description: Sales Connect 이메일이 스팸으로 표시된 경우 도움을 
 title: 스팸으로 표시된 이메일
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '249'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 **설정 확인**
 
-* 사용자 정의 도메인 추적: 모든 추적 링크를 그대로 표시할 수 있습니다.&quot;yourdomain&quot;을 사용하십시오. 일부 이메일 보안에서는 이메일이 &quot;사용자 도메인&quot;에서 발송되지만 링크가 go.toutapp으로 리디렉션되고 있음을 알 수 있습니다. 사용자 정의 도메인 링크 추적을 구현하면 이메일이 올바르게 표시되고 수신자의 받은 편지함에 도달할 확률이 높아집니다.
+* 사용자 정의 도메인 추적: 이렇게 하면 모든 추적 링크가 go.toutapp 대신 go.&quot;yourdomain&quot;으로 표시되도록 할 수 있습니다. 일부 이메일 보안에서는 이메일이 &quot;사용자 도메인&quot;에서 발송되지만 링크가 go.toutapp으로 리디렉션되고 있음을 알 수 있습니다. 사용자 정의 도메인 링크 추적을 구현하면 이메일이 올바르게 표시되고 수신자의 받은 편지함에 도달할 확률이 높아집니다.
 * 이메일 게재 채널: 기본적으로 이메일은 ToutApp 서버를 통해 전송됩니다. 자신의 Gmail 또는 사용자 지정 SMTP를 설정함으로써 이메일이 수신자의 받은 편지함에 도착할 수 있는 최상의 기회를 제공할 수 있습니다. 필요에 맞는 배달 채널을 선택하는 방법에 대한 자세한 내용을 보려면 [여기를 클릭하세요](https://nation.marketo.com/docs/DOC-5080){target="_blank"}.
 
 **메일 동작 확인**

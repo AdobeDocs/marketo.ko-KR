@@ -3,10 +3,10 @@ description: Marketo의 사용자에게 Sales Connect 액세스 권한을 부여
 title: 사용자에게 액세스 권한 부여
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 4%
+source-wordcount: '201'
+ht-degree: 3%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 이 문서의 단계에 따라 [!DNL Sales Connect] 사용자에게 Marketo 연결에 대한 액세스 권한을 부여합니다. 이렇게 하면 라이브 피드의 흥미로운 순간 및 마케팅 캠페인에 대한 액세스와 같은 기능이 잠금 해제됩니다.
 
-Marketo 연결에 대한 액세스 권한이 부여된 Marketo > [!DNL Sales Connect] 페이지([의)에 표시되기 전에 &#x200B;](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) [!UICONTROL Team Access]여기[!DNL Sales Connect]에 사용자를 초대해야 합니다.
+Marketo 연결에 대한 액세스 권한이 부여된 Marketo > [!UICONTROL Team Access] 페이지([!DNL Sales Connect]의)에 표시되기 전에 [!DNL Sales Connect] [여기](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)에 사용자를 초대해야 합니다.
 
 >[!CAUTION]
 >

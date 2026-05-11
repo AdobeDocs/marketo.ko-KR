@@ -4,10 +4,10 @@ short-description: Marketo Engage 용어와 정의를 학습하면 빠르게 적
 title: Marketo Engage 용어집
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '4065'
-ht-degree: 100%
+source-wordcount: '4187'
+ht-degree: 92%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 100%
  <tbody>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">A/B 테스트</a></strong></td>
-   <td colspan="1">이메일 구성 요소(예: 제목 줄, 보낸 사람 주소 등)를 수정하고 테스트 기준을 설정하여 어떤 콘텐츠 세트가 더 나은 성과를 내는지 확인할 수 있습니다.</td>
+   <td colspan="1">이메일의 구성 요소(예: 제목 줄, 보낸 사람 주소 등)를 수정할 수 있습니다. 그리고 테스트 기준을 설정하여 더 나은 콘텐츠 세트를 결정합니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>계정</strong></td>
-   <td colspan="1">이 용어는 여러 가지 의미를 가질 수 있습니다.<br>-Marketo 인스턴스 자체를 Marketo 계정이라고 할 수 있습니다.<br>-<strong>TAM</strong>에서 <strong>지정 계정</strong>은 사용자가 목표로 하는 대상 계정으로 결정한 계정입니다.<br>-TAM에서 <strong>CRM</strong> 계정은 연결된 CRM(<strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> 또는 <strong>API</strong>의 계정)에서 매핑된 계정입니다.<br>-CRM에서 계정은 리드 및 연락처가 연결된 비즈니스/회사입니다.</td>
+   <td colspan="1">이 용어는 다음과 같은 다양한 의미를 가질 수 있습니다.<br>-Marketo 인스턴스 자체를 Marketo 계정이라고 할 수 있습니다.<br>-<strong>TAM</strong>에서 <strong>명명된 계정</strong>은(는) 사용자가 추구하려는 대상 계정이라고 결정한 계정입니다.<br>-TAM에서 CRM 계정은 연결된 <strong>CRM</strong>(<strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> 또는 <strong>API</strong>에 있는 계정)에서 매핑된 계정입니다.<br>-CRM에서 계정은 리드나 연락처가 연결된 비즈니스/회사입니다.</td>
   </tr>
   <tr>
    <td><strong>계정 목록</strong></td>
@@ -41,7 +41,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">계정 점수</a></strong></td>
-   <td colspan="1"><strong>TAM</strong>에서 계정에 할당된 점수로, 참여 수준을 결정하는 데 도움이 됩니다.</td>
+   <td colspan="1"><strong>TAM</strong>에서 해당 계정의 참여 수준을 결정하는 데 도움이 되는 계정에 할당된 점수입니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>획득 날짜</strong></td>
@@ -241,7 +241,7 @@ ht-degree: 100%
     <div>
      <p><strong> 기본 프로그램</strong></p>
     </div></td>
-   <td colspan="1">Marketo의 프로그램 유형입니다. 이메일, 이벤트 또는 참여 프로그램이 관련이 없는 경우 사용하는 일반적인 프로그램입니다. <br></td>
+   <td colspan="1">Marketo의 프로그램 유형입니다. 이메일, 이벤트 또는 참여 프로그램이 관련성이 없는 경우 사용할 일반 프로그램. <br></td>
   </tr>
   <tr>
    <td colspan="1"><strong>전달성</strong></td>
@@ -261,7 +261,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td colspan="1"><strong>설명서</strong></td>
-   <td colspan="1">설명서의 약어로, 고객이 제품을 더 잘 이해할 수 있도록 돕는 도움말 문서입니다. Marketo에는 제품 설명서(현재 보고 있는 사이트), <a href="https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home" rel="nofollow">개발자</a> 설명서, <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">지원</a> 설명서 등 여러 종류의 설명서가 있습니다.</td>
+   <td colspan="1">설명서의 약어로, 고객이 제품을 더 잘 이해할 수 있도록 돕는 도움말 문서입니다. Marketo에는 제품 문서(현재 사용 중인 사이트), <a href="https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home" rel="nofollow">개발자</a> 문서, <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">지원</a> 문서 등 여러 유형의 문서가 있습니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>도메인 기반 메시지 인증, 보고 및 준수 (DMARC)</strong></td>
@@ -285,7 +285,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">동적 콘텐츠</a></strong></td>
-   <td colspan="1">사용자가 지정한 기준에 따라 <strong>이메일</strong> 또는 <strong>랜딩 페이지</strong>에 채워지는 콘텐츠(예: 이미지, 스니펫, 텍스트 등)로, 독자에게 맞춤형 경험을 제공합니다. </td>
+   <td colspan="1">콘텐츠(예: 이미지, 코드 조각, 텍스트 등) 사용자가 지정한 조건에 따라 <strong>전자 메일</strong> 또는 <strong>랜딩 페이지</strong>에서 채워지므로 사용자가 독자를 위해 환경을 개인화할 수 있습니다. </td>
   </tr>
  </tbody>
 </table>
@@ -367,7 +367,7 @@ ht-degree: 100%
    <td><strong>스마트 목록</strong>에서 사용되는 도구로, 대상자 범위를 좁히는 데 사용됩니다(예: 데이터베이스에 있는 캘리포니아 거주자 모두). 필터는 <strong>배치</strong> 및 <strong>트리거</strong> 캠페인 모두에서 사용할 수 있습니다.</td>
   </tr>
   <tr>
-   <td><strong>플로우</strong></td>
+   <td><strong>흐름</strong></td>
    <td><p><strong>스마트 캠페인</strong>의 영역으로, <strong>스마트 목록</strong>에 설정된 기준을 통해 선택한 사용자에게 어떤 일이 발생하는지 결정합니다. 플로우는 하나 이상의 <strong>플로우 단계</strong>로 구성됩니다.</p></td>
   </tr>
   <tr>
@@ -429,7 +429,7 @@ ht-degree: 100%
  <tbody>
   <tr>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>즐거운 순간</strong></a></td>
-   <td><p><strong>Marketo Sales Insight</strong>에서 영업 팀이 알아야 하며 특히 관련성이 높다고 판단되는 일입니다(예: 누군가 사이트의 특정 페이지를 방문하거나 이메일의 특정 링크를 클릭하는 경우 등).</p></td>
+   <td><p><strong>Marketo Sales Insight</strong>에서 특정 관련성이 있다고 판단되는 경우(예: 누군가 사이트의 특정 페이지를 방문하거나, 전자 메일의 특정 링크를 클릭하는 경우 등) 영업 팀이 알아야 할 사항입니다.</p></td>
   </tr>
  </tbody>
 </table>
@@ -470,7 +470,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td><strong>리드</strong></td>
-   <td><strong>Adobe Marketo Engage</strong>에서 리드는 마케팅 캠페인을 통해 참여하고 있는 Marketo <strong>데이터베이스</strong>의 개인을 설명하는 데 사용된 이전 용어(<strong>개인</strong>으로 대체됨)입니다. <strong>CRM</strong>에서 리드는 Marketo의 기능과는 별개로 <strong>기회</strong>와 관련된 개인 등 다른 개념을 나타낼 수 있습니다.</td>
+   <td><strong>Adobe Marketo Engage</strong>에서 잠재 고객은 마케팅 캠페인을 통해 참여하는 Marketo <strong>데이터베이스</strong>의 개인을 설명하는 데 사용되는 이전 용어(<strong>개인</strong>(으)로 대체됨)입니다. <strong>CRM</strong>에서 리드는 Marketo의 기능과는 별개로 <strong>기회</strong>와 관련된 개인 등 다른 개념을 나타낼 수 있습니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>리드 데이터베이스</strong></td>
@@ -479,9 +479,9 @@ ht-degree: 100%
   <tr>
    <td colspan="1">
     <div>
-     <p><strong> 목록</strong></p>
+     <p><strong> List</strong></p>
     </div></td>
-   <td colspan="1">사용자의 모음입니다. Marketo에는 스마트 목록과 정적 목록이 있습니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">스마트 목록</a>은 사용자가 정의한 필터(예: 데이터베이스에 있는 캘리포니아 거주자 모두)를 기반으로 하여 지속적으로 변경될 수 있는 동적 사용자 목록입니다. 새로운 사용자가 기준에 부합하거나 기존 사용자가 더 이상 부합하지 않으면 목록이 변경됩니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">정적 목록</a>은 말 그대로 정적입니다. 사용자가 수동으로 사용자를 추가/삭제하지 않는 한 변경되지 않습니다.</td>
+   <td colspan="1">사용자의 모음입니다. Marketo에는 스마트 목록과 정적 목록이 있습니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">스마트 목록</a>은(는) 사용자가 정의한 필터(예: 캘리포니아에 거주하는 데이터베이스의 모든 사용자)를 기반으로 하므로 지속적으로 변경할 수 있는 동적 사용자 목록입니다. 새로운 사용자가 기준에 부합하거나 기존 사용자가 더 이상 부합하지 않으면 목록이 변경됩니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">정적 목록</a>은 말 그대로 정적입니다. 사용자가 수동으로 사용자를 추가/삭제하지 않는 한 변경되지 않습니다.</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>로컬 자산</strong></a></td>
@@ -624,7 +624,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td><strong>개인</strong></td>
-   <td>마케팅 캠페인을 통해 참여하고 있는 Marketo <strong>데이터베이스</strong>의 개인입니다.</td>
+   <td>마케팅 캠페인을 통해 참여하는 Marketo <strong>데이터베이스</strong>의 개인입니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">개인 파티션</a></strong></td>
@@ -728,7 +728,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">세분화</a></strong></td>
-   <td colspan="1">사용자가 지정한 <strong>스마트 목록</strong> 규칙에 따라 <strong>데이터베이스</strong>의 사용자를 그룹화하는 것입니다. 예를 들어 산업이라는 세분화를 만들고 그 안에 의료, 기술, 금융 등의 카테고리를 만들 수 있습니다. 세분화를 통해 선택한 인구 통계를 기반으로 전체 사용자 그룹에게 마케팅할 수 있습니다.</td>
+   <td colspan="1">사용자가 지정한 <strong>스마트 목록</strong> 규칙에 따라 <strong>데이터베이스</strong>의 사용자를 그룹화하는 것입니다. 예를 들어 산업이라는 세그먼테이션이 있을 수 있으며 이 세그먼트 내의 카테고리는 의료, 기술, 금융 등일 수 있습니다. 세그먼테이션을 사용하면 선택한 인구 통계에 따라 전체 사용자 그룹으로 마케팅할 수 있습니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">발신자 정책 프레임워크</a>(SPF)</strong></td>

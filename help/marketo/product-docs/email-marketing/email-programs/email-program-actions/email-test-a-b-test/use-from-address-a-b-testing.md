@@ -4,9 +4,9 @@ description: 주소 A/B 테스트를 실행하는 방법을 알아봅니다. 서
 title: “보낸 사람 주소” A/B 테스트 사용
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '259'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 2%
 
    ![](assets/image2014-9-12-15-3a32-3a8.png)
 
-1. 새 창이 열리면 **[!UICONTROL From Address]**&#x200B;에 대해 **[!UICONTROL Test Type]**&#x200B;을(를) 선택하십시오.
+1. 새 창이 열리면 **[!UICONTROL Test Type]**&#x200B;에 대해 **[!UICONTROL From Address]**&#x200B;을(를) 선택하십시오.
 
    ![](assets/image2014-9-12-15-3a32-3a22.png)
 
@@ -53,6 +53,6 @@ ht-degree: 2%
 
    >[!CAUTION]
    >
-   >**샘플 크기를 100%로 설정하지 않는 것이 좋습니다**. 정적 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 대상자의 모든 사람에게 이메일이 전송되며 우승자는 누구에게도 전송되지 않습니다. **스마트** 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 해당 시간에 _대상자의 모든 사용자에게 이메일을 보냅니다_. 이메일 프로그램이 나중에 다시 실행되면 스마트 목록의 자격이 되는 새로운 사람도 이제 대상자에 포함되므로 이메일을 받게 됩니다.
+   >**샘플 크기를 100%로 설정하지 않는 것이 좋습니다**. 정적 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 대상자의 모든 사용자에게 이메일이 전송되고 우승자는 누구에게도 전송되지 않습니다. **스마트** 목록을 사용하는 경우 샘플 크기를 100%로 설정하면 해당 시간에 _대상자의 모든 사용자에게 이메일을 보냅니다_. 이메일 프로그램이 나중에 다시 실행되면 스마트 목록의 자격이 되는 새로운 사람도 이제 대상자에 포함되므로 이메일을 받게 됩니다.
 
    네, 거의 다 왔습니다. 이제 [A/B 테스트 승자 기준을 정의](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)해야 합니다.

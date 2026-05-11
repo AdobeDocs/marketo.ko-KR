@@ -7,10 +7,10 @@ role: User
 level: Beginner, Intermediate
 badge: Beta
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 2%
+source-wordcount: '433'
+ht-degree: 4%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
 
 ## 브랜드 액세스 {#access}
 
-**[!UICONTROL brands]**&#x200B;의 [!DNL Adobe Marketo Engage] 메뉴에 액세스하려면 사용자에게 관련 권한이 부여되어야 합니다.
+[!DNL Adobe Marketo Engage]의 **[!UICONTROL brands]** 메뉴에 액세스하려면 사용자에게 관련 권한이 부여되어야 합니다.
 
 +++  브랜드 관련 권한을 할당하는 방법을 알아봅니다.
 
@@ -84,7 +84,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >이렇게 하면 편집 모드에서 임시 복사본이 만들어지고 게시된 후 라이브 버전이 바뀝니다.
+   >이렇게 하면 편집 모드에서 임시 복사본이 만들어지고 게시 후 라이브 버전이 바뀝니다.
 
    ![](assets/create-and-manage-brands-11.png)
 

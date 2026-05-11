@@ -3,16 +3,16 @@ description: 통화 녹화를 위한 서드파티 동의 설정을 구성하는 
 title: 양 당사자 동의 설정
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 6%
+source-wordcount: '151'
+ht-degree: 7%
 
 ---
 
 # 양 당사자 동의 설정 {#two-party-consent-settings}
 
-통화 기록 시 미국 양사 동의 법을 준수하도록 하기 위해 관리자는 통화 기록 시 통화 시작 시 선택한 사전 녹음된 메시지를 재생할 수 있습니다.
+통화 기록 시 미국 양당 동의법을 준수하기 위해 관리자는 사전 녹음된 메시지 중 통화 시작 시 재생할 수 있도록 선택할 수 있습니다.
 
 >[!PREREQUISITES]
 >

@@ -4,9 +4,9 @@ description: Marketo Engage 이메일에서 자산 필터링을 사용하여 Cam
 title: 캠페인 이메일 보고서에서 자산 필터링
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '172'
 ht-degree: 8%
 
 ---

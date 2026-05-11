@@ -4,9 +4,9 @@ description: Sales Connect의 Salesforce 필드 접근성을 편집하는 방법
 title: Salesforce 필드 접근성 편집
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '124'
 ht-degree: 6%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 [!DNL Salesforce]에 대한 전자 메일 활동 로그가 표시되지 않는 이유는 팀의 필드 접근성에 대한 제한 때문일 수 있습니다.
 
-* Salesforce의 필드 수준 보안을 사용하면 [!DNL Salesforce] 관리자가 사용자가 보고 편집할 수 있는 정보를 제한할 수 있습니다. 필드 수준 보안을 설정할 때 사용자가 [!DNL Sales Connect]개 필드를 볼 수 있는 기능에 지장이 없는지 확인하십시오.
+* Salesforce의 필드 수준 보안을 사용하면 [!DNL Salesforce] 관리자가 사용자가 보고 편집할 수 있는 정보를 제한할 수 있습니다. 필드 수준 보안을 설정할 때 사용자가 [!DNL Sales Connect] 필드를 볼 수 있는 기능에 지장이 없는지 확인하십시오.
 
 * [!DNL Salesforce] 관리자와 협력하여 이러한 보안 설정이 [!DNL Sales Connect]에 영향을 주지 않도록 하십시오.
 

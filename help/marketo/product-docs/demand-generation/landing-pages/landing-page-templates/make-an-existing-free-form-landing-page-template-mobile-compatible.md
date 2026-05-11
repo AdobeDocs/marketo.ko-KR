@@ -4,10 +4,10 @@ description: 기존 자유 형식 랜딩 페이지 템플릿을 모바일과 호
 title: 기존 자유 형식 랜딩 페이지 템플릿을 모바일 호환 가능하도록 만들기
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '235'
-ht-degree: 6%
+source-wordcount: '240'
+ht-degree: 7%
 
 ---
 

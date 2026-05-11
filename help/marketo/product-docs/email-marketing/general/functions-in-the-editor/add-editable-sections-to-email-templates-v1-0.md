@@ -4,9 +4,9 @@ description: v1.0에서 이메일 템플릿에 편집 가능한 섹션을 추가
 title: 이메일 템플릿 v1.0에 편집 가능한 섹션 추가
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '111'
 ht-degree: 13%
 
 ---

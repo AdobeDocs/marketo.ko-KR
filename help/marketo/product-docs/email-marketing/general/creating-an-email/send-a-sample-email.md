@@ -4,9 +4,9 @@ description: 실행 전에 샘플 이메일을 테스트 콘텐츠로 보내는 
 title: 샘플 이메일 보내기
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '327'
 ht-degree: 8%
 
 ---

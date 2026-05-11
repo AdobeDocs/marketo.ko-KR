@@ -4,9 +4,9 @@ description: 내 토큰에 URL을 사용하는 방법에 대해 알아봅니다.
 title: 내 토큰에서 URL 사용
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '252'
 ht-degree: 4%
 
 ---
@@ -75,4 +75,4 @@ ht-degree: 4%
 
    ![](assets/twelve.png)
 
-   넌 끝났어! 전송 후 URL이 채워지고 토큰 앞에 https:// 을 넣으면 추적 가능한 링크가 생성됩니다.
+   그리고 넌 끝났어! 전송 후 URL이 채워지고 토큰 앞에 https:// 을 넣으면 추적 가능한 링크가 생성됩니다.

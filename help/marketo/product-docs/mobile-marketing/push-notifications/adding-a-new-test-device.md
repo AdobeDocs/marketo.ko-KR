@@ -4,16 +4,16 @@ description: 푸시 알림용 새 테스트 장치를 추가하는 방법을 알
 title: 새 테스트 디바이스 추가
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 9%
+source-wordcount: '138'
+ht-degree: 10%
 
 ---
 
 # 새 테스트 디바이스 추가 {#adding-a-new-test-device}
 
-새 테스트 장치를 추가하여 알림을 푸시할 수 있습니다.
+푸시 알림을 받을 새 테스트 디바이스를 쉽게 추가할 수 있습니다.
 
 >[!NOTE]
 >

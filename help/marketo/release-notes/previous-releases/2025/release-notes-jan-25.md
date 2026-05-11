@@ -3,10 +3,10 @@ description: 릴리스 노트 - 2025년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2025년 1월
 feature: Release Information
 exl-id: fd816b9c-9e06-4292-87d6-9fa991c4681f
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 34%
+source-wordcount: '635'
+ht-degree: 40%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
     <tr>
    <td><strong>새 전자 메일 Designer</strong>: Marketo Engage의 새로운 기본 전자 메일 Designer을 사용하여 현대적이고 효율적인 전자 메일을 만듭니다. 미리 디자인된 기본 이메일 템플릿 중 하나에 액세스하거나 손쉽게 직접 만들 수 있습니다. 다이내믹 콘텐츠를 사용하고 Adobe Experience Manager 클라우드 서비스에서 이미지에 액세스합니다. Content Accelerator Gen-AI 기능을 사용하여 규모에 맞게 혁신적이고 성능이 뛰어난 이메일을 만들 수 있습니다.
-   <p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe IMS(Identity Management System)</a>(으)로 마이그레이션해야 합니다. 아직 실행되지 않았으며 신속 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo 지원</a>에 문의하십시오. Content Accelerator Gen-AI 기능에 액세스하려면 Adobe 계정 팀에 문의하십시오.</td>
+   <p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe IMS(Identity Management System)</a>(으)로 마이그레이션해야 합니다. 아직 마이그레이션하지 않았으며 빠른 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo 지원</a>에 문의하십시오. Content Accelerator Gen-AI 기능에 액세스하려면 Adobe 계정 팀에 문의하십시오.</td>
    <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">이메일 디자이너 개요</a></td>
   </tr>
@@ -53,7 +53,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>보관 중인 캠페인 사용 안 함</strong>: 활성 트리거 캠페인을 사용하지 않도록 설정하고 보관된 폴더의 예약된 캠페인 일괄 실행을 취소합니다. 활성 캠페인(트리거 캠페인 활성화 및 일괄 캠페인 예약)이 포함된 폴더를 보관하기 위한 추가 권한 확인이 있으므로 이 기능은 이 릴리스에서 기본적으로 비활성화되며, Marketo Engage 구독에서 <b>관리자</b> &gt; <b>보물 상자</b>(으)로 이동하여 활성화할 수 있습니다.</td>
+   <td><strong>보관 중인 캠페인 사용 안 함</strong>: 활성 트리거 캠페인을 사용하지 않도록 설정하고 보관될 때 폴더에 있는 캠페인의 예약된 일괄 실행을 취소합니다. 활성 캠페인(트리거 캠페인 활성화 및 일괄 캠페인 예약)이 포함된 폴더를 보관하기 위한 추가 권한 확인이 있으므로 이 기능은 이 릴리스에서 기본적으로 비활성화되며, Marketo Engage 구독에서 <b>관리자</b> &gt; <b>보물 상자</b>(으)로 이동하여 활성화할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>

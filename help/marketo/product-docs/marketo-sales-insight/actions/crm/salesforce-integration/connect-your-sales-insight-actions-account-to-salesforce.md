@@ -3,10 +3,10 @@ description: Sales Insight 작업 계정을 Salesforce에 연결하는 방법을
 title: Sales Insight Actions 계정을 Salesforce에 연결
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 9%
+source-wordcount: '113'
+ht-degree: 8%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 9%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
-1. Salesforce에 이미 로그인한 경우 연결됩니다. 로그인하지 않은 경우 로그인하라는 메시지가 표시됩니다.
+1. Salesforce에 이미 로그인한 경우 연결됩니다. 그렇지 않은 경우 로그인하라는 메시지가 표시됩니다.
 
 ## 관리자가 아닌 사용자로 연결하는 방법 {#how-to-connect-as-a-non-admin}
 
@@ -50,4 +50,4 @@ ht-degree: 9%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 
-1. Salesforce에 이미 로그인한 경우 연결됩니다. 로그인하지 않은 경우 로그인하라는 메시지가 표시됩니다.
+1. Salesforce에 이미 로그인한 경우 연결됩니다. 그렇지 않은 경우 로그인하라는 메시지가 표시됩니다.

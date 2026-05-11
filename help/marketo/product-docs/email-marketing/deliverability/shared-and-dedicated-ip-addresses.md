@@ -4,9 +4,9 @@ description: 공유 및 전용 IP 주소와 그 장단점에 대해 알아봅니
 title: 공유 및 전용 IP 주소
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '447'
+source-wordcount: '450'
 ht-degree: 2%
 
 ---

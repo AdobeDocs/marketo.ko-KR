@@ -3,9 +3,9 @@ description: Marketo AI 권한을 활성화하고 조직 규칙을 구성하고 
 title: 설정 및 설정
 badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '558'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->이 기능은 Open Beta이며 현재 향후 몇 달에 걸쳐 단계적으로 롤아웃될 예정입니다. 내 Marketo 화면에서 _AI로 빌드_ 타일이 표시되면 구독이 활성화될 때를 알 수 있습니다.
+>이 기능은 Open Beta이며 현재 향후 몇 달에 걸쳐 단계적으로 롤아웃될 예정입니다. 내 Marketo 화면에서 _AI로 빌드_ 타일이 표시되면 구독이 활성화될 때 알 수 있습니다.
 
 ## 권한 및 역할 {#permission-and-role}
 

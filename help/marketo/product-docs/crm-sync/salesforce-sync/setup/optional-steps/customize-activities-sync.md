@@ -4,9 +4,9 @@ description: Marketo이 Salesforce으로 푸시할 활동을 사용자 지정하
 title: 활동 동기화 사용자 정의
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '272'
 ht-degree: 4%
 
 ---
@@ -104,4 +104,4 @@ Marketo Sales Insight을 사용하지 않는 경우 Marketo Engage에서 특정 
 
 >[!TIP]
 >
->MarketoSalesforce 에 대한 자세한 정보를 보려면 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} 제품을 확인하십시오.
+>Marketo에 대한 자세한 정보를 보려면 [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} 제품을 확인하십시오.

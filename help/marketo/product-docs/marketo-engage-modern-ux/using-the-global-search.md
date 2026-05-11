@@ -3,9 +3,9 @@ description: Marketo Engage에서 글로벌 검색을 사용하여 전체 인스
 title: 글로벌 검색 사용
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '171'
 ht-degree: 7%
 
 ---

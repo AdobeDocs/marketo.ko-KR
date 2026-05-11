@@ -3,9 +3,9 @@ description: Sales Insight 작업에서 사용자에게 Marketo 액세스 권한
 title: 사용자에게 Marketo 액세스 권한 부여
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '215'
 ht-degree: 6%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 이 문서의 단계에 따라 [!DNL Sales Insight Actions] 사용자에게 Marketo 연결에 대한 액세스 권한을 부여합니다. 이렇게 하면 라이브 피드의 흥미로운 순간 및 마케팅 캠페인에 대한 액세스와 같은 기능이 잠금 해제됩니다.
 
-Marketo 연결에 대한 액세스 권한이 부여된 Marketo > [[!DNL Sales Insight Actions]](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) 페이지([!UICONTROL Team Access]의)에 표시되기 전에 [!DNL Sales Insight Actions]에 사용자를 초대해야 합니다.
+Marketo 연결에 대한 액세스 권한이 부여된 Marketo > [!UICONTROL Team Access] 페이지([!DNL Sales Insight Actions]의)에 표시되기 전에 [[!DNL Sales Insight Actions]](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users)에 사용자를 초대해야 합니다.
 
 >[!CAUTION]
 >

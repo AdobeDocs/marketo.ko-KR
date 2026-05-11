@@ -3,32 +3,32 @@ description: 단일 인스턴스에서 Marketo Engage을 제공하는 Adobe Expe
 title: Adobe Experience Cloud 인터페이스 개요
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 89%
+source-wordcount: '312'
+ht-degree: 55%
 
 ---
 
 # Adobe Experience Cloud 인터페이스 개요 {#adobe-experience-cloud-interface-overview}
 
-Adobe Experience Cloud 인터페이스는 Adobe Experience Cloud 애플리케이션 및 서비스의 “셸” 모양과 느낌을 일치시킵니다. 하지만 단순한 새로운 디자인 그 이상입니다. 단일 인스턴스에서 사용자 경험을 제공하는 단일 페이지 애플리케이션입니다.
+Adobe Experience Cloud 인터페이스는 Adobe Experience Cloud 애플리케이션 및 서비스의 “셸” 모양과 느낌을 일치시킵니다. 하지만, 그것은 새로운 디자인 그 이상입니다. 단일 인스턴스에서 사용자 경험을 제공하는 단일 페이지 애플리케이션입니다.
 
 ## 사용자 플로우 {#user-flow}
 
-Adobe Experience Cloud 제품에 아직 로그인하지 않은 경우, 여기에서 [!DNL Marketo Engage]에 직접 로그인하십시오. [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage)
+Adobe Experience Cloud 제품에 아직 로그인하지 않은 경우 [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage)에서 직접 [!DNL Marketo Engage]에 로그인하십시오.
 
-Adobe Experience Cloud 제품에 _이미_ 로그인되어 있는 경우, 메뉴 아이콘을 클릭하고 **[!DNL Marketo Engage]**&#x200B;를 선택하기만 하면 됩니다.
+_are_&#x200B;이(가) 이미 Adobe Experience Cloud 제품에 로그인한 경우 메뉴 아이콘을 클릭하고 **[!DNL Marketo Engage]**&#x200B;을(를) 선택합니다.
 
 ![](assets/unified-shell-overview-1.png)
 
 >[!NOTE]
 >
->드롭다운 메뉴는 구독하는 Adobe Experience Cloud 제품에 따라 다르게 보일 수 있습니다.
+>구독 중인 Adobe Experience Cloud 제품에 따라 드롭다운 메뉴가 다르게 보일 수 있습니다.
 
 ## 새로운 기능 {#new-features}
 
-업데이트된 모양과 느낌 외에, 다음과 같은 기능이 추가되었습니다.
+업데이트된 모양과 느낌 외에도 다음 기능을 사용할 수 있습니다.
 
 **통합 도움말 센터**
 
@@ -58,7 +58,7 @@ Adobe Experience Cloud 제품에 _이미_ 로그인되어 있는 경우, 메뉴 
 
 **Experience Cloud 인터페이스를 통해 [!DNL Marketo Engage]에 로그인할 수 없습니다. 문제가 무엇입니까?**
 
-Adobe Experience Cloud에 로그인할 수 있지만 “페이지 로드 실패” 오류가 표시되는 경우 [!DNL Marketo Engage]측에 문제가 있을 수 있습니다. 도움이 필요하면 [Marketo 지원 팀](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
+Adobe Experience Cloud에 로그인할 수 있지만 “페이지 로드 실패” 오류가 표시되는 경우 [!DNL Marketo Engage]측에 문제가 있을 수 있습니다. 도움이 필요하면 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support)에 문의하십시오.
 
 **사용자 기록, 글로벌 검색, Marketo 알림, 작업 트레이는 어디로 이동했습니까?**
 

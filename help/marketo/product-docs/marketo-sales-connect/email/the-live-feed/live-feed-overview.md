@@ -4,9 +4,9 @@ description: Sales Connect의 라이브 피드에 대해 알아봅니다. 마케
 title: 라이브 피드 개요
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '409'
 ht-degree: 1%
 
 ---
@@ -101,4 +101,4 @@ MSE 이메일에 대한 참여(보기, 클릭 수 및 답글)를 실시간으로
 
 >[!NOTE]
 >
->라이브 피드에서 이메일을 반복해서 보는 사람이 있는 경우 해당 사람이 이메일을 추가 수신자에게 전달할 수 있습니다. 이러한 보기의 위치가 변경되기 시작하는 것을 확인한 경우 이러한 경우가 가장 많습니다.
+>라이브 피드에서 이메일을 반복해서 보는 사람이 있는 경우 이메일을 추가 수신자에게 전달할 수 있습니다. 이러한 보기의 위치가 변경되기 시작하는 것을 확인한 경우 이러한 경우가 가장 많습니다.

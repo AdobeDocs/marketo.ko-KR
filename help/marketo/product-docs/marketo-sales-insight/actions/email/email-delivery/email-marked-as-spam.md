@@ -1,9 +1,9 @@
 ---
 description: 판매 이메일이 스팸으로 표시되면 도움을 받습니다. 전달성을 개선하고 스팸 필터를 방지하는 원인과 단계를 알아봅니다.
 title: 스팸으로 표시된 이메일
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '237'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 **설정 확인**
 
-* 사용자 정의 도메인 추적: 모든 추적 링크를 그대로 표시할 수 있습니다.&quot;yourdomain&quot;을 사용하십시오. 일부 이메일 보안에서는 이메일이 &quot;사용자 도메인&quot;에서 발송되지만 링크가 go.toutapp으로 리디렉션되고 있음을 알 수 있습니다. 사용자 정의 도메인 링크 추적을 구현하면 이메일이 올바르게 표시되고 수신자의 받은 편지함에 도달할 확률이 높아집니다.
+* 사용자 정의 도메인 추적: 이렇게 하면 모든 추적 링크가 go.toutapp 대신 go.&quot;yourdomain&quot;으로 표시되도록 할 수 있습니다. 일부 이메일 보안에서는 이메일이 &quot;사용자 도메인&quot;에서 발송되지만 링크가 go.toutapp으로 리디렉션되고 있음을 알 수 있습니다. 사용자 정의 도메인 링크 추적을 구현하면 이메일이 올바르게 표시되고 수신자의 받은 편지함에 도달할 확률이 높아집니다.
 * 전자 메일 배달 채널: 팀에는 Gmail/Outlook 배달 채널을 사용하거나 사용자 지정 SMTP를 설정하는 옵션이 있습니다. 필요에 맞는 배달 채널을 선택하는 방법에 대한 자세한 내용을 보려면 [여기를 클릭하세요](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md).
 
 **메일 동작 확인**

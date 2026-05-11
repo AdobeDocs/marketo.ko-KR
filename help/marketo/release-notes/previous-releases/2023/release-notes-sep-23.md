@@ -3,9 +3,9 @@ description: 릴리스 노트 - 2023년 9월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2023년 9월
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '972'
 ht-degree: 13%
 
 ---

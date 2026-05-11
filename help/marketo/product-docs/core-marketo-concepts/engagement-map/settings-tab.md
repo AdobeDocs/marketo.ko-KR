@@ -2,9 +2,9 @@
 description: Smart Campaign 자격 규칙, 실행 및 반복에 대한 설정 탭에 대해 알아봅니다. 사람들이 캠페인 플로우를 통해 실행하는 빈도를 설정합니다.
 title: 설정 탭
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '324'
 ht-degree: 2%
 
 ---
@@ -56,11 +56,11 @@ ht-degree: 2%
 
 설정 탭의 권한 집합 및 오류:
 
-모든 기존 권한 집합은 설정 탭에서 적용할 수 있습니다. 편집 버튼이 회색으로 표시된 경우 도움말 아이콘을 클릭하여 이유를 확인하십시오.
+모든 기존 권한 집합은 설정 탭에서 적용할 수 있습니다. 편집 단추가 회색으로 표시된 경우 도움말 아이콘을 클릭하여 이유를 확인하십시오.
 
 >[!NOTE]
 >
->도움말 아이콘을 클릭하면 &quot;추가 권한 필요&quot;가 표시되면 Marketo 관리자에게 문의하십시오.
+>도움말 아이콘을 클릭한 후 &quot;추가 권한 필요&quot;가 표시되면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 ![](assets/settings-tab-5.png)
 

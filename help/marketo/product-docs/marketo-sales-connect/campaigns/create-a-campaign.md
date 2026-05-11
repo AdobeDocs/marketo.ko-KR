@@ -4,9 +4,9 @@ description: 이메일, 호출, InMail 및 사용자 지정 작업 단계를 사
 title: 캠페인 만들기
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '306'
 ht-degree: 3%
 
 ---
@@ -34,7 +34,7 @@ Campaign을 어떻게 설정합니까?
 
    >[!NOTE]
    >
-   >**옆에 있는**+**[!UICONTROL Categories]**&#x200B;을(를) 클릭하여 새 범주를 만듭니다.
+   >**[!UICONTROL Categories]** 옆에 있는 **+**&#x200B;을(를) 클릭하여 새 범주를 만듭니다.
 
 1. 선택한 범주가 선택됩니다. 마음이 바뀌면 드롭다운을 클릭하고 다른 드롭다운을 선택합니다. 완료되면 **[!UICONTROL &#x200B; Continue]**&#x200B;을(를) 클릭합니다.
 

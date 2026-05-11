@@ -4,9 +4,9 @@ description: Salesforce 선택 목록 값을 추가 및 제거하고 이 값이 
 title: 선택 목록 값 추가/제거
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '244'
 ht-degree: 3%
 
 ---

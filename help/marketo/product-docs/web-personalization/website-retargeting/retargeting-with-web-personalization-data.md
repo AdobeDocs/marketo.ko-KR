@@ -4,9 +4,9 @@ description: dnl 웹을 사용한 리타겟팅을 포함하여 Marketo Engage에
 title: 웹 개인화 데이터로 리타기팅
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '409'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 >[!AVAILABILITY]
 >
->웹 사이트 재타겟팅은 이제 웹 Personalization 타일에 해당됩니다. 리타겟팅만 구매한 경우 이 타일이 표시되고 [!DNL Web Personalization]전용&#x200B;**리타겟팅 기능이 활성화된** 제품에 액세스합니다. 이렇게 하면 계정 설정, 리타겟팅 페이지, 세그먼트 및 추가 추적 페이지에 액세스할 수 있습니다.
+>웹 사이트 재타겟팅은 이제 웹 Personalization 타일에 해당됩니다. 리타겟팅만 구매한 경우 이 타일이 표시되고 **전용** 리타겟팅 기능이 활성화된 [!DNL Web Personalization] 제품에 액세스합니다. 이렇게 하면 계정 설정, 리타겟팅 페이지, 세그먼트 및 추가 추적 페이지에 액세스할 수 있습니다.
 
 리마케팅은 이전에 자신의 신원과 수행한 작업에 따라 디스플레이 광고를 사용하여 사이트를 방문한 잠재 고객을 타깃팅합니다. 개인화된 리타기팅은 업계, 명명 계정 및 알려진 사용자 데이터를 기반으로 하는 관련 광고를 통해 특정 대상을 타기팅합니다.
 

@@ -4,10 +4,10 @@ description: Sales Connect에서 동적 필드가 채워지지 않을 때 도움
 title: 내 동적 필드가 채워지지 않음
 exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 4%
+source-wordcount: '301'
+ht-degree: 3%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 4%
 
 참고 사용자 지정 필드: 예: `{{custom_field_favorite_movie}}`
 
-* 동적 필드를 참조하려면 연락처의 [사람 페이지](https://toutapp.com/next#relationships)에 해당 필드를 저장해야 합니다. 예를 들어 Mary에게 전자 메일을 보내고 `{{company}}` 필드를 사용하지만 연락처 기록에 회사가 나열되어 있지 않으면 해당 전자 메일을 작성할 수 없습니다.
+* 동적 필드를 참조하려면 연락처의 [사람 페이지](https://toutapp.com/next#relationships)에 해당 필드를 저장해야 합니다. 예를 들어 Mary에게 이메일을 보내고 `{{company}}` 필드를 사용하지만 연락처 기록에 회사가 나열되어 있지 않으면 해당 정보를 입력할 수 없습니다.
 
 ## 모든 동적 필드를 채우지 않고 이메일이 전송된 이유는 무엇입니까? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 

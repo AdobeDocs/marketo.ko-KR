@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2016년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2016년 봄
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Marketo 내에서 바로 앱에 대한 멋진 인앱 메시지를 만들 수 있
 
 ## [초안 코드 조각 없음](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
-스니펫이 업데이트될 때마다 모든 것을 다시 승인해야 하는 시대는 지났습니다! 초안을 사용하지 않으면 코드 조각을 사용하는 모든 이메일 및 랜딩 페이지가 코드 조각 업데이트를 받고 이전 상태를 유지합니다. 코드 조각을 승인할 때마다 초안 없음을 실행하고 모든 것을 업데이트하거나 초안을 만들도록 선택할 수 있습니다. 너한테 달렸어! 모든 고객이 No-Draft를 사용할 수 있으며 관리자의 새 권한으로 제어됩니다.
+스니펫이 업데이트될 때마다 모든 것을 다시 승인해야 하는 시대는 지났습니다! 초안을 사용하지 않으면 코드 조각을 사용하는 모든 이메일 및 랜딩 페이지가 코드 조각 업데이트를 받고 이전 상태를 유지합니다. 코드 조각을 승인할 때마다 초안 없음을 실행하고 모든 것을 업데이트하거나 초안을 만들도록 선택할 수 있습니다. 당신에게 달렸어요! 모든 고객이 No-Draft를 사용할 수 있으며 관리자의 새 권한으로 제어됩니다.
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 

@@ -3,9 +3,9 @@ description: 판매 이메일을 보낼 때 작성 창에서 템플릿을 사용
 title: Compose Window에서 템플릿 사용
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '296'
 ht-degree: 4%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 4%
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. **옆에 있는**+[!UICONTROL Favorites] 아이콘을 클릭합니다.
+1. [!UICONTROL Favorites] 옆에 있는 **+** 아이콘을 클릭합니다.
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 

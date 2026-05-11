@@ -4,9 +4,9 @@ description: 이메일 보고서에서 에셋 필터링을 사용하여 Marketo 
 title: 이메일 보고서에서 자산 필터링
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '182'
 ht-degree: 6%
 
 ---

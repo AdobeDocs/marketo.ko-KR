@@ -4,9 +4,9 @@ description: Marketo 랜딩 페이지에 코드 조각을 추가하는 방법을
 title: 랜딩 페이지에 스니펫 추가
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '112'
 ht-degree: 12%
 
 ---

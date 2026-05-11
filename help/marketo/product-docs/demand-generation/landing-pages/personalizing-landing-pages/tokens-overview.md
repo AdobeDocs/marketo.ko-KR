@@ -4,10 +4,10 @@ description: Marketo 랜딩 페이지를 개인화하기 위한 토큰에 대해
 title: 토큰 개요
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 94%
+source-wordcount: '309'
+ht-degree: 88%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 94%
 
 ## 기본값 이해 {#understanding-default-values}
 
-토큰을 사용할 때는 기본값도 제공합니다. 다음은 참조하는 필드에 해당하는 값이 사용자에게 없는 경우를 보여주는 텍스트입니다.
+토큰을 사용할 때는 기본값도 제공합니다. 참조하고 있는 필드에 대한 값이 개인에게 없는지 보여 주는 텍스트입니다.
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 

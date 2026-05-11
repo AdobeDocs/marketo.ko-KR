@@ -4,9 +4,9 @@ description: Sales Connect에서 사용자 정의 게재 채널을 설정하는 
 title: 사용자 정의 게재 채널 설정
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '371'
 ht-degree: 4%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >이 채널이 유일한 게재 채널인 경우 모든 이메일 ID에 자동으로 할당되고 여기에서 완료됩니다. 유일한 게재 채널이 아닌 경우 5단계로 진행하십시오.
+   >유일한 게재 채널인 경우 모든 이메일 ID에 자동으로 할당되며 여기에서 수행됩니다. 유일한 게재 채널이 아닌 경우 5단계로 진행하십시오.
 
 1. [!UICONTROL Email Settings]에 있는 동안 **[!UICONTROL Address and Signature]**&#x200B;을(를) 클릭합니다.
 

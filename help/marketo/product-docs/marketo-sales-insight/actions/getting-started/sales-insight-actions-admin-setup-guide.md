@@ -3,10 +3,10 @@ description: 관리자로서 Sales Insight 작업 을 설정하는 방법을 알
 title: Sales Insight Actions 관리자 설정 안내서
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 3%
+source-wordcount: '627'
+ht-degree: 4%
 
 ---
 
@@ -94,7 +94,7 @@ ht-degree: 3%
 
    ![](assets/msi-actions-admin-guide-6.png)
 
-Salesforce에 이미 로그인한 경우 연결됩니다. 로그인하지 않은 경우 로그인하라는 메시지가 표시됩니다.
+Salesforce에 이미 로그인한 경우 연결됩니다. 그렇지 않은 경우 로그인하라는 메시지가 표시됩니다.
 
 ## Marketo을 Sales Apps 계정에 연결 {#connect-marketo-to-your-sales-apps-account}
 

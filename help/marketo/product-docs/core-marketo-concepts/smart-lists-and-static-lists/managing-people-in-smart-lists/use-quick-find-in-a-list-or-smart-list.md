@@ -4,9 +4,9 @@ description: 목록 또는 스마트 목록에서 빠른 찾기를 사용하는 
 title: 목록 또는 스마트 목록에서 빠른 찾기 사용
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '148'
 ht-degree: 13%
 
 ---

@@ -1,10 +1,10 @@
 ---
 description: Sales Insight Actions 프로필을 관리하는 방법을 알아봅니다. 설정에서 이름, 이메일, 서명 및 알림 환경 설정을 업데이트합니다.
 title: 프로필 관리
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 2%
+source-wordcount: '279'
+ht-degree: 4%
 
 ---
 

@@ -4,9 +4,9 @@ description: Marketo에서 랜딩 페이지 성능 보고서를 필터링하는 
 title: 랜딩 페이지 성과 보고서 필터링
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '135'
 ht-degree: 8%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 8%
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
    * **[!UICONTROL Design Studio Landing Pages]:**&#x200B;개의 전역 자산이 [!UICONTROL Design Studio]에서 관리됩니다.
-   * **[!UICONTROL Marketing Activities Landing Pages]탭의 프로그램에 있는**:[!UICONTROL Marketing Activities] 로컬 자산입니다.
+   * [!UICONTROL Marketing Activities] 탭의 프로그램에 있는 **[!UICONTROL Marketing Activities Landing Pages]:** 로컬 자산입니다.
    * **[!UICONTROL Archived Landing Pages]:**&#x200B;개의 비활성, 중단된 랜딩 페이지.
 
 1. 보고서에 포함할 폴더 및 특정 랜딩 페이지를 선택합니다.

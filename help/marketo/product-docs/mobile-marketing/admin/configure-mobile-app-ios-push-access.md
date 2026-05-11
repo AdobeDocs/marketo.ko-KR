@@ -4,9 +4,9 @@ description: 모바일 앱에 대한 iOS 푸시 액세스를 구성하는 방법
 title: 모바일 앱 iOS 푸시 액세스 구성
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 10%
 
 ---
