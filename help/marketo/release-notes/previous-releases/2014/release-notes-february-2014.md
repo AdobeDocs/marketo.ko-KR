@@ -4,7 +4,7 @@ description: 릴리스 노트 - 2014년 2월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 2월
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 1%
@@ -37,7 +37,7 @@ ht-degree: 1%
 
 AB 테스트 변형 데이터를 포함하여 [전자 메일 지표를  [!DNL Excel]](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)에 내보냅니다.
 
-## [!UICONTROL Engagement Score] 보고서의 [!UICONTROL Engagement Stream Performance] {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Engagement Stream Performance] 보고서의 [!UICONTROL Engagement Score] {#engagement-score-in-engagement-stream-performance-report}
 
 참여 프로그램의 콘텐츠가 얼마나 효과적인지 확인하는 데 도움이 되도록 [[!UICONTROL Engagement Stream Performance] 보고서](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)에 참여 점수를 추가했습니다.
 
@@ -45,7 +45,7 @@ AB 테스트 변형 데이터를 포함하여 [전자 메일 지표를  [!DNL Ex
 
 ## 이메일 분석의 프로그램 세부 정보 {#program-details-in-email-analysis}
 
-[이제 전자 메일 지표를 프로그램 이름, 채널 및 태그로 그룹화할 수 있습니다](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). 이메일이 프로그램의 로컬 자산인 경우 프로그램 이름이 이메일 이름 필드에 추가됩니다. 새 프로그램 이름 필드에는 이메일을 보낸 스마트 캠페인의 프로그램 이름이 표시됩니다. 이메일이 다른 프로그램의 로컬 자산인 경우 이메일 이름 필드에 있는 프로그램과 다를 수 있습니다.
+이제 이메일 지표를 프로그램 이름, 채널 및 태그로 그룹화할 수 있습니다. 이메일이 프로그램의 로컬 자산인 경우 프로그램 이름이 이메일 이름 필드에 추가됩니다. 새 프로그램 이름 필드에는 이메일을 보낸 스마트 캠페인의 프로그램 이름이 표시됩니다. 이메일이 다른 프로그램의 로컬 자산인 경우 이메일 이름 필드에 있는 프로그램과 다를 수 있습니다.
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 

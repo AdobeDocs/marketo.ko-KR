@@ -4,9 +4,9 @@ description: 도넛형 및 꺾은선형 차트를 통해 시간 경과에 따른
 title: 성과 인사이트 트렌드 개요
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '170'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 ![](assets/2-1.png)
 
-성능을 확인할 지표를 선택합니다. 이 예제에서는 [[!UICONTROL First-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)을(를) 통해 얻은 영업 기회를 살펴봅니다.
+성능을 확인할 지표를 선택합니다.
 
 ![](assets/3-2.png)
 

@@ -4,9 +4,9 @@ description: Marketo에서 Facebook 오프라인 전환을 설정하는 방법�
 title: Facebook 오프라인 전환 설정
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '302'
 ht-degree: 3%
 
 ---
@@ -17,8 +17,7 @@ ht-degree: 3%
 
 >[!PREREQUISITES]
 >
->* [Facebook 리드 광고를 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)해야 합니다.
->* [수익 주기 Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)에 승인된 모델이 있어야 합니다.
+>[Facebook 리드 광고를 설정](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)해야 합니다.
 
 ## 관리자 구성 {#admin-configuration}
 

@@ -4,18 +4,16 @@ description: 수익 주기 분석에서 첫 번째 및 다중 접점 속성, 리
 title: 분석용 속성 설정 변경
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 8%
+source-wordcount: '160'
+ht-degree: 9%
 
 ---
 
 # 분석용 속성 설정 변경 {#change-attribution-settings-for-analytics}
 
 Marketo에서 첫 번째 및 다중 접점 속성, 잠재 고객 전환 지표 및 마케팅에 영향을 주는 영업 기회 플래그에 연락처를 연결하는 방식을 변경할 수 있습니다.
-
-이 설정은 [프로그램 영업 기회 분석](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [영업 기회 분석](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) 및 잠재 고객 분석 영역에 있는 [!UICONTROL Revenue Explorer] 보고서에 영향을 줍니다. 이는 [!UICONTROL Program Analyzer] 보고서에도 영향을 줍니다.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 
