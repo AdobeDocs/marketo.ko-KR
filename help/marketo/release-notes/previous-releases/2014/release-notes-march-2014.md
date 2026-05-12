@@ -4,10 +4,10 @@ description: 릴리스 노트 - 2014년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 3월
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 1%
+source-wordcount: '417'
+ht-degree: 0%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
 ## Analytics를 위한 포괄적 및 운영 프로그램 {#inclusive-and-operational-programs-for-analytics}
 
-이제 프로그램 채널을 편집할 때 분석 동작 옵션을 &quot;포함&quot;으로 설정하여 [&#x200B; 및 분석기에서 &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)기간 비용이 없는 프로그램을 포함[!UICONTROL Revenue Explorer]할 수 있습니다. &quot;작동&quot;을 선택하여 작동 프로그램을 모두 보고에서 제외할 수도 있습니다.
+이제 프로그램 채널을 편집할 때 분석 동작 옵션을 &quot;포함&quot;으로 설정하여 [!UICONTROL Revenue Explorer] 및 분석기에 기간 비용이 없는 프로그램을 포함할 수 있습니다. &quot;작동&quot;을 선택하여 작동 프로그램을 모두 보고에서 제외할 수도 있습니다.
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 

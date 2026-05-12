@@ -4,9 +4,9 @@ description: 릴리스 노트 - 2014년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2014년 1월
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---
@@ -23,13 +23,13 @@ ht-degree: 1%
 
 **Forms에 필요한 시각적 변경 사항을 제공하십시오.**
 
-테마 디자인, 버튼 사용자 지정 및 유연한 레이아웃을 통해 사이트의 모양과 느낌에 바로 어울리는 현대적인 스타일의 양식을 디자인할 수 있습니다.
+테마 디자인, 단추 사용자 지정 및 유연한 레이아웃을 통해 사이트의 모양과 느낌에 바로 어울리는 모던한 스타일의 양식을 디자인할 수 있습니다.
 
 **조건부 표시 및 후속 페이지 논리:**
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-사용자가 미국을 &quot;국가&quot;로 선택하는 경우에만 &quot;국가&quot;가 표시되게 하시겠습니까? 양식에 대한 질문에 답변하는 방법에 따라 고객에게 다양한 백서를 제공하는 것은 어떻습니까? 편집기에서 바로 양식에 조건부 논리를 빌드합니다. [!DNL javascript]은(는) 필요하지 않습니다!
+사용자가 미국을 &quot;국가&quot;로 선택하는 경우에만 &quot;국가&quot;가 표시되기를 원하십니까? 양식에 대한 질문에 답변하는 방법에 따라 고객에게 다양한 백서를 제공하는 것은 어떻습니까? 편집기에서 바로 양식에 조건부 논리를 빌드합니다. [!DNL javascript]은(는) 필요하지 않습니다!
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
@@ -47,6 +47,6 @@ Marketo 랜딩 페이지에 배치된 양식에서 html 코드를 들어 올려 
 
 ## 프로그램 멤버십 분석의 추가 필드 {#additional-fields-in-program-membership-analysis}
 
-이제 리드 및 회사 특성별로 [프로그램 구성원 분석](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) 지표를 추가하고 그룹화할 수 있습니다. 예를 들어 산업 필드를 추가하여 프로그램 멤버 및 성공 수를 분할할 수 있습니다.
+이제 리드 및 회사 특성별로 프로그램 멤버십 분석 지표를 추가하고 그룹화할 수 있습니다. 예를 들어 산업 필드를 추가하여 프로그램 멤버 및 성공 수를 분할할 수 있습니다.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

@@ -3,12 +3,11 @@ description: Marketo Engage 용어 - Marketo 설명서 - 제품 설명서
 short-description: Marketo Engage 용어와 정의를 학습하면 빠르게 적응할 수 있습니다.
 title: Marketo Engage 용어집
 feature: Getting Started
-hide: true
-exl-id: dd97b50c-4148-473e-b9fb-4e76ef733e5d
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
+source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
 workflow-type: tm+mt
-source-wordcount: '6168'
-ht-degree: 62%
+source-wordcount: '4132'
+ht-degree: 91%
 
 ---
 
@@ -33,10 +32,6 @@ ht-degree: 62%
    <td colspan="1">이 용어는 다음과 같은 다양한 의미를 가질 수 있습니다.<br>-Marketo 인스턴스 자체를 Marketo 계정이라고 할 수 있습니다.<br>-<strong>TAM</strong>에서 <strong>명명된 계정</strong>은(는) 사용자가 추구하려는 대상 계정이라고 결정한 계정입니다.<br>-TAM에서 CRM 계정은 연결된 <strong>CRM</strong>(<strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> 또는 <strong>API</strong>에 있는 계정)에서 매핑된 계정입니다.<br>-CRM에서 계정은 리드나 연락처가 연결된 비즈니스/회사입니다.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>계정 Insight 플러그인</strong></td>
-   <td colspan="1"><strong>CRM</strong> 인터페이스 내에서 직접 Marketo 참여 데이터(예: 즐거운 순간, 리드 점수 및 최근 활동)를 표시하는 <strong>Marketo Sales Insight</strong>와 함께 사용되는 브라우저 확장 기능입니다.</td>
-  </tr>
-  <tr>
    <td><strong>계정 목록</strong></td>
    <td>주요 계정/조직 이름 목록입니다. Target 계정 관리(<strong>TAM</strong>) 목록이라고도 합니다.</td>
   </tr>
@@ -49,10 +44,6 @@ ht-degree: 62%
    <td colspan="1"><strong>TAM</strong>에서 해당 계정의 참여 수준을 결정하는 데 도움이 되는 계정에 할당된 점수입니다.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>계정 스마트 목록</strong></td>
-   <td colspan="1"><strong>TAM</strong>에서 사용자가 정의하는 계정 수준 필터 조건에 따라 자동으로 채워지는 동적 계정 목록입니다. 이는 <strong>스마트 목록</strong>과 유사하지만 사람이 아닌 계정입니다.</td>
-  </tr>
-  <tr>
    <td colspan="1"><strong>획득 날짜</strong></td>
    <td colspan="1">Marketo에서 사용자가 알려지게 된 날짜입니다. 이 날짜는 해당 사용자를 획득한 <strong>확보 프로그램</strong>에 해당합니다.</td>
   </tr>
@@ -61,11 +52,7 @@ ht-degree: 62%
    <td colspan="1">사용자를 획득하는 일을 담당하는 프로그램입니다. 해당 사용자는 익명이었을 수 있으며, 이 프로그램이 그 사용자를 알려진 사용자로 전환하는 역할을 했습니다. 이는 최초 접점 기여도를 확립하는 데 도움이 됩니다.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>활동</strong></td>
-   <td colspan="1">이메일 열기, 클릭 수, 양식 채우기, 웹 페이지 방문 횟수 등 Marketo <strong>database</strong>의 개인 레코드와 연결된 모든 추적 가능한 작업의 로그입니다. 활동은 <strong>스마트 목록</strong>, <strong>트리거</strong> 및 <strong>필터</strong>에서 개인 행동을 식별하고 실행하는 데 사용됩니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>광고 네트워크 통합</strong></a></td>
+   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>광고 네트워크 통합 </strong></a></td>
    <td colspan="1">(이전 명칭: Ad Bridge)Marketo의 고유한 대상자 데이터를 유료 미디어 시스템에 연결하여 보다 타기팅되고 개인화된 디지털 광고 캠페인을 실행하는 방법입니다.</td>
   </tr>
   <tr>
@@ -73,20 +60,8 @@ ht-degree: 62%
    <td colspan="1">Adobe Experience Cloud 내에서 Marketo가 제공하는 모든 제품을 통합한 공식 브랜드 이름입니다.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>고급 BI 분석</strong></td>
-   <td colspan="1">엔터프라이즈 수준 비즈니스 인텔리전스 대시보드 및 사용자 지정 분석을 제공하는 추가 기능 보고 기능을 통해 Marketo 성능 데이터를 보다 심층적으로 탐색할 수 있습니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>에이전트(AI)</strong></td>
-   <td colspan="1">Marketo Engage에서 특정 작업(예: 프로그램 품질 검토 또는 캠페인 설정 지원)을 수행하여 마케터의 수동 노력을 줄이는 AI 기반 자동화 도구입니다.</td>
-  </tr>
-  <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">경고</a></strong></td>
    <td colspan="1">거래와 관련하여 이메일을 받도록 지정한 사용자에게 정보를 제공하는 데 사용되는 알림입니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>허용 목록</strong></td>
-   <td colspan="1">Marketo을 통해 메일을 보내거나 액세스할 수 있는 승인된 IP 주소 또는 도메인 목록입니다. 또한 ISP에 요청하여 보낸 사람을 적법한 것으로 인식하는 방법을 참조합니다(<strong>차단 목록에 추가하다</strong>과 대조).</td>
   </tr>
   <tr>
    <td><strong>익명 방문자</strong></td>
@@ -103,14 +78,6 @@ ht-degree: 62%
   <tr>
    <td colspan="1"><strong>자산</strong></td>
    <td colspan="1">Marketo 인스턴스에서 콘텐츠 역할을 하는 항목입니다(예: <strong>이메일</strong>, <strong>랜딩 페이지</strong>, <strong>스마트 캠페인</strong> 등).</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>속성</strong></td>
-   <td colspan="1">파이프라인 및 매출에 영향을 주기 위해 마케팅 <strong>프로그램</strong>에 크레딧을 할당하는 프로세스입니다. Marketo은 첫 번째 터치 속성(개인을 처음 획득한 프로그램에 부여되는 크레딧) 및 다중 터치 속성(개인에게 영향을 준 모든 프로그램에서 공유되는 크레딧)을 지원합니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>감사 추적</strong></td>
-   <td colspan="1">Marketo의 자산, 캠페인 및 관리 설정에 대한 모든 변경 사항을 기록하고 변경 사항, 변경 주체 및 변경 시기를 기록하여 책임 및 문제 해결을 수행하는 기능입니다.</td>
   </tr>
  </tbody>
 </table>
@@ -143,10 +110,6 @@ ht-degree: 62%
    <td> 마케팅 자료를 받지 않기를 바라는 Marketo 사용자(예: 경쟁업체)를 위한 필드입니다. 차단됨 필드를 “true”로 설정하면 해당 사용자는 운영 이메일을 포함하여 Marketo 인스턴스에서 이메일을 받지 않습니다.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>부울 필드</strong></td>
-   <td colspan="1">개인 레코드에 대한 true/false 또는 yes/no 값을 저장하는 <strong>사용자 지정 필드</strong> 형식입니다. 누군가 약관에 동의했는지 또는 특정 프로그램을 선택했는지 여부와 같은 바이너리 상태를 추적하는 데 유용합니다.</td>
-  </tr>
-  <tr>
    <td>
     <div>
      <p><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" rel="nofollow">바운스</a></strong></p>
@@ -164,10 +127,6 @@ ht-degree: 62%
   <col>
  </colgroup>
  <tbody>
-  <tr>
-   <td colspan="1"><strong>케이던스</strong></td>
-   <td colspan="1">콘텐츠가 <strong>참여 프로그램</strong> <strong>스트림</strong>의 구성원에게 배포되는 빈도 및 시간 일정(예: 매주 화요일 오전 9시). 스트림당 케이던스 설정을 구성합니다.</td>
-  </tr>
   <tr>
    <td colspan="1"><strong>Campaign</strong></td>
    <td colspan="1">Marketo에서 “캠페인”은 여러 가지 의미를 가질 수 있습니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">캠페인</a>은 스마트 캠페인의 약어입니다. <strong>Marketo Sales Connect</strong>에서 <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">캠페인</a>은 다중 채널 서신 단계의 시리즈를 의미합니다. <strong>웹 개인화</strong>에서 웹 <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">캠페인</a>은 특정 세그먼트와 관련된 사용자 정의 반응입니다.</td>
@@ -187,10 +146,6 @@ ht-degree: 62%
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" rel="nofollow"><strong>채널</strong></a></td>
    <td colspan="1"><strong>프로그램</strong>과 관련된 마케팅 활동 유형입니다(예: 이메일, <strong>웨비나, </strong>트레이드쇼, 로드쇼, 온라인 광고 등). </td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>체크인 앱</strong></td>
-   <td colspan="1">이벤트 참석자 등록 및 체크인을 직접 이벤트에서 관리하는 데 사용되는 Marketo 모바일 애플리케이션으로, 실시간으로 멤버를 참석자로 표시할 수 있습니다.</td>
   </tr>
   <tr>
    <td><strong>클릭 대비 열람율</strong></td>
@@ -237,16 +192,8 @@ ht-degree: 62%
    <td colspan="1">Marketo가 <strong>참여 프로그램</strong>의 콘텐츠에 부여하는 0~100점 점수입니다. 이 점수는 <strong>열람 수</strong>, <strong>클릭 수</strong>, <strong>구독 취소</strong>, 프로그램 성공 등을 사용하는 정교한 수식으로 결정됩니다.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>대화 흐름</strong></td>
-   <td colspan="1"><strong>Dynamic Chat</strong>에서는 방문자가 대상 규칙에 의해 트리거되는 <strong>대화 상자</strong>와(과) 대조적으로 웹 페이지에서 특정 단추 또는 링크를 클릭하여 트리거될 수 있는 챗봇 참여 유형입니다.</td>
-  </tr>
-  <tr>
    <td colspan="1"><strong>쿠키</strong></td>
    <td colspan="1"><span>쿠키는 사용자의 웹 브라우저로 웹 사이트에서 전송되는 작은 데이터 조각으로, 로그인 정보, 기본 설정 등을 기억하여 경험을 개인화하는 데 도움이 됩니다. </span></td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>사용자 정의 도메인 추적</strong></td>
-   <td colspan="1">이메일 링크 추적에 회사 브랜드 도메인을 사용하고 기본 Marketo 도메인 대신 <strong>랜딩 페이지</strong> URL을 사용하여 브랜드 일관성과 이메일 <strong>전달성</strong>을 개선했습니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">사용자 정의 대상자</a></strong></td>
@@ -297,14 +244,6 @@ ht-degree: 62%
    <td colspan="1">Marketo의 프로그램 유형입니다. 이메일, 이벤트 또는 참여 프로그램이 관련성이 없는 경우 사용할 일반 프로그램. <br></td>
   </tr>
   <tr>
-   <td colspan="1"><strong>전용 IP 주소</strong></td>
-   <td colspan="1">한 Marketo 고객만 사용하도록 예약된 이메일 전송 IP 주소로서, 보낸 사람의 신뢰도를 완벽하게 제어합니다(공유 IP 풀과 대조됨). 전체 전송 볼륨에 도달하기 전에 적절하게 예열해야 합니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>딥링크 URI</strong></td>
-   <td colspan="1">앱의 홈 화면을 여는 대신 앱 사용자를 앱 내의 특정 화면이나 위치로 안내하는 모바일 푸시 알림에 사용되는 URL 형식입니다.</td>
-  </tr>
-  <tr>
    <td colspan="1"><strong>전달성</strong></td>
    <td colspan="1">이메일 메시지가 의도한 수신자의 받은 편지함에 도달하는 능력으로, <strong>스팸</strong> 및 클라이언트측 필터의 영향을 받을 수 있습니다. 이메일이 수신자 서버에 전달되었음을 나타내는 “게재됨”과는 다릅니다.</td>
   </tr>
@@ -321,16 +260,8 @@ ht-degree: 62%
    <td colspan="1"><strong>Adobe Marketo Engage</strong>의 핵심 섹션 중 하나입니다. Design Studio는 <strong>랜딩 페이지</strong>, 양식, <strong>이메일</strong>, <strong>스니펫</strong>, 이미지/파일 등 <strong>자산</strong>을 보관하는 공간입니다.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>대화 상자</strong></td>
-   <td colspan="1"><strong>Dynamic Chat</strong>에서 대화 상자는 대상 대상 대상, 메시지 흐름, 예약 및 웹 사이트에서 이를 활성화하는 트리거를 포함하여 특정 자동화된 챗봇 대화를 정의하는 컨테이너입니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>분산 마케팅</strong></td>
-   <td colspan="1">중앙 마케팅 팀이 로컬 또는 필드 마케팅 팀에서 맞춤화하고 실행할 수 있는 <strong>프로그램</strong>을 만들고 공유할 수 있도록 하여 브랜드 일관성을 유지하면서 지역적인 유연성을 부여하는 기능입니다.</td>
-  </tr>
-  <tr>
    <td colspan="1"><strong>설명서</strong></td>
-   <td colspan="1">설명서의 약어로, 고객이 제품을 더 잘 이해할 수 있도록 돕는 도움말 문서입니다. Marketo에는 제품 문서(현재 사용 중인 사이트)와 <a href="https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home" rel="nofollow">개발자</a> 문서가 있습니다.</td>
+   <td colspan="1">설명서의 약어로, 고객이 제품을 더 잘 이해할 수 있도록 돕는 도움말 문서입니다. Marketo에는 제품 문서(현재 사용 중인 사이트), <a href="https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home" rel="nofollow">개발자</a> 문서, <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">지원</a> 문서 등 여러 유형의 문서가 있습니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>도메인 기반 메시지 인증, 보고 및 준수 (DMARC)</strong></td>
@@ -353,14 +284,6 @@ ht-degree: 62%
    <td colspan="1"><strong>구독 취소된</strong> 사용자가 제거되었다가 다시 생성되거나, 기존에 구독 취소된 동일한 이메일 주소로 새 기록이 생성되더라도 해당 기록이 구독 취소 상태로 유지되도록 하는 마스터 구독 취소 상태입니다.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>동적 계정 목록</strong></td>
-   <td colspan="1"><strong>TAM</strong>에서 정의된 기준에 따라 자동으로 업데이트되는 계정 목록입니다. 이는 사용자에 대한 <strong>스마트 목록</strong>과 유사하지만 명명된 계정에 대한 범위입니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>Dynamic Chat</strong></td>
-   <td colspan="1">Marketo Engage <strong>데이터베이스</strong>와(과) 완전히 통합되며 리드 캡처, 자격 조건 및 모임 일정을 위해 웹 사이트에서 AI 기반의 챗봇 대화를 제공하는 기본 Marketo 기능입니다.</td>
-  </tr>
-  <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">동적 콘텐츠</a></strong></td>
    <td colspan="1">콘텐츠(예: 이미지, 코드 조각, 텍스트 등) 사용자가 지정한 조건에 따라 <strong>전자 메일</strong> 또는 <strong>랜딩 페이지</strong>에서 채워지므로 사용자가 독자를 위해 환경을 개인화할 수 있습니다. </td>
   </tr>
@@ -380,14 +303,6 @@ ht-degree: 62%
    <td colspan="1">Marketo에서 고객과 소통하는 데 사용할 수 있는 <strong>자산</strong> 중 하나입니다. 이메일은 HTML(그래픽, 사용자 정의 글꼴 등) 또는 텍스트 전용(특수 서식이 없는 일반 텍스트 메시지)일 수 있습니다. HTML 이메일만 “열람 수”를 기록할 수 있습니다.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>이메일 보트 활동 필터링</strong></td>
-   <td colspan="1">자동화된 봇 활동(예: 보안 스캐너 열기 및 클릭)을 식별하고 이메일 성능 지표에서 제외하여 보다 정확한 참여 데이터를 생성하는 설정입니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>이메일 디자이너</strong></td>
-   <td colspan="1">최신 드래그 앤 드롭 인터페이스, 기본 제공 템플릿, <strong>콘텐츠 조각</strong>, 브랜드 테마 및 AI 지원 콘텐츠 생성을 제공하는 Marketo Engage의 고급 이메일 및 이메일 템플릿 만들기 경험입니다. 기존 이메일 편집기 2.0을 대체하며, 이미지 편집을 위한 Adobe Express 및 받은 편지함 렌더링 미리 보기를 위한 Litmus와의 통합을 포함합니다.</td>
-  </tr>
-  <tr>
    <td colspan="1"><strong>잘못된 이메일</strong></td>
    <td colspan="1">Marketo의 기본 필드로, <strong>데이터베이스</strong>에 있는 사용자의 이메일 주소가 전달 가능한지 여부를 나타냅니다.</td>
   </tr>
@@ -401,10 +316,6 @@ ht-degree: 62%
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#email-suspended" rel="nofollow"><strong>이메일 중단됨</strong></a></td>
    <td colspan="1"><strong>하드 바운스</strong>가 발생한 후 24시간 동안 사용자가 이메일을 받지 못하도록 차단하는 상태입니다. 24시간이 지나면 해당 사용자는 다시 이메일을 받을 수 있게 됩니다. </td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>참여 맵</strong></td>
-   <td colspan="1">모든 트리거, 필터, 흐름 단계 및 중첩된 캠페인을 포함하여 <strong>스마트 캠페인</strong>의 전체 논리를 보여 주는 시각적인 순서도 스타일의 다이어그램으로 복잡한 캠페인 논리를 더 쉽게 이해하고 감사할 수 있습니다.</td>
   </tr>
   <tr>
    <td colspan="1">
@@ -422,10 +333,6 @@ ht-degree: 62%
    <td>고객 및 잠재 고객과 소통하기 위해 발생합니다. 오프라인 이벤트는 일반적으로 모임이나 무역 박람회로 구성되며, 온라인 이벤트는 일반적으로 <strong>웨비나</strong>입니다.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>이벤트 체크인</strong></td>
-   <td colspan="1">이벤트 참석자를 출석한 것으로 표시하는 프로세스는 일반적으로 Marketo 이벤트 모바일 앱을 사용하여 수행됩니다. 에서 사용자를 선택하면 Marketo의 프로그램 멤버십 상태가 자동으로 업데이트됩니다.</td>
-  </tr>
-  <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">이벤트 파트너</a></strong></td>
    <td colspan="1">온라인 이벤트를 자동화하는 데 도움이 되는 서드파티 통합 기능입니다.</td>
   </tr>
@@ -439,10 +346,6 @@ ht-degree: 62%
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" rel="nofollow"><strong>소진됨</strong></a></td>
    <td colspan="1">사용자가 참여 스트림의 모든 콘텐츠를 받은 경우입니다. 소진됨으로 표시된 사용자는 추가 <strong>콘텐츠</strong>가 추가될 때까지 그대로 유지됩니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>Experience Cloud 대상 동기화</strong></td>
-   <td colspan="1">Marketo Engage과 다른 Adobe Experience Cloud 애플리케이션(예: Adobe Experience Platform) 간의 대상 세그먼트를 동기화하여 Adobe 에코시스템 전반에서 일관된 대상 타깃팅을 활성화하는 기능입니다.</td>
   </tr>
  </tbody>
 </table>
@@ -472,18 +375,6 @@ ht-degree: 62%
    <td>플로우 작업이라고도 합니다. <strong>스마트 캠페인</strong>의 일부, <strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md" rel="nofollow">스마트 목록</a></strong>의 단일 플로우 작업 또는 한 명의 사용자에 대한 단일 플로우 작업 등 선택한 사용자에게 발생하는 작업입니다.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>양식</strong></td>
-   <td colspan="1">잠재 고객 및 고객의 정보를 캡처하는 데 사용되는 Marketo <strong>asset</strong>. Forms은 Marketo <strong>랜딩 페이지</strong> 또는 외부 웹 사이트에 임베드될 수 있습니다. 제출을 통해 <strong>스마트 캠페인</strong>을 트리거하고 <strong>데이터베이스</strong>에서 개인 레코드를 업데이트할 수 있습니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>양식 미리 채우기</strong></td>
-   <td colspan="1">Marketo <strong>데이터베이스</strong>에 이미 데이터가 있는 재방문자를 위해 알려진 <strong>양식</strong> 필드를 자동으로 채우는 기능으로, 양식을 작성하는 데 필요한 노력을 줄일 수 있습니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>조각</strong></td>
-   <td colspan="1">텍스트, 이미지 또는 여러 <strong>이메일</strong> 또는 <strong>랜딩 페이지</strong>에 삽입할 수 있는 기타 요소가 포함된 <strong>이메일 Designer</strong>의 재사용 가능한 콘텐츠 블록입니다. 조각을 업데이트하면 해당 조각이 사용되는 모든 에셋이 자동으로 업데이트됩니다.</td>
-  </tr>
-  <tr>
    <td colspan="1"><strong>자유 형식 랜딩 페이지</strong></td>
    <td colspan="1">(<strong><a href="#l">랜딩 페이지</a></strong> 참조)</td>
   </tr>
@@ -503,16 +394,8 @@ ht-degree: 62%
    <td><p>2018년 5월 25일에 발효된 유럽연합 법률로, EU 시민에게 개인 데이터에 대한 더 많은 통제권을 부여하는 것을 목표로 합니다.</p></td>
   </tr>
   <tr>
-   <td colspan="1"><strong>생성형 AI</strong></td>
-   <td colspan="1">작성 환경에서 직접 이메일 사본, 제목 줄, 랜딩 페이지 콘텐츠 및 이미지를 생성하기 위해 Marketo Engage 내의 AI 기반 콘텐츠 작성 기능(Adobe Firefly 및 기타 모델에서 제공).</td>
-  </tr>
-  <tr>
    <td><strong>글로벌 자산</strong></td>
    <td>Marketo 인스턴스 전반의 <strong>프로그램</strong>에서 사용하기 위해 <strong>Design Studio</strong>에서 만들어진 자산입니다. </td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>전역 성능 대시보드</strong></td>
-   <td colspan="1"><strong>Dynamic Chat</strong>에서 모든 활성 대화 상자에서 트리거된 총 대화 상자, 참여 대화, 예약된 회의, 목표에 도달한 목표를 포함하여 총 챗봇 성능 지표를 표시하는 대시보드입니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>가이드 랜딩 페이지</strong></td>
@@ -545,24 +428,8 @@ ht-degree: 62%
  </colgroup>
  <tbody>
   <tr>
-   <td colspan="1"><strong>인앱 메시지</strong></td>
-   <td colspan="1">모바일 애플리케이션 내에서 활발하게 사용하는 사용자에게 전달되는 알림 또는 메시지입니다. 푸시 알림에 의존하지 않고 콘텐츠를 홍보하거나, 기능을 발표하거나, 특정 인앱 작업을 유도하는 데 사용됩니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>받은 편지함 추적기</strong></td>
-   <td colspan="1">Marketo 전달성 도구 기능은 수십 개의 다양한 이메일 클라이언트 및 공급자에서 이메일이 렌더링되고 배치되는 방법(받은 편지함과 스팸 비교)을 모니터링하여 전체 보내기 전에 전달성 문제를 식별하는 데 도움이 됩니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>대화형 웨비나</strong></td>
-   <td colspan="1">타사 <strong>이벤트 파트너</strong> 통합 없이 플랫폼 내에서 웨비나를 직접 호스팅하기 위한 기본 Marketo Engage 기능입니다. 등록자 및 참석자 데이터를 Marketo <strong>데이터베이스</strong>에 자동으로 동기화합니다.</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>즐거운 순간</strong></a></td>
    <td><p><strong>Marketo Sales Insight</strong>에서 특정 관련성이 있다고 판단되는 경우(예: 누군가 사이트의 특정 페이지를 방문하거나, 전자 메일의 특정 링크를 클릭하는 경우 등) 영업 팀이 알아야 할 사항입니다.</p></td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>IP Warming</strong></td>
-   <td colspan="1">ISP를 통해 긍정적인 발신자 평판을 구축하기 위해 새 IP 주소나 전용 IP 주소에서 이메일 전송 볼륨을 점차 늘리는 프로세스입니다. 새 IP에서 너무 많은 볼륨을 빠르게 보내면 전자 메일이 <strong>스팸</strong>(으)로 표시될 수 있습니다.</td>
   </tr>
  </tbody>
 </table>
@@ -610,19 +477,11 @@ ht-degree: 62%
    <td colspan="1">데이터베이스의 이전 이름입니다(<a href="#d"><strong>데이터베이스</strong></a> 참조).</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>계정 일치로 이어짐</strong></td>
-   <td colspan="1"><strong>TAM</strong>에서 개별 개인 레코드를 자동으로 식별하고 해당 <strong>명명 계정</strong>과 연결하는 프로세스이므로 계정 수준 참여 데이터는 연결된 모든 연락처의 활동을 반영합니다.</td>
-  </tr>
-  <tr>
    <td colspan="1">
     <div>
      <p><strong> List</strong></p>
     </div></td>
    <td colspan="1">사용자의 모음입니다. Marketo에는 스마트 목록과 정적 목록이 있습니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">스마트 목록</a>은(는) 사용자가 정의한 필터(예: 캘리포니아에 거주하는 데이터베이스의 모든 사용자)를 기반으로 하므로 지속적으로 변경할 수 있는 동적 사용자 목록입니다. 새로운 사용자가 기준에 부합하거나 기존 사용자가 더 이상 부합하지 않으면 목록이 변경됩니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">정적 목록</a>은 말 그대로 정적입니다. 사용자가 수동으로 사용자를 추가/삭제하지 않는 한 변경되지 않습니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>라이브 채팅</strong></td>
-   <td colspan="1">자동화된 챗봇 응답과 반대로 실시간 대화를 위해 웹 사이트 방문자를 실시간 판매 또는 지원 에이전트로 라우팅하는 <strong>Dynamic Chat</strong> 기능입니다.</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>로컬 자산</strong></a></td>
@@ -646,10 +505,6 @@ ht-degree: 62%
   <tr>
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>마케팅 자동화</strong></a></td>
    <td colspan="1">기업이 마케팅 작업 및 워크플로를 간소화, 자동화 및 측정하여 운영 효율성을 높이고 수익을 더 빠르게 성장시킬 수 있도록 하는 기술 범주입니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>마케팅 캘린더</strong></td>
-   <td colspan="1">지정된 기간의 모든 예약된 마케팅 활동, 이메일 전송, 이벤트 및 프로그램을 표시하는 Marketo의 시각적 달력 보기로, 마케팅 일정에 대한 높은 수준의 개요를 제공합니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>마케팅 적격 리드 (MQL)</strong></td>
@@ -707,10 +562,6 @@ ht-degree: 62%
    <td><p><strong>TAM</strong>에서 사용자가 목표로 하려는 대상 계정으로 결정한 계정입니다.</p></td>
   </tr>
   <tr>
-   <td><strong>중첩된 캠페인</strong></td>
-   <td>Campaign 실행 흐름 단계를 사용하여 다른 캠페인의 <strong>흐름</strong> 내에서 호출되는 <strong>스마트 캠페인</strong>을(를) 통해 모듈식 및 재사용 가능한 캠페인 논리를 사용할 수 있습니다.</td>
-  </tr>
-  <tr>
    <td><strong>육성 프로그램</strong></td>
    <td>(<a href="#e" rel="nofollow">참여 프로그램</a>) 참조</td>
   </tr>
@@ -744,10 +595,6 @@ ht-degree: 62%
   <tr>
    <td><strong>옵트아웃</strong></td>
    <td>(<a href="#u"><strong>구독 취소</strong></a> 참조)</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>조직</strong></td>
-   <td colspan="1"><strong>웹 Personalization</strong>에서 회사 또는 계정이 웹 사이트를 방문할 때 해당 IP 주소로 식별됩니다. Marketo은 타깃팅을 위해 IP 조회 데이터를 사용하여 익명 웹 방문을 특정 조직과 연결합니다.</td>
   </tr>
  </tbody>
 </table>
@@ -788,14 +635,6 @@ ht-degree: 62%
    <td colspan="1">Marketo의 <strong>Target 계정 관리</strong>에서 담당자는 대상자의 하위 집합으로, 더 구체적인 타기팅을 가능하게 합니다.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>선택 목록</strong></td>
-   <td colspan="1">데이터 항목에 대해 미리 정의된 값의 드롭다운 메뉴를 제공하여 개인 레코드에서 일관되고 표준화된 데이터를 보장하는 <strong>사용자 지정 필드</strong> 형식입니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>Predictive Audiences</strong></td>
-   <td colspan="1">사람이 이벤트에 등록하거나 참석할 가능성을 예측하는 AI/ML 기반 Marketo 기능으로, 마케터가 가장 가능성 있는 응답자에 대한 지원 활동에 집중할 수 있도록 하고 불필요한 전송을 줄일 수 있습니다.</td>
-  </tr>
-  <tr>
    <td>
     <div>
      <p><strong>예측 콘텐츠</strong></p>
@@ -803,16 +642,8 @@ ht-degree: 62%
    <td>(이전 명칭: ContentAI) 마케팅 담당자가 기계 학습 및 예측 분석 기반의 추천을 사용하여 가장 관련성 높은 <strong>콘텐츠</strong>로 웹 방문자 및 이메일 수신자의 참여를 더 잘 유도할 수 있도록 돕는 추가 기능입니다.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>사전 머리글</strong></td>
-   <td colspan="1">제목란과 함께 이메일 받은 편지함에 표시되는 짧은 미리 보기 텍스트로서, 수신자가 이메일 콘텐츠를 열기 전에 간략하게 요약할 수 있습니다. 미리 보기 텍스트라고도 합니다.</td>
-  </tr>
-  <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md" rel="nofollow">프로그램</a></strong></td>
    <td colspan="1">마케팅 이니셔티브를 수행하는 데 필요한 모든 것을 담는 컨테이너입니다. 네 가지 유형이 있습니다. <strong>이벤트 프로그램</strong>, <strong>참여 프로그램</strong>, <strong>이메일 프로그램</strong>, <strong>기본 프로그램</strong>입니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>프로그램 분석기</strong></td>
-   <td colspan="1">비용, 파이프라인 생성, 매출 및 ROI를 기반으로 여러 프로그램을 나란히 비교하여 가장 큰 가치를 제공하는 프로그램을 식별하는 데 도움이 되는 <strong>매출 주기 분석</strong>의 보고 도구입니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>프로그램 월</strong></td>
@@ -821,10 +652,6 @@ ht-degree: 62%
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md" rel="nofollow"><strong>프로그램 성과 보고서</strong></a></td>
    <td colspan="1">Marketo의 보고서 유형입니다. 이를 통해 프로그램이 어떻게 진행되고 있는지 확인할 수 있습니다. <strong>태그</strong>, <strong>기간 비용</strong> 등으로 필터링합니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>점진적 프로파일링</strong></td>
-   <td colspan="1">기존 필드가 Marketo에 이미 채워져 있는 재방문자에게 새로운 질문을 제공하는 <strong>form</strong> 기능으로, 방문자가 이미 제공한 정보를 묻지 않고 여러 상호 작용에 걸쳐 개인 레코드를 점진적으로 강화합니다.</td>
   </tr>
  </tbody>
 </table>
@@ -857,20 +684,8 @@ ht-degree: 62%
    <td colspan="1"><p>다양한 신호 및/또는 데이터 포인트로 구성된 시간 경과에 따른 성과 점수입니다. 신뢰도는 발신자의 도메인, <strong>콘텐츠</strong> 또는 IP 주소와 연결될 수 있으며 <strong>전달성</strong>에 영향을 미칩니다.</p></td>
   </tr>
   <tr>
-   <td colspan="1"><strong>응답 라이브러리</strong></td>
-   <td colspan="1"><strong>Dynamic Chat</strong>에서 AI 에이전트가 일반적인 방문자 질문에 자동으로 응답하는 데 사용하는 선별된 질문 및 응답 쌍으로, 수동 에이전트 개입의 필요성을 줄입니다.</td>
-  </tr>
-  <tr>
    <td colspan="1"><strong>반환 경로 주소</strong></td>
    <td colspan="1">“보낸 사람” 필드의 이메일과는 다른, 메시지가 실제로 발송된 이메일 주소입니다. </td>
-  </tr>
-  <tr>
-   <td><strong>수익 주기 분석 (RCA)</strong></td>
-   <td>인스턴스 전반의 보고를 개선하는 데 도움이 되도록 설계된 다양한 도구가 포함된 추가 기능입니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md" rel="nofollow"><strong>수익 모델</strong></a></td>
-   <td colspan="1"><strong>수익 주기 분석</strong>(RCA)에 사용되는 도구로, 일련의 단계를 사용하여 전환을 위한 노력 중에 <strong>리드</strong>가 어느 시점에 있는지 추적할 수 있습니다.</td>
   </tr>
   <tr>
    <td><strong>역할</strong></td>
@@ -879,10 +694,6 @@ ht-degree: 62%
   <tr>
    <td colspan="1"><strong>역할 계정</strong></td>
    <td colspan="1">개인이 아닌 부서 또는 직책에 속하는 이메일 주소입니다(예: security@, sysadmin@ 등). Marketo는 개별 구독자와 연결할 수 없는 <a href="https://nation.marketo.com/t5/Support-Blogs/Suppressing-addresses-to-protect-customers-amp-The-Network/ba-p/241295" rel="nofollow">특정 역할 계정</a>으로 메일이 전송되는 것을 차단합니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>RTP</strong></td>
-   <td colspan="1">실시간 Personalization. 이제 <strong>웹 Personalization</strong>로 알려진 제품의 이전 제품 이름입니다. RTP는 알려진 웹 사이트 방문자와 익명의 웹 사이트 방문자를 위한 실시간 타깃팅 및 개인화를 제공했습니다.</td>
   </tr>
  </tbody>
 </table>
@@ -896,32 +707,12 @@ ht-degree: 62%
  </colgroup>
  <tbody>
   <tr>
-   <td colspan="1"><strong>판매 캠페인</strong></td>
-   <td colspan="1"><strong>Marketo Sales Connect</strong>에서 이메일, 전화 및 잠재 고객 참여를 위해 영업 담당자가 사용한 기타 작업을 체계적이고 반복 가능한 방식으로 결합하는 여러 단계 전달 시퀀스입니다.</td>
-  </tr>
-  <tr>
    <td colspan="1"><strong>Salesforce</strong></td>
    <td colspan="1">SFDC라고도 합니다. Marketo가 기본적으로 통합되는 두 가지 CRM 중 하나입니다(<a href="#c"><strong>CRM</strong></a> 참조).</td>
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md" rel="nofollow"><strong>샘플 이메일</strong></a></td>
    <td colspan="1">고객에게 보내기 전에 자신(및/또는 다른 사람)에게 보내는 테스트 <strong>이메일</strong>로, 어떻게 보이는지 확인하는 데 사용됩니다. 샘플을 사용하여 <strong>동적 콘텐츠</strong>를 테스트할 수도 있습니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>샌드박스</strong></td>
-   <td colspan="1">프로덕션 환경과 독립적으로 작동하며 실험이 라이브 데이터 또는 캠페인에 영향을 주지 않도록 테스트, 개발 및 교육에 사용되는 격리된 Marketo 인스턴스.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>SAML</strong></td>
-   <td colspan="1">보안 어설션 마크업 언어. Marketo에서 SSO(Single Sign-On) 인증을 사용하도록 설정하는 데 사용하는 XML 기반 프로토콜로, 이를 통해 사용자는 조직의 ID 공급자를 사용하여 Marketo에 로그인할 수 있습니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>채점 모델</strong></td>
-   <td colspan="1">잠재 고객 품질 및 판매 준비 상태를 결정하기 위해 인구 통계학적 특성 및 행동 조치를 기반으로 개인 레코드에 포인트 값을 할당하는 프레임워크입니다. Marketo에서는 복합 점수로 결합할 수 있는 별도의 <strong>비헤이비어</strong> 및 <strong>인구 통계학적 점수</strong>를 지원합니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>시드 목록</strong></td>
-   <td colspan="1">전체 대상을 보내기 전 또는 이와 함께 다른 이메일 클라이언트에서 이메일 <strong>전달성</strong> 및 렌더링을 확인하기 위해 캠페인 보내기에 추가된 내부 또는 테스트 이메일 주소 목록입니다.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" rel="nofollow">세그먼트</a></strong></td>
@@ -934,14 +725,6 @@ ht-degree: 62%
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">발신자 정책 프레임워크</a>(SPF)</strong></td>
    <td colspan="1"><p>특정 도메인에 대해 메일을 보낼 수 있는 이메일 서버를 식별하는 인증 메커니즘입니다.</p></td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>SMS</strong></td>
-   <td colspan="1">단문 메시지 서비스. 모바일 장치에 텍스트 메시지를 보내는 채널입니다. Marketo은 SMS 공급자(예: Vibes)와 통합되어 멀티채널 캠페인의 일부로 텍스트 메시지 마케팅을 활성화합니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>SOAP API</strong></td>
-   <td colspan="1">외부 시스템과 Marketo을 통합하기 위한 레거시 웹 서비스 프로토콜입니다. SOAP API 기능은 기존 통합에 대해 계속 지원되지만 보다 현대적이고 유연한 <strong>REST API</strong>로 대체되었습니다.</td>
   </tr>
   <tr>
    <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>스마트 캠페인</strong></a></td>
@@ -983,18 +766,6 @@ ht-degree: 62%
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md" rel="nofollow">스트림</a></strong></td>
    <td colspan="1">사용자를 육성하기 위해 <strong>참여 프로그램</strong>에서 사용되는 우선순위가 지정된 <strong>콘텐츠</strong> 모음입니다. <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" rel="nofollow">콘텐츠</a>는 지정한 순서대로 배포됩니다.</td>
   </tr>
-  <tr>
-   <td colspan="1"><strong>스트림 디자이너</strong></td>
-   <td colspan="1"><strong>Dynamic Chat</strong>에서 자동화된 대화 흐름을 빌드하는 시각적 드래그 앤 드롭 인터페이스로서 코드를 작성하지 않고도 분기 대화 경로, 조건 및 작업을 정의할 수 있습니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>구독 센터</strong></td>
-   <td colspan="1">이메일 수신자가 구독 환경 설정을 관리하여 수신하려는 커뮤니케이션 유형을 선택하거나 구독을 완전히 취소하는 대신 특정 범주를 선택할 수 있는 Marketo 호스팅 <strong>랜딩 페이지</strong>입니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>비표시 목록</strong></td>
-   <td colspan="1">캠페인의 타겟팅 방식에 관계없이 Marketo 인스턴스에서 이메일 수신에서 제외되는 이메일 주소 또는 도메인 목록입니다. 종종 경쟁 업체, 알려진 불량 주소 또는 연락하지 말 것을 요청한 개인에게 보내는 것을 방지하는 데 사용됩니다.</td>
-  </tr>
  </tbody>
 </table>
 
@@ -1019,20 +790,12 @@ ht-degree: 62%
    <td>추가 이메일 또는 랜딩 페이지를 만들기 위한 시작점으로 사용되는 <strong>이메일</strong> 또는 <strong>랜딩 페이지</strong>입니다.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>템플릿 성능 보고서</strong></td>
-   <td colspan="1"><strong>Marketo Sales Connect</strong>에서 가장 많은 열기, 클릭 수, 답글을 생성하는 이메일 템플릿을 보여 주는 보고서를 통해 영업 팀이 가장 효과적인 전달 콘텐츠를 식별하는 데 도움이 됩니다.</td>
-  </tr>
-  <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md" rel="nofollow">토큰</a></strong></td>
    <td colspan="1">Marketo 내의 다양한 자산/기능에 사용될 수 있는 변수로, 개인화된 데이터를 자동으로 삽입할 수 있습니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>트리</strong></td>
    <td colspan="1">Marketo에서 항목을 계층 구조로 표시하는 왼쪽 열입니다. Marketo 인스턴스에 있는 모든 항목(예: <strong>작업 영역</strong>, <strong>프로그램</strong>, <strong>로컬 자산</strong> 등)이 표시됩니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>트렌드 콘텐츠</strong></td>
-   <td colspan="1"><strong>예측 콘텐츠</strong>에서 Marketo의 머신 러닝 알고리즘으로 식별된 이전 기간에 비해 현재 모멘텀이 증가하거나 참여도가 높아진 콘텐츠입니다.</td>
   </tr>
   <tr>
    <td><strong>트리거</strong></td>
@@ -1074,25 +837,6 @@ ht-degree: 62%
  </tbody>
 </table>
 
-## V {#v}
-
-<table>
- <colgroup>
-  <col>
-  <col>
- </colgroup>
- <tbody>
-  <tr>
-   <td colspan="1"><strong>Velocity 스크립팅</strong></td>
-   <td colspan="1">Marketo <strong>이메일</strong> 및 <strong>랜딩 페이지</strong>에서 표준 <strong>토큰</strong>이 제공할 수 있는 범위를 벗어난 복잡하고 동적인 개인화 논리(예: 조건부 콘텐츠, 루프, 문자열 조작)를 만드는 데 사용되는 Apache Velocity 기반의 고급 스크립팅 언어입니다.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong>방문자</strong></td>
-   <td colspan="1"><strong>웹 Personalization</strong>에서 개인 및 조직은 <strong>RTP</strong> JavaScript 태그를 통해 웹 사이트 방문을 추적했습니다. 방문자를 알 수 있거나(Marketo 개인 레코드에 일치함) 익명으로(IP 조회를 통해 회사에서만 식별함).</td>
-  </tr>
- </tbody>
-</table>
-
 ## W {#w}
 
 <table>
@@ -1118,11 +862,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td><strong>웨비나</strong></td>
-   <td>웹 기반 세미나입니다. Marketo에서 웨비나는 다양한 <strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">이벤트 파트너</a></strong> 또는 <strong>대화형 웨비나</strong>(Marketo의 기본 솔루션)을 통해 수행할 수 있습니다.</td>
-  </tr>
-  <tr>
-   <td><strong>Webhook</strong></td>
-   <td>HTTP POST 요청을 사용하여 특정 이벤트가 발생할 때 Marketo에서 외부 시스템으로 데이터를 전송하는 실시간 통합 메커니즘입니다. Webhooks를 사용하면 Marketo이 기본 통합이 없는 서드파티 서비스와 통신할 수 있습니다.</td>
+   <td>웹 기반 세미나입니다. Marketo에서는 여러 <strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">이벤트 파트너</a></strong>를 통해 웨비나를 진행할 수 있습니다.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">웹 사이트 리타기팅</a></strong></td>

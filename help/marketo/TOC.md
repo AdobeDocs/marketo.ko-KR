@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 9129e60d468173fc5f17a4acf8126f04a2183711
+source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
 workflow-type: tm+mt
-source-wordcount: '9238'
-ht-degree: 97%
+source-wordcount: '8827'
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,6 @@ ht-degree: 97%
       + [새 인스턴스 모범 사례: 설정 문서화](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 알아 두어야 할 항목 {#things-to-know}
       + [Marketo Engage 용어](getting-started/things-to-know/marketo-engage-glossary.md)
-      + {hide-from-toc}[새 용어집](getting-started/things-to-know/new-glossary.md)
       + [아이콘 용어집](getting-started/things-to-know/icon-glossary.md)
       + [클래식 아이콘 용어집](getting-started/things-to-know/classic-icon-glossary.md)
       + [도움말 센터](getting-started/things-to-know/help-center.md)
@@ -1727,81 +1726,6 @@ ht-degree: 97%
          + [성과 인사이트 설정](product-docs/reporting/performance-insights/performance-insights-settings.md)
          + [성과 인사이트 트렌드 개요](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [성과 인사이트 설정](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
-      + 수익 주기 분석 {#revenue-cycle-analytics}
-         + 이메일 분석 {#email-analysis}
-            + [리드를 나열하는 이메일 분석 보고서 작성](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
-            + [프로그램 정보를 보여 주는 이메일 분석 보고서 작성](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)
-            + [이메일 분석 영역 이해](product-docs/reporting/revenue-cycle-analytics/email-analysis/understanding-the-email-analysis-area.md)
-         + 기회 영향 분석기 {#opportunity-influence-analyzer}
-            + [기회 영향 분석기 이해](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/understanding-the-opportunity-influence-analyzer.md)
-            + [기회 영향 분석기 구성](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
-            + [기회 영향 분석기 만들기](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
-            + [기회 영향 분석기 데이터 내보내기](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/export-opportunity-influence-analyzer-data.md)
-            + [기회 영향 분석기를 사용하여 마케팅 스토리 전달](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
-         + 프로그램 분석 {#program-analytics}
-            + [고급 프로그램 보고 개요](product-docs/reporting/revenue-cycle-analytics/program-analytics/advanced-program-reporting-overview.md)
-            + [리드를 나열하는 프로그램 멤버십 분석 보고서 작성](product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)
-            + [프로그램 분석기 복제](product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
-            + [프로그램 분석기로 채널 효과 비교](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
-            + [프로그램 분석기로 프로그램 효과 비교](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
-            + [프로그램 분석기 만들기](product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
-            + [프로그램 분석기를 사용하여 프로그램 및 채널 세부 정보 탐색](product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
-            + [Revenue Explorer 및 Analyzers에서 기간 비용이 없는 프로그램 만들기](product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)
-            + [프로그램 수준에서 분석 동작 재정의](product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
-            + [프로그램 비용 분석 영역 이해](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-cost-analysis-area.md)
-            + [프로그램 멤버십 분석 영역 이해](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-membership-analysis-area.md)
-            + [프로그램 기회 분석 영역 이해](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)
-            + [프로그램 수익 단계 분석 영역 이해](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-revenue-stage-analysis-area.md)
-         + 수익 주기 모델 {#revenue-cycle-models}
-            + [수익 모델 승인/승인 취소](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
-            + [승인된 모델 편집](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model/editing-your-approved-model.md)
-            + [단계 승인 및 수익 모델에 리드 할당](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)
-            + [단계 이름 변경](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/changing-the-name-of-a-stage.md)
-            + [Marketo 예시 수익 모델 복제](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/cloning-a-marketo-example-revenue-model.md)
-            + [새 수익 모델 만들기](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-            + [성공 경로 분석기 만들기](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
-            + [모델 성과 분석용 사용자 정의 필드 그룹 활성화 (리드)](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/enable-custom-field-groups-for-model-performance-analysis-leads.md)
-            + [수익 주기 모델의 모든 리드 찾기](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
-            + [Revenue Modeler에서 두 단계 병합](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
-            + [수익 모델 보고서](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
-            + [관리자 계정을 사용하여 수익 모델에서 Google AdWords 전환 설정](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-            + [수익 모델에서 Google AdWords 전환 설정](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-            + [Revenue Modeler에서 계정별 추적 시작](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
-            + [수익 모델 단계 이해](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-phases.md)
-            + [수익 모델 성공 경로 이해](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)
-            + [수익 모델 이해](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
-            + [수익 모델 게이트 단계 사용](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
-            + [수익 모델 인벤토리 단계 사용](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
-            + [수익 모델 SLA 단계 사용](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
-            + [수익 모델 전환 사용](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
-            + [성공 경로 분석기 사용](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
-         + Revenue Explorer {#revenue-explorer}
-            + [Revenue Explorer 보고서에 사용자 정의 측정 항목 추가](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
-            + [Revenue Explorer 보고서에 필드 추가](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
-            + [Revenue Explorer 보고서 만들기](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
-            + [히트 그리드 사용자 정의 및 표시](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/customize-and-display-heat-grids.md)
-            + [Revenue Explorer 보고서의 필드 삭제](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
-            + [Revenue Explorer 보고서 내보내기](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/exporting-a-revenue-explorer-report.md)
-            + [Revenue Explorer 결과 그래프 생성](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/graphing-results-from-revenue-explorer.md)
-            + [Revenue Explorer 보고서 유형](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/revenue-explorer-report-types.md)
-            + [Revenue Explorer 보고서 저장](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
-            + [Revenue Explorer 보고서 구독](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-            + [사용자 정의 필드를 Revenue Explorer에 동기화](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)
-            + [Revenue Explorer의 기회 분석 이해](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)
-            + [Revenue Explorer에서 대시보드 사용](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/using-dashboards-in-revenue-explorer.md)
-         + 수익 도구 {#revenue-tools}
-            + [기간별 비용 정의](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
-            + [수익 주기 분석용 사용자 정의 필드 동기화 활성화](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
-            + [수익 단계별 사용자 보고서](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-            + 속성 {#attribution}
-               + [속성 이해](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
-               + [속성 예제 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
-               + [속성 예제 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
-               + [속성 예제 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
-               + [속성 예제 4](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
-            + 필드 조직자 {#field-organizers}
-               + [필드 조직자 사용](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
-               + [필드 조직자를 사용하여 사용자 정의 필드 그룹 만들기](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
       + 고급 BI 분석 {#advanced-bi-analytics}
          + [고급 BI 분석 개요](product-docs/reporting/advanced-bi-analytics/overview.md)
          + [지표 및 차원](product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)

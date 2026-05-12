@@ -4,9 +4,9 @@ description: 프로그램 멤버십과 사람들이 프로그램을 입력하는
 title: 프로그램 멤버십 이해
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '271'
 ht-degree: 2%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 2%
 
 ## 확보 프로그램 {#acquisition-program}
 
-새 이름이 시스템에 프로그램 구성원으로 들어오면 Marketo은 해당 프로그램을 자동으로 &quot;획득&quot;으로 설정합니다. [첫 번째 터치 속성](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}에 대한 크레딧을 설정합니다.
+새 이름이 시스템에 프로그램 구성원으로 들어오면 Marketo은 해당 프로그램을 자동으로 &quot;획득&quot;으로 설정합니다.
 
 >[!MORELIKETHIS]
 >
