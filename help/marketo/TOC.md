@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
+source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
 workflow-type: tm+mt
-source-wordcount: '8827'
+source-wordcount: '8829'
 ht-degree: 96%
 
 ---
@@ -64,6 +64,7 @@ ht-degree: 96%
       + [설정 및 설정](product-docs/marketo-ai/settings-setup.md)
       + {hide-from-toc}[설정 및 설정](product-docs/marketo-ai/settings-setup-old.md)
       + 상담원 {#agents}
+         + {hide-from-toc}[제품 정보](product-docs/marketo-ai/agents/product-knowledge.md)
          + [리드 가져오기](product-docs/marketo-ai/agents/import-leads.md)
          + [프로그램 QA](product-docs/marketo-ai/agents/program-qa.md)
    + 추가 앱 {#additional-apps}
