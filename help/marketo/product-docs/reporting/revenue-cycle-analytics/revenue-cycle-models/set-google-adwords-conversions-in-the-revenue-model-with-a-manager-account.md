@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504923
-description: Marketo Engage의 관리자 계정을 사용하여 수익 모델에서 [!dnl google adwords] 전환을 설정하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
+description: Marketo Engage의 관리자 계정을 사용하여 수익 모델에서 [ !dnl google adwords] 전환을 설정하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
 title: 관리자 계정을 사용하여 수익 모델에서  [!DNL Google AdWords] 전환 설정
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
