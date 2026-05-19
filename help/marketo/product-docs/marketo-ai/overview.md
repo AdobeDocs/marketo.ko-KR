@@ -1,26 +1,26 @@
 ---
-description: 프로그램 QA, 리드 가져오기, 데이터 표준화 등과 같은 마케팅 작업을 자동화하기 위해 설계된 Marketo Engage AI 에이전트 제품군을 살펴봅니다.
-title: Marketo Engage AI 개요
+description: 프로그램 QA, 리드 가져오기, 데이터 표준화 등과 같은 마케팅 작업을 자동화하기 위해 설계된 Marketo AI 에이전트 제품군을 살펴봅니다.
+title: Marketo AI 개요
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '266'
 ht-degree: 2%
 
 ---
 
-# Marketo Engage AI 개요 {#overview}
+# Marketo AI 개요 {#overview}
 
-Marketo Engage AI는 시간이 많이 소요되지만 중요한 마케팅 기능을 자동화하도록 설계된 에이전트를 제공합니다.
+Marketo AI는 시간이 많이 소요되지만 중요한 마케팅 기능을 자동화하도록 설계된 에이전트를 제공합니다.
+
+>[!AVAILABILITY]
+>
+>이 기능은 제한적으로 사용할 수 있습니다. 구독에 대한 액세스 권한을 요청하려면 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 
 >[!PREREQUISITES]
 >
->이 기능을 사용하려면 먼저 [Core Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에 동의해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
-
->[!NOTE]
->
->이 기능은 비공개 베타 버전이며 현재 다음 몇 달에 걸쳐 단계적으로 롤아웃할 예정입니다. 내 Marketo 화면에서 _AI로 빌드_ 타일이 표시되면 구독이 활성화된 시기를 알 수 있습니다.
+>이 기능을 사용하려면 먼저 [Core Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에 동의해야 합니다. 자세한 내용은 계정 관리자에게 문의하십시오.
 
 >[!IMPORTANT]
 >
