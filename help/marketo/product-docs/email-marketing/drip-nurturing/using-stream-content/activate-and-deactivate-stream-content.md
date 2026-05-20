@@ -5,13 +5,11 @@ title: 스트림 콘텐츠 활성화 및 비활성화
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/-5qT7OIR29IJib-BobRgtR5ySF4heXLGR-buzjj6pCU
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 129
+source-wordcount: 115
 ht-degree: 10%
 
 ---
@@ -41,8 +39,6 @@ ht-degree: 10%
    >[!TIP]
    >
    >최상위 수준의 톱니바퀴 아이콘을 클릭한 다음 **[!UICONTROL Activate all content]**&#x200B;을(를) 클릭하여 스트림의 모든 콘텐츠를 활성화할 수도 있습니다.
-
-   수고하셨습니다! 이제 스트림에서 콘텐츠를 활성화하는 방법을 이해할 수 있습니다.
 
 ## 스트림 콘텐츠 비활성화 {#deactivate-stream-content}
 

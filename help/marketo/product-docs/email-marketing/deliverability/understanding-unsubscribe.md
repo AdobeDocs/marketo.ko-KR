@@ -5,11 +5,9 @@ title: 구독 취소 이해
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/zmsCI3a7GECVNiuFjtjqgDQsjelBoccugPeuzAF4c4k
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 238
 ht-degree: 4%
@@ -18,7 +16,7 @@ ht-degree: 4%
 
 # 구독 취소 이해 {#understanding-unsubscribe}
 
-실제로 Marketo에는 몇 가지 유형의 기본 제공 구독 취소가 있습니다. 모두 이름과 마찬가지로 사용자 개체의 필드로 표시됩니다.
+Marketo에는 몇 가지 유형의 기본 제공 구독 취소가 있습니다. 모두 이름과 마찬가지로 사용자 개체의 필드로 표시됩니다.
 
 이러한 모든 필드는 Marketo 구독에 내장되어 있습니다. 모두 부울(확인란) 유형입니다. Forms 또는 [데이터 값 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) 흐름 단계에서 사용할 수 있습니다.
 
@@ -36,10 +34,10 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->일시 중단된 이메일은 24시간 기간이 끝난 후에도 계속 확인되므로 역사적으로 이와 같이 표시된 사용자를 참조할 수 있습니다. 해당 사용자가 우편 발송이 가능한지 확인하려면 이메일 일시 중단 시점 후 24시간을 계산하면 됩니다.
+>일시 중단된 이메일은 24시간 기간이 끝난 후에도 계속 확인되므로 역사적으로 이와 같이 표시된 사용자를 참조할 수 있습니다. 해당 사용자가 메일 사용이 가능한지 확인하려면 이메일 일시 중단 후 24시간을 계산하십시오.
 
 ## 차단 목록에 추가됨 {#blocklisted}
 
-[경쟁사와 같은 사용자에게 사용](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). **아니요**&#x200B;개의 전자 메일을 받고 싶은 모든 사람(운영, 마케팅 등) 아무것도 얻지 못해!
+[경쟁사와 같은 사용자에게 사용](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). **아니요**&#x200B;개의 전자 메일을 받고 싶은 모든 사람(운영, 마케팅 등) 이메일이 수신되지 않습니다.
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

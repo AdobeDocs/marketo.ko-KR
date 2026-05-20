@@ -5,12 +5,11 @@ title: 이메일 전달성을 위한 SPF 및 DKIM 설정
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 434
-ht-degree: 89%
+source-wordcount: 432
+ht-degree: 71%
 
 ---
 
@@ -20,7 +19,7 @@ ht-degree: 89%
 
 >[!CAUTION]
 >
->네트워크 관리자가 DNS 레코드에서 이 변경 작업을 수행하게 해야 합니다.
+>네트워크 관리자가 DNS 레코드에서 이 변경 작업을 수행해야 합니다.
 
 ## SPF 설정 {#set-up-spf}
 
@@ -44,16 +43,16 @@ DKIM은 이메일 메시지를 보냈다고 알려진 사람이 보낸 것인지
 
 **DKIM은 어떻게 작동합니까?**
 
-DNS 레코드에서 공개 키를 설정하고 관리 섹션에서 전송 도메인을 활성화하면(A), 보내는 메시지에 대해 사용자 정의 DKIM 서명을 켭니다. 이 서명에는 보내는 각 이메일과 함께 암호화된 디지털 서명이 포함됩니다(B). 수신자는 발신 도메인의 DNS에서 &quot;공개 키&quot;를 조회하여 디지털 서명을 해독할 수 있습니다(C). 이메일의 키가 DNS 레코드의 키와 일치하는 경우 수신 메일 서버는 사용자를 대신하여 보낸 이메일 Marketo를 수락할 가능성이 높습니다.
+DNS 레코드에서 공개 키를 설정하고 관리 섹션(A)에서 전송 도메인을 활성화하면 Marketo에서 보내는 메시지에 대해 사용자 지정 DKIM 서명을 켭니다. 이 서명에는 사용자를 대신하여 보낸 각 이메일(B)과 함께 암호화된 디지털 서명이 포함됩니다. 수신자는 발신 도메인의 DNS에서 &quot;공개 키&quot;를 조회하여 디지털 서명을 해독할 수 있습니다(C). 이메일의 키가 DNS 레코드의 키와 일치하는 경우 수신 메일 서버는 사용자를 대신하여 보낸 이메일 Marketo를 수락할 가능성이 높습니다.
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
 **DKIM을 어떻게 설정합니까?**
 
-[사용자 정의 DKIM 서명 설정](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}을 참조하십시오.
+[사용자 지정 DKIM 서명 설정](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}을 참조하세요.
 
 >[!MORELIKETHIS]
 >
->* SPF 및 SPF의 작동 방식에 대해 자세히 알아보기`: http://www.open-spf.org/Introduction/`
+>* SPF 및 작동 방식에 대해 자세히 알아보기: `http://www.open-spf.org/Introduction/`
 >* 내 SPF가 올바르게 설정되었습니까?: `https://www.kitterman.com/spf/validate.html`
 >* 올바른 구문을 사용했습니까?: `http://www.open-spf.org/SPF_Record_Syntax/`

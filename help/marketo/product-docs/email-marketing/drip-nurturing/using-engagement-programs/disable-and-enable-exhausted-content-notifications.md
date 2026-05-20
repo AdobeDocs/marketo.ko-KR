@@ -5,20 +5,18 @@ title: 소진된 콘텐츠 알림 비활성화 및 활성화
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/hbRQJScd6cxiS8k63hwN2HRKSZtviMFHB9xaBAeWt8U
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 96
-ht-degree: 16%
+source-wordcount: 93
+ht-degree: 15%
 
 ---
 
 # 소진된 콘텐츠 알림 비활성화 및 활성화 {#disable-and-enable-exhausted-content-notifications}
 
-사람들이 스트림의 모든 콘텐츠를 소진하면 Marketo에서 알림을 전송할 수 있습니다. 필요에 따라 알림을 비활성화/활성화할 수 있습니다. 방법은 다음과 같습니다.
+사람들이 스트림의 모든 콘텐츠를 소진하면 Marketo에서 알림을 전송할 수 있습니다. 필요에 따라 알림을 비활성화/활성화할 수 있습니다.
 
 1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
@@ -36,4 +34,4 @@ ht-degree: 16%
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
-   훌륭해! 알림을 활성화하면 스트림 자체에 표시되는 항목과 이메일 알림을 받을 수 있습니다.
+   알림을 활성화하면 스트림 자체에 표시되는 항목과 이메일 알림을 받을 수 있습니다.

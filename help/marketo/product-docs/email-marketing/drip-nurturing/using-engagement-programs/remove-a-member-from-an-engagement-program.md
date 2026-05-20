@@ -5,24 +5,22 @@ title: 참여 프로그램에서 멤버 제거
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/lVxZZEEceV59TpU7JaSUISp2L5HmSNHiv8Xy9vcymqQ
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 126
+source-wordcount: 118
 ht-degree: 13%
 
 ---
 
 # 참여 프로그램에서 멤버 제거 {#remove-a-member-from-an-engagement-program}
 
-죄송합니다! 그 사람들은 어떻게 들어갔지? **[!UICONTROL Change Program Status]** 흐름 단계를 사용하여 참여 프로그램에서 구성원을 제거할 수 있습니다.
+**[!UICONTROL Change Program Status]** 흐름 단계를 사용하여 참여 프로그램에서 구성원을 제거할 수 있습니다.
 
 >[!TIP]
 >
->이 항목을 사용하여 개인용 콘텐트를 일시 중지하지 마십시오. 그러면 분석의 모든 속성이 제거됩니다. [참여 프로그램에서 사용자를 일시 중지](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)하는 방법에 대해 자세히 알아보세요.
+>개인에 대한 콘텐츠를 일시 중지하는 데 사용하지 마십시오. 그러면 분석의 모든 속성이 제거됩니다. [참여 프로그램에서 사용자를 일시 중지](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)하는 방법에 대해 자세히 알아보세요.
 
 ## 플로우 단계 {#flow-step}
 
@@ -34,7 +32,7 @@ ht-degree: 13%
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   그루비 [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)에 정의한 모든 구성원이 더 이상 이 참여 프로그램에 참여하지 않습니다.
+   [스마트 목록](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)에 정의한 모든 구성원이 더 이상 이 참여 프로그램에 참여하지 않습니다.
 
 ## 직원 일시 중지  {#pause-people}
 

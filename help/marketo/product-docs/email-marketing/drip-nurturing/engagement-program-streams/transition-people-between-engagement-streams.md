@@ -5,20 +5,18 @@ title: 참여 스트림 간 사용자 전환
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/viGLYAkvGqF-9K5bhAHWDSOMYaiBuKRe8F2QginuYps
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 236
+source-wordcount: 228
 ht-degree: 5%
 
 ---
 
 # 참여 스트림 간 사용자 전환 {#transition-people-between-engagement-streams}
 
-참여 프로그램에는 두 개 이상의 스트림이 있을 수 있습니다. [스트림을 추가](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)하면 사람들이 한 스트림에서 다른 스트림으로 이동하는 방법을 정의하게 됩니다. 이를 **전환 규칙**&#x200B;이라고 합니다.
+참여 프로그램에는 두 개 이상의 스트림이 있을 수 있습니다. [스트림을 추가](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)하는 경우 사람들이 한 스트림에서 다른 스트림으로 이동할 수 있는 방법을 정의하세요. 이를 **전환 규칙**&#x200B;이라고 합니다.
 
 1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
@@ -36,11 +34,11 @@ ht-degree: 5%
    >
    >전환 규칙은 스트림으로 가져옵니다. 항상 가져올 스트림에 규칙을 정의합니다.
 
-   전환 규칙 창이 열리면 선택한 트리거를 찾아 드래그합니다. 이 경우 영업 기회에 추가되면 [!UICONTROL Mid Stage]&#x200B;(으)로 사람을 이동하려고 합니다.
+   전환 규칙 창이 열리면 선택한 트리거를 찾아 드래그합니다. 이 예제에서는 영업 기회에 추가되면 [!UICONTROL Mid Stage]&#x200B;(으)로 이동됩니다.
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. 사람들이 추가된 기회에 대해 이동할 수 있도록 연산자를 **[!UICONTROL is any]**(으)로 설정해 보겠습니다.
+1. 추가된 기회에 대해 사람들이 이동하도록 연산자를 **[!UICONTROL is any]**(으)로 설정하십시오.
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
@@ -52,7 +50,7 @@ ht-degree: 5%
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
-   잘됐네! 이제 참여 프로그램에서 영업 기회에 추가된 모든 사람이 [!UICONTROL Mid Stage] 스트림으로 이동됩니다.
+   이제 참여 프로그램에서 영업 기회에 추가된 모든 사람이 [!UICONTROL Mid Stage] 스트림으로 이동됩니다.
 
    ![](assets/image2014-9-15-18-3a11-3a29.png)
 

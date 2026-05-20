@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '1184'
-ht-degree: 14%
+source-wordcount: '1181'
+ht-degree: 11%
 
 ---
 
@@ -135,7 +135,7 @@ ht-degree: 14%
 
 >[!NOTE]
 >
->이메일 디자이너와 호환되는 외부 콘텐츠를 만들기 위해서는 메시지를 처음부터 만들고 기존 이메일의 콘텐츠를 구성 요소로 복사하는 것이 좋습니다.
+>외부 콘텐츠가 이메일 Designer을 준수하도록 하려면 메시지를 처음부터 만들고 기존 이메일의 콘텐츠를 구성 요소로 복사하는 것이 좋습니다.
 
 ## 이미지 {#image}
 
@@ -147,7 +147,7 @@ ht-degree: 14%
 
 1. **[!UICONTROL Settings]** 탭에서 **[!UICONTROL Browse]**&#x200B;을(를) 클릭하여 에셋에서 이미지 파일을 선택하거나 **[!UICONTROL Import media]**&#x200B;을(를) 클릭하여 에셋을 Adobe Experience Manager Assets에 업로드합니다.
 
-   [!DNL Adobe Experience Manager Assets]에 대한 자세한 내용은 [Adobe Experience Manager Assets 설명서](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=ko){target="_blank"}를 참조하세요.
+   [!DNL Adobe Experience Manager Assets]에 대한 자세한 내용은 [Adobe Experience Manager Assets 설명서](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}를 참조하세요.
 
    >[!NOTE]
    >
@@ -198,7 +198,7 @@ ht-degree: 14%
 
    스크린샷
 
-1. 드롭다운에서 **[!UICONTROL Placements]**&#x200B;을(를) 선택합니다.  그런 다음 콘텐츠에 추가할 **[!UICONTROL Offer decision]**&#x200B;을(를) 선택하고 **[!UICONTROL Add]**&#x200B;을(를) 클릭합니다.
+1. 드롭다운에서 **[!UICONTROL Placements]**&#x200B;을(를) 선택합니다. 그런 다음 콘텐츠에 추가할 **[!UICONTROL Offer decision]**&#x200B;을(를) 선택하고 **[!UICONTROL Add]**&#x200B;을(를) 클릭합니다.
 
    스크린샷
 

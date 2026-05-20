@@ -5,21 +5,13 @@ title: 참여 프로그램 스트림에 프로그램 추가
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/kI2v6drF78DnJhhEbgeVSi4TYbF5rExY2wgR0aAK-bI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 469
+source-wordcount: 471
 ht-degree: 4%
 
 ---
@@ -42,15 +34,15 @@ ht-degree: 4%
 
 * 프로그램의 멤버가 아닌 경우 프로그램의 일부인 모든 이메일을 한 번 받게 됩니다
 * 프로그램 회원인 경우 이메일을 받지 못합니다
-* 더 이상 회원이 아니지만 해당 프로그램을 통해 이메일을 먼저 받은 경우 이메일을 받지 못합니다
+* 더 이상 회원이 아니지만 해당 프로그램을 통해 이전에 이메일을 받은 경우 이메일을 받지 못합니다
 
-스트림에서 프로그램을 사용할 때 이전에 해당 이메일을 수신했는지 여부는 중요하지 않습니다. 해당 특정 프로그램&#x200B;*에서* 전에 전자 메일을 보내지 않았다면 다시 받을 수 있습니다.
+스트림에서 프로그램을 사용할 때 이전에 특정 이메일을 받았는지 여부는 중요하지 않습니다. 해당 특정 프로그램&#x200B;*에서* 전에 전자 메일을 보내지 않았다면 다시 받을 수 있습니다.
 
 참여 프로그램에서 이메일과 프로그램을 혼합하는 데 문제가 생길 수 있습니다. 둘 중 하나를 사용할 수도 있습니다.
 
 >[!TIP]
 >
->스마트 목록에서 **[!UICONTROL Member of Engagement Program]** 필터를 사용하십시오.
+>스마트 목록에서 **[!UICONTROL Member of Engagement Program]** 필터를 사용합니다.
 
 ## 스마트 목록 기준을 충족하지 않는 사람은 어떻게 됩니까? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 

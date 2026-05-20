@@ -7,9 +7,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 63d2e356-1a42-4cd2-b11f-3499f963c2dd
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '844'
 ht-degree: 1%
 
 ---
@@ -167,7 +167,7 @@ ht-degree: 1%
 
 1. 필요한 경우 가이드라인 또는 제외 중 하나를 선택하여 업데이트하거나 삭제합니다.
 
-1. 예를 편집하려면 &quot;편집&quot;을 클릭하고 삭제하려면 &quot;삭제&quot; 아이콘을 클릭하십시오.
+1. 항목을 편집하려면 **[!UICONTROL Edit]** 아이콘을 클릭하고 삭제하려면 **[!UICONTROL Delete]** 아이콘을 클릭하십시오.
 
    스크린샷
 

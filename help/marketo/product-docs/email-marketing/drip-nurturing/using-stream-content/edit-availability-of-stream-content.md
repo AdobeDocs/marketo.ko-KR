@@ -5,14 +5,12 @@ title: 스트림 콘텐츠의 가용성 편집
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/nQXJWaWOVHjixXZjZm4wNCeP-Jq0cEr9b2SWJUBut4Y
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 116
-ht-degree: 10%
+ht-degree: 8%
 
 ---
 
@@ -36,6 +34,6 @@ ht-degree: 10%
    >
    >콘텐츠를 영원히 사용할 수 있도록 **[!UICONTROL Active Through]**&#x200B;을(를) 비워 둘 수 있습니다.
 
-   완벽해! 예약된 콘텐츠 옆에 시계 아이콘이 표시됩니다. 설정한 일정에 따라 활성화 및 비활성화됩니다.
+   예약된 콘텐츠 옆에 시계 아이콘이 표시됩니다. 설정한 일정에 따라 활성화 및 비활성화됩니다.
 
    ![](assets/image2014-9-15-17-3a36-3a4.png)
