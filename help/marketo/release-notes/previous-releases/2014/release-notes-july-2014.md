@@ -4,10 +4,21 @@ description: 릴리스 노트 - 2014년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2014년 7월
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ztiNePeKURvJ6rBPeI5QWPv7Qsioz5RvGn6kbRik8G4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 2%
+source-wordcount: 442
+ht-degree: 4%
 
 ---
 
@@ -31,7 +42,7 @@ ht-degree: 2%
 
 ## 날짜 연산자 {#date-operators}
 
-&quot;[&quot;, &quot;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)&quot; 및 &quot;[!UICONTROL in past before]&quot;에 대한 [!UICONTROL in future]고급 필터[!UICONTROL in future after]. 예를 들어, 생년월일이 3개월 이내인 잠재 고객 또는 6개월 후 만료되는 계약을 찾습니다.
+&quot;[!UICONTROL in past before]&quot;, &quot;[!UICONTROL in future]&quot; 및 &quot;[!UICONTROL in future after]&quot;에 대한 [고급 필터](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md). 예를 들어, 생년월일이 3개월 이내인 잠재 고객 또는 6개월 후 만료되는 계약을 찾습니다.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 

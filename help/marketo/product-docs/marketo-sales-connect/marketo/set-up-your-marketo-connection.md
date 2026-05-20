@@ -3,9 +3,14 @@ description: Sales Connect에서 Marketo 연결을 설정하는 방법을 알아
 title: Marketo 연결 설정
 exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/7fRQ1yvSR3t4KrxEv8Au-sSkM6dRrsLy-TG9Kyt42UI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: 168
 ht-degree: 5%
 
 ---
@@ -14,7 +19,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->MSC를 프로비저닝하면 Marketo에서 자격 증명을 [!DNL Sales Connect]에 자동으로 보내고 인스턴스를 Marketo에 연결합니다. 이 단계는 **인스턴스가 프로비저닝된 후** 연결이 설정되지 않은 경우에만 [!DNL Sales Connect]필요합니다. 연결이 설정되면 Marketo 관리 설정 페이지에 입력한 자격 증명이 표시됩니다.
+>MSC를 프로비저닝하면 Marketo에서 자격 증명을 [!DNL Sales Connect]에 자동으로 보내고 인스턴스를 Marketo에 연결합니다. 이 단계는 [!DNL Sales Connect] 인스턴스가 프로비저닝된 후 **연결이 설정되지 않은 경우에만**&#x200B;필요합니다. 연결이 설정되면 Marketo 관리 설정 페이지에 입력한 자격 증명이 표시됩니다.
 
 ## [!DNL Sales Connect]을(를) Marketo에 연결하기 전에 자격 증명을 가져오는 중 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 

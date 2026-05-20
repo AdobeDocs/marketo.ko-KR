@@ -4,9 +4,14 @@ description: 프로그램 멤버 사용자 지정 필드 토큰에 대해 알아
 title: 프로그램 멤버 사용자 정의 필드 토큰
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/B2oY6BKJdd92AAsMPHZV8Ffyc-9jKGRpATqles6TUos
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: 423
 ht-degree: 5%
 
 ---

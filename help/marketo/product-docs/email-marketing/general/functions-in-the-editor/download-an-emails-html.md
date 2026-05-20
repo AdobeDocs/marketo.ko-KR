@@ -4,9 +4,12 @@ description: 이메일의 HTML을 다운로드하는 방법을 알아봅니다. 
 title: 이메일의 HTML 다운로드
 exl-id: e749c520-6ae6-4460-89b7-6de3b39ef2c7
 feature: Email Editor
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/N7WTqKr4DGzqaMZXSp7HMdMLfKMEQt-Rg-bVH8THbLQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: 57
 ht-degree: 14%
 
 ---

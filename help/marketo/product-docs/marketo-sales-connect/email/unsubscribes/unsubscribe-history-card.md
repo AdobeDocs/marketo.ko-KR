@@ -4,9 +4,12 @@ description: Sales Connect의 구독 취소 기록 카드에 대해 알아봅니
 title: 구독 취소 기록 카드
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/AogYVGru2hgF-2rVus2wl96P7DqQ4MeN0Ib6jsvTgYI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: 154
 ht-degree: 3%
 
 ---

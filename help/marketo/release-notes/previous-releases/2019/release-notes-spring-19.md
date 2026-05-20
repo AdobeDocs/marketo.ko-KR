@@ -3,9 +3,26 @@ unique-page-id: 17728380
 description: 릴리스 노트 - 2019년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2019년 봄
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/o63AwYraOGknprRVOS0i6gMRhp9JfFnVSmbK4wHOjgE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: 466
 ht-degree: 0%
 
 ---
@@ -47,7 +64,7 @@ Account-Based Marketing
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **향상된 감사**: 다른 사용자가 만든 [기존 캠페인을 종료](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)할 수 있는 기능이 추가된 인스턴스에서 모든 사람, 전자 메일 및 [콘텐츠](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)에 대한 새로운 가시성
+* **향상된 감사**: 다른 사용자가 만든 [기존 캠페인을 종료](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)할 수 있는 기능이 추가된 인스턴스에서 모든 사람, 전자 메일 및 [콘텐츠](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)에 대한 새로운 가시성
 * **[관리 구독 취소](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: [전자 메일 도메인 차단](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) 기능에 따라 게재 능력을 최대화하고 규정을 준수합니다. Marketo은 이메일을 보내기 전에 가입 해지용 리드 데이터베이스를 상호 참조합니다.
 
 ## Marketo의 [!DNL Bizible] {#bizible-by-marketo}

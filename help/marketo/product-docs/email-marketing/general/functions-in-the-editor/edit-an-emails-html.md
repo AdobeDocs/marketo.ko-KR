@@ -4,9 +4,12 @@ description: 이메일의 HTML을 직접 편집하는 방법을 알아봅니다.
 title: 이메일의 HTML 편집
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/2le08a9sTBmn-jV6KfW-OzXJg-7MKlfbZM5kPdZ-3WM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: 346
 ht-degree: 4%
 
 ---
@@ -50,7 +53,7 @@ ht-degree: 4%
 * 컨테이너에서 모듈 삭제
 
 * 모듈 외부에 있는 요소의 mkto 관련 속성(예: &quot;mktoName&quot; 또는 &quot;mktoImgUrl&quot;) 변경
-* 모듈 외부의 모든 요소(리치 텍스트, 이미지, 비디오 등)의 콘텐츠 편집
+* 요소의 콘텐츠 편집(리치 텍스트, 이미지, 비디오 등) 모듈 외부
 
 코드 편집기 **will**&#x200B;에서 수행할 수 있는 작업은 해당 템플릿에서 전자 메일을 중단합니다.
 

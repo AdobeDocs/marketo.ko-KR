@@ -3,9 +3,12 @@ description: 영업 Insight 작업에서 내 탭 및 이메일 참여 상태를 
 title: 내 탭 이해
 exl-id: 7663f2f3-5266-4ef0-a719-f6630cc0f427
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/sr-slN0Q4-YvQmDO1Axn1fzvSq8ePLP6sxBLKkBwkls
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: 106
 ht-degree: 3%
 
 ---

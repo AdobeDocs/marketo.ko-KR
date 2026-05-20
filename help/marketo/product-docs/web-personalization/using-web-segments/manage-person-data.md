@@ -4,9 +4,19 @@ description: 개인 데이터 관리 - 개인 데이터 관리를 포함하여 M
 title: 사용자 데이터 관리
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/rIiC-JXLkaMByk7GizVOcCEcUHN8AL-8Hy66-U2GZhs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: 209
 ht-degree: 12%
 
 ---
@@ -63,7 +73,7 @@ ht-degree: 12%
   </tr>
   <tr>
    <td><p>제목</p></td>
-   <td><p>제목</p></td>
+   <td><p>직함</p></td>
    <td><p>직위</p></td>
   </tr>
   <tr>
@@ -74,7 +84,7 @@ ht-degree: 12%
   <tr>
    <td><p>잠재 고객 스코어</p></td>
    <td><p>잠재 고객 스코어</p></td>
-   <td><p>점수</p></td>
+   <td><p>스코어</p></td>
   </tr>
   <tr>
    <td><p>잠재 고객 상태</p></td>
@@ -83,8 +93,8 @@ ht-degree: 12%
   </tr>
   <tr>
    <td><p>우선 순위</p></td>
-   <td><p>우선순위</p></td>
-   <td><p>우선순위</p></td>
+   <td><p>우선 순위</p></td>
+   <td><p>우선 순위</p></td>
   </tr>
   <tr>
    <td><p>리드 역할</p></td>

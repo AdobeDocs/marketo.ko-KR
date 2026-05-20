@@ -2,9 +2,14 @@
 description: Marketo Design Studio의 이미지 편집기에 대해 알아봅니다. Marketo을 종료하지 않고 이미지를 자르고, 크기를 조정하고, 기본 편집을 수행할 수 있습니다.
 title: 이미지 편집기
 exl-id: fef96635-3011-4549-9c40-e92c3f33c398
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/-yOiblNuK6ZI6QIgIE74viMfcp0aOgN1EPkJfYj5Cyw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: 66
 ht-degree: 10%
 
 ---

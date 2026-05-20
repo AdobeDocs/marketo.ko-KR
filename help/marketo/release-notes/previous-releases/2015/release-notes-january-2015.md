@@ -4,10 +4,20 @@ description: 릴리스 노트 - 2015년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2015년 1월
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/NrxOOJ5YBCQW4FtOB2Ki-oMlhy8VwVWOhO6BmjaEkFM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 1%
+source-wordcount: 385
+ht-degree: 3%
 
 ---
 
@@ -21,7 +31,7 @@ ht-degree: 1%
 
 이제 랜딩 페이지 편집기 내에서 [랜딩 페이지의 모바일 보기를 빌드](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)할 수 있습니다. 장치에 관계없이 메시지를 효과적으로 전달하고, 콘텐츠를 맞춤화하여 이동 중에도 쉽게 사용할 수 있도록 하여 참여도를 높이십시오. 이 기능은 릴리스 후 일주일 동안 점진적으로 롤아웃됩니다.
 
-[&#x200B; 랜딩 페이지 워크스루 비디오-](https://youtu.be/aPQHlG2X6c0)
+[-랜딩 페이지 안내 비디오-](https://youtu.be/aPQHlG2X6c0)
 
 **새 REST API 호출**
 
@@ -39,7 +49,7 @@ ht-degree: 1%
 
 ## Real-Time Personalization {#real-time-personalization}
 
-Google 및 **에 대해[!DNL Facebook]**&#x200B;개인화된 리마케팅
+Google 및 [!DNL Facebook]&#x200B;**에 대해**&#x200B;개인화된 리마케팅
 
 리마케팅은 웹 사이트를 방문한 사람에게 광고를 표시합니다. 이제 Real-Time Personalization의 데이터를 사용하여 [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) 및 [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)에서 리마케팅 캠페인을 개인화할 수 있습니다. 다른 업계의 대상, 명명된 계정 목록, 회사 규모 또는 알려진 잠재 고객의 데이터를 리마케팅합니다.
 

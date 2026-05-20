@@ -4,9 +4,12 @@ description: Salesforce에 Sales Connect 단추를 추가하는 방법을 알아
 title: Salesforce에 Sales Connect 버튼 추가
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/m4Qn3b3J8l0y6Qoedfo5-Mc6FCeEKcy01k87KCNr3YY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: 139
 ht-degree: 4%
 
 ---
@@ -29,10 +32,10 @@ ht-degree: 4%
 
 1. 리드/연락처/계정에 대한 페이지 레이아웃을 편집합니다.
 1. 단추 섹션을 선택합니다.
-1. **[!UICONTROL Call with MSC]** 단추를 가져와서 **[!UICONTROL Custom Buttons]**&#x200B;의 [!UICONTROL Details] 섹션으로 끌어옵니다.
+1. **[!UICONTROL Call with MSC]** 단추를 가져와서 [!UICONTROL Details]의 **[!UICONTROL Custom Buttons]** 섹션으로 끌어옵니다.
 
 ## Campaign에 추가 {#add-to-campaign}
 
 1. 리드/연락처/계정에 대한 페이지 레이아웃을 편집합니다.
 1. [!UICONTROL Buttons]의 섹션을 선택하십시오.
-1. **[!UICONTROL Add to MSC Campaign]** 단추를 가져와서 **[!UICONTROL Custom Buttons]**&#x200B;의 [!UICONTROL Details] 섹션으로 끌어옵니다.
+1. **[!UICONTROL Add to MSC Campaign]** 단추를 가져와서 [!UICONTROL Details]의 **[!UICONTROL Custom Buttons]** 섹션으로 끌어옵니다.

@@ -3,9 +3,12 @@ description: 판매 Insight 작업에서 연락처 그룹을 관리하는 방법
 title: 그룹 관리
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/yN7o-BB4oNeM-x78M5-CH3WDctyqoO-mlZriZGGRn8A
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: 324
 ht-degree: 3%
 
 ---

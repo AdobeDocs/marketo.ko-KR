@@ -4,9 +4,14 @@ description: Marketo에서 양식 감사 페이지를 설정하는 방법에 대
 title: 감사 페이지 양식 설정
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/XSvtQnIKuj2A-YV-boONuf7516YTUjqsq5myRhtqIVE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: 334
 ht-degree: 5%
 
 ---

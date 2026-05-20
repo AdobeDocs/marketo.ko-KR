@@ -4,16 +4,19 @@ description: 모든 콘텐츠 페이지 또는 콘텐츠 편집 팝업에서 예
 title: 예측 콘텐츠 제목 승인
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/3-hDzblZeRwe-GfwFAqz3dx7BVrJAl0rI0iS8moK8J4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: 140
 ht-degree: 12%
 
 ---
 
 # 예측 콘텐츠 제목 승인 {#approve-a-title-for-predictive-content}
 
-[!UICONTROL All Content] 페이지 또는 [!UICONTROL All Content] 팝업에서 승인하여 [!UICONTROL Edit Content] 페이지의 제목을 예측 콘텐츠에 추가할 수 있습니다.
+[!UICONTROL All Content] 페이지 또는 [!UICONTROL Edit Content] 팝업에서 승인하여 [!UICONTROL All Content] 페이지의 제목을 예측 콘텐츠에 추가할 수 있습니다.
 
 ## [!UICONTROL All Content] 페이지 {#all-content-page}
 
@@ -33,7 +36,7 @@ ht-degree: 12%
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. **[!UICONTROL Approve for Predictive Content]** 팝업에서 [!UICONTROL Edit Content] 상자를 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL Edit Content] 팝업에서 **[!UICONTROL Approve for Predictive Content]** 상자를 선택하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 

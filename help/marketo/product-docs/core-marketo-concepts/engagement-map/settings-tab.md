@@ -2,9 +2,14 @@
 description: Smart Campaign 자격 규칙, 실행 및 반복에 대한 설정 탭에 대해 알아봅니다. 사람들이 캠페인 플로우를 통해 실행하는 빈도를 설정합니다.
 title: 설정 탭
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/Qk7st47AobYHVid3SsHeNHSRVfWKiPqm11moqgomYjk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: 324
 ht-degree: 2%
 
 ---

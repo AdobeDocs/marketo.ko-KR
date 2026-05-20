@@ -2,9 +2,12 @@
 description: 판매 캠페인이 종료된 이유를 이해합니다. 수동 종료, 회신 설정, 바운스 제거 및 자동 종료 조건에 대해 알아봅니다.
 title: 내 캠페인이 종료된 이유는 무엇입니까?
 exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/jlwVQCOdIRz0kG4wW8QwhnKhSC8dQ2koR-E8Szrt8mI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: 90
 ht-degree: 11%
 
 ---

@@ -2,9 +2,14 @@
 description: Salesforce에서 판매 Insight 작업에 대한 사용자 지정 활동 필드를 추가하는 방법을 알아봅니다. 설정에서 활동 사용자 정의 필드를 만들어 호출 결과, 이유 등을 기록합니다.
 title: 세일즈 활동 속성을 Salesforce에 로깅
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/eHt6JXey7ZwZ8RjqTsGxqcFjun73vh3s4zk3cCqAiq8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: 241
 ht-degree: 13%
 
 ---

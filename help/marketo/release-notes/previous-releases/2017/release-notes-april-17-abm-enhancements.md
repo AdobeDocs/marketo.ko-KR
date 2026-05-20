@@ -4,9 +4,12 @@ description: 릴리스 노트 - 2017년 4월 ABM 개선 사항 - Marketo 문서 
 title: 릴리스 노트 - 2017년 4월 ABM 개선 사항
 exl-id: 2b8b1ed2-de57-42c2-a3f5-3b49895d7595
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/noMsArEWgsfva-i-aBQkQUmhsnVPNRhZHmbodhGcExU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: 136
 ht-degree: 4%
 
 ---

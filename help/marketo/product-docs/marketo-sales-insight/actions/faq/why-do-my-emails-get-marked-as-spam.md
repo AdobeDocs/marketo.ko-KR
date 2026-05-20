@@ -2,9 +2,16 @@
 description: 판매 이메일이 스팸으로 표시되면 도움을 받으십시오. 일반적인 원인 및 전달성과 발신자의 신뢰도를 향상시키는 방법에 대해 알아봅니다.
 title: 내 이메일이 스팸으로 표시되는 이유는 무엇입니까?
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/8DHDyZWQZ5vyTv1iM5arj52XJf9cnS2ZmSKQCzvXLCU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: 206
 ht-degree: 7%
 
 ---

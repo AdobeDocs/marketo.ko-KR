@@ -4,10 +4,17 @@ description: dnl의 개인화된 리마케팅을 포함하여 Marketo Engage의 
 title: Facebook의 개인화된 리마케팅
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/Pm54eQ-MPJ2hQeKyK2jFWHqjy1-t69Kzd2LB8fNcIKo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 8%
+source-wordcount: 312
+ht-degree: 7%
 
 ---
 
@@ -18,7 +25,7 @@ ht-degree: 8%
 >[!PREREQUISITES]
 >
 >* [웹 Personalization 데이터를 사용하여 다시 타깃팅](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 설정을 완료합니다.
->* 사용자 지정 대상[&#x200B; 및 리마케팅에 대한 &#x200B;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [&#x200B; &#x200B;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Facebook 설명서를 검토하십시오.
+>* 사용자 지정 대상[&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) 및 리마케팅에 대한 [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook 설명서를 검토하십시오.
 
 ## [!DNL Facebook]에서 대상을 만드는 중 {#creating-an-audience-in-facebook}
 
@@ -48,7 +55,7 @@ ht-degree: 8%
 
 ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. 이 예제에서는 [!UICONTROL Industry]을(를) 포함할 **[!UICONTROL Education]**&#x200B;을(를) 선택합니다. **[!UICONTROL Education]**&#x200B;을(를) 입력하고 **[!UICONTROL In the Last]**&#x200B;을(를) 180일로 편집합니다. 대상 이름 입력: **교육 산업**. **[!UICONTROL Create Audience]**&#x200B;를 클릭합니다.
+1. 이 예제에서는 **[!UICONTROL Education]**&#x200B;을(를) 포함할 [!UICONTROL Industry]을(를) 선택합니다. **[!UICONTROL Education]**&#x200B;을(를) 입력하고 **[!UICONTROL In the Last]**&#x200B;을(를) 180일로 편집합니다. 대상 이름 입력: **교육 산업**. **[!UICONTROL Create Audience]**&#x200B;를 클릭합니다.
 
 ![](assets/image2015-1-19-16-3a56-3a15.png)
 

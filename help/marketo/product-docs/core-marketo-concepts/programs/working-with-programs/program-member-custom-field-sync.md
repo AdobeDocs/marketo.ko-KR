@@ -3,9 +3,14 @@ description: Salesforce과의 프로그램 구성원 사용자 정의 필드 동
 title: 프로그램 멤버 사용자 정의 필드 동기화
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/rR7HHgLCt3VxiUuLvC7XgJXH0PYiO71PDqXq3FGogk8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: 343
 ht-degree: 10%
 
 ---
@@ -45,7 +50,7 @@ ht-degree: 10%
 
    >[!NOTE]
    >
-   >드롭다운에는 [!UICONTROL Program Member Custom Fields] 필드의 데이터 형식과 일치하는 [!DNL Salesforce]만 표시됩니다.
+   >드롭다운에는 [!DNL Salesforce] 필드의 데이터 형식과 일치하는 [!UICONTROL Program Member Custom Fields]만 표시됩니다.
 
 1. 추가 필드 매핑의 경우 검색 상자를 지우고 3~5단계를 반복합니다.
 

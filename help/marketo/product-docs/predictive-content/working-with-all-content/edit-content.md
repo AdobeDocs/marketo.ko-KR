@@ -4,9 +4,12 @@ description: 제목, URL, 카테고리 및 예측 승인에 대한 모든 콘텐
 title: 콘텐츠 편집
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/oD18RRwL0cNaf-2SfsnlYD7DoxtjG9R5bzfS2JUpjh0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: 96
 ht-degree: 7%
 
 ---

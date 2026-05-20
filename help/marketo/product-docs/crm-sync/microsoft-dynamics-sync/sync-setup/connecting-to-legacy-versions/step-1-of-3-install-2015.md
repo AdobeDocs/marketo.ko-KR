@@ -4,9 +4,12 @@ description: Dynamics 2015용 Marketo 솔루션을 온프레미스에 설치하�
 title: Microsoft Dynamics 2015 온-프레미스 단계 1/3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/i6ILYEtzZ2vJnyELO-Zb8T-hRh0b2yVzbHaOzIEkF-k
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: 287
 ht-degree: 1%
 
 ---

@@ -4,16 +4,21 @@ description: Sales Connect 작업을 Salesforce과 처음 동기화하는 방법
 title: Sales Connect 작업을 Salesforce와 처음 동기화
 exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/5anDeeHVD0mkZLIac5rTb4vW7iiiOBHDBgQKUf5lv4Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: 267
 ht-degree: 3%
 
 ---
 
 # [!DNL Sales Connect]개 작업을 [!DNL Salesforce]과(와) 처음 동기화 중 {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-[!DNL Sales Connect]과(와) [!DNL Salesforce] 작업 간의 동기화를 처음 켜면 [!DNL Salesforce] 작업을 가져옵니다. **에 있는 현재 작업을**(으)로 [!DNL Sales Connect]not[!DNL Salesforce] 푸시합니다. 혼란을 줄이고 중복을 줄이기 위해 [!DNL Sales Connect]에서 [!DNL Salesforce]&#x200B;(으)로 동기화되는 작업은 *을(를) SFDC과 동기화하는*&#x200B;이후[!DNL Sales Connect]에 만들어진 작업뿐입니다.
+[!DNL Sales Connect]과(와) [!DNL Salesforce] 작업 간의 동기화를 처음 켜면 [!DNL Salesforce] 작업을 가져옵니다. [!DNL Sales Connect]에 있는 현재 작업을 [!DNL Salesforce]&#x200B;(으)로 **not** 푸시합니다. 혼란을 줄이고 중복을 줄이기 위해 [!DNL Sales Connect]에서 [!DNL Salesforce]&#x200B;(으)로 동기화되는 작업은 [!DNL Sales Connect]을(를) SFDC과 동기화하는 *이후*&#x200B;에 만들어진 작업뿐입니다.
 
 [!DNL Sales Connect] 및 SFDC 작업을 동기화할 때 발생하는 상황은 다음과 같습니다.
 

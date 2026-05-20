@@ -4,9 +4,16 @@ description: Marketo Engage의 정적 목록을 사용하여 세그먼트를 만
 title: 정적 목록을 사용하여 세그먼트 만들기
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/XiW8i6vn-Io7S19hxtaQ1om1Yt6BJTsHffB6QvKyxE4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: 174
 ht-degree: 9%
 
 ---
@@ -47,6 +54,6 @@ ht-degree: 9%
    >
    >및/또는 드롭다운은 바로 그것입니다. **[!UICONTROL and]**, **[!UICONTROL or]** 또는 **[!UICONTROL and/or]**&#x200B;을(를) 선택하려면 클릭하세요.
 
-1. 세그먼트를 저장하려면 **[!UICONTROL Save]**&#x200B;을 클릭하고, 저장하고 **[!UICONTROL Save & Define Campaign]** 페이지로 이동하려면 [!UICONTROL Campaigns]을 클릭합니다.
+1. 세그먼트를 저장하려면 **[!UICONTROL Save]**&#x200B;을 클릭하고, 저장하고 [!UICONTROL Campaigns] 페이지로 이동하려면 **[!UICONTROL Save & Define Campaign]**&#x200B;을 클릭합니다.
 
    ![](assets/eight-1.png)

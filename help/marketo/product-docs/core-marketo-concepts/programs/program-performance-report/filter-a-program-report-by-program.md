@@ -4,9 +4,14 @@ description: 프로그램별로 프로그램 보고서를 필터링하는 방법
 title: 프로그램별로 프로그램 보고서 필터링
 exl-id: 8be2ac9e-7331-4a0d-80d6-ea2e82215919
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/EUXoYeXLupSW-I-Tw6wAPZIaKiMbRL30nqSllUwCDSI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: 103
 ht-degree: 11%
 
 ---
@@ -35,7 +40,7 @@ ht-degree: 11%
    >
    >폴더를 선택하면 보고서가 실행될 때 폴더에 포함된 모든 내용이 보고서에 포함됩니다.
 
-1. 그게 다야! 보고서에서 선택한 프로그램을 **[!UICONTROL Report]** just _하려면_ 탭을 클릭하십시오.
+1. 그게 다야! 보고서에서 선택한 프로그램을 _just_&#x200B;하려면 **[!UICONTROL Report]** 탭을 클릭하십시오.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 

@@ -4,16 +4,23 @@ description: Salesforce AppExchange에서 Marketo Sales Insight 패키지를 설
 title: Salesforce AppExchange에서 Marketo Sales Insight 패키지 설치
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/Avewt9joDG0k3TR0MF1jvqtQsS-GQeKKNnfARk8Xffk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: 220
 ht-degree: 6%
 
 ---
 
-# [!DNL Marketo Sales Insight] AppExchange에 [!DNL Salesforce] 패키지 설치 {#install-marketo-sales-insight-package-in-salesforce-appexchange}
+# [!DNL Salesforce] AppExchange에 [!DNL Marketo Sales Insight] 패키지 설치 {#install-marketo-sales-insight-package-in-salesforce-appexchange}
 
-[!DNL Marketo Sales Insight]에서 제공하는 혜택을 모두 이용하려면 먼저 [!DNL Salesforce] 구독에 [!DNL Sales Insight] 앱을 설치해야 합니다. 방법은 다음과 같습니다.
+[!DNL Sales Insight]에서 제공하는 혜택을 모두 이용하려면 먼저 [!DNL Salesforce] 구독에 [!DNL Marketo Sales Insight] 앱을 설치해야 합니다. 방법은 다음과 같습니다.
 
 >[!NOTE]
 >
@@ -23,7 +30,7 @@ ht-degree: 6%
 >
 >[!DNL Marketo Sales Insight]은(는) [!DNL Salesforce] 플랫폼(Shield) 암호화와 호환됩니다.
 
-1. [&#x200B; [!DNL Marketo Sales Insight]의 &#x200B;](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)AppExchange 페이지로 이동한 다음 **[!UICONTROL Get it Now]**&#x200B;을(를) 클릭합니다.
+1. [!DNL Marketo Sales Insight][&#128279;](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)의 AppExchange 페이지로 이동한 다음 **[!UICONTROL Get it Now]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
@@ -57,7 +64,7 @@ ht-degree: 6%
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-7.png)
 
-1. &quot;[!UICONTROL objects]&quot;을(를) 검색한 다음 **[!UICONTROL Objects]** 아래의 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
+1. &quot;[!UICONTROL objects]&quot;을(를) 검색한 다음 **[!UICONTROL Create]** 아래의 **[!UICONTROL Objects]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-8.png)
 

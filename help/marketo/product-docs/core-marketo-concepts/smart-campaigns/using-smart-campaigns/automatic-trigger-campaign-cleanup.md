@@ -4,9 +4,14 @@ description: 자동 트리거 캠페인 정리에 대해 알아봅니다. Market
 title: 자동 트리거 캠페인 정리
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/KygJNZIAwzO7OzNBHiVwXAylH7mRg31v-bPII53SFD8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: 236
 ht-degree: 3%
 
 ---

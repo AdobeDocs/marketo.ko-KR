@@ -4,9 +4,16 @@ description: 릴리스 노트 - 2013년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2013년 6월
 exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/eQePp2FMfxvMsOkO3n0zHR3CkprQ0asS3oa9PzurWqw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: 161
 ht-degree: 2%
 
 ---
@@ -35,7 +42,7 @@ ht-degree: 2%
 
 ## 여러 모델 {#multiple-models}
 
-커뮤니티의 RCA(Revenue Cycle Analytics)에 대한 최상위 아이디어로서 이 기능을 사용하면 여러 모델을 만들어 제품 라인, 비즈니스 단위 또는 지역별로 수익 단계를 보다 자세히 이해할 수 있습니다. 이제 매출 단계, 성공 경로 분석기, 프로그램 분석기 및 매출 탐색기 보고서별 잠재 고객 수가 보고를 위한 특정 모델을 선택하는 기능을 지원합니다.
+커뮤니티에서 RCA(Revenue Cycle Analytics)에 대한 최상위 아이디어로서 이 기능을 사용하면 여러 모델을 만들어 제품 라인, 비즈니스 단위 또는 지역별 funnel 매출을 보다 자세히 이해할 수 있습니다. 이제 매출 단계, 성공 경로 분석기, 프로그램 분석기 및 매출 탐색기 보고서별 잠재 고객 수가 보고를 위한 특정 모델을 선택하는 기능을 지원합니다.
 
 기본적으로 Select SMB Edition에는 두 가지 모델이, Enterprise Edition에는 15가지 모델이 제공됩니다. 추가 모델을 구입할 수도 있습니다.
 

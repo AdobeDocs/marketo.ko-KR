@@ -4,10 +4,17 @@ description: Salesforce에서 다국어 지원을 위해 Marketo Sales Insight�
 title: Salesforce에서 다국어 지원을 위해 Sales Insight 준비
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/OyeA8IbYicPJp56c6epuyFqr619J8sMQA4hmT--kry8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 11%
+source-wordcount: 216
+ht-degree: 12%
 
 ---
 
@@ -75,7 +82,7 @@ Marketo Sales Insight은 언어로 저장됩니다. 따라서 두 개 이상의 
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. **[!UICONTROL Personal Information]** 아래의 **[!UICONTROL My Personal Information]**&#x200B;을(를) 클릭합니다.
+1. **[!UICONTROL My Personal Information]** 아래의 **[!UICONTROL Personal Information]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 

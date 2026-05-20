@@ -1,11 +1,11 @@
 ---
 description: 복제 프로그램은 기존 Marketo 프로그램을 새 이름의 새 폴더에 복제하여 구조를 유지하면서 새 캠페인을 사용자 지정할 수 있도록 합니다.
 title: 프로그램 복제
-beta: true
+badge: Beta
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '501'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 0%
 >* 대상 폴더에 프로그램을 만들 권한이 있어야 합니다.
 >
 >* 복제하려는 소스 프로그램이 Marketo 환경에 이미 있어야 합니다.
+
+>[!AVAILABILITY]
+>
+>이 기능은 비공개 베타 버전이며 현재 다음 몇 달에 걸쳐 단계적으로 롤아웃할 예정입니다. 내 Marketo 화면에서 _AI로 빌드_ 타일이 표시되면 구독이 활성화된 시기를 알 수 있습니다.
 
 ## 사용 방법 {#how-to-use}
 

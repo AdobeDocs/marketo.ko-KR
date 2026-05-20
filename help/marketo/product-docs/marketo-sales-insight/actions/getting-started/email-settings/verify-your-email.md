@@ -3,9 +3,12 @@ description: 영업 Insight 작업에서 이메일 주소를 확인하는 방법
 title: 이메일 확인
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/gnaq-fRUM78yr5TheemvKA2um7Pb7yMaqec3Zjeaaag
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: 112
 ht-degree: 12%
 
 ---

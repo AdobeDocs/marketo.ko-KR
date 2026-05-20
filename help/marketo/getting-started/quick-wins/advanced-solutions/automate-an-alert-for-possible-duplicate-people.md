@@ -4,9 +4,12 @@ description: 중복될 수 있는 사용자에 대한 경고 자동화 - Marketo
 title: 중복 가능성이 있는 사용자에 대한 알림 자동화
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: 157
 ht-degree: 8%
 
 ---

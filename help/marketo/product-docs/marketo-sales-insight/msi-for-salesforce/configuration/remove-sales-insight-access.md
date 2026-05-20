@@ -3,16 +3,23 @@ description: Salesforce의 사용자 또는 프로필에서 Sales Insight 액세
 title: Sales Insight 액세스 제거
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/KkpOo6sg-kURyX5ncltrYry0JdLWYMzj-CzDP7F-Zp8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: 343
 ht-degree: 4%
 
 ---
 
 # [!DNL Sales Insight] 액세스 제거 {#remove-sales-insight-access}
 
-[!DNL Sales Insight]의 [!DNL Salesforce] 기능에 대한 액세스를 제거하려면 다음 단계를 사용하십시오. [!DNL Salesforce] 클래식 및 번개에 적용할 수 있습니다.
+[!DNL Salesforce]의 [!DNL Sales Insight] 기능에 대한 액세스를 제거하려면 다음 단계를 사용하십시오. [!DNL Salesforce] 클래식 및 번개에 적용할 수 있습니다.
 
 ## 개요 {#overview}
 
@@ -85,9 +92,9 @@ ht-degree: 4%
 
 1. 업데이트할 프로필을 클릭한 다음 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
-1. [!UICONTROL Custom Tab Settings] 아래의 &quot;[!UICONTROL Tab Settings]&quot;(으)로 스크롤합니다.
+1. [!UICONTROL Tab Settings] 아래의 &quot;[!UICONTROL Custom Tab Settings]&quot;(으)로 스크롤합니다.
 
-1. [!UICONTROL Tab Hidden] 구성 및 MSI [!DNL Marketo Sales Insight] 보낼 편지함에 대한 드롭다운에서 &quot;[!DNL Marketo Sales]&quot; 옵션을 선택합니다.
+1. [!DNL Marketo Sales Insight] 구성 및 MSI [!DNL Marketo Sales] 보낼 편지함에 대한 드롭다운에서 &quot;[!UICONTROL Tab Hidden]&quot; 옵션을 선택합니다.
 
    ![](assets/remove-sales-insight-access-2.png)
 

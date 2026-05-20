@@ -3,9 +3,14 @@ description: 미리 알림 작업이 Salesforce과 동기화되는 방법을 알
 title: Salesforce와 알림 작업 동기화
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/gdFjsLxx8GJmpfRtTPWD-DBv8AHkfKPQIDuLrwpZALw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: 500
 ht-degree: 1%
 
 ---
@@ -63,7 +68,7 @@ ht-degree: 1%
 
 ## [!DNL Sales Insight Actions]개 작업을 [!DNL Salesforce]과(와) 처음 동기화 중 {#syncing-sales-insight-actions-tasks-with-salesforce-for-the-first-time}
 
-[!DNL Sales Insight Actions]과(와) [!DNL Salesforce] 작업 간의 동기화를 처음 켜면 [!DNL Salesforce] 작업을 가져옵니다. **에 있는 현재 작업을**(으)로 [!DNL Sales Insight Actions]not[!DNL Salesforce] 푸시합니다. 혼란을 줄이고 중복을 줄이기 위해 [!DNL Sales Insight Actions]에서 [!DNL Salesforce]&#x200B;(으)로 동기화되는 작업은 *을(를) SFDC과 동기화하는*&#x200B;이후[!DNL Sales Insight Actions]에 만들어진 작업뿐입니다.
+[!DNL Sales Insight Actions]과(와) [!DNL Salesforce] 작업 간의 동기화를 처음 켜면 [!DNL Salesforce] 작업을 가져옵니다. [!DNL Sales Insight Actions]에 있는 현재 작업을 [!DNL Salesforce]&#x200B;(으)로 **not** 푸시합니다. 혼란을 줄이고 중복을 줄이기 위해 [!DNL Sales Insight Actions]에서 [!DNL Salesforce]&#x200B;(으)로 동기화되는 작업은 [!DNL Sales Insight Actions]을(를) SFDC과 동기화하는 *이후*&#x200B;에 만들어진 작업뿐입니다.
 
 [!DNL Sales Insight Actions] 및 SFDC 작업을 동기화할 때 발생하는 상황은 다음과 같습니다.
 
@@ -81,4 +86,4 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->[!DNL Sales Insight Actions]활동 세부 정보 사용자 지정[!DNL Salesforce] 설정에서 `{{activity_subject}}` 동적 필드를 사용하는 경우 [에서 작업의 제목 필드를 업데이트할 수 있으며 해당 업데이트는 동기화된 작업의 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 제목 필드에서 동기화됩니다. 반대로 [!DNL Salesforce]의 제목 필드를 업데이트하면 *미리 알림 작업 제목 필드와*&#x200B;동기화되지[!DNL Sales Insight Actions]않습니다.
+>[활동 세부 정보 사용자 지정](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) 설정에서 `{{activity_subject}}` 동적 필드를 사용하는 경우 [!DNL Sales Insight Actions]에서 작업의 제목 필드를 업데이트할 수 있으며 해당 업데이트는 동기화된 작업의 [!DNL Salesforce] 제목 필드에서 동기화됩니다. 반대로 [!DNL Salesforce]의 제목 필드를 업데이트하면 [!DNL Sales Insight Actions] 미리 알림 작업 제목 필드와 *동기화되지*&#x200B;않습니다.

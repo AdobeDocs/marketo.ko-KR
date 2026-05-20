@@ -4,9 +4,15 @@ description: 이메일 편집기 2.0의 이메일 템플릿 선택기에 대해 
 title: 이메일 템플릿 선택기 개요
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/-chlOS7UcjWaNgBhJyHEpfXL4SFnDnZH73tnpn-GZHs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: 272
 ht-degree: 4%
 
 ---
@@ -33,7 +39,7 @@ ht-degree: 4%
 
 ![](assets/five-2.png)
 
-**[!UICONTROL Emails]** 트리의 **[!UICONTROL Templates]** > [!UICONTROL Design Studio] 아래에 표시되는 모든 폴더는 **[!UICONTROL My Templates]**&#x200B;에서 사용할 수 있습니다.
+[!UICONTROL Design Studio] 트리의 **[!UICONTROL Emails]** > **[!UICONTROL Templates]** 아래에 표시되는 모든 폴더는 **[!UICONTROL My Templates]**&#x200B;에서 사용할 수 있습니다.
 
 ![](assets/six-1.png)
 

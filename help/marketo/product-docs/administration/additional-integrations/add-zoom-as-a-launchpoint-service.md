@@ -1,12 +1,20 @@
 ---
 unique-page-id: 17728028
 description: Marketo에서 웨비나 등록 및 출석을 관리할 수 있도록  [!DNL Zoom] 을(를) LaunchPoint 서비스로 추가하십시오.
-title: ' [!DNL Zoom] 서비스로  [!DNL LaunchPoint] 추가'
+title: ' [!DNL LaunchPoint] 서비스로  [!DNL Zoom] 추가'
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+TQID: https://experienceleague.adobe.com/b0mxXTjrJjwRWHpeCdcNYu6JjY6qcHM7NX7ghiqMLaw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: 115
 ht-degree: 7%
 
 ---

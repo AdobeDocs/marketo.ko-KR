@@ -4,9 +4,20 @@ description: adobe analytics와의 통합을 사용하여 Marketo Engage에서 a
 title: Adobe Analytics와 통합
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/W9eAiWXh-XyeFqxP-BQHNdOQN5zYNuZ7ziRxXQQMZnw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: 1054
 ht-degree: 1%
 
 ---
@@ -110,9 +121,9 @@ Adobe Analytics의 사용자 지정 링크에서 RTP 캠페인 노출 횟수 및
 
       1. 4개의 속성 이름을 변경합니다. 보고서 세트에 표시되는 이름입니다.
 
-   1. [!UICONTROL Enabled]에 대한 **[!UICONTROL Enabled]** 필드를 선택하십시오.
+   1. **[!UICONTROL Enabled]**&#x200B;에 대한 [!UICONTROL Enabled] 필드를 선택하십시오.
 
-   1. [!UICONTROL Path Reports]에 대한 **[!UICONTROL Enabled]** 필드를 선택하십시오.
+   1. **[!UICONTROL Enabled]**&#x200B;에 대한 [!UICONTROL Path Reports] 필드를 선택하십시오.
 
 ## [!DNL Marketo Real-Time Personalization]&#x200B;(RTP)에서 설정 {#set-up-in-marketo-real-time-personalization-rtp}
 
@@ -174,7 +185,7 @@ AA의 맞춤화된 보고서 및 대시보드의 예는 다음과 같습니다.
 
 **RTP 대시보드 만들기**
 
-[RTP 대시보드](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)라는 **새 대시보드**&#x200B;를 만듭니다. 이 대시보드는 세로 및 RTP 세그먼트에 따른 방문자 분류를 이해하는 데 도움이 됩니다.
+**RTP 대시보드**&#x200B;라는 [새 대시보드](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)를 만듭니다. 이 대시보드는 세로 및 RTP 세그먼트에 따른 방문자 분류를 이해하는 데 도움이 됩니다.
 
 1. **[!UICONTROL Dashboard]을(를) 클릭하고**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Add Dashboard]**&#x200B;을(를) 클릭합니다.
 

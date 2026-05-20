@@ -4,9 +4,12 @@ description: 릴리스 노트 - 2015년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 노트 - 2015년 7월
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/WyIgJBqWo7to9K-VrflUdWCGcF7jH-nF3vc7YRoriks
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: 273
 ht-degree: 1%
 
 ---
@@ -15,7 +18,7 @@ ht-degree: 1%
 
 ## [!DNL Marketo Moments] {#marketo-moments}
 
-점심에 나가는데 이메일 일정을 조정해야 하나요? App Store 또는 [!DNL Marketo Moments]에서 사용할 수 있는 [!DNL Google Play] 앱을 사용하면 iPhone, iPad 또는 Android 휴대폰에서 이메일 및 이벤트 캠페인의 실시간 실행뿐만 아니라 향후 출시될 내용을 확인할 수 있습니다.
+점심에 나가는데 이메일 일정을 조정해야 하나요? App Store 또는 [!DNL Google Play]에서 사용할 수 있는 [!DNL Marketo Moments] 앱을 사용하면 iPhone, iPad 또는 Android 휴대폰에서 이메일 및 이벤트 캠페인의 실시간 실행뿐만 아니라 향후 출시될 내용을 확인할 수 있습니다.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 

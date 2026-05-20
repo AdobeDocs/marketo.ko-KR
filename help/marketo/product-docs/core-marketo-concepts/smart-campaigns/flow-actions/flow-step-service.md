@@ -3,9 +3,21 @@ description: 사용자 지정 흐름 단계에 대한 흐름 단계 서비스에
 title: 플로우 단계 서비스
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/WNis-WE5v3Alpc0aSj1LrhTfOjNxnWmK8z-4afzADhU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1235'
+source-wordcount: 1256
 ht-degree: 0%
 
 ---
@@ -20,7 +32,7 @@ ht-degree: 0%
 
 ## 설치 URL {#installation-url}
 
-설치를 시작하려면 먼저 서비스를 정의하는 OpenAPI 문서의 URL을 가져와야 합니다. 서비스 공급자가 이 정보를 제공할 수 있어야 하며 일반적으로 `/openapi.json`(으)로 끝나는 URL이 있습니다. 전체 URL은 `https://www.example.com/OpenAPI.json`과(와) 비슷합니다. 이 URL이 있으면 [!UICONTROL Service Providers] 섹션의 [!UICONTROL Admin] 메뉴로 이동하십시오.
+설치를 시작하려면 먼저 서비스를 정의하는 OpenAPI 문서의 URL을 가져와야 합니다. 서비스 공급자가 이 정보를 제공할 수 있어야 하며 일반적으로 `/openapi.json`(으)로 끝나는 URL이 있습니다. 전체 URL은 `https://www.example.com/OpenAPI.json`과(와) 비슷합니다. 이 URL이 있으면 [!UICONTROL Admin] 섹션의 [!UICONTROL Service Providers] 메뉴로 이동하십시오.
 
 서비스 자격 증명 입력 섹션으로 이동하려면 **[!UICONTROL Next]**&#x200B;을(를) 클릭하십시오.
 
@@ -28,7 +40,7 @@ ht-degree: 0%
 
 ## 서비스 자격 증명 입력 {#enter-service-credentials}
 
-설치 중인 서비스에 액세스하려면 Marketo에 유효한 API 자격 증명이 있어야 합니다. 이러한 자격 증명은 서비스 공급자가 제공해야 합니다. 서비스에는 세 가지 다른 인증 옵션이 있으므로 자격 증명에 대한 세 가지 프롬프트 중 하나가 표시될 수 있습니다. **API 키**(입력 필드가 하나뿐임), **기본 인증**(사용자 이름 및 암호가 필요하며 영역 필드가 필요할 수 있음), **클라이언트 자격 증명** 권한(_클라이언트 ID_ 및 _클라이언트 암호_)을 사용하는 _OAuth2_.
+설치 중인 서비스에 액세스하려면 Marketo에 유효한 API 자격 증명이 있어야 합니다. 이러한 자격 증명은 서비스 공급자가 제공해야 합니다. 서비스에는 세 가지 다른 인증 옵션이 있으므로 자격 증명에 대한 세 가지 프롬프트 중 하나가 표시될 수 있습니다. **API 키**(입력 필드가 하나뿐임), **기본 인증**(사용자 이름 및 암호가 필요하며 영역 필드가 필요할 수 있음), _클라이언트 자격 증명_ 권한(_클라이언트 ID_ 및 _클라이언트 암호_)을 사용하는 **OAuth2**.
 
 자격 증명을 저장할 때 Marketo은 서비스의 상태 끝점을 호출하여 해당 상태가 유효한지 확인합니다. 제공된 자격 증명이 유효하지 않은 경우 이를 나타내는 오류가 표시됩니다.
 
