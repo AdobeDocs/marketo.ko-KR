@@ -7,9 +7,9 @@ feature: Deliverability
 TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 328
+source-wordcount: 321
 ht-degree: 5%
 
 ---
@@ -58,6 +58,6 @@ ht-degree: 5%
 
 ## 새 시드 목록 가져오기 {#acquiring-new-seedlists}
 
-시드 목록은 한 달에 한 번씩 변경될 수 있습니다. 이메일 게재 기능 파워 팩에 정기적으로 로그인하여 시드 목록의 상태를 확인하는 것이 중요합니다. 새 주소가 추가되거나 업데이트가 필요한 경우 애플리케이션 왼쪽 하단에 있는 알림 아이콘을 통해 알림을 받게 됩니다.
+시드 목록은 한 달에 한 번씩 변경될 수 있습니다. 이메일 전달성 파워 팩에 정기적으로 로그인하여 시드 목록의 상태를 확인하는 것이 중요합니다. 새 주소가 추가되거나 업데이트가 필요한 경우 애플리케이션 왼쪽 하단에 있는 알림 아이콘을 통해 알림을 받게 됩니다.
 
 Marketo의 정적 목록이 생성되면 해당 목록으로 보내어 이메일의 받은 편지함 배치를 테스트할 수 있습니다.

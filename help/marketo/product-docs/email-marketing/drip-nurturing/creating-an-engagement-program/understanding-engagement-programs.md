@@ -9,10 +9,10 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 290
-ht-degree: 93%
+ht-degree: 87%
 
 ---
 
@@ -85,7 +85,7 @@ ht-degree: 93%
 
 ## 소진됨 {#exhausted}
 
-사용자가 스트림의 모든 콘텐츠를 수신하면 해당 사용자를 **소진됨**&#x200B;이라고 칭합니다.
+한 사람이 스트림의 모든 콘텐츠를 받은 후에는 해당 사람을 **모두 사용함**&#x200B;이라고 합니다.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 

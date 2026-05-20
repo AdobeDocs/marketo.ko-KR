@@ -12,10 +12,10 @@ feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 157
-ht-degree: 7%
+source-wordcount: 150
+ht-degree: 6%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 7%
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
-   좋아! 이제 설정을 확인해 보겠습니다.
+   이제 설정을 구성합니다.
 
 ## 설정 편집 {#edit-settings}
 
@@ -62,7 +62,7 @@ ht-degree: 7%
 
 ## 보고서 실행 {#run-report}
 
-1. 보고서를 실행하려면 **[!UICONTROL Report]** 탭을 클릭하면 됩니다.
+1. 보고서를 실행하려면 **[!UICONTROL Report]** 탭을 클릭하십시오.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
@@ -70,4 +70,4 @@ ht-degree: 7%
    >
    >그림은 아니지만 참여 점수 는 이 보고서의 열입니다. 자세한 내용은 [참여 점수 이해](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)를 참조하십시오.
 
-   좋습니다! 보고서는 참여 프로그램별로 그룹화됩니다.
+   보고서는 참여 프로그램별로 그룹화됩니다.

@@ -7,7 +7,7 @@ feature: Email Designer
 role: User
 level: Beginner, Intermediate
 exl-id: 719686f7-16f5-423f-a4b1-f0a35005d222
-source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 3%
@@ -69,7 +69,7 @@ ht-degree: 3%
 >
 >콘텐츠 품질 평가는 브랜드 지침과 독립적입니다. 드롭다운 메뉴에서 브랜드를 선택하더라도 해당 지침은 품질 검사에 적용되지 않습니다. 브랜드 선택은 브랜드 정렬 점수에만 관련이 있습니다.
 
-브랜드 정렬 외에도 브랜드 지침과 관계없이 가독성, 콘텐츠 응집성 및 효과성과 관련된 잠재적 문제를 식별하기 위해 일반적인 콘텐츠 품질을 평가할 수 있습니다.
+브랜드 정렬뿐만 아니라 일반 콘텐츠 품질을 평가하여 브랜드 지침과 관계없이 가독성, 콘텐츠 응집성 및 효과성과 관련된 잠재적 문제를 식별할 수 있습니다.
 
 콘텐츠 품질을 평가하려면 다음을 수행하십시오.
 

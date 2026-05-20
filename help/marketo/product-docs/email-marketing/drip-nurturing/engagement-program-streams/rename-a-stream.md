@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 59
-ht-degree: 10%
+source-wordcount: 45
+ht-degree: 13%
 
 ---
 
 # 스트림 이름 변경 {#rename-a-stream}
 
-구성을 유지하려면 스트림의 이름을 바꿀 수 있습니다. 방법은 다음과 같습니다.
+구성을 유지하려면 스트림의 이름을 바꿀 수 있습니다.
 
 1. 참여 프로그램을 찾아 선택한 다음 **[!UICONTROL Streams]**&#x200B;을(를) 클릭합니다.
 
@@ -31,5 +31,3 @@ ht-degree: 10%
 1. 새 스트림 **[!UICONTROL Name]**&#x200B;을(를) 입력하고 **[!UICONTROL Save]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
-
-   그리고 짜잔! 이제 스트림 이름을 바꾸는 방법을 알 수 있습니다.

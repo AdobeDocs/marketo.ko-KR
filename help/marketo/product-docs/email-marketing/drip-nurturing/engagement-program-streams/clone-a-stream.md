@@ -9,10 +9,10 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 94
-ht-degree: 6%
+source-wordcount: 83
+ht-degree: 7%
 
 ---
 
@@ -31,8 +31,6 @@ ht-degree: 6%
    >[!NOTE]
    >
    >참여 프로그램당 최대 25개의 스트림을 보유할 수 있습니다.
-
-   잘했어! 여러분은 여러분의 삶을 더 쉽게 만드는 것들을 사랑하지 않나요?
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 

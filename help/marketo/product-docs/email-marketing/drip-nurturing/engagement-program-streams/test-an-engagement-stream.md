@@ -10,16 +10,16 @@ product_v2:
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 160
+source-wordcount: 158
 ht-degree: 6%
 
 ---
 
 # 참여 스트림 테스트 {#test-an-engagement-stream}
 
-모든 콘텐츠를 스트림에 추가한 후에는 한 번에 하나씩 테스트할 수 있습니다.
+모든 콘텐츠를 스트림에 추가한 후 한 번에 하나씩 테스트할 수 있습니다.
 
 1. **[!UICONTROL Marketing Activities]** 으로 이동합니다.
 
@@ -39,7 +39,7 @@ ht-degree: 6%
 
    >[!CAUTION]
    >
-   >테스트 대상이 고유하고 데이터베이스에 중복 항목이 없는지 확인하십시오.
+   >테스트 담당자가 고유하고 데이터베이스에 중복 항목이 없는지 확인합니다.
 
    >[!TIP]
    >
@@ -55,8 +55,6 @@ ht-degree: 6%
 1. 새 스트림이 표시되어 성공적인 테스트를 나타냅니다.
 
    ![](assets/seven-rubiks.png)
-
-   잘했어요!
 
    >[!NOTE]
    >

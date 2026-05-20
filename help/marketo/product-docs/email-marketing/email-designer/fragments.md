@@ -21,9 +21,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1910
+source-wordcount: 1905
 ht-degree: 1%
 
 ---
@@ -231,7 +231,7 @@ ht-degree: 1%
 
 1. 콘텐츠를 업데이트하려면 오른쪽 상단의 **[!UICONTROL Create draft version]**&#x200B;을(를) 클릭합니다.
 
-   대화 상자에서 **[!UICONTROL OK]**&#x200B;을(를) 클릭하여 비주얼 디자이너에서 초안 버전을 엽니다. 필요한 경우 `image source`KG을 변경할 수 있습니다. 여기에서 링크를 클릭하세요.
+   대화 상자에서 **[!UICONTROL OK]**&#x200B;을(를) 클릭하여 비주얼 디자이너에서 초안 버전을 엽니다. `image source`을(를) 변경할 수 있습니다.
 
    ![초안 버전 만들기 대화 상자](assets/fragments-create-draft-version.png){width="300"}
 

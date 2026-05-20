@@ -24,20 +24,16 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1800
-ht-degree: 4%
+source-wordcount: 1727
+ht-degree: 2%
 
 ---
 
 # 이메일 작성 {#email-authoring}
 
-새로운 Marketo Engage 이메일 Designer에서 이메일을 만들고, 개인화하고, 미리 보는 방법에 대해 알아봅니다.
-
->[!PREREQUISITES]
->
->새 이메일 디자이너에 액세스하려면 Marketo Engage 구독을 [Adobe IMS(Identity Management System)](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}(으)로 마이그레이션해야 합니다. 아직 마이그레이션하지 않았으며 빠른 처리를 요청하려면 Adobe 계정 팀(계정 관리자) 또는 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 문의하십시오.
+이메일 Designer에서 이메일을 만들고, 개인화하고, 미리 보는 방법에 대해 알아봅니다.
 
 ## 이메일 만들기 {#create-an-email}
 
@@ -73,7 +69,7 @@ ht-degree: 4%
 
    ![](assets/create-an-email-5.png)
 
-1. 새 이메일을 만드는 두 가지 옵션이 있습니다. 전자 메일 프로그램 이름을 마우스 오른쪽 단추로 클릭하고 **새 로컬 자산**&#x200B;을 선택하거나 대시보드의 전자 메일 상자에서 **+새 전자 메일** 단추를 클릭합니다. 이 예제에서는 전자를 수행합니다.
+1. 새 이메일을 만드는 두 가지 옵션이 있습니다. 전자 메일 프로그램 이름을 마우스 오른쪽 단추로 클릭하고 **새 로컬 자산**&#x200B;을 선택하거나 대시보드의 전자 메일 상자에서 **+새 전자 메일** 단추를 클릭합니다. 이 예제에서는 첫 번째 옵션이 사용됩니다.
 
    ![](assets/create-an-email-6.png)
 
