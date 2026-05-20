@@ -4,16 +4,20 @@ description: 자신에게만 표시되는 내 보고서와 모든 작업 영역 
 title: 내 보고서 및 그룹 보고서 이해
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/eDlipBdVqKuc-93uinOvNeG00X8w3cigL1X6KT7vPTE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: 77
 ht-degree: 15%
 
 ---
 
 # 내 보고서 및 그룹 보고서 이해 {#understanding-my-reports-and-group-reports}
 
-**[!UICONTROL My Reports]** Analytics 홈&#x200B;**[!UICONTROL Group Reports]**&#x200B;에서 [&#x200B; 및 &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)을(를) 만들 수 있습니다.
+[Analytics 홈](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)에서 **[!UICONTROL My Reports]** 및 **[!UICONTROL Group Reports]**&#x200B;을(를) 만들 수 있습니다.
 
 **[!UICONTROL My Reports]**&#x200B;은(는) 귀하에게만 표시됩니다.
 

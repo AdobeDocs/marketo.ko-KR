@@ -2,19 +2,23 @@
 description: Salesforce에서 Sales Insight 작업 을 구성하는 방법을 알아봅니다. 원격 사이트를 추가하고, MSI 작업을 활성화하고, API 비밀 키를 입력합니다.
 title: Salesforce의 Sales Insight Actions 구성
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/5S-pqmvARTyOj8ED-PrL5zLHGbsBAej8TYuYZw7rtSQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: 217
 ht-degree: 4%
 
 ---
 
-# [!DNL Sales Insight Actions]의 [!DNL Salesforce] 구성 {#sales-insight-actions-configuration-in-salesforce}
+# [!DNL Salesforce]의 [!DNL Sales Insight Actions] 구성 {#sales-insight-actions-configuration-in-salesforce}
 
 >[!PREREQUISITES]
 >
->* [&#x200B; 인스턴스에서 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)설치[&#x200B; 또는 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)업그레이드[!DNL Salesforce] Sales Insight 패키지
->* [Enterprise/Unlimited에서 Marketo Sales Insight 구성 [!DNL Salesforce] 2&rbrace;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [!DNL Salesforce] 인스턴스에서 [설치](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) 또는 [업그레이드](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Sales Insight 패키지
+>* [Enterprise/Unlimited에서 Marketo Sales Insight 구성 [!DNL Salesforce] 2}](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 ## [!DNL Salesforce]에 새 원격 사이트 추가 {#add-new-remote-site-in-salesforce}
 
@@ -22,7 +26,7 @@ ht-degree: 4%
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. &quot;[!UICONTROL remote site]&quot;을(를) 검색하고 **[!UICONTROL Remote Site Settings]**&#x200B;을(를) 선택합니다.
+1. &quot;[!UICONTROL remote site]&quot;을(를) 검색하고 **[!UICONTROL Remote Site Settings]**을(를) 선택합니다.
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
 1. **[!UICONTROL New Remote Site]**&#x200B;를 클릭합니다.

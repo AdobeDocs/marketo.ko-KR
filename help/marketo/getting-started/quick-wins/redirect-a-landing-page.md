@@ -4,10 +4,12 @@ description: 랜딩 페이지 리디렉션 - Marketo 문서 - 제품 설명서
 title: 랜딩 페이지 리디렉션
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/JV2hJuE-7GE8mup6R3c8xVo6p9QkDqKkiWkWsLSJTOE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 15%
+source-wordcount: 129
+ht-degree: 19%
 
 ---
 
@@ -30,7 +32,7 @@ ht-degree: 15%
 
    ![](assets/redirect-a-landing-page-1.png)
 
-1. **[!UICONTROL Landing Pages]**(으)로 이동합니다.
+1. **[!UICONTROL Landing Pages]** 으로 이동합니다.
 
    ![](assets/redirect-a-landing-page-2.png)
 

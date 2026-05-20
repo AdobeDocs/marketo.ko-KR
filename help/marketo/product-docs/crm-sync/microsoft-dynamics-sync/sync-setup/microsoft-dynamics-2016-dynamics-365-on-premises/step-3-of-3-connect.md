@@ -3,9 +3,11 @@ description: 3단계에서 Marketo을 Dynamics 2016 또는 Dynamics 365 온프�
 title: ' [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 온-프레미스 단계 3/3에 대한 Marketo 설치'
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/WYR9u4Mfq8SeuXPyuYxgA-9iZlez5oKYPpnvrl-RwqY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: 389
 ht-degree: 1%
 
 ---

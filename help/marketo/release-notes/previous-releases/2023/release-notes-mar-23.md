@@ -3,10 +3,12 @@ description: 릴리스 노트 - 2023년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2023년 3월
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/Sisp6sUlykUIMGVZjQlLgTarYQBgz-2QP5-3JW5d0t0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '582'
-ht-degree: 21%
+source-wordcount: 587
+ht-degree: 22%
 
 ---
 
@@ -136,7 +138,7 @@ ht-degree: 21%
   </tbody>
 </table>
 
-* **Dynamic Chat에 대한 특성 유추**: 유추된 IP 데이터(도시, 주, 국가 등)가 Dynamic Chat에서 획득한 새로운 사용자에 대한 개인 레코드에 작성되도록 합니다.
+* **Dynamic Chat에 대한 특성 유추**: 유추된 IP 데이터(도시, 주, 국가 등)를 확인합니다. Dynamic Chat이 인수한 새로운 사용자에 대한 개인 기록에 기록됩니다.
 
 <table>
   <tr>

@@ -5,9 +5,14 @@ title: 다음 세대 [!DNL Munchkin] 추적 FAQ
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/2kPRUe33THDYoIiP-yUDByqcJz5GPHoBnfDzRgwApNk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '705'
+source-wordcount: 705
 ht-degree: 0%
 
 ---
@@ -89,4 +94,4 @@ Marketo은 익명의 사람들이 스마트 캠페인과 상호 작용하는 방
 
 ## 질문이 더 있습니다! 어떻게 해야 답을 얻을 수 있습니까? {#i-have-more-questions-how-do-i-get-them-answered}
 
-[Marketo 커뮤니티](https://experienceleaguecommunities.adobe.com/?profile.language=ko){target="_blank"}를 방문하세요. Marketo 지원에도 문의할 수 있습니다. 그들은 기꺼이 당신의 질문에 대답합니다.
+[Marketo 커뮤니티](https://experienceleaguecommunities.adobe.com/){target="_blank"}를 방문하세요. Marketo 지원에도 문의할 수 있습니다. 그들은 기꺼이 당신의 질문에 대답합니다.

@@ -4,10 +4,12 @@ description: TAM에서 명명된 계정을 수동으로 만드는 방법을 알�
 title: 지정 계정 만들기
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/XiXUFrF-AC59VQ9AQJGHkAfoTLqx9RTUWeNtyX-oy6E
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 6%
+source-wordcount: 67
+ht-degree: 5%
 
 ---
 
@@ -29,4 +31,4 @@ ht-degree: 6%
 
 >[!MORELIKETHIS]
 >
->[에 [!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)사람 추가
+>[!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)에 [사람 추가

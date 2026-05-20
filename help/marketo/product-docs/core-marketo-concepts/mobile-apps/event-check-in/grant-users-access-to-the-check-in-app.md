@@ -4,9 +4,12 @@ description: 사용자에게 이벤트 체크 인 앱에 대한 액세스 권한
 title: 사용자에게 체크인 앱에 대한 액세스 권한 부여
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/GKLCTK-Wc-rwTfbcNIEzferpYBJDvpKjelUm5-89WIU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: 290
 ht-degree: 8%
 
 ---

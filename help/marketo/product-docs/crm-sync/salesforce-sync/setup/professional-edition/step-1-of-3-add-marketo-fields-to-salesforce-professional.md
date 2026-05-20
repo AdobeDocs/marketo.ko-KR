@@ -4,9 +4,11 @@ description: Salesforce Professional Edition에 Marketo 필드를 추가하는 �
 title: 1/3단계 - Salesforce에 Marketo 필드 추가(Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJfI70
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: 729
 ht-degree: 8%
 
 ---

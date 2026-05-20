@@ -4,9 +4,13 @@ description: 웹 캠페인에 양식 임베드를 포함하여 Marketo Engage의
 title: 웹 캠페인에 양식 임베드
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/W-ZPPhOBxBKHlB8cobIZG7-qOnrz92uMaZ-JpnSxptI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: 354
 ht-degree: 7%
 
 ---
@@ -85,4 +89,4 @@ Set Campaign에서 대화 상자 또는 위젯 색상을 변경하려면:
 >
 >* [양식 테마의 CSS 편집](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [후속 랜딩 페이지 없이 감사 메시지 표시](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

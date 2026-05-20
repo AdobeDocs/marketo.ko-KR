@@ -3,10 +3,12 @@ description: 인앱 메시지를 만드는 방법을 알아봅니다. 마케팅 
 title: 인앱 메시지 만들기
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/ayEZLuHoATSPe6vXQN8iEjzNYHWWUIqlfDFVZZEx5Mw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 5%
+source-wordcount: 129
+ht-degree: 6%
 
 ---
 

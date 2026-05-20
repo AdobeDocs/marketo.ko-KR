@@ -4,14 +4,18 @@ description: Sales Insight에서 별과 불꽃에 대한 스코어 필드를 설
 title: Sales Insight에서 Stars 및 Flames에 사용할 점수 필드 설정
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/ShowS2zjGEHvU9BRJNIlX6XdY127funYi-sjsE9YTNU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: 153
 ht-degree: 11%
 
 ---
 
-# [!UICONTROL Stars]의 [!UICONTROL Flames] 및 [!DNL Sales Insight]에 사용할 점수 필드 설정 {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# [!DNL Sales Insight]의 [!UICONTROL Stars] 및 [!UICONTROL Flames]에 사용할 점수 필드 설정 {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >

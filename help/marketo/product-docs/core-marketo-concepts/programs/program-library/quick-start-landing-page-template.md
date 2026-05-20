@@ -3,9 +3,13 @@ description: 빠른 시작 랜딩 페이지 템플릿. 템플릿에서 빠르게
 title: 빠른 시작 랜딩 페이지 템플릿
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/-ZusvKIP4bJ7fMeaO-ZMqcHekpWWUHPp6LZAy0j2saQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: 473
 ht-degree: 2%
 
 ---
@@ -18,7 +22,7 @@ Marketo Engage 참조 라이브러리의 일부 시작 프로그램에는 여러
 >
 >[안내 랜딩 페이지 템플릿](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}에 대해 자세히 알아보기
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 섹션 요약 {#sections-summary}
 

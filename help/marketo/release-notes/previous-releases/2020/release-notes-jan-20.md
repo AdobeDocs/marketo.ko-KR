@@ -4,9 +4,13 @@ description: 릴리스 노트 - 2020년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2020년 1월
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
+TQID: https://experienceleague.adobe.com/Gz2-EI02s3DLfFiaEISb0U8Dkl-MzdmlSY6Zc7OK2Pc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: 842
 ht-degree: 1%
 
 ---
@@ -57,12 +61,12 @@ ht-degree: 1%
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [이미지 편집](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=ko#design-studio): Marketo Engage에서 나가지 않고 Adobe의 편집 기능에 액세스합니다. 이 새로운 기능을 사용하면 [!UICONTROL Design Studio]에서 이미지에 텍스트를 직접 보강, 자르기 및 추가하는 등의 작업을 쉽게 수행할 수 있습니다.
+* [이미지 편집](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Marketo Engage에서 나가지 않고 Adobe의 편집 기능에 액세스합니다. 이 새로운 기능을 사용하면 [!UICONTROL Design Studio]에서 이미지에 텍스트를 직접 보강, 자르기 및 추가하는 등의 작업을 쉽게 수행할 수 있습니다.
 
 ## [!DNL Sales Insight] {#sales-insight}
 
 * **[!DNL Salesforce Lightning]일괄 작업**: 판매 효율성을 높이고 구매자가 캠페인에 최대 200개의 연락처/리드를 추가하고 [!DNL Salesforce Lightning]과(와) 함께 Marketo Engage 이메일을 일괄적으로 보낼 수 있는 기능을 계속 사용할 수 있도록 합니다.
-* [!DNL Salesforce1]&#x200B;**에 대한**&#x200B;모바일 지원: 이제 [!DNL Salesforce1] 앱에서 바로 관심 있는 순간, 웹 활동 및 전자 메일과 같은 모든 [!DNL Sales Insight] 기능에 대한 이동 중 모바일 액세스 권한을 갖습니다.
+* [!DNL Salesforce1]**에 대한**&#x200B;모바일 지원: 이제 [!DNL Salesforce1] 앱에서 바로 관심 있는 순간, 웹 활동 및 전자 메일과 같은 모든 [!DNL Sales Insight] 기능에 대한 이동 중 모바일 액세스 권한을 갖습니다.
 * **UI 개선 사항**: 가독성 및 [!DNL Marketo Sky] 경험과 일치하는 디자인을 개선하여 인터페이스를 업데이트했습니다.
 
 ## [!DNL Sales Connect] {#sales-connect}

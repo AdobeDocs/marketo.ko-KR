@@ -4,10 +4,13 @@ description: 릴리스 노트 - 2012년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2012년 5월
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/GBXVTrpq498UQF0vsVxoK2hhgA5-kHVov2vFLGFw-Ts
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '638'
-ht-degree: 5%
+source-wordcount: 647
+ht-degree: 4%
 
 ---
 
@@ -105,7 +108,7 @@ Marketo 엔지니어가 개발한 실험 기능에 액세스하여 사용자 경
 
 ![](assets/image2014-9-23-10-3a17-3a20.png)
 
-그림 12. 관리자의 [!DNL Sales Insight] 설정
+그림 12. [!DNL Sales Insight] 관리자의 설정
 
 ## 판매 이메일 템플릿 폴더 {#folders-for-sales-email-templates}
 

@@ -3,10 +3,13 @@ description: Marketo Sales Insight에서 대화형 웨비나를 사용하는 방
 title: Marketo Sales Insight의 대화형 웨비나
 feature: Interactive Webinars
 exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/SfEVVHTdHfPr5E2aA2JFPHhP2gYOJTQf5Hm5cFbtdbA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 5%
+source-wordcount: 239
+ht-degree: 6%
 
 ---
 
@@ -16,14 +19,14 @@ Marketo Sales Insight의 대화형 웨비나는 Salesforce의 Marketo Sales Insi
 
 >[!PREREQUISITES]
 >
->이 기능은 [Marketo Sales Insight](https://business.adobe.com/kr/products/marketo/sales-intelligence-engagement.html) 추가 기능을 구입한 사용자에게만 지원됩니다.
+>이 기능은 [Marketo Sales Insight](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html) 추가 기능을 구입한 사용자에게만 지원됩니다.
 
 활동이 Marketo Engage에 등록되면(Adobe Connect에서 웨비나가 완료된 후) MSI 플러그인을 통해 Salesforce에 실시간으로 동기화됩니다.
 
 Marketo Engage에서 사용할 수 있는 모든 활동이 동기화됩니다. 이러한 활동은 다음과 같습니다.
 
 * 이벤트에 참석함
-* 설문 조사에 응답
+* 폴에 응답
 * 질문에 대한 답변
 * 링크 클릭
 * 에셋 다운로드

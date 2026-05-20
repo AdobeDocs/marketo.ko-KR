@@ -3,9 +3,13 @@ unique-page-id: 12255606
 description: 릴리스 노트 - 17년 겨울 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2017년 겨울
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+TQID: https://experienceleague.adobe.com/9Ud9WALQOkbUuHYod1UI8MoIo8lLzCzJYxOC5A9h8QI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: 370
 ht-degree: 1%
 
 ---
@@ -60,13 +64,13 @@ ht-degree: 1%
 
 **[필터링 기준:[!UICONTROL Enabled Source]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-[!UICONTROL Predictive Content], [!UICONTROL Email] 또는 [!UICONTROL Rich Media]에 대해 활성화된 [!UICONTROL Recommendation Bar]개 조각을 필터링합니다.
+[!UICONTROL Email], [!UICONTROL Rich Media] 또는 [!UICONTROL Recommendation Bar]에 대해 활성화된 [!UICONTROL Predictive Content]개 조각을 필터링합니다.
 
 ![](assets/predictive-content-enabled-source.png)
 
 **[필터[!UICONTROL Analytics by Source]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-특정 원본 [!UICONTROL Predictive Content], [!UICONTROL Email] 또는 [!UICONTROL Rich Media]에 대해 [!UICONTROL Recommendation Bar] 분석을 필터링합니다.
+특정 원본 [!UICONTROL Email], [!UICONTROL Rich Media] 또는 [!UICONTROL Recommendation Bar]에 대해 [!UICONTROL Predictive Content] 분석을 필터링합니다.
 
 ![](assets/predictive-content-analytics-by-source.png)
 

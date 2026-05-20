@@ -1,0 +1,100 @@
+---
+description: 릴리스 노트 - 2026년 3월 - Marketo 문서 - 제품 설명서
+title: 릴리스 노트 - 2026년 2월
+feature: Release Information
+source-git-commit: 48aeac444cca4abfc4393eb53dc091b8e73a5b63
+workflow-type: tm+mt
+source-wordcount: '533'
+ht-degree: 18%
+
+---
+
+# 릴리스 노트: 2026년 3월 {#release-notes-mar-26}
+
+아래에는 2026년 3월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
+
+Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}할 수 있습니다.
+
+## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
+
+다음 기능은 표준 릴리스 주기에 해당하며 **2026년 3월 27일**&#x200B;에 릴리스되기 시작합니다. 이후 몇 주에 걸쳐 나머지 기능의 단계적인 롤아웃이 시작됩니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
+
+<table style="table-layout:auto">
+ <tbody>
+ <tr>
+   <th style="width:65%">기능</th>
+   <th style="width:10%">상태</th>
+   <th style="width:25%">설명서</th>
+  </tr>
+  <tr>
+   <td><strong>이메일 Designer - 브랜드 관리(베타)</strong>: 조직/브랜드별 카피라이팅 지침을 기반으로 이메일 콘텐츠를 생성합니다.</td>
+   <td>릴리스됨</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md" target="_blank">브랜드 생성 및 관리</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>이메일 Designer - 조각에서 편집 가능한 HTML 구성 요소</strong>: 시각적 조각 내에서 편집 가능한 필드는 구성 요소 속성 패널을 통해 이미지, 텍스트 및 단추 구성 요소에서 지원됩니다. HTML 구성 요소의 경우 편집 가능한 필드는 HTML 구성 요소 자체의 소스 코드 내에 변수 기반 구문을 사용하여 다르게 구성됩니다.
+   </td>
+   <td>릴리스됨</i></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">조각에서 편집 가능한 HTML 구성 요소</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>이메일 Designer - 빠른 작업</strong>: <i>이전 이메일 편집기와 동일</i>. 이제 모든 이메일 Designer 에셋(이메일, 이메일 템플릿, 조각)에 대해 빠른 작업을 사용할 수 있습니다. 지원되는 빠른 작업에는 복제, 삭제, 이동, 초안 생성/편집 등이 있습니다.
+   </td>
+   <td>릴리스됨</i></td>
+   <td>해당 사항 없음</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr>
+   <td><strong>전자 메일 Designer - Outlook 렌더링 수정 사항</strong>: 이 업데이트는 특히 MS Outlook의 렌더링 문제를 수정합니다. 고급 HTML 모드에서는 HTML/CSS를 약간 편집하거나 이메일 템플릿에 스크립트 태그를 추가할 수 있습니다.
+   </td>
+   <td>릴리스됨</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">고급 HTML 편집기를 사용하여 이메일 템플릿 편집</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>이메일 Designer - Brand Score Checker</strong>: 일반 컨텐츠 품질을 평가하여 브랜드 지침과 관계없이 가독성, 컨텐츠 응집성 및 효율성에 문제가 있을 수 있는지 확인합니다.</td>
+   <td>릴리스됨</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-score.md" target="_blank">브랜드 점수</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>푸시 알림</strong>: 이제 푸시 알림 메시지에 구성된 리디렉션 URI가 Marketo Engage 토큰을 지원합니다(<i>앱 URL 시작</i>에만 적용 가능).
+   </td>
+   <td>릴리스됨</td>
+   <td><a href="/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md#redirect-uris">리디렉션 URI</a></td>
+  </tr>
+  </tbody>
+</table>
+<br/>
+
+## 공지 {#announcements}
+
+* **SEO 기능 사용 중단**: 2026년 3월 31일 화요일에 Marketo Engage은 SEO(검색 엔진 최적화 기능)를 사용하지 않습니다. SEO를 적극적으로 활용하지 않는다면 아무것도 하지 않아도 된다. 최근 SEO를 사용한 경우 데이터를 내보낼 수 있습니다. [자세히 알아보기](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}
+
+* **REST API 병합 리드 제한**: 2026년 3월 31일부터 병합 리드 API 호출의 leadIds 매개 변수에 25개 이상의 ID를 포함하는 호출은 1080 오류 코드를 생성하며, 호출이 건너뜁니다. 25개 이상의 레코드를 하나로 병합해야 하는 작업은 이러한 호출의 성공을 보장하기 위해 여러 작업으로 분할해야 합니다.
+
+* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2026년 7월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}된 대로 &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
+
+* **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2026년 7월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}로 마이그레이션해야 합니다.

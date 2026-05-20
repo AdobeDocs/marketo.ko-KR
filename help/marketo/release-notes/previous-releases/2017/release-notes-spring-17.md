@@ -3,9 +3,13 @@ unique-page-id: 12977439
 description: 릴리스 노트 - 2017년 봄 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2017년 봄
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+TQID: https://experienceleague.adobe.com/fOKUqseOxMRcof-p8wVETWCH0NAzKKFSA0Ue7E9Emwc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '633'
+source-wordcount: 677
 ht-degree: 0%
 
 ---
@@ -68,7 +72,7 @@ ht-degree: 0%
 
 방문자가 페이지를 닫기 전에 방문자의 관심을 사로잡습니다. 마우스 동작이 방문자가 페이지를 나가는 것을 나타낼 때만 표시하도록 개인화된 [!UICONTROL Web Campaigns]을(를) 설정하십시오.
 
-**[에 대한[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**&#x200B;애니메이션 효과
+[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**에 대한**[&#x200B;애니메이션 효과
 
 웹 페이지를 입력하거나 종료할 때 캠페인이 표시되는 방식을 사용자 지정하려면 대화 상자 웹 캠페인에 대한 애니메이션 효과를 설정하십시오. 6가지 효과 중에서 선택하고 대화 상자의 타이밍과 방향을 제어할 수 있습니다.
 

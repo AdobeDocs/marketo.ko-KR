@@ -3,10 +3,15 @@ description: 릴리스 노트 - 2025년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2025년 5월
 feature: Release Information
 exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/U1fwUVPzc3mpwzuxzwh-bXy7Y-0aHlzNHnoRuPsjW8g
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '435'
-ht-degree: 39%
+source-wordcount: 516
+ht-degree: 37%
 
 ---
 
@@ -62,7 +67,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **Facebook 오프라인 전환 통합 업데이트**: 2025년 5월 29일에 Marketo Engage의 [Facebook 오프라인 전환](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} 통합이 새 Meta [전환 API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}(으)로 마이그레이션됩니다. 이는 Meta이 Graph API 버전 관리에 따라 [오프라인 전환 API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"}를 더 이상 사용하지 않기 때문입니다. 자세한 내용은 Meta의 전환 API를 통해 [오프라인 이벤트 보내기](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"}(오프라인 CAPI)에 대한 안내서를 참조하십시오.
+* **Facebook 오프라인 전환 통합 업데이트**: 2025년 5월 29일에 Marketo Engage의 [Facebook 오프라인 전환](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} 통합이 새 Meta [전환 API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}(으)로 마이그레이션됩니다. 이는 Meta이 Graph API 버전 관리에 따라 [오프라인 전환 API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"}를 더 이상 사용하지 않기 때문입니다. 자세한 내용은 Meta의 전환 API를 통해 [오프라인 이벤트 보내기](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"}(오프라인 CAPI)에 대한 안내서를 참조하십시오.
 
 * **새로운 Analytics 기능 - 공개 Beta**: [고급 BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"}(이전 명칭: Revenue Explorer 및 고급 Report Builder)가 4월 중순부터 모든 현재 Revenue Cycle Explorer 사용자에게 롤아웃되기 시작했습니다. 이 새로운 도구는 Marketo Engage 데이터에 대한 유연한 보고 및 시각화 인터페이스를 제공하여 진행 상황, 성능 등에 대한 세부 정보를 제공합니다. 더욱 풍부한 상호 작용 및 시각화, 빠른 성능, 보다 원활하고 직관적인 사용자 경험을 제공합니다.
 

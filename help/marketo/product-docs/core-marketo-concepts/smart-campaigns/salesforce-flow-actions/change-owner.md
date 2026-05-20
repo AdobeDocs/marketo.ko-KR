@@ -4,9 +4,12 @@ description: 흐름 단계에서 Salesforce 소유자를 변경하는 방법을 
 title: 소유자 변경
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/VU0fT4giNqfkF5g15q0IGIh8XuO2505nz89UuUfqZro
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: 182
 ht-degree: 2%
 
 ---
@@ -25,7 +28,7 @@ ht-degree: 2%
    >
    >[!DNL Salesforce]에서는 연락처에 잠재 고객 큐를 할당할 수 없습니다. SFDC 담당자인 경우:
    >
-   >* 연락처가 Salesforce에 동기화되면 Marketo에서 중복 잠재 고객 **only**&#x200B;을(를) 만듭니다. 즉, **[과(와) 함께](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;사용자를 SFDC에 동기화`AssignTo=<a lead queue>` 흐름 단계를 사용하는 경우 Marketo은 Salesforce에서 중복 리드를 만들고 리드 큐에 할당합니다.
+   >* 연락처가 Salesforce에 동기화되면 Marketo에서 중복 잠재 고객 **only**&#x200B;을(를) 만듭니다. 즉, `AssignTo=<a lead queue>`과(와) 함께 **[사용자를 SFDC에 동기화](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** 흐름 단계를 사용하는 경우 Marketo은 Salesforce에서 중복 리드를 만들고 리드 큐에 할당합니다.
    >
    >* 연락처에서 **[!UICONTROL Change Owner]** 흐름 단계를 사용하는 경우 Marketo에서 Salesforce에 중복 리드를 만듭니다. 이 문제를 방지하려면 작업을 리드로만 제한하는 &#39;SFDC 유형&#39; 필드의 필터를 사용합니다.
 

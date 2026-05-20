@@ -4,9 +4,12 @@ description: Gmail에서 개인 및 계정 정보와 활동을 보는 방법에 
 title: Google Mail에서 사용자 및 계정 정보 및 활동 보기
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/VdwGWuUbaN8xEagWhjxEBP6Tt5OYVh94ql7RQuXUcrU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: 301
 ht-degree: 6%
 
 ---

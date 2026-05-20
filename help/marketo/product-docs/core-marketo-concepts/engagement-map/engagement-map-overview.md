@@ -2,9 +2,13 @@
 description: 스마트 캠페인을 시각화하기 위한 참여 맵에 대해 알아봅니다. 이 패널을 사용하여 Marketo에서 트리거, 필터 및 흐름 단계를 직관적으로 볼 수 있습니다.
 title: 참여 맵 개요
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/vfOhI8VFlGNlAWloYu3Bwshu6bXR13tJCyc3YZN3pGY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: 763
 ht-degree: 1%
 
 ---

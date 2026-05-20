@@ -4,9 +4,13 @@ description: 영업 기회 동기화가 Salesforce에서 Marketo으로 작동하
 title: SFDC 동기화 - 영업 기회 동기화
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/r8JobWyGrFmN71de8J5xI-2-Ze7lPEsNRQ6V41Q4JQM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: 292
 ht-degree: 5%
 
 ---
@@ -19,7 +23,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
-> [!DNL Salesforce][&#128279;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)에 대해 Marketo에 입력한 자격 증명은 데이터를 동기화하는 데 사용됩니다. 해당 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
+> [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)에 대해 Marketo에 입력한 [자격 증명은 데이터를 동기화하는 데 사용됩니다. 해당 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
 
 ## Opportunity Sync 를 시작할 수 있습니까? {#can-i-initiate-an-opportunity-sync}
 

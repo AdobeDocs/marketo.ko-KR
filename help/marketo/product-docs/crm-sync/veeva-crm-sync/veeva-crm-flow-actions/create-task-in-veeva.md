@@ -3,9 +3,12 @@ description: Marketo의 Veeva에서 작업을 생성하여 영업 팀에게 수�
 title: ' [!DNL Veeva]에서 작업 만들기'
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/W4zIWswN64cHyqA7oQ9iku0iMC7Q6NqIpWiAcSgvD04
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: 134
 ht-degree: 0%
 
 ---
@@ -30,4 +33,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->`{{lead.tokens}}` 및 `{{company.tokens}}`에서 `{{campaign.tokens}}`, `{{system.tokens}}`, [!UICONTROL Subject] 및 [!UICONTROL Description]을(를) 사용할 수 있습니다. 자세한 내용은 [흐름 단계의 토큰](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}을 참조하세요.
+>[!UICONTROL Subject] 및 [!UICONTROL Description]에서 `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` 및 `{{system.tokens}}`을(를) 사용할 수 있습니다. 자세한 내용은 [흐름 단계의 토큰](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}을 참조하세요.

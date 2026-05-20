@@ -3,9 +3,14 @@ description: 릴리스 노트 - 2021년 1월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2021년 1월
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/0Mwxsvl6m0uIK7-L0GkX0mYKMnNXDuNjTmR-MBfLDXM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: fc9b09fe-b844-4544-887b-e420c3b82065
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1235'
+source-wordcount: 1301
 ht-degree: 0%
 
 ---
@@ -60,7 +65,7 @@ ht-degree: 0%
 ![(별)](assets/yellow-star.png)
 
 * **[향상된 테스트 전자 메일 워크플로([!DNL Salesforce] CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**: 향상된 [!DNL Sales Insight] 테스트 전자 메일 워크플로를 통해 영업팀의 효율성을 높이십시오. 판매자는 최대 200명의 수신자에게 대량 이메일을 보내기 전에 선택한 이메일 주소로 테스트 이메일을 보낼 수 있습니다.
-* **[전자 메일 상태([!DNL Salesforce] CRM)에 대한 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: 사용자가 전자 메일을 보내기 전에 잘못된 전자 메일 ID 또는 구독 취소한 전자 메일 주소로 전자 메일을 보내려고 하면 경고 메시지가 표시됩니다.  이메일 게재 상태는 [!DNL Sales Insight]의 이메일 탭에서 검토할 수 있습니다.
+* **[전자 메일 상태([!DNL Salesforce] CRM)에 대한 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: 사용자가 전자 메일을 보내기 전에 잘못된 전자 메일 ID 또는 구독 취소한 전자 메일 주소로 전자 메일을 보내려고 하면 경고 메시지가 표시됩니다. 전자 메일 게재 상태는 [!DNL Sales Insight]의 전자 메일 탭에서 검토할 수 있습니다.
 * **[계정](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout) 및 [영업 기회](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout) 패널([!DNL Salesforce] CRM)에서 일괄 전자 메일 보내기**: 새로운 일괄 작업 기능을 사용하여 판매자의 워크플로우의 효율성을 개선하고 전체 계정 또는 영업 기회 연락처 목록에 참여하십시오. 개별 연락처로 작업하는 대신 계정 또는 영업 기회 탭의 새로운 드롭다운 옵션을 사용하여 이메일을 보내거나 Marketo Engage 캠페인에 연락처를 추가합니다. 잠재 고객이 뜨거워지면 알림을 받을 계정 연락처를 관심 목록에 추가합니다.
 * **[[!DNL Sales Insight] 기본이 아닌 경우 [!DNL Salesforce] CRM 통합](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**: 사용자 지정 Salesforce CRM 통합을 통한 GA 구독으로 [!DNL Sales Insight] 패키지를 설치하고 영업 팀이 가장 유망한 리드 및 기회에 우선 순위를 지정하고 상호 작용할 수 있도록 지원합니다.
 * **[최고 베트 개선 사항](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**: 최고 베트 탭에서 최신 잠재 고객에게 이메일을 보내거나 Marketo Engage Campaign에 추가하여 빠르게 연락하십시오. Marketo Engage에서 리드를 보거나 관심 목록에 추가합니다. [!UICONTROL Best Bets] 탭의 대량 작업 및 정렬 옵션을 사용하면 시간을 절약하고 영업팀의 효율성을 향상시킬 수 있습니다.
@@ -69,7 +74,7 @@ ht-degree: 0%
 
 ![(별)](assets/yellow-star.png)
 
-* **전자 메일 연결 제한(BETA)**: :1에 대한 전자 메일 연결 제한을 사용하여 전자 메일 배달 능력을 개선하고 1[!DNL Sales Connect] 판매 커뮤니케이션을 확장하세요. 새로운 조절 기술은 [!DNL Exchange] 및 Gmail 사용자를 위한 원활한 경험을 만들기 위해 전자 메일 전송 타이밍을 자동으로 관리합니다. 서드파티 벌크 이메일 전송 애플리케이션의 사용을 줄이거나 제거합니다.
+* **전자 메일 연결 제한(BETA)**: [!DNL Sales Connect]에 대한 전자 메일 연결 제한을 사용하여 전자 메일 배달 능력을 개선하고 1:1 판매 커뮤니케이션을 확장하세요. 새로운 조절 기술은 [!DNL Exchange] 및 Gmail 사용자를 위한 원활한 경험을 만들기 위해 전자 메일 전송 타이밍을 자동으로 관리합니다. 서드파티 벌크 이메일 전송 애플리케이션의 사용을 줄이거나 제거합니다.
 * **전자 메일 연결 바운스 추적**: 새로운 전자 메일 바운스 보고서를 사용하여 insight의 잠재 고객 품질과 전자 메일 템플릿 성능을 향상시킵니다. [!DNL Exchange] 및 Gmail 사용자는 라이브 피드, 전자 메일 폴더, 템플릿 분석 및 Campaign Analytics로 롤업되는 바운스 알림을 받도록 선택할 수 있습니다.
 * **프로필 페이지 구성**: 새 프로필 페이지에서 사용자 환경 설정을 쉽게 관리할 수 있습니다. 한 곳에서 암호 변경, 지리적 위치 및 언어 설정 편집, 통합 상태 검토 등의 작업을 수행할 수 있습니다.
 * **템플릿 관리**: 관련 템플릿에 빠르게 액세스하고 검색 시간을 단축할 수 있도록 새로운 드래그 앤 드롭 기능을 사용하여 판매 전자 메일 템플릿을 카테고리로 구성합니다.
@@ -77,9 +82,9 @@ ht-degree: 0%
 
 **_공지 및 사용 중단_**
 
-* 모든 사용자는 2021년 1월 15일 이전 **Sales Insight의 최신 버전으로 업그레이드해야 합니다**. 업그레이드를 완료하지 않은 경우 애플리케이션에 로그인하면 업그레이드를 완료하라는 메시지가 표시됩니다. 이 안내서 [의 지침 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)을(를) 따릅니다. 업데이트된 버전에는 식별된 보안 취약점에 대한 패치가 포함되어 있습니다. 해당 패치는 원래 2016년 4월 6일에 출시되었습니다. 참고: **버전 1.4363 이상**&#x200B;은(는) 업그레이드를 수행할 필요가 없습니다.
+* 모든 사용자는 2021년 1월 15일 이전 **Sales Insight의 최신 버전으로 업그레이드해야 합니다**. 업그레이드를 완료하지 않은 경우 애플리케이션에 로그인하면 업그레이드를 완료하라는 메시지가 표시됩니다. 이 안내서 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)의 지침 [을(를) 따릅니다. 업데이트된 버전에는 식별된 보안 취약점에 대한 패치가 포함되어 있습니다. 해당 패치는 원래 2016년 4월 6일에 출시되었습니다. 참고: **버전 1.4363 이상**&#x200B;은(는) 업그레이드를 수행할 필요가 없습니다.
 * 양식 1.0 서비스 사용 중단이 **2021년 5월** 릴리스에 적용됩니다. Forms 1.0 서비스는 완전히 중단되어 사용 중인 나머지 Forms 1.0 자산의 기능이 손실됩니다. 또한 leadCapture/save 및 leadCapture/save2 종단점에 대한 프로그래밍 방식 양식 POST와 같이 지원되지 않는 메서드를 통해 제출된 양식이 거부됩니다. 자세한 내용 및 수정 사항은 [Marketing Nation의 게시물](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-the-Marketo-Engage-Form-Platform/ta-p/306631)을 참조하세요.
-* 2021년에 Marketo Engage은 랜딩 페이지, 양식, 이미지 및 파일 에셋의 URL 구조를 변경할 예정입니다. 기존 Marketo Engage 구독의 경우 2021년 4월 1일부터 점진적 롤아웃이 시작됩니다. 롤아웃 타임라인에 대한 자세한 내용은 2021년 3월에 공개될 예정입니다. 영향을 받는 각 에셋 유형의 변경 방법에 대한 자세한 내용은 [Marketing Nation의 게시물](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632)을 참조하세요.
+* 2021년에 Marketo Engage은 랜딩 페이지, 양식, 이미지 및 파일 에셋의 URL 구조를 변경할 예정입니다. 기존 Marketo Engage 구독의 경우 2021년 4월 1일부터 점진적 롤아웃이 시작됩니다. 롤아웃 타임라인에 대한 자세한 내용은 2021년 3월에 공개됩니다. 영향을 받는 각 에셋 유형의 변경 방법에 대한 자세한 내용은 [Marketing Nation의 게시물](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632)을 참조하세요.
 
 **_제품 릴리스 웨비나_**
 

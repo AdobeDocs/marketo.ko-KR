@@ -4,9 +4,13 @@ description: Microsoft Dynamics 365에서 Marketo Sales Insight을 설치하고 
 title: Microsoft Dynamics 365에 Marketo Sales Insight 설치 및 구성
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
 feature: Marketo Sales Insights
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/F3iRn29xvOCHkuXSitfaT8iPJrlOXKeTQ3sxtGHpXGg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: 398
 ht-degree: 5%
 
 ---
@@ -43,7 +47,7 @@ ht-degree: 5%
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. 새 창에서 **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다. 1[&#128279;](#msi)단계에서 다운로드한 Marketo Sales Insight 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
+1. 새 창에서 **[!UICONTROL Browse]**&#x200B;을(를) 클릭합니다. 1](#msi)단계에서 다운로드한 [Marketo Sales Insight 솔루션을 선택합니다. **[!UICONTROL Next]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-13-15-3a38-3a49.png)
 

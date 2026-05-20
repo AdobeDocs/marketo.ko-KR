@@ -3,10 +3,15 @@ description: 릴리스 노트 - 2022년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2022년 6월
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/7AVr5aiUkEGNwpZMiQpl2JrhsX9yKP85aTcJhHwuXDY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 4%
+source-wordcount: 620
+ht-degree: 5%
 
 ---
 
@@ -30,7 +35,7 @@ ht-degree: 4%
 
 * **[!DNL Dynamic Chat]**&#x200B;에 대한 고급 약속 라우팅 규칙: [!DNL Dynamic Chat]에서는 대상 약속 라우팅에 대한 추가 옵션을 제공합니다. Marketo Engage 속성에 따라 라우팅할 에이전트 약속을 지정하여 리드가 적절한 에이전트로 라우팅되도록 합니다.
 
-* **에 대한[!DNL Dynamic Chat]**&#x200B;고급 대화 상자 보고: 참여 및 전환 지표에 대한 새로운 데이터 시각화를 사용하여 [!DNL Dynamic Chat] 캠페인의 성과를 자세히 봅니다.
+* [!DNL Dynamic Chat]**에 대한**&#x200B;고급 대화 상자 보고: 참여 및 전환 지표에 대한 새로운 데이터 시각화를 사용하여 [!DNL Dynamic Chat] 캠페인의 성과를 자세히 봅니다.
 
 * **[!DNL Dynamic Chat]**&#x200B;에 대해 사용하지 않은 Marketo Engage 특성 동기화 해제: 사용되지 않는 [!DNL Dynamic Chat] 구독의 Marketo Engage 특성을 동기화하지 않으므로 데이터를 깔끔하게 정리하고 필요에 따라 다른 특성을 동기화할 수 있습니다.
 
@@ -38,8 +43,8 @@ ht-degree: 4%
 
 **새로운 전환 보기**: 이제 다음 보기를 차세대 환경에서 사용할 수 있습니다.
 
-* [전자 메일 세부 정보 보기](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [전자 메일 목록 보기](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [이메일 세부 정보 보기](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [이메일 목록 보기](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## Experience Automated {#experience-automation}
 
@@ -55,7 +60,7 @@ ht-degree: 4%
 
 ![(별)](assets/yellow-star.png)
 
-* **[!DNL Sales Insight]의[!DNL Salesforce]** 사용 권한 집합: 관리자는 [!DNL Sales Insight] [!DNL Sales Insight] 패키지의 일부인 Marketo 앱 사용 권한 집합을 통해 프로필 수준이 아닌 사용자 수준의 제한된 사용자 집합에 대한 [!DNL Salesforce] 액세스 권한을 제공할 수 있습니다.
+* [!DNL Salesforce]**의**[!DNL Sales Insight] 사용 권한 집합: 관리자는 [!DNL Sales Insight] [!DNL Salesforce] 패키지의 일부인 Marketo 앱 사용 권한 집합을 통해 프로필 수준이 아닌 사용자 수준의 제한된 사용자 집합에 대한 [!DNL Sales Insight] 액세스 권한을 제공할 수 있습니다.
 
 * **내 Marketo 타일 업데이트 - [!DNL Sales Insight] 작업**: Marketo 관리자(및 사용자가 지정한 사용자)는 이제 내 Marketo 페이지에 있는 새 [!DNL Sales Insight] 작업 타일을 통해 [!DNL Sales Insight] 작업 인스턴스로 빠르게 이동할 수 있습니다.
 

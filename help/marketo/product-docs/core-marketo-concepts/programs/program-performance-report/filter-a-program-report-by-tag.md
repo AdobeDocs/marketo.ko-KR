@@ -4,16 +4,19 @@ description: 태그로 프로그램 보고서를 필터링하는 방법을 알�
 title: 태그별로 프로그램 보고서 필터링
 exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/nSFFRW8SfT0CF9x60FDQlQ0vAzARYkm9GgxhGUuQsB8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: 86
 ht-degree: 15%
 
 ---
 
 # 태그별로 프로그램 보고서 필터링 {#filter-a-program-report-by-tag}
 
-특정 [태그](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)에 [프로그램 성과 보고서](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}의 초점을 맞추십시오.
+특정 [태그](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}에 [프로그램 성과 보고서](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)의 초점을 맞추십시오.
 
 1. **[!UICONTROL Marketing Activities]**(또는 **[!UICONTROL Analytics]**)(으)로 이동합니다.
 
@@ -35,7 +38,7 @@ ht-degree: 15%
 
    ![](assets/prospect2.jpg)
 
-1. 완료! 보고서에서 선택한 태그와 일치하는 **[!UICONTROL Report]** just _프로그램을 보려면_ 탭을 클릭하십시오.
+1. 완료! 보고서에서 선택한 태그와 일치하는 _just_&#x200B;프로그램을 보려면 **[!UICONTROL Report]** 탭을 클릭하십시오.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 

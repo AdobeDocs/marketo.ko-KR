@@ -4,9 +4,11 @@ description: Sales Connect의 대량 전송 옵션에 대해 알아봅니다. �
 title: 일괄 게재 옵션
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/NUW1-99Akcjv-rv4uknctidG-vIZjmKwpWgdJr-ypDc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: 270
 ht-degree: 4%
 
 ---
@@ -32,7 +34,7 @@ ht-degree: 4%
    <th><p><span>최대 </span><span>전자 메일</span><span>메일</span> 수 </p></th>
    <th><p><span>시작한 </span><span>보내는 사람</span></p></th>
    <th><p><span>일괄 </span><span>전자 메일 편집</span> </p></th>
-   <th><p>각 전자 메일 <span></span>고유하게<span>마다 </span>편집<span></span> </p></th>
+   <th><p>각 전자 메일 </span><span>고유하게</span>마다 <span>편집</span><span> </p></th>
    <th><p><span>템플릿 및 </span><span>동적 필드 지원</span> </p></th>
   </tr>
   <tr>

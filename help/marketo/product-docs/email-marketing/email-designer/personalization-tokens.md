@@ -7,9 +7,14 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/2F6SP0sUvcScw0Y86X10nRTfL2b45krGTLeSi-td7Uc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: 263
 ht-degree: 1%
 
 ---
@@ -24,7 +29,7 @@ ht-degree: 1%
 
 ## 기본 사용 사례 {#primary-use-case}
 
-이 개선 사항은 주로 [Velocity 스크립팅](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting){target="_blank"}에서 Handlebar 스크립팅으로 전환하는 데 도움이 됩니다. 새 이메일 디자이너는 새 토큰 형식만 지원합니다. 업데이트된 형식은 공백을 제거하고 수정된 기본 텍스트 구조를 도입하여 더 유연하고 효율적인 스크립팅 환경을 보장합니다.
+이 개선 사항은 주로 [Velocity 스크립팅](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"}에서 Handlebar 스크립팅으로 전환하는 데 도움이 됩니다. 새 이메일 디자이너는 새 토큰 형식만 지원합니다. 업데이트된 형식은 공백을 제거하고 수정된 기본 텍스트 구조를 도입하여 더 유연하고 효율적인 스크립팅 환경을 보장합니다.
 
 ## 토큰 경험 {#token-experience}
 

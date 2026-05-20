@@ -4,16 +4,19 @@ description: Marketo에서 양식 테마의 CSS를 편집하는 방법을 알아
 title: 양식 테마의 CSS 편집
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/TL1wjn5oKpA2QO-6UKKkbQc3zbaQ2l7tdpHpj0-kN-M
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: 176
 ht-degree: 11%
 
 ---
 
 # 양식 테마의 CSS 편집 {#edit-the-css-of-a-form-theme}
 
-[&#128279;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)에서 선택할 수 있는 미리 만들어진 테마가 몇 개 있습니다. 그러나 CSS 편집이 마음에 들면 원하는 대로 변경할 수 있습니다. 방법은 다음과 같습니다.
+](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)에서 선택할 수 있는 미리 만들어진 [테마가 몇 개 있습니다. 그러나 CSS 편집이 마음에 들면 원하는 대로 변경할 수 있습니다. 방법은 다음과 같습니다.
 
 >[!NOTE]
 >

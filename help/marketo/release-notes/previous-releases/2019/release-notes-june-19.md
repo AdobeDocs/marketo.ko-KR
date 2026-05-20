@@ -4,9 +4,14 @@ description: 릴리스 노트 - 2019년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2019년 6월
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/l-uJTEC4AHKsGj-BPUHaIVvCpZkeXHSlNW9fivL6NrI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: 639
 ht-degree: 0%
 
 ---
@@ -22,7 +27,7 @@ ht-degree: 0%
 ## Marketo 핵심 서비스 {#marketo-core-services}
 
 * **파일 체크섬 일괄 추출**: 파일 해시를 완료된 추출 작업의 체크섬 문자열과 비교하여 전체 파일이 검색되었는지 확인하십시오.
-* **이메일 1.0에서 이메일 2.0으로 자동 마이그레이션**: 이메일 2.0은 이메일 1.0 이메일 및 템플릿과 완전히 호환됩니다. 콘텐츠 요소(이미지, 텍스트 등)를 모듈로 그룹화하고 문자열, 색상, 이미지 등과 같은 변수를 정의하는 기능과 같은 새로운 기능을 활용할 수 있습니다. 템플릿 내에서 완전히 반응형 스타터 템플릿을 활용하십시오. 또한 시각적 이메일 템플릿 선택기도 포함됩니다.
+* **이메일 1.0에서 이메일 2.0으로 자동 마이그레이션**: 이메일 2.0은 이메일 1.0 이메일 및 템플릿과 완전히 호환됩니다. 콘텐츠 요소(이미지, 텍스트 등)를 그룹화하는 기능과 같은 새로운 기능을 즐겨 보십시오. 모듈로 템플릿 내에서 문자열, 색상, 이미지 등과 같은 변수를 정의하고 전체 응답형 스타터 템플릿을 활용합니다. 또한 시각적 이메일 템플릿 선택기도 포함됩니다.
 
 >[!CAUTION]
 >
@@ -51,12 +56,12 @@ ht-degree: 0%
 * **커뮤니티 블로그 게시물 위젯**: 내 Marketo 내 커뮤니티의 최근 게시물에 액세스합니다.
 * **곧 만료 위젯**: &quot;곧 만료&quot; 위젯을 My Marketo 대시보드에 추가하여 다음에 만료될 캠페인과 랜딩 페이지를 확인합니다.
 * **추가 스마트 목록 카드**: &quot;작업 만들기&quot; 흐름 단계, CRM 스마트 목록 규칙 등을 포함하여 추가 스마트 목록 카드를 적절히 세그먼트화하고 타깃팅합니다.
-* **전자 메일 챔피언/챌린저 세부 정보 페이지**: 우승 기준, 만들어진 위치 등의 데이터를 확인하세요. 이메일 챔피언/챌린저 테스트에서.
+* **전자 메일 챔피언/챌린저 세부 정보 페이지**: 전자 메일 챔피언/챌린저 테스트에서 채택 기준, 만든 위치 등의 데이터를 확인하십시오.
 
 ## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 
-* **사용자 지정의 [!DNL Salesforce]일괄 작업**: [!DNL Salesforce] 사용자 지정을 사용하여 이메일을 보내고 연락처를 캠페인에 일괄 추가하여 생산성을 극대화합니다.
-* **설정 - 관리자 및 관리자가 아닌 사용자를 위한 [!DNL Salesforce] 페이지**: [!DNL Sales Connect]에 연결된 [!DNL Salesforce] 인스턴스 및 [!DNL Sales Connect] 업데이트에 대한 내 전자 메일을 명확하게 확인하여 [!DNL Salesforce] 인스턴스를 관리합니다. 관리자, 관리자가 아닌 사용자 및 Team Wide Sync에 대한 향상된 동기화 설정이 몇 달 후에 릴리스됩니다.
+* [!DNL Salesforce] 사용자 지정의 **일괄 작업**: [!DNL Salesforce] 사용자 지정을 사용하여 이메일을 보내고 연락처를 캠페인에 일괄 추가하여 생산성을 극대화합니다.
+* **설정 - 관리자 및 관리자가 아닌 사용자를 위한 [!DNL Salesforce] 페이지**: [!DNL Sales Connect]에 연결된 [!DNL Salesforce] 인스턴스 및 [!DNL Salesforce] 업데이트에 대한 내 전자 메일을 명확하게 확인하여 [!DNL Sales Connect] 인스턴스를 관리합니다. 관리자, 관리자가 아닌 사용자 및 Team Wide Sync에 대한 향상된 동기화 설정이 몇 달 후에 릴리스됩니다.
 * **설정 - 통합 페이지**: 개방형 에코시스템을 최대한 활용할 수 있도록 모든 통합을 위한 원스톱 샵입니다.
 * **설정 - 프로필 페이지**: 계정 세부 정보를 보고 업데이트하며, 암호를 변경하고, 이 새 프로필 페이지에서 인스턴스의 구현 상태를 확인합니다.
 
@@ -64,8 +69,8 @@ ht-degree: 0%
 
 ## Marketo의 [!DNL Bizible] {#bizible-by-marketo}
 
-* **에 대한[!DNL Dynamics]**&#x200B;다중 통화 지원: [!DNL Bizible]은(는) 이제 [!DNL Microsoft Dynamics] 통화 테이블에 적용되므로 회사 통화와 로컬 통화 간에 쉽게 전환할 수 있습니다. (참고: SFDC에 대한 지원은 2019년 1분기에 릴리스되었습니다.)
+* [!DNL Dynamics]**에 대한**&#x200B;다중 통화 지원: [!DNL Bizible]은(는) 이제 [!DNL Microsoft Dynamics] 통화 테이블에 적용되므로 회사 통화와 로컬 통화 간에 쉽게 전환할 수 있습니다. (참고: SFDC에 대한 지원은 2019년 1분기에 릴리스되었습니다.)
 * **드리프트 통합**: 드리프트 대화가 고객의 여정에 미치는 영향을 이해합니다. [!DNL Bizible]은(는) 대화에서 전자 메일 주소를 가져와서 새 리드를 만들거나 터치포인트를 기존 리드에 연결합니다.
 * **로컬라이제이션**: [!DNL Bizible]은(는) 이제 모든 Marketo 지원 언어(영어, 일본어, 독일어, 스페인어, 프랑스어 및 포르투갈어)로 제공됩니다.
 
-_&#x200B;**제품 릴리스 웨비나**&#x200B;_ 2019년 6월 릴리스 혁신 웨비나 녹화를 시청하십시오 [여기](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**제품 릴리스 웨비나**_ 2019년 6월 릴리스 혁신 웨비나 녹화를 시청하십시오 [여기](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

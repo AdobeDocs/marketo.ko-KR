@@ -4,9 +4,14 @@ description: 릴리스 노트 - 18년 가을 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2018년 가을
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ng2JBt9YypuHeDaRY2cqVlPtZpfzW20pgaq2dIMgJe4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b4dd41a7-ccf8-4e9d-918e-acaab534a307id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: 833
 ht-degree: 0%
 
 ---
@@ -30,7 +35,7 @@ ht-degree: 0%
 * **확장된 지원:[!DNL Microsoft Office]**
 
    * [!DNL Outlook]을(를) 게재 채널로 사용: 이제 마케터는 전자 메일 참여에 [!DNL Outlook]을(를) 활용하여 게재 가능성 및 응답 추적을 개선할 수 있습니다.
-   * [!DNL Office] 365 전자 메일 지원 개선 사항: Marketo [!DNL Sales Engage]은(는) Mac의 경우 [!DNL Outlook]에서 직접 사용할 수 있고, [!DNL Outlook]의 경우 [!DNL Windows]에서 사용할 수 있으며, [!DNL Outlook] 365 전자 메일 클라이언트의 경우 [!DNL Office] 웹 응용 프로그램에서 사용할 수 있으므로 모든 [!DNL Sales Engage] 사용자가 Marketo [!DNL Office]을(를) 쉽게 사용할 수 있습니다.
+   * [!DNL Office] 365 전자 메일 지원 개선 사항: Marketo [!DNL Sales Engage]은(는) Mac의 경우 [!DNL Outlook]에서 직접 사용할 수 있고, [!DNL Windows]의 경우 [!DNL Outlook]에서 사용할 수 있으며, [!DNL Office] 365 전자 메일 클라이언트의 경우 [!DNL Outlook] 웹 응용 프로그램에서 사용할 수 있으므로 모든 [!DNL Office] 사용자가 Marketo [!DNL Sales Engage]을(를) 쉽게 사용할 수 있습니다.
 
 * **향상된 관리자 및 사용자 로그인 경험**
 
@@ -100,7 +105,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Q3 릴리스의 일부로 [!DNL OAuth]의 [!DNL GoToWebinar] 버전을 1.0에서 2.0으로 업그레이드합니다. 이 변경 사항은 2019년 1월에 [!DNL GoToWebinar] 1.0에 대한 지원을 중단하는 대신 [!DNL OAuth]에 미리 적용됩니다. [!DNL GoToWebinar] 고객인 경우 통합이 계속 작동하도록 하려면 2019년 1월 이전에 [!DNL LaunchPoint]&#x200B;([!UICONTROL Admin] 영역)을 통해 다시 인증해야 합니다.
+>Q3 릴리스의 일부로 [!DNL GoToWebinar]의 [!DNL OAuth] 버전을 1.0에서 2.0으로 업그레이드합니다. 이 변경 내용은 2019년 1월에 [!DNL OAuth] 1.0에 대한 지원을 사용하지 않는 [!DNL GoToWebinar]에 앞서 적용되었습니다. [!DNL GoToWebinar] 고객인 경우 통합이 계속 작동하도록 하려면 2019년 1월 이전에 [!DNL LaunchPoint]&#x200B;([!UICONTROL Admin] 영역)을 통해 다시 인증해야 합니다.
 
 >[!NOTE]
 >

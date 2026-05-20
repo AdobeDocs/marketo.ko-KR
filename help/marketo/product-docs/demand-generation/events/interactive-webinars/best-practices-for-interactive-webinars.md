@@ -3,9 +3,13 @@ description: Marketo의 대화형 웨비나 모범 사례에 대한 도움말을
 title: 대화형 웨비나에 대한 모범 사례
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2: id: e9001ce2-5245-4a8e-8601-dd958009072fid: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1759'
+source-wordcount: 1759
 ht-degree: 0%
 
 ---
@@ -85,7 +89,7 @@ ht-degree: 0%
 
 * **Q&amp;A Pod**: 질문을 제출한 참가자의 이름과 대답한 호스트/발표자의 이름을 모두 숨길 수 있습니다. Room Preferences의 &quot;Q&amp;A Pod&quot; 섹션에서 개인 정보 옵션을 선택 취소하면 됩니다.
 
-* **채팅 패널**: 채팅 패널이 세션 녹화의 일부가 아닌 채팅 영역입니다. 따라서 채팅이 녹화에 표시되지 않도록 하려면 채팅 Pod 대신 채팅 패널을 사용하십시오. 채팅 패널 사용에 대한 자세한 내용을 보려면 [여기를 클릭하세요](https://helpx.adobe.com/kr/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
+* **채팅 패널**: 채팅 패널이 세션 녹화의 일부가 아닌 채팅 영역입니다. 따라서 채팅이 녹화에 표시되지 않도록 하려면 채팅 Pod 대신 채팅 패널을 사용하십시오. 채팅 패널 사용에 대한 자세한 내용을 보려면 [여기를 클릭하세요](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
 * **개인 채팅**: 참가자가 다른 참가자를 ping할 수 없도록 개인 채팅을 끕니다. 이는 방 환경 설정의 &quot;채팅&quot; 섹션에서 &quot;참가자가 개인적으로 채팅할 수 있도록 허용&quot;을 선택 취소하면 됩니다.
 

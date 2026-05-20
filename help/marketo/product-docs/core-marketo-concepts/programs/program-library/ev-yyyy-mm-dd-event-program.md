@@ -3,9 +3,14 @@ description: 이벤트 프로그램 템플릿. 이 플러그인을 사용하여 
 title: EV-YYYY-MM-DD-이벤트 프로그램
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/iS2x0wrTXkoRryyLEFCVXrDRrzdFw7sYEHl0k1FoBKQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: 600
 ht-degree: 17%
 
 ---
@@ -14,7 +19,7 @@ ht-degree: 17%
 
 다음은 Marketo Engage 이벤트 프로그램을 활용하는 등록 페이지, 3개의 초대 이메일 및 후속 이메일이 있는 이벤트 프로그램의 예입니다. 로드쇼, 점심 식사, 저녁 식사 또는 무역 박람회 행사의 프레젠테이션을 포함하여 등록이 필요한 모든 이벤트에 적합합니다.
 
-추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
+추가 전략 지원 또는 프로그램 사용자 지정에 도움이 필요하면 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} 페이지를 방문하십시오.
 
 ## 채널 요약 {#channel-summary}
 

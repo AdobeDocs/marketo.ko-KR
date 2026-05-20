@@ -4,9 +4,11 @@ description: 목록 및 스마트 목록의 보기를 만들고 변경하는 방
 title: 목록 및 스마트 목록에 대한 보기 만들기 및 변경
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/2MeSAe-8Or9R-MpHcCuUhTVARl-xkweRcyqowWAlQEM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: 214
 ht-degree: 8%
 
 ---

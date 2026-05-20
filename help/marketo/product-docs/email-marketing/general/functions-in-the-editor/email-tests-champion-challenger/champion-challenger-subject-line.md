@@ -4,9 +4,11 @@ description: 챔피언/챌린저 제목 줄 테스트를 실행하는 방법을 
 title: 챔피언/챌린저 제목 줄
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/CyptDxnnRX1bG8RvAXE-lpfEVoibAkdBFcmMZzDqfxM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: 282
 ht-degree: 2%
 
 ---
@@ -19,7 +21,7 @@ ht-degree: 2%
 >
 >[전자 메일 챔피언/도전자 추가](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. 전자 메일 테스트 편집기의 **[!UICONTROL Subject Line]** 드롭다운에서 **[!UICONTROL Test Type]**&#x200B;을(를) 선택합니다.
+1. 전자 메일 테스트 편집기의 **[!UICONTROL Test Type]** 드롭다운에서 **[!UICONTROL Subject Line]**&#x200B;을(를) 선택합니다.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 

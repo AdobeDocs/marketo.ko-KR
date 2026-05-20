@@ -4,9 +4,13 @@ title: 다크 모드
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/zGeCSfSKkyTkteiTaPmkiirkOXxEP1YVdWmHMvSWnR0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1210'
+source-wordcount: 1214
 ht-degree: 1%
 
 ---
@@ -52,7 +56,7 @@ ht-degree: 1%
 
 ### 사용자 정의 다크 모드를 지원하는 클라이언트 {#custom-dark-mode}
 
-일부 이메일 클라이언트는 `@media (prefers-color-scheme: dark)` 이메일 Designer에서 사용하는 메서드인 [!DNL Marketo Engage] 쿼리를 사용하여 사용자 지정 다크 모드를 렌더링하는 옵션을 제공합니다.
+일부 이메일 클라이언트는 [!DNL Marketo Engage] 이메일 Designer에서 사용하는 메서드인 `@media (prefers-color-scheme: dark)` 쿼리를 사용하여 사용자 지정 다크 모드를 렌더링하는 옵션을 제공합니다.
 
 이 옵션을 처리하는 주 클라이언트는 다음과 같습니다.
 
@@ -121,7 +125,7 @@ ht-degree: 1%
 
 1. 텍스트, 배경, 단추 등의 모든 스타일 색상 속성을 편집합니다.
 
-1. 이미지 및 아이콘의 색상을 변경할 수는 없지만 어두운 모드에 대해서만 특정 에셋을 정의할 수 있습니다. 이렇게 하려면 이미지를 선택합니다. **[!UICONTROL Dark mode]** 창의 전용 토글을 사용하여 **[!UICONTROL Settings]**(으)로 전환하고 다른 에셋을 선택하세요.
+1. 이미지 및 아이콘의 색상을 변경할 수는 없지만 어두운 모드에 대해서만 특정 에셋을 정의할 수 있습니다. 이렇게 하려면 이미지를 선택합니다. **[!UICONTROL Settings]** 창의 전용 토글을 사용하여 **[!UICONTROL Dark mode]**(으)로 전환하고 다른 에셋을 선택하세요.
 
    ![](assets/dark-mode-3.png)
 

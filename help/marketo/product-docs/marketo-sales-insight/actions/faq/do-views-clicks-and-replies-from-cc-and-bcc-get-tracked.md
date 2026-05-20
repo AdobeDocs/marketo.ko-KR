@@ -2,9 +2,11 @@
 description: 보기, 클릭 수 및 답글에 대해 CC 및 BCC 수신자를 추적하는지 여부를 알아봅니다. 여러 수신자에 대한 추적 동작을 이해합니다.
 title: 이메일의 CC 및 BCC 섹션에 나열된 수신자의 조회수, 클릭수, 회신이 추적됩니까?
 exl-id: 9a839c61-7fcc-4a7f-a99e-ec5a4c2cc4f9
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/6WEiHF1p3GFOXDvjro4ZZ3qsVm9LgHziWWwIauB4uwE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: 118
 ht-degree: 33%
 
 ---

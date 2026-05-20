@@ -3,9 +3,13 @@ description: Marketo Sales Insight과의 Dynamic Chat 통합에 대해 알아봅
 title: Dynamic Chat 통합
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/6KP-StSNikG472sbPnquQqChyiIxPA1c-m1d-xyC7lo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: 363
 ht-degree: 6%
 
 ---
@@ -38,7 +42,7 @@ Sales Insight과 Dynamic Chat 통합에 대해 자세히 알아보십시오.
 
 ## 기능 개요 {#feature-overview}
 
-[!DNL Dynamic Chat] 사용자가 다음 [!DNL Sales Insight] 활동을 활용할 수 있습니다.
+[!DNL Sales Insight] 사용자가 다음 [!DNL Dynamic Chat] 활동을 활용할 수 있습니다.
 
 참여 대화 상자: 방문자가 챗봇을 클릭하고 대화 상자에 참여하면 Marketo에 로그인되고 [!DNL Sales Insight]에 채워집니다.
 
@@ -86,7 +90,7 @@ Document와 상호 작용: 방문자가 챗봇을 통해 공유된 문서와 상
 
 * [!UICONTROL Person]
 * [!UICONTROL Account]
-* [!UICONTROL Activity type]&#x200B;([!UICONTROL Engaged Dialogue], [!UICONTROL Scheduled Appointment], [!UICONTROL Reached Goal])
+* [!UICONTROL Activity type] ([!UICONTROL Engaged Dialogue], [!UICONTROL Scheduled Appointment], [!UICONTROL Reached Goal])
 * [!UICONTROL Dialogue Name]
 * [!UICONTROL Date]
 

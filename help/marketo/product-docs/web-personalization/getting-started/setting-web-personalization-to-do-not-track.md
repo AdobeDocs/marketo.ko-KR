@@ -4,9 +4,13 @@ description: 웹 개인화를 로 설정하는 것을 포함하여 Marketo Engag
 title: 웹 개인화를 추적 금지로 설정
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/A0tlq8LE2lrjor1nYTB5z5TjcYNccL3XEdjIkMQHERk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: 183
 ht-degree: 4%
 
 ---
@@ -33,4 +37,4 @@ ht-degree: 4%
    >
    >토글을 [!UICONTROL On]&#x200B;(으)로 설정하면 특정 영역의 Marketo 값 및 기능에 영향을 줄 수 있습니다.
 
-1. [!UICONTROL Honor DNT] 토글을 사용하지 않도록 설정하고 브라우저의 DNT(추적 안 함) 설정을 무시하려면 **[!UICONTROL Off]**&#x200B;에서 [!UICONTROL Honor DNT]을(를) 선택합니다.
+1. [!UICONTROL Honor DNT] 토글을 사용하지 않도록 설정하고 브라우저의 DNT(추적 안 함) 설정을 무시하려면 [!UICONTROL Honor DNT]에서 **[!UICONTROL Off]**&#x200B;을(를) 선택합니다.

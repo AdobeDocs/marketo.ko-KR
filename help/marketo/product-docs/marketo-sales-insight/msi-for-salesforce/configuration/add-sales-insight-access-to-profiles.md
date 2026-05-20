@@ -3,9 +3,13 @@ description: Salesforce 프로필에 Sales Insight 액세스 권한을 추가하
 title: 프로필에 Sales Insight 액세스 추가
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/n3IZiKAL8DonU5nAkNs-Y8AbGszSIn3J8LQM2LjvDEw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: 373
 ht-degree: 5%
 
 ---
@@ -36,7 +40,7 @@ ht-degree: 5%
 
 1. 프로필 목록으로 돌아갑니다.
 
-1. 방금 만든 새 프로필(또는 **[!UICONTROL Edit]**&#x200B;에게 액세스 권한을 부여할 다른 기존 프로필)에 대한 [!DNL Sales Insight] 링크를 클릭합니다.
+1. 방금 만든 새 프로필(또는 [!DNL Sales Insight]에게 액세스 권한을 부여할 다른 기존 프로필)에 대한 **[!UICONTROL Edit]** 링크를 클릭합니다.
 
 1. 편집 페이지에서 몇 가지 설정을 변경해야 합니다.
 
@@ -45,7 +49,7 @@ ht-degree: 5%
    * 탭 설정에서 Marketo 탭을 기본값 설정으로 변경합니다.
    * 사용자 지정 개체 권한에서 [!DNL Marketo Sales Insight] 구성에 대한 읽기, 만들기, 편집 및 삭제를 선택합니다(사용자가 구성 설정에 액세스할 수 있어야 하는 경우 - 일반적으로 관리자를 위해 사용됨).
 
-   **에 액세스할 수 없는 프로필의 경우[!DNL Sales Insight]**:
+   [!DNL Sales Insight]**에 액세스할 수 없는 프로필의 경우**:
 
    * 탭 설정에서 Marketo 탭을 탭 숨김으로 변경합니다
    * 사용자 지정 개체 권한에서 [!DNL Marketo Sales Insight] 구성에서 읽기, 만들기, 편집 및 삭제 선택을 취소합니다
@@ -68,7 +72,7 @@ ht-degree: 5%
 
 1. **[!UICONTROL Edit Assignment]**&#x200B;를 선택합니다.
 
-1. 목록에서 [!DNL Sales Insight] 프로필을 선택한 다음 &quot;[!DNL Sales insight]&quot; 드롭다운에서 [!UICONTROL Select Page Layout] 레이아웃을 선택합니다.
+1. 목록에서 [!DNL Sales Insight] 프로필을 선택한 다음 &quot;[!UICONTROL Select Page Layout]&quot; 드롭다운에서 [!DNL Sales insight] 레이아웃을 선택합니다.
 
 1. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
@@ -78,5 +82,5 @@ ht-degree: 5%
 
 [!DNL Sales Insight]개 항목이 나타날 수 있는 다른 위치도 있습니다. 프로필을 사용하여 액세스 권한을 제한할 수 없으므로 즉시 제거해야 합니다.
 
-* [!DNL Sales Insight], [!UICONTROL Contacts] 및 [!UICONTROL Leads]의 검색 레이아웃에서 [!UICONTROL Accounts] 단추 제거
+* [!UICONTROL Contacts], [!UICONTROL Leads] 및 [!UICONTROL Accounts]의 검색 레이아웃에서 [!DNL Sales Insight] 단추 제거
 * 연락처 및 잠재 고객 목록에서 [!DNL Sales Insight]개 열 제거

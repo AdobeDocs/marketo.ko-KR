@@ -4,9 +4,12 @@ title: 이메일 공동 작업
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: 316
 ht-degree: 2%
 
 ---
@@ -21,7 +24,7 @@ ht-degree: 2%
 
 ## 댓글 추가 {#add-comments}
 
-1. 이메일 Designer에서 이메일을 만들거나 편집할 때 편집 가능한 섹션에서 구조, 열 또는 컨텐츠(텍스트, 이미지, 단추 등)를 클릭합니다.
+1. 이메일 Designer에서 이메일을 만들거나 편집할 때 구조, 열 또는 컨텐츠(텍스트, 이미지, 단추 등)를 클릭합니다. 편집 가능한 섹션 위로 이동합니다.
 
    ![](assets/email-collaboration-1.png)
 

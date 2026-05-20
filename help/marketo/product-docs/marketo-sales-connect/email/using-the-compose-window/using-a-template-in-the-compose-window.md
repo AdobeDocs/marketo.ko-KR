@@ -4,9 +4,12 @@ description: Sales Connect 작성 창에서 템플릿을 사용하는 방법에 
 title: Compose Window에서 템플릿 사용
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/CD5ZdQWvHyM8-FbEHKKk4pI4d0sqEWovHWBzZxXR-ao
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: 235
 ht-degree: 5%
 
 ---
@@ -47,7 +50,7 @@ ht-degree: 5%
 
    ![](assets/one-6.png)
 
-1. **옆에 있는**+[!UICONTROL Favorites] 아이콘을 클릭합니다.
+1. [!UICONTROL Favorites] 옆에 있는 **+** 아이콘을 클릭합니다.
 
    ![](assets/pinning-two.png)
 

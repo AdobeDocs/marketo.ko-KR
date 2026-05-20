@@ -4,9 +4,11 @@ description: Salesforce에서 Sales Connect 단추를 설치하는 방법을 알
 title: Salesforce에 Sales Connect 버튼을 설치하는 방법
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/NlfDR0iYREXhLnNW-GRSqAw7n61nDZs5BAgxsOnSGvk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: 113
 ht-degree: 18%
 
 ---
@@ -19,7 +21,7 @@ Marketo Sales Connect를 사용하여 Call을 쉽게 설치하고, Marketo Sales
 1. **[!UICONTROL Customize]**&#x200B;를 클릭합니다.
 1. **[!UICONTROL Leads]**&#x200B;를 클릭합니다.
 1. **[!UICONTROL Page Layouts]**&#x200B;를 클릭합니다.
-1. 단추를 추가할 **[!UICONTROL Edit]** 옆에 있는 [!UICONTROL Lead Layout]을(를) 클릭합니다.
+1. 단추를 추가할 [!UICONTROL Lead Layout] 옆에 있는 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 1. **[!UICONTROL Buttons]**&#x200B;를 클릭합니다.
 1. [!UICONTROL Sales Connect] 단추를 [!UICONTROL Lead Details] 섹션으로 끌어서 놓습니다.
 1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.

@@ -2,9 +2,13 @@
 description: Salesforce에 활동을 기록할 때 활동 유형 필드를 업데이트하는 방법을 알아봅니다. Salesforce 설치 프로그램의 작업 유형 선택 목록에 회신 유형을 추가합니다.
 title: Salesforce에 활동 기록 시 활동 유형 필드 업데이트
 exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/gMvomydiUENPK4rRYoGIi1ibVEIu3jMEesQ4aDuSk1g
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: 435
 ht-degree: 5%
 
 ---

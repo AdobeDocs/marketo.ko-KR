@@ -1,13 +1,17 @@
 ---
 unique-page-id: 14352477
 description: Salesforce에서 [Sales Connect로 푸시] 단추를 사용하는 방법을 알아봅니다. 클릭 한 번으로 Salesforce의 리드 또는 연락처를 Sales Connect에 추가합니다.
-title: ' [!DNL Sales Connect] (으)로 푸시'
+title: ' [!DNL Sales Connect](으)로 푸시'
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/piy3bPtiO48FQhWEmpu5qo4denlJ8v1ZU-VXBlWh0Mg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 2%
+source-wordcount: 166
+ht-degree: 1%
 
 ---
 
@@ -17,23 +21,23 @@ ht-degree: 2%
 
 ## 요구 사항 {#requirements}
 
-* [!DNL Sales Connect Salesforce] 관리자가 설치한 [!DNL Salesforce] 패키지
+* [!DNL Salesforce] 관리자가 설치한 [!DNL Sales Connect Salesforce] 패키지
 
-* [!UICONTROL Push to Sales Connect] 관리자가 목록 보기에 [!DNL Salesforce] 단추 설치
+* [!DNL Salesforce] 관리자가 목록 보기에 [!UICONTROL Push to Sales Connect] 단추 설치
 
-* [!DNL Salesforce]&#x200B;(으)로 푸시할 [!DNL Sales Connect] 연결
+* [!DNL Sales Connect]&#x200B;(으)로 푸시할 [!DNL Salesforce] 연결
 
 ## 방법 {#how-to}
 
-1. **[!UICONTROL Lead/Contact]**&#x200B;에서 [!DNL Salesforce] 탭을 클릭합니다.
-1. [!DNL Sales Connect] 단추 옆에 있는 [!UICONTROL Go]&#x200B;(으)로 푸시할 목록 보기로 전환합니다.
+1. [!DNL Salesforce]에서 **[!UICONTROL Lead/Contact]** 탭을 클릭합니다.
+1. [!UICONTROL Go] 단추 옆에 있는 [!DNL Sales Connect]&#x200B;(으)로 푸시할 목록 보기로 전환합니다.
 1. **[!UICONTROL Go]**&#x200B;를 클릭합니다.
 1. Tout으로 푸시할 리드/연락처를 모두 선택합니다.
 1. **[!UICONTROL Push to MSE]**&#x200B;를 선택합니다.
-1. 푸시할 리드/연락처 수를 확인하는 새 창이 나타납니다. **[!UICONTROL Proceed to Group]**&#x200B;를 선택합니다.[!DNL Sales Connect]이(가) [!UICONTROL Email Opt Out]의 [!DNL Salesforce] 또는 [!UICONTROL Unsubscribed]의 [!DNL Sales Connect]&#x200B;(으)로 표시된 연락처를 푸시하지 않습니다.
+1. 푸시할 리드/연락처 수를 확인하는 새 창이 나타납니다. **[!UICONTROL Proceed to Group]**.[!DNL Sales Connect] 선택 [!DNL Salesforce]에 [!UICONTROL Email Opt Out]&#x200B;(으)로 표시된 연락처 또는 [!DNL Sales Connect]에 [!UICONTROL Unsubscribed]을(를) 푸시하지 않습니다.
 
    >[!NOTE]
    >
-   >[!DNL Sales Connect]이(가) 제목이 &quot;SFDC-...&quot;인 이 그룹을 [웹 응용 프로그램](https://toutapp.com/login)의 관계 페이지에 추가합니다.
+   >[!DNL Sales Connect]이(가) 제목이 &quot;SFDC-...&quot;인 이 그룹을 추가합니다. [웹 응용 프로그램](https://toutapp.com/login)의 관계 페이지로 이동합니다.
 
 1. 이 그룹 전자 메일을 보내려면 **[!UICONTROL Email Entire Group]**&#x200B;을(를) 선택하세요.

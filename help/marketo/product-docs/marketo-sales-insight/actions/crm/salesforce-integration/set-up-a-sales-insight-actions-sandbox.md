@@ -2,9 +2,11 @@
 description: 테스트를 위해 Sales Insight Actions 샌드박스를 설정하는 방법을 알아봅니다. 프로비저닝을 요청하고 인스턴스를 활성화한 다음 Salesforce 샌드박스에 연결합니다.
 title: Sales Insight Actions 샌드박스 설정
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/ZHly-bUFbbQwoOD-rheE4vfLCihBCplRjT0SNibBCc4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: 693
 ht-degree: 3%
 
 ---

@@ -4,9 +4,12 @@ description: Marketo의 양식 필드에 힌트 텍스트를 추가하는 방법
 title: 양식 필드에 힌트 텍스트 추가
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/bpthF9ihHybFE8UGBRGrVqGBD8dCFLePHAVJiFXG5TQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: 123
 ht-degree: 14%
 
 ---

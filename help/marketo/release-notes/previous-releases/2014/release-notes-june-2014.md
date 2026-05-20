@@ -4,10 +4,14 @@ description: 릴리스 노트 - 2014년 6월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2014년 6월
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/GDMQ7SINGV9rOnO-9gxfgROyAzze5pDcwr-5u045aoU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 3%
+source-wordcount: 263
+ht-degree: 6%
 
 ---
 
@@ -19,7 +23,7 @@ ht-degree: 3%
 
 [!DNL Marketo Lead Management]에 대한 탐색을 포함하여 새로운 모양과 느낌이 곧 다음 릴리스에서 제공될 예정입니다.
 
-## [!DNL Sales Insight] 2013에 대한 [!DNL Outlook] 플러그 인 {#sales-insight-plugin-for-outlook}
+## [!DNL Outlook] 2013에 대한 [!DNL Sales Insight] 플러그 인 {#sales-insight-plugin-for-outlook}
 
 이렇게 하려면 새 플러그인의 다운로드가 필요합니다. [여기](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)에서 다운로드할 수 있습니다.
 

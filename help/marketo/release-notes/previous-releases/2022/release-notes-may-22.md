@@ -2,9 +2,14 @@
 description: 릴리스 노트 - 2022년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2022년 5월
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/y7jIUHRhJ1VZocGbeI23nrI1456mTz-b2OstJbuoMGc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ce
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: 828
 ht-degree: 4%
 
 ---
@@ -27,11 +32,11 @@ ht-degree: 4%
 
 ## 크로스 채널 오케스트레이션 {#cross-channel-orchestration}
 
-[!DNL Dynamic Chat]&#x200B;**에 대한**&#x200B;챗봇 이벤트: 웹 방문자에 대한 자세한 동작 데이터(예: 페이지 체류 시간, 사이트 체류 시간 및 페이지 스크롤 백분율)를 활용하여 채팅 대화 상자가 표시되는 시기를 정의합니다.
+[!DNL Dynamic Chat]**에 대한**&#x200B;챗봇 이벤트: 웹 방문자에 대한 자세한 동작 데이터(예: 페이지 체류 시간, 사이트 체류 시간 및 페이지 스크롤 백분율)를 활용하여 채팅 대화 상자가 표시되는 시기를 정의합니다.
 
-[!DNL Dynamic Chat]&#x200B;**용** PDF 포함: PDF를 채팅 대화 상자에 포함하여 참여를 늘리고 의미 있는 콘텐츠를 공유하며 참여 활동 추적을 통해 콘텐츠 성능을 측정합니다.
+[!DNL Dynamic Chat]**용** PDF 포함: PDF를 채팅 대화 상자에 포함하여 참여를 늘리고 의미 있는 콘텐츠를 공유하며 참여 활동 추적을 통해 콘텐츠 성능을 측정합니다.
 
-[!DNL Dynamic Chat]&#x200B;**에 대한**&#x200B;확장 언어 지원: 이제 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어로도 [!DNL Dynamic Chat] 사용자 인터페이스를 사용할 수 있습니다. 이러한 언어로 채팅 대화 상자를 구성할 수도 있습니다.
+[!DNL Dynamic Chat]**에 대한**&#x200B;확장 언어 지원: 이제 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어로도 [!DNL Dynamic Chat] 사용자 인터페이스를 사용할 수 있습니다. 이러한 언어로 채팅 대화 상자를 구성할 수도 있습니다.
 
 **[!DNL Dynamic Chat]**&#x200B;에 대한 URL 제외: 타깃팅 기준에서 특정 URL을 제외하는 기능으로 웹 페이지 [!DNL Dynamic Chat]의 표시 항목을 제어합니다.
 

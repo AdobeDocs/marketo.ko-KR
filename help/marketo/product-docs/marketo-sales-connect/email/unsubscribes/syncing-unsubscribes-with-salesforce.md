@@ -4,9 +4,11 @@ description: Sales Connect 가입 해지서를 Salesforce과 동기화하는 방
 title: Salesforce와 구독 취소 동기화
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: 406
 ht-degree: 2%
 
 ---
@@ -94,4 +96,4 @@ ht-degree: 2%
 
 Marketo 판매 옵트아웃 필드는 Marketo [!DNL Sales Connect] 사용자 지정을 설치한 사용자가 사용할 수 있는 사용자 지정 필드입니다.
 
-[!DNL Sales Connect]에 Marketo [!DNL Salesforce] 사용자 지정을 성공적으로 설치하면 사용 가능한 Marketo 판매 옵트아웃 필드가 표시됩니다.
+[!DNL Salesforce]에 Marketo [!DNL Sales Connect] 사용자 지정을 성공적으로 설치하면 사용 가능한 Marketo 판매 옵트아웃 필드가 표시됩니다.

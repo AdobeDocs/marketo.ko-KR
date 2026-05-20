@@ -3,9 +3,14 @@ description: 채팅 대화 작성을 위한 스트림 Designer 및 카드에 대
 title: 스트림 디자이너
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/t8n1vt6E48M6JeOYFS3zfvTMAf0RrpNBTpPoTVX7CsE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1182'
+source-wordcount: 1182
 ht-degree: 2%
 
 ---
@@ -109,7 +114,7 @@ ht-degree: 2%
 
    ![](assets/stream-designer-6.png)
 
-1. _[!UICONTROL Question]_&#x200B;카드를 끌어서 놓습니다.
+1. _[!UICONTROL Question]_카드를 끌어서 놓습니다.
 
    ![](assets/stream-designer-7.png)
 
@@ -145,7 +150,7 @@ ht-degree: 2%
 
    ![](assets/stream-designer-11.png)
 
-1. 목표이므로 _[!UICONTROL Goal]_&#x200B;카드를 모임 예약 아래로 끌어 놓으십시오.
+1. 목표이므로 _[!UICONTROL Goal]_카드를 모임 예약 아래로 끌어 놓으십시오.
 
    ![](assets/stream-designer-12.png)
 
@@ -177,7 +182,7 @@ ht-degree: 2%
 
    ![](assets/stream-designer-18.png)
 
-1. 전자 메일 수집이 목표이므로 _[!UICONTROL Goal]_&#x200B;카드를 정보 캡처 아래에 끌어 놓으십시오.
+1. 전자 메일 수집이 목표이므로 _[!UICONTROL Goal]_카드를 정보 캡처 아래에 끌어 놓으십시오.
 
    ![](assets/stream-designer-19.png)
 

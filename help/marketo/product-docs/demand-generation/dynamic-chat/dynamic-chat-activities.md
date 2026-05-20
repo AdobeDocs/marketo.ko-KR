@@ -2,9 +2,11 @@
 description: 스마트 목록의 Dynamic Chat 필터 및 트리거에 대해 알아봅니다. 트리거되고, 참여되고, 목표에 도달한 이벤트를 사용하여 Marketo을 세그먼트화하고 자동화합니다.
 title: '[!DNL Dynamic Chat]개 활동'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/YemfbaYyWpVKNZTszv-v2yVr5NNGKFEOe7H0lmrNG0E
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: 257
 ht-degree: 0%
 
 ---

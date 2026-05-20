@@ -4,9 +4,11 @@ description: Salesforce에서 Sales Connect로 푸시할 연락처가 없는 경
 title: 내 연락처가 Sales Connect로 푸시되지 않는 이유는 무엇입니까?
 exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/jLGaBSKYiA9T0L83mvipYf9cIxdESHV0MY4WNaV6VxU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: 91
 ht-degree: 12%
 
 ---

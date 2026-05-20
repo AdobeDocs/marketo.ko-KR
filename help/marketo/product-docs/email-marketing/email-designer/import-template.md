@@ -7,9 +7,15 @@ level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta
 exl-id: a4755e1c-01a0-40d5-91d1-514ec3d138f5
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/3DdGJZ9VW-RHragnelCpYisUYUjnqQePiEGn1TOU3Fk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: df8eb12b-4f82-491f-acbb-d74012ca5654
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: 758
 ht-degree: 1%
 
 ---
@@ -139,7 +145,7 @@ ht-degree: 1%
   <tr>
     <td>가져온 콘텐츠의 경우 콘텐츠 미리보기 사용은 신뢰할 수 없는 표시기가 아닙니다.</td>
     <td>Designer의 미리 보기 기능은 사용자 지정 HTML을 지원하지 않습니다.</td>
-    <td><b>콘텐츠 시뮬레이션</b> 화면에서 <i>증명 보내기</i> 옵션을 사용하여 전자 메일을 테스트하는 것이 좋습니다.</td>
+    <td><i>콘텐츠 시뮬레이션</i> 화면에서 <b>증명 보내기</b> 옵션을 사용하여 전자 메일을 테스트하는 것이 좋습니다.</td>
   </tr>
   <tr>
     <td>이전 템플릿의 스니펫은 이메일 Designer에서 작동하지 않습니다.</td>

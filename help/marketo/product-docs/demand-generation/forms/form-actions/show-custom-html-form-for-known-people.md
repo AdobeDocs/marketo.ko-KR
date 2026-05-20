@@ -4,9 +4,12 @@ description: Marketo 양식에서 알려진 사용자를 위한 사용자 지정
 title: 알려진 사용자에 대한 사용자 정의 HTML 양식 표시
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/9Fmdx0EAvYOgdUHr-cKKuoCDSbdv-dmuxB9P3vxqjVk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: 243
 ht-degree: 8%
 
 ---

@@ -4,10 +4,12 @@ description: 영업 담당자에게 알림 - Marketo 문서 - 제품 설명서
 title: 영업 담당자에게 경고
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+TQID: https://experienceleague.adobe.com/Qd-0TR8Sa4JWsQs7sWzUOmcFU0iRxl6SH62fWnm1GT8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 8%
+source-wordcount: 350
+ht-degree: 9%
 
 ---
 
@@ -27,7 +29,7 @@ ht-degree: 8%
 
    ![](assets/alert-the-sales-rep-1.png)
 
-1. **랜딩 페이지에서 양식** 빠른 승리로 만든 [내 프로그램](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}을(를) 선택한 다음 **[!UICONTROL New]**&#x200B;에서 **[!UICONTROL New Local Asset]**&#x200B;을(를) 클릭합니다.
+1. [랜딩 페이지에서 양식](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} 빠른 승리로 만든 **내 프로그램**&#x200B;을(를) 선택한 다음 **[!UICONTROL New]**&#x200B;에서 **[!UICONTROL New Local Asset]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/alert-the-sales-rep-2.png)
 

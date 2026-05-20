@@ -1,12 +1,15 @@
 ---
 unique-page-id: 1147070
 description: 스마트 캠페인 결과를 Excel로 내보내는 방법을 알아봅니다. 보고 또는 분석용 캠페인 멤버 데이터를 다운로드합니다.
-title: ' [!DNL Excel] (으)로 스마트 캠페인 결과 내보내기'
+title: ' [!DNL Excel](으)로 스마트 캠페인 결과 내보내기'
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/DSn5cpZxAvltRvwrHGTVP0pdxodJ8Ed5WojsfnnZWJ8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: 79
 ht-degree: 0%
 
 ---

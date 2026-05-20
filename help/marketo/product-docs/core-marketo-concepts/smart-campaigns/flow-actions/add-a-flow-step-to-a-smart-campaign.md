@@ -4,9 +4,13 @@ description: Smart Campaign에 흐름 단계를 추가하는 방법을 알아봅
 title: 스마트 캠페인에 플로우 단계 추가
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/0Sc4B3E130fkE5t15IO-QtcvHa0XC681Ap-eM5PRx-8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: 174
 ht-degree: 10%
 
 ---

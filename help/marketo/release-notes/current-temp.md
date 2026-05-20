@@ -4,10 +4,15 @@ title: 최신 릴리스 정보
 hide: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/RZsCx9HAyJuDLO46WfshT30be-rMMDZjnygvU32NGfk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a04ec3931933c8e6cc0a0ffc26b1b559cd7cc9ce
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 52%
+source-wordcount: 421
+ht-degree: 28%
 
 ---
 
@@ -29,37 +34,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <th style="width:25%">설명서</th>
   </tr>
   <tr>
-   <td><strong>제목</strong>: 설명.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>제목</strong>: 설명.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr>
-   <td><strong>제목</strong>: 설명.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>제목</strong>: 설명.</td>
+   <td><strong>전자 메일 Designer - 전자 메일 조각에 대한 조건부 콘텐츠</strong>: <i>이전 전자 메일 편집기와 동일</i>. 이제 조각에 조건부 콘텐츠가 지원됩니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
@@ -74,24 +49,24 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>제목</strong>: 설명.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
   </tbody>
 </table>
 <br/>
 
 ## 공지 {#announcements}
 
-* 새 SEO 메모
+* **소셜 기능 사용 중단 필드**: 2025년 Marketo Engage에서는 다음 소셜 기능을 사용하지 않습니다.
+
+   * 투표
+   * 소셜 버튼
+   * 추천 시 제공 경품
+   * 동영상 공유
+   * 경품 추첨
+
+올해 초 Marketo에 남겨져 있던 관련 분야가 삭제됐다. 곧이어 특정 소셜 관련 리드 필드를 참조하는 API 요청에서 &quot;필드를 찾을 수 없음&quot; 오류가 반환되어 중단이 발생했습니다. 영향을 받은 필드를 다시 사용할 수 있게 된 후 서비스가 복원되었으므로 더 이상의 중단을 방지하기 위해 Marketo은 소셜 기능 사용 중단에서 소셜 필드를 영구적으로 분리했습니다(따라서 Marketo 계정에서 사용할 수 있게 됨). 사용자는 Marketo 소셜 관련 필드를 참조하는 API 쿼리 및 통합을 검토하고 이러한 필드가 지속적인 비즈니스 프로세스에 여전히 필요한지 확인하는 것이 좋습니다.
 
 * **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2026년 7월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}된 대로 &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
 
 * **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2026년 7월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}로 마이그레이션해야 합니다.
+
+* **잠재 고객 가져오기 활동 및 잠재 고객 변경 사항 가져오기에 대한 정적 목록 크기 제한**: 2026년 9월 30일부터 `listId` 매개 변수를 포함하는 잠재 고객 가져오기 활동 및 잠재 고객 변경 사항 가져오기 엔드포인트에 대한 호출은 대상 정적 목록에 10,000개 이상의 잠재 고객이 포함된 경우 1003 오류 코드를 반환합니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.

@@ -4,14 +4,17 @@ description: Outlook에서 Sales Connect 플러그인을 제거하는 방법을 
 title: Outlook에서 Sales Connect를 제거하는 방법
 exl-id: 42e12144-665e-4560-84ad-1c0631ed0c9b
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/t6MmIpBpN5qSdq5fGPV0IfRA-V8nrs0A9p2A-2kpJ2w
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 10%
+source-wordcount: 87
+ht-degree: 8%
 
 ---
 
-# [!DNL Sales Connect]에서 [!DNL Outlook]을(를) 제거하는 방법 {#how-to-uninstall-sales-connect-from-outlook}
+# [!DNL Outlook]에서 [!DNL Sales Connect]을(를) 제거하는 방법 {#how-to-uninstall-sales-connect-from-outlook}
 
 >[!NOTE]
 >
@@ -19,7 +22,7 @@ ht-degree: 10%
 
 1. **[!UICONTROL Start]** 메뉴를 클릭합니다.
 
-1. **[!UICONTROL ToutApp]** 목록에서 [!UICONTROL Programs] 찾기
+1. [!UICONTROL Programs] 목록에서 **[!UICONTROL ToutApp]** 찾기
 
 1. 클릭하여 **[!UICONTROL Unregister]**&#x200B;을(를) 선택합니다.
 

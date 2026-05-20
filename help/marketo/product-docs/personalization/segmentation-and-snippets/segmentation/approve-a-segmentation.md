@@ -4,10 +4,15 @@ description: 다이내믹 콘텐츠 및 보고에 사용할 수 있도록 세그
 title: 세분화 승인
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+TQID: https://experienceleague.adobe.com/hvFKybwLh1INYx2YWtOmdebJVYXOzhNMMncqeOoV8EU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 2%
+source-wordcount: 246
+ht-degree: 5%
 
 ---
 
@@ -48,7 +53,7 @@ ht-degree: 2%
    >
    >각 세그먼트의 사람 수는 세그먼트 이름 옆에 대괄호로 표시됩니다.
 
-1. 이제 **[!UICONTROL People]**&#x200B;의 **[!UICONTROL Segment]** 탭에 세그먼트에 대한 최종 사용자 목록이 표시됩니다.
+1. 이제 **[!UICONTROL Segment]**&#x200B;의 **[!UICONTROL People]** 탭에 세그먼트에 대한 최종 사용자 목록이 표시됩니다.
 
    ![](assets/approve-a-segmentation-4.png)
 

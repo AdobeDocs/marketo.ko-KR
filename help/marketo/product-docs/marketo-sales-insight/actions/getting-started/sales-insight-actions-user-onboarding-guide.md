@@ -3,9 +3,11 @@ description: 새 Sales Insight 작업 사용자로 시작하는 방법을 알아
 title: Sales Insight Actions 사용자 온보딩 안내서
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/5nQmTIYbflu3p5Tpy8gJvyK8xTxZLaxJrpQQFudo9AU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: 316
 ht-degree: 5%
 
 ---

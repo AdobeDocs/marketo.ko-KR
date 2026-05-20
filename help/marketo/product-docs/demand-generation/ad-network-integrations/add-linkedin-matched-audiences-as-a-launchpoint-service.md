@@ -4,9 +4,12 @@ description: LinkedIn 일치 대상을 LaunchPoint 서비스로 추가하는 방
 title: ' [!DNL LaunchPoint] 서비스로  [!DNL LinkedIn] 일치하는 대상 추가'
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/DboQklBX-1vvb3UEumAI-wf73VHvqdtXuNXJQi0dfLE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: 211
 ht-degree: 2%
 
 ---

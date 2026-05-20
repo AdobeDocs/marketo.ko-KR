@@ -3,9 +3,13 @@ description: 릴리스 노트 - 2023년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2023년 1월
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/fB2DSNQ-lP-D8y9ISOy-TCHaJ2BiwQtqcKoTNv8t-Mk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: 656
 ht-degree: 21%
 
 ---
@@ -89,7 +93,7 @@ ht-degree: 21%
   </tr>
   <tr>
    <td>릴리스됨</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=ko">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -148,7 +152,7 @@ ht-degree: 21%
   </tbody>
 </table>
 
-* Designer **스트림에서 검색**: 스트림 Designer에서 콘텐츠를 쉽게 검색하여 스트림의 모든 카드/노드에서 콘텐츠를 빠르게 찾을 수 있습니다(예: &quot;SEO&quot;를 검색하면 해당 문자열을 포함하는 모든 노드가 강조 표시됨).
+* **스트림에서 검색**: 스트림 Designer에서 콘텐츠를 쉽게 검색하여 스트림의 모든 카드/노드에서 콘텐츠를 빠르게 찾을 수 있습니다(예: &quot;SEO&quot;를 검색하면 해당 문자열을 포함하는 모든 노드가 강조 표시됨).
 
 <table>
   <tr>
