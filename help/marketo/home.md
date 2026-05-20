@@ -3,9 +3,12 @@ title: Marketo 제품 설명서
 description: Marketo 제품 설명서를 통해 마케팅을 한 차원 끌어올리는 방법에 대해 알아봅니다. Marketo 튜토리얼을 통해 시작하고 다른 인기 있는 문서를 읽어보십시오.
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 TQID: https://experienceleague.adobe.com/mLwFR4arE2qLObc9IjIYxq0TzIlfKpLXK29rUvkNKTM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 156
@@ -30,9 +33,9 @@ ht-degree: 74%
 
 ## 인기 있는 Marketo Engage 문서
 
-* [ [!DNL Salesforce] 동기화 이해](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [&#x200B; [!DNL Salesforce] 동기화 이해](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [ [!DNL Microsoft Dynamics] 동기화 이해](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [&#x200B; [!DNL Microsoft Dynamics] 동기화 이해](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [스마트 캠페인 이해](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 

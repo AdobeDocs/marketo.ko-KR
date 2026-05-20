@@ -5,10 +5,20 @@ hide: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
 TQID: https://experienceleague.adobe.com/7T6TgUOssFcO0aVuuIMYryuRgYw0YSD7oPNUy7drlDs
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1531
@@ -192,13 +202,13 @@ Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs
 
 1. 캔버스에서 구조 구성 요소의 열을 직접 선택하거나 왼쪽에 표시된 _탐색 트리_&#x200B;를 사용합니다.
 
-1. 열 도구 모음에서 _[!UICONTROL Select a column]_도구를 클릭하고 편집할 도구를 선택합니다.
+1. 열 도구 모음에서 _[!UICONTROL Select a column]_&#x200B;도구를 클릭하고 편집할 도구를 선택합니다.
 
-   구조 트리에서 선택할 수도 있습니다. 해당 열에 대해 편집 가능한 매개 변수가 오른쪽의 _[!UICONTROL Settings]_및_[!UICONTROL Styles]_ 탭에 표시됩니다.
+   구조 트리에서 선택할 수도 있습니다. 해당 열에 대해 편집 가능한 매개 변수가 오른쪽의 _[!UICONTROL Settings]_&#x200B;및_[!UICONTROL Styles]_ 탭에 표시됩니다.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. 열 속성을 편집하려면 오른쪽의 _[!UICONTROL Styles]_탭을 클릭하고 필요에 따라 변경합니다.
+1. 열 속성을 편집하려면 오른쪽의 _[!UICONTROL Styles]_&#x200B;탭을 클릭하고 필요에 따라 변경합니다.
 
    * **[!UICONTROL Background]**&#x200B;의 경우 필요에 따라 배경색을 변경합니다.
 

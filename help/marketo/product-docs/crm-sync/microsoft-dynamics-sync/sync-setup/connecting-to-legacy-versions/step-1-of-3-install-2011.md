@@ -5,7 +5,8 @@ title: 1/3단계 - Marketo 솔루션 설치(2011 온프레미스)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/KgYgMIHjfI4IpVk0ai98AcoZpOUPvYuHnab6LnCyGWk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 280
@@ -23,7 +24,7 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->ADFS(Active Directory Federation Services)가 [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 또는 3.0을 구성한 IFD(인터넷 연결 배포)가 [있어야 합니다. ](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"}**참고**: 링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
+>ADFS(Active Directory Federation Services)가 [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 또는 3.0을 구성한 IFD(인터넷 연결 배포)가 [있어야 합니다. &#x200B;](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"}**참고**: 링크를 클릭하면 IFD 문서가 자동으로 다운로드됩니다.
 >
 >시작하기 전에 [Marketo 리드 관리 솔루션을 다운로드하십시오](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}.
 

@@ -3,10 +3,21 @@ description: 릴리스 노트 - 2021년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2021년 8월
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
 TQID: https://experienceleague.adobe.com/eX6BJ2kUTiOEw6RjiuSu8883IqyfX6cUBqkr7zdGZv0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-subfeature_v2: id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2:
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 908
@@ -68,7 +79,7 @@ ht-degree: 0%
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] 리드 세대 Forms 통합**: 이제 마케터는 [!DNL LinkedIn]이(가) 리드 세대 Forms 광고 단위를 통해 양식 채우기를 캡처할 때 발생하는 전환에 대해 매출 기여도 분석을 수행할 수 있습니다. 그런 다음 이러한 통찰력을 사용하여 양식 성능 및 유료 미디어 투자를 최적화할 수 있습니다. [!DNL LinkedIn] 리드 세대 Forms은 [!DNL LinkedIn]에서 가장 빠르게 성장하고 있는 유료 미디어 서비스 중 하나이며 이 새로운 기능은 [!DNL Bizible]과의 기존 [!DNL LinkedIn] Ads 통합에 포함되어 있습니다.
+* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] 리드 세대 Forms 통합**: 이제 마케터는 [!DNL LinkedIn]이(가) 리드 세대 Forms 광고 단위를 통해 양식 채우기를 캡처할 때 발생하는 전환에 대해 매출 기여도 분석을 수행할 수 있습니다. 그런 다음 이러한 통찰력을 사용하여 양식 성능 및 유료 미디어 투자를 최적화할 수 있습니다. [!DNL LinkedIn] 리드 세대 Forms은 [!DNL LinkedIn]에서 가장 빠르게 성장하고 있는 유료 미디어 서비스 중 하나이며 이 새로운 기능은 [!DNL Bizible]과의 기존 [!DNL LinkedIn] Ads 통합에 포함되어 있습니다.
 
 * **속도 대시보드 개선**: 더 자세한 통찰력을 위해 새로운 속도 지표 및 대시보드 필터를 추가했습니다. 이 대시보드는 마케터가 단계별 잠재 고객 및 영업 기회 속도와 다양한 유형의 마케팅 및 판매 참여의 효율성을 이해하는 데 사용됩니다.
 
@@ -80,7 +91,7 @@ ht-degree: 0%
 
 * **[!DNL Bizible]Adobe Privacy Service과의 통합**(2021년 9월 사용 가능): [!DNL Bizible]과(와) Adobe Privacy Service의 통합은 Adobe Experience Cloud 애플리케이션 전반에서 중요한 데이터 개인 정보 보호 규정(예: GDPR) 준수를 중앙 집중화합니다. 이제 이 서비스를 활용하고 모든 개인 정보 요청을 중앙에서 관리하여 [!DNL Bizible] 및 다른 Adobe 제품에 포함된 변경 요청이 여러 애플리케이션에 반영되도록 할 수 있습니다.
 
-* **[!DNL Bizible](Adobe 통합 쉘)**: [!DNL Bizible]의 Adobe 통합 쉘 채택으로 사용자는 [!DNL Bizible] 응용 프로그램 헤더 표시줄에 새로운 기능을 사용할 수 있으며 지원 리소스 및 응용 프로그램 전환을 위한 더 나은 액세스 권한을 포함할 수 있습니다. Adobe 통합 셸을 사용하면 [!DNL Bizible]과(와) 다른 Adobe Experience Cloud 응용 프로그램 간에 일관된 환경을 만들 수 있습니다.
+* **[!DNL Bizible] (Adobe 통합 쉘)**: [!DNL Bizible]의 Adobe 통합 쉘 채택으로 사용자는 [!DNL Bizible] 응용 프로그램 헤더 표시줄에 새로운 기능을 사용할 수 있으며 지원 리소스 및 응용 프로그램 전환을 위한 더 나은 액세스 권한을 포함할 수 있습니다. Adobe 통합 셸을 사용하면 [!DNL Bizible]과(와) 다른 Adobe Experience Cloud 응용 프로그램 간에 일관된 환경을 만들 수 있습니다.
 
 * **[!DNL Bizible]도메인 소유권 및 자체 관리**: [!DNL Bizible] 사용자는 Adobe Admin Console을 활용하여 [!DNL Bizible]에서 추적할 도메인을 관리할 수 있습니다. 따라서 이전의 수동 프로세스에 셀프 서비스를 제공하고 Adobe Experience Cloud 애플리케이션 전반에서 도메인 소유권 및 추적을 관리하는 방법에 대한 일관된 경험을 제공합니다.
 

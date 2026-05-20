@@ -5,9 +5,13 @@ title: Salesforce Professional Edition에서 Marketo Sales Insight 구성
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/ixHyQT01yLz6LIoEG5L0wm9WKUSOgShHmXZUCI-R4Pw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 688
@@ -49,7 +53,7 @@ ht-degree: 3%
    >
    >API 비밀 키는 조직의 암호와 같으며 안전해야 합니다.
 
-1. 자격 증명을 채우려면 _[!UICONTROL Rest API Configuration]_패널에서&#x200B;**[!UICONTROL View]**을(를) 클릭합니다.
+1. 자격 증명을 채우려면 _[!UICONTROL Rest API Configuration]_&#x200B;패널에서&#x200B;**[!UICONTROL View]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 

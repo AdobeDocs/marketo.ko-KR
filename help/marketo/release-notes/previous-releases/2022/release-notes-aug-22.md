@@ -3,8 +3,13 @@ description: 릴리스 노트 - 2022년 8월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2022년 8월
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
 TQID: https://experienceleague.adobe.com/wOb8c5EXbNJloeLcLIEh5M-xR0wdBvVca-3ZfuqHsZ8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 517
@@ -26,9 +31,9 @@ ht-degree: 6%
 
 * [!DNL Dynamic Chat]에 대해 게시된 모든 대화 상자를 한 번에 활성화/비활성화**: 단추를 눌러 [구성] 페이지에서 게시된 모든 대화 상자를 한 번에 전체적으로 활성화/비활성화합니다.
 
-* [!DNL Dynamic Chat]**에 대한**&#x200B;사용자 지정 아바타: 사용자 지정 챗봇 아바타를 업로드하여 내 브랜드에 맞게 개인화할 수 있습니다.
+* [!DNL Dynamic Chat]&#x200B;**에 대한**&#x200B;사용자 지정 아바타: 사용자 지정 챗봇 아바타를 업로드하여 내 브랜드에 맞게 개인화할 수 있습니다.
 
-* [!DNL Dynamic Chat]**에 대한**&#x200B;채팅 트랜스크립트: 모든 대화에 대한 채팅 트랜스크립트를 보고 각 웹 방문자가 관심을 갖는 내용에 대해 더 자세한 insight을 얻습니다.
+* [!DNL Dynamic Chat]&#x200B;**에 대한**&#x200B;채팅 트랜스크립트: 모든 대화에 대한 채팅 트랜스크립트를 보고 각 웹 방문자가 관심을 갖는 내용에 대해 더 자세한 insight을 얻습니다.
 
 ## 차세대 경험
 

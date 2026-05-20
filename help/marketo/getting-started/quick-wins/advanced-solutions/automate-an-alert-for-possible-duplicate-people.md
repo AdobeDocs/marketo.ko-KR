@@ -5,7 +5,8 @@ title: 중복 가능성이 있는 사용자에 대한 알림 자동화
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
 TQID: https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 157
@@ -20,7 +21,7 @@ ht-degree: 8%
 1. [새 스마트 캠페인을 만듭니다](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. 다음 스마트 목록을 정의합니다.
 
 * 트리거: **[!UICONTROL Person is Created]**
-* 필터: **[!UICONTROL Duplicate Fields]**. 필드 이름 **[!UICONTROL is][!UICONTROL Full Name]**
+* 필터: **[!UICONTROL Duplicate Fields]**. 필드 이름 **[!UICONTROL is]&#x200B;[!UICONTROL Full Name]**
 
   ![](assets/automate-an-alert-1.png)
 

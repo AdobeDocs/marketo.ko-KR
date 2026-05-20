@@ -5,10 +5,15 @@ title: 릴리스 노트 - 2014년 12월
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
 TQID: https://experienceleague.adobe.com/yAW6Nis-Bk1vWSJL48ua5ZPfsp54YFZKryT7TZzX1Qg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 475
@@ -30,7 +35,7 @@ ht-degree: 2%
 
 ## [!DNL Facebook]개의 사용자 지정 대상 {#facebook-custom-audiences}
 
-Marketo 관리자가 [!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)을(를) 통해 [[!DNL Facebook] 을(를) 추가하면 [사용자 지정 대상을 쉽게 만들거나 업데이트하거나  [!DNL Facebook] Marketo 정적 또는 스마트 목록의 리드로 바꾸기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)할 수 있습니다. 정적 또는 스마트 목록의 잠재 고객 그리드 하단에서 새 [!DNL Facebook] 아이콘을 찾습니다.
+Marketo 관리자가 [!UICONTROL Admin] > [!UICONTROL LaunchPoint][&#128279;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)을(를) 통해 [!DNL Facebook] 을(를) 추가하면 [사용자 지정 대상을 쉽게 만들거나 업데이트하거나  [!DNL Facebook] Marketo 정적 또는 스마트 목록의 리드로 바꾸기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)할 수 있습니다. 정적 또는 스마트 목록의 잠재 고객 그리드 하단에서 새 [!DNL Facebook] 아이콘을 찾습니다.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 

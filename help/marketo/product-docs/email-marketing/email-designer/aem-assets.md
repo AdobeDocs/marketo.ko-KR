@@ -5,10 +5,17 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
 TQID: https://experienceleague.adobe.com/kCDv70SM0B5fZjQ9-FTlVYZGkVbAbpJ1qmRm-YXOJf8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: da3860b0-d637-47df-bef0-273751180266
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: da3860b0-d637-47df-bef0-273751180266
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 987
@@ -86,7 +93,7 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;은(는) 효율적�
 
 ![만들기 대화 상자에서 이미지 소스로 AEM Assets 선택](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
-* 기존 콘텐츠 리소스를 열 때 오른쪽의 _[!UICONTROL Body]_섹션에서 `AEM Assets`을(를) 선택합니다.
+* 기존 콘텐츠 리소스를 열 때 오른쪽의 _[!UICONTROL Body]_&#x200B;섹션에서 `AEM Assets`을(를) 선택합니다.
 
 ![속성에서 이미지 소스로 AEM Assets 선택](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
@@ -114,7 +121,7 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;은(는) 효율적�
 
 ![이미지 자산에 액세스할 AEM Assets 저장소를 선택하십시오](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
-* 캔버스에 이미지 구성 요소를 추가하고 **[!UICONTROL Browse]**&#x200B;을(를) 클릭하여 _[!UICONTROL Select Assets]_대화 상자를 엽니다.
+* 캔버스에 이미지 구성 요소를 추가하고 **[!UICONTROL Browse]**&#x200B;을(를) 클릭하여 _[!UICONTROL Select Assets]_&#x200B;대화 상자를 엽니다.
 
   대화 상자에서 선택한 저장소에서 이미지를 선택할 수 있습니다.
 

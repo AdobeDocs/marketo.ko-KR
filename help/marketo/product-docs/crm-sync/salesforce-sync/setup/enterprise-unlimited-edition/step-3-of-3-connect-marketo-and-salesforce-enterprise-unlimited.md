@@ -5,9 +5,13 @@ title: 3단계/3 - Marketo 및 Salesforce 연결(Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/BFbrbrL2sDChNgsmSJsTf8gIHb94dz8zg0j01eKqcuw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 425
@@ -111,4 +115,4 @@ Marketo의 가장 강력한 기능 중 하나를 구성했습니다.
 >* [3단계 중 1단계:  [!DNL Salesforce] (Enterprise/Unlimited)에 Marketo 필드 추가](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >* [3단계 중 2단계:  [!DNL Salesforce] Marketo용 사용자 만들기(Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [Marketo Sales Insight 패키지 설치 [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [Enterprise/Unlimited에서 Marketo Sales Insight 구성 [!DNL Salesforce] 2}](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [Enterprise/Unlimited에서 Marketo Sales Insight 구성 [!DNL Salesforce] 2&rbrace;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)

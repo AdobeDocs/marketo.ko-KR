@@ -5,8 +5,11 @@ title: 참여 스트림 테스트
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/idDd76zfpXOVc7RIRfubWZ1bScpjAR6rECV69EaivpI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 160
@@ -42,7 +45,7 @@ ht-degree: 6%
    >
    >찾고 있는 테스트 사용자가 없는 경우 **[!UICONTROL Create Person]** 옵션을 사용하여 즉시 만듭니다.
 
-   **[!UICONTROL Initial Stream]**&#x200B;을(를) 클릭하고 테스트할 스트림을 선택한 다음 **[!UICONTROL Run Cast]**을(를) 클릭합니다.
+   **[!UICONTROL Initial Stream]**&#x200B;을(를) 클릭하고 테스트할 스트림을 선택한 다음 **[!UICONTROL Run Cast]**&#x200B;을(를) 클릭합니다.
    ![](assets/five-rubiks.png)
 
 1. 사용자가 이전에 설정한 [전환 규칙](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)을 거친 후 새로 고침 아이콘을 클릭합니다.

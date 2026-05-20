@@ -5,7 +5,8 @@ title: 3단계/3단계 - Marketo(2011 온-프레미스)와  [!DNL Microsoft Dyna
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 344

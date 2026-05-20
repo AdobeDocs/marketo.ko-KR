@@ -5,9 +5,13 @@ title: 이메일 인사이트 게재 개요
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
 TQID: https://experienceleague.adobe.com/jqWygOwiAGryAfaWPV01ZnRqj5bVc-I2AvvkJza-fjM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 182
@@ -29,10 +33,10 @@ ht-degree: 4%
 
 ![](assets/two-1.png)
 
-**[!UICONTROL Type]**은(는) 사용된 에셋의 종류를 나타냅니다.
+**[!UICONTROL Type]**&#x200B;은(는) 사용된 에셋의 종류를 나타냅니다.
 **[!UICONTROL Recipient]** 숫자는 메일을 보낸 사람 수입니다.
-**[!UICONTROL Delivery Metrics]**은(는) 배달되었거나, 보류 중이거나, 반송된 이메일 수에 대한 빠른 보기를 제공합니다.
-**[!UICONTROL Engagement Metrics]**은(는) 전자 메일을 열고, 클릭하고, 구독 취소한 받는 사람 수에 대한 빠른 보기를 제공합니다.
+**[!UICONTROL Delivery Metrics]**&#x200B;은(는) 배달되었거나, 보류 중이거나, 반송된 이메일 수에 대한 빠른 보기를 제공합니다.
+**[!UICONTROL Engagement Metrics]**&#x200B;은(는) 전자 메일을 열고, 클릭하고, 구독 취소한 받는 사람 수에 대한 빠른 보기를 제공합니다.
 **[!UICONTROL Score]**&#x200B;은(는) 전자 메일의 [참여 점수](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)입니다.
 
 기본적으로 이메일은 가장 최근별로 정렬되지만 사용 가능한 지표를 기준으로 정렬할 수 있습니다.

@@ -5,7 +5,8 @@ title: Sales Connect 계정에서 Salesforce 연결 해제
 exl-id: 7b40ba8f-b852-4de1-bc1d-1206259c2880
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/lpF4DjG2mzxkt5QZfx5VKSSxvGbjRyjt9Tw1G6D-E0A
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 88
@@ -15,7 +16,7 @@ ht-degree: 18%
 
 # Sales Connect 계정에서 Salesforce 연결 해제 {#disconnect-salesforce-from-your-sales-connect-account}
 
-[!DNL Sales Connect] 계정에서 [!DNL  Salesforce] 계정의 연결을 끊어야 하는 경우가 있습니다. 방법은 다음과 같습니다.
+[!DNL Sales Connect] 계정에서 [!DNL &#x200B; Salesforce] 계정의 연결을 끊어야 하는 경우가 있습니다. 방법은 다음과 같습니다.
 
 ## 관리자로서 Salesforce에서 연결을 끊는 방법 {#how-to-disconnect-from-salesforce-as-an-admin}
 
@@ -23,7 +24,7 @@ ht-degree: 18%
 
    ![](assets/one-1.png)
 
-1. [!UICONTROL  Admin Settings]에서 **[!UICONTROL Salesforce]**&#x200B;을(를) 클릭합니다.
+1. [!UICONTROL &#x200B; Admin Settings]에서 **[!UICONTROL Salesforce]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/six-1.png)
 
@@ -33,7 +34,7 @@ ht-degree: 18%
 
 ## 관리자가 아닌 Salesforce에서 연결을 끊는 방법 {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. [!DNL  Sales Connect]에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
+1. [!DNL &#x200B; Sales Connect]에서 오른쪽 상단의 톱니바퀴 아이콘을 클릭하고 **[!UICONTROL Settings]**&#x200B;을(를) 선택합니다.
 
    ![](assets/one-1.png)
 

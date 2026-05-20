@@ -5,7 +5,8 @@ title: 계정 트리거
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/iGJv8QygBcX0NAU-0rjiuPOW3mAyS3xMS98JQqv-Qw0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 109
@@ -25,7 +26,7 @@ ht-degree: 3%
 
 ![](assets/two-1.png)
 
-원하는 트리거를 캔버스로 드래그합니다. 이 예제에서는 _[!UICONTROL Added to Named Account]_을(를) 사용합니다.
+원하는 트리거를 캔버스로 드래그합니다. 이 예제에서는 _[!UICONTROL Added to Named Account]_&#x200B;을(를) 사용합니다.
 
 ![](assets/three-1.png)
 

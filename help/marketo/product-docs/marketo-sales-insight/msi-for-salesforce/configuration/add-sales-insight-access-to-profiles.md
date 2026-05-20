@@ -4,9 +4,12 @@ title: 프로필에 Sales Insight 액세스 추가
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/n3IZiKAL8DonU5nAkNs-Y8AbGszSIn3J8LQM2LjvDEw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 373
@@ -49,7 +52,7 @@ ht-degree: 5%
    * 탭 설정에서 Marketo 탭을 기본값 설정으로 변경합니다.
    * 사용자 지정 개체 권한에서 [!DNL Marketo Sales Insight] 구성에 대한 읽기, 만들기, 편집 및 삭제를 선택합니다(사용자가 구성 설정에 액세스할 수 있어야 하는 경우 - 일반적으로 관리자를 위해 사용됨).
 
-   [!DNL Sales Insight]**에 액세스할 수 없는 프로필의 경우**:
+   [!DNL Sales Insight]&#x200B;**에 액세스할 수 없는 프로필의 경우**:
 
    * 탭 설정에서 Marketo 탭을 탭 숨김으로 변경합니다
    * 사용자 지정 개체 권한에서 [!DNL Marketo Sales Insight] 구성에서 읽기, 만들기, 편집 및 삭제 선택을 취소합니다

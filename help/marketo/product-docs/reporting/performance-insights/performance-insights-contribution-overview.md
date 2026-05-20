@@ -5,9 +5,14 @@ title: 성과 인사이트 기여 개요
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
 TQID: https://experienceleague.adobe.com/eHBePqw7Qxo3M7cTu44evB5dnv1Jr-8JwfpyzsaIpGM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 366
@@ -21,7 +26,7 @@ Marketo [!UICONTROL Performance Insights]에서 기여도 보기는 기본적으
 
 ![](assets/one-1.png)
 
-성능을 확인할 지표를 선택합니다. 이 예제에서는 _[!UICONTROL Revenue]_대시보드에서&#x200B;**[!UICONTROL Multi-Touch]**을(를) 통해 얻은 영업 기회를 살펴봅니다.
+성능을 확인할 지표를 선택합니다. 이 예제에서는 _[!UICONTROL Revenue]_&#x200B;대시보드에서&#x200B;**[!UICONTROL Multi-Touch]**&#x200B;을(를) 통해 얻은 영업 기회를 살펴봅니다.
 
 ![](assets/2.png)
 

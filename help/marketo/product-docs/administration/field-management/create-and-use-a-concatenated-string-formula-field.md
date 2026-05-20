@@ -5,9 +5,12 @@ title: 연결된 문자열(수식) 필드 만들기 및 사용
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
 TQID: https://experienceleague.adobe.com/Yk-Xh-WHUE8-GR2KTCxXRSqerdz-JHu2JnzYp8tAq9U
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 136
@@ -49,7 +52,7 @@ ht-degree: 16%
 
    >[!TIP]
    >
-   >흐름 단계](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)에 대한 [토큰에 대해 자세히 알아보세요.
+   >흐름 단계[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)에 대한 토큰에 대해 자세히 알아보세요.
 
 1. 이제 공식 필드를 이메일에 토큰으로 추가할 수 있습니다.
 

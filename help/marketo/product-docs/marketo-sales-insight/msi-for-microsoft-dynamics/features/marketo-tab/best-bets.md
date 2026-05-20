@@ -4,8 +4,10 @@ title: Best Bets
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/hXHMtgJnHJ8nZU3oQi5GcXt86uQeBxKhZ3fMG2FSA7c
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 69
@@ -22,6 +24,6 @@ ht-degree: 2%
 * [!UICONTROL Send Marketo Email]
 * [!UICONTROL Add to Marketo Campaign]
 
-[!DNL Best Bets] 탭에서 여러 리드를 선택하고 _[!UICONTROL Send Marketo Email]_또는_[!UICONTROL Add to Marketo Campaign]_&#x200B;을(를) 선택할 수도 있습니다.
+[!DNL Best Bets] 탭에서 여러 리드를 선택하고 _[!UICONTROL Send Marketo Email]_&#x200B;또는&#x200B;_[!UICONTROL Add to Marketo Campaign]_&#x200B;을(를) 선택할 수도 있습니다.
 
 ![](assets/best-bets-1.png)

@@ -5,8 +5,10 @@ title: 이메일 프로그램 시작
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
 TQID: https://experienceleague.adobe.com/DHsakR9O7XMJMAG2q7kfJFUUc2eFnkdslbowaA85IC4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 405
@@ -67,7 +69,7 @@ ht-degree: 2%
 
 ## 수신자 시간대로 시작 {#head-start-with-recipient-time-zone}
 
-기존의 헤드 스타트 기능을 사용하려면 최소 12시간 전에 프로그램을 예약해야 합니다. 수신자 시간대는 무엇을 의미합니까? 수신자 시간대가 활성화된 경우 가장 이른 시간대(UTC +14:00)의 자정에 이메일 프로그램을 시작합니다. 따라서 **시작 및 받는 사람 시간대**&#x200B;를 모두 사용하려면 가장 이른 시간대(UTC +14 :00**)보다 최소 12시간 앞서**&#x200B;프로그램을 예약해야 합니다.
+기존의 헤드 스타트 기능을 사용하려면 최소 12시간 전에 프로그램을 예약해야 합니다. 수신자 시간대는 무엇을 의미합니까? 수신자 시간대가 활성화된 경우 가장 이른 시간대(UTC +14:00)의 자정에 이메일 프로그램을 시작합니다. 따라서 **시작 및 받는 사람 시간대**&#x200B;를 모두 사용하려면 가장 이른 시간대(UTC +14 :00&#x200B;**)보다 최소 12시간 앞서**&#x200B;프로그램을 예약해야 합니다.
 
 즉, 미국/로스앤젤레스에 있고 헤드 시작 및 수신자 시간대를 모두 활성화하려는 경우 **34시간** 프로그램을 미리 예약해야 합니다. 어떻게 우리가 이 번호를 알게 됐죠?
 

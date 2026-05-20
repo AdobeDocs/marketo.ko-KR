@@ -4,8 +4,11 @@ title: 모바일 푸시 알림 구성
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/-8Uq6iWU2ithRZ9pUDoFgCjICxCIggt2jtrQapokriw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 506
@@ -35,7 +38,7 @@ ht-degree: 2%
 
    ![](assets/configure-mobile-push-notification-4.png)
 
-1. 메시지 텍스트를 입력하거나 토큰 아이콘을 선택하여 토큰을 추가하십시오. 이 편집기에서 토큰은 [과(와) 같은 형식으로 ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)됩니다. 여러 토큰을 사용할 수 있습니다. **탭 동작**&#x200B;을 선택하세요.
+1. 메시지 텍스트를 입력하거나 토큰 아이콘을 선택하여 토큰을 추가하십시오. 이 편집기에서 토큰은 [과(와) 같은 형식으로 &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)됩니다. 여러 토큰을 사용할 수 있습니다. **탭 동작**&#x200B;을 선택하세요.
 
    ![](assets/configure-mobile-push-notification-5.png)
 

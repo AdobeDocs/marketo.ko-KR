@@ -5,8 +5,10 @@ title: 샘플 이메일 보내기
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/Yvr5y1FFXhWZuE01GsIl0Jcnjhk5SffV2yo2hD156kA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 327
@@ -24,7 +26,7 @@ ht-degree: 8%
 
 ## 샘플 이메일 보내기 {#send-a-sample-email-1}
 
-1. 이메일을 찾아 선택합니다. **[!UICONTROL Email Actions]** 드롭다운을 클릭하고 **[!UICONTROL Send Sample]**를 선택합니다.
+1. 이메일을 찾아 선택합니다. **[!UICONTROL Email Actions]** 드롭다운을 클릭하고 **[!UICONTROL Send Sample]**&#x200B;를 선택합니다.
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]

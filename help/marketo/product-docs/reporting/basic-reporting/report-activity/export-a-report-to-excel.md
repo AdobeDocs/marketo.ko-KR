@@ -1,13 +1,16 @@
 ---
 unique-page-id: 2360020
 description: 다른 소프트웨어에서 분석할 보고서를 Excel 파일로 내보내는 방법에 대해 알아봅니다. 데이터를 다운로드하려면 보고서 탭에서 내보내기 단추를 클릭합니다.
-title: ' [!DNL Excel](으)로 보고서 내보내기'
+title: ' [!DNL Excel] (으)로 보고서 내보내기'
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
 TQID: https://experienceleague.adobe.com/lg9ZSoR9DLr9zqRYh19YRmeU4EiScOF0ApVc2yrhzFg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 93

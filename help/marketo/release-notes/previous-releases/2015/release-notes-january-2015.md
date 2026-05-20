@@ -5,9 +5,15 @@ title: 릴리스 노트 - 2015년 1월
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
 TQID: https://experienceleague.adobe.com/NrxOOJ5YBCQW4FtOB2Ki-oMlhy8VwVWOhO6BmjaEkFM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c954475c-8548-4e33-a0b8-6b550d956115id: e2290edd-b061-4880-9d79-dee306cf5aa9id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 385
@@ -43,7 +49,7 @@ ht-degree: 3%
 
 ## Real-Time Personalization {#real-time-personalization}
 
-Google 및 [!DNL Facebook]**에 대해**&#x200B;개인화된 리마케팅
+Google 및 [!DNL Facebook]&#x200B;**에 대해**&#x200B;개인화된 리마케팅
 
 리마케팅은 웹 사이트를 방문한 사람에게 광고를 표시합니다. 이제 Real-Time Personalization의 데이터를 사용하여 [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) 및 [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)에서 리마케팅 캠페인을 개인화할 수 있습니다. 다른 업계의 대상, 명명된 계정 목록, 회사 규모 또는 알려진 잠재 고객의 데이터를 리마케팅합니다.
 

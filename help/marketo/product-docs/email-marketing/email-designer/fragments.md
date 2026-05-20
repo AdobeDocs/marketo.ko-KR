@@ -7,11 +7,20 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
 TQID: https://experienceleague.adobe.com/sGWGa3VQda--5A2JtkUjFmqIUD2CG3RhrhoJtcRvAMs
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: df8eb12b-4f82-491f-acbb-d74012ca5654
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1910
@@ -42,7 +51,7 @@ ht-degree: 1%
 
 ![조각 액세스](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
-기본적으로 테이블은 _[!UICONTROL Modified]_열을 기준으로 정렬됩니다. 테이블 정렬 기준을 변경하려면 다른 열 제목을 클릭합니다. 오름차순과 내림차순 간을 전환하려면 동일한 제목을 다시 클릭합니다.
+기본적으로 테이블은 _[!UICONTROL Modified]_&#x200B;열을 기준으로 정렬됩니다. 테이블 정렬 기준을 변경하려면 다른 열 제목을 클릭합니다. 오름차순과 내림차순 간을 전환하려면 동일한 제목을 다시 클릭합니다.
 
 ### 찾기 및 필터링
 
@@ -178,7 +187,7 @@ ht-degree: 1%
 다음 방법 중 하나를 사용하여 조각을 삭제할 수 있습니다.
 
 * 오른쪽의 조각 세부 정보에서 **[!UICONTROL Delete]**&#x200B;을(를) 클릭합니다.
-* _[!UICONTROL Fragments]_목록 페이지에서 조각 옆에 있는 줄임표를 클릭하고&#x200B;**[!UICONTROL Delete]**을(를) 선택합니다.
+* _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 조각 옆에 있는 줄임표를 클릭하고&#x200B;**[!UICONTROL Delete]**&#x200B;을(를) 선택합니다.
 
 이 작업을 수행하면 확인 대화 상자가 열립니다. **[!UICONTROL Cancel]**&#x200B;을(를) 클릭하여 프로세스를 중단하거나 **[!UICONTROL Delete]**&#x200B;을(를) 클릭하여 삭제를 확인할 수 있습니다.
 
@@ -196,7 +205,7 @@ ht-degree: 1%
 
 >[!TAB 초안]
 
-1. _[!UICONTROL Fragments]_목록 페이지에서 조각 이름을 클릭하여 엽니다.
+1. _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 조각 이름을 클릭하여 엽니다.
 
    오른쪽에 조각 세부 사항이 있는 시각적 콘텐츠의 미리보기가 표시됩니다.
 
@@ -212,7 +221,7 @@ ht-degree: 1%
 
 >[!TAB 게시됨]
 
-1. _[!UICONTROL Fragments]_목록 페이지에서 조각 이름을 클릭하여 엽니다.
+1. _[!UICONTROL Fragments]_&#x200B;목록 페이지에서 조각 이름을 클릭하여 엽니다.
 
    오른쪽에 조각 세부 사항이 있는 시각적 콘텐츠의 미리보기가 표시됩니다.
 
@@ -236,7 +245,7 @@ ht-degree: 1%
 
 >[!TAB 초안으로 게시됨]
 
-_[!UICONTROL Fragments]_목록 페이지에서 편집할 초안 버전을 여는 방법에는 두 가지가 있습니다.
+_[!UICONTROL Fragments]_&#x200B;목록 페이지에서 편집할 초안 버전을 여는 방법에는 두 가지가 있습니다.
 
 * _자세히_ 아이콘(**...**)을 클릭합니다. 조각 이름 옆에 있는 **[!UICONTROL Open draft version]**&#x200B;을(를) 선택합니다.
 
@@ -264,7 +273,7 @@ _[!UICONTROL Fragments]_목록 페이지에서 편집할 초안 버전을 여는
 
 다음 방법 중 하나를 사용하여 조각을 복제할 수 있습니다.
 
-* _[!UICONTROL Fragments]_목록 페이지에서_&#x200B;자세히&#x200B;_아이콘(**...**)을 클릭합니다. 조각 이름 옆에 있는&#x200B;**[!UICONTROL Duplicate]**을(를) 선택합니다.
+* _[!UICONTROL Fragments]_&#x200B;목록 페이지에서_&#x200B;자세히&#x200B;_아이콘(**...**)을 클릭합니다. 조각 이름 옆에 있는&#x200B;**[!UICONTROL Duplicate]**&#x200B;을(를) 선택합니다.
 * 조각 세부 정보 페이지의 오른쪽 상단에서 **[!UICONTROL ... More]**&#x200B;을(를) 클릭하고 **[!UICONTROL Duplicate]**&#x200B;을(를) 선택합니다.
 
 ![조각 복제](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
@@ -307,7 +316,7 @@ _[!UICONTROL Fragments]_목록 페이지에서 편집할 초안 버전을 여는
 >
 >조각이 전자 메일 내의 전체 가로 레이아웃을 차지하도록 하려면 [!UICONTROL 1:1 열] 구조를 추가한 다음 조각을 끌어서 놓습니다.
 
-전자 메일/전자 메일 템플릿이 저장되면 _[!UICONTROL Used By]_탭을 선택하면 조각 세부 정보 페이지에 표시됩니다. 추가된 조각은 이메일 또는 템플릿 내에서 편집할 수 없습니다. 게시된 소스 조각은 콘텐츠를 정의합니다.
+전자 메일/전자 메일 템플릿이 저장되면 _[!UICONTROL Used By]_&#x200B;탭을 선택하면 조각 세부 정보 페이지에 표시됩니다. 추가된 조각은 이메일 또는 템플릿 내에서 편집할 수 없습니다. 게시된 소스 조각은 콘텐츠를 정의합니다.
 
 ## 이메일 및 템플릿 작성 중 조각 작업 {#fragment-actions-during-email-and-template-authoring}
 

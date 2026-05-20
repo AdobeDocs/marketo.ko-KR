@@ -4,10 +4,22 @@ title: 릴리스 정보 - 2021년 10월
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
 TQID: https://experienceleague.adobe.com/lJDSwy-83svV2pbHrXQvM4nEEidAPfcBeRz-Z3LmVjk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1110
@@ -55,13 +67,13 @@ ht-degree: 2%
 
 ![(별)](assets/yellow-star.png)
 
-[!DNL Microsoft Dynamics 365] 매출액&#x200B;**에 대한**[!DNL Sales Insight]
+[!DNL Microsoft Dynamics 365] 매출액&#x200B;**에 대한**&#x200B;[!DNL Sales Insight]
 
 * **[!UICONTROL Best Bets]개선 사항**: [!DNL Sales Insight]의 [!UICONTROL Best Bets] 탭에서는 판매 담당자에게 가장 인기 있는 연락처와 품질 및 긴급도에 따라 우선 순위가 지정된 잠재 고객에 대한 실시간 보기를 제공합니다. 영업 담당자가 [!DNL Best Bets] 페이지에서 직접 개인의 점수를 검토하거나, 이메일을 보내거나, 지정된 Marketo Engage 캠페인에 잠재 고객을 추가하는 등의 작업을 수행할 수 있는 기능을 추가하여 효율성을 높이고 응답 시간을 단축했습니다.
 
 * **새 전자 메일, 웹 활동, 익명 웹 활동 대시보드**: 판매자에게 잠재 고객 및 연락처의 최신 전자 메일 및 웹 활동에 대한 정보를 알리기 위해 새 판매 대시보드를 추가했습니다. 새로운 필터링 기능을 통해 대시보드는 이제 전체 계정 목록 또는 특정 계정에 대한 insight을 이메일 열기, 클릭 수 및 웹 페이지 방문 횟수로 제공합니다. Marketo Engage은 모든 웹 활동을 추적하고 중요한 정보를 매출에 제공하여 익명 트래픽을 잠재 고객으로 전환합니다. 판매자는 잠재 고객 행동에 대해 더 잘 알고 있고 모든 접점의 관련성을 기반으로 행동하기 때문에 참여를 개인화하고 잠재 고객을 더 빠르게 판매로 전환할 수 있습니다.
 
-[!DNL Salesforce]**에 대한**[!DNL Sales Insight]
+[!DNL Salesforce]&#x200B;**에 대한**&#x200B;[!DNL Sales Insight]
 
 * **계정 및 영업 기회 수준[!UICONTROL Best Bets]**: 이제 [!DNL Sales Insight]은(는) 영업 담당자가 다른 팀원에게 할당된 연락처에서도 자신이 소유한 계정 또는 영업 기회에 있는 모든 연락처에 대한 최상의 선택을 검토할 수 있는 기능을 제공합니다. 이를 통해 계정 및 기회 소유자는 관련 연락처의 활동을 완전히 볼 수 있으며, 계정 또는 기회에 대한 보다 전체적인 보기를 기반으로 활동할 수 있습니다.
 

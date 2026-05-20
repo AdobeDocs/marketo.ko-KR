@@ -5,7 +5,8 @@ title: 리드 소유자에게 이메일 보내기
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/iOBonqrup6ZV9QGhW-i1FpabLVBOKrNxz4xqThcexZ8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 197

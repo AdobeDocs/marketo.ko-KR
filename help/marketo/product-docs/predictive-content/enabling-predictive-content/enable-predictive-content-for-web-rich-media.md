@@ -5,8 +5,10 @@ title: 웹 리치 미디어용 예측 콘텐츠 활성화
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
 TQID: https://experienceleague.adobe.com/wMtEDTeYvsyktbCKcgyvlt8PauPw7Z5uKdDHQkkV7jE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 319
@@ -50,7 +52,7 @@ ht-degree: 6%
 
 ## Javascript 코드 사용자 지정 및 웹 사이트에 포함  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Marketo 개발자 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}에서 리치 미디어 권장 사항 템플릿 [에 대한 설명서를 참조하십시오. 웹 사이트에 맞게 템플릿을 사용자 지정하는 방법을 설명합니다.
+Marketo 개발자 사이트[&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}에서 리치 미디어 권장 사항 템플릿 에 대한 설명서를 참조하십시오. 웹 사이트에 맞게 템플릿을 사용자 지정하는 방법을 설명합니다.
 
 템플릿을 표시할 위치에 JavaScript 코드를 웹 사이트에 붙여넣습니다.
 

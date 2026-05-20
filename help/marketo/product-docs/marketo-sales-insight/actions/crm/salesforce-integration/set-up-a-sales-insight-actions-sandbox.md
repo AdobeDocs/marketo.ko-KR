@@ -3,7 +3,8 @@ description: 테스트를 위해 Sales Insight Actions 샌드박스를 설정하
 title: Sales Insight Actions 샌드박스 설정
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
 TQID: https://experienceleague.adobe.com/ZHly-bUFbbQwoOD-rheE4vfLCihBCplRjT0SNibBCc4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 693

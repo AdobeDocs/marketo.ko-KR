@@ -5,9 +5,15 @@ title: Content Analytics 이해
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/LYR0jnGcjfCf-R3YoxNQBArEuj0a5TTidVBBmSWoNq4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 370
@@ -90,7 +96,7 @@ Analytics 테이블은 다음 세부 정보를 제공합니다.
 
 * **[!UICONTROL Views]**: 선택한 시간 범위에 대한 해당 콘텐츠 조각 보기
 * **[!UICONTROL Direct Conversions]**: 같은 방문에서 콘텐츠를 보고 양식을 작성한 웹 방문자입니다.
-* **[!UICONTROL Conversion Rate]****:** 직접 전환으로 계산된 전환율을 클릭수로 나눈 비율입니다.
+* **[!UICONTROL Conversion Rate]**&#x200B;**:** 직접 전환으로 계산된 전환율을 클릭수로 나눈 비율입니다.
 
 **[!UICONTROL Trends]**
 

@@ -1,13 +1,19 @@
 ---
 unique-page-id: 2949863
 description: Marketo에서 Webex를 사용하여 이벤트를 만드는 방법에 대해 알아봅니다. Webex 통합을 구성하고 Marketo과 이벤트 또는 모임 데이터를 동기화합니다.
-title: ' [!DNL Webex](으)로 이벤트 만들기'
+title: ' [!DNL Webex] (으)로 이벤트 만들기'
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
 TQID: https://experienceleague.adobe.com/TDiOAkdoh-06ZZwY0uvTUCnSKJBzr3-Ht2Rqty--EIc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 647

@@ -4,7 +4,8 @@ title: 고급 검색 개요
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 398
@@ -85,13 +86,13 @@ ht-degree: 4%
 
 ![](assets/advanced-search-overview-9.png)
 
-_**상태: 보냄**_
+_&#x200B;**상태: 보냄**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 보낸 이메일 활동별 필터. [!UICONTROL views]/[!UICONTROL no views], [!UICONTROL clicks]/[!UICONTROL no clicks] 및/또는 [!UICONTROL replies]/[!UICONTROL no replies]를 선택할 수 있습니다.
 
-_**상태: 보류 중**_
+_&#x200B;**상태: 보류 중**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -116,7 +117,7 @@ _**상태: 보류 중**_
  </tr>
 </table>
 
-_**상태: 배달되지 않음**_
+_&#x200B;**상태: 배달되지 않음**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

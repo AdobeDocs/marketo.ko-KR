@@ -5,7 +5,8 @@ title: 계정 스마트 목록
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/CzJmCUT5TYuVKNOMmSkOjuRc7ImDGOzw7L-Ej45-Evw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 444
@@ -53,7 +54,7 @@ ht-degree: 2%
 
    ![](assets/account-smart-lists-6.png)
 
-1. 원하는 계정 필터를 선택합니다. 이 예제에서는 _[!UICONTROL Industry]을(를)[!UICONTROL Healthcare]_&#x200B;합니다.
+1. 원하는 계정 필터를 선택합니다. 이 예제에서는 _[!UICONTROL Industry]을(를) [!UICONTROL Healthcare]_&#x200B;합니다.
 
    ![](assets/account-smart-lists-7.png)
 
@@ -95,7 +96,7 @@ ht-degree: 2%
 
 **[!UICONTROL Send to Ad Network]**: [!DNL LinkedIn]에 일치하는 새 대상자로 목록을 보냅니다.
 
-_[!UICONTROL People Member of Account Smart List]_필터를 사용하여 표준 스마트 캠페인/목록에서 [!UICONTROL Account Smart List]을(를) 참조할 수도 있습니다.
+_[!UICONTROL People Member of Account Smart List]_&#x200B;필터를 사용하여 표준 스마트 캠페인/목록에서 [!UICONTROL Account Smart List]을(를) 참조할 수도 있습니다.
 
 ![](assets/account-smart-lists-12.png)
 

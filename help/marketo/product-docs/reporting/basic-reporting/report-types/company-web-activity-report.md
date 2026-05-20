@@ -5,9 +5,15 @@ title: 회사 웹 활동 보고서
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
 TQID: https://experienceleague.adobe.com/U075R1PGYsqHdHOwEv5IgD-Wb6I4ejtmY4CylsXeXds
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 267
@@ -37,7 +43,7 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >사이트를 가장 많이 방문하는 회사를 찾으려면 _[!UICONTROL Page Views]_열에서 [보고서를 정렬](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)하고&#x200B;**[!UICONTROL Sort Descending]**을 선택하세요.
+   >사이트를 가장 많이 방문하는 회사를 찾으려면 _[!UICONTROL Page Views]_&#x200B;열에서 [보고서를 정렬](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)하고&#x200B;**[!UICONTROL Sort Descending]**&#x200B;을 선택하세요.
 
    회사 웹 활동 보고서에 대해 선택할 수 있는 [열](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)에는 다음이 포함됩니다.
 

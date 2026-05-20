@@ -5,10 +5,14 @@ title: TAM을 통한 계정 기반 웹 마케팅
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/BSlDYlNvFm1mZs9UP58HxZ2HLiLYjFrbt7WyCHzT1c4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 186
@@ -28,7 +32,7 @@ Marketo [!UICONTROL Web Personalization] 및 [!UICONTROL Target Account Manageme
 
    * **참고**: 동기화하는 데 최대 5분이 걸릴 수 있습니다.
 
-* [!UICONTROL Web Personalization]에서 TAM에서 만든 [계정 목록에서 ](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)세그먼트를 타겟팅하는 계정을 만들고 이러한 계정에 대한 콘텐츠를 개인화할 수 있습니다
+* [!UICONTROL Web Personalization]에서 TAM에서 만든 [계정 목록에서 &#x200B;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)세그먼트를 타겟팅하는 계정을 만들고 이러한 계정에 대한 콘텐츠를 개인화할 수 있습니다
 
 ## 기존 ABWM 고객의 경우 {#for-existing-abwm-customers}
 
