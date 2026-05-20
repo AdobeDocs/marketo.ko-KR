@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+source-git-commit: 400b847ed81f4dda33f9c76b95319815366db7cf
 workflow-type: tm+mt
-source-wordcount: '9171'
+source-wordcount: '8896'
 ht-degree: 96%
 
 ---
@@ -1920,7 +1920,8 @@ ht-degree: 96%
    + {hide-from-toc}[현재 릴리스 TEMP](release-notes/current-temp.md)
    + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
    + {hide-from-toc}[Dynamic Chat 릴리스 TEMP](release-notes/dynamic-chat-temp.md)
-   + 이전 릴리스 {#previous-releases}
+   + [이전 릴리스](release-notes/previous-releases.md)
+   + 이전 릴리스 {hide-from-toc}개 {#previous-releases}
       + 2026 {#2026}
          + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)
@@ -1948,84 +1949,16 @@ ht-degree: 96%
          + [릴리스 정보: 2023년 7월](release-notes/previous-releases/2023/release-notes-july-23.md)
          + [릴리스 정보: 2023년 9월](release-notes/previous-releases/2023/release-notes-sep-23.md)
          + [릴리스 정보: 2023년 10월](release-notes/previous-releases/2023/release-notes-oct-23.md)
-      + 2022 {#2022}
-         + [릴리스 정보: 2022년 1월](release-notes/previous-releases/2022/release-notes-jan-22.md)
-         + [릴리스 정보: 2022년 3월](release-notes/previous-releases/2022/release-notes-mar-22.md)
-         + [릴리스 정보: 2022년 5월](release-notes/previous-releases/2022/release-notes-may-22.md)
-         + [릴리스 정보: 2022년 6월](release-notes/previous-releases/2022/release-notes-june-22.md)
-         + [릴리스 정보: 2022년 8월](release-notes/previous-releases/2022/release-notes-aug-22.md)
-         + [릴리스 정보: 2022년 10월](release-notes/previous-releases/2022/release-notes-oct-22.md)
-      + 2021 {#2021}
-         + [릴리스 정보: 2021년 1월](release-notes/previous-releases/2021/release-notes-jan-21.md)
-         + [릴리스 정보: 2021년 5월](release-notes/previous-releases/2021/release-notes-may-21.md)
-         + [릴리스 정보: 2021년 8월](release-notes/previous-releases/2021/release-notes-aug-21.md)
-         + [릴리스 정보: 2021년 10월](release-notes/previous-releases/2021/release-notes-oct-21.md)
-      + 2020 {#2020}
-         + [릴리스 정보: 2020년 1월](release-notes/previous-releases/2020/release-notes-jan-20.md)
-         + [릴리스 정보: 2020년 2월](release-notes/previous-releases/2020/release-notes-feb-20.md)
-         + [릴리스 정보: 2020년 6월](release-notes/previous-releases/2020/release-notes-june-20.md)
-         + [릴리스 정보: 2020년 7월](release-notes/previous-releases/2020/release-notes-july-20.md)
-         + [릴리스 정보: 2020년 10월](release-notes/previous-releases/2020/release-notes-oct-20.md)
-      + 2019 {#2019}
-         + [릴리스 정보: 2019년 8월](release-notes/previous-releases/2019/release-notes-august-19.md)
-         + [릴리스 정보: 2019년 6월](release-notes/previous-releases/2019/release-notes-june-19.md)
-         + [릴리스 정보: 2019년 봄](release-notes/previous-releases/2019/release-notes-spring-19.md)
-         + [릴리스 정보: 2019년 겨울](release-notes/previous-releases/2019/release-notes-winter-19.md)
-      + 2018 {#2018}
-         + [릴리스 정보: 2018년 가을](release-notes/previous-releases/2018/release-notes-fall-18.md)
-         + [릴리스 정보: 2018년 봄](release-notes/previous-releases/2018/release-notes-spring-18.md)
-         + [릴리스 정보: 2018년 겨울](release-notes/previous-releases/2018/release-notes-winter-18.md)
-      + 2017 {#2017}
-         + [릴리스 정보: 2017년 4월 ABM 개선 사항](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
-         + [릴리스 정보: 2017년 8월 ABM 개선 사항](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
-         + [릴리스 정보: 2017년 가을](release-notes/previous-releases/2017/release-notes-fall-17.md)
-         + [릴리스 정보: 2017년 봄](release-notes/previous-releases/2017/release-notes-spring-17.md)
-         + [릴리스 정보: 2017년 여름](release-notes/previous-releases/2017/release-notes-summer-17.md)
-         + [릴리스 정보: 2017년 겨울](release-notes/previous-releases/2017/release-notes-winter-17.md)
-      + 2016 {#2016}
-         + [릴리스 정보: 2016년 가을](release-notes/previous-releases/2016/release-notes-fall-16.md)
-         + [릴리스 정보: 2016년 봄](release-notes/previous-releases/2016/release-notes-spring-16.md)
-         + [릴리스 정보: 2016년 여름](release-notes/previous-releases/2016/release-notes-summer-16.md)
-         + [릴리스 정보: 2016년 겨울](release-notes/previous-releases/2016/release-notes-winter-16.md)
-      + 2015 {#2015}
-         + [릴리스 정보: 2015년 4월](release-notes/previous-releases/2015/release-notes-april-2015.md)
-         + [릴리스 정보: 2015년 가을](release-notes/previous-releases/2015/release-notes-fall-15.md)
-         + [릴리스 정보: 2015년 2월](release-notes/previous-releases/2015/release-notes-february-2015.md)
-         + [릴리스 정보: 2015년 1월](release-notes/previous-releases/2015/release-notes-january-2015.md)
-         + [릴리스 정보: 2015년 7월](release-notes/previous-releases/2015/release-notes-july-2015.md)
-         + [릴리스 정보: 2015년 6월](release-notes/previous-releases/2015/release-notes-june-2015.md)
-         + [릴리스 정보: 2015년 3월](release-notes/previous-releases/2015/release-notes-march-2015.md)
-         + [릴리스 정보: 2015년 5월](release-notes/previous-releases/2015/release-notes-may-2015.md)
-      + 2014 {#2014}
-         + [릴리스 정보: 2014년 8월](release-notes/previous-releases/2014/release-notes-august-2014.md)
-         + [릴리스 정보: 2014년 12월](release-notes/previous-releases/2014/release-notes-december-2014.md)
-         + [릴리스 정보: 2014년 2월](release-notes/previous-releases/2014/release-notes-february-2014.md)
-         + [릴리스 정보: 2014년 1월](release-notes/previous-releases/2014/release-notes-january-2014.md)
-         + [릴리스 정보: 2014년 7월](release-notes/previous-releases/2014/release-notes-july-2014.md)
-         + [릴리스 정보: 2014년 6월](release-notes/previous-releases/2014/release-notes-june-2014.md)
-         + [릴리스 정보: 2014년 3월](release-notes/previous-releases/2014/release-notes-march-2014.md)
-         + [릴리스 정보: 2014년 5월](release-notes/previous-releases/2014/release-notes-may-2014.md)
-         + [릴리스 정보: 2014년 10월](release-notes/previous-releases/2014/release-notes-october-2014.md)
-      + 2013 {#2013}
-         + [릴리스 정보: 2013년 4월](release-notes/previous-releases/2013/release-notes-april-2013.md)
-         + [릴리스 정보: 2013년 8월](release-notes/previous-releases/2013/release-notes-august-2013.md)
-         + [릴리스 정보: 2013년 12월](release-notes/previous-releases/2013/release-notes-december-2013.md)
-         + [릴리스 정보: 2013년 2월](release-notes/previous-releases/2013/release-notes-february-2013.md)
-         + [릴리스 정보: 2013년 1월](release-notes/previous-releases/2013/release-notes-january-2013.md)
-         + [릴리스 정보: 2013년 7월](release-notes/previous-releases/2013/release-notes-july-2013.md)
-         + [릴리스 정보: 2013년 6월](release-notes/previous-releases/2013/release-notes-june-2013.md)
-         + [릴리스 정보: 2013년 3월](release-notes/previous-releases/2013/release-notes-march-2013.md)
-         + [릴리스 정보: 2013년 5월](release-notes/previous-releases/2013/release-notes-may-2013.md)
-         + [릴리스 정보: 2013년 10월](release-notes/previous-releases/2013/release-notes-october-2013.md)
-         + [릴리스 정보: 2013년 9월](release-notes/previous-releases/2013/release-notes-september-2013.md)
-      + 2012 {#2012}
-         + [릴리스 정보: 2012년 4월](release-notes/previous-releases/2012/release-notes-april-2012.md)
-         + [릴리스 정보: 2012년 12월](release-notes/previous-releases/2012/release-notes-december-2012.md)
-         + [릴리스 정보: 2012년 1월/2월](release-notes/previous-releases/2012/release-notes-jan-feb-2012.md)
-         + [릴리스 정보: 2012년 6월](release-notes/previous-releases/2012/release-notes-june-2012.md)
-         + [릴리스 정보: 2012년 3월](release-notes/previous-releases/2012/release-notes-march-2012.md)
-         + [릴리스 정보: 2012년 5월](release-notes/previous-releases/2012/release-notes-may-2012.md)
-         + [릴리스 정보: 2012년 10월](release-notes/previous-releases/2012/release-notes-october-2012.md)
-         + [릴리스 정보: 2012년 9월](release-notes/previous-releases/2012/release-notes-september-2012.md)
+      + [2022](release-notes/previous-releases/release-notes-2022.md)
+      + [2021](release-notes/previous-releases/release-notes-2021.md)
+      + [2020](release-notes/previous-releases/release-notes-2020.md)
+      + [2019](release-notes/previous-releases/release-notes-2019.md)
+      + [2018](release-notes/previous-releases/release-notes-2018.md)
+      + [2017](release-notes/previous-releases/release-notes-2017.md)
+      + [2016](release-notes/previous-releases/release-notes-2016.md)
+      + [2015](release-notes/previous-releases/release-notes-2015.md)
+      + [2014](release-notes/previous-releases/release-notes-2014.md)
+      + [2013](release-notes/previous-releases/release-notes-2013.md)
+      + [2012](release-notes/previous-releases/release-notes-2012.md)
       + [2010-2011](release-notes/previous-releases/2010-2011.md)
       + [2007-2009](release-notes/previous-releases/2007-2009.md)
