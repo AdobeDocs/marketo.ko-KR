@@ -102,4 +102,4 @@ Marketo은 익명의 사람들이 스마트 캠페인과 상호 작용하는 방
 
 ## 질문이 더 있습니다! 어떻게 해야 답을 얻을 수 있습니까? {#i-have-more-questions-how-do-i-get-them-answered}
 
-[Marketo 커뮤니티](https://experienceleaguecommunities.adobe.com/){target="_blank"}를 방문하세요. Marketo 지원에도 문의할 수 있습니다. 그들은 기꺼이 당신의 질문에 대답합니다.
+[Marketo 커뮤니티](https://experienceleaguecommunities.adobe.com/?profile.language=ko){target="_blank"}를 방문하세요. Marketo 지원에도 문의할 수 있습니다. 그들은 기꺼이 당신의 질문에 대답합니다.

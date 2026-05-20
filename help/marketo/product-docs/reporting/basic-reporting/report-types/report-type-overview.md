@@ -67,11 +67,11 @@ ht-degree: 8%
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">참여 스트림 성과 보고서</a> </strong></td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">참여 프로그램</a>의 작동 상태를 확인하세요.</td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">참여 프로그램</a>의 작동 상태를 확인하세요.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Campaign 이메일 성과</a> </strong></td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">참여 프로그램</a>의 작동 상태를 확인하세요.</td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">참여 프로그램</a>의 작동 상태를 확인하세요.</td>
   </tr>
  </tbody>
 </table>

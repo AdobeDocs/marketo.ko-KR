@@ -35,7 +35,7 @@ ht-degree: 8%
 
 >[!TIP]
 >
->Workspace 모범 사례에 대해 자세히 알아보려면 [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}에 문의하세요.
+>Workspace 모범 사례에 대해 자세히 알아보려면 [Marketo Professional Services](https://business.adobe.com/kr/products/marketo/services-support.html){target="_blank"}에 문의하세요.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 

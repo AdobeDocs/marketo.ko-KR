@@ -46,4 +46,4 @@ ht-degree: 0%
 
 ## 업데이트 및 지원
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support)의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support)의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.

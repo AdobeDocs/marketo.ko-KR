@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # 템플릿 12A {#template-12a}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 12A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 12A 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html?lang=ko)
 
 ![](assets/image2015-8-4-14-3a23-3a23.png)
 
@@ -34,4 +34,4 @@ ht-degree: 5%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 12A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)
+[템플릿 12A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html?lang=ko)

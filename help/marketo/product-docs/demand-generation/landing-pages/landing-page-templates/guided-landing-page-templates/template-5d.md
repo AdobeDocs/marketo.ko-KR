@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # 템플릿 5D {#template-5d}
 
-마우스 오른쪽 단추를 클릭하여 [템플릿 5D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
+마우스 오른쪽 단추를 클릭하여 [템플릿 5D 다운로드](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=ko)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 
@@ -34,4 +34,4 @@ ht-degree: 5%
 
 **이 서식 파일을 다운로드하려면 아래를 마우스 오른쪽 단추로 클릭하세요.**
 
-[템플릿 5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
+[템플릿 5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=ko)

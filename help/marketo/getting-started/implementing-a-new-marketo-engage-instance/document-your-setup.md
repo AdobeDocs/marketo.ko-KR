@@ -37,8 +37,8 @@ ht-degree: 4%
 <tbody>
   <tr>
     <td>목록 가져오기</td>
-    <td><li>레코드를 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">Marketo Engage으로 가져오기</a>(으)로 가져올 데이터 원본 목록을 수집합니다.</li>
-    <li>여러 데이터 소스에서 가져오는 경우 기본 목록을 사용하거나 개인 레코드에 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">사용자 지정 필드 만들기</a>를 사용하여 데이터 소스를 나타내는 것이 좋습니다.</li></td>
+    <td><li>레코드를 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">Marketo Engage으로 가져오기</a>(으)로 가져올 데이터 원본 목록을 수집합니다.</li>
+    <li>여러 데이터 소스에서 가져오는 경우 기본 목록을 사용하거나 개인 레코드에 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">사용자 지정 필드 만들기</a>를 사용하여 데이터 소스를 나타내는 것이 좋습니다.</li></td>
   </tr>
   <tr>
     <td>데이터베이스 통합</td>
@@ -74,11 +74,11 @@ ht-degree: 4%
   </tr>
   <tr>
     <td>조직</td>
-    <td><li>합의된 폴더 구조, 프로그램, 에셋 등에 대한 표준 이름 지정 규칙 및 이러한 결정에 영향을 미치는 이유를 문서화합니다. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">모범 사례에 대해 자세히 알아보세요.</a></li></td>
+    <td><li>합의된 폴더 구조, 프로그램, 에셋 등에 대한 표준 이름 지정 규칙 및 이러한 결정에 영향을 미치는 이유를 문서화합니다. <a href="https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">모범 사례에 대해 자세히 알아보세요.</a></li></td>
   </tr>
   <tr>
     <td>변경 로그</td>
-    <td><li>인스턴스의 변경 내용과 수정 이유를 문서화할 수 있는 변경 로그를 만듭니다. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">모범 사례에 대해 자세히 알아보세요.</a></li></td>
+    <td><li>인스턴스의 변경 내용과 수정 이유를 문서화할 수 있는 변경 로그를 만듭니다. <a href="https://experienceleague.adobe.com/ko/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">모범 사례에 대해 자세히 알아보세요.</a></li></td>
   </tr>
   <tr>
     <td>플레이북</td>

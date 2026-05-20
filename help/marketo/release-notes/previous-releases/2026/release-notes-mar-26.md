@@ -40,7 +40,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td><strong>이메일 Designer - 조각에서 편집 가능한 HTML 구성 요소</strong>: 시각적 조각 내에서 편집 가능한 필드는 구성 요소 속성 패널을 통해 이미지, 텍스트 및 단추 구성 요소에서 지원됩니다. HTML 구성 요소의 경우 편집 가능한 필드는 HTML 구성 요소 자체의 소스 코드 내에 변수 기반 구문을 사용하여 다르게 구성됩니다.
    </td>
    <td>릴리스됨</i></td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">조각에서 편집 가능한 HTML 구성 요소</a></td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">조각에서 편집 가능한 HTML 구성 요소</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -91,7 +91,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **SEO 기능 사용 중단**: 2026년 3월 31일 화요일에 Marketo Engage은 SEO(검색 엔진 최적화 기능)를 사용하지 않습니다. SEO를 적극적으로 활용하지 않는다면 아무것도 하지 않아도 된다. 최근 SEO를 사용한 경우 데이터를 내보낼 수 있습니다. [자세히 알아보기](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}
+* **SEO 기능 사용 중단**: 2026년 3월 31일 화요일에 Marketo Engage은 SEO(검색 엔진 최적화 기능)를 사용하지 않습니다. SEO를 적극적으로 활용하지 않는다면 아무것도 하지 않아도 된다. 최근 SEO를 사용한 경우 데이터를 내보낼 수 있습니다. [자세히 알아보기](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=ko){target="_blank"}
 
 * **REST API 병합 리드 제한**: 2026년 3월 31일부터 병합 리드 API 호출의 leadIds 매개 변수에 25개 이상의 ID를 포함하는 호출은 1080 오류 코드를 생성하며, 호출이 건너뜁니다. 25개 이상의 레코드를 하나로 병합해야 하는 작업은 이러한 호출의 성공을 보장하기 위해 여러 작업으로 분할해야 합니다.
 
