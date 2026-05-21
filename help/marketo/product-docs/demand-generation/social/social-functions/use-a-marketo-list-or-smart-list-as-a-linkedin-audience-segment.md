@@ -4,10 +4,13 @@ description: Marketo 목록 또는 스마트 목록을 LinkedIn 대상 세그먼
 title: Marketo 목록 또는 스마트 목록을 LinkedIn 대상자 세그먼트로 사용
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/n7Z4AKx6Hiu6f9cxXPpfSTJJdOLakTwy7ejQ-6LK4Bo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 15%
+source-wordcount: 192
+ht-degree: 16%
 
 ---
 
@@ -31,7 +34,7 @@ Marketo Engage 사용자와 LinkedIn 대상을 통합합니다.
 
    ![](assets/list-as-a-linkedin-audience-segment-3.png)
 
-1. 목록 하단의 _광고 Bridge을 통해 보내기_ 아이콘 ![—](assets/icon-ad-bridge.png)을 클릭합니다.
+1. 목록의 맨 아래에 있는 **[!UICONTROL Send Via Ad Bridge]** 아이콘 ![—](assets/icon-ad-bridge.png)을(를) 클릭합니다.
 
    ![](assets/list-as-a-linkedin-audience-segment-4.png)
 
@@ -43,7 +46,7 @@ Marketo Engage 사용자와 LinkedIn 대상을 통합합니다.
 
    ![](assets/list-as-a-linkedin-audience-segment-5.png)
 
-1. _LinkedIn 대상_&#x200B;을 선택하십시오.
+1. **[!UICONTROL LinkedIn Audience]** 선택.
 
    >[!NOTE]
    >
@@ -55,12 +58,12 @@ Marketo Engage 사용자와 LinkedIn 대상을 통합합니다.
    >
    >LinkedIn은 2018년 3월 &quot;대상자 지우기 및 리드 추가&quot; 푸시 유형에 사용되는 API를 더 이상 사용하지 않습니다. 이 옵션은 Marketo의 2018년 1분기 릴리스부터 더 이상 사용할 수 없습니다.
 
-1. _[!UICONTROL Push Type]_&#x200B;선택.**[!UICONTROL Update]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL Push Type]** 선택. **[!UICONTROL Update]**&#x200B;를 클릭합니다.
 
    ![](assets/list-as-a-linkedin-audience-segment-7.png)
 
    >[!NOTE]
    >
-   >15분 동안 동기화가 진행될 수 있도록 허용하십시오.
+   >15분 동안 동기화가 완료될 수 있도록 허용합니다.
 
-하이 파이브! 이제 데이터가 LinkedIn의 대상과 일치합니다. 계정 및 연락처 타겟팅을 위해 LinkedIn에 목록을 업로드하는 방법에 대한 자세한 내용은 [LinkedIn의 마케팅 솔루션 도움말 센터](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment){target="_blank"}를 참조하십시오.
+이제 데이터가 LinkedIn 대상자와 동기화됩니다. 계정 및 연락처 타겟팅을 위해 LinkedIn에 목록을 업로드하는 방법에 대한 자세한 내용은 [LinkedIn의 마케팅 솔루션 도움말 센터](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment){target="_blank"}를 참조하십시오.

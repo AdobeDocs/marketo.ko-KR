@@ -4,9 +4,13 @@ description: Marketo에서 자유 형식 랜딩 페이지 템플릿을 만드는
 title: 자유 형식 랜딩 페이지 템플릿 만들기
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/zAuwXys4flRTw2x2zthiov4yxcx-gKmZEWIMFoIaIq4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: 189
 ht-degree: 8%
 
 ---
@@ -27,7 +31,7 @@ ht-degree: 8%
 
    ![](assets/three.png)
 
-1. 템플릿이 새 탭에서 열립니다. 이제 CSS/HTML에 익숙한 모든 사용자가 편집할 수 있습니다.
+1. 템플릿이 새 탭에서 열립니다. 이제 CSS/HTML에 익숙한 누구나 편집할 수 있습니다.
 
    ![](assets/four.png)
 
@@ -39,11 +43,9 @@ ht-degree: 8%
 
    ![](assets/five.png)
 
-   이제 새로운 자유 형식 랜딩 페이지 템플릿이 제공됩니다!
-
    >[!NOTE]
    >
-   >양식을 미리 채우지 못하게 하거나 특정 페이지에서 웹 동작을 추적하지 않으려면 **[!UICONTROL Disable Munchkin Tracking]**&#x200B;을(를) 선택합니다.
+   >양식을 미리 채우지 못하게 하거나 특정 페이지에서 웹 동작을 추적하지 않으려면 **[!UICONTROL Disable Munchkin Tracking]**을(를) 선택합니다.
    >코드가 모바일 장치와 호환되는지 확인하려면 **[!UICONTROL Validate Mobile Compatibility]**&#x200B;을(를) 선택하십시오.
 
    >[!MORELIKETHIS]

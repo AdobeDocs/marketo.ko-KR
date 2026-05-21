@@ -4,16 +4,18 @@ description: Marketo에서 랜딩 페이지를 미리 보는 방법을 알아봅
 title: 랜딩 페이지 미리보기
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/3bgFcAopW5NAzIhEbI8hWVv9BP4njL6dX-pKRbEQV4Y
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 9%
+source-wordcount: 138
+ht-degree: 8%
 
 ---
 
 # 랜딩 페이지 미리보기 {#preview-a-landing-page}
 
-시작하기 전에 랜딩 페이지의 모양을 확인할 수 있습니다.
+랜딩 페이지를 미리 보고 라이브로 만들기 전에 모양을 확인합니다.
 
 ## 랜딩 페이지 미리보기 {#preview-a-landing-page-1}
 
@@ -49,4 +51,4 @@ ht-degree: 9%
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
-수고하셨습니다! 이제 랜딩 페이지를 미리 보는 방법을 알 수 있습니다.
+이제 랜딩 페이지를 미리 보는 방법을 알 수 있습니다.

@@ -4,16 +4,21 @@ description: Marketo 랜딩 페이지에 코드 조각을 추가하는 방법을
 title: 랜딩 페이지에 스니펫 추가
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/OVrga4yZ4oPGHy3G9-1K5vgqlBnMTUChVLt3iVWNIGQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: 110
 ht-degree: 12%
 
 ---
 
 # 랜딩 페이지에 스니펫 추가 {#add-a-snippet-to-a-landing-page}
 
-스니펫은 규칙을 따르고 개인화된 콘텐츠를 보관할 수 있는 HTML의 작은 부분입니다.
+스니펫은 규칙을 따르고 개인화된 콘텐츠를 보관할 수 있는 재사용 가능한 HTML 블록입니다.
 
 >[!PREREQUISITES]
 >
@@ -39,4 +44,4 @@ ht-degree: 12%
    >
    >안내 랜딩 페이지에 코드 조각을 추가하려면 [이 문서](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)를 참조하세요.
 
-잘했다! 이제 랜딩 페이지에 스니펫을 추가하는 방법을 알 수 있습니다.
+이제 랜딩 페이지에 스니펫을 추가하는 방법을 알 수 있습니다.

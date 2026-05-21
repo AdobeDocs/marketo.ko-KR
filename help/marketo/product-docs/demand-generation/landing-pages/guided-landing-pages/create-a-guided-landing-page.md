@@ -4,9 +4,12 @@ description: Marketo에서 가이드 랜딩 페이지를 만드는 방법을 알
 title: 가이드 랜딩 페이지 만들기
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/-df5e1arC8TagrG3obrDjF9s4Ay-YcCI4wiLtgdHDFI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: 190
 ht-degree: 15%
 
 ---
@@ -45,7 +48,7 @@ ht-degree: 15%
 
    >[!NOTE]
    >
-   >안내 랜딩 페이지 템플릿 옆에는 ![—](assets/image2015-5-26-9-3a26-3a51.png) 아이콘이 있습니다. 안내식 템플릿은 전체 응답성을 유지할 수 있도록 구조화되었습니다.
+   >안내식 랜딩 페이지 템플릿 옆에는 ![](assets/image2015-5-26-9-3a26-3a51.png) 아이콘이 있습니다. 안내식 템플릿은 전체 응답성을 유지할 수 있도록 구조화되었습니다.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
@@ -71,4 +74,4 @@ ht-degree: 15%
 >
 >URL은 프로그램 및 랜딩 페이지 이름에서 자동으로 생성됩니다. URL을 변경하려면 **[!UICONTROL Page URL]** 필드를 편집하십시오.
 >
->**[!UICONTROL Open in editor]**&#x200B;을(를) 클릭한 후 바로 편집기를 열지 않으려면 **[!UICONTROL Create]** 확인란의 선택을 취소하십시오.
+>**[!UICONTROL Create]**&#x200B;을(를) 클릭한 후 바로 편집기를 열지 않으려면 **[!UICONTROL Open in editor]** 확인란의 선택을 취소하십시오.

@@ -4,9 +4,12 @@ description: Marketo의 안내 랜딩 페이지에 이미지를 추가하는 방
 title: 가이드 랜딩 페이지에 이미지 추가
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/mpQDAnY0wH2GZQdzBVKuFeUALx6OQzppu7wodBricKQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: 127
 ht-degree: 13%
 
 ---
@@ -27,7 +30,7 @@ ht-degree: 13%
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 
-1. 콘텐츠는 요소 위치 홀더에 표시됩니다.
+1. 콘텐츠는 요소 자리 표시자에 표시됩니다.
 
    >[!NOTE]
    >

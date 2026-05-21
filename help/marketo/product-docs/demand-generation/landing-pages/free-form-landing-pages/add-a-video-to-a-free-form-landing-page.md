@@ -5,10 +5,13 @@ title: 자유 형식 랜딩 페이지에 비디오 추가
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 feature: Landing Pages
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/JAniDUx7doRNOSnpsdkLIgNnyGO3tAwZGgtpQCKaqPc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 7%
+source-wordcount: 208
+ht-degree: 8%
 
 ---
 
@@ -44,8 +47,4 @@ ht-degree: 7%
 >
 >시간을 절약하기 위해 **[!UICONTROL Clone From]** 옵션을 사용하여 기존 비디오 공유에서 모든 설정을 복사할 수 있습니다.
 
-축하합니다! 비디오 공유를 자유 형식 랜딩 페이지에 추가했습니다. 랜딩 페이지를 승인하고 비디오 공유가 라이브됩니다. [Facebook에 랜딩 페이지를 게시](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)하거나 _웹 사이트에 비디오 공유를 추가_&#x200B;할 수도 있습니다.
-
->[!MORELIKETHIS]
->
->완료되었습니다. 하지만 필요한 경우 비디오 공유의 설정을 변경할 수 있습니다. _공유 흐름 사용자 지정_(공유 프롬프트가 열리는 시간 및 위치)으로 시작합니다.
+비디오 공유를 자유 형식 랜딩 페이지에 추가했습니다. 랜딩 페이지를 승인하고 비디오 공유가 라이브됩니다. [Facebook에 랜딩 페이지를 게시](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)하거나 웹 사이트에 비디오 공유를 넣을 수도 있습니다.

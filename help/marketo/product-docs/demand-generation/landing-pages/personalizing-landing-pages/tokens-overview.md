@@ -4,10 +4,13 @@ description: Marketo 랜딩 페이지를 개인화하기 위한 토큰에 대해
 title: 토큰 개요
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/nwWdqv-I5E0SfUIDAwMGnQHlx3kJ3crT4uwT0HEvaA8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 88%
+source-wordcount: 310
+ht-degree: 79%
 
 ---
 
@@ -110,7 +113,7 @@ ht-degree: 88%
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* 사용자 정의 회사 필드는 해당 표시 이름을 사용하는 경우에도 작동합니다(예: `{{Company.Custom Field Name}}`).
+* `{{Company.Custom Field Name}}`과 같은 표시 이름을 사용하는 경우 사용자 정의 회사 필드도 작동합니다.
 
 ## 캠페인 토큰 {#campaign-tokens}
 
@@ -163,7 +166,7 @@ ht-degree: 88%
 
 ## 멤버 토큰 {#member-token}
 
-멤버 토큰은 통합 서비스 파트너의 고유한 값을 삽입하는 데 사용됩니다. 멤버 토큰의 일반적인 용도는 웨비나 참석자의 고유 URL 용입니다. 각 사용자는 `{{member.webinar url}}` 토큰을 사용하여 삽입할 수 있는 웨비나에 액세스하기 위한 고유한 URL을 갖고 있습니다. `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 사용자 고유의 확인 URL을 자동으로 확인합니다.
+멤버 토큰은 통합 서비스 파트너의 고유한 값을 삽입하는 데 사용됩니다. 멤버 토큰의 일반적인 용도는 웨비나 참석자의 고유 URL 용입니다. 각 사용자는 `{{member.webinar url}}` 토큰을 사용하여 삽입할 수 있는 웨비나에 액세스하기 위한 고유한 URL을 갖고 있습니다. `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유 확인 URL을 자동으로 확인합니다.
 
 * `{{member.webinar url}}`
 

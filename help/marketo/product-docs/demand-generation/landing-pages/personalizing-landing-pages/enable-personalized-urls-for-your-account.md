@@ -4,16 +4,18 @@ description: Marketo 계정에 대해 개인화된 URL을 활성화하는 방법
 title: 계정에 대한 개인화된 URL 활성화
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/As1NwttcwB-zbe-UNOF1tuYcot34gZcb3UH-lnQcRAM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 17%
+source-wordcount: 103
+ht-degree: 16%
 
 ---
 
 # 계정에 대한 개인화된 URL 활성화 {#enable-personalized-urls-for-your-account}
 
-개인화된 URL은 인쇄 메일 캠페인에 적합합니다.
+개인화된 URL은 인쇄 메일 캠페인에서 잘 작동합니다.
 
 >[!NOTE]
 >
@@ -31,7 +33,7 @@ ht-degree: 17%
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-좋습니다! 계정에 대해 PURL을 활성화했으므로 개별 랜딩 페이지에 대해 활성화할 수 있습니다.
+계정에 대해 PURL을 활성화했습니다. 이제 개별 랜딩 페이지에 대해 활성화할 수 있습니다.
 
 >[!NOTE]
 >

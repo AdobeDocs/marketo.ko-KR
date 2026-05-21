@@ -4,16 +4,18 @@ description: Marketo 랜딩 페이지에 대해 개인화된 URL을 활성화하
 title: 랜딩 페이지에 대해 개인화된 URL 활성화
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/62RoGtAhtBHDi9sxFFXeL4oAKjC25cuRHC6y3m5mO-I
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: 84
 ht-degree: 16%
 
 ---
 
 # 랜딩 페이지에 대해 개인화된 URL 활성화 {#enable-personalized-urls-for-a-landing-page}
 
-개인화된 URL은 인쇄 메일 캠페인에 적합합니다.
+개인화된 URL은 인쇄 메일 캠페인에서 잘 작동합니다.
 
 >[!PREREQUISITES]
 >
@@ -27,4 +29,4 @@ ht-degree: 16%
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
-잘됐네! 이제 랜딩 페이지에 대해 개인화된 URL을 활성화했습니다. 해당 URL을 사용하는 방문자가 인식되고 토큰이 제대로 작동합니다.
+랜딩 페이지에 대해 개인화된 URL을 활성화했습니다. 해당 URL을 사용하는 방문자가 인식되고 토큰이 제대로 작동합니다.

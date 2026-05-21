@@ -4,9 +4,12 @@ description: Marketo에서 자유 형식 랜딩 페이지를 만드는 방법을
 title: 자유 형식 랜딩 페이지 만들기
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/6aOqa1RVmKfqJ-hC2X7du6xUD2PdRJdD2WHLQQT0GaE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: 182
 ht-degree: 9%
 
 ---
@@ -73,4 +76,4 @@ ht-degree: 9%
 
 >[!TIP]
 >
->[!UICONTROL Open landing page editor for new page]을(를) 클릭한 후 바로 편집기를 열지 않으려면 &quot;**[!UICONTROL Create]**&quot;을(를) 선택 취소합니다.
+>**[!UICONTROL Create]**&#x200B;을(를) 클릭한 후 바로 편집기를 열지 않으려면 &quot;[!UICONTROL Open landing page editor for new page]&quot;을(를) 선택 취소합니다.
