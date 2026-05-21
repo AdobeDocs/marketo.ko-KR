@@ -5,8 +5,10 @@ title: 가이드 랜딩 페이지 템플릿 만들기
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/0dAw-HmJskYDA8uvu4ffMPPWwaQV3M-l8-kxLN-Vx-o
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 1132
@@ -33,7 +35,7 @@ ht-degree: 21%
 
 ## 텍스트 {#text}
 
-영역을 리치 텍스트로 정의하면 사용자는 [Marketo의 리치 텍스트 편집기를 사용하여 ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)콘텐츠를 편집할 수 있습니다.
+영역을 리치 텍스트로 정의하면 사용자는 [Marketo의 리치 텍스트 편집기를 사용하여 &#x200B;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)콘텐츠를 편집할 수 있습니다.
 
 필수 속성:
 

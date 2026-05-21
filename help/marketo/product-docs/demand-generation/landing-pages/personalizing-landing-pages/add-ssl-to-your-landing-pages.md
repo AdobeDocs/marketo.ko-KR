@@ -5,8 +5,10 @@ title: 랜딩 페이지에 SSL 추가
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/BqMzRWEHpZjd1Ju-o0xCzNKIXpfUYyifWYGKHNqfs0o
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 867
@@ -68,7 +70,7 @@ Marketo Engage은 기본적으로 비보안 HTTP 프로토콜에 대해 &quot;�
 
 기존 도메인 별칭에 SSL을 활성화하려면 다음 단계를 따르십시오.
 
-1. _[!UICONTROL Admin]_영역에서 왼쪽 탐색의&#x200B;**[!UICONTROL Integration]**을(를) 확장하고&#x200B;**[!UICONTROL Landing Pages]**을(를) 선택합니다.
+1. _[!UICONTROL Admin]_&#x200B;영역에서 왼쪽 탐색의&#x200B;**[!UICONTROL Integration]**&#x200B;을(를) 확장하고&#x200B;**[!UICONTROL Landing Pages]**&#x200B;을(를) 선택합니다.
 
 1. 페이지에서 맨 위에 있는 **[!UICONTROL Rules]** 탭을 선택합니다.
 
@@ -122,7 +124,7 @@ Marketo Engage은 기본적으로 비보안 HTTP 프로토콜에 대해 &quot;�
 
 ## 참고할 사항 {#things-to-note}
 
-* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}해야 합니다.[
+* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑[&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}해야 합니다.
 
 * **사용자 지정 SSL**: 사용자 지정 SSL이 필요한 경우 [지원 티켓](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}을 제출하세요. SSL 생성을 위해 셀프서비스 확인란을 사용하지 마십시오.
 
