@@ -4,10 +4,13 @@ description: Marketo의 자유 형식 랜딩 페이지에서 이미지에 링크
 title: 자유 형식 랜딩 페이지 이미지에 링크 추가
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/oWeDNJi60IIzN30h98YEwJQix8W5pJP7BvAY-1rgobI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 20%
+source-wordcount: 93
+ht-degree: 21%
 
 ---
 
@@ -21,14 +24,14 @@ ht-degree: 20%
 >
 >이는 자유 형식 랜딩 페이지에만 적용됩니다.
 
-1. 랜딩 페이지에 추가한 이미지를 선택하고 **[!UICONTROL Property Sheet]을(를) 확장합니다.**
+1. 랜딩 페이지에 추가한 이미지를 선택하고 **[!UICONTROL Property Sheet]**&#x200B;을(를) 확장합니다.
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. **[!UICONTROL linkUrl].**&#x200B;에 mailto 링크를 입력하십시오.
+1. **[!UICONTROL linkUrl]**&#x200B;에 mailto 링크를 입력합니다.
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
-   훌륭합니다! 이제 이미지가 Marketo 랜딩 페이지에 이메일 링크로 표시됩니다.
+   이제 이미지가 Marketo 랜딩 페이지에 이메일 링크로 표시됩니다.
 
    ![](assets/image2014-9-18-15-3a29-3a38.png)

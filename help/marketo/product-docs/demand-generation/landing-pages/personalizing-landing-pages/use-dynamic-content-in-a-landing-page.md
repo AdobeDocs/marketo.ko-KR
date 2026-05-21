@@ -4,10 +4,21 @@ description: Marketo 랜딩 페이지에서 동적 콘텐츠를 사용하는 방
 title: 랜딩 페이지에서 동적 콘텐츠 사용
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/RuwAISV2vhWpTHsJoE5ny6KRSJf8QA3J-JVrA-gF7oo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 9%
+source-wordcount: 191
+ht-degree: 8%
 
 ---
 
@@ -53,7 +64,7 @@ ht-degree: 9%
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. [!UICONTROL Static] 요소에서 [!UICONTROL Dynamic] 또는 **[!UICONTROL Settings]** 요소를 만들 수도 있습니다.
+1. **[!UICONTROL Settings]** 요소에서 [!UICONTROL Static] 또는 [!UICONTROL Dynamic] 요소를 만들 수도 있습니다.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
@@ -75,7 +86,7 @@ ht-degree: 9%
    >
    >다양한 세그먼트에 대한 콘텐츠를 수정하기 전에 기본 랜딩 페이지를 만듭니다.
 
-짜잔! 이제 타겟팅된 콘텐츠를 보낼 수 있습니다.
+이제 타겟팅된 콘텐츠를 세그먼트로 보낼 수 있습니다.
 
 >[!MORELIKETHIS]
 >

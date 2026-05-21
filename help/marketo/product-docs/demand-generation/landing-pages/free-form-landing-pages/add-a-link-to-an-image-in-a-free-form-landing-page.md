@@ -4,16 +4,19 @@ description: Marketo의 자유 형식 랜딩 페이지에서 이미지에 링크
 title: 자유 형식 랜딩 페이지의 이미지에 링크 추가
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 20%
+source-wordcount: 122
+ht-degree: 19%
 
 ---
 
 # 자유 형식 랜딩 페이지의 이미지에 링크 추가 {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
-랜딩 페이지의 이미지를 다른 페이지/사이트에 대한 링크로 만들시겠습니까? 방법은 다음과 같습니다.
+랜딩 페이지의 이미지를 클릭 가능한 링크로 만들려면 아래 단계를 수행합니다.
 
 >[!PREREQUISITES]
 >
@@ -31,8 +34,8 @@ ht-degree: 20%
 
    ![](assets/add-link.png)
 
-   축하합니다! 이제 랜딩 페이지의 이미지에 대한 링크를 정상적으로 추가했습니다. 이제 [페이지 미리 보기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)를 통해 작동 중인 페이지를 볼 수 있습니다.
+   랜딩 페이지의 이미지에 링크를 추가했습니다. 이제 [페이지 미리 보기](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)를 통해 작동 중인 페이지를 볼 수 있습니다.
 
 >[!TIP]
 >
->페이지를 항상 테스트하십시오!
+>항상 페이지를 테스트하십시오.

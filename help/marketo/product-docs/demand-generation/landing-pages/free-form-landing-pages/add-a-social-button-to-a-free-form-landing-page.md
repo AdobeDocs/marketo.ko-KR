@@ -5,9 +5,12 @@ title: 자유 형식 랜딩 페이지에 소셜 버튼 추가
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 feature: Landing Pages
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/siTy0QNBBmitEfs7pg8xxW5Kdul2GF2NYRVTzTzQZPU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: 216
 ht-degree: 9%
 
 ---
@@ -32,7 +35,7 @@ ht-degree: 9%
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   랜딩 페이지가 활성화되면 소셜 대시보드의 _소셜 단추(Analytics 사용)에서 생성한 활동_&#x200B;을 확인하세요.
+   랜딩 페이지가 활성화되면 소셜 대시보드에서 소셜 버튼(Analytics 사용)으로 생성된 활동을 볼 수 있습니다.
 
    대신 [!UICONTROL Like/Recommend Button (Lite)]을(를) 추가하는 경우 [랜딩 페이지 성능 보고서](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)의 공유 수를 확인하세요.
 
@@ -50,10 +53,6 @@ ht-degree: 9%
    >
    >시간을 절약하기 위해 **[!UICONTROL Clone From]** 옵션을 사용하여 기존 소셜 단추의 모든 설정을 복사할 수 있습니다.
 
-   [Facebook에 랜딩 페이지 게시](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _웹 사이트에 소셜 단추 넣기_
+1. 랜딩 페이지 [을(를) Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)에 게시하고 웹 사이트에 소셜 단추를 넣으십시오.
 
-축하합니다! 랜딩 페이지에 소셜 단추를 추가했습니다. 랜딩 페이지를 승인해야 합니다.
-
->[!MORELIKETHIS]
->
->완료되었습니다. 하지만 필요한 경우 소셜 버튼의 설정을 변경할 수 있습니다. _단추 스타일 사용자 지정_ 또는 _공유 메시지 편집_&#x200B;으로 시작합니다.
+랜딩 페이지에 소셜 단추를 추가했습니다. 준비가 되면 랜딩 페이지를 승인합니다.

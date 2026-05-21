@@ -4,16 +4,21 @@ description: Marketo에서 랜딩 페이지 제목 및 메타데이터를 편집
 title: 랜딩 페이지 제목 및 메타데이터 편집
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/xox4waa9DvtyMtj1oEWF0ySjX8kUX3dW6TvAeJU6lOk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 10%
+source-wordcount: 133
+ht-degree: 9%
 
 ---
 
 # 랜딩 페이지 제목 및 메타데이터 편집 {#edit-landing-page-title-and-metadata}
 
-Marketo을 사용하면 랜딩 페이지 [SEO 목적의 메타 태그](https://www.w3schools.com/tags/tag_meta.asp)를 편집하고 HTML의 `<head>` 부분을 사용자 지정할 수 있습니다.
+Marketo을 사용하면 랜딩 페이지의 [메타 태그를 SEO 용도로](https://www.w3schools.com/tags/tag_meta.asp)를 편집하고 HTML의 `<head>` 부분을 사용자 지정할 수 있습니다.
 
 1. 랜딩 페이지를 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
 

@@ -4,16 +4,17 @@ description: Marketo의 안내 랜딩 페이지에 양식을 추가하는 방법
 title: 가이드형 랜딩 페이지에 양식 추가
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/rWlijjPdA6LW-7FBx-wSwolGY0thdJQGn6xg6mYkukk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 12%
+source-wordcount: 161
+ht-degree: 13%
 
 ---
 
 # 가이드형 랜딩 페이지에 양식 추가 {#add-a-form-to-a-guided-landing-page}
-
-양식, 랜딩 페이지 충족 랜딩 페이지, 모임 양식.
 
 >[!PREREQUISITES]
 >
@@ -49,12 +50,10 @@ ht-degree: 12%
    >
    >후속 페이지는 양식을 제출한 후 표시되는 페이지입니다.
 
-1. 이 예제에서는 [!UICONTROL Form Defined]을(를) 사용합니다. **[!UICONTROL Insert]**&#x200B;를 클릭합니다.
+1. 이 예제에서는 [!UICONTROL Form Defined]을(를) 선택합니다. **[!UICONTROL Insert]**&#x200B;를 클릭합니다.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
-   잘했어!
-
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-이제 랜딩 페이지 편집기를 닫고 [랜딩 페이지 초안을 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)하세요.
+랜딩 페이지 편집기를 닫고 [랜딩 페이지 초안을 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)합니다.

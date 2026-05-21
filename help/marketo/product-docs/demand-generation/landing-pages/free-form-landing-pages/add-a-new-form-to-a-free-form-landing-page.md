@@ -4,16 +4,19 @@ description: Marketo의 자유 형식 랜딩 페이지에 새 양식을 추가�
 title: 자유 형식 랜딩 페이지에 새 양식 추가
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/FTZtA2OAveQS9d9MLetBmTb99aSH0xIWwO6LsT2T7Ic
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 14%
+source-wordcount: 138
+ht-degree: 16%
 
 ---
 
 # 자유 형식 랜딩 페이지에 새 양식 추가 {#add-a-new-form-to-a-free-form-landing-page}
-
-양식, 랜딩 페이지 충족 랜딩 페이지, 모임 양식.
 
 >[!PREREQUISITES]
 >
@@ -52,6 +55,4 @@ ht-degree: 14%
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
-   잘했어!
-
-랜딩 페이지 편집기를 닫고 [랜딩 페이지 초안을 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)하면 됩니다.
+랜딩 페이지 편집기를 닫고 [랜딩 페이지 초안을 승인](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)합니다.
