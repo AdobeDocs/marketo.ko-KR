@@ -59,7 +59,7 @@ ht-degree: 4%
 <tbody>
   <tr>
     <td>사용자</td>
-    <td><li>안전을 위해 인스턴스의 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">현재 사용자</a>를 문서화합니다. 다음 세부 정보는 최소한으로 포함해야 합니다(그리고 관리 &gt; 사용자 및 역할로 이동하여 모두 볼 수 있음).</li>
+    <td><li>안전을 위해 인스턴스의 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">현재 사용자</a>를 문서화합니다. 다음 세부 정보는 최소한으로 포함해야 합니다(그리고 관리 &gt; 사용자 및 역할로 이동하여 모두 볼 수 있음).</li>
     <ul>
     <li>이름</li>
     <li>이메일</li>

@@ -59,9 +59,9 @@ ht-degree: 6%
   </tr>
   <tr>
     <td>사용자</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">사용자 만들기</a>의 시기에 대한 정책을 만드십시오.</li> <li>사용자를 제거할 시기에 대한 정책을 만듭니다.</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html?lang=ko">사용자 만들기</a>의 시기에 대한 정책을 만드십시오.</li> <li>사용자를 제거할 시기에 대한 정책을 만듭니다.</li>
     <p><img src="assets/note-icon.png" alt="메모 아이콘"> 참고: 사용자를 제거하려면 시스템 관리자여야 합니다.
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=ko">Adobe 시스템 관리자 및 Marketo Engage 제품 관리자 권한을 가져야 하는 사용자를 결정합니다.</a> <li>원하는 제품 프로필에 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">사용자를 추가</a>합니다.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=ko">Adobe 시스템 관리자 및 Marketo Engage 제품 관리자 권한을 가져야 하는 사용자를 결정합니다.</a> <li>원하는 제품 프로필에 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">사용자를 추가</a>합니다.</li>
     <li>각 API 사용 사례에 대해 하나의 API 사용자를 만듭니다.</li></td>
   </tr>
   <tr>
