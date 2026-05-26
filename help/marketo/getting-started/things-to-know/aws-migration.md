@@ -4,10 +4,10 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 12c00719acd28ad2063b423eb14c866f495ac757
+source-git-commit: 5a260c00311588c3a55f176e7a7977f422bcc8a4
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 0%
+source-wordcount: '298'
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 * 로그인, API 액세스, 전자 메일 전송, 웹 추적 및 통합을 위해 **IP 허용 목록 검토 및 업데이트**.
 
-* 다음 IP 주소를 추가하고 현재 IP를 그대로 유지합니다.
+* **다음 IP 주소를 추가**&#x200B;하고 현재 IP를 그대로 유지합니다.
 
    * 54.160.246.246
    * 54.237.141.197
@@ -44,6 +44,35 @@ ht-degree: 0%
 * **CRM 통합 및 LaunchPoint 서비스**&#x200B;이(가) 비활성화되지만 이후에 자동으로 다시 시작됩니다.
 * **랜딩 페이지, 양식 및 데이터 수집**&#x200B;을(를) 사용할 수 없으며 유지 관리 메시지가 대신 표시됩니다.
 
+## 일정 {#schedule}
+
+새 날짜 및 데이터 센터/pod 정보가 주기적으로 추가되므로 자세한 내용은 여기에서 다시 확인하십시오.
+
+아래 표를 검토하기 전에 [구독이 있는 데이터 센터 및 pod/서버를 식별하는 방법을 알아보세요](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify).
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:75%">날짜</th>
+   <th style="width:25%">Pod</th>
+  </tr>
+  <tr>
+   <td>2026년 6월 5일</td>
+   <td>AB46</td>
+  </tr>
+  <tr>
+   <td>2026년 7월 8일</td>
+   <td>AB69<br>
+   AB64</td>
+  </tr>
+  <tr>
+   <td>2026년 7월 9일</td>
+   <td>AB70<br>
+   AB43</td>
+  </tr>
+  </body>
+  </table>
+
 ## 업데이트 및 지원
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support)의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support)의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
