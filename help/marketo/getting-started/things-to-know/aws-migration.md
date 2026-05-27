@@ -4,9 +4,9 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 5a260c00311588c3a55f176e7a7977f422bcc8a4
+source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '314'
 ht-degree: 1%
 
 ---
@@ -53,26 +53,32 @@ ht-degree: 1%
 <table>
  <tbody>
   <tr>
-   <th style="width:75%">날짜</th>
-   <th style="width:25%">Pod</th>
+   <th style="width:50%">날짜</th>
+   <th style="width:20%">Pod</th>
+   <th style="width:30%">시간</th>
   </tr>
   <tr>
    <td>2026년 6월 5일</td>
    <td>AB46</td>
+   <td>오후 5시(PST)</td>
   </tr>
   <tr>
    <td>2026년 7월 8일</td>
    <td>AB69<br>
    AB64</td>
+   <td>오후 5시(PST)<br>
+   오후 6시(PST)</td>
   </tr>
   <tr>
    <td>2026년 7월 9일</td>
    <td>AB70<br>
    AB43</td>
+   <td>오후 5시(PST)<br>
+   오후 6시(PST)</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## 업데이트 및 지원
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support)의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support)의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
