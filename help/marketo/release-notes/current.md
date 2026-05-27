@@ -44,7 +44,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td><strong>Marketo AI</strong>: 시간이 많이 걸리지만 중요한 마케팅 기능을 자동화하도록 설계된 에이전트 제품군을 활용하십시오(현재 두 개의 에이전트가 사용 가능하며 곧 출시될 예정).
 </td>
    <td>제한된 가용성(<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">여기에서 액세스 요청</a>)</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview">Marketo AI 개요</a></td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/marketo-ai/overview">Marketo AI 개요</a></td>
   </tr>
   <tr>
    <td> </td>
