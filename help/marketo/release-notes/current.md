@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
+source-git-commit: 24293b38dc097aa69b8716b367ac9c3a63279bfc
 workflow-type: tm+mt
-source-wordcount: 700
+source-wordcount: 704
 ht-degree: 19%
 
 ---
@@ -115,7 +115,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - 부재 중 채팅 상태</strong>: 이제 에이전트가 채팅을 수락하지 않으면 채팅을 한 사람의 활동 세부 정보에 새로운 "부재 중 채팅" 상태가 표시됩니다.
+   <td><strong>Dynamic Chat - 부재 중 채팅 상태</strong>: 에이전트가 채팅을 수락하지 않으면 채팅을 한 사람의 개인 레코드에 있는 활동 세부 정보에 새로운 "부재 중 채팅" 상태가 표시됩니다.
    </td>
    <td>릴리스됨</td>
    <td>해당 사항 없음</td>
@@ -126,7 +126,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - 새 특성 동기화 동작</strong>: 이전에는 새 특성을 추가하면 동기화가 완료되는 동안 최대 24시간 동안 환경에서 변경 내용이 차단되어 대화 상자가 편집되고 게시되지 않았습니다. 이제 새 특성을 추가하려면 전체 데이터 동기화가 필요하지만(최대 24시간 소요) 이 프로세스 도중에는 환경이 더 이상 차단되지 않습니다.
+   <td><strong>Dynamic Chat - 새 특성 동기화 동작</strong>: 이전에는 새 특성을 추가하면 동기화가 완료되는 동안 최대 24시간 동안 환경에서 변경 내용이 차단되어 대화 상자가 편집되고 게시되지 않았습니다. 이제, 새 특성을 추가하려면 여전히 전체 데이터 동기화가 필요하지만(최대 24시간 정도 소요될 수 있음), 프로세스 중에 환경이 더 이상 차단되지 않습니다.
    </td>
    <td>릴리스됨</td>
    <td>해당 사항 없음</td>
