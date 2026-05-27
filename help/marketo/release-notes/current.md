@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7853491f53bd2f7d5ec6e63189c1e8b77b4b5349
+source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
 workflow-type: tm+mt
-source-wordcount: 543
-ht-degree: 23%
+source-wordcount: 700
+ht-degree: 19%
 
 ---
 
@@ -86,6 +86,50 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    </td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - 입력 중</strong>: 이제 방문자와 에이전트 모두 "입력 중..."이 표시됩니다. 상대방이 입력하는 동안 알림이 전송되어 상대방이 방해가 되지 않습니다.
+   </td>
+   <td>릴리스됨</td>
+   <td>해당 사항 없음</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Marketo 선택 목록/드롭다운 필드</strong>: Marketo 선택 목록/드롭다운 개인 필드(Salesforce 동기화 값 포함)를 이제 채팅 프로필 편집기에서 드롭다운 값으로 사용할 수 있습니다.
+   </td>
+   <td>릴리스됨</td>
+   <td>해당 사항 없음</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - 부재 중 채팅 상태</strong>: 이제 에이전트가 채팅을 수락하지 않으면 채팅을 한 사람의 활동 세부 정보에 새로운 "부재 중 채팅" 상태가 표시됩니다.
+   </td>
+   <td>릴리스됨</td>
+   <td>해당 사항 없음</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - 새 특성 동기화 동작</strong>: 이전에는 새 특성을 추가하면 동기화가 완료되는 동안 최대 24시간 동안 환경에서 변경 내용이 차단되어 대화 상자가 편집되고 게시되지 않았습니다. 이제 새 특성을 추가하려면 전체 데이터 동기화가 필요하지만(최대 24시간 소요) 이 프로세스 도중에는 환경이 더 이상 차단되지 않습니다.
+   </td>
+   <td>릴리스됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   </tbody>
 </table>
