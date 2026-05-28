@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 37f7aeb9a3ee5618ae57d5b76e90e0be254caacd
+source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
 workflow-type: tm+mt
-source-wordcount: '8896'
+source-wordcount: '8897'
 ht-degree: 96%
 
 ---
@@ -1113,12 +1113,12 @@ ht-degree: 96%
       + {hide-from-toc}[설정 및 설정](product-docs/marketo-ai/settings-setup-old.md)
       + 상담원 {#agents}
          + {hide-from-toc}[제품 정보](product-docs/marketo-ai/agents/product-knowledge.md)
-         + {hide-from-toc}[Analytics](product-docs/marketo-ai/agents/analytics.md)
-         + {hide-from-toc}[프로그램 만들기](product-docs/marketo-ai/agents/create-program.md)
+         + {hide-from-toc}[표면 인사이트](product-docs/marketo-ai/agents/surface-insights.md)
+         + {hide-from-toc}[프로그램 빌드](product-docs/marketo-ai/agents/create-program.md)
          + {hide-from-toc}[프로그램 복제](product-docs/marketo-ai/agents/clone-program.md)
-         + {hide-from-toc}[잠재 고객 조사](product-docs/marketo-ai/agents/investigate-lead.md)
+         + {hide-from-toc}[리드 조사](product-docs/marketo-ai/agents/investigate-leads.md)
          + [리드 가져오기](product-docs/marketo-ai/agents/import-leads.md)
-         + [프로그램 QA](product-docs/marketo-ai/agents/program-qa.md)
+         + [프로그램 유효성 검사](product-docs/marketo-ai/agents/validate-programs.md)
    + Marketo Engage 최신 UX {#marketo-engage-modern-ux}
       + [개요](product-docs/marketo-engage-modern-ux/overview.md)
       + [글로벌 검색 사용](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
