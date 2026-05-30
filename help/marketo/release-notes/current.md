@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d63afbeaaa3c1299e73276e2be5d993f575b5fde
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
-source-wordcount: 698
+source-wordcount: 655
 ht-degree: 18%
 
 ---
@@ -74,8 +74,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>선택 목록 관리</strong>: 이제 Marketo Engage의 필드에 사용할 수 있는 값을 지정할 수 있습니다.
    </td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>릴리스됨</td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">선택 목록 관리</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -83,7 +83,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - 입력 중</strong>: 이제 방문자와 에이전트 모두 "입력 중..."이 표시됩니다. 상대방이 입력하는 동안 알림이 전송되어 상대방이 방해가 되지 않습니다.
+   <td><strong>Dynamic Chat - 입력 중</strong>: 이제 방문자와 에이전트 모두 상대방이 입력하는 동안 "입력 중..." 알림이 표시되므로 상대방이 방해가 되지 않습니다.
    </td>
    <td>릴리스됨</td>
    <td>해당 사항 없음</td>
