@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
 source-wordcount: '8897'
 ht-degree: 96%
@@ -131,7 +131,7 @@ ht-degree: 96%
          + [필드 숨기기 및 숨기기 취소](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [이메일의 HTML 인코딩 토큰](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [필드를 민감한 항목으로 표시](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
-         + {hide-from-toc}[선택 목록 관리](product-docs/administration/field-management/picklist-management.md)
+         + [선택 목록 관리](product-docs/administration/field-management/picklist-management.md)
          + [필드 이름 바꾸기](product-docs/administration/field-management/rename-a-field.md)
          + [시스템 관리 필드 이해](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Marketo와 Salesforce 간 필드 매핑 보기](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -1921,7 +1921,7 @@ ht-degree: 96%
    + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
    + {hide-from-toc}[Dynamic Chat 릴리스 TEMP](release-notes/dynamic-chat-temp.md)
    + [이전 릴리스](release-notes/previous-releases.md)
-   + {hide-from-toc}이전 릴리스 개 {#previous-releases}
+   + 이전 릴리스 {hide-from-toc}개 {#previous-releases}
       + 2026 {#2026}
          + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)
