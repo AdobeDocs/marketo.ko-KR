@@ -4,7 +4,7 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
+source-git-commit: 4a123d365c78c6c03858656c6ef954b55df4338f
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 1%
@@ -58,7 +58,7 @@ ht-degree: 1%
    <th style="width:30%">시간</th>
   </tr>
   <tr>
-   <td>2026년 6월 5일</td>
+   <td>2026년 6월 19일</td>
    <td>AB46</td>
    <td>오후 5시(PST)</td>
   </tr>
