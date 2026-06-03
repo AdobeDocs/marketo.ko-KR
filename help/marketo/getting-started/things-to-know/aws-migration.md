@@ -76,7 +76,7 @@ ht-degree: 1%
    <td>오후 5시(PST)<br>
    오후 6시(PST)</td>
   </tr>
-  </body>
+  &lt;/body>
   </table>
 
 ## 업데이트 및 지원
