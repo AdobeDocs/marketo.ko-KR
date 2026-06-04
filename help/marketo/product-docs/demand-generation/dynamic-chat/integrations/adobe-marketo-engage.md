@@ -15,9 +15,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 293
+source-wordcount: 317
 ht-degree: 3%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >타일이 표시되지 않으면 Marketo 관리자에게 문의하십시오.
+   >내 Marketo 화면에 Dynamic Chat 타일이 표시되지 않으면 experience.adobe.com의 앱 메뉴에서 Dynamic Chat에 액세스하고 **구성** > **통합**&#x200B;을 통해 Marketo에 연결합니다. 연결 후 타일이 나타납니다.
 
 1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Dynamic Chat으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/kr/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
 
