@@ -4,20 +4,13 @@ title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
 TQID: https://experienceleague.adobe.com/n8HC8kkHZguZoZ2eBijiUetTrX1rY0ZLN0lIhZGUUcg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 293
+source-wordcount: 317
 ht-degree: 3%
 
 ---
@@ -30,7 +23,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->Dynamic Chat은 [Marketo 기본](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}과(와) 사용자 정의 개인 필드 및 회사 필드 동기화를 지원합니다.
+>Dynamic Chat은 [Marketo 기본](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}과(와) 사용자 정의 개인 필드 및 회사 필드 동기화를 지원합니다.
 
 1. 내 Marketo에서 **[!UICONTROL Dynamic Chat]** 타일을 클릭합니다.
 
@@ -38,9 +31,9 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >타일이 표시되지 않으면 Marketo 관리자에게 문의하십시오.
+   >내 Marketo 화면에 Dynamic Chat 타일이 표시되지 않으면 experience.adobe.com의 앱 메뉴에서 Dynamic Chat에 액세스하고 **구성** > **통합**&#x200B;을 통해 Marketo에 연결합니다. 연결 후 타일이 나타납니다.
 
-1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Dynamic Chat으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/kr/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
+1. 이전에 Adobe ID으로 애플리케이션에 액세스한 경우 Dynamic Chat으로 바로 이동합니다. 그렇지 않으면 [Adobe ID을 설정](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}합니다.
 
 1. Marketo 인스턴스를 연결하려면 **[!UICONTROL Integrations]**&#x200B;을(를) 선택하십시오.
 
