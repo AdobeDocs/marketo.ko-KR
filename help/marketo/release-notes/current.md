@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: f5b235bda9063b8f54321fd62f2c9d5f4442c783
+source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
 workflow-type: tm+mt
-source-wordcount: 655
+source-wordcount: 654
 ht-degree: 18%
 
 ---
@@ -63,8 +63,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>전자 메일 Designer - 전자 메일 조각에 대한 조건부 콘텐츠</strong>: <i>이전 전자 메일 편집기와 동일</i>. 이제 조각에 조건부 콘텐츠가 지원됩니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>릴리스됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   <tr>
    <td> </td>
