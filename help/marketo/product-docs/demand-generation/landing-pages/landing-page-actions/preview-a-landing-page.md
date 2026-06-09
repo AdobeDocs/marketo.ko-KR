@@ -7,10 +7,10 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/3bgFcAopW5NAzIhEbI8hWVv9BP4njL6dX-pKRbEQV4Y
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+source-git-commit: c4c2273fffb84f37c682e730f4fc27009ebca26d
 workflow-type: tm+mt
-source-wordcount: 138
-ht-degree: 8%
+source-wordcount: 169
+ht-degree: 4%
 
 ---
 
@@ -18,38 +18,38 @@ ht-degree: 8%
 
 랜딩 페이지를 미리 보고 라이브로 만들기 전에 모양을 확인합니다.
 
-## 랜딩 페이지 미리보기 {#preview-a-landing-page-1}
+>[!IMPORTANT]
+>
+>일부 사용자 지정 메타 태그는 Marketo Engage의 보안을 유지하기 위해 적용된 콘텐츠 보안 정책을 위반할 수 있으므로 미리 보기 모드(예: `<meta http-equiv="refresh" ...>` 리디렉션 지시문)에서 지원되지 않습니다. 이러한 태그가 있는 랜딩 페이지는 미리 보기 URL(**미리 보기 작업** > **미리 보기 URL 생성**)을 생성한 다음 새 브라우저 창에 붙여 넣어 미리 볼 수 있습니다.
 
-1. 랜딩 페이지를 선택하고 **[!UICONTROL Preview Page]**&#x200B;을(를) 클릭합니다.
+## 승인된 페이지 미리보기 {#preview-approved-page}
 
-   ![](assets/image2014-9-16-16-3a21-3a10.png)
+1. 원하는 랜딩 페이지를 선택하고 **[!UICONTROL Preview]**&#x200B;을(를) 클릭합니다.
 
-   >[!NOTE]
-   >
-   >초안은 고객이 보는 라이브 버전이 아니라 작업 중인 버전입니다.
+   ![](assets/preview-a-landing-page-1.png)
 
-1. 랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Preview]**&#x200B;을(를) 선택할 수도 있습니다.
+랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Preview]**&#x200B;을(를) 선택할 수도 있습니다.
 
-   ![](assets/image2014-9-17-10-3a9-3a49.png)
+## 초안 미리 보기 {#preview-a-draft}
 
-## 랜딩 페이지 초안 미리 보기 {#preview-a-landing-page-draft}
+1. 원하는 랜딩 페이지를 선택하고 **[!UICONTROL Preview draft]**&#x200B;을(를) 클릭합니다.
 
-1. 초안 버전이 있는 승인된 랜딩 페이지를 마우스 오른쪽 단추로 클릭하고 **[!UICONTROL Preview Draft]**&#x200B;을(를) 클릭합니다.
+   ![](assets/preview-a-landing-page-2.png)
 
-   ![](assets/image2014-9-17-10-3a9-3a56.png)
+>[!NOTE]
+>
+>초안은 고객이 보는 라이브 버전이 아니라 작업 중인 버전입니다.
 
-## 편집하는 동안 랜딩 페이지 초안 미리 보기 {#preview-a-landing-page-draft-while-editing}
+## 편집하는 동안 랜딩 페이지 초안 미리 보기 {#preview-a-draft-while-editing}
 
-1. 랜딩 페이지를 선택하고 **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭합니다.
+1. 원하는 랜딩 페이지를 선택하고 **[!UICONTROL Edit draft]**&#x200B;을(를) 클릭합니다.
 
-   ![](assets/image2014-9-17-10-3a10-3a4.png)
+   ![](assets/preview-a-landing-page-3.png)
 
-1. 랜딩 페이지 편집기에서 작업하는 동안 언제든지 **[!UICONTROL Preview Draft]**&#x200B;을(를) 클릭할 수 있습니다.
+1. 랜딩 페이지 편집기에서 **[!UICONTROL Preview draft]**&#x200B;을(를) 클릭합니다.
 
-   ![](assets/image2015-5-21-15-3a48-3a59.png)
+   ![](assets/preview-a-landing-page-4.png)
 
-1. **[!UICONTROL Edit Draft]**&#x200B;을(를) 클릭하여 편집으로 빠르게 돌아갈 수 있습니다.
+1. **[!UICONTROL Edit draft]**&#x200B;을(를) 클릭하여 편집으로 돌아갑니다.
 
-   ![](assets/image2014-9-17-10-3a10-3a20.png)
-
-이제 랜딩 페이지를 미리 보는 방법을 알 수 있습니다.
+   ![](assets/preview-a-landing-page-5.png)
