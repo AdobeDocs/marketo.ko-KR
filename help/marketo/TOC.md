@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: a1efdaab40e02861b7ee9ceabeb004fdd6c5de57
+source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
 workflow-type: tm+mt
-source-wordcount: '8903'
+source-wordcount: '8905'
 ht-degree: 96%
 
 ---
@@ -467,9 +467,9 @@ ht-degree: 96%
                + [샘플 전송](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [Moments 공유](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + 기타 {#miscellaneous}
-         + {hide-from-toc}[Halo 1](product-docs/core-marketo-concepts/miscellaneous/halo-1.md)
-         + {hide-from-toc}[Halo 2](product-docs/core-marketo-concepts/miscellaneous/halo-2.md)
-         + {hide-from-toc}[헤일로 3](product-docs/core-marketo-concepts/miscellaneous/halo-3.md)
+         + {hide-from-toc}[동료 개요](product-docs/core-marketo-concepts/miscellaneous/coworker-overview.md)
+         + {hide-from-toc}[동료 빌드 캠페인](product-docs/core-marketo-concepts/miscellaneous/coworker-build-campaigns.md)
+         + {hide-from-toc}[동료 사용 사례](product-docs/core-marketo-concepts/miscellaneous/coworker-use-cases.md)
          + {hide-from-toc}[Adobe Experience Manager 통합 구성](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [새 캠페인 폴더 만들기](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + {hide-from-toc}[키보드 단축키 용어집](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
@@ -1924,7 +1924,7 @@ ht-degree: 96%
    + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
    + {hide-from-toc}[Dynamic Chat 릴리스 TEMP](release-notes/dynamic-chat-temp.md)
    + [이전 릴리스](release-notes/previous-releases.md)
-   + {hide-from-toc}이전 릴리스 개 {#previous-releases}
+   + 이전 릴리스 {hide-from-toc}개 {#previous-releases}
       + 2026 {#2026}
          + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)
