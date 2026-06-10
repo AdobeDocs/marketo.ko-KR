@@ -1,16 +1,16 @@
 ---
 description: 고객 확보, 참여, 이벤트, 전환 및 보존 캠페인 전반에 걸쳐 사용 사례별로 구성된 CX Enterprise Coworker의 실제 프롬프트 패턴을 찾아봅니다.
 title: 사용 사례
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: 1d7b5e3c4c5ca34c10934a659ac9025d2a27c95d
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '525'
 ht-degree: 0%
 
 ---
 
 # 사용 사례 {#use-cases}
 
-다음은 현재 CX Enterprise Coworker에서 라이프사이클 및 성장 마케터가 사용하고 있는 실제 프롬프트 패턴입니다. 각 콘텐츠는 복사, 자체 대상자 및 브랜드 세부 사항과 교체 및 대화에서 구체화되도록 빌드되어 있습니다.
+다음은 CX Enterprise Coworker에서 라이프사이클 및 성장 마케터가 사용하는 실제 프롬프트 패턴입니다. 각 콘텐츠는 복사, 자체 대상자 및 브랜드 세부 사항과 교체 및 대화에서 구체화되도록 빌드되어 있습니다.
 
 ## 사용 방법
 
