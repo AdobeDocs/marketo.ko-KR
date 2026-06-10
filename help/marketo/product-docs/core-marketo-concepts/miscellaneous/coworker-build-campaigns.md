@@ -1,9 +1,9 @@
 ---
-description: 미정
+description: 프롬프트 작성에서 캠페인 검토 및 내보내기에 이르기까지 CX Enterprise Coworker에서 이메일 캠페인 구축에 대한 단계별 안내서입니다.
 title: 이메일 캠페인 구축 및 생성
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '1179'
 ht-degree: 0%
 
 ---
