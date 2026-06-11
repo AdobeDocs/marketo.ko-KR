@@ -1,9 +1,9 @@
 ---
 description: AI 기반의 마케팅 애플리케이션으로, 단일 프롬프트를 리뷰 준비 캠페인으로 변환하는 CX Enterprise Coworker에 대해 알아봅니다.
 title: CX Enterprise Coworker 개요
-source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
+source-git-commit: 279805c50fd1b2d9d36e5e093f1c9d661ad00461
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '847'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ CX Enterprise Coworker 는 AI 기반의 마케팅 애플리케이션으로, 한 
 
 ## 액세스 방법
 
->[!AVAILABILITY]
+>[!NOTE]
 >
->CX Enterprise Coworker는 2026년 9월 30일까지 무료 평가판을 통해 제공됩니다.
+>CX Enterprise Coworker는 2026년 9월 30일까지 무료 평가판을 통해 제공됩니다. 체험판 동안 모든 에셋 및 활동은 사용자에게만 해당됩니다.
 
 1. coworker-essentials.experience.adobe.com으로 이동합니다.
 
