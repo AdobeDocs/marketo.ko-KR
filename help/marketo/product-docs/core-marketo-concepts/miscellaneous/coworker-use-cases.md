@@ -1,9 +1,9 @@
 ---
 description: 고객 확보, 참여, 이벤트, 전환 및 보존 캠페인 전반에 걸쳐 사용 사례별로 구성된 CX Enterprise Coworker의 실제 프롬프트 패턴을 찾아봅니다.
 title: 사용 사례
-source-git-commit: 1d7b5e3c4c5ca34c10934a659ac9025d2a27c95d
+source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -24,33 +24,25 @@ ht-degree: 0%
 
 적합한 대상: 엔터프라이즈 계정 활성화, 새로운 SaaS 등록, 판매 후 핸드오프.
 
-```
-"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."
-```
+`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."`
 
 ### 신규 회원 온보딩, B2C
 
 가장 적합한 대상: 멤버십 프로그램, 앱 등록, 충성도 프로그램.
 
-```
-"Create a marketing campaign to onboard new members with a welcome email series that introduces key features, provides getting-started guides, and offers personalized recommendations based on their interests."
-```
+`"Create a marketing campaign to onboard new members with a welcome email series that introduces key features, provides getting-started guides, and offers personalized recommendations based on their interests."`
 
 ### 브랜드 도입 순서, B2C
 
 적합한 대상: 처음 구매하는 사람, 새 뉴스레터 구독자, 등록 후 후속 조치.
 
-```
-"Create a single-touch follow-up email introducing our brand, what we sell, and how to place a first order. Use a CSV list, and personalize by first name and company name."
-```
+`"Create a single-touch follow-up email introducing our brand, what we sell, and how to place a first order. Use a CSV list, and personalize by first name and company name."`
 
 ### 새로운 팬 온보딩 여정, B2C(스포츠 및 엔터테인먼트)
 
 가장 적합한 대상: 처음 티켓을 구매한 사람, 새 시즌 티켓 소지자, 구매 후 팬 활성화.
 
-```
-"Create a 4-email post-purchase journey to onboard first-time fans and drive repeat attendance."
-```
+`"Create a 4-email post-purchase journey to onboard first-time fans and drive repeat attendance."`
 
 ## 참여 및 육성
 
@@ -60,33 +52,25 @@ ht-degree: 0%
 
 대상: 고객 유지, 제품 인지도, 사고 리더십
 
-```
-"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."
-```
+`"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."`
 
 ### 월간 뉴스레터, B2C
 
 적합한 용도: 소매, 라이프스타일 및 전자 상거래 브랜드.
 
-```
-"Create a monthly newsletter for our customers. Highlight new products, inspiration ideas, and a featured collection with CTAs."
-```
+`"Create a monthly newsletter for our customers. Highlight new products, inspiration ideas, and a featured collection with CTAs."`
 
 ### 제품 팁 시리즈, B2B
 
 최적의 용도: 제품 교육, 기능 채택, 가치 실현 시간 단축.
 
-```
-"Generate an educational 2-touch email nurture that helps users get more value from this product with simple tips. Use a CSV uploaded list and personalize by first name, product used, and signup date."
-```
+`"Generate an educational 2-touch email nurture that helps users get more value from this product with simple tips. Use a CSV uploaded list and personalize by first name, product used, and signup date."`
 
 ### 시즌 카탈로그 출시, B2C
 
 최적 목표: 소매 시즌 푸시, 컬렉션 드롭, 순간 새로 고침.
 
-```
-"Build a 2-touch email series, 3 days apart, announcing our new seasonal catalog. Highlight what's new and relevant for buyers in my CSV list. Personalize content to each person's first name, product interest category, and region."
-```
+`"Build a 2-touch email series, 3 days apart, announcing our new seasonal catalog. Highlight what's new and relevant for buyers in my CSV list. Personalize content to each person's first name, product interest category, and region."`
 
 ## 이벤트 및 순간 중심
 
@@ -96,41 +80,31 @@ ht-degree: 0%
 
 대상: 리드 생성, 제품 교육, 사고 리더십
 
-```
-"Create a webinar invite about [TOPIC]. I need one invite email and one reminder email with a clear registration CTA."
-```
+`"Create a webinar invite about [TOPIC]. I need one invite email and one reminder email with a clear registration CTA."`
 
 ### 웨비나 후속 캠페인, B2B
 
 최적 용도: 사후 이벤트 육성, MQL 전환, 콘텐츠 배포.
 
-```
-"Create a webinar follow-up campaign for customers who attended a webinar about [TOPIC]. Include a strong CTA."
-```
+`"Create a webinar follow-up campaign for customers who attended a webinar about [TOPIC]. Include a strong CTA."`
 
 ### 제품 발표, B2B 및 B2C
 
 최적의 용도: 시작, 조기 액세스, 새로운 기능이 표시됩니다.
 
-```
-"Create a product announcement campaign for our [PRODUCT NAME] launch. Build an early-access invitation and a launch-day email."
-```
+`"Create a product announcement campaign for our [PRODUCT NAME] launch. Build an early-access invitation and a launch-day email."`
 
 ### 테마 이벤트 또는 티켓 푸시, B2C (스포츠 및 엔터테인먼트)
 
 베스트 대상: 단일 게임 티켓 판매, 테마 밤, 특별 이벤트.
 
-```
-"Create a 2-touch email campaign to drive ticket sales for a themed home game event."
-```
+`"Create a 2-touch email campaign to drive ticket sales for a themed home game event."`
 
 ### 가기 전에 + 튠인, B2C (스포츠 및 엔터테인먼트)
 
 최적 용도: 게임 데이 또는 이벤트 데이 팬 준비
 
-```
-"Create a 3-touch moment-driven campaign to maximize attendance and fan readiness around game day."
-```
+`"Create a 3-touch moment-driven campaign to maximize attendance and fan readiness around game day."`
 
 ## 전환 및 업셀
 
@@ -140,33 +114,25 @@ ht-degree: 0%
 
 적합한 용도: SaaS 체험판 사용자, 프리뮴 업그레이드, 체험판 사후 활성화.
 
-```
-"Generate a campaign to target users whose trial has ended but are still active in the app, offering them a special incentive to convert to a paid plan."
-```
+`"Generate a campaign to target users whose trial has ended but are still active in the app, offering them a special incentive to convert to a paid plan."`
 
 ### 이동 순서 바꾸기, B2C
 
 가장 적합한 용도: 소모품, 보충 범주, 반복 구매 주기.
 
-```
-"Give me a 1-step reorder reminder email that nudges purchasers to restock based on typical buying cycles. Use my CSV list with each purchaser's first name, last order date, and product last purchased to tailor the content."
-```
+`"Give me a 1-step reorder reminder email that nudges purchasers to restock based on typical buying cycles. Use my CSV list with each purchaser's first name, last order date, and product last purchased to tailor the content."`
 
 ### 프리미엄 경험 업셀, B2C(스포츠 및 엔터테인먼트)
 
 적합한 용도: 표준 티켓 홀더를 프리미엄 티어로 업그레이드.
 
-```
-"Create a personalized 3-email campaign to move fans from standard tickets into premium tiers."
-```
+`"Create a personalized 3-email campaign to move fans from standard tickets into premium tiers."`
 
 ### 시즌 멤버십 온보딩, B2C(스포츠 및 엔터테인먼트)
 
 베스트 for: 시즌 티켓 활성화, 프리미엄 멤버십, 세그먼트 맞춤형 환영.
 
-```
-"Create a 4-email welcome series for new season plan holders with segment-personalized benefits."
-```
+`"Create a 4-email welcome series for new season plan holders with segment-personalized benefits."`
 
 ## 유지 및 재참여
 
@@ -176,28 +142,20 @@ ht-degree: 0%
 
 적합한 용도: 만료된 고객, 휴면 구매자, 계절별 재활성화.
 
-```
-"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."
-```
+`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."`
 
 ### 팬 재참여, B2C(스포츠 및 엔터테인먼트)
 
 가장 적합한 용도: 비활성 가입자, 만료된 시즌 티켓 보유자, 단일 게임 전환.
 
-```
-"Create a 3-email win-back campaign to convert lapsed fans into single-game ticket buyers."
-```
+`"Create a 3-email win-back campaign to convert lapsed fans into single-game ticket buyers."`
 
 ### 일반 윈-백 캠페인, B2B 및 B2C
 
 가장 적합한 대상: 조용해진 모든 대상자입니다.
 
-```
-"Create a win-back campaign targeting inactive guests who haven't engaged recently. Highlight what's new and offer special incentives to re-engage."
-```
+`"Create a win-back campaign targeting inactive guests who haven't engaged recently. Highlight what's new and offer special incentives to re-engage."`
 
 ## 빌드할 준비가 되셨습니까?
 
 위에서 사용 사례를 선택하고 _캠페인 빌드 및 생성_&#x200B;을 방문하여 전체 단계별 캠페인을 시도하세요.
-
-[KEITH의 경우: 앱에 대한 링크와 함께 CTA 배너 또는 단추: &quot;CX Enterprise Coworker에서 새 채팅 시작&quot;을 추가합니다.]
