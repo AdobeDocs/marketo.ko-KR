@@ -1,16 +1,16 @@
 ---
 description: AI 기반의 마케팅 애플리케이션으로, 단일 프롬프트를 리뷰 준비 캠페인으로 변환하는 CX Enterprise Coworker에 대해 알아봅니다.
 title: CX Enterprise Coworker 개요
-source-git-commit: e7f73f63bed1158a734d0905ec3e93c247936741
+source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
 
 # CX Enterprise Coworker 개요 {#overview}
 
-CX Enterprise Coworker는 AI 기반의 마케팅 애플리케이션으로, 단 몇 분 안에 한 번의 프롬프트에서 검토 준비가 완료된 캠페인으로 전환됩니다.
+CX Enterprise Coworker 는 AI 기반의 마케팅 애플리케이션으로, 한 번의 프롬프트에서 검토 준비가 완료된 캠페인으로 전환됩니다.
 
 ## 액세스 방법
 
