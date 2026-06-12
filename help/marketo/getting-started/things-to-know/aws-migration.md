@@ -4,7 +4,7 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
+source-git-commit: 2778f5a4fdc2221b9b46fbda5df90f9e35fa6b9f
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
@@ -74,7 +74,7 @@ ht-degree: 3%
    <td>오후 5시(PST)<br>
    오후 6시(PST)</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## 추가할 IP 주소 {#ip-addresses}
@@ -99,9 +99,9 @@ ht-degree: 3%
 18.200.201.81<br>
 54.220.138.65</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## 업데이트 및 지원
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support)의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support)의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
