@@ -74,7 +74,7 @@ ht-degree: 3%
    <td>오후 5시(PST)<br>
    오후 6시(PST)</td>
   </tr>
-  </body>
+  &lt;/body>
   </table>
 
 ## 추가할 IP 주소 {#ip-addresses}
@@ -99,7 +99,7 @@ ht-degree: 3%
 18.200.201.81<br>
 54.220.138.65</td>
   </tr>
-  </body>
+  &lt;/body>
   </table>
 
 ## 업데이트 및 지원
