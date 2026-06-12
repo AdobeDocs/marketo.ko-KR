@@ -4,10 +4,10 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 4a123d365c78c6c03858656c6ef954b55df4338f
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 3%
 
 ---
 
@@ -31,11 +31,7 @@ ht-degree: 1%
 
 * 로그인, API 액세스, 전자 메일 전송, 웹 추적 및 통합을 위해 **IP 허용 목록 검토 및 업데이트**.
 
-* **다음 IP 주소를 추가**&#x200B;하고 현재 IP를 그대로 유지합니다.
-
-   * 54.160.246.246
-   * 54.237.141.197
-   * 52.20.211.99
+* **새 IP 주소를 추가**&#x200B;하고 현재 IP를 그대로 유지합니다. 아래 [표](#ip-addresses)을 통해 추가할 IP 주소를 참조하세요.
 
 ## 예상되는 서비스 영향
 
@@ -44,17 +40,19 @@ ht-degree: 1%
 * **CRM 통합 및 LaunchPoint 서비스**&#x200B;이(가) 비활성화되지만 이후에 자동으로 다시 시작됩니다.
 * **랜딩 페이지, 양식 및 데이터 수집**&#x200B;을(를) 사용할 수 없으며 유지 관리 메시지가 대신 표시됩니다.
 
+## 데이터 센터/포드 식별 {#identify}
+
+아래 표를 검토하기 전에 [구독 데이터 센터 및 Pod/서버를 식별하는 방법을 알아보세요](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify).
+
 ## 일정 {#schedule}
 
 새 날짜 및 데이터 센터/pod 정보가 주기적으로 추가되므로 자세한 내용은 여기에서 다시 확인하십시오.
-
-아래 표를 검토하기 전에 [구독이 있는 데이터 센터 및 pod/서버를 식별하는 방법을 알아보세요](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify).
 
 <table>
  <tbody>
   <tr>
    <th style="width:50%">날짜</th>
-   <th style="width:20%">Pod</th>
+   <th style="width:20%">데이터 센터/Pod</th>
    <th style="width:30%">시간</th>
   </tr>
   <tr>
@@ -75,6 +73,31 @@ ht-degree: 1%
    AB43</td>
    <td>오후 5시(PST)<br>
    오후 6시(PST)</td>
+  </tr>
+  &lt;/body>
+  </table>
+
+## 추가할 IP 주소 {#ip-addresses}
+
+데이터 센터를 기반으로 IT 부서와 협력하여 각 IP 주소를 추가합니다.
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">데이터 센터</th>
+   <th style="width:75%">IP 주소</th>
+  </tr>
+  <tr>
+   <td>AB</td>
+   <td>54.160.246.246<br>
+   54.237.141.197<br>
+   52.20.211.99</td>
+  </tr>
+  <tr>
+   <td>NLD</td>
+   <td>34.247.24.245<br>
+18.200.201.81<br>
+54.220.138.65</td>
   </tr>
   &lt;/body>
   </table>

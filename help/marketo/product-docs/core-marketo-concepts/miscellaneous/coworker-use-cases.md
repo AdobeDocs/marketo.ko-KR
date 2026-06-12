@@ -1,20 +1,20 @@
 ---
-description: 고객 확보, 참여, 이벤트, 전환 및 보존 캠페인 전반에 걸쳐 사용 사례별로 구성된 CX Enterprise Coworker의 실제 프롬프트 패턴을 찾아봅니다.
+description: 획득, 참여, 이벤트, 전환 및 유지 캠페인 전반에 걸쳐 사용 사례별로 구성된 Adobe CX Enterprise Coworker 캠페인에 대한 실제 프롬프트 패턴을 살펴봅니다.
 title: 사용 사례
-source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '506'
 ht-degree: 0%
 
 ---
 
 # 사용 사례 {#use-cases}
 
-다음은 CX Enterprise Coworker에서 라이프사이클 및 성장 마케터가 사용하는 실제 프롬프트 패턴입니다. 각 콘텐츠는 복사, 자체 대상자 및 브랜드 세부 사항과 교체 및 대화에서 구체화되도록 빌드되어 있습니다.
+다음은 라이프사이클 및 성장 마케터가 Adobe CX Enterprise Coworker 캠페인에서 사용하는 실제 프롬프트 패턴입니다. 각 콘텐츠는 복사, 자체 대상자 및 브랜드 세부 사항과 교체 및 대화에서 구체화되도록 빌드되어 있습니다.
 
 ## 사용 방법
 
-목표에 맞는 사용 사례를 선택하고, 샘플 프롬프트를 복사하여 CX Enterprise Coworker에 붙여넣고, 자리 표시자를 세부 항목으로 바꾼 다음 채팅을 통해 결과를 구체화합니다. 전체 단계를 보려면 캠페인을 빌드하고 생성하십시오.
+목표에 맞는 사용 사례를 선택하고, 샘플 프롬프트를 복사하여 동료 캠페인에 붙여넣고, 자리 표시자를 세부 항목으로 바꾼 다음 채팅을 통해 결과를 구체화합니다. 전체 단계를 보려면 캠페인을 빌드하고 생성하십시오.
 
 ## 획득 및 온보딩
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 적합한 대상: 엔터프라이즈 계정 활성화, 새로운 SaaS 등록, 판매 후 핸드오프.
 
-`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."`
+`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I will upload and personalize by first name and company name."`
 
 ### 신규 회원 온보딩, B2C
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 대상: 고객 유지, 제품 인지도, 사고 리더십
 
-`"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."`
+`"Create a monthly newsletter for our customers. Use the CSV I will upload. Include product updates, industry insights, and a resource, with simple CTAs."`
 
 ### 월간 뉴스레터, B2C
 
@@ -142,7 +142,7 @@ ht-degree: 0%
 
 적합한 용도: 만료된 고객, 휴면 구매자, 계절별 재활성화.
 
-`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."`
+`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I will upload. Include 2-3 emails that feel seasonal and remind them to shop again."`
 
 ### 팬 재참여, B2C(스포츠 및 엔터테인먼트)
 
@@ -158,4 +158,4 @@ ht-degree: 0%
 
 ## 빌드할 준비가 되셨습니까?
 
-위에서 사용 사례를 선택하고 _캠페인 빌드 및 생성_&#x200B;을 방문하여 전체 단계별 캠페인을 시도하세요.
+위에서 사용 사례를 선택하고 _전자 메일 캠페인 만들기_&#x200B;를 방문하여 전체 단계별 캠페인을 시도하세요.
