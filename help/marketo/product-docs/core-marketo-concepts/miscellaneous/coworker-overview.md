@@ -1,7 +1,8 @@
 ---
 description: 단일 프롬프트를 리뷰 준비 캠페인으로 만드는 AI 기반 마케팅 애플리케이션인 Adobe CX Enterprise Coworker 캠페인에 대해 알아봅니다.
 title: Adobe CX Enterprise Coworker 개요
-source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
+hide: true
+source-git-commit: 14ea82fe7161fdc9ca6c45937a606774f0144177
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
