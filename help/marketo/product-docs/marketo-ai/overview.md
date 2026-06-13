@@ -1,12 +1,11 @@
 ---
 description: 프로그램 QA, 리드 가져오기, 데이터 표준화 등과 같은 마케팅 작업을 자동화하기 위해 설계된 Marketo AI 에이전트 제품군을 살펴봅니다.
 title: Marketo AI 개요
-badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 92d0d8b1820b0588e26e097e67ef6b6f32837397
+source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 2%
+source-wordcount: '302'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +15,7 @@ Marketo AI는 시간이 많이 소요되지만 중요한 마케팅 기능을 자
 
 >[!AVAILABILITY]
 >
->이 기능은 제한적으로 사용할 수 있습니다. 액세스를 요청하려면 [이 양식](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}을(를) 입력하십시오. 구독의 Munchkin ID를 준비해야 합니다.
+>이 기능은 제한적으로 사용할 수 있습니다. 액세스를 요청하려면 [이 양식](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}을(를) 입력하십시오. 구독의 Munchkin ID를 가까이에 두십시오.
 
 >[!PREREQUISITES]
 >
