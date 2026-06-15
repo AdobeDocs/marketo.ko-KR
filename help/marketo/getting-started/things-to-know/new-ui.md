@@ -3,9 +3,9 @@ description: Marketo Engage 새 UI - Marketo Engage 문서 - 제품 설명서
 title: Marketo Engage 새 UI
 feature: Getting Started
 hide: true
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: ee378219a9b294ae0c64620d0c0b306f73665f0d
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '235'
 ht-degree: 1%
 
 ---
@@ -28,25 +28,25 @@ ht-degree: 1%
 
 1. **관리자** 영역에서 **사용자 및 역할**&#x200B;을 선택합니다.
 
-스크린샷
+   ![](assets/new-ui-1.png)
 
 1. **역할** 탭을 클릭합니다. 원하는 역할을 선택하고 **역할 편집**&#x200B;을 클릭합니다.
 
-스크린샷
+   ![](assets/new-ui-2.png)
 
 >[!NOTE]
 >
 >새 역할을 만들 수도 있습니다.
 
-1. **새 테마 액세스** 확인란을 클릭하고 **저장**&#x200B;을 클릭합니다.
+1. **새 테마 액세스** 확인란을 선택하고 **저장**&#x200B;을 클릭합니다.
 
-스크린샷
+   ![](assets/new-ui-3.png)
 
 ## 신규 및 클래식 UI {#new-and-classic}
 
-새 UI로 전환하려면 오른쪽 상단의 테마 드롭다운을 클릭하고 **새로 만들기(Beta)**&#x200B;를 선택합니다.
+새 UI로 전환하려면 오른쪽 상단의 UI 드롭다운을 클릭하고 **새로 만들기(Beta)**&#x200B;를 선택합니다.
 
-스크린샷
+![](assets/new-ui-4.png)
 
 어떤 이유로든 다시 전환해야 하는 경우 테마 드롭다운을 다시 클릭하고 **클래식**&#x200B;을 선택합니다.
 
@@ -54,4 +54,4 @@ ht-degree: 1%
 
 귀하의 피드백을 환영합니다. 새 UI를 탐색하는 동안 기능에 액세스하거나 사용하는 데 문제가 있거나 제안 또는 문제가 있는 경우 오른쪽 상단의 UI Beta 피드백 버튼을 클릭합니다.
 
-스크린샷
+![](assets/new-ui-5.png)
