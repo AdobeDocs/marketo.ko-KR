@@ -3,7 +3,7 @@ description: Marketo Engage 새 UI - Marketo Engage 문서 - 제품 설명서
 title: Marketo Engage 새 UI
 feature: Getting Started
 hide: true
-source-git-commit: 59d851d919aa28f41d49e26381d1703017076b7b
+source-git-commit: 7e869a7a66badbb274355a676d9950068bb8b68e
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 1%
@@ -52,6 +52,6 @@ ht-degree: 1%
 
 ## 피드백 제출 중 {#feedback}
 
-귀하의 피드백을 환영합니다. 새 UI를 탐색하는 동안 기능에 액세스하거나 사용하는 데 문제가 있거나 제안 또는 문제가 있는 경우 오른쪽 상단의 UI Beta 피드백 버튼을 클릭합니다.
+귀하의 피드백을 환영합니다. 새 UI를 탐색하는 동안 기능에 액세스하거나 사용하는 데 문제가 있거나 제안 사항이나 문제가 있는 경우 오른쪽 상단의 **UI Beta 피드백** 단추를 클릭하십시오.
 
 ![](assets/new-ui-5.png)
