@@ -3,9 +3,9 @@ description: 복제 프로그램은 기존 Marketo 프로그램을 새 이름의
 title: 프로그램 복제
 badge: Beta
 hide: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 사용 방법 {#how-to-use}
 
-1. 내 Marketo에서 **AI로 빌드** 타일을 클릭합니다.
+1. 내 Marketo에서 **Marketo AI** 타일을 클릭합니다.
 
 1. 프롬프트 창에서 지침을 입력합니다. 예를 들어 &quot;Q2 웨비나 프로그램을 Q3 캠페인 폴더에 복제하고 Q3 제품 데모 웨비나라고 합니다.&quot;
 

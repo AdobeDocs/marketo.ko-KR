@@ -4,9 +4,9 @@ title: 리드 조사
 badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 ## 사용 방법 {#how-to-use}
 
-1. 내 Marketo에서 **AI로 빌드** 타일을 클릭합니다.
+1. 내 Marketo에서 **Marketo AI** 타일을 클릭합니다.
 
 1. 프롬프트 창에서 조사 중인 내용을 설명합니다. 잠재 고객 (이메일 또는 이름별) 및 예상되는 상황을 포함합니다.
 
