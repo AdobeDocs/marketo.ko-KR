@@ -2,9 +2,9 @@
 description: Marketo AI 권한을 활성화하고 조직 규칙을 구성하고 통합 및 알림과 같은 설정을 관리하는 방법을 알아봅니다.
 title: 설정 및 설정
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: 7e869a7a66badbb274355a676d9950068bb8b68e
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '562'
 ht-degree: 1%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 1%
 
 ## 권한 및 역할 {#permission-and-role}
 
-관리자는 _AI가 있는 빌드_ 권한과 _AI 사용자가 있는 빌드_ 역할이 있으므로 **AI가 있는 빌드** 기능에 액세스할 수 있는 사용자를 보다 강력하게 제어할 수 있습니다. 권한은 역할 수준에서 할당됩니다. _AI 사용자가 있는 빌드_ 역할은 기본적으로 _AI가 있는 빌드 액세스_ 권한이 활성화되어 있습니다.
+관리자는 _Marketo AI 액세스_ 권한과 _Marketo AI 사용자_ 역할을 통해 **Marketo AI** 기능에 액세스할 수 있는 사용자를 보다 강력하게 제어할 수 있습니다. 권한은 역할 수준에서 할당됩니다. _Marketo AI 사용자_ 역할에는 기본적으로 _Marketo AI에 액세스_ 권한이 활성화되어 있습니다.
 
 >[!IMPORTANT]
 >
->_AI로 빌드 액세스_ 권한이 모든 역할에 대해 기본적으로 활성화되어 있지 않습니다. 자세한 내용은 아래 표를 참조하십시오.
+>_Marketo AI 액세스_ 권한은 모든 역할에 대해 기본적으로 활성화되어 있지 않습니다. 자세한 내용은 아래 표를 참조하십시오.
 
 | 역할 | 기본 상태 |
 | --- | --- |
@@ -35,12 +35,12 @@ ht-degree: 1%
 | Adobe 제품 관리자 | 활성화됨 |
 | 마케팅 사용자 | 비활성화됨 |
 | 표준 사용자 | 사용 불가 |
-| AI 사용자로 빌드 | 활성화됨 |
+| Marketo AI 사용자 | 활성화됨 |
 | 사용자 정의 역할 | 비활성화됨 |
 
-### AI 권한으로 빌드에 액세스 {#access-build-with-ai-permission}
+### Marketo AI 권한 액세스 {#access-marketo-ai-permission}
 
-아직 활성화되지 않은 자격을 갖춘 역할에 대해 _AI로 빌드 액세스_&#x200B;를 활성화하려면 아래 단계를 따르십시오.
+아직 활성화되지 않은 자격을 갖춘 역할에 대해 _Marketo AI에 액세스_&#x200B;하려면 아래 단계를 따르십시오.
 
 1. 내 Marketo에서 **관리자**&#x200B;를 클릭한 다음 **사용자 및 역할**&#x200B;을 클릭합니다.
 
@@ -50,59 +50,59 @@ ht-degree: 1%
 
    ![](assets/settings-setup-2.png)
 
-1. 아래로 스크롤하여 _AI로 빌드 액세스_ 확인란을 선택하고 **저장**&#x200B;을 클릭합니다.
+1. 아래로 스크롤하여 _Marketo AI 액세스_ 확인란을 선택하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/settings-setup-3.png)
 
    >[!NOTE]
    >
-   >**실행** AI로 빌드 액세스&#x200B;_확인란을 선택하여 권한을 제거하는 동일한 단계를 사용할 수 있습니다._
+   >**실행**&#x200B;확인란을 선택하여 _Marketo AI에 액세스_ 권한을 제거하는 동일한 단계를 사용할 수 있습니다.
 
-### AI 사용자 역할로 빌드 {#build-with-ai-user-role}
+### Marketo AI 사용자 역할 {#marketo-ai-user-role}
 
-다음 단계에 따라 특정 사용자를 _AI 사용자로 빌드_ 역할에 할당합니다.
+다음 단계에 따라 특정 사용자를 _Marketo AI 사용자_ 역할에 할당합니다.
 
 >[!NOTE]
 >
->이 **only** 역할에 _AI로 빌드 액세스_ 권한이 포함되어 있습니다.
+>이 **only** 역할에 _Marketo AI 액세스_ 권한이 포함되어 있습니다.
 
 1. 내 Marketo에서 **관리자**&#x200B;를 클릭한 다음 **사용자 및 역할**&#x200B;을 클릭합니다.
 
-   ![](assets/settings-setup-1.png)
+   ![](assets/settings-setup-4.png)
 
 1. 원하는 사용자를 선택하고 **사용자 편집**&#x200B;을 클릭합니다.
 
-   ![](assets/settings-setup-5b.png)
+   ![](assets/settings-setup-5.png)
 
-1. _역할 및 작업 공간_&#x200B;에서 _AI 사용자로 빌드_ 확인란을 선택하십시오. 작업 영역이 두 개 이상 있는 경우 **+** 서명 드롭다운에서 액세스할 작업 영역을 지정할 수 있습니다. 완료되면 **저장**&#x200B;을 클릭합니다.
+1. _역할 및 작업 공간_&#x200B;에서 _Marketo AI 사용자_ 확인란을 선택하십시오. 작업 영역이 두 개 이상 있는 경우 **+** 서명 드롭다운에서 액세스할 작업 영역을 지정할 수 있습니다. 완료되면 **저장**&#x200B;을 클릭합니다.
 
-   ![](assets/settings-setup-6b.png)
+   ![](assets/settings-setup-6.png)
 
 ### 사용자 정의 역할 {#custom-role}
 
-[새 역할을 만들고](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} 사용 권한을 사용자 지정하는 옵션이 있습니다. _AI로 빌드에 액세스_&#x200B;를 추가하고 [특정 사용자에게 해당 역할을 할당](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}합니다.
+[새 역할을 만들고](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} 사용 권한을 사용자 지정하는 옵션이 있으며, _Marketo AI에 액세스_&#x200B;와 함께 원하는 모든 권한을 추가하고[특정 사용자에게 해당 역할을 할당](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}할 수 있습니다.
 
 ## 설정 {#settings}
 
-1. 내 Marketo에서 **AI로 빌드** 타일을 클릭합니다.
+1. 내 Marketo에서 **Marketo AI** 타일을 클릭합니다.
 
-   ![](assets/settings-setup-4.png)
+   ![](assets/settings-setup-7.png)
 
 1. 톱니바퀴 아이콘을 클릭합니다.
 
-   ![](assets/settings-setup-5.png)
+   ![](assets/settings-setup-8.png)
 
 ### 연결 {#connection}
 
 이 탭에는 편집 가능한 필드가 포함되어 있지 않습니다. Munchkin ID 및 IMS 조직과 같은 계정 정보를 표시합니다.
 
-![](assets/settings-setup-6.png)
+![](assets/settings-setup-9.png)
 
 ### 조직 규칙 {#organizational-rules}
 
 Marketo Engage 에셋을 만들거나 수정할 때 Marketo AI가 따라야 하는 조직 지침 및 제약 조건을 정의합니다.
 
-![](assets/settings-setup-7.png){width="800" zoomable="yes"}
+![](assets/settings-setup-10.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
