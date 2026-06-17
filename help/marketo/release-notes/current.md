@@ -44,7 +44,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td><strong>Marketo AI</strong>: 시간이 많이 걸리지만 중요한 마케팅 기능을 자동화하도록 설계된 에이전트 제품군을 활용하십시오(현재 두 개의 에이전트가 사용 가능하며 곧 출시될 예정).
 </td>
    <td>Beta 열기</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI 개요</a></td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI 개요</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -54,7 +54,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>Marketo Engage MCP 서버</strong>: Marketo Engage MCP 서버는 AI 어시스턴트와 Marketo Engage 간의 가교 역할을 합니다. 양식, 프로그램, 스마트 캠페인, 사람/리드, 이메일, 코드 조각, 목록 및 폴더에 100개 이상의 작업을 노출합니다.</td>
    <td>Beta 열기</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Marketo 서버</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ko" target="_blank">Marketo 서버</a></td>
   </tr>
   <tr>
    <td> </td>
