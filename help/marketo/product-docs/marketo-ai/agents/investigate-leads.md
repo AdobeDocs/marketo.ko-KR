@@ -1,9 +1,9 @@
 ---
 description: 조사 리드 에이전트는 마케터가 가장 자주 묻는 질문에 대한 답을 제공합니다. 활동 로그, 스마트 캠페인 내역 및 채점 기록을 수동으로 분석하는 것보다 빠르고 안정적입니다.
 title: 리드 조사
-source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
+source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
