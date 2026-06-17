@@ -2,7 +2,7 @@
 description: 제품 지식을 사용하여 Marketo AI에게 Marketo Engage 기능, 모범 사례 및 사용 방법에 대해 질문할 수 있습니다. 답변은 Adobe의 공식 설명서에 근거가 있습니다.
 title: 제품 지식
 badge: Beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -20,9 +20,7 @@ ht-degree: 0%
 ## 사용 방법 {#how-to-use}
 
 1. 내 Marketo에서 **Marketo AI** 타일을 클릭합니다.
-
 1. 프롬프트 창에서 특별한 구문이 필요 없이 자연어로 질문을 입력합니다.
-
 1. 답변이 제공됩니다. 더 자세한 사항이나 다른 각도가 필요한 경우 후속 작업을 요청합니다.
 
 ## 사용 사례 {#use-cases}
