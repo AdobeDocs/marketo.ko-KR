@@ -1,11 +1,12 @@
 ---
 description: Marketo AI 권한을 활성화하고 조직 규칙을 구성하고 통합 및 알림과 같은 설정을 관리하는 방법을 알아봅니다.
 title: 설정 및 설정
+badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 1%
+source-wordcount: '537'
+ht-degree: 2%
 
 ---
 
@@ -15,11 +16,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->이 기능은 제한적으로 사용할 수 있습니다. 액세스를 요청하려면 [이 양식](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}을(를) 입력하십시오. 구독의 Munchkin ID를 준비해야 합니다.
-
->[!PREREQUISITES]
->
->이 기능을 사용하려면 먼저 [Core Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에 동의해야 합니다. 자세한 내용은 계정 관리자에게 문의하십시오.
+>이 기능은 현재 오픈 베타에 있습니다. 액세스 권한을 요청하려면 계정 관리자에게 문의하십시오. [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에도 동의해야 합니다.
 
 ## 권한 및 역할 {#permission-and-role}
 

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: b6cd3c664558bba94330221dc6280e50df22888b
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: '8909'
+source-wordcount: '8899'
 ht-degree: 96%
 
 ---
@@ -468,9 +468,6 @@ ht-degree: 96%
                + [샘플 전송](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [Moments 공유](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + 기타 {#miscellaneous}
-         + {hide-from-toc}[동료 개요](product-docs/core-marketo-concepts/miscellaneous/coworker-overview.md)
-         + {hide-from-toc}[동료 전자 메일 캠페인 만들기](product-docs/core-marketo-concepts/miscellaneous/coworker-create-an-email-campaign.md)
-         + {hide-from-toc}[동료 사용 사례](product-docs/core-marketo-concepts/miscellaneous/coworker-use-cases.md)
          + {hide-from-toc}[Adobe Experience Manager 통합 구성](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [새 캠페인 폴더 만들기](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + {hide-from-toc}[키보드 단축키 용어집](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
@@ -1115,14 +1112,14 @@ ht-degree: 96%
       + [개요](product-docs/marketo-ai/overview.md)
       + [설정 및 설정](product-docs/marketo-ai/settings-setup.md)
       + {hide-from-toc}[설정 및 설정](product-docs/marketo-ai/settings-setup-old.md)
-      + 상담원 {#agents}
-         + [제품 지식](product-docs/marketo-ai/agents/product-knowledge.md)
-         + {hide-from-toc}[표면 인사이트](product-docs/marketo-ai/agents/surface-insights.md)
-         + {hide-from-toc}[프로그램 빌드](product-docs/marketo-ai/agents/build-programs.md)
-         + {hide-from-toc}[프로그램 복제](product-docs/marketo-ai/agents/clone-program.md)
-         + [리드 조사](product-docs/marketo-ai/agents/investigate-leads.md)
-         + [리드 가져오기](product-docs/marketo-ai/agents/import-leads.md)
-         + [프로그램 유효성 검사](product-docs/marketo-ai/agents/validate-programs.md)
+      + 스킬 {#skills}
+         + [제품 지식](product-docs/marketo-ai/skills/product-knowledge.md)
+         + {hide-from-toc}[표면 인사이트](product-docs/marketo-ai/skills/surface-insights.md)
+         + {hide-from-toc}[프로그램 빌드](product-docs/marketo-ai/skills/build-programs.md)
+         + {hide-from-toc}[프로그램 복제](product-docs/marketo-ai/skills/clone-program.md)
+         + [리드 조사](product-docs/marketo-ai/skills/investigate-leads.md)
+         + [리드 가져오기](product-docs/marketo-ai/skills/import-leads.md)
+         + [프로그램 유효성 검사](product-docs/marketo-ai/skills/validate-programs.md)
    + Marketo Engage 최신 UX {#marketo-engage-modern-ux}
       + [개요](product-docs/marketo-engage-modern-ux/overview.md)
       + [글로벌 검색 사용](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
