@@ -1,10 +1,11 @@
 ---
 description: 프로그램 QA, 리드 가져오기, 데이터 표준화 등과 같은 마케팅 작업을 자동화하기 위해 설계된 Marketo AI 에이전트 제품군을 살펴봅니다.
 title: Marketo AI 개요
+badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '353'
 ht-degree: 1%
 
 ---
@@ -15,15 +16,11 @@ Marketo AI는 시간이 많이 소요되지만 중요한 마케팅 기능을 자
 
 >[!AVAILABILITY]
 >
->이 기능은 제한적으로 사용할 수 있습니다. 액세스를 요청하려면 [이 양식](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}을(를) 입력하십시오. 구독의 Munchkin ID를 가까이에 두십시오.
-
->[!PREREQUISITES]
->
->이 기능을 사용하려면 먼저 [Core Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에 동의해야 합니다. 자세한 내용은 계정 관리자에게 문의하십시오.
+>이 기능은 현재 오픈 베타에 있습니다. 액세스 권한을 요청하려면 계정 관리자에게 문의하십시오. [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에도 동의해야 합니다.
 
 >[!IMPORTANT]
 >
->이 기능을 구독에 사용하도록 설정한 후에는 [설정 단계](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"}를 수행하여 원하는 사용자가 액세스할 수 있도록 해야 합니다.
+>구독에서 Marketo AI가 활성화되면 원하는 사용자가 액세스할 수 있도록 [설정 단계](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"}를 수행해야 합니다.
 
 ## 액세스 방법 {#access}
 
@@ -35,17 +32,25 @@ Marketo AI는 시간이 많이 소요되지만 중요한 마케팅 기능을 자
 
 ![](assets/overview-2.png)
 
-## 상담원 {#agents}
+## 스킬 {#skills}
 
-Center Console에는 다양한 작업에 도움이 되는 에이전트가 점점 늘어나고 있습니다. 각 에이전트는 특정 작업을 완료하기 위해 자연어를 통해 상호 작용하는 특별히 빌드된 AI 도우미입니다.
+센터 콘솔에는 다양한 작업에 도움이 되는 늘어나는 에이전트 기술이 포함되어 있습니다. 각 스킬은 특정 작업을 완료하기 위해 자연어를 통해 상호 작용하는 특수 목적의 AI 도우미입니다.
+
+### 리드 조사 {#investigate-leads}
+
+특정 사용자/리드가 마일스톤(예: MQL, 프로그램 자격 또는 캠페인)에 도달하지 않은 이유를 알아보고 발생한 사항에 대한 간단한 설명을 얻을 수 있습니다. [잠재 고객 조사 기술](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}에 대해 자세히 알아보세요.
+
+### 제품 지식 {#product-knowledge}
+
+제품 지식을 통해 필요할 때 플랫폼을 떠나지 않고 Marketo 전문 지식을 이용할 수 있습니다. 일반적인 언어로 질문하면 Marketo AI가 공식 Adobe 설명서를 참고하여 질문에 답변합니다. [제품 지식 기술](/help/marketo/product-docs/marketo-ai/skills/product-knowledge.md){target="_blank"}에 대해 자세히 알아보세요.
 
 ### 프로그램 유효성 검사 {#validate-programs}
 
-프로그램의 유효성을 검사하면 Marketo 모범 사례에 대해 설정이 자동으로 검사되고 실행 전에 문제가 발생합니다. [프로그램 에이전트 유효성 검사](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md){target="_blank"}에 대해 자세히 알아보세요.
+프로그램의 유효성을 검사하면 Marketo 모범 사례에 대해 설정이 자동으로 검사되고 실행 전에 문제가 발생합니다. [프로그램 유효성 검사 기술](/help/marketo/product-docs/marketo-ai/skills/validate-programs.md){target="_blank"}에 대해 자세히 알아보세요.
 
 ### 리드 가져오기 {#import-leads}
 
-필드 매핑 지원을 통해 리드 목록을 Marketo Engage 데이터베이스로 가져오고 중복 제거합니다. [리드 가져오기 에이전트](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}에 대해 자세히 알아보세요.
+필드 매핑 지원을 통해 리드 목록을 Marketo Engage 데이터베이스로 가져오고 중복 제거합니다. [리드 가져오기 스킬](/help/marketo/product-docs/marketo-ai/skills/import-leads.md){target="_blank"}에 대해 자세히 알아보세요.
 
 ## 곧 출시 예정 {#coming-soon}
 
@@ -57,4 +62,4 @@ Center Console에는 다양한 작업에 도움이 되는 에이전트가 점점
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP 서버](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ko){target="_blank"}는 AI 도우미와 Marketo Engage을 연결하는 다리 역할을 합니다.
+>[Marketo Engage MCP 서버](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"}는 AI 도우미와 Marketo Engage을 연결하는 다리 역할을 합니다.
