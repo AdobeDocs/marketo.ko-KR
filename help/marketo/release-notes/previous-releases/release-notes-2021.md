@@ -2,9 +2,39 @@
 title: 2021
 description: 2021년 - Marketo 문서 - 제품 설명서
 feature: Release Information
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46id: fc9b09fe-b844-4544-887b-e420c3b82065id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+  - id: fc9b09fe-b844-4544-887b-e420c3b82065
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 4732
@@ -81,7 +111,7 @@ ht-degree: 1%
 
 **_공지 및 사용 중단_**
 
-* 모든 사용자는 2021년 1월 15일 이전 **Sales Insight의 최신 버전으로 업그레이드해야 합니다**. 업그레이드를 완료하지 않은 경우 애플리케이션에 로그인하면 업그레이드를 완료하라는 메시지가 표시됩니다. 이 안내서 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)의 지침 [을(를) 따릅니다. 업데이트된 버전에는 식별된 보안 취약점에 대한 패치가 포함되어 있습니다. 해당 패치는 원래 2016년 4월 6일에 출시되었습니다. 참고: **버전 1.4363 이상**&#x200B;은(는) 업그레이드를 수행할 필요가 없습니다.
+* 모든 사용자는 2021년 1월 15일 이전 **Sales Insight의 최신 버전으로 업그레이드해야 합니다**. 업그레이드를 완료하지 않은 경우 애플리케이션에 로그인하면 업그레이드를 완료하라는 메시지가 표시됩니다. 이 안내서 [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)의 지침 을(를) 따릅니다. 업데이트된 버전에는 식별된 보안 취약점에 대한 패치가 포함되어 있습니다. 해당 패치는 원래 2016년 4월 6일에 출시되었습니다. 참고: **버전 1.4363 이상**&#x200B;은(는) 업그레이드를 수행할 필요가 없습니다.
 * 양식 1.0 서비스 사용 중단이 **2021년 5월** 릴리스에 적용됩니다. Forms 1.0 서비스는 완전히 중단되어 사용 중인 나머지 Forms 1.0 자산의 기능이 손실됩니다. 또한 leadCapture/save 및 leadCapture/save2 종단점에 대한 프로그래밍 방식 양식 POST와 같이 지원되지 않는 메서드를 통해 제출된 양식이 거부됩니다. 자세한 내용 및 수정 사항은 [Marketing Nation의 게시물](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-the-Marketo-Engage-Form-Platform/ta-p/306631)을 참조하세요.
 * 2021년에 Marketo Engage은 랜딩 페이지, 양식, 이미지 및 파일 에셋의 URL 구조를 변경할 예정입니다. 기존 Marketo Engage 구독의 경우 2021년 4월 1일부터 점진적 롤아웃이 시작됩니다. 롤아웃 타임라인에 대한 자세한 내용은 2021년 3월에 공개될 예정입니다. 영향을 받는 각 에셋 유형의 변경 방법에 대한 자세한 내용은 [Marketing Nation의 게시물](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632)을 참조하세요.
 
@@ -221,7 +251,7 @@ ht-degree: 1%
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] 리드 세대 Forms 통합**: 이제 마케터는 [!DNL LinkedIn]이(가) 리드 세대 Forms 광고 단위를 통해 양식 채우기를 캡처할 때 발생하는 전환에 대해 매출 기여도 분석을 수행할 수 있습니다. 그런 다음 이러한 통찰력을 사용하여 양식 성능 및 유료 미디어 투자를 최적화할 수 있습니다. [!DNL LinkedIn] 리드 세대 Forms은 [!DNL LinkedIn]에서 가장 빠르게 성장하고 있는 유료 미디어 서비스 중 하나이며 이 새로운 기능은 [!DNL Bizible]과의 기존 [!DNL LinkedIn] Ads 통합에 포함되어 있습니다.
+* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] 리드 세대 Forms 통합**: 이제 마케터는 [!DNL LinkedIn]이(가) 리드 세대 Forms 광고 단위를 통해 양식 채우기를 캡처할 때 발생하는 전환에 대해 매출 기여도 분석을 수행할 수 있습니다. 그런 다음 이러한 통찰력을 사용하여 양식 성능 및 유료 미디어 투자를 최적화할 수 있습니다. [!DNL LinkedIn] 리드 세대 Forms은 [!DNL LinkedIn]에서 가장 빠르게 성장하고 있는 유료 미디어 서비스 중 하나이며 이 새로운 기능은 [!DNL Bizible]과의 기존 [!DNL LinkedIn] Ads 통합에 포함되어 있습니다.
 
 * **속도 대시보드 개선**: 더 자세한 통찰력을 위해 새로운 속도 지표 및 대시보드 필터를 추가했습니다. 이 대시보드는 마케터가 단계별 잠재 고객 및 영업 기회 속도와 다양한 유형의 마케팅 및 판매 참여의 효율성을 이해하는 데 사용됩니다.
 
@@ -233,7 +263,7 @@ ht-degree: 1%
 
 * **[!DNL Bizible]Adobe Privacy Service과의 통합**(2021년 9월 사용 가능): [!DNL Bizible]의 Adobe Privacy Service 통합은 Adobe Experience Cloud 애플리케이션 전반에서 중요한 데이터 개인 정보 보호 규정(예: GDPR) 준수를 중앙 집중화합니다. 이제 이 서비스를 활용하고 모든 개인 정보 요청을 중앙에서 관리하여 [!DNL Bizible] 및 다른 Adobe 제품에 포함된 변경 요청이 여러 애플리케이션에 반영되도록 할 수 있습니다.
 
-* **[!DNL Bizible](Adobe 통합 쉘)**: [!DNL Bizible]의 Adobe 통합 쉘 채택으로 사용자는 [!DNL Bizible] 응용 프로그램 헤더 표시줄에 새로운 기능을 사용할 수 있으며 지원 리소스 및 응용 프로그램 전환을 위한 더 나은 액세스 권한을 포함할 수 있습니다. Adobe 통합 셸을 사용하면 [!DNL Bizible]과(와) 다른 Adobe Experience Cloud 애플리케이션 간에 일관된 환경을 만들 수 있습니다.
+* **[!DNL Bizible] (Adobe 통합 쉘)**: [!DNL Bizible]의 Adobe 통합 쉘 채택으로 사용자는 [!DNL Bizible] 응용 프로그램 헤더 표시줄에 새로운 기능을 사용할 수 있으며 지원 리소스 및 응용 프로그램 전환을 위한 더 나은 액세스 권한을 포함할 수 있습니다. Adobe 통합 셸을 사용하면 [!DNL Bizible]과(와) 다른 Adobe Experience Cloud 애플리케이션 간에 일관된 환경을 만들 수 있습니다.
 
 * **[!DNL Bizible]도메인 소유권 및 자체 관리**: [!DNL Bizible] 사용자는 Adobe Admin Console을 활용하여 [!DNL Bizible]에서 추적할 도메인을 관리할 수 있습니다. 이를 통해 이전의 수동 프로세스로 셀프 서비스를 제공하고 Adobe Experience Cloud 애플리케이션 전반에서 도메인 소유권 및 추적을 관리하는 방법에 대한 일관된 경험을 제공합니다.
 
@@ -285,13 +315,13 @@ ht-degree: 1%
 
 ![(별)](assets/yellow-star.png)
 
-[!DNL Microsoft Dynamics 365] 매출액&#x200B;**에 대한**[!DNL Sales Insight]
+[!DNL Microsoft Dynamics 365] 매출액&#x200B;**에 대한**&#x200B;[!DNL Sales Insight]
 
 * **[!UICONTROL Best Bets]개선 사항**: [!DNL Sales Insight]의 [!UICONTROL Best Bets] 탭에서는 판매 담당자에게 가장 인기 있는 연락처와 품질 및 긴급도에 따라 우선 순위가 지정된 잠재 고객에 대한 실시간 보기를 제공합니다. 영업 담당자가 [!DNL Best Bets] 페이지에서 직접 개인 점수를 검토하거나, 이메일을 보내거나, 지정된 Marketo Engage 캠페인에 잠재 고객을 추가하는 등의 작업을 수행할 수 있는 기능을 추가하여 효율성을 높이고 응답 시간을 단축했습니다.
 
 * **새 전자 메일, 웹 활동, 익명 웹 활동 대시보드**: 판매자에게 잠재 고객 및 연락처의 최신 전자 메일 및 웹 활동에 대한 정보를 알리기 위해 새 판매 대시보드를 추가했습니다. 새로운 필터링 기능을 통해 대시보드는 이제 전체 계정 목록 또는 특정 계정에 대한 insight을 이메일 열기, 클릭 수 및 웹 페이지 방문 횟수로 제공합니다. Marketo Engage은 모든 웹 활동을 추적하고 중요한 정보를 매출에 제공하여 익명 트래픽을 잠재 고객으로 전환합니다. 판매자는 잠재 고객 행동에 대해 더 잘 알고 있고 모든 접점의 관련성을 기반으로 행동하기 때문에 참여를 개인화하고 잠재 고객을 더 빠르게 판매로 전환할 수 있습니다.
 
-[!DNL Salesforce]**에 대한**[!DNL Sales Insight]
+[!DNL Salesforce]&#x200B;**에 대한**&#x200B;[!DNL Sales Insight]
 
 * **계정 및 영업 기회 수준[!UICONTROL Best Bets]**: 이제 [!DNL Sales Insight]은(는) 영업 담당자가 다른 팀원에게 할당된 연락처에서도 자신이 소유한 계정 또는 영업 기회에 있는 모든 연락처에 대한 최상의 선택을 검토할 수 있는 기능을 제공합니다. 이를 통해 계정 및 기회 소유자는 관련 연락처의 활동을 완전히 볼 수 있으며, 계정 또는 기회에 대한 보다 전체적인 보기를 기반으로 활동할 수 있습니다.
 
