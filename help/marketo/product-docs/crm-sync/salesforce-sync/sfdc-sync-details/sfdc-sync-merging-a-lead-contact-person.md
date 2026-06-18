@@ -33,7 +33,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->API 병합의 부울 필드 동작이 2026년 3월 릴리스에서 변경되었습니다. 이제 False 값은 해당 필드에 대한 값이 있는 것으로 올바르게 처리됩니다. 충돌하는 필드를 평가할 때는 null 값만 &quot;비어 있음&quot;으로 처리됩니다. 자세한 내용은 [이 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"}을 참조하세요.
+>API 병합의 부울 필드 동작이 2026년 3월 릴리스에서 변경되었습니다. 이제 False 값은 해당 필드에 대한 값이 있는 것으로 올바르게 처리됩니다. 충돌하는 필드를 평가할 때는 null 값만 &quot;비어 있음&quot;으로 처리됩니다. 자세한 내용은 [이 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=ko){target="_blank"}을 참조하세요.
 
 >[!MORELIKETHIS]
 >
