@@ -7,10 +7,10 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 25bbf4409df3db38b849d936e2a90b48f859d089
 workflow-type: tm+mt
-source-wordcount: 204
-ht-degree: 3%
+source-wordcount: 267
+ht-degree: 2%
 
 ---
 
@@ -28,9 +28,13 @@ ht-degree: 3%
 >점수가 각각 10인 3개의 리드(사람)를 병합하면 점수가 30인 1개의 리드(사람)의 결과가 생성됩니다.
 
 * 충돌하는 필드 값은 &quot;우승 레코드&quot;에서 가져옵니다. (레코드 = 결과 리드 또는 연락처)
-* &#39;패배 기록&#39;(사라지는 기록)이 가치가 있고 우승 기록이 없다면 패배 기록을 그대로 유지하겠다는 것이다. 즉, &quot;어떤 가치가 없는 것보다 낫다.&quot;
+* &#39;패소 기록&#39;(사라지는 기록)에 값이 있고 우승 기록에 값이 없다면(또는 null이면) 패소 기록을 유지한다. 즉, &quot;어떤 가치가 없는 것보다 낫다.&quot;
 * 모든 활동 로그 항목이 병합됩니다.
 
 >[!NOTE]
 >
->[Marketo에서 사용자 병합](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}에 대한 자세한 내용을 자세히 알아보세요.
+>API 병합의 부울 필드 동작이 2026년 3월 릴리스에서 변경되었습니다. 이제 False 값은 해당 필드에 대한 값이 있는 것으로 올바르게 처리됩니다. 충돌하는 필드를 평가할 때는 null 값만 &quot;비어 있음&quot;으로 처리됩니다. 자세한 내용은 [이 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=ko){target="_blank"}을 참조하세요.
+
+>[!MORELIKETHIS]
+>
+>[Marketo에서 사용자 병합](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)에 대한 자세한 내용을 자세히 알아보세요.
