@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
-source-wordcount: 2850
+source-wordcount: 2807
 ht-degree: 1%
 
 ---
@@ -480,3 +480,4 @@ RTP 캠페인을 복제하면 보다 개인화된 웹 캠페인을 더 빠르고
 ## Design Studio에서 랜딩 페이지의 URL로 검색 {#search-by-url-of-landing-page-in-design-studio}
 
 이제 Design Studio 랜딩 페이지 그리드에서 페이지 URL별로 검색하여 랜딩 페이지를 찾을 수 있습니다. 이것은 수출용이기도 합니다.
+

@@ -23,7 +23,7 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 3266
 ht-degree: 1%
@@ -594,3 +594,4 @@ UTF-16, Shift-JIS 또는 EUC-JP로 인코딩된 [파일 가져오기](/help/mark
 페이지 로드 시 개인화된 콘텐츠가 제자리에 미끄러질 수 있도록 영역 내 캠페인에 대한 새로운 슬라이딩 효과를 추가했습니다.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
+

@@ -14,7 +14,7 @@ subfeature_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 2480
 ht-degree: 0%
@@ -429,3 +429,4 @@ Google Play에서 사용할 수 있는 새로운 Android 기반 체크인 앱을
 ## 향상된 [!DNL BrightTALK] 이벤트 어댑터 {#enhanced-brighttalk-event-adapter}
 
 이제 등록자를 [!DNL BrightTALK] 채널 및 이벤트에서 Marketo으로 가져올 수 있습니다. 이 정보를 사용하여 다른 마케팅 캠페인에 알릴 수 있습니다!
+
