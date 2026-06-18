@@ -4,22 +4,14 @@ title: 최신 릴리스 정보
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 5debaa373787b2e02c6af0da8d5c054a1e4f1aa7
 workflow-type: tm+mt
-source-wordcount: 628
-ht-degree: 19%
+source-wordcount: 695
+ht-degree: 17%
 
 ---
 
@@ -44,7 +36,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td><strong>Marketo AI</strong>: 시간이 많이 걸리지만 중요한 마케팅 기능을 자동화하도록 설계된 에이전트 제품군을 활용하십시오(현재 두 개의 에이전트가 사용 가능하며 곧 출시될 예정).
 </td>
    <td>Beta 열기</td>
-   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI 개요</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI 개요</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -54,7 +46,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>Marketo Engage MCP 서버</strong>: Marketo Engage MCP 서버는 AI 어시스턴트와 Marketo Engage 간의 가교 역할을 합니다. 양식, 프로그램, 스마트 캠페인, 사람/리드, 이메일, 코드 조각, 목록 및 폴더에 100개 이상의 작업을 노출합니다.</td>
    <td>Beta 열기</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ko" target="_blank">Marketo 서버</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Marketo 서버</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -136,6 +128,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    * 경품 추첨
 
 올해 초 Marketo에 남겨져 있던 관련 분야가 삭제됐다. 곧이어 특정 소셜 관련 리드 필드를 참조하는 API 요청에서 &quot;필드를 찾을 수 없음&quot; 오류가 반환되어 중단이 발생했습니다. 영향을 받은 필드를 다시 사용할 수 있게 된 후 서비스가 복원되었으므로 더 이상의 중단을 방지하기 위해 Marketo은 소셜 기능 사용 중단에서 소셜 필드를 영구적으로 분리했습니다(따라서 Marketo 계정에서 사용할 수 있게 됨). 사용자는 Marketo 소셜 관련 필드를 참조하는 API 쿼리 및 통합을 검토하고 이러한 필드가 지속적인 비즈니스 프로세스에 여전히 필요한지 확인하는 것이 좋습니다.
+
+* **부울 필드에 대한 API 병합 기능**: API 병합에서 부울 필드의 동작이 2026년 3월 릴리스에서 변경되었습니다. 이제 False 값은 해당 필드에 대한 값이 있는 것으로 올바르게 처리됩니다. 충돌하는 필드를 평가할 때는 null 값만 &quot;비어 있음&quot;으로 처리됩니다. 자세한 내용은 [이 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"}을 참조하세요.
 
 * **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2026년 7월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}된 대로 &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
 
