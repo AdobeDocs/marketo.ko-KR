@@ -5,11 +5,10 @@ title: SFDC 동기화 - 잠재 고객/연락처/사용자 병합
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 25bbf4409df3db38b849d936e2a90b48f859d089
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: 18ccc13ddd9cfb998015bb581373a7ca7c064d59
 workflow-type: tm+mt
-source-wordcount: 267
+source-wordcount: 268
 ht-degree: 2%
 
 ---
@@ -33,7 +32,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->API 병합의 부울 필드 동작이 2026년 3월 릴리스에서 변경되었습니다. 이제 False 값은 해당 필드에 대한 값이 있는 것으로 올바르게 처리됩니다. 충돌하는 필드를 평가할 때는 null 값만 &quot;비어 있음&quot;으로 처리됩니다. 자세한 내용은 [이 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=ko){target="_blank"}을 참조하세요.
+>API 병합의 부울 필드 동작이 2026년 3월 릴리스에서 변경되었습니다. 이제 False 값은 해당 필드에 대한 값이 있는 것으로 올바르게 처리됩니다. 충돌하는 필드를 평가할 때는 null 값만 &quot;비어 있음&quot;으로 처리됩니다. 자세한 내용은 [이 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"}을 참조하세요.
 
 >[!MORELIKETHIS]
 >
