@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: a87250f519eff511c158e9f949761f090a565a45
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: '8896'
 ht-degree: 96%
@@ -14,7 +14,7 @@ ht-degree: 96%
 # Marketo 안내서 {#using}
 
 + [홈](home.md)
-+ Marketo Engage 시작하기 {#getting-started}
++ Marketo Engage 시작하기
    + [Adobe Marketo Engage란 무엇입니까?](getting-started/what-is-adobe-marketo-engage.md)
    + 초기 설정 {#initial-setup}
       + [설정 단계](getting-started/initial-setup/setup-steps.md)
@@ -69,7 +69,7 @@ ht-degree: 96%
             + {hide-from-toc}[SEO - 경쟁업체 KW 트렌드 보고서 사용](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + {hide-from-toc}[SEO - 키워드 트렌드 보고서 사용](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
    + 관리 {#administration}
-      + 설정 {#setup}
+      + 설정
          + [보유 권한 찾기](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
          + [최소 시스템 요구 사항](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
@@ -546,7 +546,7 @@ ht-degree: 96%
          + [리드 또는 연락처 삭제](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Salesforce 동기화 {#salesforce-sync}
          + [Salesforce 동기화 이해](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-         + 설정 {#setup}
+         + 설정
             + 엔터프라이즈/무제한 에디션 {#enterprise-unlimited-edition}
                + [3단계 중 1단계: Salesforce에 Marketo 필드 추가 (엔터프라이즈/무제한)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
                + [3단계 중 2단계: Marketo용 Salesforce 사용자 만들기 (엔터프라이즈/무제한)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
@@ -593,7 +593,7 @@ ht-degree: 96%
          + [개인 계정 사용](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
       + Veeva CRM 동기화 {#veeva-crm-sync}
          + [Veeva CRM 동기화 이해](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
-         + 설정 {#setup}
+         + 설정
             + [3단계 중 1단계: Veeva CRM에 Marketo 필드 추가](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
             + [3단계 중 2단계: Marketo Engage용 Veeva CRM 사용자 만들기](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
             + [3단계 중 3단계: Marketo Engage와 Veeva CRM 연결](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
@@ -640,7 +640,7 @@ ht-degree: 96%
             + [대화 상자 만들기](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
             + [대상자 기준](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
             + [스트림 디자이너](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md)
-         + 통합 {#integrations}
+         + 통합
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
             + [Adobe PDF 임베드 API](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
             + [Demandbase](product-docs/demand-generation/dynamic-chat/integrations/demandbase.md)
@@ -1107,7 +1107,7 @@ ht-degree: 96%
             + [경고 전송 정보 토큰 사용](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [내 토큰에서 URL 사용](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [이메일 CC](product-docs/email-marketing/general/email-cc.md)
-   + MARKETO AI {#marketo-ai}
+   + Marketo AI {#marketo-ai}
       + [개요](product-docs/marketo-ai/overview.md)
       + [설정 및 설정](product-docs/marketo-ai/settings-setup.md)
       + {hide-from-toc}[설정 및 설정](product-docs/marketo-ai/settings-setup-old.md)
@@ -1126,18 +1126,18 @@ ht-degree: 96%
    + Marketo 알림 {#marketo-notifications}
       + {hide-from-toc}[알림: Websocket 연결](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
-      + 시작하기 {#getting-started}
+      + 시작하기
          + [Sales Connect 개요](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [새 Sales Connect 인스턴스에 액세스](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Sales Connect 관리자를 위한 시작 안내서](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
          + [프로필 관리](product-docs/marketo-sales-connect/getting-started/manage-your-profile.md)
          + [Sales Connect 암호 변경](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
-         + 이메일 설정 {#email-settings}
+         + 이메일 설정
             + [ID 추가](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [이메일 서명 추가](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
             + [확인 이메일을 받지 못함](product-docs/marketo-sales-connect/getting-started/email-settings/never-received-a-verification-email.md)
             + [이메일 확인](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
-      + 관리 {#admin}
+      + 관리
          + [추가 관리자](product-docs/marketo-sales-connect/admin/additional-admins.md)
          + [차단된 도메인](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [콘텐츠 잠금](product-docs/marketo-sales-connect/admin/content-lockdown.md)
@@ -1146,12 +1146,12 @@ ht-degree: 96%
          + [Sales Connect에서 SAML 2.0을 통해 SSO 설정](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [공유 설정](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [사용자 액세스 상세 정보](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + Analytics {#analytics}
+      + Analytics
          + [Analytics 페이지 개요](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [콘텐츠 탭 이해](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [내 탭 이해](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
          + [팀 탭 이해](product-docs/marketo-sales-connect/analytics/understanding-the-team-tab.md)
-      + 캠페인 {#campaigns}
+      + 캠페인
          + [캠페인에 사용자 추가](product-docs/marketo-sales-connect/campaigns/add-people-to-your-campaign.md)
          + [마케팅 캠페인에 추가](product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md)
          + [캠페인 단계 유형](product-docs/marketo-sales-connect/campaigns/campaign-step-types.md)
@@ -1163,8 +1163,8 @@ ht-degree: 96%
          + [전송 옵션 이해](product-docs/marketo-sales-connect/campaigns/understanding-send-options.md)
          + [캠페인에서 작업 사용](product-docs/marketo-sales-connect/campaigns/using-tasks-in-campaigns.md)
          + [다른 사용자로 캠페인 목록 보기](product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)
-      + CRM {#crm}
-         + Salesforce 사용자 정의 {#salesforce-customization}
+      + CRM
+         + Salesforce 사용자 정의
             + [작업의 활동 유형 필드 (SFDC)](product-docs/marketo-sales-connect/crm/salesforce-customization/activity-type-field-on-tasks-sfdc.md)
             + [Salesforce에 Sales Connect 버튼 추가](product-docs/marketo-sales-connect/crm/salesforce-customization/add-sales-connect-buttons-to-salesforce.md)
             + [Sales Connect 데이터로 Salesforce 우선순위 통화 보고서 만들기](product-docs/marketo-sales-connect/crm/salesforce-customization/create-a-salesforce-priority-call-report-with-sales-connect-data.md)
@@ -1184,7 +1184,7 @@ ht-degree: 96%
             + [Salesforce Lightning에서 일괄 작업 사용](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
             + [Salesforce Classic에서 Marketo Sales Connect 제거](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-classic.md)
             + [Salesforce Lightning에서 Marketo Sales Connect 제거](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
-         + Salesforce 통합 {#salesforce-integration}
+         + Salesforce 통합
             + [Salesforce 활동 상세 정보 사용자 정의 구성](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Sales Connect 계정을 Salesforce에 연결](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [Sales Connect 계정에서 Salesforce 연결 해제](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
@@ -1194,7 +1194,7 @@ ht-degree: 96%
             + [Salesforce 동기화 설정](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
             + [추적 활동이 표시되지 않음](product-docs/marketo-sales-connect/crm/salesforce-integration/tracking-activity-not-showing.md)
       + 이메일 플러그인 {#email-plugins}
-         + Gmail {#gmail}
+         + Gmail
             + [Salesforce에 이메일 추가](product-docs/marketo-sales-connect/email-plugins/gmail/add-email-to-salesforce.md)
             + [콘텐츠 첨부](product-docs/marketo-sales-connect/email-plugins/gmail/attaching-a-piece-of-content.md)
             + [캘린더 기능](product-docs/marketo-sales-connect/email-plugins/gmail/calendar-functionality.md)
@@ -1217,8 +1217,8 @@ ht-degree: 96%
             + Office 365 추가 기능 {#office-365-add-in}
                + [Salesforce에 이메일 추가 (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Outlook용 Sales Connect 이메일 플러그인 설치 (온라인, Mac, Windows)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
-      + 이메일 {#email}
-         + Command Center {#command-center}
+      + 이메일
+         + Command Center
             + [Command Center 개요](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [고급 검색 개요](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
             + [팀원에게 작업 할당](product-docs/marketo-sales-connect/email/command-center/assigning-tasks-to-team-members.md)
@@ -1231,18 +1231,18 @@ ht-degree: 96%
             + [보기 추적 작동 방식](product-docs/marketo-sales-connect/email/common-tracking-questions/how-view-tracking-works.md)
             + [자체 보기 방지](product-docs/marketo-sales-connect/email/common-tracking-questions/preventing-self-views.md)
             + [테스트 이메일이 조회됨으로 표시되지 않음](product-docs/marketo-sales-connect/email/common-tracking-questions/test-email-not-showed-as-viewed.md)
-         + 이메일 게재 {#email-delivery}
+         + 이메일 게재
             + [게재 채널 개요](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
             + [이메일 연결 제한](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
             + [사용자 정의 게재 채널 설정](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
-         + 세일즈 이메일 보내기 {#send-a-sales-email}
+         + 세일즈 이메일 보내기
             + [캠페인이 종료됨](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [이메일의 CC 또는 BCC](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [스팸으로 표시된 이메일](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
          + 라이브 피드 {#the-live-feed}
             + [잘못된 수신자 위치](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [라이브 피드 개요](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
-         + 구독 취소 {#unsubscribes}
+         + 구독 취소
             + [구독 취소 메시지 자동 추가 설정](product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
             + [구독 취소 링크 메시지 사용자 정의](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
             + [Marketo 구독 취소 확인](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
@@ -1252,7 +1252,7 @@ ht-degree: 96%
             + [구독 취소 기록 카드](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-history-card.md)
             + [구독 취소 링크 랜딩 페이지](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-link-landing-page.md)
             + [구독 취소 개요](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
-         + Compose Window 사용 {#using-the-compose-window}
+         + Compose Window 사용
             + [이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
             + [이메일에 Highspot 콘텐츠 추가](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [일괄 게재 옵션](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
@@ -1261,7 +1261,7 @@ ht-degree: 96%
             + [추적된 이메일 보내기](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-a-tracked-email.md)
             + [그룹 이메일을 통해 이메일 보내기](product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
             + [Compose Window에서 템플릿 사용](product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-      + FAQ {#faq}
+      + FAQ
          + [삭제한 연락처 또는 그룹을 복구할 수 있습니까?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [콘텐츠 및 파일 첨부 FAQ](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect에 iPhone 또는 Android 앱이 있습니까?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
@@ -1274,19 +1274,19 @@ ht-degree: 96%
          + [내 연락처가 Sales Connect로 푸시되지 않는 이유는 무엇입니까?](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
          + [연락처를 삭제할 수 없는 이유는 무엇입니까?](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
          + [내 연락처 중 일부가 Sales Connect로 푸시되지 않은 이유는 무엇입니까?](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
-      + 통합 {#integrations}
+      + 통합
          + [다른 CRM에 이메일을 기록하는 방법](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
-      + Marketo {#marketo}
+      + Marketo
          + [Marketo 연결 설정](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [사용자에게 액세스 권한 부여](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Sales Connect의 즐거운 순간](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Sales Connect 사용자에게 캠페인 표시](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [세일즈 활동 용어집](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [세일즈 활동 트리거 및 필터](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + 사용자 {#people}
+      + 사용자
          + [사용자 세부 정보 보기](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect 및 GDPR 규정 준수](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
-         + 연락처 관리 {#managing-contacts}
+         + 연락처 관리
             + [사용자에 대한 일괄 작업](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
             + [연락처 생성 및 삭제](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [그룹 유형](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
@@ -1294,7 +1294,7 @@ ht-degree: 96%
             + [CSV를 통해 연락처 가져오기](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [그룹 관리](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [사용자 페이지 열](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
-      + 전화 {#phone}
+      + 전화
          + [통화가 Salesforce에 기록되지 않음](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
          + [통화 결과](product-docs/marketo-sales-connect/phone/call-outcomes.md)
          + [통화 이유](product-docs/marketo-sales-connect/phone/call-reasons.md)
@@ -1307,11 +1307,11 @@ ht-degree: 96%
          + [세일즈 전화 개요](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)
          + [팀과 통화 녹음 공유](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
          + [양 당사자 동의 설정](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
-      + 작업 {#tasks}
+      + 작업
          + [알림 작업 생성 및 할당](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
          + [Salesforce와 알림 작업 동기화](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [Sales Connect 작업을 Salesforce와 처음 동기화](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
-      + 템플릿 {#templates}
+      + 템플릿
          + [템플릿 관리](product-docs/marketo-sales-connect/templates/manage-templates.md)
          + [하이퍼링크된 텍스트 추가](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
          + [추천 템플릿](product-docs/marketo-sales-connect/templates/recommended-templates.md)
@@ -1328,17 +1328,17 @@ ht-degree: 96%
    + Marketo Sales Insight {#marketo-sales-insight}
       + 액션 {#actions}
          + [Sales Insight Actions 기능 개요](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
-         + 시작하기 {#getting-started}
+         + 시작하기
             + [Sales Insight Actions 사용자 온보딩 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Sales Insight Actions 사용자 온보딩 체크리스트](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Sales Insight Actions 관리자 설정 안내서](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Marketo Sales 암호 변경](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [제품 사용 제한 사항](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
-            + 이메일 설정 {#email-settings}
+            + 이메일 설정
                + [이메일 확인](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [이메일 서명 추가 또는 업데이트](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [ID 추가](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
-         + 관리 {#admin}
+         + 관리
             + [Salesforce에서 자동 로그인](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [차단된 도메인](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [새 관리자를 Marketo에 연결](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
@@ -1350,13 +1350,13 @@ ht-degree: 96%
             + [공유 설정](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Sales Action 데이터를 Marketo 및 Salesforce와 동기화](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [사용자 액세스 상세 정보](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + Analytics {#analytics}
+         + Analytics
             + [Analytics 페이지 개요](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [콘텐츠 탭 이해](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [내 탭 이해](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [팀 탭 이해](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [템플릿 참여](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
-         + 캠페인 {#campaigns}
+         + 캠페인
             + {hide-from-toc}[마케팅 캠페인에 추가](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [캠페인이 종료됨](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [세일즈 캠페인 만들기](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
@@ -1364,10 +1364,10 @@ ht-degree: 96%
             + [세일즈 캠페인 단계 유형 및 알림 작업](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [이메일 단계에 대한 세일즈 캠페인 게재 옵션 이해](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [다른 사용자로 캠페인 목록 보기](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
-         + CRM {#crm}
-            + Salesforce 사용자 정의 {#salesforce-customization}
+         + CRM
+            + Salesforce 사용자 정의
                + {hide-from-toc}[문서](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
-            + Salesforce 통합 {#salesforce-integration}
+            + Salesforce 통합
                + [Salesforce 활동 상세 정보 사용자 정의 구성](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Sales Insight Actions 계정을 Salesforce에 연결](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
                + {hide-from-toc}[판매 Insight 작업에서 Salesforce 연결 끊기](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
@@ -1383,36 +1383,36 @@ ht-degree: 96%
             + Salesforce의 작업 {#actions-in-salesforce}
                + [Salesforce에서 일괄 세일즈 이메일 전송 사용](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
                + [Salesforce에서 세일즈 캠페인에 일괄 추가 사용](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
-         + 이메일 {#email}
-            + Command Center {#command-center}
+         + 이메일
+            + Command Center
                + [고급 검색 개요](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
                + [팀원에게 작업 할당](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
                + [Command Center 개요](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
                + [이메일 열 및 이메일 페이지 레이아웃](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [Command Center의 빠른 작업](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
-            + 이메일 게재 {#email-delivery}
+            + 이메일 게재
                + [게재 채널 개요](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [이메일 연결 제한](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [팀을 위한 사용자 정의 게재 채널 설정](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + 구독 취소 {#unsubscribes}
+            + 구독 취소
                + [구독 취소 개요](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [구독 취소 메시지 자동 추가 설정](product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
                + [구독 취소 링크 메시지 사용자 정의](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo 구독 취소 확인](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Salesforce와 구독 취소 동기화](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
                + [트랜잭션 세일즈 이메일 템플릿](product-docs/marketo-sales-insight/actions/email/unsubscribes/transactional-sales-email-templates.md)
-            + Compose Window 사용 {#using-the-compose-window}
+            + Compose Window 사용
                + [이메일에 첨부 파일 또는 추적 가능한 콘텐츠 추가](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
                + [일괄 이메일 전송 옵션](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + {hide-from-toc}[Select 및 Send를 사용하여 일괄 전자 메일 작성](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [그룹 이메일을 통해 이메일 보내기](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Compose Window에서 템플릿 사용](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + 이메일 통합 {#email-integrations}
-            + Gmail {#gmail}
+            + Gmail
                + [Gmail에 연결](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
             + Outlook {#outlook}
                + [Outlook에 연결](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
-         + FAQ {#faq}
+         + FAQ
             + [삭제한 연락처 또는 그룹을 복구할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [CC/BCC로 여러 수신자를 추적할 수 있습니까?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [콘텐츠 및 파일 첨부 FAQ](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
@@ -1434,23 +1434,23 @@ ht-degree: 96%
             + [내 이메일이 스팸으로 표시되는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
             + [내 캠페인이 종료된 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [추적 활동이 Salesforce 활동에 표시되지 않는 이유는 무엇입니까?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
-         + 통합 {#integrations}
+         + 통합
             + [Highspot 통합](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
-         + Marketo {#marketo}
+         + Marketo
             + [사용자에게 Marketo 액세스 권한 부여](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Sales Insight Actions의 즐거운 순간](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
             + [Sales Connect 사용자에게 캠페인 표시](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [세일즈 활동 트리거 및 필터](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Sales Insight Actions 활동 용어집](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + {hide-from-toc}[Marketo 연결 설정](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
-         + 사용자 {#people}
+         + 사용자
             + {hide-from-toc}[개인 세부 정보 보기](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight Actions 및 GDPR 규정 준수](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-            + 연락처 관리 {#managing-contacts}
+            + 연락처 관리
                + [사용자에 대한 일괄 작업](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [그룹 관리](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + {hide-from-toc}[사람 페이지 열](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
-         + 전화 {#phone}
+         + 전화
             + [통화 결과](product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
             + [통화 이유](product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
             + [Salesforce에 통화 이유 및 통화 결과 기록](product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
@@ -1458,11 +1458,11 @@ ht-degree: 96%
             + [국제 전화](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [현지 전화](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [양 당사자 동의 설정](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
-         + 세일즈 이메일 보내기 {#send-a-sales-email}
+         + 세일즈 이메일 보내기
             + [이메일 추적 개요](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
-         + 작업 {#tasks}
+         + 작업
             + [Salesforce와 알림 작업 동기화](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
-         + 템플릿 {#templates}
+         + 템플릿
             + [하이퍼링크된 텍스트 추가](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [동적 필드](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
             + [필드 프롬프트](product-docs/marketo-sales-insight/actions/templates/field-prompts.md)
@@ -1478,9 +1478,9 @@ ht-degree: 96%
          + [Google Chrome용 Marketo Insights 사용](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [Google Mail에서 사용자 및 계정 정보 및 활동 보기](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + Microsoft Dynamics용 MSI {#msi-for-microsoft-dynamics}
-         + 기능 {#features}
+         + 기능
             + [기능 개요](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
-            + Marketo 탭 {#marketo-tab}
+            + Marketo 탭
                + [MSI 보기 설정](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/setting-up-msi-views.md)
                + [Best Bets](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/best-bets.md)
                + [이메일 활동](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
@@ -1517,7 +1517,7 @@ ht-degree: 96%
             + [프로필에 Sales Insight 액세스 추가](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
             + [Salesforce Classic에 일괄 작업 버튼 추가](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Salesforce Lightning의 일괄 작업](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
-         + 기능 {#features}
+         + 기능
             + [MSI 기능 개요](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Insights 대시보드 기능 개요](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + [Dynamic Chat 통합](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
@@ -1530,7 +1530,7 @@ ht-degree: 96%
                + [테스트 이메일 보내기](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + 언어 지원 {#language-support}
                + [Salesforce에서 다국어 지원을 위해 Sales Insight 준비](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
-            + Marketo 탭 {#marketo-tab}
+            + Marketo 탭
                + [Best Bets](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [리드 피드 사용](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + MSI 구성 탭 {#msi-configuration-tab}
@@ -1571,7 +1571,7 @@ ht-degree: 96%
    + Marketo Sky {#marketo-sky}
       + {hide-from-toc}[필요한 동작](product-docs/marketo-sky/expected-behavior.md)
    + 모바일 마케팅 {#mobile-marketing}
-      + 관리 {#admin}
+      + 관리
          + [모바일 앱 추가](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [LaunchPoint 서비스로 Vibes 추가](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
          + [모바일 액세스 보안 인증](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
@@ -1641,7 +1641,7 @@ ht-degree: 96%
       + [예측 콘텐츠 요약](product-docs/predictive-content/the-predictive-content-summary.md)
       + [예측 콘텐츠 활동에 대한 스마트 목록 정의](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
       + [예측 Content Analytics 개요](product-docs/predictive-content/predictive-content-analytics-overview.md)
-      + 시작하기 {#getting-started}
+      + 시작하기
          + [알고리즘 목표 설정](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [콘텐츠 패턴 만들기](product-docs/predictive-content/getting-started/create-content-patterns.md)
          + [Content-AI용 JavaScript 배포](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
@@ -1796,7 +1796,7 @@ ht-degree: 96%
          + [고급 BI 분석 개요](product-docs/reporting/advanced-bi-analytics/overview.md)
          + [지표 및 차원](product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
    + Target 계정 관리 {#target-account-management}
-      + 설정 {#setup}
+      + 설정
          + [Target 계정 관리 개요](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [TAM 시작하기](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [라이선스 발급](product-docs/target-account-management/setup-tam/issue-a-license.md)
@@ -1843,7 +1843,7 @@ ht-degree: 96%
          + [TAM을 통한 계정 기반 웹 마케팅](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [새 계정 목록 만들기](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [계정 목록을 사용하여 세그먼트 만들기](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
-      + 시작하기 {#getting-started}
+      + 시작하기
          + [계정 설정에서 하위 도메인 추가](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [지역 편집](product-docs/web-personalization/getting-started/edit-regions.md)
          + [로그인 및 사용자 관리](product-docs/web-personalization/getting-started/login-and-user-management.md)
@@ -1921,7 +1921,7 @@ ht-degree: 96%
    + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
    + {hide-from-toc}[Dynamic Chat 릴리스 TEMP](release-notes/dynamic-chat-temp.md)
    + [이전 릴리스](release-notes/previous-releases.md)
-   + {hide-from-toc}이전 릴리스 개 {#previous-releases}
+   + 이전 릴리스 {hide-from-toc}개 {#previous-releases}
       + 2026 {#2026}
          + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)
