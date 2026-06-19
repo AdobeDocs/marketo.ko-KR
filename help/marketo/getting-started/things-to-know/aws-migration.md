@@ -4,7 +4,7 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 1f54476f0f7d66f6250299464b3c1145b11e86b1
+source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
@@ -44,7 +44,7 @@ ht-degree: 3%
 
 아래 표를 검토하기 전에 [구독 데이터 센터 및 Pod/서버를 식별하는 방법을 알아보세요](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify).
 
-## 일정 {#schedule}
+## 예약 {#schedule}
 
 새 날짜 및 데이터 센터/pod 정보가 주기적으로 추가되므로 자세한 내용은 여기에서 다시 확인하십시오.
 
@@ -74,7 +74,7 @@ ht-degree: 3%
    <td>오후 5시(PST)<br>
    오후 6시(PST)</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## 추가할 IP 주소 {#ip-addresses}
@@ -99,9 +99,9 @@ ht-degree: 3%
 18.200.201.81<br>
 54.220.138.65</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## 업데이트 및 지원
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
