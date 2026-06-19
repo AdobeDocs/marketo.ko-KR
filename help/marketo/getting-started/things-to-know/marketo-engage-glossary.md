@@ -42,9 +42,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
 workflow-type: tm+mt
-source-wordcount: 6102
+source-wordcount: 6103
 ht-degree: 62%
 
 ---
@@ -331,7 +331,7 @@ ht-degree: 62%
     <div>
      <p><strong> 기본 프로그램</strong></p>
     </div></td>
-   <td colspan="1">Marketo의 프로그램 유형입니다. 이메일, 이벤트 또는 참여 프로그램이 관련성이 없는 경우 사용할 일반 프로그램. <br></td>
+   <td colspan="1">Marketo의 프로그램 유형입니다. 이메일, 이벤트 또는 참여 프로그램이 관련성이 없을 때 사용할 일반 프로그램. <br></td>
   </tr>
   <tr>
    <td colspan="1"><strong>전용 IP 주소</strong></td>
@@ -479,7 +479,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><strong>Experience Cloud 대상 동기화</strong></td>
-   <td colspan="1">Marketo Engage과 다른 Adobe Experience Cloud 애플리케이션(예: Adobe Experience Platform) 간의 대상 세그먼트를 동기화하여 Adobe 에코시스템 전반에서 일관된 대상 타깃팅을 활성화하는 기능입니다.</td>
+   <td colspan="1">Marketo Engage과 다른 Adobe Experience Cloud 애플리케이션(예: Adobe Experience Platform) 간에 대상 세그먼트를 동기화하여 Adobe 에코시스템 전반에서 일관된 대상 타깃팅을 활성화하는 기능입니다.</td>
   </tr>
  </tbody>
 </table>
