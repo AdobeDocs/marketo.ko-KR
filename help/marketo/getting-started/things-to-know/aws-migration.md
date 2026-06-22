@@ -93,7 +93,7 @@ ht-degree: 2%
    <td>오전 10시(태평양 표준시)<br>
    오전 11시(PDT)</td>
   </tr>
-  </body>
+  &lt;/body>
 </table>
 
 ## 추가할 IP 주소 {#ip-addresses}
@@ -118,7 +118,7 @@ ht-degree: 2%
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-</body>
+&lt;/body>
 </table>
 
 ## 업데이트 및 지원
