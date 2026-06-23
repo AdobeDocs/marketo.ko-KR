@@ -4,9 +4,9 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 51020c6772c6a81ef53f3a0effcf43cda01f85f4
+source-git-commit: 9c2784f06be42e5b65cd338a18b0d37a8fa48d9a
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '392'
 ht-degree: 2%
 
 ---
@@ -56,11 +56,6 @@ ht-degree: 2%
    <th style="width:30%">시간</th>
   </tr>
   <tr>
-   <td>2026년 6월 19일</td>
-   <td>AB46</td>
-   <td>연기됨</td>
-  </tr>
-  <tr>
    <td>2026년 7월 8일</td>
    <td>AB69<br>
    AB64</td>
@@ -73,6 +68,11 @@ ht-degree: 2%
    AB43</td>
    <td>오후 5시(태평양 표준시)<br>
    오후 6시(태평양 표준시)</td>
+  </tr>
+  <tr>
+   <td>2026년 7월 11일</td>
+   <td>AB46</td>
+   <td>오전 10시(태평양 표준시)</td>
   </tr>
   <tr>
    <td>2026년 7월 13일</td>
@@ -93,7 +93,7 @@ ht-degree: 2%
    <td>오전 10시(태평양 표준시)<br>
    오전 11시(PDT)</td>
   </tr>
-  &lt;/body>
+  </body>
 </table>
 
 ## 추가할 IP 주소 {#ip-addresses}
@@ -118,9 +118,9 @@ ht-degree: 2%
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-&lt;/body>
+</body>
 </table>
 
 ## 업데이트 및 지원
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
