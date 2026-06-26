@@ -28,9 +28,9 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: e8a199f7105f301b7328def28ea172da00285da9
 workflow-type: tm+mt
-source-wordcount: 1344
+source-wordcount: 1338
 ht-degree: 1%
 
 ---
@@ -234,15 +234,10 @@ ht-degree: 1%
 * 마케팅 자산 삭제
 * 캠페인 제한 편집
 * 마케팅 자산 편집
-* 캠페인 활동 내보내기&#42;
+* 캠페인 활동 내보내기
 * 프로그램 가져오기
 * 목록 가져오기
 * 배치 캠페인 예약
-
-SEO 액세스
-
-* SEO 관리
-* 표준 SEO
 
 ## 타깃팅 및 Personalization {#targeting-and-personalization}
 

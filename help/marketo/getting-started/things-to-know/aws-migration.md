@@ -4,10 +4,10 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
+source-git-commit: 9c2784f06be42e5b65cd338a18b0d37a8fa48d9a
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 3%
+source-wordcount: '392'
+ht-degree: 2%
 
 ---
 
@@ -56,51 +56,70 @@ ht-degree: 3%
    <th style="width:30%">시간</th>
   </tr>
   <tr>
-   <td>2026년 6월 19일</td>
-   <td>AB46</td>
-   <td>오후 5시(PST)</td>
-  </tr>
-  <tr>
    <td>2026년 7월 8일</td>
    <td>AB69<br>
    AB64</td>
-   <td>오후 5시(PST)<br>
-   오후 6시(PST)</td>
+   <td>오후 5시(태평양 표준시)<br>
+   오후 6시(태평양 표준시)</td>
   </tr>
   <tr>
    <td>2026년 7월 9일</td>
    <td>AB70<br>
    AB43</td>
-   <td>오후 5시(PST)<br>
-   오후 6시(PST)</td>
+   <td>오후 5시(태평양 표준시)<br>
+   오후 6시(태평양 표준시)</td>
+  </tr>
+  <tr>
+   <td>2026년 7월 11일</td>
+   <td>AB46</td>
+   <td>오전 10시(태평양 표준시)</td>
+  </tr>
+  <tr>
+   <td>2026년 7월 13일</td>
+   <td>NLD101</td>
+   <td>오전 10시(태평양 표준시)</td>
+  </tr>
+  <tr>
+   <td>2026년 7월 15일</td>
+   <td>NLD102<br>
+   NLD104</td>
+   <td>오전 10시(태평양 표준시)<br>
+   오전 11시(PDT)</td>
+  </tr>
+  <tr>
+   <td>2026년 7월 17일</td>
+   <td>NLD103<br>
+   NLD105</td>
+   <td>오전 10시(태평양 표준시)<br>
+   오전 11시(PDT)</td>
   </tr>
   &lt;/body>
-  </table>
+</table>
 
 ## 추가할 IP 주소 {#ip-addresses}
 
 데이터 센터를 기반으로 IT 부서와 협력하여 각 IP 주소를 추가합니다.
 
 <table>
- <tbody>
-  <tr>
-   <th style="width:25%">데이터 센터</th>
-   <th style="width:75%">IP 주소</th>
-  </tr>
-  <tr>
-   <td>AB</td>
-   <td>54.160.246.246<br>
-   54.237.141.197<br>
-   52.20.211.99</td>
-  </tr>
-  <tr>
-   <td>NLD</td>
-   <td>34.247.24.245<br>
+<tbody>
+<tr>
+  <th style="width:25%">데이터 센터</th>
+  <th style="width:75%">IP 주소</th>
+</tr>
+<tr>
+  <td>AB</td>
+  <td>54.160.246.246<br>
+  54.237.141.197<br>
+  52.20.211.99</td>
+</tr>
+<tr>
+  <td>NLD</td>
+  <td>34.247.24.245<br>
 18.200.201.81<br>
 54.220.138.65</td>
-  </tr>
-  &lt;/body>
-  </table>
+</tr>
+&lt;/body>
+</table>
 
 ## 업데이트 및 지원
 

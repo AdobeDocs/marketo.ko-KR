@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: b0f4d348a51b5f3c0f0ec79d3467810c83aa4231
+source-git-commit: 39fef7edc7c475efd901a75235ccf7b25f789793
 workflow-type: tm+mt
-source-wordcount: '8896'
+source-wordcount: '8898'
 ht-degree: 96%
 
 ---
@@ -502,12 +502,12 @@ ht-degree: 96%
                + [3단계 중 1단계: Marketo 솔루션 설치 - 2015 온프레미스 / 2016 Dynamics 365 온프레미스](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [3단계 중 2단계: Dynamics 2015 온프레미스 / 2016 Dynamics 365 온프레미스에서 Marketo 동기화 사용자 설정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [3단계 중 3단계: Marketo와 Dynamics 2015 온프레미스 / 2016 Dynamics 365 온프레미스 연결](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
-            + ROPC 연결을 사용하는 Microsoft Dynamics 365{#microsoft-dynamics-365-with-ropc-connection}
+            + ROPC 연결을 사용하는 Microsoft Dynamics 365 {#microsoft-dynamics-365-with-ropc-connection}
                + [4단계 중 1단계: ROPC 연결을 사용하여 Marketo 솔루션 설치](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
                + [4단계 중 2단계: ROPC 연결을 사용하여 Marketo 솔루션 설정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
                + [4단계 중 3단계: MS Dynamics에서 클라이언트 앱 설정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
                + [4단계 중 4단계: ROPC 연결을 사용하여 Marketo 솔루션 연결](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
-            + S2S 연결을 사용하는 Microsoft Dynamics 365{#microsoft-dynamics-365-with-s2s-connection}
+            + S2S 연결을 사용하는 Microsoft Dynamics 365 {#microsoft-dynamics-365-with-s2s-connection}
                + [3단계 중 1단계: S2S 연결을 사용하여 Marketo 솔루션 설치](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
                + [3단계 중 2단계: S2S 연결을 사용하여 Marketo 솔루션 설정](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
                + [3단계 중 3단계: S2S 연결을 사용하여 Marketo 솔루션 연결](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
@@ -1110,7 +1110,7 @@ ht-degree: 96%
    + Marketo AI {#marketo-ai}
       + [개요](product-docs/marketo-ai/overview.md)
       + [설정 및 설정](product-docs/marketo-ai/settings-setup.md)
-      + {hide-from-toc}[설정 및 설정](product-docs/marketo-ai/settings-setup-old.md)
+      + {hide-from-toc}[Marketo AI 데이터 정보 시트](product-docs/marketo-ai/data-information.md)
       + 스킬 {#skills}
          + [제품 지식](product-docs/marketo-ai/skills/product-knowledge.md)
          + {hide-from-toc}[표면 인사이트](product-docs/marketo-ai/skills/surface-insights.md)
@@ -1286,7 +1286,7 @@ ht-degree: 96%
       + 사용자 {#people}
          + [사용자 세부 정보 보기](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect 및 GDPR 규정 준수](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
-         + 연락처 관리 {#manging-contacts}
+         + 연락처 관리 {#managing-contacts}
             + [사용자에 대한 일괄 작업](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
             + [연락처 생성 및 삭제](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [그룹 유형](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)

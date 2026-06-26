@@ -3,7 +3,7 @@ description: 복제 프로그램은 기존 Marketo 프로그램을 새 이름의
 title: 프로그램 복제
 badge: Beta
 hide: true
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 1. Marketo AI가 소스 프로그램, 대상 폴더 및 새 이름을 확인합니다. 검토 및 확인합니다.
 1. 클론이 생성됩니다. Marketo AI는 작업이 완료되면 확인하고 찾을 위치를 알려줍니다.
 1. Marketo에서 새 프로그램을 열고 이메일 콘텐츠, 날짜, 대상 필터, 토큰 등의 차이점을 업데이트합니다.
-1. 활성화하기 전에 [프로그램 QA](/help/marketo/product-docs/marketo-ai/skills/program-qa.md) 에이전트를 실행하십시오.
+1. 활성화하기 전에 [프로그램 QA](/help/marketo/product-docs/marketo-ai/skills/validate-programs.md) 에이전트를 실행하십시오.
 
 ## 사용 사례 {#use-cases}
 
