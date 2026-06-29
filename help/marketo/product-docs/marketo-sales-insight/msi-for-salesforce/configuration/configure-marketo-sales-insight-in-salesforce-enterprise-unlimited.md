@@ -12,9 +12,9 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 822
+source-wordcount: 853
 ht-degree: 2%
 
 ---
@@ -104,6 +104,10 @@ ht-degree: 2%
    >_사용자_&#x200B;이(가) **[!UICONTROL Remote Site Name]**&#x200B;을(를) 선택합니다(`MarketoAPI`은(는) 여기에서 사용). **[!UICONTROL Remote Site URL]**&#x200B;은(는) &quot;Marketo에서 판매 Insight 구성&quot; 섹션의 3단계에서 API 구성 편집 대화 상자의 Marketo 호스트 필드에 찾을 수 있습니다.
 
 ## 표준 Salesforce 개체에 대한 Sales Insight 사용자 프로필 액세스 권한 부여 {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>MSI의 모든 기능을 사용하려면 표준 Salesforce 라이선스가 필요합니다. Salesforce Platform 라이선스(제한된 라이선스 클래스)가 있는 사용자에게 특정 작업을 수행하거나 일부 탭에 액세스하는 동안 오류가 표시될 수 있습니다.
 
 Salesforce 보안 향상으로 인해 AppExchange 패키지는 더 이상 표준 오브젝트에 대한 권한을 부여할 수 없으며, Salesforce 사용자의 프로필에서 관련 Salesforce 오브젝트에 대한 액세스 권한을 부여해야 합니다. 필요한 권한을 부여하려면 다음 단계를 따르십시오.
 

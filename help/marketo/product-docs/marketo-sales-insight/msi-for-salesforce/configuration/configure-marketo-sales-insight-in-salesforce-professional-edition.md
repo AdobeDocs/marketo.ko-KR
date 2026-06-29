@@ -12,9 +12,9 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 688
+source-wordcount: 719
 ht-degree: 3%
 
 ---
@@ -86,6 +86,10 @@ ht-degree: 3%
 1. 원격 사이트 이름을 입력합니다(&quot;MarketoRestAPI&quot;와 같은 것일 수 있음). Marketo의 Rest API 구성 패널에서 API URL인 원격 사이트 URL을 입력합니다. **[!UICONTROL Save]**&#x200B;를 클릭합니다. 이제 Rest API에 대한 원격 사이트 설정을 만들었습니다.
 
 ## 표준 Salesforce 개체에 대한 Sales Insight 사용자 프로필 액세스 권한 부여 {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>MSI의 모든 기능을 사용하려면 표준 Salesforce 라이선스가 필요합니다. Salesforce Platform 라이선스(제한된 라이선스 클래스)가 있는 사용자에게 특정 작업을 수행하거나 일부 탭에 액세스하는 동안 오류가 표시될 수 있습니다.
 
 Salesforce 보안 향상으로 인해 AppExchange 패키지는 더 이상 표준 오브젝트에 대한 권한을 부여할 수 없으며, Salesforce 사용자의 프로필에서 관련 Salesforce 오브젝트에 대한 액세스 권한을 부여해야 합니다. 다음 단계에 따라 필요한 권한을 부여합니다.
 

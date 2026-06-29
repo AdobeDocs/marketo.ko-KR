@@ -10,10 +10,10 @@ feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 348
-ht-degree: 3%
+source-wordcount: 379
+ht-degree: 2%
 
 ---
 
@@ -27,7 +27,9 @@ ht-degree: 3%
 
 >[!IMPORTANT]
 >
->이전에 모든 프로필에 [!DNL Sales Insight] 액세스 권한을 부여했거나 모든 사용자에 대해 [!DNL Sales Insight]을(를) 구현한 경우 이 권한 집합을 사용하려면 [프로필 수준 액세스 권한을 제거](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}해야 합니다.
+>* 이전에 모든 프로필에 [!DNL Sales Insight] 액세스 권한을 부여했거나 모든 사용자에 대해 [!DNL Sales Insight]을(를) 구현한 경우 이 권한 집합을 사용하려면 [프로필 수준 액세스 권한을 제거](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}해야 합니다.
+>
+>* MSI의 모든 기능을 사용하려면 표준 Salesforce 라이선스가 필요합니다. Salesforce Platform 라이선스(제한된 라이선스 클래스)가 있는 사용자에게 특정 작업을 수행하거나 일부 탭에 액세스하는 동안 오류가 표시될 수 있습니다.
 
 ## 개요 {#overview}
 

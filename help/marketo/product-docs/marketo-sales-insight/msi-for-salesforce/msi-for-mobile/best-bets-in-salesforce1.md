@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 84
+source-wordcount: 94
 ht-degree: 4%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 4%
 # [!DNL Salesforce1]의 [!DNL Best Bets] {#best-bets-in-salesforce}
 
 [[!DNL Best Bets]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)은(는) 가장 긴급도가 높고 상대 점수가 높은 잠재 고객 및 연락처입니다. 소유한 리드만 해당 목록에 표시되며, 리드 점수가 변경되면 목록이 업데이트됩니다.
+
+>[!AVAILABILITY]
+>
+>Salesforce Platform 라이선스에서는 최상의 베팅을 사용할 수 없습니다.
 
 1. [!DNL Salesforce] 앱의 Marketo 영역으로 이동합니다.
 
