@@ -1,11 +1,11 @@
 ---
 description: 릴리스 노트 - 2026년 3월 - Marketo 문서 - 제품 설명서
-title: 릴리스 노트 - 2026년 2월
+title: 릴리스 노트 - 2026년 3월
 feature: Release Information
-source-git-commit: 713ab854749cb88a35b24f4355368092cdb35e64
+source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 21%
+source-wordcount: '533'
+ht-degree: 18%
 
 ---
 
@@ -37,8 +37,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>이메일 Designer - 조각에서 편집 가능한 HTML 구성 요소</strong>: 시각적 조각 내에서 편집 가능한 필드는 구성 요소 속성 패널을 통해 이미지, 텍스트 및 단추 구성 요소에서 지원됩니다. HTML 구성 요소의 경우 편집 가능한 필드는 HTML 구성 요소 자체의 소스 코드 내에 변수 기반 구문을 사용하여 다르게 구성됩니다.
-   </td>
+   <td><strong>이메일 Designer - 조각에서 편집 가능한 HTML 구성 요소</strong>: 시각적 조각 내에서 편집 가능한 필드는 구성 요소 속성 패널을 통해 이미지, 텍스트 및 단추 구성 요소에서 지원됩니다. HTML 구성 요소의 경우 편집 가능한 필드는 HTML 구성 요소 자체의 소스 코드 내에 변수 기반 구문을 사용하여 다르게 구성됩니다.</td>
    <td>릴리스됨</i></td>
    <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">조각에서 편집 가능한 HTML 구성 요소</a></td>
   </tr>
@@ -48,8 +47,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>이메일 Designer - 빠른 작업</strong>: <i>이전 이메일 편집기와 동일</i>. 이제 모든 이메일 Designer 에셋(이메일, 이메일 템플릿, 조각)에 대해 빠른 작업을 사용할 수 있습니다. 지원되는 빠른 작업에는 복제, 삭제, 이동, 초안 생성/편집 등이 있습니다.
-   </td>
+   <td><strong>이메일 Designer - 빠른 작업</strong>: <i>이전 이메일 편집기와 동일</i>. 이제 모든 이메일 Designer 에셋(이메일, 이메일 템플릿, 조각)에 대해 빠른 작업을 사용할 수 있습니다. 지원되는 빠른 작업에는 복제, 삭제, 이동, 초안 생성/편집 등이 있습니다.</td>
    <td>릴리스됨</i></td>
    <td>해당 사항 없음</td>
   </tr>
@@ -59,8 +57,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
    <tr>
-   <td><strong>전자 메일 Designer - Outlook 렌더링 수정 사항</strong>: 이 업데이트는 특히 MS Outlook의 렌더링 문제를 수정합니다. 고급 HTML 모드에서는 HTML/CSS를 약간 편집하거나 이메일 템플릿에 스크립트 태그를 추가할 수 있습니다.
-   </td>
+   <td><strong>전자 메일 Designer - Outlook 렌더링 수정 사항</strong>: 이 업데이트는 특히 MS Outlook의 렌더링 문제를 수정합니다. 고급 HTML 모드에서는 HTML/CSS를 약간 편집하거나 이메일 템플릿에 스크립트 태그를 추가할 수 있습니다.</td>
    <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">고급 HTML 편집기를 사용하여 이메일 템플릿 편집</a></td>
   </tr>
