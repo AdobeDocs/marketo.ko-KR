@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: f5f3d0cf1068c09308388dd1455666d5ac3555b6
 workflow-type: tm+mt
-source-wordcount: '8902'
+source-wordcount: '8906'
 ht-degree: 96%
 
 ---
@@ -1011,6 +1011,7 @@ ht-degree: 96%
          + [이메일 공동 작업](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [이메일 Designer용 AI 지원](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [SpamAssassin으로 이메일 스팸 신고](product-docs/email-marketing/email-designer/spam-report.md)
+         + {hide-from-toc}[CNIL 추적 지침 열기](product-docs/email-marketing/email-designer/cnil-guidance.md)
       + 이메일 프로그램 {#email-programs}
          + 이메일 프로그램 만들기 {#creating-an-email-program}
             + [이메일 프로그램 만들기](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
@@ -1921,7 +1922,7 @@ ht-degree: 96%
    + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
    + {hide-from-toc}[Dynamic Chat 릴리스 TEMP](release-notes/dynamic-chat-temp.md)
    + [이전 릴리스](release-notes/previous-releases.md)
-   + {hide-from-toc}이전 릴리스 개 {#previous-releases}
+   + 이전 릴리스 {hide-from-toc}개 {#previous-releases}
       + 2026 {#2026}
          + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)
