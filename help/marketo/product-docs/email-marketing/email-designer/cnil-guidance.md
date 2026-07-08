@@ -6,9 +6,9 @@ description: 사용자 정의 부울 필드를 사용하여 각 사용자의 동
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-source-git-commit: 070a7cc09b8e428a8282cab15e3ad236ecf70ef0
+source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -63,13 +63,13 @@ CNIL 지침(커뮤니티 링크)에 따라 이메일 열기(픽셀) 추적에 �
 
 ## 4단계: 스마트 캠페인 구성 {#smart-campaign}
 
-[스마트 캠페인을 만들기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}하여 각 사용자가 받는 전자 메일을 확인합니다.
+[스마트 캠페인을 만들기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}하여 각 사용자가 받는 전자 메일을 확인합니다.
 
 1. Smart Campaign의 _흐름_ 탭에서 **전자 메일 보내기** 흐름 단계를 삽입합니다.
 
    ![](assets/cnil-8.png){width="800" zoomable="yes"}
 
-1. 흐름 단계에서 **선택 항목 추가**&#x200B;를 클릭합니다. 선택 항목 1에서 **if**&#x200B;을(를) _EmailPixelTracking_(으)로 설정하고 연산자를 _is_(으)로 설정하고 값을 _false_(으)로 설정합니다. **이메일**&#x200B;에 대해 _이메일 2_&#x200B;을(를) 선택하십시오.
+1. 흐름 단계에서 **선택 항목 추가**&#x200B;를 클릭합니다. 선택 항목 1에서 **if**&#x200B;을(를) _전자 메일 픽셀 추적_(으)로 설정하고, 연산자를 _is_(으)로 설정하고, 값을 _false_(으)로 설정하십시오. **이메일**&#x200B;에 대해 _이메일 2_&#x200B;을(를) 선택하십시오.
 
 1. 기본 설정에서 **전자 메일**&#x200B;을(를) _전자 메일 1_(으)로 설정합니다.
 
