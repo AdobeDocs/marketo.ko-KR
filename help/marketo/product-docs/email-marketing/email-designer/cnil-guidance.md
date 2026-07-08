@@ -1,21 +1,20 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: CNIL 지침 준수 - 조건부 이메일 열기 추적
+title: CNIL 지침 - 조건부 이메일 열기 추적
 description: 사용자 정의 부울 필드를 사용하여 각 사용자의 동의 상태에 따라 이메일 열기 추적을 라우팅하여 CNIL 준수를 위한 Marketo Engage을 구성하는 방법에 대해 알아봅니다.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
+source-git-commit: b8d1872fc697e42a82675a2b45ce01f21bb83edd
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
 
-# CNIL 지침 준수: 조건부 이메일 열기 추적 {#cnil}
+# CNIL 지침: 조건부 이메일 열기 추적 {#cnil}
 
-CNIL 지침(커뮤니티 링크)에 따라 이메일 열기(픽셀) 추적에 대한 최종 사용자 동의를 준수하도록 Marketo Engage을 구성하는 방법을 알아봅니다. 이 접근 방법에서는 사용자 지정 부울 필드를 사용하여 개인이 받는 이메일 변형, 즉 공개 추적이 활성화된 이메일 변형 또는 비활성화된 이메일 변형을 확인합니다.
+[CNIL 지침](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632?profile.language=ko){target="_blank"}에 따라 이메일 열기(픽셀) 추적에 대한 최종 사용자 동의를 준수하도록 Marketo Engage을 구성하는 방법을 알아봅니다. 이 접근 방법에서는 사용자 지정 부울 필드를 사용하여 개인이 받는 이메일 변형, 즉 공개 추적이 활성화된 이메일 변형 또는 비활성화된 이메일 변형을 확인합니다.
 
 ## 1단계: 사용자 지정 부울 필드 만들기 {#custom-field}
 
