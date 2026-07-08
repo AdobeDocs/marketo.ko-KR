@@ -6,10 +6,10 @@ description: 사용자 정의 부울 필드를 사용하여 각 사용자의 동
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-source-git-commit: f5f3d0cf1068c09308388dd1455666d5ac3555b6
+source-git-commit: 070a7cc09b8e428a8282cab15e3ad236ecf70ef0
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 1%
+source-wordcount: '419'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ CNIL 지침(커뮤니티 링크)에 따라 이메일 열기(픽셀) 추적에 �
 
 ## 2단계: 동의 필드 채우기 {#populate}
 
-1. 데이터 가져오기(API 동기화 또는 CSV 업로드)를 통해 각 사용자에 대한 EmailPixelTracking 필드 값을 설정합니다.
+1. 데이터 가져오기(API 동기화 또는 [CSV 업로드](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"})를 통해 각 사용자에 대한 이메일 픽셀 추적 필드 값을 설정하십시오.
 
    ![](assets/cnil-3.png)
 
@@ -51,7 +51,7 @@ CNIL 지침(커뮤니티 링크)에 따라 이메일 열기(픽셀) 추적에 �
 
   ![](assets/cnil-5.png)
 
-이메일 Designer에서 **열린 추적 사용 안 함** 확인란은 이메일 오른쪽에 있는 _요약_ 창의 _세부 정보_ 탭에서 찾을 수 있습니다. 기존 전자 메일 편집기에서 **열린 추적 사용 안 함** 확인란은 _설정 편집_ 메뉴에서 찾을 수 있습니다.
+이메일 Designer에서 **열린 추적 사용 안 함** 확인란은 이메일 오른쪽에 있는 _요약_ 창의 _세부 정보_ 탭에서 찾을 수 있습니다. 기존 전자 메일 편집기에서 **열린 추적 사용 안 함** 확인란은 _전자 메일 설정_ 메뉴에서 찾을 수 있습니다.
 
 **이메일 디자이너**
 
@@ -63,7 +63,7 @@ CNIL 지침(커뮤니티 링크)에 따라 이메일 열기(픽셀) 추적에 �
 
 ## 4단계: 스마트 캠페인 구성 {#smart-campaign}
 
-각 사용자가 받는 이메일을 결정하는 스마트 캠페인을 만듭니다.
+[스마트 캠페인을 만들기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}하여 각 사용자가 받는 전자 메일을 확인합니다.
 
 1. Smart Campaign의 _흐름_ 탭에서 **전자 메일 보내기** 흐름 단계를 삽입합니다.
 
