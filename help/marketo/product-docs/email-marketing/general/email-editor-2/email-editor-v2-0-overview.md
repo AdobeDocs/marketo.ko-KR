@@ -5,14 +5,12 @@ title: 이메일 편집기 v2.0 개요
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: 5935e1cef334c7c5fd40864dd2a677b4cb9d46d4
 workflow-type: tm+mt
-source-wordcount: 429
-ht-degree: 78%
+source-wordcount: 453
+ht-degree: 70%
 
 ---
 
@@ -24,31 +22,31 @@ ht-degree: 78%
 >
 >정확한 날짜는 없지만 클래식 전자 메일 편집기는 더 이상 사용되지 않습니다(날짜가 있으면 정확하게 알려드리겠습니다). 고급 [이메일 Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}은(는) 클래식 편집기에서 사용할 수 없는 많은 기능을 포함하고 있으므로 채택을 시작하는 것이 좋습니다.
 
-**이메일 템플릿 선택기**
+## 이메일 템플릿 선택기 {#email-template-picker}
 
 새 전자 메일을 만들면 [전자 메일 템플릿 선택기](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)(으)로 이동됩니다.
 
 ![](assets/email-editor-v2-overview-1.png)
 
-**이메일 편집기**
+## 이메일 편집기 {#email-editor}
 
 이메일 편집을 시작하면 편집기가 완전히 새로운 모양이 된 것을 알 수 있습니다.
 
 ![](assets/email-editor-v2-overview-2.png)
 
-**모듈**
+### 모듈 {#modules}
 
 편집기의 오른쪽에 있는 이러한 항목을 모듈이라고 합니다. [이메일에 모듈을 추가](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)하는 방법을 알아보십시오.
 
 ![](assets/email-editor-v2-overview-3.png)
 
-**텍스트 버전**
+### 텍스트 버전 {#text-version}
 
 이메일의 HTML 버전과 텍스트 버전 전환에는 맨 아래에 있는 편리한 탭을 사용합니다. [이메일의 텍스트 버전을 편집](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)하는 방법을 알아보십시오.
 
 ![](assets/email-editor-v2-overview-4.png)
 
-**이메일 헤더**
+### 이메일 헤더 {#email-header}
 
 디자인 공간이 더 필요하십니까? 전자 메일 머리글은 [편집](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)을 마친 후에 숨길 수 있습니다. 이 아이콘을 클릭하면...
 
@@ -58,7 +56,7 @@ ht-degree: 78%
 
 ![](assets/email-editor-v2-overview-6.png)
 
-**이메일 미리보기**
+### 이메일 미리 보기 {#preview-your-email}
 
 기본적으로 이메일은 강조 표시된 파란색 아이콘처럼 데스크탑에서 보이는 모양대로 표시됩니다. 오른쪽에 있는 아이콘을 클릭하면...
 
@@ -80,7 +78,7 @@ ht-degree: 78%
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**[!UICONTROL Email Actions]**
+## 이메일 작업 {#email-actions}
 
 **[!UICONTROL Email Actions]**&#x200B;에서 몇 가지 새로운 기능을 확인할 수 있습니다. **[!UICONTROL Upload an Image or File]** 및 **[!UICONTROL Grab Images from Web]**. 이메일 자체를 새 이메일 템플릿으로 저장할 수도 있습니다. 이름과 대상을 지정하기만 하면 됩니다.
 
@@ -94,11 +92,17 @@ ht-degree: 78%
 >
 >**[[!UICONTROL Grab Images from Web]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**&#x200B;은 [!UICONTROL Design Studio]에서와 동일하게 작동합니다.
 
-필요한 경우 **[!UICONTROL Disable Open Tracking]** **[!UICONTROL Edit Settings]**&#x200B;에서 공개 추적을 비활성화할 수 있습니다.
+## 이메일 설정 {#email-settings}
+
+이메일을 사용자 지정할 수 있는 다양한 추가 설정 중에서 선택합니다.
+
+### 열린 추적 비활성화
+
+**[!UICONTROL Edit Settings]**&#x200B;에서 필요한 경우 공개 추적을 비활성화할 수 있습니다.
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**[!UICONTROL Edit Settings]**
+### 프리 헤더 추가 {#add-a-preheader}
 
 [!UICONTROL Preheader]를 추가할 수 있습니다. [!UICONTROL Preheader]는 받은 편지함에서 이메일을 볼 때 제목 줄 뒤에 있는 짧은 요약 텍스트입니다.
 

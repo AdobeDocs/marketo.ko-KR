@@ -4,7 +4,7 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 9c2784f06be42e5b65cd338a18b0d37a8fa48d9a
+source-git-commit: de84d9a26dea78022a1d4ca79baa8e2f445ee2a9
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 2%
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 마이그레이션하기 약 30일 전에 이메일과 인앱 알림을 받게 됩니다. 이 안내서를 사용하여 준비하십시오.
 
-## 권장 작업
+## 권장 작업 {#actions}
 
 마이그레이션 기간 동안 모든 Marketo Engage 서비스를 사용할 수 없습니다. 비즈니스에 미치는 영향을 최소화하기 위해 다음 단계를 수행하는 것이 좋습니다.
 
@@ -33,7 +33,7 @@ ht-degree: 2%
 
 * **새 IP 주소를 추가**&#x200B;하고 현재 IP를 그대로 유지합니다. 아래 [표](#ip-addresses)을 통해 추가할 IP 주소를 참조하세요.
 
-## 예상되는 서비스 영향
+## 예상되는 서비스 영향 {#impacts}
 
 아래 영향은 귀하에게 어떠한 조치도 필요하지 않습니다.
 
@@ -93,7 +93,7 @@ ht-degree: 2%
    <td>오전 10시(태평양 표준시)<br>
    오전 11시(PDT)</td>
   </tr>
-  &lt;/body>
+  </body>
 </table>
 
 ## 추가할 IP 주소 {#ip-addresses}
@@ -118,9 +118,9 @@ ht-degree: 2%
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-&lt;/body>
+</body>
 </table>
 
-## 업데이트 및 지원
+## 업데이트 및 지원 {#support}
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
