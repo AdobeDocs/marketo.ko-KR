@@ -63,7 +63,7 @@ CNIL 지침(커뮤니티 링크)에 따라 이메일 열기(픽셀) 추적에 �
 
 ## 4단계: 스마트 캠페인 구성 {#smart-campaign}
 
-[스마트 캠페인을 만들기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}하여 각 사용자가 받는 전자 메일을 확인합니다.
+[스마트 캠페인을 만들기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}하여 각 사용자가 받는 전자 메일을 확인합니다.
 
 1. Smart Campaign의 _흐름_ 탭에서 **전자 메일 보내기** 흐름 단계를 삽입합니다.
 
