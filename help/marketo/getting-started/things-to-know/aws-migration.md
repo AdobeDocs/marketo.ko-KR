@@ -4,9 +4,9 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: de84d9a26dea78022a1d4ca79baa8e2f445ee2a9
+source-git-commit: 94b7cd136325e2c6cb63b8bbf9ae2ee0aeb028b7
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '432'
 ht-degree: 2%
 
 ---
@@ -93,6 +93,31 @@ ht-degree: 2%
    <td>오전 10시(태평양 표준시)<br>
    오전 11시(PDT)</td>
   </tr>
+  <tr>
+   <td>2026년 7월 21일</td>
+   <td>AB54<br>
+   AB56</td>
+   <td>오후 5시(태평양 표준시)<br>
+   오후 6시(태평양 표준시)</td>
+  </tr>
+  <tr>
+   <td>2026년 7월 23일</td>
+   <td>AB48</td>
+   <td>오후 5시(태평양 표준시)</td>
+  </tr>
+  <tr>
+   <td>2026년 8월 12일</td>
+   <td>AB61<br>
+   AB17</td>
+   <td>오후 3시(태평양 표준시)<br>
+   오후 4시(태평양 표준시)</td>
+  </tr>
+  <td>2026년 8월 13일</td>
+   <td>AB62<br>
+   AB68</td>
+   <td>오후 3시(태평양 표준시)<br>
+   오후 4시(태평양 표준시)</td>
+  </tr>
   </body>
 </table>
 
@@ -123,4 +148,4 @@ ht-degree: 2%
 
 ## 업데이트 및 지원 {#support}
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
