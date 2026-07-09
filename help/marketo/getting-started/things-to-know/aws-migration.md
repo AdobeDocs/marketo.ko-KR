@@ -4,9 +4,9 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: de84d9a26dea78022a1d4ca79baa8e2f445ee2a9
+source-git-commit: 94b7cd136325e2c6cb63b8bbf9ae2ee0aeb028b7
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '432'
 ht-degree: 2%
 
 ---
@@ -92,6 +92,31 @@ ht-degree: 2%
    NLD105</td>
    <td>오전 10시(태평양 표준시)<br>
    오전 11시(PDT)</td>
+  </tr>
+  <tr>
+   <td>2026년 7월 21일</td>
+   <td>AB54<br>
+   AB56</td>
+   <td>오후 5시(태평양 표준시)<br>
+   오후 6시(태평양 표준시)</td>
+  </tr>
+  <tr>
+   <td>2026년 7월 23일</td>
+   <td>AB48</td>
+   <td>오후 5시(태평양 표준시)</td>
+  </tr>
+  <tr>
+   <td>2026년 8월 12일</td>
+   <td>AB61<br>
+   AB17</td>
+   <td>오후 3시(태평양 표준시)<br>
+   오후 4시(태평양 표준시)</td>
+  </tr>
+  <td>2026년 8월 13일</td>
+   <td>AB62<br>
+   AB68</td>
+   <td>오후 3시(태평양 표준시)<br>
+   오후 4시(태평양 표준시)</td>
   </tr>
   </body>
 </table>
