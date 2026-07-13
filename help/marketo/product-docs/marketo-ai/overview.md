@@ -3,20 +3,20 @@ description: 프로그램 QA, 리드 가져오기, 데이터 표준화 등과 �
 title: Marketo AI 개요
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
+source-git-commit: f500c305c3e5c1331e9bb34c01cfec5974cf329e
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '379'
 ht-degree: 1%
 
 ---
 
 # Marketo AI 개요 {#overview}
 
-Marketo AI는 시간이 많이 소요되지만 중요한 마케팅 기능을 자동화하도록 설계된 에이전트를 제공합니다.
+Marketo AI는 시간이 많이 소요되지만 중요한 마케팅 기능을 자동화하기 위해 설계된 에이전트 기술을 제공합니다.
 
 >[!AVAILABILITY]
 >
->이 기능은 현재 오픈 베타에 있습니다. 액세스 권한을 요청하려면 계정 관리자에게 문의하십시오. [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에도 동의해야 합니다.
+>이 기능은 현재 오픈 베타에 있습니다. 액세스 권한을 요청하려면 계정 관리자에게 문의하십시오. [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에도 동의해야 합니다. Marketo AI는 현재 영어에만 최적화되어 있습니다.
 
 >[!IMPORTANT]
 >
