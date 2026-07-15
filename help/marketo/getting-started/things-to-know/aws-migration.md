@@ -4,10 +4,10 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 7f91d1423f25ba0e1572673cbd55099b0000cb03
+source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 2%
+source-wordcount: '459'
+ht-degree: 6%
 
 ---
 
@@ -51,9 +51,10 @@ ht-degree: 2%
 <table>
  <tbody>
   <tr>
-   <th style="width:50%">날짜</th>
-   <th style="width:20%">데이터 센터/Pod</th>
-   <th style="width:30%">시간</th>
+   <th style="width:25%">날짜</th>
+   <th style="width:25%">데이터 센터/Pod</th>
+   <th style="width:25%">시간</th>
+   <th style="width:25%">상태</th>
   </tr>
   <tr>
    <td>2026년 7월 8일</td>
@@ -61,21 +62,26 @@ ht-degree: 2%
    AB64</td>
    <td>오후 5시(태평양 표준시)<br>
    오후 6시(태평양 표준시)</td>
+   <td>완료<br>
+   완료됨</td>
   </tr>
   <tr>
    <td>2026년 7월 9일</td>
    <td>AB70</td>
    <td>오후 5시(태평양 표준시)</td>
+   <td>완료</td>
   </tr>
   <tr>
    <td>2026년 7월 11일</td>
    <td>AB46</td>
    <td>오전 10시(태평양 표준시)</td>
+   <td>완료</td>
   </tr>
   <tr>
    <td>2026년 7월 13일</td>
    <td>NLD101</td>
    <td>오전 10시(태평양 표준시)</td>
+   <td>완료</td>
   </tr>
   <tr>
    <td>2026년 7월 15일</td>
@@ -83,6 +89,8 @@ ht-degree: 2%
    NLD104</td>
    <td>오전 10시(태평양 표준시)<br>
    오전 11시(PDT)</td>
+   <td>일정대로 진행 중<br>
+   일정에 따라</td>
   </tr>
   <tr>
    <td>2026년 7월 17일</td>
@@ -90,6 +98,8 @@ ht-degree: 2%
    NLD105</td>
    <td>오전 10시(태평양 표준시)<br>
    오전 11시(PDT)</td>
+   <td>일정대로 진행 중<br>
+   일정에 따라</td>
   </tr>
   <tr>
    <td>2026년 7월 21일</td>
@@ -97,16 +107,20 @@ ht-degree: 2%
    AB56</td>
    <td>오후 5시(태평양 표준시)<br>
    오후 6시(태평양 표준시)</td>
+   <td>일정대로 진행 중<br>
+   일정에 따라</td>
   </tr>
   <tr>
    <td>2026년 7월 23일</td>
    <td>AB48</td>
    <td>오후 5시(태평양 표준시)</td>
+   <td>일정대로 진행 중</td>
   </tr>
   <tr>
    <td>2026년 7월 31일</td>
    <td>AB43</td>
    <td>오후 3시(태평양 표준시)</td>
+   <td>일정대로 진행 중</td>
   </tr>
   <tr>
    <td>2026년 8월 12일</td>
@@ -114,10 +128,13 @@ ht-degree: 2%
    AB17</td>
    <td>오후 3시(태평양 표준시)<br>
    오후 4시(태평양 표준시)</td>
+   <td>일정대로 진행 중<br>
+   일정에 따라</td>
   </tr>
   <td>2026년 8월 13일</td>
    <td>AB68</td>
    <td>오후 4시(태평양 표준시)</td>
+   <td>일정대로 진행 중</td>
   </tr>
   </body>
 </table>
@@ -149,4 +166,4 @@ ht-degree: 2%
 
 ## 업데이트 및 지원 {#support}
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
