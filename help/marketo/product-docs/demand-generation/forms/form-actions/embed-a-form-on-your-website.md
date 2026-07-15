@@ -53,4 +53,4 @@ ht-degree: 7%
 
    >[!TIP]
    >
-   >개발자가 디자인을 사용자 지정하거나 고급 API 함수에 액세스하려면 [Forms 2.0 개발자 페이지](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)를 표시하십시오.
+   >개발자가 디자인을 사용자 지정하거나 고급 API 함수에 액세스하려면 [Forms 2.0 개발자 페이지](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)를 표시하십시오.
