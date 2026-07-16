@@ -4,9 +4,9 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
+source-git-commit: 42d19e88f8c9b77f5e2524701f2cced40eccaf86
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '457'
 ht-degree: 6%
 
 ---
@@ -89,8 +89,8 @@ ht-degree: 6%
    NLD104</td>
    <td>오전 10시(태평양 표준시)<br>
    오전 11시(PDT)</td>
-   <td>일정대로 진행 중<br>
-   일정에 따라</td>
+   <td>완료<br>
+   완료됨</td>
   </tr>
   <tr>
    <td>2026년 7월 17일</td>
@@ -166,4 +166,4 @@ ht-degree: 6%
 
 ## 업데이트 및 지원 {#support}
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
