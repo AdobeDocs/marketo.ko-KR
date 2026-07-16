@@ -1,38 +1,13 @@
 ---
-title: "2015"
+title: 2015
 description: 2015년 - Marketo 문서 - 제품 설명서
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: c954475c-8548-4e33-a0b8-6b550d956115
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c18d9e03-ac7d-4811-9c92-3e92ddc70ade
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: c954475c-8548-4e33-a0b8-6b550d956115id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: df8eb12b-4f82-491f-acbb-d74012ca5654id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c18d9e03-ac7d-4811-9c92-3e92ddc70adeid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2862
+source-wordcount: 2865
 ht-degree: 1%
 
 ---
@@ -60,7 +35,7 @@ ht-degree: 1%
 * 프로그램 ID로 리드 가져오기
 * 삭제된 리드 가져오기
 
-또한 더 빠른 API 호출을 위해 리드 변경을 비동기식으로 작성하는 새로운 리드 동기화 옵션이 있습니다. 전체 세부 정보는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home)에 릴리스된 후에 사용할 수 있습니다.
+또한 더 빠른 API 호출을 위해 리드 변경을 비동기식으로 작성하는 새로운 리드 동기화 옵션이 있습니다. 전체 세부 정보는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home)에 릴리스된 후에 사용할 수 있습니다.
 
 **전자 메일 스크립팅 사용자 지정 개체 지원**
 
@@ -68,7 +43,7 @@ ht-degree: 1%
 
 ## Real-Time Personalization {#real-time-personalization}
 
-Google 및 [!DNL Facebook]&#x200B;**에 대해**&#x200B;개인화된 리마케팅
+Google 및 [!DNL Facebook]**에 대해**&#x200B;개인화된 리마케팅
 
 리마케팅은 웹 사이트를 방문한 사람에게 광고를 표시합니다. 이제 Real-Time Personalization의 데이터를 사용하여 [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) 및 [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)에서 리마케팅 캠페인을 개인화할 수 있습니다. 다른 업계의 대상, 명명된 계정 목록, 회사 규모 또는 알려진 잠재 고객의 데이터를 리마케팅합니다.
 
@@ -91,7 +66,7 @@ Named Accounts 모듈의 개선 사항은 사용자의 일치율과 유효성 �
 1. CDN이 없는 비동기 태그
 1. CDN 없이 동기식 태그
 
-최상의 성능을 위해 태그를 웹 페이지의 헤더 맨 위에 `<head>` 뒤에 배치하는 것이 좋습니다. 모든 태그는 [RTP API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) 사용을 허용합니다. RTP 태그를 배포하는 방법에 대한 자세한 내용은 [여기](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)를 참조하십시오.
+최상의 성능을 위해 태그를 웹 페이지의 헤더 맨 위에 `<head>` 뒤에 배치하는 것이 좋습니다. 모든 태그는 [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) 사용을 허용합니다. RTP 태그를 배포하는 방법에 대한 자세한 내용은 [여기](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)를 참조하십시오.
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
 
@@ -161,7 +136,7 @@ SSL3에 대한 지원이 제거되었습니다. 이전 웹 브라우저에 대�
 
 ## 새 자산 REST API {#new-asset-rest-apis}
 
-[새 자산 REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/assets/assets)
+[새 자산 REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 이제 API를 통해 [전자 메일, 템플릿, 내 토큰, 파일 및 코드 조각을 만들고 편집할 수 있습니다](https://developer.adobe.com/marketo-apis/api/asset/)!
 
@@ -267,7 +242,9 @@ RTP의 머신 러닝 및 예측 분석 알고리즘을 사용하여 올바른 �
 
 다음 기능은 2015년 6월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 릴리스 후에 다시 돌아와 각 기능에 대한 자세한 문서에 대한 링크를 찾으십시오.
 
-## [속성 전자 메일 보고서](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
+## 속성 이메일 보고서 {#attribution-email-report}
+
+[속성 이메일 보고서](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
 
 마케팅 활동에 제공하는 개인화 및 권장 콘텐츠 가치를 참조하십시오. [속성 이메일 보고서](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)에는 RTP의 개인화 및 권장 콘텐츠 캠페인으로 인한 직접 및 지원 리드가 표시됩니다. RTP의 사용자 설정 및 이메일 보고서에서 속성 이메일 보고서를 추가하여 월별 또는 분기별 이메일을 수신합니다.
 
@@ -281,7 +258,8 @@ RTP의 머신 러닝 및 예측 분석 알고리즘을 사용하여 올바른 �
 
 ## 리치 텍스트 편집기 업데이트 {#rich-text-editor-update}
 
-간소화된 텍스트 서식 지정, 이미지 편집, 링크 삽입 및 HTML 편집을 포함하여 현대적인 모양과 느낌으로 텍스트 편집기를 업데이트했습니다. 이제 HTML 편집기에서는 최소한의 유효성 검사만 지원되므로 보다 제한적인 코드 편집이 가능합니다.`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 이 업데이트는 7월 릴리스 후 며칠 내에 자동으로 롤아웃됩니다. 나중에 **[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**&#x200B;에서 편집기의 새 버전과 이전 버전 간을 전환할 수 있습니다.
+간소화된 텍스트 서식 지정, 이미지 편집, 링크 삽입 및 HTML 편집을 포함하여 현대적인 모양과 느낌으로 텍스트 편집기를 업데이트했습니다. 이제 HTML 편집기에서는 최소한의 유효성 검사만 지원되므로 보다 제한적인 코드 편집이 가능합니다.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 이 업데이트는 7월 릴리스 후 며칠 내에 자동으로 롤아웃됩니다. 나중에 **[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**&#x200B;에서 편집기의 새 버전과 이전 버전 간을 전환할 수 있습니다.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -347,7 +325,7 @@ RTP의 머신 러닝 및 예측 분석 알고리즘을 사용하여 올바른 �
 
 ## [!DNL Google Chrome]에 대한 Marketo Insights {#marketo-insights-for-google-chrome}
 
-[&#x200B; [!DNL Google Chrome]에 대한 Marketo 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[ [!DNL Google Chrome]에 대한 Marketo 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 [!DNL Google Mail] [!DNL Sales Insight] 확장에 대한 업데이트 릴리스를 발표하게 되어 기쁘게 생각합니다! [[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)에서 봅니다.
 
