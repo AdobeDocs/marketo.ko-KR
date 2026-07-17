@@ -28,9 +28,9 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 1857
+source-wordcount: 1860
 ht-degree: 0%
 
 ---
@@ -57,7 +57,9 @@ Marketo은 빅 데이터 아키텍처를 활용하여 트리거 캠페인 처리
 
 이러한 개선 사항은 2018년에 걸쳐 제공될 예정입니다.
 
-## [Marketo 성능 인사이트](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
+## Marketo 성능 인사이트 {#marketo-performance-insights}
+
+[Marketo 성능 인사이트](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 >[!AVAILABILITY]
 >

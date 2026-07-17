@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2862
+source-wordcount: 2865
 ht-degree: 1%
 
 ---
@@ -267,7 +267,9 @@ RTP의 머신 러닝 및 예측 분석 알고리즘을 사용하여 올바른 �
 
 다음 기능은 2015년 6월 릴리스에 포함되어 있습니다. Marketo 버전에서 사용 가능한 기능이 있는지 확인하십시오. 릴리스 후에 다시 돌아와 각 기능에 대한 자세한 문서에 대한 링크를 찾으십시오.
 
-## [속성 전자 메일 보고서](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
+## 속성 이메일 보고서 {#attribution-email-report}
+
+[속성 이메일 보고서](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
 
 마케팅 활동에 제공하는 개인화 및 권장 콘텐츠 가치를 참조하십시오. [속성 이메일 보고서](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)에는 RTP의 개인화 및 권장 콘텐츠 캠페인으로 인한 직접 및 지원 리드가 표시됩니다. RTP의 사용자 설정 및 이메일 보고서에서 속성 이메일 보고서를 추가하여 월별 또는 분기별 이메일을 수신합니다.
 
@@ -281,7 +283,8 @@ RTP의 머신 러닝 및 예측 분석 알고리즘을 사용하여 올바른 �
 
 ## 리치 텍스트 편집기 업데이트 {#rich-text-editor-update}
 
-간소화된 텍스트 서식 지정, 이미지 편집, 링크 삽입 및 HTML 편집을 포함하여 현대적인 모양과 느낌으로 텍스트 편집기를 업데이트했습니다. 이제 HTML 편집기에서는 최소한의 유효성 검사만 지원되므로 보다 제한적인 코드 편집이 가능합니다.`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 이 업데이트는 7월 릴리스 후 며칠 내에 자동으로 롤아웃됩니다. 나중에 **[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**&#x200B;에서 편집기의 새 버전과 이전 버전 간을 전환할 수 있습니다.
+간소화된 텍스트 서식 지정, 이미지 편집, 링크 삽입 및 HTML 편집을 포함하여 현대적인 모양과 느낌으로 텍스트 편집기를 업데이트했습니다. 이제 HTML 편집기에서는 최소한의 유효성 검사만 지원되므로 보다 제한적인 코드 편집이 가능합니다.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` 이 업데이트는 7월 릴리스 후 며칠 내에 자동으로 롤아웃됩니다. 나중에 **[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**&#x200B;에서 편집기의 새 버전과 이전 버전 간을 전환할 수 있습니다.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 

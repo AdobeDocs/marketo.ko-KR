@@ -22,9 +22,9 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2301
+source-wordcount: 2377
 ht-degree: 0%
 
 ---
@@ -41,17 +41,23 @@ ht-degree: 0%
 >
 >한 주제에 여러 하위 머리글이 있는 경우 링크가 배치됩니다.
 
-## [Facebook 사용자 지정 대상에 대한 고급 일치](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## Facebook 사용자 지정 대상에 대한 고급 일치 {#advanced-matching-for-facebook-custom-audiences}
+
+[Facebook 사용자 지정 대상에 대한 고급 일치](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
 
 기본 일치는 이메일 주소만 사용하지만 새 고급 일치는 7개의 필드를 추가로 사용하므로 더 많은 전환을 위해 일치율이 높아집니다.
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [사용자 지정 개체 가져오기 API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## 사용자 지정 개체 가져오기 API {#custom-object-import-api}
+
+[사용자 지정 개체 가져오기 API](https://developers.marketo.com/rest-api/lead-database/custom-objects/)
 
 이 API는 사용자 지정 개체를 Marketo으로 동기화하는 더 빠른 인터페이스를 제공합니다. CSV, TSV 또는 SSV 스프레드시트 파일을 사용자 지정 개체로 Marketo에 가져올 수 있습니다.
 
-## [웹 Personalization 캠페인 내보내기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## 웹 Personalization 캠페인 내보내기 {#web-personalization-campaigns-export}
+
+[웹 Personalization 캠페인 내보내기](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md)
 
 모든 웹 캠페인 세부 정보 및 분석을 CSV 형식으로 내보냅니다. 그런 다음 데이터를 편리한 레이아웃으로 볼 수 있습니다.
 
@@ -101,7 +107,9 @@ ht-degree: 0%
 
 이제 이미지 URL 및 메타데이터가 콘텐츠 자동 검색 프로세스에서 사용됩니다.
 
-## [SDK 개선 사항](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## SDK 개선 사항 {#sdk-enhancements}
+
+[SDK 개선 사항](https://developers.marketo.com/mobile/)
 
 이제 개발자는 개발자가 푸시 토큰을 제거할 수 있는 새로운 SDK API 호출의 추가로 푸시 알림 전달을 추가로 제어할 수 있습니다.
 
@@ -109,11 +117,15 @@ ht-degree: 0%
 
 새로운 필터 옵션 &quot;Vibes 목록 멤버&quot;로 타깃팅을 개선합니다.
 
-## [기존 서식 있는 텍스트 편집기 및 양식 편집기 1.0 사용 중단](https://nation.marketo.com/docs/DOC-4315)
+## 이전 리치 텍스트 편집기 및 양식 편집기 1.0 사용 중단
+
+[이전 리치 텍스트 편집기 및 양식 편집기 1.0 사용 중단](https://nation.marketo.com/docs/DOC-4315)
 
 2017년 8월 1일부터 기존 리치 텍스트 편집기 및 양식 편집기 1.0을 사용 중인 고객이 자동으로 새 경험으로 전환됩니다.
 
-## [Marketo 활동 API](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
+## Marketo 활동 API {#marketo-activity-apis}
+
+[Marketo 활동 API](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/)
 
 Marketo의 활동 API에 중요한 변화가 오고 있습니다. 준비됐니?
 
@@ -123,7 +135,9 @@ Marketo의 활동 API에 중요한 변화가 오고 있습니다. 준비됐니?
 
 각 기능에 대한 자세한 문서를 보려면 제목 링크를 클릭하십시오. **참고**: 항목에 여러 개의 하위 제목이 있으면 해당 링크가 배치됩니다.
 
-## [LinkedIn 리드 세대 Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## LinkedIn 리드 젠 Forms {#linkedin-lead-gen-forms}
+
+[LinkedIn 리드 젠 Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
 
 [[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads)은(는) 비즈니스에서 [!DNL LinkedIn]에 리드 생성 캠페인을 더 직접적으로 실행할 수 있는 방법입니다. 사람들은 제품이나 서비스에 관심을 표현하기 위해 양식을 작성할 수 있으며, 이를 통해 기업은 개인의 세부 정보를 캡처하고 이를 Marketo에 동기화하여 자동화된 후속 프로세스 및 잠재 고객 라우팅 활동이 발생할 수 있습니다.
 
@@ -131,7 +145,9 @@ Marketo의 활동 API에 중요한 변화가 오고 있습니다. 준비됐니?
 
 ![](assets/release-notes-image.png)
 
-## [MSI 템플릿 만료](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
+## MSI 템플릿 만료 {#expire-msi-template}
+
+[MSI 템플릿 만료](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
 
 [!DNL Sales Insight]에서 오래된 템플릿을 정리하던 시대는 지났습니다. 전자 메일을 게시할 때 만료 날짜를 설정하세요. 만료 날짜가 지나면 게시 취소됩니다.
 
@@ -141,7 +157,9 @@ Marketo의 활동 API에 중요한 변화가 오고 있습니다. 준비됐니?
 
 ![](assets/four-281-29.png)
 
-## [사람 및 활동에 대한 API 일괄 추출](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## 사용자 및 활동에 대한 API 벌크 추출 {#bulk-extract-apis-for-people-and-activities}
+
+[사용자 및 활동에 대한 API 벌크 추출](https://developers.marketo.com/rest-api/bulk-extract/)
 
 대량의 개인 및 활동 데이터를 Marketo에서 외부 시스템으로 쉽게 전송할 수 있습니다.
 
@@ -203,7 +221,9 @@ Web Personalization은 이제 모든 Marketo 지원 언어(영어, 일본어, �
 
 예측 콘텐츠는 이제 Marketo에서 지원하는 모든 언어(영어, 일본어, 독일어, 스페인어, 프랑스어 및 포르투갈어)로 제공됩니다.
 
-## [기존 서식 있는 텍스트 편집기 및 양식 편집기 1.0 사용 중단](https://nation.marketo.com/docs/DOC-4315)
+## 이전 리치 텍스트 편집기 및 양식 편집기 1.0 사용 중단
+
+[이전 리치 텍스트 편집기 및 양식 편집기 1.0 사용 중단](https://nation.marketo.com/docs/DOC-4315)
 
 2017년 8월 1일부터 기존 리치 텍스트 편집기 및 양식 편집기 1.0을 사용 중인 고객이 자동으로 새 경험으로 전환됩니다.
 
@@ -213,13 +233,17 @@ Web Personalization은 이제 모든 Marketo 지원 언어(영어, 일본어, �
 
 각 기능에 대한 자세한 문서를 보려면 제목 링크를 클릭하십시오. 참고: 이 릴리스에 포함된 일부 기능에는 관련 문서가 없습니다. 한 주제에 여러 하위 머리글이 있는 경우 링크가 배치됩니다.
 
-## [추가 Facebook 오프라인 전환 단계](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
+## 추가 Facebook 오프라인 전환 단계 {#additional-facebook-offline-conversion-stages}
+
+[추가 Facebook 오프라인 전환 단계](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
 
 최대 7개의 추가 오프라인 전환 단계를 선택하여 Marketo 라이프사이클 단계(현재 사용 가능한 3단계 이상)에 매핑합니다. 고객 여정 간 전환을 기반으로 [!DNL Facebook] 광고 지출을 최적화하여 ROI를 개선합니다.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [판매 Insight 템플릿 잠금](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
+## 판매 Insight 템플릿 잠금 {#lock-sales-insight-template}
+
+[판매 Insight 템플릿 잠금](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
 
 판매 템플릿을 편집하지 않도록 하여 메시지 및 콘텐츠의 일관성을 보장합니다. 이를 통해 템플릿을 표준화하고 전문적인 커뮤니케이션을 유지할 수 있습니다.
 
@@ -283,7 +307,9 @@ Marketo 및 [!DNL Salesforce]에서 풍부하고 빠른 동기화를 활용하�
 
 최근의 인프라 개선 사항은 Marketo 보고 및 분석 도구 내에서 가동 시간과 안정성을 높여 애드혹 보고서를 보다 신속하게 작성할 수 있도록 해 줍니다.
 
-## [받는 사람 시간대](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
+## 수신자 시간대 {#recipient-time-zone}
+
+[수신자 시간대](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
 이제 이 새로운 기능을 사용하여 현지 시간대에 따라 이메일을 보류하고 게재할 수 있습니다. 수신자의 시간대에 이메일 및 참여 프로그램을 전달하도록 구성할 수 있으므로 여러 프로그램을 만들 필요가 없습니다. 한 번만 보내면 Marketo에서 올바른 현지 시간까지 이메일을 자동으로 유지합니다. 이메일 지표를 상승시키고, 로컬 사례를 관찰하며, 전 세계에 하나의 프로그램을 사용하여 시간을 절약할 수 있습니다.
 
@@ -293,11 +319,15 @@ Marketo 및 [!DNL Salesforce]에서 풍부하고 빠른 동기화를 활용하�
 >
 >아직 이메일 및 참여 프로그램에서 수신자 시간대를 활성화할 수 없다면 당황하지 마십시오! 모든 고객에게 이 기능을 점차 활성화하고 있습니다.
 
-## [세그먼트별로 샘플 전자 메일 검토](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
+## 세그먼트별 샘플 이메일 검토 {#review-sample-emails-by-segment}
+
+[세그먼트별 샘플 이메일 검토](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)
 
 Marketo에는 검토를 위해 샘플 이메일을 보낼 때 세그먼트를 선택하는 새로운 옵션이 있습니다. 더 이상 잠재 고객이 속한 세그먼트를 수동으로 확인할 필요가 없어 다이내믹 콘텐츠가 포함된 이메일을 다른 세그먼트로 더 쉽게 보낼 수 있습니다.
 
-## [LinkedIn 리드 세대 사용자 지정 질문](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## LinkedIn 리드 세대 사용자 정의 질문 {#linkedin-lead-gen-custom-questions}
+
+[LinkedIn 리드 세대 사용자 정의 질문](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
 
 [!UICONTROL LinkedIn Lead Gen] 양식을 사용자 지정하여 사용자 지정 리드 특성을 수집하십시오. 이제 양식당 최대 3개의 사용자 정의 질문을 하고, 한 줄 텍스트 입력 또는 다중 선택 질문 중에서 선택하고, Marketo 리드 필드에 다시 매핑할 수 있습니다.
 
@@ -382,7 +412,9 @@ Marketo ABM이 CRM과 관련된 동작을 변경하고 있습니다. 앞으로 M
 
 ![](assets/image003.png)
 
-## [동적 계정 목록](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
+## 동적 계정 목록 {#dynamic-account-lists}
+
+[동적 계정 목록](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
 ABM에서 계정 목록을 만드는 새로운 방법을 추가하고 있습니다. 이제 기존 계정 목록 외에도 공개 CRM 계정 보기에서 생성된 동적 계정 목록을 만들 수 있습니다. CRM 계정 보기는 계정을 표시할 때 필터 역할을 하는 규칙 세트입니다. 예를 들어, 업종이 의료 분야인 _과(와)_ 매출액이 1억 달러 이상인 계정을 찾는 데 사용할 수 있습니다.
 
