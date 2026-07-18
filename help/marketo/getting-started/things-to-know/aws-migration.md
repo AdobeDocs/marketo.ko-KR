@@ -4,9 +4,9 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 55a3bfe19da19ebfdf3f565ac4a4dbe2ca6041a2
+source-git-commit: cd0b1dece6129df76deb7eb9c8953711d4d29e45
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '486'
 ht-degree: 5%
 
 ---
@@ -102,8 +102,8 @@ ht-degree: 5%
    NLD105</td>
    <td>오전 10시(태평양 표준시)<br>
    오전 11시(PDT)</td>
-   <td>일정대로 진행 중<br>
-   일정에 따라</td>
+   <td>완료<br>
+   완료됨</td>
   </tr>
   <tr>
    <td>2026년 7월 21일</td>
