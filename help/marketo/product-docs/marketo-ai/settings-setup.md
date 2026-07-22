@@ -3,9 +3,9 @@ description: Marketo AI 권한을 활성화하고 조직 규칙을 구성하고 
 title: 설정 및 설정
 badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '535'
 ht-degree: 2%
 
 ---
@@ -77,11 +77,11 @@ ht-degree: 2%
 
 ### 사용자 정의 역할 {#custom-role}
 
-[새 역할을 만들고](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} 사용 권한을 사용자 지정하는 옵션이 있으며, _Marketo AI에 액세스_&#x200B;와 함께 원하는 모든 권한을 추가하고[특정 사용자에게 해당 역할을 할당](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}할 수 있습니다.
+[새 역할을 만들고](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} 사용 권한을 사용자 지정하는 옵션이 있으며, _Marketo AI에 액세스_&#x200B;와 함께 원하는 모든 권한을 추가하고[특정 사용자에게 해당 역할을 할당](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}할 수 있습니다.
 
 ## 설정 {#settings}
 
-1. 내 Marketo에서 **Marketo AI** 타일을 클릭합니다.
+1. 내 Marketo에서 **[!UICONTROL Marketo AI]** 타일을 클릭합니다.
 
    ![](assets/settings-setup-7.png)
 
