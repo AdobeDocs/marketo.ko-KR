@@ -44,7 +44,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td><strong>Marketo AI 스킬 - 제품 지식</strong>: 제품 지식을 통해 플랫폼을 떠나지 않고 Marketo 전문 지식을 온디맨드로 이용할 수 있습니다. 일반적인 언어로 질문하면 Marketo AI가 공식 Adobe 설명서를 참고하여 질문에 답변합니다.
 </td>
    <td>Beta 열기</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">제품 지식</a></td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">제품 지식</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -55,7 +55,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td><strong>Marketo AI 스킬 - 리드 조사</strong>: 특정 사용자/리드가 마일스톤(예: MQL, 프로그램 자격 또는 캠페인)에 도달하지 않은 이유를 확인하고 발생한 사항에 대한 간단한 설명을 얻을 수 있습니다.
 </td>
    <td>Beta 열기</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">리드 조사</a></td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">리드 조사</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -80,4 +80,4 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2026년 7월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}로 마이그레이션해야 합니다.
 
-* **잠재 고객 가져오기 활동 및 잠재 고객 변경 사항 가져오기에 대한 정적 목록 크기 제한**: 2026년 9월 30일부터 `listId` 매개 변수를 포함하는 잠재 고객 가져오기 활동 및 잠재 고객 변경 사항 가져오기 엔드포인트에 대한 호출은 대상 정적 목록에 10,000개 이상의 잠재 고객이 포함된 경우 1003 오류 코드를 반환합니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.
+* **잠재 고객 가져오기 활동 및 잠재 고객 변경 사항 가져오기에 대한 정적 목록 크기 제한**: 2026년 9월 30일부터 `listId` 매개 변수를 포함하는 잠재 고객 가져오기 활동 및 잠재 고객 변경 사항 가져오기 엔드포인트에 대한 호출은 대상 정적 목록에 10,000개 이상의 잠재 고객이 포함된 경우 1003 오류 코드를 반환합니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.
