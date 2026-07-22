@@ -3,9 +3,9 @@ description: Marketo AI 권한을 활성화하고 조직 규칙을 구성하고 
 title: 설정 및 설정
 badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '535'
 ht-degree: 2%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 2%
 
 ## 설정 {#settings}
 
-1. 내 Marketo에서 **Marketo AI** 타일을 클릭합니다.
+1. 내 Marketo에서 **[!UICONTROL Marketo AI]** 타일을 클릭합니다.
 
    ![](assets/settings-setup-7.png)
 
