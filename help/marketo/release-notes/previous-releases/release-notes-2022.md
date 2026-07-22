@@ -1,34 +1,14 @@
 ---
-title: "2022"
+title: 2022
 description: 2022년 - Marketo 문서 - 제품 설명서
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 4254
-ht-degree: 6%
+source-wordcount: 4283
+ht-degree: 7%
 
 ---
 
@@ -50,14 +30,14 @@ ht-degree: 6%
 
 * **차세대 경험에서 업데이트된 Screens**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 경험에서 새로 고친 화면을 추가로 제공합니다.
 
-   * [!UICONTROL Design Studio]의 랜딩 페이지 자산 세부 정보
-   * [!UICONTROL Marketing Activities]의 랜딩 페이지 자산 세부 정보
+  * [!UICONTROL Design Studio]의 랜딩 페이지 자산 세부 정보
+  * [!UICONTROL Marketing Activities]의 랜딩 페이지 자산 세부 정보
 
 ## [!DNL Microsoft Dynamics] 통합 {#microsoft-dynamics-integration}
 
 * **다중 선택 Optionset 필드 형식 동기화(일반적으로 사용 가능)**: 보다 세분화된 대상 타깃팅을 위해 스마트 목록 및 스마트 캠페인에서 활용하려면 [!DNL Microsoft Dynamics]에서 다중 선택 Optionset 필드 형식을 동기화하십시오. 예로는 관심 주제/제품, 선호하는 커뮤니케이션 모드 등이 있습니다. 이 새 동기화는 [!DNL Microsoft Dynamics] 버전 9.X(Dynamics 365 Online 포함)에서 사용할 수 있습니다.
 
-* [!DNL Microsoft Dynamics 365 Online]&#x200B;**에 대한**&#x200B;서버 간 인증: 보안을 강화하기 위해 이제 서버 간(S2S) 인증을 Azure Active Directory의 Marketo Engage 동기화 사용자가 [!DNL Microsoft Dynamics 365 Online]에 비대화형으로 액세스할 수 있도록 추가 인증 모드로 지원합니다. 모든 인증 및 로그인이 OAuth(클라이언트 ID 및 클라이언트 암호만)를 기반으로 하므로 다단계 인증을 사용할 수 있습니다.
+* [!DNL Microsoft Dynamics 365 Online]**에 대한**&#x200B;서버 간 인증: 보안을 강화하기 위해 이제 서버 간(S2S) 인증을 Azure Active Directory의 Marketo Engage 동기화 사용자가 [!DNL Microsoft Dynamics 365 Online]에 비대화형으로 액세스할 수 있도록 추가 인증 모드로 지원합니다. 모든 인증 및 로그인이 OAuth(클라이언트 ID 및 클라이언트 암호만)를 기반으로 하므로 다단계 인증을 사용할 수 있습니다.
 
 >[!NOTE]
 >
@@ -83,13 +63,13 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 [!DNL Salesforce] CRM용 **[!DNL Sales Insight]**
 
-* [!UICONTROL Best Bets]&#x200B;**에 대한**&#x200B;새 형식 열: 판매자는 [!UICONTROL Best Bets] 페이지의 리드와 연락처를 구별하기 위해 &quot;Type&quot; 레이블이 지정된 새 열로 더 빠른 통찰력을 얻습니다.
+* [!UICONTROL Best Bets]**에 대한**&#x200B;새 형식 열: 판매자는 [!UICONTROL Best Bets] 페이지의 리드와 연락처를 구별하기 위해 &quot;Type&quot; 레이블이 지정된 새 열로 더 빠른 통찰력을 얻습니다.
 
 * **[!DNL Salesforce]Platform API 업데이트**: [!DNL Salesforce]에서 [!DNL Salesforce] Platform API 버전 21.0에서 30.0을 중단하는 것에 대한 응답으로 [!DNL Sales Insight] 패키지가 최신 API로 업데이트되었습니다.
 
 * **브랜딩 업데이트됨**: 모든 [!DNL Sales Insight] 페이지가 Adobe 브랜딩에 맞게 업데이트되고 있습니다.
 
-[!DNL Microsoft Dynamics]&#x200B;**에 대한**&#x200B;[!DNL Sales Insight]
+[!DNL Microsoft Dynamics]**에 대한**[!DNL Sales Insight]
 
 * **업데이트된 계정 레이아웃**: 판매자는 전자 메일 활동, 웹 활동, 관심 있는 순간, 계정 내 모든 연락처에 대한 점수 변경과 같은 상위 활동에 대한 집단 보기를 얻을 수 있습니다.
 
@@ -129,7 +109,7 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 ## 크로스 채널 오케스트레이션
 
-* **[!DNL Dynamic Chat]**: 사전 예방적이고 흥미로운 1:1 맞춤형 대화를 통해 잠재 고객과 계정을 모두 타겟팅하여 웹 사이트의 모든 기회를 극대화할 수 있습니다. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}을(를) 통해 Marketo Engage 사용자는 채팅을 B2B 마케팅 및 판매 사용 사례에 대한 통합 크로스 채널 경험의 핵심 부분으로 활용할 수 있습니다. 기능에는 채팅 내에서 직접 회의를 예약하는 기능, 리드 라우팅, 스타터 템플릿, 끌어다 놓기 대화 만들기 등이 포함됩니다. Dynamic Chat은 모든 Marketo Engage 패키지에 포함되어 있으며 올해 모든 Marketo Engage 사용자에게 배포됩니다.
+* **[!DNL Dynamic Chat]**: 사전 예방적이고 흥미로운 1:1 맞춤형 대화를 통해 잠재 고객과 계정을 모두 타겟팅하여 웹 사이트의 모든 기회를 극대화합니다. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}을(를) 통해 Marketo Engage 사용자는 채팅을 B2B 마케팅 및 판매 사용 사례에 대한 통합 크로스 채널 경험의 핵심 부분으로 활용할 수 있습니다. 기능에는 채팅 내에서 직접 회의를 예약하는 기능, 리드 라우팅, 스타터 템플릿, 끌어다 놓기 대화 만들기 등이 포함됩니다. Dynamic Chat은 모든 Marketo Engage 패키지에 포함되어 있으며 올해 모든 Marketo Engage 사용자에게 배포됩니다.
 
 * **이메일 보트 활동 필터링 개선 사항**: 이전에 릴리스된 [이메일 보트 활동 필터링](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} 기능의 개선 사항으로 이제 봇으로 식별된 로깅 활동을 옵트인할 수 있습니다. 그런 다음 봇이 수행하는 것으로 식별된 활동을 기반으로 작업을 필터링하고 트리거할 수 있습니다.
 
@@ -137,7 +117,7 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 * **차세대 경험에서 업데이트된 Screens**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 경험에서 새로 고친 화면을 추가로 제공합니다.
 
-   * [!UICONTROL Design Studio]의 양식 목록 보기(새 대량 작업 포함)
+  * [!UICONTROL Design Studio]의 양식 목록 보기(새 대량 작업 포함)
 
 * **프로그램 가져오기 워크플로 업데이트**: 가져오기 프로그램 워크플로는 업데이트된 디자인 및 유용성 개선 사항으로 차세대 환경에서 제공됩니다. 토글 스위치가 없는 자동 변경입니다.
 
@@ -203,11 +183,11 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 ## 크로스 채널 오케스트레이션
 
-[!DNL Dynamic Chat]&#x200B;**에 대한**&#x200B;챗봇 이벤트: 웹 방문자에 대한 자세한 동작 데이터(예: 페이지 체류 시간, 사이트 체류 시간 및 페이지 스크롤 백분율)를 활용하여 채팅 대화 상자가 표시되는 시기를 정의합니다.
+[!DNL Dynamic Chat]**에 대한**&#x200B;챗봇 이벤트: 웹 방문자에 대한 자세한 동작 데이터(예: 페이지 체류 시간, 사이트 체류 시간 및 페이지 스크롤 백분율)를 활용하여 채팅 대화 상자가 표시되는 시기를 정의합니다.
 
-[!DNL Dynamic Chat]&#x200B;**용** PDF 포함: PDF를 채팅 대화 상자에 포함하여 참여를 늘리고 의미 있는 콘텐츠를 공유하며 참여 활동 추적을 통해 콘텐츠 성능을 측정합니다.
+[!DNL Dynamic Chat]**용** PDF 포함: PDF를 채팅 대화 상자에 포함하여 참여를 늘리고 의미 있는 콘텐츠를 공유하며 참여 활동 추적을 통해 콘텐츠 성능을 측정합니다.
 
-[!DNL Dynamic Chat]&#x200B;**에 대한**&#x200B;확장 언어 지원: 이제 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어로도 [!DNL Dynamic Chat] 사용자 인터페이스를 사용할 수 있습니다. 이러한 언어로 채팅 대화 상자를 구성할 수도 있습니다.
+[!DNL Dynamic Chat]**에 대한**&#x200B;확장 언어 지원: 이제 프랑스어, 독일어, 일본어, 포르투갈어 및 스페인어로도 [!DNL Dynamic Chat] 사용자 인터페이스를 사용할 수 있습니다. 이러한 언어로 채팅 대화 상자를 구성할 수도 있습니다.
 
 **[!DNL Dynamic Chat]**&#x200B;에 대한 URL 제외: 타깃팅 기준에서 특정 URL을 제외하는 기능으로 웹 페이지 [!DNL Dynamic Chat]의 표시 항목을 제어합니다.
 
@@ -267,7 +247,7 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 * **[!DNL Dynamic Chat]**&#x200B;에 대한 고급 약속 라우팅 규칙: [!DNL Dynamic Chat]에서는 대상 약속 라우팅에 대한 추가 옵션을 제공합니다. Marketo Engage 속성에 따라 라우팅할 에이전트 약속을 지정하여 리드가 적절한 에이전트로 라우팅되도록 합니다.
 
-* [!DNL Dynamic Chat]&#x200B;**에 대한**&#x200B;고급 대화 상자 보고: 참여 및 전환 지표에 대한 새로운 데이터 시각화를 사용하여 [!DNL Dynamic Chat] 캠페인의 성과를 자세히 봅니다.
+* [!DNL Dynamic Chat]**에 대한**&#x200B;고급 대화 상자 보고: 참여 및 전환 지표에 대한 새로운 데이터 시각화를 사용하여 [!DNL Dynamic Chat] 캠페인의 성과를 자세히 봅니다.
 
 * **[!DNL Dynamic Chat]**&#x200B;에 대해 사용하지 않은 Marketo Engage 특성 동기화 해제: 사용되지 않는 [!DNL Dynamic Chat] 구독의 Marketo Engage 특성을 동기화하지 않으므로 데이터를 깔끔하게 정리하고 필요에 따라 다른 특성을 동기화할 수 있습니다.
 
@@ -275,8 +255,8 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 **새로운 전환 보기**: 이제 다음 보기를 차세대 환경에서 사용할 수 있습니다.
 
-* [이메일 세부 정보 보기](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [이메일 목록 보기](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [이메일 세부 정보 보기](https://experienceleague.adobe.com/ko/docs/marketo/using/home){target="_blank"}
+* [이메일 목록 보기](https://experienceleague.adobe.com/ko/docs/marketo/using/home){target="_blank"}
 
 ## Experience Automated
 
@@ -292,7 +272,7 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 ![(별)](assets/yellow-star.png)
 
-* [!DNL Salesforce]&#x200B;**의**&#x200B;[!DNL Sales Insight] 사용 권한 집합: 관리자는 [!DNL Sales Insight] [!DNL Salesforce] 패키지의 일부인 Marketo 앱 사용 권한 집합을 통해 프로필 수준이 아닌 사용자 수준의 제한된 사용자 집합에 대한 [!DNL Sales Insight] 액세스 권한을 제공할 수 있습니다.
+* [!DNL Salesforce]**의**[!DNL Sales Insight] 사용 권한 집합: 관리자는 [!DNL Sales Insight] [!DNL Salesforce] 패키지의 일부인 Marketo 앱 사용 권한 집합을 통해 프로필 수준이 아닌 사용자 수준의 제한된 사용자 집합에 대한 [!DNL Sales Insight] 액세스 권한을 제공할 수 있습니다.
 
 * **내 Marketo 타일 업데이트 - [!DNL Sales Insight] 작업**: Marketo 관리자(및 사용자가 지정한 사용자)는 이제 내 Marketo 페이지에 있는 새 [!DNL Sales Insight] 작업 타일을 통해 [!DNL Sales Insight] 작업 인스턴스로 빠르게 이동할 수 있습니다.
 
@@ -330,9 +310,9 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 * [!DNL Dynamic Chat]에 대해 게시된 모든 대화 상자를 한 번에 활성화/비활성화**: 단추를 눌러 [구성] 페이지에서 게시된 모든 대화 상자를 한 번에 전체적으로 활성화/비활성화합니다.
 
-* [!DNL Dynamic Chat]&#x200B;**에 대한**&#x200B;사용자 지정 아바타: 사용자 지정 챗봇 아바타를 업로드하여 내 브랜드에 맞게 개인화할 수 있습니다.
+* [!DNL Dynamic Chat]**에 대한**&#x200B;사용자 지정 아바타: 사용자 지정 챗봇 아바타를 업로드하여 내 브랜드에 맞게 개인화할 수 있습니다.
 
-* [!DNL Dynamic Chat]&#x200B;**에 대한**&#x200B;채팅 트랜스크립트: 모든 대화에 대한 채팅 트랜스크립트를 보고 각 웹 방문자가 관심을 갖는 내용에 대해 더 자세한 insight을 얻습니다.
+* [!DNL Dynamic Chat]**에 대한**&#x200B;채팅 트랜스크립트: 모든 대화에 대한 채팅 트랜스크립트를 보고 각 웹 방문자가 관심을 갖는 내용에 대해 더 자세한 insight을 얻습니다.
 
 ## 차세대 경험
 
@@ -340,10 +320,10 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 * **이동 대화 상자에 대상 폴더의 폴더 계층 구조 표시**: 각 폴더에 대한 폴더 계층 구조를 보면 자산을 더 쉽게 이동할 수 있으며 잘못된 폴더에 넣을 수 있는 가능성이 줄어듭니다.
 
-* **[차세대 경험에서 업데이트된 Screens](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"}**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 경험에서 새로 고친 화면을 추가로 제공합니다.
+* **[차세대 경험에서 업데이트된 Screens](https://experienceleague.adobe.com/ko/docs/marketo/using/home){target="_blank"}**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 경험에서 새로 고친 화면을 추가로 제공합니다.
 
-   * 코드 조각 세부 사항
-   * &quot;이미지 및 파일&quot; 세부 정보
+  * 코드 조각 세부 사항
+  * &quot;이미지 및 파일&quot; 세부 정보
 
 >[!NOTE]
 >
@@ -433,8 +413,8 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 * **차세대 경험에서 업데이트된 Screens**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 경험에서 새로 고친 화면을 추가로 제공합니다.
 
-   * 랜딩 페이지 템플릿 세부 정보
-   * 이메일 템플릿 목록
+  * 랜딩 페이지 템플릿 세부 정보
+  * 이메일 템플릿 목록
 
 <table>
   <tr>
@@ -443,7 +423,7 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
   </tr>
   <tr>
    <td>릴리스됨</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">토글 스위치</a></td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/home">토글 스위치</a></td>
   </tr>
   </tbody>
 </table>
