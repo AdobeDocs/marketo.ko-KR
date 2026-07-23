@@ -25,10 +25,10 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 4254
-ht-degree: 6%
+source-wordcount: 4283
+ht-degree: 7%
 
 ---
 
@@ -50,8 +50,8 @@ ht-degree: 6%
 
 * **차세대 경험에서 업데이트된 Screens**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 경험에서 새로 고친 화면을 추가로 제공합니다.
 
-   * [!UICONTROL Design Studio]의 랜딩 페이지 자산 세부 정보
-   * [!UICONTROL Marketing Activities]의 랜딩 페이지 자산 세부 정보
+  * [!UICONTROL Design Studio]의 랜딩 페이지 자산 세부 정보
+  * [!UICONTROL Marketing Activities]의 랜딩 페이지 자산 세부 정보
 
 ## [!DNL Microsoft Dynamics] 통합 {#microsoft-dynamics-integration}
 
@@ -129,7 +129,7 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 ## 크로스 채널 오케스트레이션
 
-* **[!DNL Dynamic Chat]**: 사전 예방적이고 흥미로운 1:1 맞춤형 대화를 통해 잠재 고객과 계정을 모두 타겟팅하여 웹 사이트의 모든 기회를 극대화할 수 있습니다. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}을(를) 통해 Marketo Engage 사용자는 채팅을 B2B 마케팅 및 판매 사용 사례에 대한 통합 크로스 채널 경험의 핵심 부분으로 활용할 수 있습니다. 기능에는 채팅 내에서 직접 회의를 예약하는 기능, 리드 라우팅, 스타터 템플릿, 끌어다 놓기 대화 만들기 등이 포함됩니다. Dynamic Chat은 모든 Marketo Engage 패키지에 포함되어 있으며 올해 모든 Marketo Engage 사용자에게 배포됩니다.
+* **[!DNL Dynamic Chat]**: 사전 예방적이고 흥미로운 1:1 맞춤형 대화를 통해 잠재 고객과 계정을 모두 타겟팅하여 웹 사이트의 모든 기회를 극대화합니다. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}을(를) 통해 Marketo Engage 사용자는 채팅을 B2B 마케팅 및 판매 사용 사례에 대한 통합 크로스 채널 경험의 핵심 부분으로 활용할 수 있습니다. 기능에는 채팅 내에서 직접 회의를 예약하는 기능, 리드 라우팅, 스타터 템플릿, 끌어다 놓기 대화 만들기 등이 포함됩니다. Dynamic Chat은 모든 Marketo Engage 패키지에 포함되어 있으며 올해 모든 Marketo Engage 사용자에게 배포됩니다.
 
 * **이메일 보트 활동 필터링 개선 사항**: 이전에 릴리스된 [이메일 보트 활동 필터링](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} 기능의 개선 사항으로 이제 봇으로 식별된 로깅 활동을 옵트인할 수 있습니다. 그런 다음 봇이 수행하는 것으로 식별된 활동을 기반으로 작업을 필터링하고 트리거할 수 있습니다.
 
@@ -137,7 +137,7 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 * **차세대 경험에서 업데이트된 Screens**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 경험에서 새로 고친 화면을 추가로 제공합니다.
 
-   * [!UICONTROL Design Studio]의 양식 목록 보기(새 대량 작업 포함)
+  * [!UICONTROL Design Studio]의 양식 목록 보기(새 대량 작업 포함)
 
 * **프로그램 가져오기 워크플로 업데이트**: 가져오기 프로그램 워크플로는 업데이트된 디자인 및 유용성 개선 사항으로 차세대 환경에서 제공됩니다. 토글 스위치가 없는 자동 변경입니다.
 
@@ -275,8 +275,8 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 **새로운 전환 보기**: 이제 다음 보기를 차세대 환경에서 사용할 수 있습니다.
 
-* [이메일 세부 정보 보기](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [이메일 목록 보기](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [이메일 세부 정보 보기](https://experienceleague.adobe.com/ko/docs/marketo/using/home){target="_blank"}
+* [이메일 목록 보기](https://experienceleague.adobe.com/ko/docs/marketo/using/home){target="_blank"}
 
 ## Experience Automated
 
@@ -340,10 +340,10 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 * **이동 대화 상자에 대상 폴더의 폴더 계층 구조 표시**: 각 폴더에 대한 폴더 계층 구조를 보면 자산을 더 쉽게 이동할 수 있으며 잘못된 폴더에 넣을 수 있는 가능성이 줄어듭니다.
 
-* **[차세대 경험에서 업데이트된 Screens](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"}**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 경험에서 새로 고친 화면을 추가로 제공합니다.
+* **[차세대 경험에서 업데이트된 Screens](https://experienceleague.adobe.com/ko/docs/marketo/using/home){target="_blank"}**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 경험에서 새로 고친 화면을 추가로 제공합니다.
 
-   * 코드 조각 세부 사항
-   * &quot;이미지 및 파일&quot; 세부 정보
+  * 코드 조각 세부 사항
+  * &quot;이미지 및 파일&quot; 세부 정보
 
 >[!NOTE]
 >
@@ -433,8 +433,8 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
 
 * **차세대 경험에서 업데이트된 Screens**: 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 차세대 경험에서 새로 고친 화면을 추가로 제공합니다.
 
-   * 랜딩 페이지 템플릿 세부 정보
-   * 이메일 템플릿 목록
+  * 랜딩 페이지 템플릿 세부 정보
+  * 이메일 템플릿 목록
 
 <table>
   <tr>
@@ -443,7 +443,7 @@ Adobe Experience Platform(AEP)도 사용하는 Marketo Engage 고객은 AEP 대�
   </tr>
   <tr>
    <td>릴리스됨</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">토글 스위치</a></td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/home">토글 스위치</a></td>
   </tr>
   </tbody>
 </table>

@@ -2,10 +2,10 @@
 description: 릴리스 노트 - 2026년 3월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2026년 3월
 feature: Release Information
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 18%
+source-wordcount: '468'
+ht-degree: 21%
 
 ---
 
@@ -37,7 +37,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>이메일 Designer - 조각에서 편집 가능한 HTML 구성 요소</strong>: 시각적 조각 내에서 편집 가능한 필드는 구성 요소 속성 패널을 통해 이미지, 텍스트 및 단추 구성 요소에서 지원됩니다. HTML 구성 요소의 경우 편집 가능한 필드는 HTML 구성 요소 자체의 소스 코드 내에 변수 기반 구문을 사용하여 다르게 구성됩니다.</td>
+   <td><strong>이메일 Designer - 조각에서 편집 가능한 HTML 구성 요소</strong>: 시각적 조각 내에서 편집 가능한 필드는 구성 요소 속성 패널을 통해 이미지, 텍스트 및 단추 구성 요소에서 지원됩니다. HTML 구성 요소의 경우 편집 가능한 필드는 HTML 구성 요소 자체의 소스 코드 내에 변수 기반 구문을 사용하여 다르게 구성됩니다.
+   </td>
    <td>릴리스됨</i></td>
    <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">조각에서 편집 가능한 HTML 구성 요소</a></td>
   </tr>
@@ -47,7 +48,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>이메일 Designer - 빠른 작업</strong>: <i>이전 이메일 편집기와 동일</i>. 이제 모든 이메일 Designer 에셋(이메일, 이메일 템플릿, 조각)에 대해 빠른 작업을 사용할 수 있습니다. 지원되는 빠른 작업에는 복제, 삭제, 이동, 초안 생성/편집 등이 있습니다.</td>
+   <td><strong>이메일 Designer - 빠른 작업</strong>: <i>이전 이메일 편집기와 동일</i>. 이제 모든 이메일 Designer 에셋(이메일, 이메일 템플릿, 조각)에 대해 빠른 작업을 사용할 수 있습니다. 지원되는 빠른 작업에는 복제, 삭제, 이동, 초안 생성/편집 등이 있습니다.
+   </td>
    <td>릴리스됨</i></td>
    <td>해당 사항 없음</td>
   </tr>
@@ -57,7 +59,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
    <tr>
-   <td><strong>전자 메일 Designer - Outlook 렌더링 수정 사항</strong>: 이 업데이트는 특히 MS Outlook의 렌더링 문제를 수정합니다. 고급 HTML 모드에서는 HTML/CSS를 약간 편집하거나 이메일 템플릿에 스크립트 태그를 추가할 수 있습니다.</td>
+   <td><strong>전자 메일 Designer - Outlook 렌더링 수정 사항</strong>: 이 업데이트는 특히 MS Outlook의 렌더링 문제를 수정합니다. 고급 HTML 모드에서는 HTML/CSS를 약간 편집하거나 이메일 템플릿에 스크립트 태그를 추가할 수 있습니다.
+   </td>
    <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">고급 HTML 편집기를 사용하여 이메일 템플릿 편집</a></td>
   </tr>
@@ -92,6 +95,6 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **REST API 병합 리드 제한**: 2026년 7월 31일부터 병합 리드 API 호출의 leadIds 매개 변수에 25개 이상의 ID를 포함하는 호출은 1080 오류 코드를 생성하며, 호출이 건너뜁니다. 25개 이상의 레코드를 하나로 병합해야 하는 작업은 이러한 호출의 성공을 보장하기 위해 여러 작업으로 분할해야 합니다.
 
-* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2026년 7월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}된 대로 &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
+* **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2026년 8월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}된 대로 &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
 
 * **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2026년 7월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}로 마이그레이션해야 합니다.

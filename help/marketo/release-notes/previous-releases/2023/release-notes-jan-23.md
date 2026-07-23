@@ -14,9 +14,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 656
+source-wordcount: 663
 ht-degree: 21%
 
 ---
@@ -39,8 +39,8 @@ ht-degree: 21%
 
 * **최신 UX에서 업데이트된 Screens**: 최신 UX(이전 차세대 경험)에서는 전환 스위치를 통해 액세스할 수 있는 업데이트된 디자인 및 유용성 개선 사항을 제공하는 새로운 추가 화면을 제공합니다.
 
-   * 스니펫 목록 보기
-   * 랜딩 페이지 템플릿 목록
+  * 스니펫 목록 보기
+  * 랜딩 페이지 템플릿 목록
 
   <table>
   <tr>
@@ -49,7 +49,7 @@ ht-degree: 21%
   </tr>
   <tr>
    <td>릴리스됨</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">토글 스위치</a></td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/home">토글 스위치</a></td>
   </tr>
   </tbody>
 
