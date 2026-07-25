@@ -42,7 +42,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->[외부 양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}을 사용하고 마이그레이션 중에 데이터를 유지하려면 [Adobe 지원](https://experienceleague.adobe.com/en/support){target="_blank"}에 연락하여 양식 ID와 구독의 Munchkin ID를 제공하십시오.
+>[외부 양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}을 사용하고 마이그레이션 중에 데이터를 유지하려면 [Adobe 지원](https://experienceleague.adobe.com/ko/support){target="_blank"}에 연락하여 양식 ID와 구독의 Munchkin ID를 제공하십시오.
 
 ## 데이터 센터/포드 식별 {#identify}
 
@@ -183,4 +183,4 @@ ht-degree: 5%
 
 ## 업데이트 및 지원 {#support}
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
