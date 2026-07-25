@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
+source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
 workflow-type: tm+mt
-source-wordcount: '8901'
+source-wordcount: '8906'
 ht-degree: 96%
 
 ---
@@ -1662,6 +1662,7 @@ ht-degree: 96%
       + [추천 바에 대한 예측 콘텐츠 편집](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
   + 보고 {#reporting}
     + [보고 개요](product-docs/reporting/reporting-overview.md)
+    + {hide-from-toc}[Marketo 활동 데이터 보존 정책](product-docs/reporting/data-retention.md)
     + 기본 보고 {#basic-reporting}
       + 보고서 만들기 {#creating-reports}
         + [프로그램에서 보고서 만들기](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)

@@ -2,10 +2,10 @@
 title: 이전 릴리스
 description: Marketo Engage의 모든 이전 버전에 대한 릴리스 노트이며 연도별로 정리되어 있습니다.
 feature: Release Information
-source-git-commit: 400b847ed81f4dda33f9c76b95319815366db7cf
+source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 31%
+source-wordcount: '104'
+ht-degree: 36%
 
 ---
 
@@ -14,13 +14,14 @@ ht-degree: 31%
 
 >[!NOTE]
 >
->현재 릴리스에 대해서는 [현재 릴리스 정보](current.md)를 참조하십시오. Dynamic Chat 릴리스 내역은 [Dynamic Chat 릴리스 노트](dynamic-chat.md)를 참조하십시오.
+>현재 릴리스에 대해서는 [릴리스 정보](current.md)를 참조하세요. Dynamic Chat 릴리스 정보는 [Dynamic Chat 릴리스 노트](dynamic-chat.md)를 참조하십시오.
 
 ## 2026
 
 * [2026년 1월](previous-releases/2026/release-notes-jan-26.md)
 * [2026년 2월](previous-releases/2026/release-notes-feb-26.md)
 * [2026년 3월](previous-releases/2026/release-notes-mar-26.md)
+* [2026년 5월](previous-releases/2026/release-notes-may-26.md)
 
 ## 2025
 
@@ -65,4 +66,4 @@ ht-degree: 31%
 * [2013](previous-releases/release-notes-2013.md)
 * [2012](previous-releases/release-notes-2012.md)
 * [2010-2011](previous-releases/2010-2011.md)
-* [2007년-2009년](previous-releases/2007-2009.md)
+* [2007-2009](previous-releases/2007-2009.md)
