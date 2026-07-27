@@ -93,7 +93,7 @@ Marketo은 마케팅 활동 데이터를 순차적으로 유지합니다. 활동
 
 ## 데이터 내보내기
 
-Marketo에서는 개인 활동을 내보내고 로컬에 보관할 수 있는 [REST API 일괄 추출](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract)을 제공합니다. API를 통해 데이터가 추출되면 사용 사례에 필요한 만큼 데이터를 저장하고 정렬할 수 있습니다.
+Marketo에서는 개인 활동을 내보내고 로컬에 보관할 수 있는 [REST API 일괄 추출](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract)을 제공합니다. API를 통해 데이터가 추출되면 사용 사례에 필요한 만큼 데이터를 저장하고 정렬할 수 있습니다.
 
 >[!TIP]
 >
