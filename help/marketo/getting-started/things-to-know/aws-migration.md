@@ -4,10 +4,10 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: f0d3f6ad0113d3610f55e03533f8280816ed5181
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 5%
+source-wordcount: '531'
+ht-degree: 6%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 5%
 
 ## 예약 {#schedule}
 
-새 날짜 및 데이터 센터/pod 정보가 주기적으로 추가되므로 자세한 내용은 여기에서 다시 확인하십시오.
+새 날짜 및 데이터 센터/pod 정보가 주기적으로 추가되거나 변경되므로 이 일정을 모니터링하여 업데이트를 진행하십시오.
 
 <table>
  <tbody>
@@ -150,6 +150,24 @@ ht-degree: 5%
    AB44</td>
    <td>오후 5시(태평양 표준시)<br>
    오후 6시(태평양 표준시)</td>
+   <td>일정대로 진행 중<br>
+   일정에 따라</td>
+  </tr>
+  <tr>
+   <td>2026년 8월 26일</td>
+   <td>AB40<br>
+   AB50</td>
+   <td>오후 5시(태평양 표준시)<br>
+   오후 6시(태평양 표준시)</td>
+   <td>일정대로 진행 중<br>
+   일정에 따라</td>
+  </tr>
+  <tr>
+   <td>2026년 8월 28일</td>
+   <td>AB53<br>
+   AB56</td>
+   <td>오후 3시(태평양 표준시)<br>
+   오후 4시(태평양 표준시)</td>
    <td>일정대로 진행 중<br>
    일정에 따라</td>
   </tr>
