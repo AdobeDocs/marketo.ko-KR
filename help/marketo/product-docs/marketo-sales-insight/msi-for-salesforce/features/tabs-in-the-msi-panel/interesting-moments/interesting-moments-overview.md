@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 76cacaf05738c6fe8836c5f2e9c64d9287c56bb7
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: 117
 ht-degree: 5%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 5%
 # 즐거운 순간 개요 {#interesting-moments-overview}
 
 재미있는 순간 흐름 단계를 사용하여 Smart Campaign에서 잠재 고객이 수행하는 멋진 작업에 대한 가시성을 영업팀에 제공할 수 있습니다.
+
+>[!AVAILABILITY]
+>
+>즐거운 순간을 이용하려면 [!DNL Marketo Sales Insight] 또는 [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) 사용자여야 합니다.
 
 ![](assets/image2016-1-27-11-3a1-3a53.png)
 
