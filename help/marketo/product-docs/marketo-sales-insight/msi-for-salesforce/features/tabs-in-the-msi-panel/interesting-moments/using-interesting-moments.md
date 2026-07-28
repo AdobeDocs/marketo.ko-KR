@@ -5,15 +5,12 @@ title: 즐거운 순간 사용
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/a7xwk8AWmiXHHxNMaCKh6rfVAO-60pwNjBoNsCZu0h4
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 76cacaf05738c6fe8836c5f2e9c64d9287c56bb7
 workflow-type: tm+mt
-source-wordcount: 427
+source-wordcount: 431
 ht-degree: 1%
 
 ---
@@ -24,11 +21,11 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->[!DNL Marketo Sales Insight] 및 [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) 고객만 사용할 수 있습니다.
+>즐거운 순간을 이용하려면 [!DNL Marketo Sales Insight] 또는 [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) 사용자여야 합니다.
 
 ## 흥미로운 순간이 뭐예요? {#what-is-an-interesting-moment}
 
-그건 너한테 달렸어! 영업 팀과 관련된 정보를 결정합니다. 영업 팀은 잠재 고객 확보 시기를 알고 싶을 수 있습니다.
+그건 너한테 달렸어 영업 팀과 관련된 정보를 결정합니다. 영업 팀은 잠재 고객 확보 시기를 알고 싶을 수 있습니다.
 
 * 웹 사이트의 가격 페이지를 방문합니다.
 * 새 제품 공지 이메일의 링크를 클릭합니다.
