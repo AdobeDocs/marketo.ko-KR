@@ -3,7 +3,8 @@ audience: end-user
 user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
-source-git-commit: 82084b98ee8f4e89896aa16b99c82af97fcea971
+nudge: toc
+source-git-commit: 6fc98c8f6a47c184831964e5613aa9bd05e9b737
 workflow-type: tm+mt
 source-wordcount: '8911'
 ht-degree: 96%
@@ -1120,7 +1121,7 @@ ht-degree: 96%
       + [리드 조사](product-docs/marketo-ai/skills/investigate-leads.md)
       + [리드 가져오기](product-docs/marketo-ai/skills/import-leads.md)
       + [프로그램 유효성 검사](product-docs/marketo-ai/skills/validate-programs.md)
-    + [Marketo Mcp](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mcp-server)
+    + [Marketo Mcp](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Marketo 알림 {#marketo-notifications}
     + {hide-from-toc}[알림: Websocket 연결](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
@@ -1920,7 +1921,7 @@ ht-degree: 96%
   + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat 릴리스 TEMP](release-notes/dynamic-chat-temp.md)
   + [이전 릴리스](release-notes/previous-releases.md)
-  + {hide-from-toc}이전 릴리스 개 {#previous-releases}
+  + 이전 릴리스 {hide-from-toc}개 {#previous-releases}
     + 2026 {#2026}
       + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)
