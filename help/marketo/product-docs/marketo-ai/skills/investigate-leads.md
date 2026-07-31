@@ -1,10 +1,9 @@
 ---
 description: 조사 리드 에이전트는 마케터가 가장 자주 묻는 질문에 대한 답을 제공합니다. 활동 로그, 스마트 캠페인 내역 및 채점 기록을 수동으로 분석하는 것보다 빠르고 안정적입니다.
 title: 리드 조사
-badge: Beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -13,15 +12,9 @@ ht-degree: 0%
 
 특정 사용자/리드가 마일스톤(예: MQL, 프로그램 자격 또는 캠페인)에 도달하지 않은 이유를 알아보고 발생한 사항에 대한 간단한 설명을 얻을 수 있습니다.
 
->[!AVAILABILITY]
+>[!PREREQUISITES]
 >
->이 기능은 현재 오픈 베타에 있습니다. 액세스 권한을 요청하려면 계정 관리자에게 문의하십시오. [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에도 동의해야 합니다.
->
->* 개인/잠재 고객 레코드와 조사 중인 프로그램 또는 이정표에 대한 보기 액세스 권한이 있어야 합니다.
-
->[!AVAILABILITY]
->
->이 기능은 현재 오픈 베타에 있습니다. 액세스하려면 계정 관리자에게 문의하십시오.
+>개인/잠재 고객 레코드와 조사 중인 프로그램 또는 이정표에 대한 보기 액세스 권한이 있어야 합니다.
 
 ## 사용 방법 {#how-to-use}
 

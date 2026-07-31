@@ -1,10 +1,9 @@
 ---
 description: 리드 가져오기, 프로그램 QA 및 데이터 표준화와 같은 주요 워크플로에서 Marketo AI의 데이터 범위, 거버넌스 제어 및 PII 고려 사항을 검토합니다.
 title: Marketo AI 데이터 정보 시트
-badge: Beta
-source-git-commit: 06d77c31c729de70033696662fb6191eb527dedf
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '1454'
+source-wordcount: '1453'
 ht-degree: 0%
 
 ---

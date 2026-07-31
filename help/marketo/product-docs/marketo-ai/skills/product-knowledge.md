@@ -1,10 +1,9 @@
 ---
 description: 제품 지식을 사용하여 Marketo AI에게 Marketo Engage 기능, 모범 사례 및 사용 방법에 대해 질문할 수 있습니다. 답변은 Adobe의 공식 설명서에 근거가 있습니다.
 title: 제품 지식
-badge: Beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -12,10 +11,6 @@ ht-degree: 0%
 # 제품 지식 {#product-knowledge}
 
 제품 지식을 통해 필요할 때 플랫폼을 떠나지 않고 Marketo 전문 지식을 이용할 수 있습니다. 일반적인 언어로 질문하면 Marketo AI가 공식 Adobe 설명서를 참고하여 질문에 답변합니다.
-
->[!AVAILABILITY]
->
->이 기능은 현재 오픈 베타에 있습니다. 액세스 권한을 요청하려면 계정 관리자에게 문의하십시오. [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에도 동의해야 합니다.
 
 ## 사용 방법 {#how-to-use}
 
