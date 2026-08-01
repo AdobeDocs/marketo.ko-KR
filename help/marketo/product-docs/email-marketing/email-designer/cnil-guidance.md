@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 2단계: 동의 필드 채우기 {#populate}
 
-1. 데이터 가져오기(API 동기화 또는 [CSV 업로드](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"})를 통해 각 사용자에 대한 이메일 픽셀 추적 필드 값을 설정하십시오.
+1. 데이터 가져오기(API 동기화 또는 [CSV 업로드](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"})를 통해 각 사용자에 대한 이메일 픽셀 추적 필드 값을 설정하십시오.
 
    ![](assets/cnil-3.png)
 
