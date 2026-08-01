@@ -2,10 +2,9 @@
 description: 리드 가져오기 에이전트를 사용하여 CSV를 업로드하고, 비즈니스 규칙을 적용하고, 필드를 매핑하고, Marketo Engage 데이터베이스로 리드를 직접 가져오는 방법에 대해 알아봅니다.
 title: 리드 가져오기
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-badge: Beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -13,10 +12,6 @@ ht-degree: 0%
 # 리드 가져오기 {#import-leads}
 
 필드 매핑 지원을 통해 리드 목록을 Marketo Engage 데이터베이스로 가져오고 중복 제거합니다.
-
->[!AVAILABILITY]
->
->이 기능은 현재 오픈 베타에 있습니다. 액세스 권한을 요청하려면 계정 관리자에게 문의하십시오. [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에도 동의해야 합니다.
 
 ## 사용 방법 {#how-to-use}
 

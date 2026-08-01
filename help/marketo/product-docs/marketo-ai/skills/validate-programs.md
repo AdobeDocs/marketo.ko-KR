@@ -1,11 +1,10 @@
 ---
 description: 이메일, 랜딩 페이지, 캠페인 등 모든 구성 요소에서 모범 사례를 감사하는 방법을 알아봅니다.
 title: 프로그램 유효성 검사
-badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: ef5d8b15ea606262a8cd57003e7d2b56fa79a155
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -13,10 +12,6 @@ ht-degree: 0%
 # 프로그램 유효성 검사 {#validate-programs}
 
 이메일, 랜딩 페이지, 캠페인 등 모든 구성 요소에 대한 모범 사례를 살펴보려면 프로그램을 감사하십시오.
-
->[!AVAILABILITY]
->
->이 기능은 현재 오픈 베타에 있습니다. 액세스 권한을 요청하려면 계정 관리자에게 문의하십시오. [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에도 동의해야 합니다.
 
 ## 사용 방법 {#how-to-use}
 

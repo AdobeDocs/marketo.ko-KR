@@ -1,11 +1,10 @@
 ---
 description: Marketo AI 권한을 활성화하고 조직 규칙을 구성하고 통합 및 알림과 같은 설정을 관리하는 방법을 알아봅니다.
 title: 설정 및 설정
-badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '545'
 ht-degree: 2%
 
 ---
@@ -16,7 +15,7 @@ ht-degree: 2%
 
 >[!AVAILABILITY]
 >
->이 기능은 현재 오픈 베타에 있습니다. 액세스 권한을 요청하려면 계정 관리자에게 문의하십시오. [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에도 동의해야 합니다.
+>이 기능은 모든 구독에서 사용할 수 있습니다. 내 Marketo 화면에 Marketo AI 타일이 표시되지 않으면 계정 관리자에게 문의하십시오. [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에도 동의해야 합니다.
 
 ## 권한 및 역할 {#permission-and-role}
 
