@@ -5,43 +5,10 @@ title: Marketo Engage 용어집
 feature: Getting Started
 exl-id: dd97b50c-4148-473e-b9fb-4e76ef733e5d
 TQID: https://experienceleague.adobe.com/PTGIP2b0gv2iYVUC6dXES-Sh2XNeCLZJT-VnWZ5-1Yk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: c954475c-8548-4e33-a0b8-6b550d956115
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: be80ef53-082b-4612-a88f-dfce57d36b02
-  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
-  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
-  - id: cfb57412-021b-4a60-afde-b402d442e24f
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-  - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
-  - id: edda586e-0147-48f2-b791-992622a00783
-  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
-  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c2dbad80-0f5c-4d96-a798-2a65f93b8721id: c5f60233-d5ea-4453-a799-0ad258b4d399id: c954475c-8548-4e33-a0b8-6b550d956115id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: ad89fb33-8541-4339-afe7-bb13d1633714id: be80ef53-082b-4612-a88f-dfce57d36b02id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272id: cfb57412-021b-4a60-afde-b402d442e24fid: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1id: df8eb12b-4f82-491f-acbb-d74012ca5654id: ea6641cb-8461-4151-a8a9-9faaa44a928aid: edda586e-0147-48f2-b791-992622a00783id: fc5011cf-5b46-40b1-a5de-d7f042f85633id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
 workflow-type: tm+mt
 source-wordcount: 6103
@@ -95,7 +62,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><strong>확보 프로그램</strong></td>
-   <td colspan="1">사용자를 획득하는 일을 담당하는 프로그램입니다. 해당 사용자는 익명이었을 수 있으며, 이 프로그램이 그 사용자를 알려진 사용자로 전환하는 역할을 했습니다. 이는 최초 접점 기여도를 확립하는 데 도움이 됩니다.</td>
+   <td colspan="1">사용자를 획득하는 일을 담당하는 프로그램입니다. 해당 사용자는 익명이었을 수 있으며, 이 프로그램이 그 사용자를 식별된 사용자로 전환하는 역할을 했습니다. 이는 최초 접점 기여도를 확립하는 데 도움이 됩니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>활동</strong></td>
@@ -103,7 +70,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>광고 네트워크 통합</strong></a></td>
-   <td colspan="1">(이전 명칭: Ad Bridge)Marketo의 고유한 대상자 데이터를 유료 미디어 시스템에 연결하여 보다 타기팅되고 개인화된 디지털 광고 캠페인을 실행하는 방법입니다.</td>
+   <td colspan="1">(이전 명칭: Ad Bridge) Marketo의 고유한 대상자 데이터를 유료 미디어 시스템에 연결하여 보다 타기팅되고 개인화된 디지털 광고 캠페인을 실행하는 방법입니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Adobe Marketo Engage</strong></td>
@@ -324,7 +291,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td><strong>중복 제거</strong></td>
-   <td>중복 제거라고도 합니다. 중복을 제거하기 위해 정보(예: 사용자)를 식별하고 통합하는 프로세스입니다. 예를 들어 Marketo는 새로운 사용자가 인스턴스에 들어올 때 자동으로 중복을 제거합니다.</td>
+   <td>중복 제거라고도 합니다. 중복을 제거하기 위해 정보(예: 사용자)를 식별하고 통합하는 프로세스입니다. 예를 들어 Marketo는 새로운 사용자가 인스턴스에 들어오면 자동으로 중복을 제거합니다.</td>
   </tr>
   <tr>
    <td colspan="1">
@@ -351,7 +318,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><strong>인구 통계 점수</strong></td>
-   <td colspan="1">직책, 매출 규모 또는 목표 산업과 같은 특정 속성을 기반으로 사용자에게 할당되는 포인트 값입니다. 일반적으로 사용자가 귀하의 제품이나 회사에 적합한 정도를 측정하는 데 사용됩니다. </td>
+   <td colspan="1">직책, 매출 규모 또는 목표 산업과 같은 특정 속성을 기반으로 사용자에게 할당되는 포인트 값입니다. 일반적으로 사용자가 제품이나 회사에 얼마나 적합한지 측정하는 데 사용됩니다. </td>
   </tr>
   <tr>
    <td colspan="1"><strong>Design Studio</strong></td>
@@ -379,7 +346,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><strong>초안</strong></td>
-   <td colspan="1"><p>아직 <strong>승인</strong>되지 않은 <strong>이메일</strong> 또는 <strong>랜딩 페이지</strong>입니다. 초안은 승인되기 전까지 공개적으로 볼 수 없습니다. 초안을 테스트 이메일(샘플)로 보낼 수는 있지만 어떠한 분석 자료도 기록되지 않습니다. <br></p></td>
+   <td colspan="1"><p>아직 <strong>승인</strong>되지 않은 <strong>이메일</strong> 또는 <strong>랜딩 페이지</strong>입니다. 초안은 승인되기 전까지 공개적으로 볼 수 없습니다. 초안을 테스트 이메일(샘플)로 보낼 수는 있지만 분석은 기록되지 않습니다. <br></p></td>
   </tr>
   <tr>
    <td colspan="1"><strong>드립 캠페인</strong></td>
@@ -682,7 +649,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>마케팅 자동화</strong></a></td>
-   <td colspan="1">기업이 마케팅 작업 및 워크플로를 간소화, 자동화 및 측정하여 운영 효율성을 높이고 수익을 더 빠르게 성장시킬 수 있도록 하는 기술 범주입니다.</td>
+   <td colspan="1">기업이 마케팅 작업 및 워크플로를 간소화, 자동화 및 측정하여 운영 효율성을 높이고 매출을 더 빠르게 성장시킬 수 있도록 하는 기술 범주입니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>마케팅 캘린더</strong></td>
@@ -776,7 +743,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td><strong>옵트인</strong></td>
-   <td>사용자가 마케팅 이메일 수신을 시작하도록 권한을 부여하는 경우입니다.</td>
+   <td>사용자가 마케팅 이메일 수신에 동의하는 경우입니다.</td>
   </tr>
   <tr>
    <td><strong>옵트아웃</strong></td>
@@ -903,7 +870,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td><strong>역할</strong></td>
-   <td>여러 권한을 함께 그룹화하는 사용자에게 할당된 직함입니다(예: 관리자, 마케팅 사용자).</td>
+   <td>사용자에게 할당되며 여러 권한을 함께 그룹화하는 직함입니다(예: 관리자, 마케팅 사용자).</td>
   </tr>
   <tr>
    <td colspan="1"><strong>역할 계정</strong></td>
@@ -974,7 +941,7 @@ ht-degree: 62%
   </tr>
   <tr>
    <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>스마트 캠페인</strong></a></td>
-   <td colspan="1">Marketo에서 가장 중요한 도구 중 하나입니다. 사용자가 결정한 기준에 따라 지정한 작업을 수행합니다. (<strong><a href="#b">배치 캠페인</a></strong> 및 <strong><a href="#t">트리거 캠페인</a></strong>도 참조)</td>
+   <td colspan="1">Marketo에서 가장 중요한 도구 중 하나입니다. 결정한 기준에 따라 지정한 작업을 수행합니다. (<strong><a href="#b">배치 캠페인</a></strong> 및 <strong><a href="#t">트리거 캠페인</a></strong>도 참조)</td>
   </tr>
   <tr>
    <td colspan="1"><strong>스마트 목록</strong></td>
@@ -989,7 +956,7 @@ ht-degree: 62%
    <td colspan="1">(<a href="#b"><strong>바운스</strong></a> 참조)</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>Software as a Service (SaaS)</strong></td>
+   <td colspan="1"><strong>서비스형 소프트웨어(SaaS)</strong></td>
    <td colspan="1">다운로드가 필요하지 않고 웹 브라우저와 인터넷 연결이 가능한 디바이스만 있으면 되는 소프트웨어 게재 방식입니다(예: Marketo). </td>
   </tr>
   <tr>
