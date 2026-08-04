@@ -1,9 +1,9 @@
 ---
 description: 리드 가져오기, 프로그램 QA 및 데이터 표준화와 같은 주요 워크플로에서 Marketo AI의 데이터 범위, 거버넌스 제어 및 PII 고려 사항을 검토합니다.
 title: Marketo AI 데이터 정보 시트
-source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
+source-git-commit: 03ad8c4d06e8dd011cd8fb0d49a7f7c436a18c16
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1382'
 ht-degree: 0%
 
 ---
@@ -28,25 +28,33 @@ Marketo AI는 마케팅 운영 팀이 리드 가져오기, 프로그램 유효�
 
 **함수:** 매핑, 표준화, 중복 제거 및 Marketo Engage으로 가져오기를 위해 사용자가 제공한 잠재 고객 데이터를 처리합니다.
 
-### 프로그램 QA
+### 프로그램 유효성 검사
 
 **함수:** 명명 표준, 승인 상태, 전자 메일 준수 및 흐름 논리와 같이 Skill Markdown 파일에서 사용자가 정의한 조직 규칙에 대해 Marketo 프로그램을 평가합니다.
 
-### 간단한 방법으로 프로그램 만들기
+<!--
 
-**함수:** 자연어 프롬프트를 사용하여 사용자 환경 내에서 직접 스마트 캠페인, 흐름 단계 및 콘텐츠 자리 표시자를 비롯한 Marketo 프로그램 구조를 생성합니다.
+### Create program from brief
 
-### 호출 가능 에이전트
+**Function:** Uses natural-language prompts to generate Marketo program structures, including smart campaigns, flow steps, and content placeholders, directly within the user's environment.
 
-**함수:** 유효성 검사, 정규화 및 보트 검색과 같은 사용 사례에 대해 Smart Campaign 흐름 단계 내에서 흐름 액션이 트리거된 AI 작업을 실행합니다.
+### Callable agents
 
-### 잠재 고객 조사
+**Function:** Executes flow action-triggered AI actions within Smart Campaign flow steps for use cases such as validation, normalization, and bot detection.
+
+-->
+
+### 리드 조사
 
 **함수:** 흐름 단계 실행 및 스마트 목록 멤버십을 검사하여 사용자가 마일스톤으로 진행했거나 진행하지 않은 이유에 대한 대화 분석을 제공합니다.
 
-### 측정 및 분석
+<!--
 
-**함수:**&#x200B;은(는) 권장 사항과 근본 원인 통찰력을 포함한 캠페인 및 프로그램 성과 분석을 표시합니다.
+### Measurement and analytics
+
+**Function:** Surfaces campaign and program performance analysis, including recommendations and root-cause insights.
+
+-->
 
 ### 제품 지식
 
@@ -58,11 +66,9 @@ Marketo AI는 마케팅 운영 팀이 리드 가져오기, 프로그램 유효�
 
 ## 가용성 및 롤아웃 상태
 
-**자격:** 초기 사용자 지원은 Adobe Gen AI 라이더를 수락한 적격 Marketo Engage 사용자로 제한됩니다.
+**자격:** 프로비저닝은 [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에 동의한 Marketo Engage 사용자로 제한됩니다.
 
-**프로비전:** 액세스는 Marketo Engage 경험 내에서 기존 제품 지원 컨트롤 및 기능 플래그 프로비저닝을 통해 관리됩니다.
-
-**롤아웃 모델:** 배포는 광범위한 공개 Beta 확장 전에 Alpha 및 Private Beta을 통해 진행됩니다.
+**롤아웃 모델:** 배포는 광범위한 공개 Beta 확장 전에 Alpha 및 Private Beta을 통해 진행되며 궁극적으로 일반 가용성입니다.
 
 **지리적 범위:** 초기 릴리스는 중국 본토를 제외한 글로벌 Marketo Engage 사용자를 위한 것입니다.
 

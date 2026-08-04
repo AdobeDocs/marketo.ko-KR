@@ -4,9 +4,9 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: f0d3f6ad0113d3610f55e03533f8280816ed5181
+source-git-commit: 16ff6c279c222f3cd2d9b8a1a7bbba15472231cb
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '680'
 ht-degree: 6%
 
 ---
@@ -48,10 +48,11 @@ ht-degree: 6%
 
 아래 표를 검토하기 전에 [구독 데이터 센터 및 Pod/서버를 식별하는 방법을 알아보세요](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify).
 
-## 예약 {#schedule}
+## 일정 {#schedule}
 
 새 날짜 및 데이터 센터/pod 정보가 주기적으로 추가되거나 변경되므로 이 일정을 모니터링하여 업데이트를 진행하십시오.
 
++++7월 일정
 <table>
  <tbody>
   <tr>
@@ -121,7 +122,20 @@ ht-degree: 6%
    <td>2026년 7월 31일</td>
    <td>AB43</td>
    <td>오후 3시(태평양 표준시)</td>
-   <td>일정대로 진행 중</td>
+   <td>완료</td>
+  </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">날짜</th>
+   <th style="width:25%">데이터 센터/Pod</th>
+   <th style="width:25%">시간</th>
+   <th style="width:25%">상태</th>
   </tr>
   <tr>
    <td>2026년 8월 12일</td>
@@ -171,6 +185,24 @@ ht-degree: 6%
    <td>일정대로 진행 중<br>
    일정에 따라</td>
   </tr>
+  <tr>
+   <td>2026년 9월 8일</td>
+   <td>AB01<br>
+   AB02</td>
+   <td>오후 5시(태평양 표준시)<br>
+   오후 6시(태평양 표준시)</td>
+   <td>일정대로 진행 중<br>
+   일정에 따라</td>
+  </tr>
+  <tr>
+   <td>2026년 9월 10일</td>
+   <td>AB03<br>
+   AB04</td>
+   <td>오후 5시(태평양 표준시)<br>
+   오후 6시(태평양 표준시)</td>
+   <td>일정대로 진행 중<br>
+   일정에 따라</td>
+  </tr>
   </body>
 </table>
 
@@ -202,3 +234,21 @@ ht-degree: 6%
 ## 업데이트 및 지원 {#support}
 
 최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+
+## FAQ {#faq}
+
+**데이터가 어디에 저장되어 있습니까?**
+모든 Marketo 사용자 데이터는 Amazon Web Services(AWS)에 저장됩니다. Marketo은 소유한 물리적 데이터 센터에서 AWS의 엔터프라이즈급 클라우드 플랫폼으로 인프라를 마이그레이션했습니다.
+
+**개인 데이터는 어디에 저장되어 있습니까?**
+개인 데이터는 AWS의 완전히 관리되는 관계형 데이터베이스 서비스인 Amazon Aurora에 저장됩니다. Aurora는 AWS 지역 내의 세 개의 개별 가용 영역에서 6가지 방법으로 데이터를 복제하여 하드웨어 오류, 스토리지 성능 저하 및 현지화된 인프라 이벤트로부터 개인 데이터를 보호합니다.
+
+**저장소 환경을 소유하고 있는 사용자**
+스토리지 인프라는 Amazon Web Services(AWS)가 소유 및 운영합니다. Adobe(Marketo)는 공유 책임 모델 아래 AWS의 고객으로 작동합니다. AWS은 기본 인프라의 보안 및 가용성을 책임지는 반면, Adobe은 그 안에서 실행되는 데이터 및 애플리케이션의 보안을 책임집니다.
+
+**프로덕션, 백업/DR 위치 및 저장소 기술에 대한 전체 세부 정보는 무엇입니까?**
+Marketo은 AWS에서 완전히 관리하는 클라우드 기반 관계형 데이터베이스 엔진인 Amazon Aurora를 기본 데이터베이스 기술로 사용합니다. Aurora는 컴퓨팅 및 스토리지를 분리하여 운영 영역 내 3개의 가용 영역에 걸쳐 6가지 방법으로 데이터를 자동으로 복제하고 쓰기 작업을 확인하기 위해 4개의 복제본 쿼럼을 필요로 합니다.
+
+Aurora는 또한 Amazon S3에 대한 지속적인 자동 백업을 실시간으로 수행하므로 구성된 보존 기간 내의 모든 초 단위로 PITR(시점 복구)을 수행할 수 있습니다.
+
+현재 Marketo의 Aurora 배포는 교차 영역 복제 없이 단일 AWS 영역 내에서 작동합니다. 운영 데이터는 지정된 지역 인프라에 그대로 유지되며 재해 복구는 Aurora의 다중 AZ 스토리지 이중화 및 지속적인 백업을 통해 2차 지역으로 지리적 페일오버가 아니라 제공됩니다. 이는 Marketo의 AWS 인프라가 성숙됨에 따라 더욱 평가될 수 있다.
