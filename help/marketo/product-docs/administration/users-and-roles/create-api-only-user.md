@@ -3,16 +3,20 @@ description: 구독에서 Adobe IMS를 사용하는 경우 Marketo Engage에서 
 title: Adobe IMS 활성화된 구독을 위한 API 전용 사용자 추가
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: cfbc8488d05cb25263fc71501def2ba74f945c0e
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 15%
+source-wordcount: '154'
+ht-degree: 14%
 
 ---
 
 # Adobe IMS 활성화된 구독을 위한 API 전용 사용자 추가 {#add-api-only-user-for-adobe-ims-enabled-subscriptions}
 
 Marketo Engage Marketing 사용자 및 관리자는 Adobe Admin Console에서 관리하지만 Marketo Engage API 전용 사용자는 Marketo Engage에서 만들고 관리해야 합니다.
+
+>[!NOTE]
+>
+>API Marketo Engage UI에서 생성된 사용자만 사용자 할당에 계산되지 않습니다.
 
 아래 절차에서는 Marketo Engage에서 API 전용 사용자를 추가하는 방법을 설명합니다. [API 전용 역할을 설정](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)해야 합니다.
 
