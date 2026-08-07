@@ -1,0 +1,174 @@
+---
+solution: Marketo Engage
+product: marketo
+title: 이메일 Designer에서 컨텐츠 생성
+description: 이메일에 텍스트 및 이미지를 추가할 콘텐츠를 생성하는 방법에 대해 알아봅니다. 콘텐츠 아이디어를 얻으려면 이메일 Designer에서 Adobe 생성 AI를 사용하십시오.
+level: Beginner, Intermediate
+feature: Email Designer
+exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
+TQID: https://experienceleague.adobe.com/iqJs2yG5ip5vNlwtjvIEjLXp0o0P3-mHVEZmOLcAqBE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
+workflow-type: tm+mt
+source-wordcount: 914
+ht-degree: 1%
+
+---
+
+# 이메일 Designer에서 컨텐츠 생성 {#generate-content}
+
+Marketo Engage 이메일 Designer에서 콘텐츠를 생성하면 현대적이고 성능이 뛰어나며 직관적인 이메일을 만들 수 있습니다. 이는 특정 사용자/구매 그룹, 마케팅 여정 단계, 커뮤니케이션 전략, 톤 등에 적합한 콘텐츠를 만드는 데 도움이 되는 이미지 생성을 위해 Firefly과 함께 Adobe의 생성 AI 기술 및 프롬프트 라이브러리를 통해 수행됩니다. 특정 브랜드 자산을 활용하여 콘텐츠를 만들 수도 있습니다.
+
+>[!PREREQUISITES]
+>
+>이 기능은 기본적으로 활성화되어 있지 않습니다. 먼저 이메일 Designer에서 Gen-AI 기능을 사용하려면 [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에 동의해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
+
+## 권한 설정 {#set-up-permissions}
+
+_위의 사전 요구 사항을 따르면_ Marketo 관리자는 사용자가 GenAI 단추를 보려면 특정 사용자/역할에 액세스 권한을 적용해야 합니다.
+
++++권한 설정 방법 알아보기
+
+1. Marketo Engage에서 **관리자**&#x200B;를 클릭하고 **사용자 및 역할**&#x200B;을 선택합니다.
+
+   ![](assets/use-the-ai-assistant-0a.png)
+
+1. **역할** 탭에서 원하는 역할을 두 번 클릭합니다.
+
+   ![](assets/use-the-ai-assistant-0b.png)
+
+1. _Design Studio 액세스_&#x200B;에서 **AI Assistant 액세스** 확인란을 선택하고 **저장**&#x200B;을 클릭합니다.
+
+   ![](assets/use-the-ai-assistant-0c.png)
+
+1. 사용자 탭을 클릭하고 액세스를 제공할 사용자를 선택합니다.
+
+   ![](assets/use-the-ai-assistant-0d.png)
+
+1. 3단계에서 선택한 역할과 원하는 작업 공간(해당하는 경우)을 선택합니다. **저장**&#x200B;을 클릭합니다.
+
+   ![](assets/use-the-ai-assistant-0e.png)
+
++++
+
+## 사용 사례 {#use-cases}
+
+* 전자 메일의 [제목 줄 및/또는 사전 머리글 만들기](#create-a-subject-line-preheader)
+* 전자 메일의 [특정 섹션에 대한 콘텐츠 만들기](#create-content-for-a-specific-section)
+* 선택한 템플릿에서 [전체 전자 메일 만들기](#create-an-entire-email)
+
+## 제목 줄/사전 머리글 만들기 {#create-a-subject-line-preheader}
+
+제목 줄, 사전 머리글 또는 둘 다를 만듭니다.
+
+![](assets/use-the-ai-assistant-1.png)
+
+아래 예제는 제목 줄을 보여 줍니다. 프리 헤더의 경우 _프리 헤더_ 확인란(위의 이미지에 표시됨)을 클릭한 후 동일한 단계를 수행할 수 있습니다.
+
+새 이메일 Designer을 사용하여 이메일을 만들었을 때 임시 제목 줄을 입력합니다.
+
+전자 메일이 만들어지면 제목 줄이 오른쪽의 _세부 정보_ 열에 있습니다. 그 옆에 있는 콘텐츠 생성 단추(![필터 아이콘](assets/icon-ai-assistant.png) )를 클릭하면 Gen AI 기능을 사용하여 새 제목 줄을 만드는 데 도움이 됩니다.
+
+![](assets/use-the-ai-assistant-2.png)
+
+**참조 콘텐츠 사용** 옵션을 사용하여 선택한 콘텐츠를 기반으로 새 콘텐츠를 개인화할 수 있습니다.
+
+제목 줄을 사용자 지정하라는 메시지를 입력합니다. 적절한 제목 줄을 만들기 위해 관련 텍스트 설정을 입력하고 참조로 사용할 브랜드 에셋을 업로드합니다.
+
+![](assets/use-the-ai-assistant-3.png)
+
+텍스트 설정에는 다음이 포함됩니다.
+
+<table><tbody>
+  <tr>
+    <td style="width:25%"><b>구매 그룹</b></td>
+    <td>타깃팅하는 특정 구매 그룹(예: 실무자, 인플루언서, 의사 결정자).</td>
+  </tr>
+  <tr>
+    <td style="width:25%"><b>마케팅 여정 단계</b></td>
+    <td>특정 마케팅 여정 단계(예: 검색, 평가, 커밋)의 수신자.</td>
+  </tr>
+  <tr>
+    <td style="width:25%"><b>커뮤니케이션 전략</b></td>
+    <td>커뮤니케이션의 목적(예: 긴급, 소셜 증명, 정보 제공).</td>
+  </tr>
+  <tr>
+    <td style="width:25%"><b>언어</b></td>
+    <td>제목란을 생성할 언어입니다.</td>
+  </tr>
+  <tr>
+    <td style="width:25%"><b>톤</b></td>
+    <td>콘텐츠를 생성할 톤(예: 영감, 흥미, 유머).</td>
+  </tr>
+  <tr>
+    <td style="width:25%"><b>이모티콘</b></td>
+    <td>생성된 콘텐츠에 이모지를 포함할 수 있습니다.</td>
+  </tr>
+</tbody>
+</table>
+
+**생성**&#x200B;을 클릭하면 다음 중에서 선택할 수 있는 샘플이 나타납니다.
+
+![](assets/use-the-ai-assistant-4.png)
+
+브랜드 에셋을 업로드하여 에셋 내의 콘텐츠를 참조용으로 사용하여 제목 줄을 만들 수도 있습니다.
+
+![](assets/use-the-ai-assistant-5.png)
+
+변형을 선택하려면 해당 확인란을 선택하고 **선택**&#x200B;을 클릭합니다. **세분화**&#x200B;를 클릭하여 조정할 수도 있습니다. 또한 엄지손가락 위로 또는 엄지손가락 아래로 아이콘을 클릭하여 피드백을 제공할 수 있으므로 Gen-AI 기술이 사용자의 선호도를 학습할 수 있습니다.
+
+을 선택하면 제목 줄이 이메일 세부 정보에 채워집니다.
+
+![](assets/use-the-ai-assistant-6.png)
+
+## 이메일의 특정 섹션에 대한 콘텐츠 만들기 {#create-content-for-a-specific-section}
+
+이메일이 만들어지면 특정 섹션, 이미지 또는 텍스트를 수정할 수 있습니다.
+
+![](assets/use-the-ai-assistant-7.png)
+
+이 예제에서는 재무 템플릿을 사용하고 있습니다. 하나 이상의 기존 이미지가 사용자의 요구를 충족하지 않는 경우 설명을 기반으로 새 이미지를 만들 수 있습니다. 원하는 이미지를 선택하고 컨텐츠 생성 아이콘을 클릭합니다.
+
+![](assets/use-the-ai-assistant-8.png)
+
+&quot;현금 더미를 들고 책상에 앉아 있는 은행원&quot;과 같은 관련 세부 정보를 프롬프트에 입력합니다. 입력할 내용을 잘 모르는 경우 프롬프트 라이브러리(프롬프트 오른쪽)를 사용할 수도 있습니다. **이미지 설정**&#x200B;을 클릭합니다.
+
+![](assets/use-the-ai-assistant-9.png)
+
+토글을 클릭하여 _AI를 사용하여 이미지 생성_&#x200B;을 활성화한 다음 사용할 모델(Adobe Firefly 또는 Gemini 2.5 Nano Banana)을 포함하여 원하는 설정을 변경합니다. 완료되면 **생성**&#x200B;을 클릭하세요.
+
+![](assets/use-the-ai-assistant-10.png)
+
+여러 변형이 만들어집니다. 즐겨찾기를 선택하고 **적용**&#x200B;을 클릭하세요.
+
+![](assets/use-the-ai-assistant-11.png)
+
+>[!NOTE]
+>
+>필요한 이미지가 없으면 **생성**&#x200B;을 다시 클릭하여 새 버전을 만드십시오.
+
+이미지와 유사하게 이메일의 텍스트 부분도 수정할 수 있습니다.
+
+## 선택한 템플릿에서 전체 이메일 만들기 {#create-an-entire-email}
+
+이 옵션은 기존 템플릿을 사용하여 이메일을 만드는 경우에만 사용할 수 있습니다. 이메일 Designer에서 제공하는 표준 템플릿, 이미 만든 저장된 템플릿 또는 HTML 가져오기 옵션을 사용하여 가져온 템플릿일 수 있습니다. 전자 메일에 대해 [처음부터 디자인](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch)을 선택한 경우에는 이 옵션을 사용할 수 없습니다.
+
+템플릿 내의 구성 요소를 선택하지 않고 템플릿을 선택하고 이메일 Designer에서 컨텐츠 생성 버튼을 클릭합니다.
+
+![](assets/use-the-ai-assistant-12.png)
+
+관련 프롬프트를 입력하고 이메일에 사용할 텍스트 설정, 브랜드 에셋 및 이미지 설정을 선택합니다.
+
+![](assets/use-the-ai-assistant-13.png)
+
+Firefly을 사용하여 이미지를 생성하려면 이미지 설정을 선택하고 **AI를 사용하여 이미지 생성**&#x200B;에 대한 토글을 선택합니다.
+
+![](assets/use-the-ai-assistant-14.png)
+
+원하는 _콘텐츠 형식_, _색상 및 톤_, _조명_ 및 _컴포지션_&#x200B;을 선택하여 전자 메일의 Gen-AI 이미지를 만드십시오. 완료되면 **생성**&#x200B;을 클릭하세요.
+
+![](assets/use-the-ai-assistant-15.png)
+
+**미리 보기**&#x200B;를 클릭하여 전자 메일에 변형이 어떻게 표시되는지 확인하세요. **적용**&#x200B;을 클릭하여 변형을 선택하세요.

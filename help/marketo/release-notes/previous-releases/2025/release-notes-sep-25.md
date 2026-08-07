@@ -4,18 +4,11 @@ title: 릴리스 정보 - 2025년 9월
 feature: Release Information
 exl-id: fd40d9df-67ba-4fc4-891f-81aebfd07b0a
 TQID: https://experienceleague.adobe.com/WfcIv3NWuYLgVCvHGcGmKbE6pDLOJ6FBk0OAX5uNJDE
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
 source-wordcount: 960
 ht-degree: 85%
@@ -34,7 +27,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 포함되며, **2025년 9월 19일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
+다음 기능은 표준 릴리스 주기에 포함되며, **2025년 9월 19일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인하십시오.
 
 <table style="table-layout:auto">
  <tbody>
@@ -46,7 +39,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>온디맨드 웨비나 활동 유지</strong>: 대화형 웨비나 사용자는 이제 온디맨드 웨비나 대시보드 데이터를 30일 넘게 사용할 수 있습니다(기존에는 웨비나 날짜로부터 최대 30일까지만 가능).</td>
    <td>릴리스됨</td>
-   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">수동 동기화</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">수동 동기화</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -56,7 +49,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>이메일 디자이너 - AI 어시스턴트 권한</strong>: Marketo 관리자는 특정 사용자에게 GenAI 기능에 대한 액세스 권한을 제공할 수 있습니다.</td>
    <td>릴리스됨</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">권한 설정</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/generate-content.md#set-up-permissions">권한 설정</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -74,7 +67,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>이메일 디자이너 - 콘텐츠 공동 작업 워크플로</strong>: 이제 이메일 자산 내에서 다른 Marketo 사용자에 대해 댓글을 달고 공동 작업을 수행할 수 있습니다. 팀원 태그 지정(적절한 자산 권한이 있는 Marketo 사용자)에 태그를 지정하면 이메일 또는 펄스 알림을 받습니다.</td>
+   <td><strong>이메일 디자이너 - 콘텐츠 공동 작업 워크플로</strong>: 이제 이메일 자산 내에서 다른 Marketo 사용자에 대해 댓글을 달고 공동 작업을 수행할 수 있습니다. 팀원(적절한 에셋 권한이 있는 Marketo 사용자)을 태그하면 이메일 또는 펄스 알림을 받습니다.</td>
    <td>릴리스됨</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">이메일 공동 작업</a></td>
   </tr>
@@ -100,9 +93,9 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **Marketo Engage Identity 지원 중단**: 2025년 8월에 Adobe는 Marketo Engage Identity(`login.marketo.com`을 통한 로그인)에 대한 지원을 단계적으로 중단하기 시작했습니다. Marketo Engage에 대한 액세스가 중단되는 것을 방지하려면 늦어도 2025년 9월 30일까지 [Adobe Identity](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}로 전환해야 합니다.
 
-   * _IP 기반 Marketo 로그인 제한_&#x200B;을 위한 [IP 제한 지원 중단](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}은 2025년 7월 30일에 종료되었습니다. 이 기능은 Adobe Identity로의 전환이 완료될 때까지 계속 작동합니다. Adobe Admin Console의 Adobe Identity에 대한 새로운 위치 기반 액세스 제어 기능이 곧 출시됩니다.
+  * _IP 기반 Marketo 로그인 제한_&#x200B;을 위한 [IP 제한 지원 중단](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}은 2025년 7월 30일에 종료되었습니다. 이 기능은 Adobe Identity로의 전환이 완료될 때까지 계속 작동합니다. Adobe Admin Console의 Adobe Identity에 대한 새로운 위치 기반 액세스 제어 기능이 곧 출시됩니다.
 
-   * _Single Sign-On (SSO) 지원 중단_: [Marketo Identity SSO](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}에 대한 지원은 2025년 7월 30일에 중단되었습니다. 이 기능은 Adobe Identity로의 전환이 완료될 때까지 계속 작동합니다. Adobe Admin Console의 Adobe Identity에 대한 Single Sign-On은 별도로 구성해야 합니다. 설정 단계는 [ID 및 Single Sign-On 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}을 참조합니다.
+  * _Single Sign-On (SSO) 지원 중단_: [Marketo Identity SSO](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"}에 대한 지원은 2025년 7월 30일에 중단되었습니다. 이 기능은 Adobe Identity로의 전환이 완료될 때까지 계속 작동합니다. Adobe Admin Console의 Adobe Identity에 대한 Single Sign-On은 별도로 구성해야 합니다. 설정 단계는 [ID 및 Single Sign-On 설정](https://helpx.adobe.com/kr/enterprise/using/set-up-identity.html){target="_blank"}을 참조합니다.
 
 * **_친구에게 전달_ 기능** 사용 중단: 2025년 9월 29일부터 Marketo Engage 2.0 이메일(레거시 이메일 편집기)의 _친구에게 전달_ 기능이 모든 구독에서 완전히 사용 중단됩니다. 이는 이미 토큰을 사용하여 전송되었거나 전송될 예정인 이메일의 &#39;친구에게 전달&#39; 토큰과 &#39;친구에게 전달&#39; 링크에 영향을 미치게 됩니다. [자세히 알아보기](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
