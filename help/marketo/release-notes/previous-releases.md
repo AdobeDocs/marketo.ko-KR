@@ -2,10 +2,10 @@
 title: 이전 릴리스
 description: Marketo Engage의 모든 이전 버전에 대한 릴리스 노트이며 연도별로 정리되어 있습니다.
 feature: Release Information
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: ebd911b99e1c4c8f8a76db3a14235ee0d4ee0485
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 36%
+source-wordcount: '106'
+ht-degree: 35%
 
 ---
 
@@ -22,6 +22,7 @@ ht-degree: 36%
 * [2026년 2월](previous-releases/2026/release-notes-feb-26.md)
 * [2026년 3월](previous-releases/2026/release-notes-mar-26.md)
 * [2026년 5월](previous-releases/2026/release-notes-may-26.md)
+* [26 년 7 월](previous-releases/2026/release-notes-july-26.md)
 
 ## 2025
 

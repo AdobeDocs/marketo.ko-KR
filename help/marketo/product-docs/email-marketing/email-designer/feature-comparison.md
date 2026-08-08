@@ -27,7 +27,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
 source-wordcount: 833
 ht-degree: 13%
@@ -115,8 +115,8 @@ ht-degree: 13%
     <td>사용 가능</td>
   </tr>
   <tr>
-    <td>AI 어시스턴트</td>
-    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md" target="_blank">생성 AI</a> 모델을 통해 제목 줄, 콘텐츠 일부 또는 전체 이메일을 생성하는 기능.</td>
+    <td>콘텐츠 생성</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/generate-content.md" target="_blank">생성 AI</a> 모델을 통해 제목 줄, 콘텐츠 일부 또는 전체 이메일을 생성하는 기능.</td>
     <td>사용할 수 없음</td>
     <td>사용 가능</td>
   </tr>
