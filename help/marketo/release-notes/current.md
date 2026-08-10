@@ -78,6 +78,6 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **REST API 캠페인 실행 ID**: 특정 상황에서 활동의 캠페인 실행 ID 값이 두 쌍의 따옴표(예: `"campaignRunId": ""102938""`) 사이에 잘못된 형식으로 반환되는 경우가 있었습니다.<br/>8월 릴리스부터 이 값은 항상 올바른 숫자 형식(`"campaignRunId": 102938`)으로 반환됩니다
 
-* **리드 가져오기 활동 및 리드 변경 가져오기에 대한 정적 목록 크기 제한**: 2026년 9월 30일부터 대상 목록에 레코드가 너무 많음을 나타내는 1003 오류 코드와 함께 10,000개 이상의 리드가 포함된 경우 `listId` 매개 변수를 포함하는 리드 가져오기 활동 또는 리드 변경 가져오기 엔드포인트에 대한 호출이 실패합니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.
+* **리드 가져오기 활동 및 리드 변경 가져오기에 대한 정적 목록 크기 제한**: 2026년 9월 30일부터 대상 목록에 레코드가 너무 많음을 나타내는 1003 오류 코드와 함께 10,000개 이상의 리드가 포함된 경우 `listId` 매개 변수를 포함하는 리드 가져오기 활동 또는 리드 변경 가져오기 엔드포인트에 대한 호출이 실패합니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.
 
 * **REST API 병합 리드 제한**: 2026년 7월 31일부터 병합 리드 API 호출의 leadIds 매개 변수에 25개 이상의 ID를 포함하는 호출로 인해 1080 오류 코드가 발생하고 호출이 건너뜁니다. 25개 이상의 레코드를 하나로 병합해야 하는 작업은 이러한 호출의 성공을 보장하기 위해 여러 작업으로 분할해야 합니다.
