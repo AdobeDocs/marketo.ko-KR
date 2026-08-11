@@ -1,20 +1,19 @@
 ---
 solution: Marketo Engage
 product: Marketo Engage
-title: 이메일 Designer의 모듈 사용
+title: 이메일 디자이너의 모듈 사용
 description: 일관된 이메일 디자인을 위해 이메일 Designer에서 머리글, 히어로 및 바닥글을 포함하여 미리 빌드된 모듈에 액세스하고, 삽입하고, 사용자 지정하는 방법을 알아봅니다.
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
-hide: true
-source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
+source-git-commit: f80ac366b06d1bbd6ee165f5046f96d4d0174c59
 workflow-type: tm+mt
 source-wordcount: '460'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# 이메일 Designer의 모듈 사용 {#email-modules}
+# 이메일 디자이너의 모듈 사용 {#email-modules}
 
 이메일 Designer에는 _모듈_ 라이브러리가 포함되어 있습니다. 사용 준비가 되었으며 완전히 구조화된 콘텐츠 블록은 이메일 어셈블리를 가속화하고 커뮤니케이션 전반에 걸쳐 디자인 일관성을 증진하도록 설계되었습니다.
 
