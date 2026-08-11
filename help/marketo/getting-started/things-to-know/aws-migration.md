@@ -4,10 +4,10 @@ title: AWS 마이그레이션
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 16ff6c279c222f3cd2d9b8a1a7bbba15472231cb
+source-git-commit: 99b7a65fe436f40d474a708fb54d2f2f1a45c5db
 workflow-type: tm+mt
-source-wordcount: '680'
-ht-degree: 6%
+source-wordcount: '820'
+ht-degree: 5%
 
 ---
 
@@ -203,6 +203,24 @@ ht-degree: 6%
    <td>일정대로 진행 중<br>
    일정에 따라</td>
   </tr>
+  <tr>
+   <td>2026년 9월 15일</td>
+   <td>AB05<br>
+   AB06</td>
+   <td>오후 5시(태평양 표준시)<br>
+   오후 6시(태평양 표준시)</td>
+   <td>일정대로 진행 중<br>
+   일정에 따라</td>
+  </tr>
+  <tr>
+   <td>2026년 9월 18일</td>
+   <td>AB07<br>
+   AB08</td>
+   <td>오후 3시(태평양 표준시)<br>
+   오후 4시(태평양 표준시)</td>
+   <td>일정대로 진행 중<br>
+   일정에 따라</td>
+  </tr>
   </body>
 </table>
 
@@ -237,16 +255,16 @@ ht-degree: 6%
 
 ## FAQ {#faq}
 
-**데이터가 어디에 저장되어 있습니까?**
+**데이터가 저장된 위치**
 모든 Marketo 사용자 데이터는 Amazon Web Services(AWS)에 저장됩니다. Marketo은 소유한 물리적 데이터 센터에서 AWS의 엔터프라이즈급 클라우드 플랫폼으로 인프라를 마이그레이션했습니다.
 
 **개인 데이터는 어디에 저장되어 있습니까?**
 개인 데이터는 AWS의 완전히 관리되는 관계형 데이터베이스 서비스인 Amazon Aurora에 저장됩니다. Aurora는 AWS 지역 내의 세 개의 개별 가용 영역에서 6가지 방법으로 데이터를 복제하여 하드웨어 오류, 스토리지 성능 저하 및 현지화된 인프라 이벤트로부터 개인 데이터를 보호합니다.
 
-**저장소 환경을 소유하고 있는 사용자**
+**저장소 환경을 소유한 사람**
 스토리지 인프라는 Amazon Web Services(AWS)가 소유 및 운영합니다. Adobe(Marketo)는 공유 책임 모델 아래 AWS의 고객으로 작동합니다. AWS은 기본 인프라의 보안 및 가용성을 책임지는 반면, Adobe은 그 안에서 실행되는 데이터 및 애플리케이션의 보안을 책임집니다.
 
-**프로덕션, 백업/DR 위치 및 저장소 기술에 대한 전체 세부 정보는 무엇입니까?**
+**프로덕션, 백업/DR 위치 및 스토리지 기술에 대한 전체 세부 정보는 무엇입니까?**
 Marketo은 AWS에서 완전히 관리하는 클라우드 기반 관계형 데이터베이스 엔진인 Amazon Aurora를 기본 데이터베이스 기술로 사용합니다. Aurora는 컴퓨팅 및 스토리지를 분리하여 운영 영역 내 3개의 가용 영역에 걸쳐 6가지 방법으로 데이터를 자동으로 복제하고 쓰기 작업을 확인하기 위해 4개의 복제본 쿼럼을 필요로 합니다.
 
 Aurora는 또한 Amazon S3에 대한 지속적인 자동 백업을 실시간으로 수행하므로 구성된 보존 기간 내의 모든 초 단위로 PITR(시점 복구)을 수행할 수 있습니다.

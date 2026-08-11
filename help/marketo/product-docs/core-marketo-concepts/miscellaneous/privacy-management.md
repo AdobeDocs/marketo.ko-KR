@@ -7,10 +7,10 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 2cfe050fe4844f44815b9842cffafa4c1eb37c13
 workflow-type: tm+mt
-source-wordcount: 439
-ht-degree: 0%
+source-wordcount: 268
+ht-degree: 4%
 
 ---
 
@@ -26,19 +26,11 @@ Marketo Engage은 개인 정보 보호 규정을 준수하는 데 도움이 되�
 >
 >**또는-**
 >
->* Marketo Engage 사용자는 이미 Adobe Identity Management 시스템에 있는 다른 Experience Cloud 제품(예: RT-CDP, B2B 및 B2P 에디션, Audience Manager)을 활용합니다.
+>* Marketo Engage 사용자는 이미 Adobe Identity Management 시스템에 있는 다른 Experience Cloud 제품을 사용합니다(예: RT-CDP, B2B 및 B2P 에디션, Audience Manager).
 
 ## 개인 정보 관리에 관한 규정 {#regulations-on-privacy-management}
 
-Marketo Engage의 기능은 다음 규정을 준수하는 데 도움이 됩니다.
-
-* **[!DNL GDPR]** [일반 데이터 보호 규정](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en)은(는) EU 국가의 데이터 보호 요구 사항을 통합하고 현대화한 유럽 연합의 개인 정보 보호법입니다.
-* **[!DNL CCPA]** [캘리포니아 소비자 개인 정보 보호법](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5.&part=4.&chapter=&article=)은(는) 개인 정보에 대한 캘리포니아 거주자의 권리를 제공하고 캘리포니아에서 비즈니스를 수행하는 특정 엔터티에 데이터 보호 책임을 부과합니다.
-* **[!DNL PDPA]** [개인 정보 보호법](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/)은(는) 태국에 대한 데이터 보호 요구 사항을 통합하고 현대화한 개인 정보 보호법입니다.
-* **[!DNL LGPD]** 2021년 초부터 브라질에서 개인 데이터를 수집하거나 처리하는 모든 회사에 대해 [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf)가 적용됩니다.
-* **[!DNL NZPA]** [Privacy Act 2020](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html)은(는) 뉴질랜드에 대한 데이터 보호 요구 사항을 통합하고 현대화한 개인 정보 보호법입니다.
-
-위의 모든 규정은 위에 언급된 각 지역 또는 국가(EU, 캘리포니아, 태국, 브라질, 뉴질랜드)에 있는 데이터 주체의 데이터를 보유하고 있는 Marketo Engage 고객에게 적용됩니다.
+Marketo Engage 기능은 여러 개인 정보 보호 규정을 준수하는 데 도움이 됩니다. 지원되는 규정 목록은 [개인 정보 보호 규정 개요](https://experienceleague.adobe.com/ko/docs/experience-platform/privacy/regulations/overview){target="_blank"}를 참조하십시오.
 
 ## 액세스 권한 및 잊혀질 권리 {#right-to-access-and-right-to-be-forgotten}
 
