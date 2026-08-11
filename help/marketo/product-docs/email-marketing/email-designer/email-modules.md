@@ -6,7 +6,7 @@ description: 일관된 이메일 디자인을 위해 이메일 Designer에서 �
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
-source-git-commit: f80ac366b06d1bbd6ee165f5046f96d4d0174c59
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 # 이메일 디자이너의 모듈 사용 {#email-modules}
 
-이메일 Designer에는 _모듈_ 라이브러리가 포함되어 있습니다. 사용 준비가 되었으며 완전히 구조화된 콘텐츠 블록은 이메일 어셈블리를 가속화하고 커뮤니케이션 전반에 걸쳐 디자인 일관성을 증진하도록 설계되었습니다.
+이메일 Designer에는 이메일 어셈블리를 가속화하고 커뮤니케이션 전반에 걸쳐 디자인 일관성을 증진하도록 설계된 사용 준비가 끝난 완전한 구조의 콘텐츠 블록과 같은 모듈 라이브러리가 포함되어 있습니다.
 
 처음부터 구성하는 빈 자리 표시자인 [콘텐츠 구성 요소](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content)와 달리, 모듈은 캔버스에 직접 끌어 놓아 맞춤화하는 미리 만들어진 섹션(예: 브랜드 머리글, 제품 카드 그리드 또는 옵트아웃 링크가 있는 바닥글)입니다.
 
