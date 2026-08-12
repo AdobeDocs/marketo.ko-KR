@@ -4,7 +4,7 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
+source-git-commit: f80ac366b06d1bbd6ee165f5046f96d4d0174c59
 workflow-type: tm+mt
 source-wordcount: '8918'
 ht-degree: 96%
@@ -993,7 +993,7 @@ ht-degree: 96%
       + [개요](product-docs/email-marketing/email-designer/overview.md)
       + [기능 비교](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [이메일 작성](product-docs/email-marketing/email-designer/email-authoring.md)
-      + {hide-from-toc}[전자 메일 Designer에서 모듈 사용](product-docs/email-marketing/email-designer/email-modules.md)
+      + [이메일 디자이너의 모듈 사용](product-docs/email-marketing/email-designer/email-modules.md)
       + [조건부 콘텐츠](product-docs/email-marketing/email-designer/conditional-content.md)
       + [이메일 템플릿 작성](product-docs/email-marketing/email-designer/email-template-authoring.md)
       + [템플릿 가져오기](product-docs/email-marketing/email-designer/import-template.md)

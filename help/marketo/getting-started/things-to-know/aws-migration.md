@@ -2,11 +2,10 @@
 description: AWS 마이그레이션 - Marketo Engage 문서 - 제품 설명서
 title: AWS 마이그레이션
 feature: Getting Started
-hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 99b7a65fe436f40d474a708fb54d2f2f1a45c5db
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '835'
 ht-degree: 5%
 
 ---
@@ -42,7 +41,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->[외부 양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}을 사용하고 마이그레이션 중에 데이터를 유지하려면 [Adobe 지원](https://experienceleague.adobe.com/ko/support){target="_blank"}에 연락하여 양식 ID와 구독의 Munchkin ID를 제공하십시오.
+>[외부 양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}을 사용하고 마이그레이션 기간 동안 Marketo Engage을 사용할 수 없는 동안 수집된 양식 제출 데이터가 손실되지 않도록 하려면 미리 [Adobe 지원 센터](https://experienceleague.adobe.com/ko/support){target="_blank"} **최소 2일**&#x200B;에 연락하여 양식 ID와 구독의 Munchkin ID를 제공하십시오.
 
 ## 데이터 센터/포드 식별 {#identify}
 

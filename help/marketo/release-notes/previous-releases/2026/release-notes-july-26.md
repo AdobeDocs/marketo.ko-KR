@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2026년 7월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2026년 7월
 feature: Release Information
-source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '505'
 ht-degree: 20%
 
 ---
@@ -29,7 +29,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>Marketo AI 스킬 - 제품 지식</strong>: 제품 지식을 통해 플랫폼을 떠나지 않고 Marketo 전문 지식을 온디맨드로 이용할 수 있습니다. 일반 언어로 질문하면 Marketo AI가 공식 Adobe 설명서를 통해 답변을 제공합니다.
 </td>
-   <td>Beta 열기</td>
+   <td>릴리스됨</td>
    <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">제품 지식</a></td>
   </tr>
   <tr>
@@ -40,8 +40,19 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>Marketo AI 스킬 - 리드 조사</strong>: 특정 사용자/리드가 마일스톤(예: MQL, 프로그램 자격 또는 캠페인)에 도달하지 않은 이유를 확인하고 발생한 사항에 대한 간단한 설명을 얻을 수 있습니다.
 </td>
-   <td>Beta 열기</td>
+   <td>릴리스됨</td>
    <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">리드 조사</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>이메일 Designer - 모듈</strong>: 이제 이메일 어셈블리를 가속화하도록 설계된 완전한 구조의 사용 준비 콘텐츠 블록에 액세스할 수 있습니다.</td>
+   <td>릴리스됨</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">이메일 디자이너의 모듈 사용</a></td>
+  </tr>
   </tr>
   <tr>
    <td> </td>
@@ -51,12 +62,14 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>이메일 Designer - 콘텐츠 상황별 메뉴 생성</strong>: 이제 상황별 메뉴(검은색 막대)에서 이메일 Designer의 "콘텐츠 생성" 기능에 액세스할 수 있습니다. 예를 들어 텍스트 콘텐츠를 선택하면 상황별 메뉴에 콘텐츠 생성 아이콘이 표시되어 해당 메뉴에서 빠른 작업을 수행할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+<td><i>곧 출시 예정</i></td>
   </tr>
   </tr>
   </tbody>
 </table>
 <br/>
+
+
 
 ## 공지 {#announcements}
 
