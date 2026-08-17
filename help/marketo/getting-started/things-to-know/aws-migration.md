@@ -3,9 +3,9 @@ description: AWS 마이그레이션 - Marketo Engage 문서 - 제품 설명서
 title: AWS 마이그레이션
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 86ea4c057d6a02526083a14105ea036f835aad89
+source-git-commit: d5768261c9bb659ef96b73c46a9e078f953d8ed6
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '834'
 ht-degree: 4%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->[외부 양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}을 사용하고 마이그레이션 기간 동안 Marketo Engage을 사용할 수 없는 동안 수집된 양식 제출 데이터가 손실되지 않도록 하려면 미리 [Adobe 지원 센터](https://experienceleague.adobe.com/ko/support){target="_blank"} **최소 2일**&#x200B;에 연락하여 양식 ID와 구독의 Munchkin ID를 제공하십시오.
+>[외부 양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}을 사용하고 마이그레이션 기간 동안 Marketo Engage을 사용할 수 없는 동안 수집된 양식 제출 데이터가 손실되지 않도록 하려면 미리 [Adobe 지원 센터](https://experienceleague.adobe.com/en/support){target="_blank"} **최소 2일**&#x200B;에 연락하여 양식 ID와 구독의 Munchkin ID를 제공하십시오.
 
 ## 데이터 센터/포드 식별 {#identify}
 
@@ -153,9 +153,9 @@ ht-degree: 4%
   </tr>
   <tr>
   <td>2026년 8월 18일</td>
-   <td>AB39</td>
-   <td>오후 5시(태평양 표준시)</td>
-   <td>연기됨(날짜 TBD)</td>
+   <td><i>AB39</i></td>
+   <td><i>오후 5시(태평양 표준시)</i></td>
+   <td><i>연기됨(날짜 TBD)</i></td>
   </tr>
   <tr>
    <td>2026년 8월 20일</td>
@@ -195,9 +195,12 @@ ht-degree: 4%
   </tr>
   <tr>
    <td>2026년 9월 10일</td>
-   <td>AB03</td>
-   <td>오후 5시(태평양 표준시)</td>
-   <td>일정대로 진행 중</td>
+   <td>AB03<br>
+   <i>AB04</i></td>
+   <td>오후 5시(태평양 표준시)<br>
+   <i>오후 6시(태평양 표준시)</i></td>
+   <td>일정대로 진행 중<br>
+   <i>연기됨(날짜 TBD)</i></td>
   </tr>
   <tr>
    <td>2026년 9월 15일</td>
@@ -247,7 +250,7 @@ ht-degree: 4%
 
 ## 업데이트 및 지원 {#support}
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
 
 ## FAQ {#faq}
 
