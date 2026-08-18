@@ -8,9 +8,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b85314d3e3117a0a4ddd45fa6ebf15963566e716
 workflow-type: tm+mt
-source-wordcount: 281
+source-wordcount: 306
 ht-degree: 1%
 
 ---
@@ -65,7 +65,9 @@ Marketo Engage Forms을 Dynamic Chat 대화 흐름과 통합하여 대화형으�
 
    >[!NOTE]
    >
-   >기준 논리를 &quot;모두&quot;로 설정하면 모든 속성이 충족되어야 자격을 얻을 수 있습니다. 기준 로직이 &quot;any&quot;로 설정된 경우 속성 중 하나이면 충분합니다.
+   >* 기준 논리를 &quot;모두&quot;로 설정하면 모든 속성이 충족되어야 자격을 얻을 수 있습니다. 기준 로직이 &quot;any&quot;로 설정된 경우 속성 중 하나이면 충분합니다.
+   >
+   >* &quot;스마트 목록 멤버&quot;의 경우 드롭다운의 값은 프로그램에 포함된 모든 스마트 목록을 나타냅니다. `<program name>.<smart list name>`(으)로 표시됩니다.
 
    **선택적 단계**: 선택 항목을 두 개 이상 추가하면 위쪽/아래쪽 화살표를 클릭하여 순서를 변경할 수 있습니다.
 

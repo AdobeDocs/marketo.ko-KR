@@ -2,7 +2,7 @@
 description: 릴리스 노트 - 2026년 7월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2026년 7월
 feature: Release Information
-source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
+source-git-commit: bd433a683cab2437f6c32a5f52454d8ac4d9293a
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 20%
@@ -68,8 +68,6 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tbody>
 </table>
 <br/>
-
-
 
 ## 공지 {#announcements}
 
