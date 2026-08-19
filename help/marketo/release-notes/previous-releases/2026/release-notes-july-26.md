@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2026년 7월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2026년 7월
 feature: Release Information
-source-git-commit: bd433a683cab2437f6c32a5f52454d8ac4d9293a
+source-git-commit: 37ef6b0f6c89b8ec8cd098beb5cf4d321fdac401
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '503'
 ht-degree: 20%
 
 ---
@@ -60,7 +60,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>이메일 Designer - 콘텐츠 상황별 메뉴 생성</strong>: 이제 상황별 메뉴(검은색 막대)에서 이메일 Designer의 "콘텐츠 생성" 기능에 액세스할 수 있습니다. 예를 들어 텍스트 콘텐츠를 선택하면 상황별 메뉴에 콘텐츠 생성 아이콘이 표시되어 해당 메뉴에서 빠른 작업을 수행할 수 있습니다.</td>
+   <td><strong>이메일 Designer - 콘텐츠 상황별 메뉴 생성</strong>: 이제 상황별 메뉴(검은색 막대)에서 이메일 Designer의 "콘텐츠 생성" 기능에 액세스할 수 있습니다. 예를 들어 텍스트 콘텐츠를 선택하면 상황별 메뉴에 콘텐츠 생성 아이콘이 표시되어 빠른 작업을 수행할 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
 <td><i>곧 출시 예정</i></td>
   </tr>

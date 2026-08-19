@@ -4,9 +4,9 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: f80ac366b06d1bbd6ee165f5046f96d4d0174c59
+source-git-commit: ad7e1cef03a03e43198d91a6dd8f30ee3c2a5732
 workflow-type: tm+mt
-source-wordcount: '8918'
+source-wordcount: '8922'
 ht-degree: 96%
 
 ---
@@ -1928,6 +1928,7 @@ ht-degree: 96%
       + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)
       + [릴리스 노트: 2026년 3월](release-notes/previous-releases/2026/release-notes-mar-26.md)
       + [릴리스 노트: 2026년 5월](release-notes/previous-releases/2026/release-notes-may-26.md)
+      + [릴리스 노트: 2026년 7월](release-notes/previous-releases/2026/release-notes-july-26.md)
     + 2025 {#2025}
       + [릴리스 정보: 2025년 1월](release-notes/previous-releases/2025/release-notes-jan-25.md)
       + [릴리스 정보: 2025년 3월](release-notes/previous-releases/2025/release-notes-mar-25.md)
