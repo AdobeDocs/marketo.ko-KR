@@ -3,9 +3,9 @@ description: AWS 마이그레이션 - Marketo Engage 문서 - 제품 설명서
 title: AWS 마이그레이션
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: d5768261c9bb659ef96b73c46a9e078f953d8ed6
+source-git-commit: 3b6dbef83c5ac1f764d573f96d88dd0dfb388acc
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '825'
 ht-degree: 4%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->[외부 양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}을 사용하고 마이그레이션 기간 동안 Marketo Engage을 사용할 수 없는 동안 수집된 양식 제출 데이터가 손실되지 않도록 하려면 미리 [Adobe 지원 센터](https://experienceleague.adobe.com/ko/support){target="_blank"} **최소 2일**&#x200B;에 연락하여 양식 ID와 구독의 Munchkin ID를 제공하십시오.
+>[외부 양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}을 사용하고 마이그레이션 기간 동안 Marketo Engage을 사용할 수 없는 동안 수집된 양식 제출 데이터가 손실되지 않도록 하려면 미리 [Adobe 지원 센터](https://experienceleague.adobe.com/en/support){target="_blank"} **최소 2일**&#x200B;에 연락하여 양식 ID와 구독의 Munchkin ID를 제공하십시오.
 
 ## 데이터 센터/포드 식별 {#identify}
 
@@ -152,19 +152,13 @@ ht-degree: 4%
    <td>완료</td>
   </tr>
   <tr>
-  <td>2026년 8월 18일</td>
-   <td><i>AB39</i></td>
-   <td><i>오후 5시(태평양 표준시)</i></td>
-   <td><i>연기됨(날짜 TBD)</i></td>
-  </tr>
-  <tr>
    <td>2026년 8월 20일</td>
    <td>AB42<br>
-   AB44</td>
+   <i>AB44</i></td>
    <td>오후 5시(태평양 표준시)<br>
-   오후 6시(태평양 표준시)</td>
+   <i>오후 6시(태평양 표준시)</i></td>
    <td>일정대로 진행 중<br>
-   일정에 따라</td>
+   <i>연기됨(날짜 TBD)</i></td>
   </tr>
   <tr>
    <td>2026년 8월 26일</td>
@@ -250,7 +244,7 @@ ht-degree: 4%
 
 ## 업데이트 및 지원 {#support}
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
 
 ## FAQ {#faq}
 
