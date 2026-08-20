@@ -11,10 +11,10 @@ feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7116fe4f2b7f909e023be05fdb5ad53f9d49cf15
+source-git-commit: 3b6dbef83c5ac1f764d573f96d88dd0dfb388acc
 workflow-type: tm+mt
-source-wordcount: 151
-ht-degree: 83%
+source-wordcount: 166
+ht-degree: 75%
 
 ---
 
@@ -60,7 +60,7 @@ _릴리스 일자/기능은 변경될 수 있습니다._
    <td>완료</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-july-26.md">26 년 7 월</a></td>
+  <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">26 년 7 월</a></td>
    <td>2026년 7월 10일</td>
    <td>완료</td>
   </tr>
