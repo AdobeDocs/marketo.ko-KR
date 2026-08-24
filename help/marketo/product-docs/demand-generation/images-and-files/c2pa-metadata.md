@@ -47,4 +47,4 @@ Marketo Engage은 지원되는 이미지 에셋과 연결된 C2PA 메타데이�
 ## 추가 리소스
 
 * [Adobe Experience Cloud Generative AI 사용자 지침](https://www.adobe.com/kr/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [가드레일 및 제한 사항](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [가드레일 및 제한 사항](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
