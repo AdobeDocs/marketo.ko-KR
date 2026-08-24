@@ -3,9 +3,9 @@ description: C2PA 메타데이터가 Marketo Engage에서 AI가 생성한 이미
 title: Marketo Engage의 C2PA 메타데이터
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 2746d9d016a6119411bb1fe29c4be2e16f3610e8
+source-git-commit: 77c4c0b6438f8a5070fd33412b7037b79f7fded1
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '698'
 ht-degree: 2%
 
 ---
@@ -30,7 +30,7 @@ C2PA 메타데이터는 콘텐츠의 한 부분이 생성되거나 편집되는 
 
 | 액션 | 설명 | C2PA 메타데이터가 첨부되었습니까? | 사용 사례 예 |
 |---|---|---|---|
-| **이미지 생성** | 텍스트 프롬프트, 참조 이미지에서 새 이미지를 생성하거나 유사한 이미지를 생성합니다. | 항상 이미지는 생성 AI에 의해 생성되므로 항상 새로운 C2PA 메타데이터를 전달합니다. | 이메일 캠페인에 대한 배너 이미지는 원하는 시각적 개체를 설명하는 텍스트 프롬프트에서 생성됩니다. |
+| **&#39;이미지 생성&#39; 도구 사용** | 텍스트 프롬프트, 참조 이미지에서 새 이미지를 생성하거나 유사한 이미지를 생성합니다. | 항상 이미지는 생성 AI에 의해 생성되므로 항상 새로운 C2PA 메타데이터를 전달합니다. | 이메일 캠페인에 대한 배너 이미지는 원하는 시각적 개체를 설명하는 텍스트 프롬프트에서 생성됩니다. |
 | **이미지 자르기** | 이미지를 요청된 치수로 조정합니다. | 소스 이미지에 이미 C2PA 메타데이터가 있는 경우에만 해당합니다. 자르기는 이미지의 픽셀을 다시 만듭니다. 이렇게 하면 일반적으로 해당 C2PA 메타데이터가 지워지므로 Marketo Engage은 자르기 전에 소스 이미지에서 이미지를 읽은 다음 다시 빌드하고 자른 결과에 다시 연결합니다. 자르기 자체로는 새로운 생성 AI 작업이 추가되지 않으며 기존 AI 작업을 유지합니다. | 생성된 배너 이미지는 웹 페이지에 맞게 잘립니다. C2PA 메타데이터는 자르기를 통해 유지됩니다. 푸시 알림 배경으로 사용되는 업로드된 스톡 사진은 화면에 맞게 잘립니다. 스톡 사진은 생성 AI 작업을 수행하지 않으므로 C2PA 메타데이터가 생성되지 않습니다. |
 | **텍스트 오버레이 추가** | 배경 이미지 위에 생성된 텍스트를 렌더링합니다. | 배경 이미지에 이미 C2PA 메타데이터가 있는 경우에만 해당합니다. 오버레이를 렌더링하면 배경과 텍스트에서 새 이미지가 생성되는데, 이 경우 일반적으로 해당 C2PA 메타데이터가 지워지므로 Marketo Engage은 배경 이미지에서 미리 읽은 다음 다시 빌드하고 결과에 다시 첨부합니다. 오버레이 단계는 새로운 생성 AI 작업을 추가하지 않습니다. | 홍보 헤드라인은 랜딩 페이지에 대해 생성된 배경 이미지에 텍스트 오버레이로 렌더링됩니다. 배경 이미지의 C2PA 메타데이터는 유지됩니다. |
 
@@ -47,4 +47,4 @@ Marketo Engage은 지원되는 이미지 에셋과 연결된 C2PA 메타데이�
 ## 추가 리소스
 
 * [Adobe Experience Cloud Generative AI 사용자 지침](https://www.adobe.com/kr/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [가드레일 및 제한 사항](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [가드레일 및 제한 사항](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
