@@ -4,7 +4,7 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 2746d9d016a6119411bb1fe29c4be2e16f3610e8
+source-git-commit: 9976bffe8ac2fac804cc1e1e5a95088622334bdf
 workflow-type: tm+mt
 source-wordcount: '8927'
 ht-degree: 96%
@@ -765,7 +765,7 @@ ht-degree: 96%
       + {hide-from-toc}[새 이미지 추가 문서](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
       + [Marketo에 이미지 및 파일 추가](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
       + {hide-from-toc}[Adobe Express으로 Assets 편집](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
-      + [Marketo Engage의 C2PA 메타데이터](product-docs/demand-generation/images-and-files/c2pa-metadata.md)
+      + Marketo Engage의 {hide-from-toc}[C2PA 메타데이터](product-docs/demand-generation/images-and-files/c2pa-metadata.md)
       + [업로드된 이미지 또는 파일 삭제](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
       + [업로드된 이미지 또는 파일의 URL 찾기](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
       + [웹 페이지에서 이미지 가져오기](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
@@ -1123,7 +1123,7 @@ ht-degree: 96%
       + [리드 조사](product-docs/marketo-ai/skills/investigate-leads.md)
       + [리드 가져오기](product-docs/marketo-ai/skills/import-leads.md)
       + [프로그램 유효성 검사](product-docs/marketo-ai/skills/validate-programs.md)
-    + [Marketo Mcp](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mcp-server)
+    + [Marketo Mcp](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Marketo 알림 {#marketo-notifications}
     + {hide-from-toc}[알림: Websocket 연결](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
@@ -1923,7 +1923,7 @@ ht-degree: 96%
   + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat 릴리스 TEMP](release-notes/dynamic-chat-temp.md)
   + [이전 릴리스](release-notes/previous-releases.md)
-  + {hide-from-toc}이전 릴리스 개 {#previous-releases}
+  + 이전 릴리스 {hide-from-toc}개 {#previous-releases}
     + 2026 {#2026}
       + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)
