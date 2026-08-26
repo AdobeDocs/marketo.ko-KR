@@ -3,9 +3,9 @@ description: C2PA 메타데이터가 Marketo Engage에서 AI가 생성한 이미
 title: Marketo Engage의 C2PA 메타데이터
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77c4c0b6438f8a5070fd33412b7037b79f7fded1
+source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '715'
 ht-degree: 2%
 
 ---
@@ -46,5 +46,6 @@ Marketo Engage은 지원되는 이미지 에셋과 연결된 C2PA 메타데이�
 
 ## 추가 리소스
 
-* [Adobe Experience Cloud Generative AI 사용자 지침](https://www.adobe.com/kr/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [가드레일 및 제한 사항](https://experienceleague.adobe.com/ko/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [생성 AI 콘텐츠 투명도](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
+* [Adobe Experience Cloud Generative AI 사용자 지침](https://www.adobe.com/kr/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}
+* [가드레일 및 제한 사항](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}
