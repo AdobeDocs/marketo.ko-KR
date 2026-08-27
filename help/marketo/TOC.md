@@ -4,7 +4,7 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 9976bffe8ac2fac804cc1e1e5a95088622334bdf
+source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
 workflow-type: tm+mt
 source-wordcount: '8927'
 ht-degree: 96%
@@ -765,7 +765,7 @@ ht-degree: 96%
       + {hide-from-toc}[새 이미지 추가 문서](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
       + [Marketo에 이미지 및 파일 추가](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
       + {hide-from-toc}[Adobe Express으로 Assets 편집](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
-      + {hide-from-toc}[Marketo Engage의 C2PA 메타데이터](product-docs/demand-generation/images-and-files/c2pa-metadata.md)
+      + [Marketo Engage의 C2PA 메타데이터](product-docs/demand-generation/images-and-files/c2pa-metadata.md)
       + [업로드된 이미지 또는 파일 삭제](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
       + [업로드된 이미지 또는 파일의 URL 찾기](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
       + [웹 페이지에서 이미지 가져오기](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
