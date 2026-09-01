@@ -4,9 +4,9 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
+source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
 workflow-type: tm+mt
-source-wordcount: '8927'
+source-wordcount: '8968'
 ht-degree: 96%
 
 ---
@@ -486,6 +486,19 @@ ht-degree: 96%
       + [Predictive Audiences 시작하기](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [모델 및 인사이트](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [예측 필터](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
+  + Marketo Engage 동료 {#coworker-for-marketo}
+    + {hide-from-toc}[개요](product-docs/coworker-for-marketo/overview.md)
+    + {hide-from-toc}[설정 및 설정](product-docs/coworker-for-marketo/settings-setup.md)
+    + {hide-from-toc}[Marketo Engage 데이터 정보 시트용 Coworker](product-docs/coworker-for-marketo/data-information.md)
+    + 스킬 {#skills}
+      + {hide-from-toc}[제품 정보](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + {hide-from-toc}[표면 인사이트](product-docs/coworker-for-marketo/skills/surface-insights.md)
+      + {hide-from-toc}[프로그램 빌드](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc}[프로그램 복제](product-docs/coworker-for-marketo/skills/clone-program.md)
+      + {hide-from-toc}[리드 조사](product-docs/coworker-for-marketo/skills/investigate-leads.md)
+      + {hide-from-toc}[리드 가져오기](product-docs/coworker-for-marketo/skills/import-leads.md)
+      + {hide-from-toc}[프로그램 유효성 검사](product-docs/coworker-for-marketo/skills/validate-programs.md)
+    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM 동기화 {#crm-sync}
     + Microsoft Dynamics 동기화 {#microsoft-dynamics}
       + [Microsoft Dynamics 동기화 이해](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1123,7 +1136,7 @@ ht-degree: 96%
       + [리드 조사](product-docs/marketo-ai/skills/investigate-leads.md)
       + [리드 가져오기](product-docs/marketo-ai/skills/import-leads.md)
       + [프로그램 유효성 검사](product-docs/marketo-ai/skills/validate-programs.md)
-    + [Marketo Mcp](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mcp-server)
+    + [Marketo Mcp](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Marketo 알림 {#marketo-notifications}
     + {hide-from-toc}[알림: Websocket 연결](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
@@ -1923,7 +1936,7 @@ ht-degree: 96%
   + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat 릴리스 TEMP](release-notes/dynamic-chat-temp.md)
   + [이전 릴리스](release-notes/previous-releases.md)
-  + {hide-from-toc}이전 릴리스 개 {#previous-releases}
+  + 이전 릴리스 {hide-from-toc}개 {#previous-releases}
     + 2026 {#2026}
       + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)
