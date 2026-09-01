@@ -5,26 +5,13 @@ title: Marketo Engage에 대한 프로토콜 구성
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
 TQID: https://experienceleague.adobe.com/n72OlCpE-aAbj1MCQumumk-sh9TUZe-bNpreVmVl2q8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-subfeature_v2:
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: fc9b09fe-b844-4544-887b-e420c3b82065
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e2290edd-b061-4880-9d79-dee306cf5aa9id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: fc9b09fe-b844-4544-887b-e420c3b82065
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 4feed2fefe2180d5a123684eaa33be21ce93da68
 workflow-type: tm+mt
-source-wordcount: 2203
+source-wordcount: 2192
 ht-degree: 83%
 
 ---
@@ -70,7 +57,7 @@ CNAME `[YourEmailCNAME].[YourDomain].com`의 `[MktoTrackingLink]`
 
 `3` **마케팅 팀에 알림**
 
-이 프로세스를 완료하면 마케팅 팀에 알립니다.
+이 프로세스를 완료한 후 마케팅 팀에 알리십시오.
 
 `4` **SSL 인증서 프로비전을 시작하려면 [Adobe 지원 센터](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 문의하십시오.**
 
@@ -78,7 +65,7 @@ CNAME `[YourEmailCNAME].[YourDomain].com`의 `[MktoTrackingLink]`
 
 ## 2단계: Marketo Engage IP를 허용 목록에 추가 {#step-allowlist-marketo-ips}
 
-마케팅 그룹이 Marketo Engage를 사용하여 테스트 이메일을 전송하는 경우(이메일 알림을 전송하기 전의 모범 사례), 발신자 IP 주소를 이용하여 이메일이 유효한지 확인하는 스팸 방지 시스템에 의해 테스트 이메일이 차단되는 경우가 있습니다. 이러한 테스트 이메일이 도착하는지 확인하려면 Marketo Engage를 허용 목록에 추가하십시오.
+마케팅 그룹이 Marketo Engage를 사용하여 테스트 이메일을 전송하는 경우(대량 이메일 발송 전에 수행하는 모범 사례), 발신자 IP 주소를 이용하여 이메일이 유효한지 확인하는 스팸 방지 시스템에 의해 테스트 이메일이 차단되는 경우가 있습니다. 이러한 테스트 이메일이 도착하는지 확인하려면 Marketo Engage를 허용 목록에 추가하십시오.
 
 다음 IP 주소를 기업 허용 목록에 추가합니다.
 
@@ -96,7 +83,7 @@ CNAME `[YourEmailCNAME].[YourDomain].com`의 `[MktoTrackingLink]`
 
 199.15.212.0/22
 
-일부 스팸 방지 시스템은 허용 목록 추가를 위해 IP 주소 대신 이메일 반환 경로 필드를 사용합니다. 이 경우 Marketo Engage에서는 여러 사서함 하위 도메인을 사용하므로 가장 좋은 방법은 &#39;&#42;.mtomail.com&#39;을 허용 목록에 추가하는 것입니다. 다른 스팸 방지 시스템은 발신 주소를 기반으로 허용 목록을 설정합니다. 이러한 경우 마케팅 그룹이 사람/리드와 통신하는 데 사용하는 모든 전송(&#39;발신&#39;) 도메인을 포함해야 합니다.
+일부 스팸 방지 시스템은 허용 목록 추가를 위해 IP 주소 대신 이메일 Return-Path 필드를 사용합니다. 이 경우 Marketo Engage에서는 여러 사서함 하위 도메인을 사용하므로 가장 좋은 방법은 &#39;&#42;.mtomail.com&#39;을 허용 목록에 추가하는 것입니다. 다른 스팸 방지 시스템은 발신 주소를 기반으로 허용 목록을 설정합니다. 이러한 경우 마케팅 그룹이 사람/리드와 통신하는 데 사용하는 모든 전송(&#39;발신&#39;) 도메인을 포함해야 합니다.
 
 >[!NOTE]
 >
@@ -104,7 +91,7 @@ CNAME `[YourEmailCNAME].[YourDomain].com`의 `[MktoTrackingLink]`
 
 ## 3단계: SPF 및 DKIM 설정 {#step-set-up-spf-and-dkim}
 
-마케팅 팀은 DNS 리소스 레코드에 추가할 DKIM(Domain Keys Identified Mail) 정보도 전송했어야 합니다. 다음 단계에 따라 DKIM 및 SPF(발신자 정책 프레임워크)를 올바로 구성한 후 업데이트되면 마케팅 팀에 알립니다.
+마케팅 팀은 DNS 리소스 레코드에 추가할 DKIM(Domain Keys Identified Mail) 정보도 전송했어야 하며, 이 정보는 아래에도 나와 있습니다. 다음 단계에 따라 DKIM 및 SPF(발신자 정책 프레임워크)를 올바로 구성한 후 이것이 업데이트되었음을 마케팅 팀에 알립니다.
 
 1. SPF를 설정하려면 DNS 항목에 다음 줄을 추가합니다.
 
@@ -112,9 +99,9 @@ CNAME `[YourEmailCNAME].[YourDomain].com`의 `[MktoTrackingLink]`
 include: mktomail.com ~all
 
    DNS 항목에 이미 기존 SPF 레코드가 있는 경우 다음을 추가하기만 하면 됩니다.
-포함: mktomail.com
+   포함: mktomail.com
 
-   CompanyDomain을 웹 사이트의 도메인(예: &quot;`(company.com/)`&quot;)으로, CorpIP를 회사 이메일 서버(예: &quot;255.255.255.255&quot;). Marketo Engage을 통해 여러 도메인에서 이메일을 전송하려면 IT 직원이 각 도메인에 대해 한 줄에서 이 줄을 추가하게 해야 합니다.
+   CompanyDomain을 웹 사이트의 도메인(예: &quot;`(company.com/)`&quot;)으로, CorpIP를 회사 이메일 서버(예: &quot;255.255.255.255&quot;). Marketo Engage를 통해 여러 도메인에서 이메일을 전송하려는 경우, IT 직원이 각 도메인에 대해 이 줄을 한 줄로 추가하도록 해야 합니다.
 
 1. DKIM의 경우 설정하려는 각 도메인에 대해 DNS 리소스 레코드를 만듭니다. 다음은 우리가 서명하려는 각 도메인에 대한 호스트 레코드 및 TXT 값입니다.
 
@@ -153,7 +140,7 @@ DMARC의 잠재적 영향을 이해하면 DMARC 정책을 p=none에서 p=quarant
 
    I. 보고서를 검토하여 결과가 기대에 부합하는지 확인합니다.
 
-1. p=격리 수준에서 메시지 동작이 만족스러우면 정책을 (p=거부)로 조정할 수 있습니다. p=reject 정책은 수신자에게 인증에 실패한 도메인에 대한 모든 이메일을 완전히 거부(바운스)하도록 지시합니다. 이 정책을 활성화하면 도메인에서 100% 인증된 것으로 확인된 이메일만 받은 편지함에 배치될 수 있습니다.
+1. p=격리 수준에서 메시지 동작이 만족스러우면 정책을 (p=거부)로 조정할 수 있습니다. p=reject 정책은 수신자에게 인증에 실패한 도메인에 대한 모든 이메일을 완전히 거부(바운스)하도록 지시합니다. 이 정책을 활성화하면 도메인에서 100% 인증된 것으로 확인된 이메일만 받은 편지함에 배치될 기회를 얻게 됩니다.
 
 >[!CAUTION]
 >
@@ -161,13 +148,13 @@ DMARC의 잠재적 영향을 이해하면 DMARC 정책을 p=none에서 p=quarant
 
 ### DMARC 보고 {#dmarc-reporting}
 
-DMARC는 SPF/DKIM에 실패한 이메일에 대한 보고서를 수신할 수 있는 기능을 제공합니다. ISP 서비스에 의해 생성된 두 개의 보고서가 있습니다. 이 보고서는 보낸 사람이 DMARC 정책에서 RUA/RUF 태그를 통해 받을 수 있는 인증 프로세스의 일부입니다.
+DMARC는 SPF/DKIM에 실패한 이메일에 대한 보고서를 수신할 수 있는 기능을 제공합니다. 인증 프로세스의 일부로 ISP 서비스 제공자가 생성하는 두 가지 서로 다른 보고서가 있으며, 발신자는 DMARC 정책의 RUA/RUF 태그를 통해 이를 받을 수 있습니다.
 
-* 집계 보고서(RUA): GDPR(일반정보보호 규정)에 따라 민감할 수 있는 PII(개인 식별 정보)를 포함하지 않습니다.
+* 집계 보고서(RUA): GDPR(일반 데이터 보호 규정)에 따라 민감할 수 있는 PII(개인 식별 정보)는 포함하지 않습니다.
 
 * 포렌식 보고서(RUF): GDPR에 따라 민감한 이메일 주소를 포함합니다. 활용하기 전에 GDPR 준수가 필요한 정보를 처리하는 방법을 내부적으로 확인하는 것이 가장 좋습니다.
 
-이러한 보고서의 주요 용도는 스푸핑 시도가 있는 이메일에 대한 개요를 받는 것입니다. 이것들은 매우 기술적인 보고서이므로 서드파티 도구를 통해 이해하는 것이 가장 좋습니다.
+이러한 보고서의 주요 용도는 스푸핑이 시도된 이메일에 대한 개요를 받는 것입니다. 이것들은 매우 기술적인 보고서이므로 타사 도구를 통해 이해하는 것이 가장 좋습니다.
 
 ### DMARC 레코드 예시 {#example-dmarc-records}
 
@@ -175,7 +162,7 @@ DMARC는 SPF/DKIM에 실패한 이메일에 대한 보고서를 수신할 수 �
 
 * 보고서를 받기 위해 이메일 주소로 연결되는 레코드: `v=DMARC1; p=none;  rua=mailto:emaill@domain.com;     ruf=mailto:email@domain.com`
 
-### DMARC 태그 및 작업 {#dmarc-tags-and-what-they-do}
+### DMARC 태그 및 기능 {#dmarc-tags-and-what-they-do}
 
 DMARC 레코드에는 DMARC 태그라는 여러 구성 요소가 있습니다. 각 태그에는 DMARC의 특정 측면을 지정하는 값이 있습니다.
 
@@ -217,7 +204,7 @@ DMARC 레코드에는 DMARC 태그라는 여러 구성 요소가 있습니다. �
   <tr>
     <td>pct</td>
     <td>선택 사항</td>
-    <td>필터링 대상 메시지의 비율을 언급합니다.</td>
+    <td>필터링 대상 메시지의 비율을 나타냅니다.</td>
     <td>pct=20</td>
     <td>100</td>
   </tr>
@@ -245,14 +232,14 @@ DMARC 레코드에는 DMARC 태그라는 여러 구성 요소가 있습니다. �
   <tr>
     <td>adkim</td>
     <td>선택 사항</td>
-    <td>엄격 (s) 또는 완화 ®일 수 있습니다. 완화된 정렬은 DKIM 서명에 사용되는 도메인이 "발신" 주소의 하위 도메인일 수 있음을 의미합니다. 엄격한 정렬은 DKIM 서명에 사용되는 도메인이 발신 주소에 사용된 도메인과 정확히 일치해야 함을 의미합니다.</td>
+    <td>엄격 (s) 또는 완화 (r)일 수 있습니다. 완화된 정렬은 DKIM 서명에 사용되는 도메인이 "발신" 주소의 하위 도메인일 수 있음을 의미합니다. 엄격한 정렬은 DKIM 서명에 사용되는 도메인이 발신 주소에 사용된 도메인과 정확히 일치해야 함을 의미합니다.</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
   <tr>
     <td>aspf</td>
     <td>선택 사항</td>
-    <td>엄격 (s) 또는 완화 ®일 수 있습니다. 완화된 정렬은 반환 경로 도메인이 발신 주소의 하위 도메인이 될 수 있음을 의미합니다. 엄격한 정렬은 반환 경로 도메인이 발신 주소와 정확히 일치해야 함을 의미합니다.</td>
+    <td>엄격 (s) 또는 완화 (r)일 수 있습니다. 완화된 정렬은 반환 경로 도메인이 발신 주소의 하위 도메인이 될 수 있음을 의미합니다. 엄격한 정렬은 반환 경로 도메인이 발신 주소와 정확히 일치해야 함을 의미합니다.</td>
     <td>aspf=r</td>
     <td>r</td>
   </tr>
@@ -269,24 +256,24 @@ DMARC 정렬에는 DKIM 정렬과 SPF 정렬의 두 가지 유형이 있습니�
 >
 >Marketo Engage용 SPF와 DKIM에서 DMARC 정렬을 수행하는 것이 좋습니다.
 
-* DKIM 정렬 DMARC—DKIM 정렬 DMARC을 설정하려면 다음을 수행해야 합니다.
+* DKIM 정렬 DMARC—DKIM 정렬 DMARC를 설정하려면 다음을 수행해야 합니다.
 
-   * 메시지의 발신: 도메인에 대한 DKIM을 설정합니다. [이 문서](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}에 나오는 지침을 사용합니다.
-   * 이전에 구성된 FROM:/DKIM 도메인에 대한 DMARC를 구성합니다.
+  * 메시지의 발신: 도메인에 대한 DKIM을 설정합니다. [이 문서](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}에 나오는 지침을 사용합니다.
+  * 이전에 구성된 FROM:/DKIM 도메인에 대한 DMARC를 구성합니다.
 
 * DMARC 정렬 SPF—브랜드 반환 경로를 통해 DMARC 정렬 SPF를 설정하려면 다음을 수행해야 합니다.
 
-   * 브랜드 반환 경로 도메인을 설정합니다.
-      * 적절한 SPF 레코드를 구성합니다.
-      * 메일을 보낸 데이터 센터의 기본 MX를 다시 가리키도록 MX 레코드를 변경합니다
+  * 브랜드 반환 경로 도메인을 설정합니다.
+    * 적절한 SPF 레코드를 구성합니다.
+    * 메일을 보낸 데이터 센터의 기본 MX를 다시 가리키도록 MX 레코드를 변경합니다
 
-   * 브랜드 반환 경로 도메인에 대해 DMARC를 구성합니다.
+  * 브랜드 반환 경로 도메인에 대해 DMARC를 구성합니다.
 
 * 전용 IP를 통해 Marketo Engage에서 메일을 보내고 브랜드 반환 경로를 아직 구현하지 않았거나 반환 경로가 있는지 확실하지 않은 경우 [Adobe 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}을 통해 티켓을 여십시오.
 
-* 공유 IP 풀을 통해 Marketo Engage에서 메일을 보내는 경우 [여기에서 적용](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}하여 신뢰할 수 있는 IP에 대한 자격이 있는지 확인할 수 있습니다. 브랜드 반환 경로는 Marketo Engage의 신뢰할 수 있는 IP에서 전송하는 사용자에게 무료로 제공됩니다. 이 프로그램에 승인되면 Adobe 지원 센터에 연락하여 브랜드 반환 경로를 설정합니다.
+* 공유 IP 풀을 통해 Marketo Engage에서 메일을 보내는 경우 [여기에서 적용](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}하여 신뢰할 수 있는 IP에 대한 자격이 있는지 확인할 수 있습니다. 브랜드 반환 경로는 Marketo Engage의 신뢰할 수 있는 IP에서 전송하는 사용자에게 무료로 제공됩니다. 이 프로그램에 승인되면 브랜드 반환 경로를 설정하려면 Adobe 지원 센터에 문의하십시오.
 
-   * 신뢰할 수 있는 IP: 월 75,000건 미만의 소량 전송을 하는 사용자 중 전용 IP를 사용할 자격이 없는 사용자를 위해 예약된 공유 IP 풀입니다. 이러한 사용자는 모범 사례 요구 사항도 충족해야 합니다.
+  * 신뢰할 수 있는 IP: 월 75,000건 미만의 소량 전송을 하는 사용자 중 전용 IP를 사용할 자격이 없는 사용자를 위해 예약된 공유 IP 풀입니다. 이러한 사용자는 모범 사례 요구 사항도 충족해야 합니다.
 
 * 공유 IP를 통해 Marketo Engage에서 메일을 보내는 경우 신뢰할 수 있는 IP에 대한 자격이 없고 매월 100,000개 이상의 메시지를 보내는 경우 Adobe 계정 팀(계정 관리자)에 연락하여 전용 IP를 구매해야 합니다.
 
@@ -298,104 +285,80 @@ MX 레코드를 사용하면 회신 및 자동 응답자를 처리하기 위해 
 
 ## 아웃바운드 IP 주소 {#outbound-ip-addresses}
 
-아웃바운드 연결은 Marketo Engage가 사용자를 대신하여 인터넷 서버에 연결하는 것입니다. 함께 일하는 일부 파트너/공급업체 또는 자체 IT 조직은 허용 목록을 사용하여 서버에 대한 액세스를 제한할 수 있습니다. 그렇다면 허용 목록에 추가할 수 있도록 Marketo Engagement 아웃바운드 IP 주소 블록을 제공해야 합니다.
+아웃바운드 연결은 Marketo Engage가 사용자를 대신하여 인터넷 서버에 연결하는 것입니다. 함께 일하는 일부 파트너/공급업체 또는 자체 IT 조직은 허용 목록을 사용하여 서버에 대한 액세스를 제한할 수 있습니다. 그렇다면 허용 목록에 추가할 수 있도록 Marketo Engage 아웃바운드 IP 주소 블록을 제공해야 합니다.
 
-**웹후크**
+### 웹훅
 
 Marketo Engage [웹후크](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}은(는) 아웃바운드 통합 메커니즘입니다. 스마트 캠페인의 일부로 [웹후크 호출](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} 흐름 작업이 실행되면 외부 웹 서비스에 HTTP 요청이 이루어집니다. 웹 서비스 게시자가 외부 웹 서비스가 있는 네트워크의 방화벽에서 허용 목록을 사용하는 경우, 게시자는 아래 나열된 IP 주소 블록을 해당 허용 목록에 추가해야 합니다.
 
-**CRM 동기화**
+### CRM 동기화
 
 Marketo Engage [Salesforce CRM 동기화](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} 및 [Microsoft Dynamics 동기화](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}는 CRM 공급업체에서 게시한 API에 대한 아웃바운드 HTTP 요청을 만드는 통합 메커니즘입니다. IT 조직이 아래 IP 주소 블록 중 어떤 것도 CRM 공급업체 API에 액세스하는 것을 차단하지 않도록 해야 합니다.
 
-**Marketo Engage 아웃바운드 IP 주소 블록**
+### Marketo Engage 아웃바운드 IP 주소 블록
 
 다음 표는 아웃바운드 호출을 수행하는 모든 Marketo Engage 서버를 망라한 것입니다. Marketo Engage에서 발신 연결을 수신하기 위해 IP 허용 목록에 추가하다, 서버, 방화벽, 액세스 제어 목록, 보안 그룹 또는 서드파티 서비스를 구성하는 경우 아래 목록을 사용합니다.
 
+**IP 블록(CIDR 표기법)**
 <table>
  <tbody>
-  <tr>
-   <th>IP 블록 (CIDR 표기법)</th>
-  </tr>
    <tr>
    <td>130.248.172.0/24</td>
-  </tr>
-   <tr>
    <td>130.248.173.0/24</td>
   </tr>
-  <tr>
+   <tr>
    <td>130.248.244.88/29</td>
-  </tr>
-  <tr>
    <td>185.28.196.0/22</td>
   </tr>
   <tr>
    <td>192.28.144.0/20</td>
-  </tr>
-  <tr>
    <td>192.28.160.0/19</td>
   </tr>
   <tr>
    <td>199.15.212.0/22</td>
+   <td> </td>
   </tr>
- </tbody>
+  </tbody>
 </table>
 
+<br>
+**개별 IP 주소**
 <table>
- <tbody>
-  <tr>
-   <th>개별 IP 주소</th>
-  </tr>
-  <tr>
-   <td>13.237.155.207</td>
-  </tr>
-   <tr>
-   <td>13.55.192.247</td>
-  </tr>
-  <tr>
-   <td>18.200.201.81</td>
-  </tr>
-  <tr>
-   <td>34.247.24.245</td>
-  </tr>
-  <tr>
-   <td>35.165.244.220</td>
-  </tr>
-  <tr>
-   <td>44.235.171.179</td>
-  </tr>
-  <tr>
-   <td>52.20.211.99</td>
-  </tr>
-  <tr>
-   <td>52.64.109.86</td>
-  </tr>
-  <tr>
-   <td>54.160.246.246</td>
-  </tr>
-  <tr>
-   <td>54.212.167.17</td>
-  </tr>
-  <tr>
-   <td>54.220.138.65</td>
-  </tr>
-   <tr>
-   <td>54.237.141.197</td>
-  </tr>
-  <tr>
-   <td>124.47.174.193</td>
-  </tr>
-  <tr>
-   <td>130.248.168.16</td>
-  </tr>
-   <tr>
-   <td>130.248.168.17</td>
-  </tr>
-  <tr>
-   <td>199.15.213.245</td>
-  </tr>
-  <tr>
-   <td>199.15.215.245</td>
-  </tr>
- </tbody>
+  <tbody>
+    <tr>
+      <td>13.237.155.207</td>
+      <td>13.55.192.247</td>
+      <td>18.200.201.81</td>
+    </tr>
+    <tr>
+      <td>34.247.24.245</td>
+      <td>35.165.244.220</td>
+      <td>44.235.171.179</td>
+    </tr>
+    <tr>
+      <td>52.20.211.99</td>
+      <td>52.64.109.86</td>
+      <td>54.160.246.246</td>
+    </tr>
+    <tr>
+      <td>54.212.167.17</td>
+      <td>54.220.138.65</td>
+      <td>54.237.141.197</td>
+    </tr>
+    <tr>
+      <td>66.235.146.130</td>
+      <td>66.235.146.131</td>
+      <td>124.47.174.193</td>
+    </tr>
+    <tr>
+      <td>130.248.168.16</td>
+      <td>130.248.168.17</td>
+      <td>199.15.213.245</td>
+    </tr>
+    <tr>
+      <td>199.15.215.245</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
 </table>
