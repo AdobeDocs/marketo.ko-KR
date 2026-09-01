@@ -1,9 +1,9 @@
 ---
 description: Marketo Engage 권한에 대해 Coworker를 활성화하고 조직 규칙을 구성하고 통합 및 알림과 같은 설정을 관리하는 방법을 알아봅니다.
 title: 설정 및 설정
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 73a09b315526dda5bd4d53646a17141a16943218
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '589'
 ht-degree: 1%
 
 ---
@@ -16,11 +16,15 @@ ht-degree: 1%
 >
 >이 기능은 모든 구독에서 사용할 수 있습니다. 내 Marketo 화면에 Marketo Engage 동료용 타일이 표시되지 않으면 계정 관리자에게 문의하십시오. [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에도 동의해야 합니다.
 
+>[!IMPORTANT]
+>
+>이 기능은 이전에 Marketo AI로 불렸습니다. 권한 및 사용자 역할 이름은 아직 업데이트되지 않았으며 향후 릴리스에서 변경될 예정입니다. 그때까지 관리 섹션에 이전 이름이 계속 표시됩니다.
+
 ## 권한 및 역할 {#permission-and-role}
 
 관리자는 _Marketo AI 액세스_ 권한과 _Marketo AI 사용자_ 역할을 통해 **Marketo AI** 기능에 액세스할 수 있는 사용자를 보다 강력하게 제어할 수 있습니다. 권한은 역할 수준에서 할당됩니다. _Marketo AI 사용자_ 역할에는 기본적으로 _Marketo AI에 액세스_ 권한이 활성화되어 있습니다.
 
->[!IMPORTANT]
+>[!NOTE]
 >
 >_Marketo AI 액세스_ 권한은 모든 역할에 대해 기본적으로 활성화되어 있지 않습니다. 자세한 내용은 아래 표를 참조하십시오.
 
@@ -75,7 +79,7 @@ ht-degree: 1%
 
 ### 사용자 정의 역할 {#custom-role}
 
-[새 역할을 만들고](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} 사용 권한을 사용자 지정하는 옵션이 있으며, _Marketo AI에 액세스_&#x200B;와 함께 원하는 모든 권한을 추가하고[특정 사용자에게 해당 역할을 할당](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}할 수 있습니다.
+[새 역할을 만들고](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} 사용 권한을 사용자 지정하는 옵션이 있으며, _Marketo AI에 액세스_&#x200B;와 함께 원하는 모든 권한을 추가하고[특정 사용자에게 해당 역할을 할당](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}할 수 있습니다.
 
 ## 설정 {#settings}
 
