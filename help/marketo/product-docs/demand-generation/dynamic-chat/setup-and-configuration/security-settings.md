@@ -4,15 +4,12 @@ title: 보안 설정
 feature: Dynamic Chat
 exl-id: 68a53986-6f42-4aa2-86f6-0b2097f94963
 TQID: https://experienceleague.adobe.com/7ans6J5WCXbTalK7ubMCrWBLWaJm3prPCoxsrCWEKtg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: 88949407423d12a95bf39470e3c29835d934e2f6
 workflow-type: tm+mt
-source-wordcount: 130
+source-wordcount: 238
 ht-degree: 3%
 
 ---
@@ -22,6 +19,17 @@ ht-degree: 3%
 보안 설정에서 차단 또는 허용 목록에 도메인을 추가할 수 있습니다.
 
 ![](assets/security-settings-1.png)
+
+>[!IMPORTANT]
+>
+>차단 및 이메일 도메인 허용 필터링은 방문자가 챗봇 또는 대화 흐름에서 Dynamic Chat 내에 직접 이메일 주소를 입력하는 경우에만 적용됩니다. Dynamic Chat이 Marketo Engage과 같은 통합 제품에서 수신하는 이메일 주소에는 적용되지 않습니다. 자세한 내용은 아래 표를 참조하십시오.
+
+| 시나리오 | 필터링이 적용됩니까? |
+|---|---|
+| 방문자가 Dynamic Chat 챗봇에 직접 이메일을 입력합니다 | 예 |
+| 방문자가 자신의 이메일을 Dynamic Chat 대화 흐름에 직접 입력 | 예 |
+| 이메일은 Marketo 양식 제출로 미리 채워집니다(대화형 흐름은 양식 채우기 후 표시됨) | 아니요 |
+| 이메일이 다른 통합 시스템에서 Dynamic Chat으로 전달됩니다. | 아니요 |
 
 ## 차단된 이메일 도메인 {#blocked-email-domains}
 
