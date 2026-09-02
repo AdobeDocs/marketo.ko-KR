@@ -2,22 +2,22 @@
 description: 릴리스 노트 - 2026년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2026년 5월
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 15%
+source-wordcount: '805'
+ht-degree: 14%
 
 ---
 
 # 릴리스 노트: 2026년 5월 {#release-notes-may-26}
 
-아래에는 2026년 5월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
+아래에는 2026년 5월 릴리스에 포함된 모든 기능이 있습니다. 기능 사용 가능 여부는 Adobe Marketo Engage 에디션에서 확인하십시오.
 
 Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}할 수 있습니다.
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 해당하며 **2026년 5월 22일**&#x200B;에 릴리스되기 시작합니다. 이후 몇 주에 걸쳐 나머지 기능의 단계적인 롤아웃이 시작됩니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
+다음 기능은 표준 릴리스 주기에 해당하며 **2026년 5월 22일**&#x200B;에 릴리스되기 시작합니다. 이후 몇 주에 걸쳐 나머지 기능의 단계적인 롤아웃이 시작됩니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인하십시오.
 
 <table style="table-layout:auto">
  <tbody>
@@ -27,10 +27,10 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <th style="width:25%">설명서</th>
   </tr>
   <tr>
-   <td><strong>Marketo AI</strong>: 시간이 많이 걸리지만 중요한 마케팅 기능을 자동화하도록 설계된 에이전트 제품군을 활용하십시오(현재 두 개의 에이전트가 사용 가능하며 곧 출시될 예정).
+   <td><strong>Marketo AI</strong>: 시간이 많이 걸리지만 중요한 마케팅 기능을 자동화하기 위해 고안된 에이전트 기술 제품군을 활용합니다(두 가지 에이전트 기술을 지금 사용할 수 있으며 곧 추가 지원 예정).
 </td>
    <td>Beta 열기</td>
-   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AI 개요</a></td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Marketo AI 개요</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -69,7 +69,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - 입력 중</strong>: 이제 방문자와 에이전트 모두 상대방이 입력하는 동안 "입력 중..." 알림이 표시되므로 상대방이 방해가 되지 않습니다.
+   <td><strong>Dynamic Chat - 입력 중</strong>: 이제 방문자와 에이전트 모두 "입력 중..."이 표시됩니다. 상대방이 입력하는 동안 알림이 전송되어 상대방이 방해가 되지 않습니다.
    </td>
    <td>릴리스됨</td>
    <td>해당 사항 없음</td>

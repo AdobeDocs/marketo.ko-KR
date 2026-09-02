@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 618fe38fae7621ecf72aab8ec09fc345aba23358
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: 434
-ht-degree: 21%
+source-wordcount: 477
+ht-degree: 19%
 
 ---
 
@@ -52,18 +52,18 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td> </td>
   </tr>
   <tr>
-   <td><strong>이메일 Designer - Script Builder</strong>: Script Builder는 개인화 스크립트를 더 빨리 만들 수 있도록 도와주는 AI 기반 도우미입니다.
-</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
    <td><strong>보관 중인 캠페인 비활성화</strong>: 이제 폴더를 보관하면 해당 폴더 트리의 모든 캠페인이 비활성화되고 예약해제되어 보관된 스마트 캠페인이 예기치 않게 실행되지 않습니다.
+</td>
+   <td>릴리스됨</td>
+   <td>해당 사항 없음</td>
+  </tr>
+    <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>이메일 Designer - Script Builder</strong>: Script Builder는 개인화 스크립트를 더 빨리 만들 수 있도록 도와주는 AI 기반 도우미입니다.
 </td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
@@ -73,6 +73,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 <br/>
 
 ## 공지 {#announcements}
+
+* **이제 Marketo AI가 Marketo Engage의 공동 작업자입니다**: Marketo Engage의 공동 작업자는 시간이 많이 걸리는 마케팅 기능을 자동화하기 위해 고안된 에이전트 기술을 제공합니다. 모든 사용자가 사용할 수 있는 새 이름, 동일한 기능. [자세히 알아보기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
 
 * **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2026년 8월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}된 대로 &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
 
