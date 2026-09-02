@@ -1,16 +1,16 @@
 ---
 description: 프로그램 QA, 리드 가져오기, 데이터 표준화 등과 같은 마케팅 작업을 자동화하기 위해 설계된 Marketo Engage 에이전트 제품군의 Coworker를 살펴보십시오.
 title: Marketo Engage용 Coworker 개요
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: b981719a196b7b6ef74c2d048b21f0324fd51859
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '408'
 ht-degree: 1%
 
 ---
 
 # Marketo Engage용 Coworker 개요 {#overview}
 
-Coworker for Marketo Engage은 시간이 많이 걸리지만 중요한 마케팅 기능을 자동화할 수 있도록 설계된 에이전트 기술을 제공합니다.
+Marketo Engage(이전 Marketo AI라고 함)용 동료는 시간이 많이 걸리지만 중요한 마케팅 기능을 자동화하기 위해 고안된 에이전트 기술을 제공합니다.
 
 >[!AVAILABILITY]
 >
@@ -62,4 +62,4 @@ Coworker for Marketo Engage은 시간이 많이 걸리지만 중요한 마케팅
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP 서버](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ko){target="_blank"}는 AI 도우미와 Marketo Engage을 연결하는 다리 역할을 합니다.
+>[Marketo Engage MCP 서버](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"}는 AI 도우미와 Marketo Engage을 연결하는 다리 역할을 합니다.
