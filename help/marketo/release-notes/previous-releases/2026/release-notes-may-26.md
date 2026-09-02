@@ -30,7 +30,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td><strong>Marketo AI</strong>: 시간이 많이 걸리지만 중요한 마케팅 기능을 자동화하기 위해 고안된 에이전트 기술 제품군을 활용합니다(두 가지 에이전트 기술을 지금 사용할 수 있으며 곧 추가 지원 예정).
 </td>
    <td>Beta 열기</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Marketo AI 개요</a></td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Marketo AI 개요</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -40,7 +40,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>Marketo Engage MCP 서버</strong>: Marketo Engage MCP 서버는 AI 어시스턴트와 Marketo Engage 간의 가교 역할을 합니다. 양식, 프로그램, 스마트 캠페인, 사람/리드, 이메일, 코드 조각, 목록 및 폴더에 100개 이상의 작업을 노출합니다.</td>
    <td>Beta 열기</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Marketo 서버</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ko" target="_blank">Marketo 서버</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -123,7 +123,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 올해 초 Marketo에 남겨져 있던 관련 분야가 삭제됐다. 곧이어 특정 소셜 관련 리드 필드를 참조하는 API 요청에서 &quot;필드를 찾을 수 없음&quot; 오류가 반환되어 중단이 발생했습니다. 영향을 받은 필드를 다시 사용할 수 있게 된 후 서비스가 복원되었으므로 더 이상의 중단을 방지하기 위해 Marketo은 소셜 기능 사용 중단에서 소셜 필드를 영구적으로 분리했습니다(따라서 Marketo 계정에서 사용할 수 있게 됨). 사용자는 Marketo 소셜 관련 필드를 참조하는 API 쿼리 및 통합을 검토하고 이러한 필드가 지속적인 비즈니스 프로세스에 여전히 필요한지 확인하는 것이 좋습니다.
 
-* **부울 필드에 대한 API 병합 기능**: API 병합에서 부울 필드의 동작이 2026년 3월 릴리스에서 변경되었습니다. 이제 False 값은 해당 필드에 대한 값이 있는 것으로 올바르게 처리됩니다. 충돌하는 필드를 평가할 때는 null 값만 &quot;비어 있음&quot;으로 처리됩니다. 자세한 내용은 [이 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"}을 참조하세요.
+* **부울 필드에 대한 API 병합 기능**: API 병합에서 부울 필드의 동작이 2026년 3월 릴리스에서 변경되었습니다. 이제 False 값은 해당 필드에 대한 값이 있는 것으로 올바르게 처리됩니다. 충돌하는 필드를 평가할 때는 null 값만 &quot;비어 있음&quot;으로 처리됩니다. 자세한 내용은 [이 커뮤니티 게시물](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=ko){target="_blank"}을 참조하세요.
 
 * **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2026년 8월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}된 대로 &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
 
@@ -131,4 +131,4 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **SOAP API 사용 중단**: Marketo SOAP API에 대한 지원은 2026년 7월 31일에 종료됩니다. SOAP API 기능을 사용하는 서비스는 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}로 마이그레이션해야 합니다.
 
-* **잠재 고객 가져오기 활동 및 잠재 고객 변경 사항 가져오기에 대한 정적 목록 크기 제한**: 2026년 9월 30일부터 `listId` 매개 변수를 포함하는 잠재 고객 가져오기 활동 및 잠재 고객 변경 사항 가져오기 엔드포인트에 대한 호출은 대상 정적 목록에 10,000개 이상의 잠재 고객이 포함된 경우 1003 오류 코드를 반환합니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.
+* **잠재 고객 가져오기 활동 및 잠재 고객 변경 사항 가져오기에 대한 정적 목록 크기 제한**: 2026년 9월 30일부터 `listId` 매개 변수를 포함하는 잠재 고객 가져오기 활동 및 잠재 고객 변경 사항 가져오기 엔드포인트에 대한 호출은 대상 정적 목록에 10,000개 이상의 잠재 고객이 포함된 경우 1003 오류 코드를 반환합니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.

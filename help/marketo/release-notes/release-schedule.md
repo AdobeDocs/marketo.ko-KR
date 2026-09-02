@@ -60,7 +60,7 @@ _릴리스 일자/기능은 변경될 수 있습니다._
    <td>완료</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">26 년 7 월</a></td>
+  <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">26 년 7 월</a></td>
    <td>2026년 7월 10일</td>
    <td>완료</td>
   </tr>

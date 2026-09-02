@@ -74,12 +74,12 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **이제 Marketo AI가 Marketo Engage의 공동 작업자입니다**: Marketo Engage의 공동 작업자는 시간이 많이 걸리는 마케팅 기능을 자동화하기 위해 고안된 에이전트 기술을 제공합니다. 모든 사용자가 사용할 수 있는 새 이름, 동일한 기능. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
+* **이제 Marketo AI가 Marketo Engage의 공동 작업자입니다**: Marketo Engage의 공동 작업자는 시간이 많이 걸리는 마케팅 기능을 자동화하기 위해 고안된 에이전트 기술을 제공합니다. 모든 사용자가 사용할 수 있는 새 이름, 동일한 기능. [자세히 알아보기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
 
 * **Rest API &#39;access_token&#39; 매개 변수 사용 중단**: Marketo REST API 호출을 인증하는 데 사용되는 `access_token` 쿼리 매개 변수는 더 이상 사용되지 않으며 2026년 8월 31일 이후에 사용할 수 없습니다. 모든 신규 및 기존 통합은 [여기에 설명](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}된 대로 &#39;Authorization&#39; 헤더를 사용하여 REST API 호출을 인증해야 합니다.
 
 * **REST API 캠페인 실행 ID**: 특정 상황에서 활동의 캠페인 실행 ID 값이 두 쌍의 따옴표(예: `"campaignRunId": ""102938""`) 사이에 잘못된 형식으로 반환되는 경우가 있었습니다.<br/>8월 릴리스부터 이 값은 항상 올바른 숫자 형식(`"campaignRunId": 102938`)으로 반환됩니다
 
-* **리드 가져오기 활동 및 리드 변경 가져오기에 대한 정적 목록 크기 제한**: 2026년 9월 30일부터 대상 목록에 레코드가 너무 많음을 나타내는 1003 오류 코드와 함께 10,000개 이상의 리드가 포함된 경우 `listId` 매개 변수를 포함하는 리드 가져오기 활동 또는 리드 변경 가져오기 엔드포인트에 대한 호출이 실패합니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.
+* **리드 가져오기 활동 및 리드 변경 가져오기에 대한 정적 목록 크기 제한**: 2026년 9월 30일부터 대상 목록에 레코드가 너무 많음을 나타내는 1003 오류 코드와 함께 10,000개 이상의 리드가 포함된 경우 `listId` 매개 변수를 포함하는 리드 가져오기 활동 또는 리드 변경 가져오기 엔드포인트에 대한 호출이 실패합니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.
 
 * **REST API 병합 리드 제한**: 2026년 7월 31일부터 병합 리드 API 호출의 leadIds 매개 변수에 25개 이상의 ID를 포함하는 호출로 인해 1080 오류 코드가 발생하고 호출이 건너뜁니다. 25개 이상의 레코드를 하나로 병합해야 하는 작업은 이러한 호출의 성공을 보장하기 위해 여러 작업으로 분할해야 합니다.
