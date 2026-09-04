@@ -1,9 +1,9 @@
 ---
 description: Marketo Engage 권한에 대해 Coworker를 활성화하고 조직 규칙을 구성하고 통합 및 알림과 같은 설정을 관리하는 방법을 알아봅니다.
 title: 설정 및 설정
-source-git-commit: 73a09b315526dda5bd4d53646a17141a16943218
+source-git-commit: 01cad5c7d14083c0ef7127850f2488dbfd71f57b
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '581'
 ht-degree: 1%
 
 ---
@@ -16,17 +16,13 @@ ht-degree: 1%
 >
 >이 기능은 모든 구독에서 사용할 수 있습니다. 내 Marketo 화면에 Marketo Engage 동료용 타일이 표시되지 않으면 계정 관리자에게 문의하십시오. [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에도 동의해야 합니다.
 
->[!IMPORTANT]
->
->이 기능은 이전에 Marketo AI로 불렸습니다. 권한 및 사용자 역할 이름은 아직 업데이트되지 않았으며 향후 릴리스에서 변경될 예정입니다. 그때까지 관리 섹션에 이전 이름이 계속 표시됩니다.
-
 ## 권한 및 역할 {#permission-and-role}
 
-관리자는 _Marketo AI 액세스_ 권한과 _Marketo AI 사용자_ 역할을 통해 **Marketo AI** 기능에 액세스할 수 있는 사용자를 보다 강력하게 제어할 수 있습니다. 권한은 역할 수준에서 할당됩니다. _Marketo AI 사용자_ 역할에는 기본적으로 _Marketo AI에 액세스_ 권한이 활성화되어 있습니다.
+관리자는 _Marketo Engage용 Coworker 액세스_ 권한과 _Marketo Engage 사용자용 Coworker 액세스_ 역할이 있으므로 어떤 사용자가 Marketo Engage용 **Coworker 액세스** 기능을 액세스할 수 있는지에 대해 보다 세밀하게 제어할 수 있습니다. 권한은 역할 수준에서 할당됩니다. _Marketo Engage 사용자용 Coworker_ 역할은 기본적으로 _Marketo Engage용 Coworker 액세스_ 권한이 활성화되어 있습니다.
 
 >[!NOTE]
 >
->_Marketo AI 액세스_ 권한은 모든 역할에 대해 기본적으로 활성화되어 있지 않습니다. 자세한 내용은 아래 표를 참조하십시오.
+>_Marketo Engage용 Coworker 액세스_ 권한은 모든 역할에 대해 기본적으로 활성화되어 있지 않습니다. 자세한 내용은 아래 표를 참조하십시오.
 
 | 역할 | 기본 상태 |
 | --- | --- |
@@ -34,12 +30,12 @@ ht-degree: 1%
 | Adobe 제품 관리자 | 활성화됨 |
 | 마케팅 사용자 | 비활성화됨 |
 | 표준 사용자 | 사용 불가 |
-| Marketo AI 사용자 | 활성화됨 |
+| Marketo Engage 사용자를 위한 동료 | 활성화됨 |
 | 사용자 정의 역할 | 비활성화됨 |
 
-### Marketo AI 권한 액세스 {#access-marketo-ai-permission}
+### Marketo Engage 권한에 대한 Coworker 액세스 {#access-coworker-marketo-permission}
 
-아직 활성화되지 않은 자격을 갖춘 역할에 대해 _Marketo AI에 액세스_&#x200B;하려면 아래 단계를 따르십시오.
+아직 활성화되지 않은 자격 있는 역할에 대해 _Marketo Engage용 Coworker 액세스_&#x200B;를 활성화하려면 아래 단계를 따르십시오.
 
 1. 내 Marketo에서 **관리자**&#x200B;를 클릭한 다음 **사용자 및 역할**&#x200B;을 클릭합니다.
 
@@ -49,21 +45,21 @@ ht-degree: 1%
 
    ![](assets/settings-setup-2.png)
 
-1. 아래로 스크롤하여 _Marketo AI 액세스_ 확인란을 선택하고 **저장**&#x200B;을 클릭합니다.
+1. 아래로 스크롤하여 _Marketo Engage용 Coworker 액세스_ 확인란을 선택하고 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/settings-setup-3.png)
 
    >[!NOTE]
    >
-   >**실행**&#x200B;확인란을 선택하여 _Marketo AI에 액세스_ 권한을 제거하는 동일한 단계를 사용할 수 있습니다.
+   >**실행** Marketo Engage에 대한 _동료에 액세스_ 확인란을 선택하여 권한을 제거하는 동일한 단계를 사용할 수 있습니다.
 
-### Marketo AI 사용자 역할 {#marketo-ai-user-role}
+### Marketo Engage용 동료 사용자 역할 {#coworker-marketo-user-role}
 
-다음 단계에 따라 특정 사용자를 _Marketo AI 사용자_ 역할에 할당합니다.
+다음 단계에 따라 특정 사용자를 _Marketo Engage 사용자용 동료_ 역할에 할당하십시오.
 
 >[!NOTE]
 >
->이 **only** 역할에 _Marketo AI 액세스_ 권한이 포함되어 있습니다.
+>이 **only** 역할에 Marketo Engage에 대한 _Access Coworker_ 권한이 포함되어 있습니다.
 
 1. 내 Marketo에서 **관리자**&#x200B;를 클릭한 다음 **사용자 및 역할**&#x200B;을 클릭합니다.
 
@@ -73,13 +69,13 @@ ht-degree: 1%
 
    ![](assets/settings-setup-5.png)
 
-1. _역할 및 작업 공간_&#x200B;에서 _Marketo AI 사용자_ 확인란을 선택하십시오. 작업 영역이 두 개 이상 있는 경우 **+** 서명 드롭다운에서 액세스할 작업 영역을 지정할 수 있습니다. 완료되면 **저장**&#x200B;을 클릭합니다.
+1. _역할 및 작업 공간_&#x200B;에서 _Marketo Engage 사용자를 위한 공동 작업자_ 확인란을 선택하십시오. 작업 영역이 두 개 이상 있는 경우 **+** 서명 드롭다운에서 액세스할 작업 영역을 지정할 수 있습니다. 완료되면 **저장**&#x200B;을 클릭합니다.
 
    ![](assets/settings-setup-6.png)
 
 ### 사용자 정의 역할 {#custom-role}
 
-[새 역할을 만들고](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} 사용 권한을 사용자 지정하는 옵션이 있으며, _Marketo AI에 액세스_&#x200B;와 함께 원하는 모든 권한을 추가하고[특정 사용자에게 해당 역할을 할당](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}할 수 있습니다.
+[새 역할을 만들고](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} 사용 권한을 사용자 지정하는 옵션이 있습니다. _Marketo Engage용 Coworker 액세스_&#x200B;와 함께 원하는 모든 기능을 추가하고[특정 사용자에게 해당 역할을 할당](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}할 수 있습니다.
 
 ## 설정 {#settings}
 
