@@ -3,9 +3,9 @@ description: AWS 마이그레이션 - Marketo Engage 문서 - 제품 설명서
 title: AWS 마이그레이션
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 90726ce1010f75690587936f3c4019846bdbb0fa
+source-git-commit: 26975e7134c06510311ac3869e281f9c160d2657
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '903'
 ht-degree: 5%
 
 ---
@@ -239,6 +239,36 @@ ht-degree: 5%
    <td>2026년 9월 25일</td>
    <td>AB10<br>
    AB11</td>
+   <td>오후 4시(태평양 표준시)<br>
+   오후 5시(태평양 표준시)</td>
+   <td>일정대로 진행 중<br>
+   일정에 따라</td>
+  </tr>
+  <tr>
+   <td>2026년 9월 29일</td>
+   <td>AB14</td>
+   <td>오후 6시(태평양 표준시)</td>
+   <td>일정대로 진행 중</td>
+  </tr>
+   <tr>
+   <td>2026년 10월 1일</td>
+   <td>AB15<br>
+   AB16</td>
+   <td>오후 5시(태평양 표준시)<br>
+   오후 6시(태평양 표준시)</td>
+   <td>일정대로 진행 중<br>
+   일정에 따라</td>
+  </tr>
+  <tr>
+   <td>2026년 10월 6일</td>
+   <td>AB18</td>
+   <td>오후 5시(태평양 표준시)</td>
+   <td>일정대로 진행 중</td>
+  </tr>
+  <tr>
+   <td>2026년 10월 9일</td>
+   <td>AB19<br>
+   AB22</td>
    <td>오후 4시(태평양 표준시)<br>
    오후 5시(태평양 표준시)</td>
    <td>일정대로 진행 중<br>
