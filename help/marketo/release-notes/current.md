@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: b77e1a1e72b89e7cdef5733dbb2de4405ebf3b07
 workflow-type: tm+mt
-source-wordcount: 477
-ht-degree: 19%
+source-wordcount: 496
+ht-degree: 18%
 
 ---
 
@@ -55,7 +55,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <td><strong>보관 중인 캠페인 비활성화</strong>: 이제 폴더를 보관하면 해당 폴더 트리의 모든 캠페인이 비활성화되고 예약해제되어 보관된 스마트 캠페인이 예기치 않게 실행되지 않습니다.
 </td>
    <td>릴리스됨</td>
-   <td>해당 사항 없음</td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">보관 중인 캠페인 비활성화</a></td>
   </tr>
     <tr>
    <td> </td>
