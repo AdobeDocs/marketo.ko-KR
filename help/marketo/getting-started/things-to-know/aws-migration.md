@@ -3,9 +3,9 @@ description: AWS 마이그레이션 - Marketo Engage 문서 - 제품 설명서
 title: AWS 마이그레이션
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: a314dd062a500c96d1bb5eab141adec5180a2c91
+source-git-commit: 2f5b6f31959e542b149e10bf42e4ab4ee763fbcd
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '918'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 이후 몇 개월 동안 모든 Marketo Engage 구독은 안정성, 확장성 및 속도를 개선하기 위해 개인 데이터 센터에서 AWS 공용 클라우드로 마이그레이션되고 있습니다.
 
-마이그레이션하기 약 30일 전에 이메일과 인앱 알림을 받게 됩니다. 이 안내서를 사용하여 준비하십시오.
+[마이그레이션](#identify) 약 30일 전에 이메일과 인앱 알림을 받게 됩니다. 이 안내서를 사용하여 준비하십시오.
 
 ## 권장 작업 {#actions}
 
@@ -37,15 +37,17 @@ ht-degree: 5%
 아래 영향은 귀하에게 어떠한 조치도 필요하지 않습니다.
 
 * **CRM 통합 및 LaunchPoint 서비스**&#x200B;이(가) 비활성화되지만 이후에 자동으로 다시 시작됩니다.
-* **랜딩 페이지, 양식 및 데이터 수집**&#x200B;을(를) 사용할 수 없으며 유지 관리 메시지가 대신 표시됩니다.
+* **랜딩 페이지, 양식 및 데이터 수집**&#x200B;을(를) 사용할 수 없으며 유지 관리 메시지가 표시됩니다(아래 참조).
 
->[!NOTE]
+  ![가동 중지 시간 동안 고객이 Marketo Engage 랜딩 페이지에 액세스할 때 표시되는 메시지](assets/maintenance-in-progress.png)
+
+>[!IMPORTANT]
 >
->[외부 양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}을 사용하고 마이그레이션 기간 동안 Marketo Engage을 사용할 수 없는 동안 수집된 양식 제출 데이터가 손실되지 않도록 하려면 미리 [Adobe 지원 센터](https://experienceleague.adobe.com/ko/support){target="_blank"} **최소 2일**&#x200B;에 연락하여 양식 ID와 구독의 Munchkin ID를 제공하십시오.
+>[외부 양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}을 사용하고 마이그레이션 기간 동안 Marketo Engage을 사용할 수 없는 동안 수집된 양식 제출 데이터가 손실되지 않도록 하려면 미리 [Adobe 지원 센터](https://experienceleague.adobe.com/en/support){target="_blank"} **최소 2일**&#x200B;에 연락하여 양식 ID와 구독의 Munchkin ID를 제공하십시오.
 
 ## 데이터 센터/포드 식별 {#identify}
 
-아래 표를 검토하기 전에 [구독 데이터 센터 및 Pod/서버를 식별하는 방법을 알아보세요](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify).
+아래 일정을 검토하기 전에 [구독 데이터 센터 및 Pod/서버를 식별하는 방법을 알아보세요](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify).
 
 ## 일정 {#schedule}
 
@@ -304,7 +306,7 @@ ht-degree: 5%
 
 ## 업데이트 및 지원 {#support}
 
-최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+최신 업데이트를 보려면 이 페이지에 책갈피를 지정합니다. 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
 
 ## FAQ {#faq}
 
