@@ -3,9 +3,9 @@ description: AWS 마이그레이션 - Marketo Engage 문서 - 제품 설명서
 title: AWS 마이그레이션
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b631ea9780168beb763bc912f3e2f9f98d4e7fbe
+source-git-commit: 7fbd9f13355b45b03b4e1295e6c006dbfc4113e6
 workflow-type: tm+mt
-source-wordcount: '991'
+source-wordcount: '994'
 ht-degree: 5%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->[외부 양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}을 사용하고 마이그레이션 기간 동안 Marketo Engage을 사용할 수 없는 동안 수집된 양식 제출 데이터가 손실되지 않도록 하려면 미리 [Adobe 지원 센터](https://experienceleague.adobe.com/ko/support){target="_blank"} **최소 2일**&#x200B;에 연락하여 양식 ID와 구독의 Munchkin ID를 제공하십시오.
+>[외부 양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}을 사용하고 마이그레이션 기간 동안 Marketo Engage을 사용할 수 없는 동안 수집된 양식 제출 데이터가 손실되지 않도록 하려면 미리 [Adobe 지원 센터](https://experienceleague.adobe.com/en/support){target="_blank"} **최소 2일**&#x200B;에 연락하여 양식 ID와 구독의 Munchkin ID를 제공하십시오.
 
 ## 데이터 센터/포드 식별 {#identify}
 
@@ -308,9 +308,11 @@ ht-degree: 5%
 
 ## 업데이트 및 지원 {#support}
 
-최신 정보를 보려면 이 페이지를 책갈피로 지정하십시오. 마이그레이션 시작 및 완료 시 상태 업데이트를 받으려면 [구독](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}하세요. 마이그레이션 기간 동안 https://status.adobe.com/ko-kr/ 을 방문할 수도 있습니다.
+최신 정보를 보려면 이 페이지를 책갈피로 지정하십시오.
 
-질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+상태 업데이트의 경우 마이그레이션 시작 및 완료 시 [구독을 통해 ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}받을 수 있습니다. 마이그레이션 기간 동안 [https://status.adobe.com/](https://status.adobe.com/){target="_blank"}을(를) 방문할 수도 있습니다.
+
+질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
 
 ## FAQ {#faq}
 
