@@ -310,7 +310,7 @@ ht-degree: 5%
 
 최신 정보를 보려면 이 페이지를 책갈피로 지정하십시오.
 
-상태 업데이트의 경우 마이그레이션 시작 및 완료 시 [구독을 통해 ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}받을 수 있습니다. 마이그레이션 기간 동안 [https://status.adobe.com/](https://status.adobe.com/){target="_blank"}을(를) 방문할 수도 있습니다.
+상태 업데이트의 경우 마이그레이션 시작 및 완료 시 [구독을 통해 &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}받을 수 있습니다. 마이그레이션 기간 동안 [https://status.adobe.com/](https://status.adobe.com/){target="_blank"}을(를) 방문할 수도 있습니다.
 
 질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
 
