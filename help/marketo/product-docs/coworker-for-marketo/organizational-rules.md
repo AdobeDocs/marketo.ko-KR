@@ -1,14 +1,14 @@
 ---
-description: 설명은 여기에 표시됩니다.
+description: 조직 규칙 이 어떻게 거버넌스 표준을 정의하는지 알아보고 프로그램 생성, 캠페인 계획 및 유효성 검사에 걸쳐 Marketo Engage 동료에게 안내합니다.
 title: 조직 규칙
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '828'
 ht-degree: 0%
 ---
 # 조직 규칙 {#organizational-rules}
 
-조직 규칙은 프로그램 생성, 캠페인 계획 및 유효성 검사 워크플로우에 걸쳐 동료에게 안내하는 단일 문서로 마케팅 운영 표준 및 거버넌스 요구 사항을 정의합니다.
+조직 규칙은 프로그램 생성, 캠페인 계획 및 유효성 검사 워크플로 전반에서 Marketo Engage용 Coworker를 안내하는 단일 문서로 마케팅 운영 표준 및 거버넌스 요구 사항을 정의합니다.
 
 ## 조직 규칙이란 무엇입니까? {#what-are-organizational-rules}
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 
 ## 조직 규칙 사용 위치 {#where-organizational-rules-are-used}
 
-조직 규칙은 다음 세 가지 기술에 대해 동료에게 안내합니다.
+조직 규칙은 다음 세 가지 기술에 대해 Marketo Engage용 동료에게 안내합니다.
 
 | 스킬 | 규칙 적용 방법 |
 | --- | --- |
-| 프로그램 빌드 | 규칙은 프로그램 구조, 이름 지정 및 초기 설정을 작성하는 데 도움이 됩니다. 동료 는 프로그램을 만들기 전에 개요 의 모든 준수 문제에 플래그를 지정합니다. |
-| 플랜 캠페인 | 규칙은 동료가 사용자 표준에 따라 스마트 캠페인, 필터 및 흐름 단계를 구성하는 방법을 알려줍니다. |
-| 프로그램 유효성 검사 | 규칙은 활성화 전에 프로그램의 유효성을 검사할 때 동료가 확인하는 내용을 정의합니다. |
+| 프로그램 빌드 | 규칙은 프로그램 구조, 이름 지정 및 초기 설정을 작성하는 데 도움이 됩니다. Marketo Engage용 동료는 프로그램을 만들기 전에 개요 의 모든 준수 문제에 플래그를 지정합니다. |
+| 플랜 캠페인 | 규칙은 Marketo Engage용 Coworker가 사용자 표준에 따라 스마트 캠페인, 필터 및 흐름 단계를 구성하는 방법을 알려줍니다. |
+| 프로그램 유효성 검사 | 규칙은 활성화 전에 프로그램의 유효성을 검사할 때 Marketo Engage용 동료가 확인하는 내용을 정의합니다. |
 
 ## 조직 규칙에 액세스하고 사용자 지정하는 방법 {#how-to-access-and-customize-organizational-rules}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
    * 준수 및 제외 표준
 
 1. 변경할 때 버전 번호를 업데이트합니다.
-1. 변경 내용을 저장합니다. 모든 동료 기술은 사용자 지정된 규칙을 즉시 사용합니다.
+1. 변경 내용을 저장합니다. Marketo Engage 스킬에 대한 모든 동료는 사용자 지정된 규칙을 즉시 사용하게 됩니다.
 
 ## 조직 규칙 구조 {#organizational-rules-structure}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 ```markdown
 ---
-name: Your Organization Name — Marketo Campaign Governance
+name: Your Organization Name - Marketo Campaign Governance
 version: 1.0
 enabled: true
 customized: true
@@ -83,7 +83,7 @@ customized: true
 
 # Email Compliance
 
-## ⚠️ REQUIRED Elements
+## Required Elements
 - Unsubscribe link in footer
 - Company name and physical address
 - All external links include UTM parameters
@@ -99,16 +99,16 @@ customized: true
 * **규칙 집중 유지**: 조직에 관련된 요구 사항만 포함합니다. 불필요한 규칙은 소음을 발생시키고 불필요하게 준수 점수를 줄입니다.
 * **자동 및 수동 확인 사용**:
 
-  * 자동 확인 — 이름 지정 규칙, 필수 폴더, 토큰 사용(동료가 확인 가능)
-  * 수동 확인 — 이메일 시각적 디자인, 브랜드 준수, 캠페인 논리(Coworker는 이를 수동 검토 단계로 플래그 지정)
+  * 자동 확인: 이름 지정 규칙, 필수 폴더, 토큰 사용(Marketo Engage용 Coworker가 확인할 수 있음)
+  * 수동 확인: 이메일 시각적 디자인, 브랜드 준수, 캠페인 논리(Marketo Engage용 동료는 이를 수동 검토 단계로 플래그 지정)
 
 * **엄격함과 유연성 간의 균형 조정**: 너무 엄격한 규칙은 프로그램 생성 속도를 저하시킬 수 있습니다. 너무 느슨한 규칙은 중요한 규정 준수 문제를 포착하지 못합니다.
 * **규칙 버전**: 중요 변경 작업을 수행할 때 버전 번호를 업데이트하여 팀에서 거버넌스 표준이 업데이트되었음을 알 수 있도록 합니다.
 * **변경 내용 전달**: 조직 규칙을 업데이트할 때 마케팅 운영 팀에 변경 내용과 이유를 알려 주십시오.
 
-## 동료가 검증할 수 있는 사항 및 검증할 수 없는 사항 {#what-coworker-can-and-cannot-validate}
+## Marketo Engage용 동료가 확인할 수 있는 사항 및 확인할 수 없는 사항 {#what-coworker-can-and-cannot-validate}
 
-동료가 유효성을 검사할 수 있음(자동 검사):
+Marketo Engage용 Coworker CAN 유효성 검사(자동 검사):
 
 * 명명 규칙은 패턴과 일치합니다
 * 필수 폴더 구조가 있음
@@ -117,23 +117,23 @@ customized: true
 * 외부 링크에는 UTM 매개 변수가 포함되어 있습니다
 * 스마트 캠페인 이름은 규칙을 따릅니다.
 
-동료가 유효성을 검사할 수 없음(수동 검토 필요):
+Marketo Engage용 동료가 유효성을 검사할 수 없음(수동 검토 필요):
 
-* 스마트 목록 필터 논리(API 제한 - 필터를 수동으로 구성해야 함)
-* 스마트 캠페인 흐름 단계 논리(API 제한 - 흐름을 수동으로 구성해야 함)
+* 스마트 목록 필터 논리(API 제한: 필터를 수동으로 구성해야 함)
+* 스마트 캠페인 흐름 단계 논리(API 제한 사항: 흐름을 수동으로 구성해야 함)
 * 이메일 시각적 렌더링 및 응답성(시각적 검사 필요)
 * 브랜드 준수 및 메시징 톤(사람의 판단 필요)
 * 동적 콘텐츠 세분화 규칙(API 제한)
 
-Coworker에서 확인할 수 없는 사항이 발생하면 워크플로의 수동 검토 단계로 플래그를 지정합니다.
+Marketo Engage용 Coworker에 확인할 수 없는 사항이 발생하면 워크플로의 수동 검토 단계로 플래그를 지정합니다.
 
 ## 규정 준수 점수 {#compliance-scoring}
 
-프로그램 유효성 검사를 사용하는 경우 Coworker는 다음을 기반으로 규정 준수 점수를 계산합니다.
+프로그램 유효성 검사 를 사용하는 경우 Marketo Engage용 Coworker는 다음을 기반으로 규정 준수 점수를 계산합니다.
 
-* **검사 통과** — Coworker가 준수 여부를 확인했으며 문제를 찾지 못했습니다.
-* **확인 실패** — 동료가 조직 규칙 위반을 발견했습니다.
-* **수동 검토 단계** - 사람 확인이 필요한 항목(점수에 포함되지 않음)
+* **검사 통과**: Marketo Engage용 Coworker가 준수 여부를 확인했으며 문제를 찾지 못했습니다.
+* **확인 실패**: Marketo Engage의 동료가 조직 규칙 위반을 발견했습니다.
+* **수동 검토 단계**: 사람 확인이 필요한 항목(점수에 포함되지 않음)
 
 프로그램은 100% 준수할 수 있으며 여전히 수동 검토 단계가 필요합니다. 점수 계산에서 제외됩니다.
 
@@ -161,7 +161,7 @@ Example: AMER_Q2_Product_Launch_Webinar_2025
 **예 3: 최소 규칙(준수 집중)**
 
 ```markdown
-# Email Compliance — REQUIRED
+# Email Compliance - REQUIRED
 
 - Unsubscribe link present
 - CAN-SPAM physical address in footer
@@ -172,9 +172,9 @@ Example: AMER_Q2_Product_Launch_Webinar_2025
 
 ## 문제 해결 {#troubleshooting}
 
-**Q: 조직 규칙을 업데이트했지만 동료가 여전히 이전 규칙을 사용하고 있습니다.**
+**Q: 조직 규칙을 업데이트했지만 Marketo Engage용 동료가 여전히 이전 규칙을 사용하고 있습니다.**
 
-A: 새 프로그램 및 유효성 검사에 변경 사항이 즉시 적용됩니다. 기존 프로그램에서 작업 중인 경우 브라우저를 새로 고치거나 새 Coworker 워크플로우를 시작하여 업데이트된 규칙을 확인합니다.
+A: 새 프로그램 및 유효성 검사에 변경 사항이 즉시 적용됩니다. 기존 프로그램에서 작업 중인 경우 브라우저를 새로 고치거나 새 Marketo Engage 공동 작업자 워크플로를 시작하여 업데이트된 규칙을 보십시오.
 
 **Q: 기본 규칙으로 되돌릴 수 있습니까?**
 
