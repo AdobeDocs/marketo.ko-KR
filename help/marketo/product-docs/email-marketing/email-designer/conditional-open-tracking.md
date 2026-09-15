@@ -12,7 +12,7 @@ ht-degree: 0%
 ---
 # 조건부 이메일 열기 추적 {#conditional-open-tracking}
 
-[다양한 지침](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632){target="_blank"}에 따라 이메일 열기(픽셀) 추적에 대한 최종 사용자 동의를 준수하도록 Marketo Engage을 구성하는 방법을 알아봅니다. 이 접근 방법에서는 사용자 지정 부울 필드를 사용하여 개인이 받는 이메일 변형, 즉 공개 추적이 활성화된 이메일 변형 또는 비활성화된 이메일 변형을 확인합니다.
+[다양한 지침](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=ko){target="_blank"}에 따라 이메일 열기(픽셀) 추적에 대한 최종 사용자 동의를 준수하도록 Marketo Engage을 구성하는 방법을 알아봅니다. 이 접근 방법에서는 사용자 지정 부울 필드를 사용하여 개인이 받는 이메일 변형, 즉 공개 추적이 활성화된 이메일 변형 또는 비활성화된 이메일 변형을 확인합니다.
 
 ## 1단계: 사용자 지정 부울 필드 만들기 {#custom-field}
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 2단계: 동의 필드 채우기 {#populate}
 
-1. 데이터 가져오기(API 동기화 또는 [CSV 업로드](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"})를 통해 각 사용자에 대한 이메일 픽셀 추적 필드 값을 설정하십시오.
+1. 데이터 가져오기(API 동기화 또는 [CSV 업로드](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"})를 통해 각 사용자에 대한 이메일 픽셀 추적 필드 값을 설정하십시오.
 
    ![](assets/open-tracking-3.png)
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ## 4단계: 스마트 캠페인 구성 {#smart-campaign}
 
-[스마트 캠페인을 만들기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}하여 각 사용자가 받는 전자 메일을 확인합니다.
+[스마트 캠페인을 만들기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}하여 각 사용자가 받는 전자 메일을 확인합니다.
 
 1. Smart Campaign의 _흐름_ 탭에서 **전자 메일 보내기** 흐름 단계를 삽입합니다.
 
