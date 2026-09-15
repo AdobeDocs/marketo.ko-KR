@@ -1,13 +1,11 @@
 ---
 description: 프로그램 QA, 리드 가져오기, 데이터 표준화 등과 같은 마케팅 작업을 자동화하기 위해 설계된 Marketo Engage 에이전트 제품군의 Coworker를 살펴보십시오.
 title: Marketo Engage용 Coworker 개요
-source-git-commit: b981719a196b7b6ef74c2d048b21f0324fd51859
+source-git-commit: f812c2f442c39883e028735ce51efe607968142b
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '439'
 ht-degree: 1%
-
 ---
-
 # Marketo Engage용 Coworker 개요 {#overview}
 
 Marketo Engage(이전 Marketo AI라고 함)용 동료는 시간이 많이 걸리지만 중요한 마케팅 기능을 자동화하기 위해 고안된 에이전트 기술을 제공합니다.
@@ -32,9 +30,13 @@ Marketo Engage(이전 Marketo AI라고 함)용 동료는 시간이 많이 걸리
 
 ![](assets/overview-2.png)
 
-## 스킬 {#skills}
+## 기술 {#skills}
 
 센터 콘솔에는 다양한 작업에 도움이 되는 늘어나는 에이전트 기술이 포함되어 있습니다. 각 스킬은 특정 작업을 완료하기 위해 자연어를 통해 상호 작용하는 특수 목적의 AI 도우미입니다.
+
+### 프로그램 빌드 {#build-programs}
+
+마케팅 캠페인을 일반 언어로 설명하고 Marketo Engage용 동료는 자산 자리 표시자 및 일정으로 완성되는 프로그램 구조를 만듭니다. [프로그램 빌드 기술](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}에 대해 자세히 알아보세요.
 
 ### 리드 조사 {#investigate-leads}
 
@@ -62,4 +64,4 @@ Marketo Engage(이전 Marketo AI라고 함)용 동료는 시간이 많이 걸리
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP 서버](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ko){target="_blank"}는 AI 도우미와 Marketo Engage을 연결하는 다리 역할을 합니다.
+>[Marketo Engage MCP 서버](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"}는 AI 도우미와 Marketo Engage을 연결하는 다리 역할을 합니다.

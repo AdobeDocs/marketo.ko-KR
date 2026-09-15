@@ -1,15 +1,11 @@
 ---
 description: Marketo Engage용 Coworker를 사용하여 일반 언어 개요에서 Marketo 프로그램을 제작합니다. 스마트 캠페인, 예약 및 자산 자리 표시자를 검토 및 구체화할 준비가 되었습니다.
 title: 프로그램 빌드
-badge: Beta
-hide: true
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: f812c2f442c39883e028735ce51efe607968142b
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '582'
 ht-degree: 0%
-
 ---
-
 # 프로그램 빌드 {#build-programs}
 
 마케팅 캠페인을 일반 언어로 설명하고 Marketo Engage용 동료는 자산 자리 표시자 및 일정으로 완성되는 프로그램 구조를 만듭니다.
@@ -19,10 +15,6 @@ ht-degree: 0%
 >* 이 기능을 사용하려면 먼저 [Core Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에 동의해야 합니다. 자세한 내용은 Adobe 계정 팀(계정 관리자)에 문의하십시오.
 >
 >* Marketo 계정에서 프로그램을 만들 수 있는 권한이 있어야 합니다.
-
->[!AVAILABILITY]
->
->이 기능은 현재 비공개 베타입니다. 이 설명서를 배포하지 마십시오.
 
 ## 사용 방법 {#how-to-use}
 
