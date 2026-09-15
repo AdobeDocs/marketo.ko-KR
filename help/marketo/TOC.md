@@ -4,13 +4,11 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 8a3959f6edd01d28e6377a3a39a23b63a1d6475e
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '8931'
+source-wordcount: '8930'
 ht-degree: 96%
-
 ---
-
 
 # Marketo 안내서 {#using}
 
@@ -490,7 +488,7 @@ ht-degree: 96%
     + [개요](product-docs/coworker-for-marketo/overview.md)
     + [설정 및 설정](product-docs/coworker-for-marketo/settings-setup.md)
     + [Marketo Engage 데이터 정보 시트용 Coworker](product-docs/coworker-for-marketo/data-information.md)
-    + 스킬 {#skills}
+    + 기술 {#skills}
       + [제품 지식](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[표면 인사이트](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + {hide-from-toc}[프로그램 빌드](product-docs/coworker-for-marketo/skills/build-programs.md)
@@ -1027,7 +1025,7 @@ ht-degree: 96%
       + [이메일 공동 작업](product-docs/email-marketing/email-designer/email-collaboration.md)
       + [이메일 Designer에서 컨텐츠 생성](product-docs/email-marketing/email-designer/generate-content.md)
       + [SpamAssassin으로 이메일 스팸 신고](product-docs/email-marketing/email-designer/spam-report.md)
-      + [CNIL 오픈 추적 지침](product-docs/email-marketing/email-designer/cnil-guidance.md)
+      + [조건부 열기 추적](product-docs/email-marketing/email-designer/conditional-open-tracking.md)
     + 이메일 프로그램 {#email-programs}
       + 이메일 프로그램 만들기 {#creating-an-email-program}
         + [이메일 프로그램 만들기](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
