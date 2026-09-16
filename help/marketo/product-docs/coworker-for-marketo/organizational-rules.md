@@ -1,9 +1,9 @@
 ---
 description: 조직 규칙 이 어떻게 거버넌스 표준을 정의하는지 알아보고 프로그램 생성, 캠페인 계획 및 유효성 검사에 걸쳐 Marketo Engage 동료에게 안내합니다.
 title: 조직 규칙
-source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+source-git-commit: c1581e2b692dd50bf472756e4e6222ff75ae091c
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '829'
 ht-degree: 0%
 ---
 # 조직 규칙 {#organizational-rules}
@@ -19,7 +19,7 @@ ht-degree: 0%
 * 준수 요구 사항(구독 취소 링크, UTM 매개 변수, 제외 필터)
 * 우수 사례(이메일 디자인, 스마트 목록 구성)
 
-모든 Marketo 인스턴스에는 기본 조직 규칙이 포함되어 있습니다. 조직의 특정 거버넌스 요구 사항을 반영하도록 사용자 지정할 수 있습니다.
+모든 Marketo Engage 환경에는 기본 조직 규칙이 포함되어 있습니다. 조직의 특정 거버넌스 요구 사항을 반영하도록 사용자 지정할 수 있습니다.
 
 ## 조직 규칙 사용 위치 {#where-organizational-rules-are-used}
 
