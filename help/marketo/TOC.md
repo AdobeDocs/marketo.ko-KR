@@ -4,9 +4,9 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
 workflow-type: tm+mt
-source-wordcount: '8930'
+source-wordcount: '8932'
 ht-degree: 96%
 ---
 
@@ -487,6 +487,7 @@ ht-degree: 96%
   + Marketo Engage 동료 {#coworker-for-marketo}
     + [개요](product-docs/coworker-for-marketo/overview.md)
     + [설정 및 설정](product-docs/coworker-for-marketo/settings-setup.md)
+    + {hide-from-toc}[조직 규칙](product-docs/coworker-for-marketo/organizational-rules.md)
     + [Marketo Engage 데이터 정보 시트용 Coworker](product-docs/coworker-for-marketo/data-information.md)
     + 기술 {#skills}
       + [제품 지식](product-docs/coworker-for-marketo/skills/product-knowledge.md)
