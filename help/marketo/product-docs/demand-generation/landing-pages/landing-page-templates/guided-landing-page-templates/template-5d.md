@@ -22,7 +22,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->[ 템플릿을 다운로드하고 가져오는 방법에 대한 전체 단계는 여기에서 찾을 수 있습니다](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
+>[&#x200B; 템플릿을 다운로드하고 가져오는 방법에 대한 전체 단계는 여기에서 찾을 수 있습니다](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 
