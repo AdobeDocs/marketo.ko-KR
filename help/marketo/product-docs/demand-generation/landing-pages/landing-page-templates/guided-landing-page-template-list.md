@@ -16,9 +16,9 @@ feature_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: c5aeb2888adf964f59d61f21a7bb0abf68ff4ba8
+source-git-commit: 39f87db3b9437e82aeec1a860592654acaf8e0ca
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '394'
 ht-degree: 55%
 ---
 # 가이드 랜딩 페이지 템플릿 목록 {#guided-landing-page-template-list}
@@ -33,7 +33,7 @@ ht-degree: 55%
 
 1. 전용 페이지로 이동하려면 아래의 [템플릿](#all-templates)의 이름을 클릭하십시오.
 
-1. &quot;템플릿 다운로드&quot;를 마우스 오른쪽 단추로 클릭하고 **다른 이름으로 링크 저장**&#x200B;을 선택합니다. 파일을 컴퓨터에서 원하는 위치에 저장합니다.
+1. &quot;템플릿 다운로드&quot;를 마우스 오른쪽 단추로 클릭하고 **다른 이름으로 링크 저장..**&#x200B;을 선택합니다. 파일을 컴퓨터에서 원하는 위치에 저장합니다.
 
 1. Marketo Engage에서 **[!UICONTROL Design Studio]**(으)로 이동합니다.
 
@@ -49,7 +49,7 @@ ht-degree: 55%
 
    ![](assets/guided-landing-page-template-list-5.png)
 
-1. 다운로드한 파일을 선택하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다(**기존 템플릿을 이 이름으로 바꾸기**&#x200B;는 선택 사항입니다).
+1. 다운로드한 템플릿 파일을 선택하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다(**기존 템플릿을 이 이름으로 바꾸기**&#x200B;를 선택하는 것은 선택 사항입니다).
 
    ![](assets/guided-landing-page-template-list-6.png)
 
