@@ -7,18 +7,20 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Troubleshooting
+source-git-commit: 39f87db3b9437e82aeec1a860592654acaf8e0ca
 workflow-type: tm+mt
-source-wordcount: 348
-ht-degree: 62%
-
+source-wordcount: '394'
+ht-degree: 55%
 ---
-
 # 가이드 랜딩 페이지 템플릿 목록 {#guided-landing-page-template-list}
 
 [안내 랜딩 페이지 편집기](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)에서 사용할 예제 템플릿 컬렉션을 살펴보십시오. 각 템플릿은 완전히 응답하며 Bootstrap 프레임워크를 기반으로 합니다.
@@ -27,15 +29,35 @@ ht-degree: 62%
 >
 >Marketo 문제 해결을 지원하기 위해 HTML 지원이 설정되지 않았습니다. 이러한 템플릿을 수정하는 데 도움이 필요한 경우 웹 개발자에게 문의하십시오.
 
-템플릿을 Marketo으로 가져오려면 다음을 수행하십시오.
+## 템플릿을 Marketo Engage으로 가져오는 방법{#how-to-import}
 
-1. 더 큰 보기를 보려면 템플릿 이름을 클릭합니다.
-1. 선택한 템플릿을 다운로드합니다.
-1. Marketo에서 **[!UICONTROL Design Studio]**(으)로 이동합니다.
-1. 왼쪽 트리에서 **[!UICONTROL Landing Pages]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Templates]**&#x200B;을(를) 선택합니다.
+1. 전용 페이지로 이동하려면 아래의 [템플릿](#all-templates)의 이름을 클릭하십시오.
 
-1. 메뉴 모음에서 **[!UICONTROL Import Template]**&#x200B;을(를) 클릭합니다.
-1. 다운로드한 파일을 선택하고 템플릿 이름을 입력한 다음 **[!UICONTROL Import]**&#x200B;을(를) 클릭합니다(설명 이름을 선택하고 편집 모드가 **[!UICONTROL Guided]**&#x200B;임을 표시해야 함).
+1. &quot;템플릿 다운로드&quot;를 마우스 오른쪽 단추로 클릭하고 **다른 이름으로 링크 저장..**&#x200B;을 선택합니다. 파일을 컴퓨터에서 원하는 위치에 저장합니다.
+
+1. Marketo Engage에서 **[!UICONTROL Design Studio]**(으)로 이동합니다.
+
+1. **[!UICONTROL Landing Page Templates]**&#x200B;를 선택합니다.
+
+   ![](assets/guided-landing-page-template-list-3.png)
+
+1. **[!UICONTROL Landing page template actions]** 드롭다운에서 **[!UICONTROL New landing page template]**&#x200B;을(를) 선택합니다.
+
+   ![](assets/guided-landing-page-template-list-4.png)
+
+1. 템플릿에 이름을 지정합니다. 편집 모드 드롭다운에서 **[!UICONTROL Guided]**&#x200B;을(를) 선택합니다. **[!UICONTROL Import template]** 확인란을 선택합니다.
+
+   ![](assets/guided-landing-page-template-list-5.png)
+
+1. 다운로드한 템플릿 파일을 선택하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다(**기존 템플릿을 이 이름으로 바꾸기**&#x200B;를 선택하는 것은 선택 사항입니다).
+
+   ![](assets/guided-landing-page-template-list-6.png)
+
+1. 이제 템플릿을 가져와서 편집할 준비가 되었습니다.
+
+## 사용 가능한 모든 템플릿 {#all-templates}
+
+사용 가능한 템플릿 라이브러리를 찾아봅니다.
 
 <table>
 <tr>
