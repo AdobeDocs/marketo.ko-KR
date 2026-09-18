@@ -25,9 +25,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '552'
 ht-degree: 18%
 ---
 # 릴리스 노트: 2026년 9월 {#release-notes-sep-26}
@@ -80,6 +80,16 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>셀프 서비스 흐름 단계 - 콜백 시간 초과 증가</strong>: 셀프 서비스 흐름 단계에 대한 콜백 시간 초과 기간이 1시간에서 4시간으로 증가하고 있습니다. 별도의 작업이 필요하지 않습니다.</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>전자 메일 Designer - 테이블</strong>: 이제 열 및 행 수를 설정할 수 있는 기능을 사용하여 콘텐츠 형식 "테이블"을 전자 메일에 끌어다 놓을 수 있습니다.</td>
    <td><i>곧 출시 예정</i></td>
    <td><i>곧 출시 예정</i></td>
   </tr>
