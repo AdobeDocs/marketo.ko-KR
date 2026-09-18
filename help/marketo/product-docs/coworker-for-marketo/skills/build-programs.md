@@ -1,14 +1,16 @@
 ---
 description: Marketo Engage용 Coworker를 사용하여 기존 템플릿을 조정하여 Marketo 프로그램을 빌드할 수 있습니다. 스마트 캠페인, 예약 및 자산 자리 표시자를 검토 및 구체화할 준비가 되었습니다.
 title: 프로그램 빌드
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '804'
 ht-degree: 0%
 ---
 # 프로그램 빌드 {#build-programs}
 
 마케팅 캠페인을 일반 언어로 설명하십시오. Marketo Engage용 Coworker는 기존 프로그램 템플릿을 사용자의 요구 사항에 맞게 조정하여 이메일 콘텐츠를 자동으로 업데이트하고 템플릿 구조를 복제하여 추가 에셋을 만듭니다.
+
+조직의 [조직 규칙](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}은(는) Marketo Engage용 Coworker가 어떻게 구조를 만들고 만드는 동안 프로그램의 유효성을 검사하는 방법을 안내합니다. 이러한 규칙은 새 프로그램이 이름 지정 규칙, 필수 토큰, 폴더 구조 및 준수 표준에 맞게 조정되도록 합니다.
 
 >[!PREREQUISITES]
 >
