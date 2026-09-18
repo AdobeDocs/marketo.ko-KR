@@ -7,17 +7,18 @@ feature: Release Information
 TQID: https://experienceleague.adobe.com/qWeyxsBXYxKLSJvq6SfpXsBsocY3eLGROIO8EcZlkMw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+    internal-label: Personalization
+source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
 workflow-type: tm+mt
-source-wordcount: 166
-ht-degree: 75%
-
+source-wordcount: '180'
+ht-degree: 69%
 ---
-
 # 릴리스 일정 {#release-schedule}
 
 **릴리스**: 각 릴리스의 월/연도입니다. 출시 후 릴리스 정보는 아래 표에 링크로 제공됩니다.
@@ -60,19 +61,19 @@ _릴리스 일자/기능은 변경될 수 있습니다._
    <td>완료</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">26 년 7 월</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">26 년 7 월</a></td>
    <td>2026년 7월 10일</td>
    <td>완료</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">2026년 8월</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">2026년 8월</a></td>
    <td>2026년 8월 14일</td>
-   <td>진행 중</td>
+   <td>완료</td>
   </tr>
   <tr>
-  <td>2026년 9월</td>
+  <td><a href="/help/marketo/release-notes/current.md">2026년 9월</a></td>
    <td>2026년 9월 25일</td>
-   <td>일정대로 진행 중</td>
+   <td>진행 중</td>
   </tr>
   <tr>
   <td>26 년 10 월</td>
