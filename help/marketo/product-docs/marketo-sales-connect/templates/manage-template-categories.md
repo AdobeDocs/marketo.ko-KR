@@ -2,13 +2,12 @@
 description: Marketo Sales Connect 템플릿 범주를 만들고, 편집하고, 중복을 병합하고, 삭제하는 방법을 배워 이메일 템플릿을 체계적으로 정리하고 쉽게 찾을 수 있습니다.
 title: 템플릿 카테고리 관리
 feature: Marketo Sales Connect
-source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
+exl-id: 60836705-1e9a-422b-86c5-e8be1d58380a
+source-git-commit: 2b48226095a13f2e8323db4b13217f733cc7ea7f
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 11%
-
 ---
-
 # 템플릿 카테고리 관리 {#manage-template-categories}
 
 ## 새 카테고리 만들기 {#create-a-new-category}

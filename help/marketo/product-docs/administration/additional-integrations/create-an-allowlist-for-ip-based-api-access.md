@@ -7,18 +7,20 @@ feature: Administration
 TQID: https://experienceleague.adobe.com/MIuDfjHpqBC2Z-hMEgtk0BvK-W2DEL25M-j6GNQK9zI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: aa0494716e0deb2a2d04be5b2e6fdd1c13483f45
 workflow-type: tm+mt
-source-wordcount: 161
-ht-degree: 15%
-
+source-wordcount: '125'
+ht-degree: 20%
 ---
-
 # IP 기반 API 액세스에 대한 허용 목록 만들기 {#create-an-allowlist-for-ip-based-api-access}
 
 경우에 따라 특정 IP 주소 또는 주소 범위에만 API 액세스 권한을 제공하려고 합니다. 이렇게 하려면 먼저 제한을 활성화한 다음 API 사용이 허용되는 IP 주소를 지정합니다.
@@ -26,10 +28,6 @@ ht-degree: 15%
 >[!NOTE]
 >
 >**관리자 권한 필요**
-
->[!CAUTION]
->
->이 기능을 사용하면 현재 [Marketo MCP 서버](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mcp-server){target="_blank"}에 액세스할 수 없습니다. 이 문제는 향후 릴리스에서 해결될 것으로 예상됩니다.
 
 1. **[!UICONTROL Admin]** 영역으로 이동합니다.
 

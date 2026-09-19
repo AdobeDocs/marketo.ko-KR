@@ -1,9 +1,9 @@
 ---
 description: 프로그램 QA, 리드 가져오기, 데이터 표준화 등과 같은 마케팅 작업을 자동화하기 위해 설계된 Marketo Engage 에이전트 제품군의 Coworker를 살펴보십시오.
 title: Marketo Engage용 Coworker 개요
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '439'
 ht-degree: 1%
 ---
 # Marketo Engage용 Coworker 개요 {#overview}
@@ -34,13 +34,9 @@ Marketo Engage(이전 Marketo AI라고 함)용 동료는 시간이 많이 걸리
 
 센터 콘솔에는 다양한 작업에 도움이 되는 늘어나는 에이전트 기술이 포함되어 있습니다. 각 스킬은 특정 작업을 완료하기 위해 자연어를 통해 상호 작용하는 특수 목적의 AI 도우미입니다.
 
-<!--
+### 프로그램 빌드 {#build-programs}
 
-### Build programs {#build-programs}
-
-Describe a marketing campaign in plain language and Coworker for Marketo Engage builds the program structure, complete with asset placeholders and scheduling. Learn more about the [Build programs skill](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
-
--->
+마케팅 캠페인을 일반 언어로 설명하고 Marketo Engage용 동료는 자산 자리 표시자 및 일정으로 완성되는 프로그램 구조를 만듭니다. [프로그램 빌드 기술](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}에 대해 자세히 알아보세요.
 
 ### 리드 조사 {#investigate-leads}
 

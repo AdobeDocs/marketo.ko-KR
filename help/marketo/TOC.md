@@ -4,7 +4,7 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
 source-wordcount: '8932'
 ht-degree: 96%
@@ -487,12 +487,12 @@ ht-degree: 96%
   + Marketo Engage 동료 {#coworker-for-marketo}
     + [개요](product-docs/coworker-for-marketo/overview.md)
     + [설정 및 설정](product-docs/coworker-for-marketo/settings-setup.md)
-    + {hide-from-toc}[조직 규칙](product-docs/coworker-for-marketo/organizational-rules.md)
+    + [조직 규칙](product-docs/coworker-for-marketo/organizational-rules.md)
     + [Marketo Engage 데이터 정보 시트용 Coworker](product-docs/coworker-for-marketo/data-information.md)
     + 기술 {#skills}
       + [제품 지식](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[표면 인사이트](product-docs/coworker-for-marketo/skills/surface-insights.md)
-      + {hide-from-toc}[프로그램 빌드](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + [프로그램 빌드](product-docs/coworker-for-marketo/skills/build-programs.md)
       + {hide-from-toc}[프로그램 복제](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [리드 조사](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [리드 가져오기](product-docs/coworker-for-marketo/skills/import-leads.md)
