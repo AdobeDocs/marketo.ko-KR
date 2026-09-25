@@ -2,9 +2,9 @@
 description: 릴리스 노트 - 2026년 7월 - Marketo 설명서 - 제품 설명서
 title: 릴리스 노트 - 2026년 7월
 feature: Release Information
-source-git-commit: a1b00f94acf0fe9cd354a48bf40f17c3ad9b8ae6
+source-git-commit: 15308a78867253ae6c54faa8e77c2cf7eb68b9a5
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '577'
 ht-degree: 13%
 ---
 # 릴리스 노트: 2026년 8월 {#release-notes-aug-26}
@@ -37,7 +37,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>Marketo Engage MCP 서버</strong>: Marketo Engage MCP 서버는 AI 어시스턴트와 Marketo Engage 간의 가교 역할을 합니다. 양식, 프로그램, 스마트 캠페인, 사람/리드, 이메일, 코드 조각, 목록 및 폴더에 100개 이상의 작업을 노출합니다.</td>
-   <td>현재 일반적으로 사용 가능</td>
+   <td>일반적으로 사용 가능하</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ko" target="_blank">Marketo 서버</a></td>
   </tr>
   <tr>
