@@ -7,21 +7,26 @@ feature: Web Personalization
 TQID: https://experienceleague.adobe.com/ozCazXzX-TzsUx61u7c30v2p-Z4k1b-kQbEsw9HvgPo
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 414
+source-wordcount: '414'
 ht-degree: 4%
-
 ---
-
 # RTP와 [!DNL Google Universal Analytics] 통합 {#integrate-rtp-with-google-universal-analytics}
 
 ## 소개 {#intro}
@@ -32,7 +37,7 @@ ht-degree: 4%
 
 **[!DNL Google Universal Analytics]**
 
-RTP의 데이터가 있는 [!DNL Google Universal Analytics]을(를) 사용하면 B2B 사용자가 온라인 컨텐츠와 상호 작용하는 방법을 더 잘 이해하고 개인화 캠페인을 측정하여 더 나은 결과를 얻을 수 있습니다. [자세한 정보 [!DNL Google Universal Analytics]](https://support.google.com/analytics/answer/2790010/?hl=en&authuser=1).
+RTP의 데이터가 있는 [!DNL Google Universal Analytics]을(를) 사용하면 B2B 사용자가 온라인 콘텐츠와 상호 작용하는 방법을 더 잘 이해하고 개인화 캠페인을 측정하여 더 나은 결과를 얻을 수 있습니다. [자세한 정보 [!DNL Google Universal Analytics]](https://support.google.com/analytics/answer/2790010/?hl=en&authuser=1).
 
 >[!NOTE]
 >
@@ -53,7 +58,7 @@ RTP의 데이터가 있는 [!DNL Google Universal Analytics]을(를) 사용하�
    1. **[!UICONTROL Admin]**(으)로 이동
    1. **[!UICONTROL Account].** 선택
    1. **[!UICONTROL Property].** 선택
-   1. **[!UICONTROL Custom Definitions]** 및 **[!UICONTROL Custom Dimensions]**&#x200B;을(를) 선택합니다.
+   1. **[!UICONTROL Custom Definitions]** 및 **[!UICONTROL Custom Dimensions]**을(를) 선택합니다.
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. 새 사용자 지정 차원을 추가합니다. **[!UICONTROL +New Custom Dimension]**&#x200B;를 클릭합니다.

@@ -7,20 +7,23 @@ exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
 TQID: https://experienceleague.adobe.com/RkW-U6fZa-sLIdAWdbLET8S2f8yEFYaELRktRXCrCho
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 3b41a127ca8ff73849ccf27b1fe903169f464a02
 workflow-type: tm+mt
-source-wordcount: 1681
-ht-degree: 85%
-
+source-wordcount: '1679'
+ht-degree: 84%
 ---
-
 # 설정 단계 {#setup-steps}
 
 **Adobe Marketo Engage에 오신 것을 환영합니다!**
@@ -48,7 +51,7 @@ ht-degree: 85%
 
 이메일이 가능한 한 많은 사람에게 도달하도록 하기 위해 취할 수 있는 몇 가지 조치가 있습니다.
 
-* **추적 링크 브랜딩**. Marketo의 이메일에 포함되는 링크에서 자체 도메인(Marketo 대신)을 사용하도록 CNAME을 선택할 수 있습니다. 이렇게 하면 도메인 브랜딩이 강화되고 수신자와의 신뢰도와 전달성이 높아집니다.
+* **추적 링크 브랜딩**. Marketo에서 보내는 이메일에 포함되는 링크에서 자체 도메인(Marketo 대신)을 사용하도록 CNAME을 선택할 수 있습니다. 이렇게 하면 도메인 브랜딩이 강화되고 수신자와의 신뢰도와 전달성이 높아집니다.
 * **회사 이메일 허용 목록에 Marketo 추가** 실제 사용자에게 이메일을 보내기 전에 테스트 계정으로 테스트 이메일을 보내는 것이 일반적인 모범 사례입니다. Marketo를 허용 목록에 추가하면 그러한 테스트 이메일이 차단되거나 스팸으로 지정되는 것을 방지할 수 있습니다.
 * **SPF 및 DKIM 설정**. 이러한 기술은 수신자에게 Marketo 이메일이 스팸이 아님을 보장합니다. 수신자의 스팸 필터가 Marketo 이메일을 거부하지 않도록 하려면 다음 단계에 따라 [이메일 전달성을 위해 SPF 및 DKIM을 설정](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)하십시오.
 * **도메인의 MX 레코드를 설정합니다.** MX 레코드를 사용하면 회신 및 자동 응답자를 처리하기 위해 전자 메일을 보내는 도메인으로 메일을 받을 수 있습니다. 회사 도메인에서 을 보내는 경우 이미 이 구성이 되어 있을 수 있습니다. 그렇지 않은 경우 일반적으로 회사 도메인 MX 레코드에 매핑하도록 설정할 수 있습니다.
@@ -62,7 +65,7 @@ Google 앱을 사용하여 회사 전자 메일을 호스팅하는 경우 도메
 * em.[CompanyDomain].com
 * wow.[CompanyDomain].com
 
-첫 번째 부분은 이메일 추적 CNAME, `[EmailTrackingCNAME]`입니다. 이것을 IT에 제출해야 합니다.
+첫 번째 부분은 이메일 추적 CNAME, `[EmailTrackingCNAME]`입니다. 이것을 IT에 전달해야 합니다.
 
 >[!CAUTION]
 >
@@ -94,7 +97,7 @@ Marketo 추적 링크를 찾으려면 **[!UICONTROL Admin]** 영역으로 이동
 
 >[!NOTE]
 >
->Launch Pack 고객이십니까? 그렇다면 이 단계를 건너뛸 수 있습니다. 컨설턴트가 시작 통화 중 IT 설치 지침 문서를 제공할 것입니다.
+>Launch Pack 고객이십니까? 그렇다면 이 단계를 건너뛸 수 있습니다. 컨설턴트가 시작 통화 중 IT 설정 지침 문서를 제공할 것입니다.
 
 >[!NOTE]
 >
@@ -102,9 +105,9 @@ Marketo 추적 링크를 찾으려면 **[!UICONTROL Admin]** 영역으로 이동
 
 랜딩 페이지의 CNAME을 선택합니다. 몇 가지 예:
 
-    * **go**.[CompanyDomain].com
-    * **www2**.[CompanyDomain].com
-    * **lp**.[CompanyDomain].com
+* **이동**.[CompanyDomain].com
+* **www2**.[CompanyDomain].com
+* **lp**.[CompanyDomain].com
 
 >[!TIP]
 >
@@ -126,13 +129,13 @@ Marketo 추적 링크를 찾으려면 **[!UICONTROL Admin]** 영역으로 이동
 
 이것이 `[Munchkin ID]`입니다. 저장하십시오. 5단계에서 이것을 IT에 제공해야 합니다.
 
-랜딩 페이지에서 Marketo 도메인(호스팅된 위치) 대신 회사 도메인을 사용하도록 도메인 설정을 구성합니다.
+랜딩 페이지가 호스팅되는 Marketo 도메인 대신 회사 도메인을 사용하도록 도메인 설정을 구성합니다.
 
 ## IT에 프로토콜 구성 요청 {#ask-it-to-configure-protocols}
 
 >[!NOTE]
 >
->Launch Pack 고객이십니까? 그렇다면 이 단계를 건너뛸 수 있습니다. 컨설턴트가 시작 통화 중 IT 설치 지침 문서를 제공할 것입니다.
+>Launch Pack 고객이십니까? 그렇다면 이 단계를 건너뛸 수 있습니다. 컨설턴트가 킥오프 통화 중 IT 설치 지침 문서를 제공할 것입니다.
 
 필요한 모든 정보를 수집했으면 IT에 요청을 보낼 준비가 된 것입니다. 아래 텍스트를 템플릿으로 사용하여 굵은 텍스트를 자신의 정보로 바꿀 수 있습니다.
 
@@ -148,7 +151,7 @@ Marketo 추적 링크를 찾으려면 **[!UICONTROL Admin]** 영역으로 이동
 
 IT 관리자에게,
 
-이제 마케팅 팀은 Marketo 플랫폼을 사용하여 사용자와 소통합니다. 우수한 이메일 전달성을 보장하려면 다음과 같은 변경이 필요합니다.
+이제 마케팅 팀은 Marketo 플랫폼을 사용하여 회사 구성원과 소통합니다. 우수한 이메일 전달성을 보장하려면 다음과 같은 변경이 필요합니다.
 
 `1)` 랜딩 페이지의 경우 **[Munchkin ID]**.mktoweb.com을 가리키는 **[LandingPageCNAME]**.**[CompanyDomain]**.com에 CNAME(DNS Entry)을 추가하십시오.
 
@@ -156,26 +159,26 @@ IT 관리자에게,
 
 `3)` Marketo를 허용 목록에 추가합니다.
 
-    * 메일 허용 목록에 IP 주소를 사용하는 경우 아래 나열된 IP를 추가합니다.
-    199.15.212.0/22
-    
-    192.28.144.0/20
-    
-    192.28.160.0/19
-    
-    185.28.196.0/22
-    
-    130.248.172.0/24
-    
-    130.248.173.0/24
-    
-    94.236.119.0/26
+* IP 주소를 E-메일 허용 목록에 사용하는 경우 아래 나열된 IP를 추가하십시오.
+199.15.212.0/22
+
+192.28.144.0/20
+
+192.28.160.0/19
+
+185.28.196.0/22
+
+130.248.172.0/24
+
+130.248.173.0/24
+
+94.236.119.0/26
 
 >[!NOTE]
 >
 >사용자 환경에 맞는 Adobe IP의 축약된 목록을 원하는 경우 지원 팀에 문의하십시오.
 
-    * 스팸 방지 시스템에서 발신 도메인을 사용하는 경우 다음 항목을 추가합니다.
+* 스팸 방지 시스템에서 시작 도메인을 사용하는 경우 다음 항목을 추가합니다.
 
 **`[FromDomain1]`**
 **`[FromDomain2]`**
@@ -201,7 +204,7 @@ include:mktomail.com
 
 `[`[지침](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)에 따라 설정한 각 **DKIMDomain**&#x200B;에 해당하는 **HostRecord** 및 **TXTValue**&#x200B;를 복사합니다. IT 직원이 이 단계를 완료한 후에는 **관리 > 이메일 > DKIM**&#x200B;에서 각 도메인을 확인하는 것을 잊지 마십시오.`]`
 
-`5)` FROM 도메인 **`[FromDomain1]`**, **`[FromDomain2]`**&#x200B;에 대한 올바른 MX 레코드가 있는지 확인해야 합니다. 확인해줄 수 있나요? 확실하지 않다면 회사 도메인 MX 레코드에 매핑되도록 구성하십시오. 이렇게 하면 Marketo 메일링에 대한 회신/자동 응답자를 처리할 수 있습니다.
+`5)` FROM 도메인 **`[FromDomain1]`**, **`[FromDomain2]`**&#x200B;에 대한 올바른 MX 레코드가 있는지 확인해야 합니다. 확인해줄 수 있나요? 그렇지 않은 경우 회사 도메인 MX 레코드에 매핑되도록 구성하십시오. 이렇게 하면 Marketo 메일링에 대한 회신/자동 응답을 처리할 수 있습니다.
 
 Marketo로 설정 프로세스를 완료할 수 있도록 이 단계를 완료하면 알려주십시오.
 
@@ -278,7 +281,7 @@ Marketo Engage에는 웹 페이지에서 개인 활동을 추적하는 데 사�
 
 ## 성능 기대치 {#performance-expectations}
 
-Marketo의 성능 측면에서 무엇을 기대할 수 있습니까? 그것은 마케팅 캠페인의 규모와 복잡성에 따라 달라질 수 있습니다. 그러나 [Marketo Engage 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}에 나오는 여러 표의 &quot;표준&quot; 열에 요약된 내용과 동등한 성능 수준을 기대할 수 있습니다. &quot;Performance&quot; 및 &quot;Performance Plus&quot; 열은 [더 높은 성능 수준](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}을 제공하는 성능 계층 패키지를 나타냅니다.
+Marketo의 성능 측면에서 무엇을 기대할 수 있습니까? 마케팅 캠페인의 규모와 복잡성에 따라 달라질 수 있습니다. 그러나 [Marketo Engage 제품 설명](https://helpx.adobe.com/kr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}에 나오는 여러 표의 &quot;표준&quot; 열에 요약된 내용과 동등한 성능 수준을 기대할 수 있습니다. &quot;Performance&quot; 및 &quot;Performance Plus&quot; 열은 [더 높은 성능 수준](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}을 제공하는 성능 계층 패키지를 나타냅니다.
 
 >[!MORELIKETHIS]
 >

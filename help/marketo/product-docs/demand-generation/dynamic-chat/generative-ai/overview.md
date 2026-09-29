@@ -6,18 +6,20 @@ exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
 TQID: https://experienceleague.adobe.com/Q5f-5suH6XCiuGhqnyPEu1hjWbtIXBaLOoz5VX7gC6o
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 472
+source-wordcount: '472'
 ht-degree: 4%
-
 ---
-
 # Dynamic Chat의 생성 AI {#generative-ai-overview}
 
 Adobe Dynamic Chat의 생성 AI 기반 기능을 사용하면 판매 에이전트의 생산성을 최적화하고, 웹 사이트 방문자의 의도에 대한 통찰력을 얻고, 방문자 질문에 안전한 방식으로 응답할 수 있습니다.
@@ -78,7 +80,7 @@ Adobe Dynamic Chat의 생성 AI 기반 기능을 사용하면 판매 에이전�
 
 >[!IMPORTANT]
 >
->생성 AI를 사용할 때는 [Adobe Experience Cloud 생성 AI 사용 지침](https://www.adobe.com/kr/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)을 준수하여 생성 AI가 통합된 Adobe Experience Cloud 기능을 안전하고 책임감 있는 방식으로 사용할 수 있도록 해야 합니다.
+>생성 AI를 사용하는 경우 [Adobe Experience Cloud 생성 AI 사용자 지침](https://www.adobe.com/kr/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)을 준수하여 생성 AI가 통합된 Adobe Experience Cloud 기능을 안전하고 책임 있는 방식으로 사용할 수 있도록 해야 합니다.
 
 ## FAQ {#faq}
 

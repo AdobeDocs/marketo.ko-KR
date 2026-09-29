@@ -1,24 +1,26 @@
 ---
 unique-page-id: 15695874
-description: API 전용 사용자 자격 증명을 사용하여 LaunchPoint를 통해  [!DNL BrightTALK] 채널을 Marketo에 연결합니다.
-title: Marketo에  [!DNL BrightTALK] 연결
+description: API 전용 사용자 자격 증명을 사용하여 LaunchPoint를 통해 [!DNL BrightTALK] 채널을 Marketo에 연결합니다.
+title: Marketo에 [!DNL BrightTALK] 연결
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/aTG1YcMaRTQSijLFHYKAjEQGo6ZrQTQ9-QVe7-ZZy6w
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 285
+source-wordcount: '287'
 ht-degree: 3%
-
 ---
-
 # Marketo에 [!DNL BrightTALK] 연결 {#connect-brighttalk-to-marketo}
 
 [!DNL BrightTALK] 채널을 Marketo 인스턴스에 연결하는 방법을 알아봅니다. 이렇게 하려면 두 그룹의 관리자여야 합니다.

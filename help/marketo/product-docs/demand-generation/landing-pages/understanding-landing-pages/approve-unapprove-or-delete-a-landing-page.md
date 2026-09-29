@@ -7,18 +7,20 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/ZkdN49ElH-F1AGiGJGkevgGzzGKVvA-MSR5Ma0S9AZo
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Administration
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 250
+source-wordcount: '250'
 ht-degree: 11%
-
 ---
-
 # 랜딩 페이지 승인, 승인 취소 또는 삭제 {#approve-unapprove-or-delete-a-landing-page}
 
 승인할 때까지 랜딩 페이지는 초안 모드에 있습니다. 승인을 하면 나머지 시스템에서 페이지를 사용할 수 있습니다. 승인된 랜딩 페이지를 편집하면 Marketo Engage이 초안을 저장하지만 초안을 승인할 때까지 승인된 버전을 계속 사용합니다.

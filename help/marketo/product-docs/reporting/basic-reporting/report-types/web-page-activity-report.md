@@ -7,21 +7,26 @@ feature: Reporting
 TQID: https://experienceleague.adobe.com/TngySjSTBS50-VX8umv17cGE-3kuH3NFv9-JfcQbciU
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 341
+source-wordcount: '341'
 ht-degree: 3%
-
 ---
-
 # 웹 페이지 활동 보고서 {#web-page-activity-report}
 
 이 보고서에서는 웹 사이트를 방문하는 사용자를 확인하고 보고서의 이메일 버전을 구독할 수도 있습니다.
@@ -49,7 +54,7 @@ ht-degree: 3%
    >
    >사이트를 가장 많이 방문하는 사용자를 확인하려면 _페이지 보기 수_ 열에서 [보고서를 정렬](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}하고 내림차순 정렬을 선택하십시오.
 
-   [Marketo은 익명의 &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} 웹 사이트 방문자를 데이터베이스에 추가하므로 이 보고서에 표시하도록 선택할 수 있습니다. 익명임에도 불구하고 풍부한 정보를 제공합니다.
+   [Marketo은 익명의 ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} 웹 사이트 방문자를 데이터베이스에 추가하므로 이 보고서에 표시하도록 선택할 수 있습니다. 익명임에도 불구하고 풍부한 정보를 제공합니다.
    웹 페이지 활동 보고서에 대해 선택할 수 있는 [열](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}에는 다음이 포함됩니다.
 
 <table>
