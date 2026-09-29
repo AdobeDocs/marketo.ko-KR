@@ -4,7 +4,7 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 15308a78867253ae6c54faa8e77c2cf7eb68b9a5
+source-git-commit: b6799a351d9256e96a6db644c840f061a88198b4
 workflow-type: tm+mt
 source-wordcount: '8936'
 ht-degree: 96%
@@ -30,7 +30,7 @@ ht-degree: 96%
   + 알아 두어야 할 항목 {#things-to-know}
     + [Marketo Engage 용어](getting-started/things-to-know/marketo-engage-glossary.md)
     + [아이콘 용어집](getting-started/things-to-know/icon-glossary.md)
-    + [클래식 아이콘 용어집](getting-started/things-to-know/classic-icon-glossary.md)
+    + {hide-from-toc}[클래식 아이콘 용어집](getting-started/things-to-know/classic-icon-glossary.md)
     + [도움말 센터](getting-started/things-to-know/help-center.md)
     + [시스템 상태 알림 구독](getting-started/things-to-know/system-status-notifications.md)
     + [AWS 마이그레이션](getting-started/things-to-know/aws-migration.md)

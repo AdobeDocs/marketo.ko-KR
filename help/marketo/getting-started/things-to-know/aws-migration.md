@@ -3,9 +3,9 @@ description: AWS 마이그레이션 - Marketo Engage 문서 - 제품 설명서
 title: AWS 마이그레이션
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 78109173b7dc6ea6793961ee84ec6878c3f6011a
+source-git-commit: e7e20eee0f0ef9cf55f5b3a195a58df180d1eb5c
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1017'
 ht-degree: 5%
 ---
 # AWS 마이그레이션 {#aws-migration}
@@ -235,7 +235,7 @@ ht-degree: 5%
    <td><i>오후 4시(태평양 표준시)</i><br>
    오후 5시(태평양 표준시)</td>
    <td><i>연기됨(날짜 TBD)</i><br>
-   일정대로 진행 중</td>
+   완료</td>
   </tr>
   <tr>
    <td>2026년 9월 29일</td>

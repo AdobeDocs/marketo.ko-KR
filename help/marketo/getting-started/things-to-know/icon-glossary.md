@@ -6,18 +6,18 @@ exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 TQID: https://experienceleague.adobe.com/JzvT5UwsTTmvs-QCBwiDr-C9hipDM-VMLGioDLQhJb0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+source-git-commit: dc8457cac3da6d128b39590ff6d54958f1622ee8
 workflow-type: tm+mt
-source-wordcount: 245
+source-wordcount: '231'
 ht-degree: 100%
-
 ---
-
 # Marketo Engage 아이콘 용어집 {#icon-glossary}
 
-다음은 현재 Adobe Marketo Engage 인터페이스의 아이콘입니다. Marketo Classic 아이콘이 필요한 경우 [여기](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)에서 찾을 수 있습니다.
+다음은 현재 Adobe Marketo Engage 인터페이스의 아이콘입니다.
 
 ## 일반 아이콘 {#general-icons}
 
