@@ -7,15 +7,15 @@ feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/nNhVJUelrVSsKcH2oxw2lzWTJINM5JBj1X36KxAoyWI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 109
+source-wordcount: '109'
 ht-degree: 7%
-
 ---
-
 # 참여 프로그램 케이던스 변경 {#change-engagement-program-cadence}
 
 일단 사람이 참여 프로그램에 의해 양육되고 있다면, 이 흐름 단계를 사용하여 이들에 대한 양육을 일시적으로 일시 중지할 수 있습니다.
@@ -34,4 +34,4 @@ ht-degree: 7%
 
    ![](assets/change-engagement-program-cadence-3.png)
 
-콘텐츠를 다시 받으려면 해당 사용자를 **[!UICONTROL Normal]**(으)로 다시 설정할 수 있습니다.
+   콘텐츠를 다시 받으려면 해당 사용자를 **[!UICONTROL Normal]**(으)로 다시 설정할 수 있습니다.

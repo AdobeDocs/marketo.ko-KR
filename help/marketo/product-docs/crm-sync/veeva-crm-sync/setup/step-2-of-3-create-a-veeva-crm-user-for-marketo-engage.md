@@ -6,16 +6,17 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
-source-wordcount: 546
+source-wordcount: '546'
 ht-degree: 7%
-
 ---
-
 # 2단계/3단계: Marketo Engage용 [!DNL Veeva] CRM 사용자 만들기 {#step-2-of-3-create-a-veeva-crm-user-for-marketo-engage}
 
 >[!NOTE]
@@ -148,13 +149,13 @@ ht-degree: 7%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-불필요한 필드를 찾아 [!UICONTROL Read Access] 및 [!UICONTROL Edit Access]이(가) **실행 취소**&#x200B;되어 있는지 확인하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
+1. 불필요한 필드를 찾아 [!UICONTROL Read Access] 및 [!UICONTROL Edit Access]이(가) **실행 취소**&#x200B;되어 있는지 확인하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
-![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
+   ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
->[!NOTE]
->
->사용자 정의 필드에 대한 액세스 가능성만 편집하십시오.
+   >[!NOTE]
+   >
+   >사용자 정의 필드에 대한 액세스 가능성만 편집하십시오.
 
 1. 모든 불필요한 필드를 비활성화한 후 다음 개체 필드에 대해 [!UICONTROL Read Access] 및 [!UICONTROL Edit Access]을(를) 확인하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 

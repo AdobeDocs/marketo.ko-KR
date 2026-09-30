@@ -3,14 +3,12 @@ description: 도움말 센터 - Marketo Engage 설명서 - 제품 설명서
 title: 도움말 센터
 feature: Getting Started
 hide: true
-hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+hidefromtoc: yes
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 85%
-
 ---
-
 # 도움말 센터 {#help-center}
 
 Adobe Marketo Engage의 도움말 센터는 지원을 받기 위한 중앙 집중식 위치 역할을 합니다. 다양한 리소스(예: [제품 설명서](/help/marketo/home.md){target="_blank"}, [릴리스 정보](/help/marketo/release-notes/current.md){target="_blank"}, [Marketing Nation 커뮤니티](https://nation.marketo.com/){target="_blank"})로 연결되는 것 외에도 경험 수준별로 구성된 유용한 인앱 둘러보기에 액세스할 수 있습니다.

@@ -6,15 +6,15 @@ feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/SqRcW7-vBInte7Qbxdt-C6acYyqyA0KrBLY4TidCabQ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 157
+source-wordcount: '157'
 ht-degree: 8%
-
 ---
-
 # 테스트 이메일 보내기 {#send-a-test-email}
 
 이메일을 보내기 전에 모든 이메일 주소에서 자신에게 테스트 이메일을 보내어 이메일 형식 및 토큰을 테스트할 수 있습니다.
@@ -39,4 +39,4 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->걱정하지 마십시오. 테스트 이메일을 보내도 &quot;[!UICONTROL Send Marketo Email]&quot; 페이지에 남게 되므로 작성한 이메일이 손실되지 않습니다.
+>걱정하지 마세요. 테스트 전자 메일을 보낸 후에도 &quot;[!UICONTROL Send Marketo Email]&quot; 페이지에 남아 있으므로 만든 전자 메일이 손실되지 않습니다.

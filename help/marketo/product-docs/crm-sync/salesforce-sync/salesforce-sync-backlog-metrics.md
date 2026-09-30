@@ -6,19 +6,22 @@ exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
 TQID: https://experienceleague.adobe.com/RSYhWjNNh7gQiyEw1ImnHr6q23UpaVWhBll6aziHkJk
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
-source-wordcount: 1155
+source-wordcount: '1153'
 ht-degree: 1%
-
 ---
-
 # Salesforce 동기화 백로그 지표  {#salesforce-sync-backlog-metrics}
 
 동기화 백로그는 동기화 보류 중인 레코드에 사용되는 이름입니다. Salesforce에서 Marketo Engage으로 동기화 보류 중인 레코드를 처리하며, 그 반대의 경우도 마찬가지입니다. 백로그가 계속 제어되는지 확인하면 원활하고 시간이 동기화됩니다. 백로그에는 양쪽 동기화 게시물 업데이트 보류 중인 숫자가 포함되며 SFDC에 대한 동기화 리드 흐름 단계와 같은 동기화 흐름 단계에서 수행되는 작업이 아닙니다.
@@ -89,7 +92,8 @@ ht-degree: 1%
     <td>백로그 상태</td>
     <td>지난 6시간 동안 백로그가 증가했는지 여부를 보여 줍니다. 현재 백로그가 6시간 전에 기록된 백로그보다 큰 경우 '증가'로 유추됩니다. 그렇지 않으면 '보통'으로 표시됩니다. 이는 동기화 처리량이 백로그를 따라잡고 있는지 보여 주기 위한 것입니다.</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## 동기화 백로그의 원인 {#what-causes-sync-backlogs}
 
@@ -99,7 +103,7 @@ ht-degree: 1%
 
 ## 동기화 백로그 관리 우수 사례 {#best-practices}
 
-**동기화 사용자에게 표시되는 필드**: 동기화에 표시되는 필드가 동기화되어야 하고 마케팅 노력에 가치가 있는지 확인하십시오. 마지막으로 수정된 타임스탬프를 업데이트하는 Salesforce의 레코드를 업데이트하면 동기화 백로그에 레코드가 대기열에 추가되며, 동기화하지 않는 필드의 경우 동기화 중인 더 중요한 필드가 느려질 수 있습니다. 불필요한 필드가 동기화 사용자에게 표시되지 않는 경우 해당 필드를 업데이트하면 업데이트보다 훨씬 빠른 건너뛰기가 발생합니다. Salesforce 관리자와 협력하여 모범 사례 [여기](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"}를 검토하고 Marketo 동기화 사용자에게 표시되는 필드를 업데이트합니다.
+**동기화 사용자에게 표시되는 필드**: 동기화에 표시되는 필드가 동기화되어야 하고 마케팅 노력에 가치가 있는지 확인하십시오. 마지막으로 수정된 타임스탬프를 업데이트하는 Salesforce의 레코드를 업데이트하면 동기화 백로그에 레코드가 대기열에 추가되며, 동기화하지 않는 필드의 경우 동기화 중인 더 중요한 필드가 느려질 수 있습니다. 불필요한 필드가 동기화 사용자에게 표시되지 않는 경우 해당 필드를 업데이트하면 업데이트보다 훨씬 빠른 건너뛰기가 발생합니다. Salesforce 관리자와 함께 [모범 사례를 검토](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/best-practices-for-determining-which-fields-to-sync-with-marketo-161224?profile.language=ko){target="_blank"}하고 Marketo 동기화 사용자에게 표시되는 필드를 업데이트합니다.
 
 **불필요한 레코드를 숨기거나 필터링합니다**: 레코드를 마케팅 가능하지 않은 경우 동기화 리소스를 낭비할 수 있습니다. 동기화 사용자가 이를 볼 수 없다면 동기화하려는 리소스를 낭비하지 않습니다. [Marketo Engage 지원](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}에서는 추가 조건에 따라 레코드가 동기화되지 않도록 동기화 필터를 설정할 수 있습니다. 사용자 지정 동기화 필터 [을(를) 설정하는 방법에 대한 자세한 내용은 여기에서 &#x200B;](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}을(를) 참조하십시오. Salesforce 내의 인덱스 필드를 사용하는 것이 좋습니다(자세한 내용은 Salesforce에 문의).
 

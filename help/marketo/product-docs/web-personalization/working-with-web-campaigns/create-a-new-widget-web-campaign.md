@@ -7,18 +7,20 @@ feature: Web Personalization
 TQID: https://experienceleague.adobe.com/N5fOUcDPWM9bxW225YElTMZi6qkoqNEoGHHW3QXj8dw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 636
+source-wordcount: '636'
 ht-degree: 4%
-
 ---
-
 # 새 위젯 웹 캠페인 만들기 {#create-a-new-widget-web-campaign}
 
 웹 캠페인은 특정 세그먼트와 연계된 사용자 지정 반응이며 웹 사이트의 [대화 상자](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md), [영역 교체](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), 위젯 기능 또는 이메일 알림일 수 있습니다. 위젯 웹 캠페인은 웹 페이지의 세로 측면에 나타나며, 확장 및 축소하는 기능과 함께, 방문 내내 웹 사이트 페이지에서 고정된 상태를 유지하는 텍스트 또는 배너입니다.
@@ -79,7 +81,7 @@ ht-degree: 4%
   </tr>
   <tr>
    <td colspan="1"><strong>고정</strong></td>
-   <td colspan="1">이 옵션을 선택하면 방문자 세션 전체에서 모든 웹 페이지에 위젯이 표시됩니다.</td>
+   <td colspan="1">이 옵션을 선택하면 방문자의 세션 전체에서 모든 웹 페이지에 위젯이 표시됩니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Campaign 표시에서 위젯 최소화</strong></td>

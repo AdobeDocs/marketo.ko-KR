@@ -6,20 +6,21 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/nsmRk-zf-I5r0hfLxsOnGsTf66X-bYZ7OAUXHrPc-t0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Lists
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
-source-wordcount: 201
+source-wordcount: '201'
 ht-degree: 5%
-
 ---
-
 # 사용자 정의 오브젝트 동기화 활성화/비활성화 {#enable-disable-custom-object-sync}
 
-[!DNL Veeva] CRM 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의 일부일 수 있습니다. 다음은 설정하는 방법입니다.
+[!DNL Veeva] CRM 인스턴스에서 만든 사용자 지정 개체도 Marketo Engage의 일부일 수 있습니다. 설정 방법은 다음과 같습니다.
 
 ## 사용자 지정 개체 동기화 활성화 또는 비활성화 {#enable-or-disable-the-custom-object-sync}
 
@@ -47,13 +48,13 @@ ht-degree: 5%
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-동기화할 개체를 선택하고 **[!UICONTROL Enable Sync]**&#x200B;을(를) 클릭합니다.
+1. 동기화할 개체를 선택하고 **[!UICONTROL Enable Sync]**&#x200B;을(를) 클릭합니다.
 
-![](assets/enable-disable-custom-object-sync-5.png)
+   ![](assets/enable-disable-custom-object-sync-5.png)
 
->[!TIP]
->
->Marketo은 사용자 지정 개체가 [!DNL Veeva] CRM의 연락처 또는 계정 개체와 직접 관련이 있는 경우에만 동기화할 수 있습니다.
+   >[!TIP]
+   >
+   >Marketo은 사용자 지정 개체가 [!DNL Veeva] CRM의 연락처 또는 계정 개체와 직접 관련이 있는 경우에만 동기화할 수 있습니다.
 
 1. **[!UICONTROL Enable Sync]**&#x200B;을(를) 다시 클릭합니다.
 

@@ -7,13 +7,12 @@ feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/wL4DvH6WwopQbqXlYcvSQJLPYyJbnmDENqvb7qCJo8w
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 314
+source-wordcount: '314'
 ht-degree: 5%
-
 ---
-
 # 마케팅 캠페인에 추가 {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
@@ -52,11 +51,11 @@ PICC
 
 1. 작업 영역 드롭다운을 클릭하고 그룹을 추가하려는 캠페인이 포함된 작업 영역을 선택합니다.
 
-PICC
+   PICC
 
->[!NOTE]
->
->원하는 작업 영역이 표시되지 않으면 관리자가 Marketo [!UICONTROL Team Access] 페이지를 통해 프로비전하도록 하십시오.
+   >[!NOTE]
+   >
+   >원하는 작업 영역이 표시되지 않으면 관리자가 Marketo [!UICONTROL Team Access] 페이지를 통해 프로비전하도록 하십시오.
 
 1. 원하는 캠페인을 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
@@ -86,19 +85,19 @@ PICC
 
 1. **[!UICONTROL Marketing Campaign]**&#x200B;를 선택합니다.
 
-PICC
+   PICC
 
->[!NOTE]
->
->[!DNL Sales Connect]에서 Marketo 캠페인에 사용자를 추가하려면 [!DNL Sales Connect]에 해당 사용자의 Marketo 잠재 고객 ID가 있어야 합니다.
+   >[!NOTE]
+   >
+   >[!DNL Sales Connect]에서 Marketo 캠페인에 사용자를 추가하려면 [!DNL Sales Connect]에 해당 사용자의 Marketo 잠재 고객 ID가 있어야 합니다.
 
 1. 작업 영역 드롭다운을 클릭하고 그룹을 추가하려는 캠페인이 포함된 작업 영역을 선택합니다.
 
-PICC
+   PICC
 
->[!NOTE]
->
->원하는 작업 영역이 표시되지 않으면 관리자가 Marketo 팀 액세스 페이지를 통해 프로비저닝해야 합니다.
+   >[!NOTE]
+   >
+   >원하는 작업 영역이 표시되지 않으면 관리자가 Marketo 팀 액세스 페이지를 통해 프로비저닝해야 합니다.
 
 1. 원하는 캠페인을 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 

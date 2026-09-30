@@ -7,13 +7,12 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJfI70
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
-source-wordcount: 729
+source-wordcount: '729'
 ht-degree: 8%
-
 ---
-
 # 1단계/3단계: [!DNL Salesforce]에 Marketo 필드 추가(전문가) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
@@ -56,48 +55,48 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
 1. 아래 표에 표시된 대로 필드에 대한 [!UICONTROL Field Label], [!UICONTROL Length] 및 [!UICONTROL Field Name]을(를) 입력합니다.
 
-<table>
- <thead>
-  <tr>
-   <th>
-    <div>
-      필드 레이블
-    </div></th>
-   <th>
-    <div>
-      필드 이름
-    </div></th>
-   <th>
-    <div>
-      데이터 유형
-    </div></th>
-   <th>
-    <div>
-      필드 속성
-    </div></th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>점수</td>
-   <td>mkto71_Lead_Score</td>
-   <td>숫자</td>
-   <td>길이 10<br>소수점 이하 자리 수 0 </td>
-  </tr>
-  <tr>
-   <td>획득 날짜</td>
-   <td>mkto71_Acquisition_Date</td>
-   <td>날짜/시간</td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td>확보 프로그램</td>
-   <td>mkto71_Acquisition_Program</td>
-   <td>텍스트</td>
-   <td>길이 255</td>
-  </tr>
- </tbody>
-</table>
+   <table>
+   <thead>
+   <tr>
+      <th>
+      <div>
+         필드 레이블
+      </div></th>
+      <th>
+      <div>
+         필드 이름
+      </div></th>
+      <th>
+      <div>
+         데이터 유형
+      </div></th>
+      <th>
+      <div>
+         필드 속성
+      </div></th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+      <td>점수</td>
+      <td>mkto71_Lead_Score</td>
+      <td>숫자</td>
+      <td>길이 10<br>소수점 이하 자리 수 0 </td>
+   </tr>
+   <tr>
+      <td>획득 날짜</td>
+      <td>mkto71_Acquisition_Date</td>
+      <td>날짜/시간</td>
+      <td> </td>
+   </tr>
+   <tr>
+      <td>확보 프로그램</td>
+      <td>mkto71_Acquisition_Program</td>
+      <td>텍스트</td>
+      <td>길이 255</td>
+   </tr>
+   </tbody>
+   </table>
 
 >[!NOTE]
 >
@@ -119,9 +118,9 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
    * 동기화 사용자의 프로필에 대한 **[!UICONTROL Read-Only]** 확인란의 선택을 취소합니다.
 
-      * 동기화 사용자로 _시스템 관리자_&#x200B;의 프로필을 가진 사용자가 있는 경우 시스템 관리자 프로필에 대한 **[!UICONTROL Read-Only]** 확인란의 선택을 취소하십시오(아래 참조)
+     * 동기화 사용자로 _시스템 관리자_&#x200B;의 프로필을 가진 사용자가 있는 경우 시스템 관리자 프로필에 대한 **[!UICONTROL Read-Only]** 확인란의 선택을 취소하십시오(아래 참조)
 
-      * 동기화 사용자에 대해 _사용자 지정 프로필_&#x200B;을 만든 경우 해당 사용자 지정 프로필에 대한 **[!UICONTROL Read-Only]** 확인란의 선택을 취소하십시오
+     * 동기화 사용자에 대해 _사용자 지정 프로필_&#x200B;을 만든 경우 해당 사용자 지정 프로필에 대한 **[!UICONTROL Read-Only]** 확인란의 선택을 취소하십시오
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 

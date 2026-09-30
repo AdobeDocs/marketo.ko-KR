@@ -7,43 +7,45 @@ feature: Email Programs
 TQID: https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 501
+source-wordcount: '501'
 ht-degree: 95%
-
 ---
-
 # 이메일 성과 보고서 {#email-performance-report}
 
 이메일이 얼마나 제 역할을 잘 수행하고 있는지를 전달됨, 열림, 클릭됨 등과 같은 통계로 확인하려면 이메일 성과 보고서를 만드십시오.
 
 1. [프로그램에서 보고서를 만들고](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) **[!UICONTROL Email Performance]** [보고서 유형](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)을 선택합니다.
 1. [보고서 시간대를 변경](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)하고 **[!UICONTROL Report]** 탭을 클릭합니다.
-1. 거기 있었구나! 이제 보고서를 탐색하여 이메일이 어떻게 제 역할을 수행했는지 확인하십시오.
+1. 거기 있었구나! 이제 보고서를 탐색하여 이메일 성과를 확인하십시오.
 
-   >[!NOTE]
-   >
-   >전송 일자 필터는 이메일을 처음 보낸 날짜를 기준으로 합니다.
+>[!NOTE]
+>
+>전송 일자 필터는 이메일을 처음 보낸 날짜를 기준으로 합니다.
 
-   ![](assets/email-performance-report.png)
+![](assets/email-performance-report.png)
 
-   >[!TIP]
-   >
-   >이메일 이름을 클릭하여 이메일 미리 보기에서 엽니다.
+>[!TIP]
+>
+>이메일 이름을 클릭하여 이메일 미리 보기에서 엽니다.
 
-   >[!NOTE]
-   >
-   >이메일 성과 보고서에는 이메일이 전송된 후 삭제된 활동을 포함하여 모든 사용자에 대한 활동이 포함됩니다. 적극적인 사람에 대한 활동만 보고 싶을 때가 있을 것입니다. 그런 경우 보고서에서 삭제된 사람을 필터링해야 합니다. **[!UICONTROL Smart List]** 탭을 사용하여 보고서에 대한 [스마트 목록을 만듭니다](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md). 특정 필드를 필터링하지 않는 경우에는 이메일 주소 필터를 **[!UICONTROL is not empty]**&#x200B;로 설정하십시오.
+>[!NOTE]
+>
+>이메일 성과 보고서에는 이메일이 전송된 후 삭제된 사람을 포함하여 모든 사람의 활동이 포함됩니다. 적극적인 사람에 대한 활동만 보고 싶을 때가 있을 것입니다. 그런 경우 보고서에서 삭제된 사람을 제외하도록 필터링해야 합니다. **[!UICONTROL Smart List]** 탭을 사용하여 보고서에 대한 [스마트 목록을 만듭니다](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md). 특정 필드를 필터링하지 않는 경우에는 이메일 주소 필터를 **[!UICONTROL is not empty]**&#x200B;로 설정하십시오.
 
-   이메일 성과 보고서에 대한 [보고서 열 선택](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)에는 다음이 포함됩니다.
+이메일 성과 보고서에 대한 [보고서 열 선택](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)에는 다음이 포함됩니다.
 
-   <table><thead>
+<table><thead>
 
 <tr>
     <th>열</th>
@@ -52,7 +54,7 @@ ht-degree: 95%
 <tbody>
   <tr>
     <td>하드 바운스</td>
-    <td>존재하지 않는 이메일 주소와 같은 영구 조건으로 인해 이메일이 거부되었습니다.</td>
+    <td>존재하지 않는 이메일 주소와 같은 영구적인 문제로 인해 이메일이 거부되었습니다.</td>
   </tr>
   <tr>
     <td>소프트 바운스</td>
@@ -96,7 +98,7 @@ ht-degree: 95%
 >
 >* 동일한 캠페인에서 동일한 사용자로의 여러 번에 걸친 전송은 한 번만 카운트됩니다.
 >
->* 서로 다른 캠페인에서 동일한 사용자로의 여러 번에 걸친 개별적으로 계산됩니다.
+>* 서로 다른 캠페인에서 동일한 사용자에게 여러 번 전송한 경우에는 각각 별도로 계산됩니다.
 
 >[!MORELIKETHIS]
 >
