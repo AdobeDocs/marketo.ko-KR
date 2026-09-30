@@ -12,7 +12,7 @@ topic_v2:
     internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 7%
@@ -149,7 +149,7 @@ ht-degree: 7%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-   불필요한 필드를 찾아 [!UICONTROL Read Access] 및 [!UICONTROL Edit Access]이(가) **실행 취소**&#x200B;되어 있는지 확인하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
+1. 불필요한 필드를 찾아 [!UICONTROL Read Access] 및 [!UICONTROL Edit Access]이(가) **실행 취소**&#x200B;되어 있는지 확인하십시오. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 

@@ -19,7 +19,7 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 3b41a127ca8ff73849ccf27b1fe903169f464a02
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '1679'
 ht-degree: 84%
@@ -69,7 +69,7 @@ Google 앱을 사용하여 회사 전자 메일을 호스팅하는 경우 도메
 
 >[!CAUTION]
 >
->이메일 CNAME과 랜딩 페이지 CNAME은 달라야 합니다. 또한 &#39;track&#39; 또는 &#39;link&#39;와 같은 CNAME은 사용하지 마십시오. 종종 스팸으로 플래그가 지정됩니다
+>이메일 CNAME과 랜딩 페이지 CNAME은 달라야 합니다. 또한 &#39;track&#39; 또는 &#39;link&#39;와 같은 CNAME은 사용하지 마십시오. 종종 스팸으로 플래그가 지정됩니다.
 
 Marketo 추적 링크를 찾으려면 **[!UICONTROL Admin]** 영역으로 이동하십시오.
 
