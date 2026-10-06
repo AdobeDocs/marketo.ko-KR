@@ -24,9 +24,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
+source-git-commit: 69974d549dd4d82628ae5481f942e42394967728
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '550'
 ht-degree: 18%
 ---
 # 릴리스 노트: 2026년 9월 {#release-notes-sep-26}
@@ -49,7 +49,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <td><strong>Marketo Engage의 새로운 UI</strong>: Marketo Engage 인터페이스에서 보다 깔끔하고 현대적인 환경을 위해 업데이트된 메뉴, 아이콘 및 레이아웃을 포함하여 새로운 디자인을 구현했습니다. 이는 시각적 업데이트일 뿐이며 기존 기능이나 워크플로는 영향을 받지 않습니다. <i>클래식 UI를 선택하는 기능은 2027년 1월 릴리스</i>를 통해 사용할 수 있습니다.
 </td>
-   <td>9월 말까지 일반 공급</td>
+   <td>10월 중순까지 일반 공급</td>
    <td><i>해당 사항 없음</i></td>
   </tr>
   <tr>
