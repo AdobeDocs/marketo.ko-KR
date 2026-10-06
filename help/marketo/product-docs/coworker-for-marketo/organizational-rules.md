@@ -1,14 +1,14 @@
 ---
-description: 조직 규칙 이 어떻게 거버넌스 표준을 정의하는지 알아보고 프로그램 생성, 캠페인 계획 및 유효성 검사에 걸쳐 Marketo Engage 동료에게 안내합니다.
+description: 조직 규칙 이 어떻게 거버넌스 표준을 정의하며 프로그램 생성, 캠페인 계획 및 유효성 검사에 걸쳐 Marketo Engage용 CX Enterprise Coworker을 안내하는지 알아봅니다.
 title: 조직 규칙
-source-git-commit: c1581e2b692dd50bf472756e4e6222ff75ae091c
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '867'
 ht-degree: 0%
 ---
 # 조직 규칙 {#organizational-rules}
 
-조직 규칙은 프로그램 생성, 캠페인 계획 및 유효성 검사 워크플로 전반에서 Marketo Engage용 Coworker를 안내하는 단일 문서로 마케팅 운영 표준 및 거버넌스 요구 사항을 정의합니다.
+조직 규칙은 프로그램 생성, 캠페인 계획 및 유효성 검사 워크플로 전반에서 CX Enterprise Coworker for Marketo Engage을 안내하는 단일 문서로 마케팅 운영 표준 및 거버넌스 요구 사항을 정의합니다.
 
 ## 조직 규칙이란 무엇입니까? {#what-are-organizational-rules}
 
@@ -23,17 +23,17 @@ ht-degree: 0%
 
 ## 조직 규칙 사용 위치 {#where-organizational-rules-are-used}
 
-조직 규칙은 다음 세 가지 기술에 대해 Marketo Engage용 동료에게 안내합니다.
+조직 규칙은 다음 세 가지 기술에 걸쳐 Marketo Engage용 CX Enterprise Coworker을 안내합니다.
 
 | 스킬 | 규칙 적용 방법 |
 | --- | --- |
-| 프로그램 빌드 | 규칙은 프로그램 구조, 이름 지정 및 초기 설정을 작성하는 데 도움이 됩니다. Marketo Engage용 동료는 프로그램을 만들기 전에 개요 의 모든 준수 문제에 플래그를 지정합니다. |
-| 플랜 캠페인 | 규칙은 Marketo Engage용 Coworker가 사용자 표준에 따라 스마트 캠페인, 필터 및 흐름 단계를 구성하는 방법을 알려줍니다. |
-| 프로그램 유효성 검사 | 규칙은 활성화 전에 프로그램의 유효성을 검사할 때 Marketo Engage용 동료가 확인하는 내용을 정의합니다. |
+| 프로그램 빌드 | 규칙은 프로그램 구조, 이름 지정 및 초기 설정을 작성하는 데 도움이 됩니다. CX Enterprise Coworker for Marketo Engage은 프로그램을 만들기 전에 개요 의 모든 규정 준수 문제에 플래그를 지정합니다. |
+| 플랜 캠페인 | 규칙은 Marketo Engage용 CX Enterprise Coworker이 사용자 표준에 따라 스마트 캠페인, 필터 및 흐름 단계를 구성하는 방법을 알려줍니다. |
+| 프로그램 유효성 검사 | 규칙은 활성화 전에 프로그램의 유효성을 검사할 때 Marketo Engage용 CX Enterprise Coworker 검사 내용을 정의합니다. |
 
 ## 조직 규칙에 액세스하고 사용자 지정하는 방법 {#how-to-access-and-customize-organizational-rules}
 
-1. 내 Marketo에서 **Marketo Engage용 동료** 타일을 클릭합니다.
+1. 내 Marketo에서 **Marketo Engage용 CX Enterprise Coworker** 타일을 클릭합니다.
 1. 톱니바퀴 아이콘을 클릭합니다.
 1. **조직 규칙** 탭을 선택합니다.
 1. 기본 규칙을 검토합니다(마케팅 작업 모범 사례로 미리 채워져 있음).
@@ -45,7 +45,7 @@ ht-degree: 0%
    * 준수 및 제외 표준
 
 1. 변경할 때 버전 번호를 업데이트합니다.
-1. 변경 내용을 저장합니다. Marketo Engage 스킬에 대한 모든 동료는 사용자 지정된 규칙을 즉시 사용하게 됩니다.
+1. 변경 내용을 저장합니다. 모든 CX Enterprise Coworker for Marketo Engage 기술은 사용자 지정된 규칙을 즉시 사용합니다.
 
 ## 조직 규칙 구조 {#organizational-rules-structure}
 
@@ -99,16 +99,16 @@ customized: true
 * **규칙 집중 유지**: 조직에 관련된 요구 사항만 포함합니다. 불필요한 규칙은 소음을 발생시키고 불필요하게 준수 점수를 줄입니다.
 * **자동 및 수동 확인 사용**:
 
-  * 자동 확인: 이름 지정 규칙, 필수 폴더, 토큰 사용(Marketo Engage용 Coworker가 확인할 수 있음)
-  * 수동 확인: 이메일 시각적 디자인, 브랜드 준수, 캠페인 논리(Marketo Engage용 동료는 이를 수동 검토 단계로 플래그 지정)
+  * 자동 확인: 이름 지정 규칙, 필수 폴더, 토큰 사용(CX Enterprise Coworker for Marketo Engage에서 확인 가능)
+  * 수동 확인: 이메일 시각적 디자인, 브랜드 준수, 캠페인 논리(Marketo Engage용 CX Enterprise Coworker은 이러한 항목을 수동 검토 단계로 플래그 지정)
 
 * **엄격함과 유연성 간의 균형 조정**: 너무 엄격한 규칙은 프로그램 생성 속도를 저하시킬 수 있습니다. 너무 느슨한 규칙은 중요한 규정 준수 문제를 포착하지 못합니다.
 * **규칙 버전**: 중요 변경 작업을 수행할 때 버전 번호를 업데이트하여 팀에서 거버넌스 표준이 업데이트되었음을 알 수 있도록 합니다.
 * **변경 내용 전달**: 조직 규칙을 업데이트할 때 마케팅 운영 팀에 변경 내용과 이유를 알려 주십시오.
 
-## Marketo Engage용 동료가 확인할 수 있는 사항 및 확인할 수 없는 사항 {#what-coworker-can-and-cannot-validate}
+## CX Enterprise Coworker for Marketo Engage의 유효성 검사 가능 및 불가 {#what-coworker-can-and-cannot-validate}
 
-Marketo Engage용 Coworker CAN 유효성 검사(자동 검사):
+CX Enterprise Coworker for Marketo Engage의 유효성 검사(자동 검사):
 
 * 명명 규칙은 패턴과 일치합니다
 * 필수 폴더 구조가 있음
@@ -117,7 +117,7 @@ Marketo Engage용 Coworker CAN 유효성 검사(자동 검사):
 * 외부 링크에는 UTM 매개 변수가 포함되어 있습니다
 * 스마트 캠페인 이름은 규칙을 따릅니다.
 
-Marketo Engage용 동료가 유효성을 검사할 수 없음(수동 검토 필요):
+CX Enterprise Coworker for Marketo Engage에서 유효성을 검사할 수 없음(수동 검토 필요):
 
 * 스마트 목록 필터 논리(API 제한: 필터를 수동으로 구성해야 함)
 * 스마트 캠페인 흐름 단계 논리(API 제한 사항: 흐름을 수동으로 구성해야 함)
@@ -125,14 +125,14 @@ Marketo Engage용 동료가 유효성을 검사할 수 없음(수동 검토 필�
 * 브랜드 준수 및 메시징 톤(사람의 판단 필요)
 * 동적 콘텐츠 세분화 규칙(API 제한)
 
-Marketo Engage용 Coworker에 확인할 수 없는 사항이 발생하면 워크플로의 수동 검토 단계로 플래그를 지정합니다.
+CX Enterprise Coworker for Marketo Engage에서 확인할 수 없는 문제가 발생하면 워크플로의 수동 검토 단계로 플래그를 지정합니다.
 
 ## 규정 준수 점수 {#compliance-scoring}
 
-프로그램 유효성 검사 를 사용하는 경우 Marketo Engage용 Coworker는 다음을 기반으로 규정 준수 점수를 계산합니다.
+프로그램 유효성 검사 를 사용하는 경우 CX Enterprise Coworker for Marketo Engage은 다음을 기반으로 규정 준수 점수를 계산합니다.
 
-* **검사 통과**: Marketo Engage용 Coworker가 준수 여부를 확인했으며 문제를 찾지 못했습니다.
-* **확인 실패**: Marketo Engage의 동료가 조직 규칙 위반을 발견했습니다.
+* **검사 통과**: Marketo Engage용 CX Enterprise Coworker에서 준수 여부를 확인했으며 문제가 없습니다.
+* **확인 실패**: Marketo Engage용 CX Enterprise Coworker에서 조직 규칙 위반을 발견했습니다.
 * **수동 검토 단계**: 사람 확인이 필요한 항목(점수에 포함되지 않음)
 
 프로그램은 100% 준수할 수 있으며 여전히 수동 검토 단계가 필요합니다. 점수 계산에서 제외됩니다.
@@ -172,9 +172,9 @@ Example: AMER_Q2_Product_Launch_Webinar_2025
 
 ## 문제 해결 {#troubleshooting}
 
-**Q: 조직 규칙을 업데이트했지만 Marketo Engage용 동료가 여전히 이전 규칙을 사용하고 있습니다.**
+**Q: 조직 규칙을 업데이트했지만 Marketo Engage용 CX Enterprise Coworker에서 여전히 이전 규칙을 사용하고 있습니다.**
 
-A: 새 프로그램 및 유효성 검사에 변경 사항이 즉시 적용됩니다. 기존 프로그램에서 작업 중인 경우 브라우저를 새로 고치거나 새 Marketo Engage 공동 작업자 워크플로를 시작하여 업데이트된 규칙을 보십시오.
+A: 새 프로그램 및 유효성 검사에 변경 사항이 즉시 적용됩니다. 기존 프로그램에서 작업 중인 경우 브라우저를 새로 고치거나 새 Marketo Engage용 CX Enterprise Coworker 워크플로우를 시작하여 업데이트된 규칙을 확인합니다.
 
 **Q: 기본 규칙으로 되돌릴 수 있습니까?**
 
