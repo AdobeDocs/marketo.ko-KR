@@ -85,7 +85,7 @@ Salesforce은 OAuth 프로토콜을 사용하여 애플리케이션 사용자가
 >* Marketo 동기화 사용자는 Salesforce에서 만들어야 합니다.
 >* 팝업 차단기가 비활성화되었습니다.
 >* 연결된 앱이 만들어지고 [!UICONTROL Consumer Key] 및 [!UICONTROL Consumer Secret]을(를) 사용할 수 있습니다.
->* 다음 기능을 활성화하려면 [Marketo 지원 센터](https://experienceleague.adobe.com/en/support)에 문의하십시오. SFDC 동기화에 OAuth를 사용하도록 설정하고, 새로 고침 토큰 흐름에 대해 암호가 필요하며, PKCE(Proof Key for Code Exchange).
+>* 다음 기능을 활성화하려면 [Marketo 지원 센터](https://experienceleague.adobe.com/ko/support)에 문의하십시오. SFDC 동기화에 OAuth를 사용하도록 설정하고, 새로 고침 토큰 흐름에 대해 암호가 필요하며, PKCE(Proof Key for Code Exchange).
 
 >[!CAUTION]
 >
