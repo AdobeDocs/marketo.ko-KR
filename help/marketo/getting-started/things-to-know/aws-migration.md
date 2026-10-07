@@ -3,10 +3,10 @@ description: AWS 마이그레이션 - Marketo Engage 문서 - 제품 설명서
 title: AWS 마이그레이션
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 78cbf2bc22a769e1b1013ddf7293e1a49ccd77e4
+source-git-commit: a02e4782a1c320ec1baa8c304d50c7e1807ab445
 workflow-type: tm+mt
-source-wordcount: '1020'
-ht-degree: 5%
+source-wordcount: '1227'
+ht-degree: 4%
 ---
 # AWS 마이그레이션 {#aws-migration}
 
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 * **잠재 고객/직원을 만들거나 업데이트하거나** 개인 레코드를 수정하는 프로세스를 실행하지 마십시오.
 
-* 예약된 캠페인이 일시 중지되므로 **후속 프로세스를 트리거하지 마십시오**.
+* 예약된 모든 캠페인이 일시 중지되므로 **후속 프로세스를 트리거하지 마십시오**.
 
 * **Marketo Engage과 데이터를 주고받는 모든 통합을 일시적으로 비활성화**&#x200B;합니다.
 
@@ -45,7 +45,7 @@ ht-degree: 5%
 
 ## 데이터 센터/포드 식별 {#identify}
 
-아래 일정을 검토하기 전에 [구독 데이터 센터 및 Pod/서버를 식별하는 방법을 알아보세요](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify).
+아래 일정을 검토하기 전에 [구독 데이터 센터 및 Pod/서버를 식별하는 방법을 알아보세요](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify){target="_blank"}.
 
 ## 일정 {#schedule}
 
@@ -362,3 +362,13 @@ Marketo은 AWS에서 완전히 관리하는 클라우드 기반 관계형 데이
 Aurora는 또한 Amazon S3에 대한 지속적인 자동 백업을 실시간으로 수행하므로 구성된 보존 기간 내의 모든 초 단위로 PITR(시점 복구)을 수행할 수 있습니다.
 
 현재 Marketo의 Aurora 배포는 교차 영역 복제 없이 단일 AWS 영역 내에서 작동합니다. 운영 데이터는 지정된 지역 인프라에 그대로 유지되며 재해 복구는 Aurora의 다중 AZ 스토리지 이중화 및 지속적인 백업을 통해 2차 지역으로 지리적 페일오버가 아니라 제공됩니다. 이는 Marketo의 AWS 인프라가 성숙됨에 따라 더욱 평가될 수 있다.
+
+**가동 중지 시간 동안 구독 취소는 어떻게 처리됩니까?**
+이메일 클라이언트로부터 표준 및 목록 구독 취소가 계속 수신되며, 마이그레이션 직후 처리됩니다.
+
+**캠페인을 일시 중지할 수 있는 다른 방법이 있습니까?**
+예. 사람들이 이동하지 못하도록 하고 들어오는 데이터를 손실하지 않으려면 다음 옵션을 고려하십시오.
+
+* 선택 단계 추가: 캠페인을 비활성화하는 대신 활성 상태로 두되, 흐름의 맨 위에 [대기 흐름 단계](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} 또는 즉시 &quot;아무 작업도 안 함&quot; 단계를 추가하십시오. 사람들을 일시 중지된 상태로 유도하는 [선택 규칙](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"}을 설정한 다음 준비가 되면 선택 규칙을 업데이트하십시오.
+* 흐름에서 제거: 사람들이 이미 캠페인에 들어갔지만 진행을 중지해야 하는 경우 [흐름에서 제거](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} 액션을 사용하여 캠페인 트리거를 영구적으로 사용하지 않도록 설정하지 않고도 제거할 수 있습니다.
+* 배치 대체 요소: 즉각적인 라우팅이나 응답이 필요하지 않고 사람들을 하룻밤 또는 예약된 간격으로 처리하려는 경우 트리거 캠페인을 배치 캠페인으로 변환하는 것이 좋습니다.

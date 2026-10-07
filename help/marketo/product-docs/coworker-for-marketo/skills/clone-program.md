@@ -3,13 +3,11 @@ description: 복제 프로그램은 기존 Marketo 프로그램을 새 이름의
 title: 프로그램 복제
 badge: Beta
 hide: true
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '487'
 ht-degree: 0%
-
 ---
-
 # 프로그램 복제 {#clone-program}
 
 복제 프로그램 에이전트는 스마트 캠페인, 흐름 단계, 이메일 에셋 및 구성을 포함한 작업 프로그램을 Marketo 환경의 새 위치에 복사합니다.
@@ -28,16 +26,16 @@ ht-degree: 0%
 
 ## 사용 방법 {#how-to-use}
 
-1. 내 Marketo에서 **Marketo Engage용 동료** 타일을 클릭합니다.
+1. 내 Marketo에서 **Marketo Engage용 CX Enterprise Coworker** 타일을 클릭합니다.
 1. 프롬프트 창에서 지침을 입력합니다. 예를 들어 &quot;Q2 웨비나 프로그램을 Q3 캠페인 폴더에 복제하고 Q3 제품 데모 웨비나라고 합니다.&quot;
-1. Marketo Engage용 동료가 소스 프로그램, 대상 폴더 및 새 이름을 확인합니다. 검토 및 확인합니다.
-1. 클론이 생성됩니다. Marketo Engage의 동료가 완료 시점을 확인하고 위치를 알려줍니다.
+1. CX Enterprise Coworker for Marketo Engage에서 소스 프로그램, 대상 폴더 및 새 이름을 확인합니다. 검토 및 확인합니다.
+1. 클론이 생성됩니다. CX Enterprise Coworker for Marketo Engage은 완료 시점을 확인하고 위치를 알려줍니다.
 1. Marketo에서 새 프로그램을 열고 이메일 콘텐츠, 날짜, 대상 필터, 토큰 등의 차이점을 업데이트합니다.
 1. 활성화하기 전에 [프로그램 QA](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md) 에이전트를 실행하십시오.
 
 ## 사용 사례 {#use-cases}
 
-**분기별 캠페인 재사용**: 캠페인 관리자는 분기마다 동일한 웨비나 시리즈를 실행합니다. Coworker에서 지난 분기의 웨비나 프로그램을 새 분기의 폴더에 업데이트된 이름으로 복제하도록 Marketo Engage에 요청합니다. 그런 다음 이메일 사본, 웨비나 날짜 토큰 및 등록 링크를 업데이트하여 설정 시간을 절약합니다.
+**분기별 캠페인 재사용**: 캠페인 관리자는 분기마다 동일한 웨비나 시리즈를 실행합니다. CX Enterprise Coworker for Marketo Engage에 지난 분기의 웨비나 프로그램을 새 분기의 폴더에 업데이트된 이름으로 복제하도록 요청합니다. 그런 다음 이메일 사본, 웨비나 날짜 토큰 및 등록 링크를 업데이트하여 설정 시간을 절약합니다.
 
 **입증된 프로그램에서 템플릿 만들기**: 마케팅 운영 전문가는 성과가 좋은 제품 출시 프로그램을 &quot;템플릿&quot; 폴더로 복제하여 향후 출시 시작점 역할을 합니다. 클론은 비활성화 상태로 유지되며 참조 복제본으로 사용됩니다.
 
