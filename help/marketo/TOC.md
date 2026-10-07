@@ -4,9 +4,9 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 2bf1305a6dd7f26b4a96309e858c32e101f5b41c
+source-git-commit: bf54ef2e3651759827fa6d040a94512f694d8f9a
 workflow-type: tm+mt
-source-wordcount: '8942'
+source-wordcount: '8938'
 ht-degree: 96%
 ---
 
@@ -497,7 +497,7 @@ ht-degree: 96%
       + [리드 조사](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [리드 가져오기](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [프로그램 유효성 검사](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [Marketo Mcp](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mcp-server)
+    + [Marketo Mcp](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM 동기화 {#crm-sync}
     + Microsoft Dynamics 동기화 {#microsoft-dynamics}
       + [Microsoft Dynamics 동기화 이해](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -600,7 +600,6 @@ ht-degree: 96%
       + [Salesforce 동기화 활성화/비활성화](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
       + [암시적 Salesforce 작업](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
       + [OAuth 2.0을 사용하여 로그인](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
-      + {hide-from-toc}[OAuth 2.0 NEW를 사용하여 로그인](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0-new.md)
       + [Salesforce 동기화 백로그 지표](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
       + [Salesforce 동기화 오류](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
       + [Salesforce 동기화 상태](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
@@ -1923,7 +1922,7 @@ ht-degree: 96%
   + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat 릴리스 TEMP](release-notes/dynamic-chat-temp.md)
   + [이전 릴리스](release-notes/previous-releases.md)
-  + {hide-from-toc}이전 릴리스 개 {#previous-releases}
+  + 이전 릴리스 {hide-from-toc}개 {#previous-releases}
     + 2026 {#2026}
       + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)

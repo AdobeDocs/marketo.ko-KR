@@ -3,20 +3,26 @@ description: OAuth 2.0을 사용하여 Marketo 및 Salesforce을 연결하는 �
 title: OAuth 2.0을 사용하여 로그인
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/DG57bnPnHcwgMX16fmboe5t0W3anVkVt4BNba3ltgqI
+TQID: 'https://experienceleague.adobe.com/DG57bnPnHcwgMX16fmboe5t0W3anVkVt4BNba3ltgqI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 115ae737bd08722278cb207b24827e109bb259bf
 workflow-type: tm+mt
-source-wordcount: 641
+source-wordcount: '663'
 ht-degree: 3%
-
 ---
-
 # OAuth 2.0을 사용하여 로그인 {#log-in-using-oauth-2-0}
 
 Salesforce은 OAuth 프로토콜을 사용하여 애플리케이션 사용자가 로그인 자격 증명을 확인하지 않고도 데이터에 안전하게 액세스(OAuth 2.0을 사용하여 애플리케이션 인증)할 수 있도록 합니다. 다음은 Marketo Engage과 Salesforce을 안전하게 연결하고 동기화하기 위해 수행해야 하는 단계입니다.
@@ -55,7 +61,7 @@ Salesforce은 OAuth 프로토콜을 사용하여 애플리케이션 사용자가
 
    ![](assets/log-in-using-oauth-6.png)
 
-1. _보안_&#x200B;에서 **웹 서버 흐름에 암호 필요** 및 **새로 고침 토큰 흐름에 암호 필요**&#x200B;만 선택되었는지 확인하십시오.
+1. _보안_&#x200B;에서 **웹 서버 흐름에 대한 암호 필요**, **새로 고침 토큰 흐름에 대한 암호 필요** 및 **PKCE(Proof Key for Code Exchange) 필요...**&#x200B;만 선택되었는지 확인하십시오.
 
    ![](assets/log-in-using-oauth-7.png)
 
@@ -77,9 +83,9 @@ Salesforce은 OAuth 프로토콜을 사용하여 애플리케이션 사용자가
 >
 >* Salesforce 동기화 사용자에 대해 API 액세스를 활성화해야 합니다(Salesforce Professional Edition 사용자의 경우 기본적으로 해당 액세스를 사용할 수 없음—Salesforce 계정 담당자에게 문의).
 >* Marketo 동기화 사용자는 Salesforce에서 만들어야 합니다.
->* 기존 고객의 경우 해당 고객의 구독에서 &quot;SFDC 동기화를 위해 OAuth 활성화&quot; 기능이 활성화됩니다.
 >* 팝업 차단기가 비활성화되었습니다.
 >* 연결된 앱이 만들어지고 [!UICONTROL Consumer Key] 및 [!UICONTROL Consumer Secret]을(를) 사용할 수 있습니다.
+>* 다음 기능을 활성화하려면 [Marketo 지원 센터](https://experienceleague.adobe.com/en/support)에 문의하십시오. SFDC 동기화에 OAuth를 사용하도록 설정하고, 새로 고침 토큰 흐름에 대해 암호가 필요하며, PKCE(Proof Key for Code Exchange).
 
 >[!CAUTION]
 >
