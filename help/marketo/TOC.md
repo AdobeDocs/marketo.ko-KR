@@ -4,9 +4,9 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: b6799a351d9256e96a6db644c840f061a88198b4
+source-git-commit: bf54ef2e3651759827fa6d040a94512f694d8f9a
 workflow-type: tm+mt
-source-wordcount: '8936'
+source-wordcount: '8938'
 ht-degree: 96%
 ---
 
