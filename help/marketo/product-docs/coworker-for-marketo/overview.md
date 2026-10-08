@@ -67,4 +67,4 @@ CX Enterprise Coworker for Marketo Engage은 시간이 많이 소요되지만 �
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP 서버](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"}는 AI 도우미와 Marketo Engage을 연결하는 다리 역할을 합니다.
+>[Marketo Engage MCP 서버](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ko){target="_blank"}는 AI 도우미와 Marketo Engage을 연결하는 다리 역할을 합니다.

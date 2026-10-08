@@ -348,7 +348,7 @@ GA([Google Analytics](/help/marketo/product-docs/web-personalization/reporting-f
 
 ## REST API의 목록 작업 {#list-operations-in-the-rest-api}
 
-ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. 전체 설명서는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)을(를) 참조하십시오.
+ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. 전체 설명서는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)을(를) 참조하십시오.
 
 * ID별 목록 가져오기
 * 여러 목록 가져오기
@@ -379,7 +379,7 @@ ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. �
 
 ## RTP: JavaScript API 개선 사항 {#rtp-javascript-api-enhancements}
 
-조직, 업계, 위치 및 세그먼트 코드 일치와 같은 실시간 방문자 데이터를 가져오기 위한 새로운 RTP API 호출입니다. 또한 세그먼트 페이지의 세그먼트 이름 위로 마우스를 가져가면 세그먼트 코드를 보여주는 도구 설명이 표시됩니다. 자세한 내용은 [개발자 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)를 참조하십시오.
+조직, 업계, 위치 및 세그먼트 코드 일치와 같은 실시간 방문자 데이터를 가져오기 위한 새로운 RTP API 호출입니다. 또한 세그먼트 페이지의 세그먼트 이름 위로 마우스를 가져가면 세그먼트 코드를 보여주는 도구 설명이 표시됩니다. 자세한 내용은 [개발자 사이트](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)를 참조하십시오.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
@@ -492,7 +492,7 @@ API를 사용하여 잠재 고객에 대한 새 활동 또는 변경 사항을 �
 * 활동 유형 가져오기
 * 페이징 토큰 가져오기
 
-전체 세부 정보는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)에 릴리스된 후에 사용할 수 있습니다.
+전체 세부 정보는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)에 릴리스된 후에 사용할 수 있습니다.
 
 ## MSI - [!DNL Microsoft Dynamics]에 대한 Marketo 이메일 보내기 {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -532,7 +532,7 @@ API를 사용하여 잠재 고객에 대한 새 활동 또는 변경 사항을 �
 * 다음에 관심이 있는 제품
 * 본 RTP 캠페인
 
-자세한 내용을 보려면 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)을(를) 방문하십시오.
+자세한 내용을 보려면 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)을(를) 방문하십시오.
 
 ## 2014년 12월 {#december}
 
@@ -588,7 +588,7 @@ UTF-16, Shift-JIS 또는 EUC-JP로 인코딩된 [파일 가져오기](/help/mark
 
 · 잠재 고객 병합
 
-전체 세부 정보는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home)에 릴리스된 후에 사용할 수 있습니다.
+전체 세부 정보는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home)에 릴리스된 후에 사용할 수 있습니다.
 
 ## [!DNL Munchkin Javascript] 호환성 개선 사항 {#munchkin-javascript-compatibility-enhancements}
 

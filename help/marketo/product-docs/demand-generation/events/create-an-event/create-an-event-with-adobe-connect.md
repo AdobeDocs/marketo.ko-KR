@@ -37,7 +37,7 @@ Adobe Connect과 동기화하면 Marketo 내에서 웨비나 등록 및 출석�
 >* [Adobe Connect 및 Marketo 연결](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [새 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-먼저 Adobe Connect에서 회의 또는 세미나를 작성했는지 확인합니다. 도움이 필요하면 [Adobe Connect 사용 안내서](https://help.adobe.com/en_US/connect/9.0/using/index.html)를 참조하세요.
+먼저 Adobe Connect에서 회의 또는 세미나를 작성했는지 확인합니다. 도움이 필요하면 [Adobe Connect 사용 안내서](https://help.adobe.com/ko_KR/connect/9.0/using/index.html)를 참조하세요.
 
 Adobe Connect에서 만드는 모임 및 세미나는 Marketo에 자격 증명을 입력할 때 지정한 폴더 아래에 만들어야 합니다. 회의나 세미나를 만든 후에는 확인 이메일과 ICS 파일에 사용할 관련 물류 정보(전화 번호 등)를 기록해 두십시오.
 

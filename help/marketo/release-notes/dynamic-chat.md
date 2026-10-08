@@ -51,11 +51,11 @@ Marketo Engage의 표준 릴리스 정보 페이지는 [여기에서 확인할 �
 
 ### 방문자 대기 시간 제한 {#visitor-wait-time}
 
-방문자가 대체 메시지를 수신하기 전에 라이브 에이전트에 연결되기를 기다리는 최대 시간(10~500초)을 설정합니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+방문자가 대체 메시지를 수신하기 전에 라이브 에이전트에 연결되기를 기다리는 최대 시간(10~500초)을 설정합니다. [자세히 알아보기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### 트랜스크립트 다운로드 {#download-transcript}
 
-이제 라이브 채팅이 끝난 후 채팅 대본의 .txt 파일을 다운로드할 수 있습니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+이제 라이브 채팅이 끝난 후 채팅 대본의 .txt 파일을 다운로드할 수 있습니다. [자세히 알아보기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## 2025년 6월 릴리스 {#june-2025-release}
 

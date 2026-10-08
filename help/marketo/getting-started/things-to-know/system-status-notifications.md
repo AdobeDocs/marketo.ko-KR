@@ -52,7 +52,7 @@ _데이터 센터_ 필드에서 문자는 데이터 센터이고 숫자는 pod�
 
 [데이터 센터 및 pod/server를 식별한 후](#identify) 아래 단계에 따라 구독을 만드십시오.
 
-1. [status.adobe.com](https://status.adobe.com)에서 **구독 관리**&#x200B;를 클릭하십시오.
+1. [status.adobe.com](https://status.adobe.com/ko-kr)에서 **구독 관리**&#x200B;를 클릭하십시오.
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 

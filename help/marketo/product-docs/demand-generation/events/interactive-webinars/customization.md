@@ -153,4 +153,4 @@ Adobe Connect은 사용할 준비가 된 9개의 기본 배경을 제공합니�
 
 * 호스트는 룸을 만드는 동안 테마를 선택하거나 나중에 룸 정보 페이지(**룸 상단 표시줄** > **추가 메뉴** > **룸 정보 보기**)에서 테마를 업데이트할 수 있습니다.
 
-[테마](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}에 대해 자세히 알아보세요.
+[테마](https://helpx.adobe.com/kr/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}에 대해 자세히 알아보세요.

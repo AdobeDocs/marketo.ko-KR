@@ -63,7 +63,7 @@ Adobe Marketo Engage 계정이 사용자 지정 또는 비기본 통합을 통�
     </tbody>
    </table>
 
-   * [영업 담당자를 위한 API 설명서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * [영업 담당자를 위한 API 설명서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * [영업 담당자 동기화를 위한 API 설명서](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. MS [!DNL Dynamics] 계정을 Marketo에 동기화합니다.
@@ -95,7 +95,7 @@ Adobe Marketo Engage 계정이 사용자 지정 또는 비기본 통합을 통�
     </tbody>
    </table>
 
-   * 회사에 대한 API 설명서: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * 회사에 대한 API 설명서: [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * 회사 동기화에 대한 API 설명서: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. MS [!DNL Dynamics] 리드/연락처를 Marketo에 동기화합니다.
@@ -132,7 +132,7 @@ Adobe Marketo Engage 계정이 사용자 지정 또는 비기본 통합을 통�
     </tbody>
    </table>
 
-   * 리드에 대한 API 설명서: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
+   * 리드에 대한 API 설명서: [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
    * 잠재 고객 동기화를 위한 API 설명서: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}
 
 1. MS [!DNL Dynamics] 기회를 Marketo에 동기화합니다.
@@ -169,7 +169,7 @@ Adobe Marketo Engage 계정이 사용자 지정 또는 비기본 통합을 통�
     </tbody>
    </table>
 
-   * 영업 기회에 대한 API 설명서: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * 영업 기회에 대한 API 설명서: [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * 기회 동기화를 위한 API 설명서: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. MS [!DNL Dynamics] 연락처 역할을 Marketo에 동기화합니다.
@@ -206,7 +206,7 @@ Adobe Marketo Engage 계정이 사용자 지정 또는 비기본 통합을 통�
     </tbody>
    </table>
 
-   * 영업 기회에 대한 API 설명서: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * 영업 기회에 대한 API 설명서: [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * 기회 동기화를 위한 API 설명서: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 마지막 관심 순간/MSI 점수 필드를 MS [!DNL Dynamics]에 동기화합니다.
