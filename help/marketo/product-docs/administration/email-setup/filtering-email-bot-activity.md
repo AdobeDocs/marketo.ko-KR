@@ -3,20 +3,26 @@ description: IAB 목록 일치 및 근접 패턴을 사용하여 부풀려진 �
 title: 이메일 봇 활동 필터링
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho
+TQID: 'https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 469
+source-wordcount: '469'
 ht-degree: 13%
-
 ---
-
 # 이메일 봇 활동 필터링 {#filtering-email-bot-activity}
 
 경우에 따라 이메일 봇 활동이 이메일 열기 및 클릭 데이터를 잘못 부풀릴 수 있습니다. 이 문제를 해결하려면 아래 단계를 따르십시오.
@@ -25,10 +31,10 @@ ht-degree: 13%
 
 * [대화형 Advertising Bureau 보트 목록](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}과 일치: IAB UA/IP(사용자 에이전트/IP 주소) 목록에 있는 모든 항목과 일치하는 활동이 보트로 표시됩니다.
 * 근접 패턴과 일치: 두 개 이상의 활동이 동시에 발생하는 경우(초 이내) 이 활동은 봇으로 식별됩니다. 비교 시 고려되는 속성은 다음과 같습니다.
-   * 잠재 고객 ID(같아야 함)
-   * 이메일 자산(동일해야 함)
-   * 링크 클릭 또는 이메일 열기
-   * 시간 차이(1초 미만이어야 함)
+  * 리드 ID(같아야 함)
+  * 이메일 에셋(동일해야 함)
+  * 링크 클릭 또는 이메일 열기
+  * 시간 차이(1초 미만이어야 함)
 
 이메일 링크 클릭 및 이메일 열기 활동에 대해 새 속성은 아래 값으로 채워집니다.
 

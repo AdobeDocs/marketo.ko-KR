@@ -4,18 +4,23 @@ description: 구독을 취소한 사람에게 도달할 수 있도록 이메일�
 title: 이메일을 운영화
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/uJ7mBcoFBTBU29oQxyW8-dan6dbVV4fyo-9vBdn-q5o
+TQID: 'https://experienceleague.adobe.com/uJ7mBcoFBTBU29oQxyW8-dan6dbVV4fyo-9vBdn-q5o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 167
+source-wordcount: '167'
 ht-degree: 4%
-
 ---
-
 # 이메일을 운영화 {#make-an-email-operational}
 
 운영 이메일은 구독 취소 및 마케팅 중단 상태를 무시합니다. 또한 통신 제한을 받지 않습니다. 그들은 무슨 일이 있어도 보낸다.

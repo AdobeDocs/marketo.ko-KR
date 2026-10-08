@@ -1,25 +1,30 @@
 ---
 unique-page-id: 2949874
 description: Marketo에서 GotoWebinar를 사용하여 이벤트를 만드는 방법을 알아봅니다. Marketo과의 통합 및 동기화 웨비나 등록을 구성합니다.
-title: ' [!DNL GotoWebinar] (으)로 이벤트 만들기'
+title: '[!DNL GotoWebinar](으)로 이벤트 만들기'
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-TQID: https://experienceleague.adobe.com/cHkEawyFkPdyns0aeVTSbHoUGLF8zs-v6ClkXXOyW98
+TQID: 'https://experienceleague.adobe.com/cHkEawyFkPdyns0aeVTSbHoUGLF8zs-v6ClkXXOyW98'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 491
+source-wordcount: '491'
 ht-degree: 0%
-
 ---
-
 # [!DNL GotoWebinar]&#x200B;(으)로 이벤트 만들기 {#create-an-event-with-gotowebinar}
 
 >[!PREREQUISITES]

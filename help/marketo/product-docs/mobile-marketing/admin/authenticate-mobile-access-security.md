@@ -4,18 +4,21 @@ description: 모바일 앱 보안을 위해 액세스 키 및 액세스 보안�
 title: 모바일 액세스 보안 인증
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/nIByv18mX6lQ8NR0aVRMhsOAn-g8BtwZY747ySyovco
+TQID: 'https://experienceleague.adobe.com/nIByv18mX6lQ8NR0aVRMhsOAn-g8BtwZY747ySyovco'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 142
+source-wordcount: '142'
 ht-degree: 6%
-
 ---
-
 # 모바일 액세스 보안 인증 {#authenticate-mobile-access-security}
 
 모바일 사용자의 보안을 개선하기 위해 Marketo에서는 [!UICONTROL Access Key] 및 [!UICONTROL Access Secret] ID를 새로 제공합니다. 이러한 기능은 앱에 로그인하는 사용자가 실제로 자신의 모습 그대로인지 확인하는 데 도움이 됩니다.

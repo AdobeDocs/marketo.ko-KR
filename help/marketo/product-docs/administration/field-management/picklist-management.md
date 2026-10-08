@@ -3,13 +3,20 @@ description: 데이터 및 워크플로우 관리를 단순화하기 위해 필�
 title: 선택 목록 관리
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
-
 ---
-
 # 선택 목록 관리 {#picklist-management}
 
 선택 목록 관리를 사용하면 필드에 대해 고정된 값 집합을 정의하여 Marketo Engage 내의 데이터 및 워크플로우 관리를 단순화할 수 있습니다. 정의된 선택 목록이 있는 CRM 필드에 매핑되지 않은 텍스트가 아닌 필드만 Marketo에서 관리할 수 있습니다. 필드가 정의된 선택 목록이 있는 CRM 필드에 매핑되는 경우 해당 필드에 대한 값을 CRM에서 정의해야 합니다.

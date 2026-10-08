@@ -4,20 +4,23 @@ description: dnl의 개인화된 리마케팅을 포함하여 Marketo Engage의 
 title: Facebook의 개인화된 리마케팅
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/Pm54eQ-MPJ2hQeKyK2jFWHqjy1-t69Kzd2LB8fNcIKo
+TQID: 'https://experienceleague.adobe.com/Pm54eQ-MPJ2hQeKyK2jFWHqjy1-t69Kzd2LB8fNcIKo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 312
+source-wordcount: '312'
 ht-degree: 7%
-
 ---
-
 # [!DNL Facebook]의 개인화된 리마케팅 {#personalized-remarketing-in-facebook}
 
 개인화된 리마케팅을 사용하면 RTP 데이터와 Facebook 리마케팅의 기능을 사용하여 사용자와 다시 연결할 수 있습니다.
@@ -25,7 +28,7 @@ ht-degree: 7%
 >[!PREREQUISITES]
 >
 >* [웹 Personalization 데이터를 사용하여 다시 타깃팅](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 설정을 완료합니다.
->* 사용자 지정 대상[&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) 및 리마케팅에 대한 [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook 설명서를 검토하십시오.
+>* 사용자 지정 대상](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) 및 리마케팅에 대한 [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook 설명서를 검토하십시오.
 
 ## [!DNL Facebook]에서 대상을 만드는 중 {#creating-an-audience-in-facebook}
 

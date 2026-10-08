@@ -3,25 +3,28 @@ description: Marketo Sales Insight에서 대화형 웨비나를 사용하는 방
 title: Marketo Sales Insight의 대화형 웨비나
 feature: Interactive Webinars
 exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
-TQID: https://experienceleague.adobe.com/SfEVVHTdHfPr5E2aA2JFPHhP2gYOJTQf5Hm5cFbtdbA
+TQID: 'https://experienceleague.adobe.com/SfEVVHTdHfPr5E2aA2JFPHhP2gYOJTQf5Hm5cFbtdbA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 239
+source-wordcount: '239'
 ht-degree: 6%
-
 ---
-
-# Marketo Sales Insight의 대화형 웨비나 {#interactive-webinars-in-marketo-sales-insight}
+# Marketo 영업 인사이트의 대화형 웨비나 {#interactive-webinars-in-marketo-sales-insight}
 
 Marketo Sales Insight의 대화형 웨비나는 Salesforce의 Marketo Sales Insight(MSI) 플러그인에서 웨비나의 활동을 사용할 수 있도록 합니다.
 
 >[!PREREQUISITES]
 >
->이 기능은 [Marketo Sales Insight](https://business.adobe.com/kr/products/marketo/sales-intelligence-engagement.html) 추가 기능을 구입한 사용자에게만 지원됩니다.
+>이 기능은 [Marketo Sales Insight](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html) 추가 기능을 구입한 사용자에게만 지원됩니다.
 
 활동이 Marketo Engage에 등록되면(Adobe Connect에서 웨비나가 완료된 후) MSI 플러그인을 통해 Salesforce에 실시간으로 동기화됩니다.
 

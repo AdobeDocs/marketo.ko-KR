@@ -3,16 +3,18 @@ description: Sales Connect의 Salesforce 활동 세부 사항 사용자 지정�
 title: Salesforce 활동 상세 정보 사용자 정의 구성
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/fFax4g3tqI3FlLhe-G2MeG9Rkjh4K86SiA7cAIdmYpo
+TQID: 'https://experienceleague.adobe.com/fFax4g3tqI3FlLhe-G2MeG9Rkjh4K86SiA7cAIdmYpo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 672
+source-wordcount: '672'
 ht-degree: 2%
-
 ---
-
 # [!DNL Salesforce] 활동 세부 정보 사용자 지정 구성 {#configure-salesforce-activity-detail-customization}
 
 >[!PREREQUISITES]

@@ -4,30 +4,39 @@ description: Marketo의 익명 활동 및 사람에 대해 알아봅니다. 전�
 title: 익명 활동 및 사용자 이해
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/avWmJKBGktOEseVl3uIYB9Bp19Rq3HQgo98gKJFDtIc
+TQID: 'https://experienceleague.adobe.com/avWmJKBGktOEseVl3uIYB9Bp19Rq3HQgo98gKJFDtIc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 271
+source-wordcount: '271'
 ht-degree: 3%
-
 ---
-
 # 익명 활동 및 사용자 이해 {#understanding-anonymous-activity-and-people}
 
 누군가가 Marketo 랜딩 페이지(또는 [Munchkin 추적 코드](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}가 있는 웹 사이트의 페이지)를 처음 방문하면 Marketo은 *익명 활동*&#x200B;을 만들고 브라우저 쿠키를 사용하여 추적합니다. 식별되면 개인이 되고 해당 브라우저 쿠키와 연관된 내역이 병합됩니다.
 
 >[!IMPORTANT]
 >
->Known **에서 Beta 기능**&#x200B;[!DNL Munchkin] V2 익명 재생 활동을 활성화하면 익명 잠재 고객이 알려진 레코드에 성공적으로 병합된 후 익명 잠재 고객 프로모션에 의해 트리거된 캠페인이 항상 재생됩니다. 따라서 재생된 캠페인에서 데이터 값 변경 단계에 의해 변경된 사용자 지정 필드는 알려진 레코드에서 유지됩니다.
+>Known **에서 Beta 기능**[!DNL Munchkin] V2 익명 재생 활동을 활성화하면 익명 잠재 고객이 알려진 레코드에 성공적으로 병합된 후 익명 잠재 고객 프로모션에 의해 트리거된 캠페인이 항상 재생됩니다. 따라서 재생된 캠페인에서 데이터 값 변경 단계에 의해 변경된 사용자 지정 필드는 알려진 레코드에서 유지됩니다.
 
 **익명** 활동은 다음 경우에 만들어집니다.
 

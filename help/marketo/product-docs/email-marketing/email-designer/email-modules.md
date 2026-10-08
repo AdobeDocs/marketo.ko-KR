@@ -6,13 +6,28 @@ description: 일관된 이메일 디자인을 위해 이메일 Designer에서 �
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
-source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 2%
-
 ---
-
 # 이메일 디자이너의 모듈 사용 {#email-modules}
 
 이메일 Designer에는 이메일 어셈블리를 가속화하고 커뮤니케이션 전반에 걸쳐 디자인 일관성을 증진하도록 설계된 사용 준비가 끝난 완전한 구조의 콘텐츠 블록과 같은 모듈 라이브러리가 포함되어 있습니다.

@@ -3,18 +3,20 @@ description: Marketo에서 대화형 웨비나를 시작합니다. 대화형 웨
 title: 대화형 웨비나 시작하기
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-TQID: https://experienceleague.adobe.com/u7P-Uv0T5fiVcT2WlMpQjsoQSxWt2alZhIJCi--H-5c
+TQID: 'https://experienceleague.adobe.com/u7P-Uv0T5fiVcT2WlMpQjsoQSxWt2alZhIJCi--H-5c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 295
+source-wordcount: '295'
 ht-degree: 3%
-
 ---
-
 # 대화형 웨비나 시작하기 {#get-started-with-interactive-webinars}
 
 [대화형 웨비나 개요](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"}를 읽고 자세히 살펴볼 준비가 되었습니다. 시작하려면 아래 단계를 따르십시오.

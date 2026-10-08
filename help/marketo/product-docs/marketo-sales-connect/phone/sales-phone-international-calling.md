@@ -4,16 +4,18 @@ description: Sales Connect에서 Sales Phone 국제 전화에 대해 알아봅�
 title: 세일즈 전화 국제 통화
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc
+TQID: 'https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '409'
 ht-degree: 23%
-
 ---
-
 # 세일즈 전화 국제 통화 {#sales-phone-international-calling}
 
 Sales Phone을 사용하면 쉽게 국제적으로 통신할 수 있습니다. 미국 내에서 전화를 거는 고객의 경우 국제 국가로의 아웃바운드 통화에 판매 전화를 사용할 수 있습니다. 미국 이외의 고객에게는 국제 국가의 전화를 지원합니다.

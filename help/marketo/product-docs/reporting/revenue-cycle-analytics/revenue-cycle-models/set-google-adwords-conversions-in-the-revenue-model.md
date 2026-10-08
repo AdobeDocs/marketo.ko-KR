@@ -1,16 +1,22 @@
 ---
 unique-page-id: 6095029
-description: set dnl google을 사용하여 Marketo Engage의 수입 모델에서 [ !dnl google adwords] 전환을 설정하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
-title: 수익 모델에서  [!DNL Google AdWords] 전환 설정
+description: set dnl google을 사용하여 Marketo Engage의 수입 모델에서 [!dnl google adwords] 전환을 설정하는 방법에 대해 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
+title: 수익 모델에서 [!DNL Google AdWords] 전환 설정
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 2%
-
 ---
-
 # 수익 모델에서 [!DNL Google AdWords] 전환 설정 {#set-google-adwords-conversions-in-the-revenue-model}
 
 [!DNL Google AdWords] 계정을 Marketo에 연결하여 Marketo에서 [!DNL Google AdWords]&#x200B;(으)로 오프라인 전환 데이터를 자동으로 업로드합니다. [!DNL AdWords]에서 [사용자 지정 열을 추가](https://support.google.com/adwords/answer/3073556)한 후 [!DNL AdWords] UI에서 자격 있는 리드, 기회 및 신규 고객(또는 추적하려는 매출 단계)을 일으킨 클릭 수를 쉽게 확인할 수 있습니다.

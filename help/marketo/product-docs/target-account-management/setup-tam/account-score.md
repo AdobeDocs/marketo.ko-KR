@@ -4,16 +4,21 @@ description: 계정 점수와 참여 대상 계정의 우선 순위 지정에 �
 title: 계정 점수
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/l%2D%2D%2D8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c
+TQID: 'https://experienceleague.adobe.com/l%2D%2D%2D8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 355
+source-wordcount: '355'
 ht-degree: 1%
-
 ---
-
 # [!UICONTROL Account Score] {#account-score}
 
 계정 점수는 [!UICONTROL Target Account Management]의 중요한 부분입니다. 계정의 참여 수준을 결정하는 데 도움이 됩니다.
@@ -49,7 +54,10 @@ B2B 구매 과정의 복잡한 세계에서 한 개인이 구매 결정을 내�
 >
 >계정 점수를 계산하려면 먼저 리드 점수를 생성해야 합니다. Marketo TAM은 자동으로 리드 점수를 계정 점수로 집계합니다. 예를 들어 위의 두 가지 예(_계정 제품 관심도 점수_ 및 _계정 웹 참여 점수_)를 사용합니다.
 >
->먼저 대상 계정의 각 잠재 고객의 관련 세부 정보를 캡처하는 잠재 고객 스코어 필드를 만듭니다.그런 다음 해당 리드 점수를 해당 계정 점수에 할당합니다.계정 제품 이자 점수 = SUM(잠재 고객 제품 이자 점수)계정 웹 참여 점수 = SUM(잠재 고객 웹 참여 점수)
+>먼저 대상 계정의 각 잠재 고객의 관련 세부 정보를 캡처하는 잠재 고객 스코어 필드를 만듭니다.
+>그런 다음 해당 리드 점수를 해당 계정 점수에 할당합니다.
+>계정 제품 이자 점수 = SUM(잠재 고객 제품 이자 점수)
+>계정 웹 참여 점수 = SUM(잠재 고객 웹 참여 점수)
 
 >[!NOTE]
 >

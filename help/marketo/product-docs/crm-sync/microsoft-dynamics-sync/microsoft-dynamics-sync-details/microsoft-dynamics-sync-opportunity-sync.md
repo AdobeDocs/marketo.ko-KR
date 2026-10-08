@@ -4,16 +4,21 @@ description: 영업 기회 동기화가 Microsoft Dynamics에서 Marketo으로 �
 title: Microsoft Dynamics 동기화 - 영업 기회 동기화
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/vDSWrvMSvAa2-XSn6A-lcZYaoWRjrtKwsLo1fJvPAkg
+TQID: 'https://experienceleague.adobe.com/vDSWrvMSvAa2-XSn6A-lcZYaoWRjrtKwsLo1fJvPAkg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 316
+source-wordcount: '316'
 ht-degree: 0%
-
 ---
-
 # [!DNL Microsoft Dynamics] 동기화: 영업 기회 동기화 {#microsoft-dynamics-sync-opportunity-sync}
 
 [!DNL Dynamics]에 대한 Marketo 동기화가 강력합니다. 다음은 영업 기회 동기화에 대한 모든 세부 정보입니다.
@@ -36,8 +41,8 @@ ht-degree: 0%
 
 * 영업 기회를 만드는 동안 연락처(연락할 양식의 조회 필드) 및/또는 계정(계산할 양식의 조회 필드)을 설정할 수 있습니다. 두 경우 모두 이 값은 Dynamics의 잠재적 고객(customerid) 필드에 저장됩니다. 이 필드는 Opportunity Form에 표시되지 않지만 설정에서 추가할 수 있습니다. 이 필드에는 연락처 또는 계정 중 하나의 값만 포함될 수 있습니다. Marketo은 다음을 수행합니다.
 
-   * 연락처 값이 설정되어 있고 계정을 비워 두면 Marketo은 `opportunitycontactrole`을(를) 만들고 기회에 대한 계정을 연락처 계정으로 설정합니다. 연락처에 계정이 없으면 이 필드를 비워 둡니다.
-   * 계정 값을 설정하고 연락처를 비워 두면 Marketo은 기회에 대한 계정만 이 계정에 설정합니다.
-   * 두 값이 모두 설정되면 Dynamics에서는 계정을 고객 ID의 값으로 선택하므로 동작은 위와 같습니다.
+  * 연락처 값이 설정되어 있고 계정을 비워 두면 Marketo은 `opportunitycontactrole`을(를) 만들고 기회에 대한 계정을 연락처 계정으로 설정합니다. 연락처에 계정이 없으면 이 필드를 비워 둡니다.
+  * 계정 값을 설정하고 연락처를 비워 두면 Marketo은 기회에 대한 계정만 이 계정에 설정합니다.
+  * 두 값이 모두 설정되면 Dynamics에서는 계정을 고객 ID의 값으로 선택하므로 동작은 위와 같습니다.
 
 * 이해 당사자를 통해: Dynamics는 연결을 사용하여 기회 생성 페이지에서 이해 당사자를 통해 연락하는 기회를 연결합니다. 이를 위해 모든 새 관련자에 대해 `opportunitycontactrole` 레코드가 만들어집니다.

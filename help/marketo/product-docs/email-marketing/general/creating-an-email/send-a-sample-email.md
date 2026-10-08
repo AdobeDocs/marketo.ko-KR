@@ -4,18 +4,23 @@ description: 실행 전에 샘플 이메일을 테스트 콘텐츠로 보내는 
 title: 샘플 이메일 보내기
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/Yvr5y1FFXhWZuE01GsIl0Jcnjhk5SffV2yo2hD156kA
+TQID: 'https://experienceleague.adobe.com/Yvr5y1FFXhWZuE01GsIl0Jcnjhk5SffV2yo2hD156kA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 327
+source-wordcount: '327'
 ht-degree: 8%
-
 ---
-
 # 샘플 이메일 보내기 {#send-a-sample-email}
 
 이메일 샘플을 빠르고 쉽게 보낼 수 있습니다. 다이내믹 콘텐츠 전자 메일을 보내려면 [다이내믹 콘텐츠로 전자 메일 미리 보기](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)를 참조하세요.
@@ -26,7 +31,7 @@ ht-degree: 8%
 
 ## 샘플 이메일 보내기 {#send-a-sample-email-1}
 
-1. 이메일을 찾아 선택합니다. **[!UICONTROL Email Actions]** 드롭다운을 클릭하고 **[!UICONTROL Send Sample]**&#x200B;를 선택합니다.
+1. 이메일을 찾아 선택합니다. **[!UICONTROL Email Actions]** 드롭다운을 클릭하고 **[!UICONTROL Send Sample]**를 선택합니다.
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
@@ -61,7 +66,7 @@ ht-degree: 8%
 
    >[!NOTE]
    >
-   >트리거 필드는 [전자 메일 스크립팅](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting)을 사용하는 경우에만 적용할 수 있습니다.
+   >트리거 필드는 [전자 메일 스크립팅](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)을 사용하는 경우에만 적용할 수 있습니다.
 
 ## 세그먼트를 기반으로 샘플 이메일 보내기 {#send-a-sample-email-based-on-a-segment}
 

@@ -1,22 +1,27 @@
 ---
 description: 흐름 단계를 통해 Microsoft Dynamics 캠페인에서 사람을 추가하거나 제거하는 방법을 알아봅니다. Marketo을 Dynamics 캠페인과 동기화합니다.
-title: ' [!DNL Dynamics] Campaign에서 사람 추가 또는 제거'
+title: '[!DNL Dynamics] 캠페인에서 사람 추가 또는 제거'
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/b6tUqixPGr7ZWTUKVg4L6EKryziHA2IwzpuTepWWEwU
+TQID: 'https://experienceleague.adobe.com/b6tUqixPGr7ZWTUKVg4L6EKryziHA2IwzpuTepWWEwU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Flow Step
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 324
+source-wordcount: '325'
 ht-degree: 0%
-
 ---
-
 # [!DNL Dynamics] 캠페인에서 사람 추가 또는 제거 {#add-or-remove-people-from-your-dynamics-campaign}
 
 ## Dynamics Campaign에 추가 {#add-to-dynamics-campaign}

@@ -4,13 +4,19 @@ description: 수익 모델 sla 단계를 사용하여 Marketo Engage에서 수�
 title: 수익 모델 SLA 단계 사용
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 4%
-
 ---
-
 # 수익 모델 SLA 단계 사용 {#using-revenue-model-sla-stages}
 
 SLA은 &quot;service level agreement&quot;의 약자입니다. 이러한 단계는 프로세스를 진행하거나 종료하기 전에 리드를 평가하거나 처리해야 하는 정의된 최대 시간이 있을 때 사용됩니다.

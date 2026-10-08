@@ -4,28 +4,40 @@ description: 기본 작업 영역에서 세그먼트를 생성하기 위한 제�
 title: 작업 영역 및 파티션 간 세분화 공유
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-TQID: https://experienceleague.adobe.com/fzHumE5x1Y5tSVjUUlHabe-cZgPC5jmqwtl4aLYhjDA
+TQID: 'https://experienceleague.adobe.com/fzHumE5x1Y5tSVjUUlHabe-cZgPC5jmqwtl4aLYhjDA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: b4e49ca2-9149-5443-90e6-11978bb87c2f
+    internal-label: Partitions
+  - id: fffc2f21-ba05-5d98-924c-16da987a5b69
+    internal-label: Workspaces
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 463
+source-wordcount: '463'
 ht-degree: 4%
-
 ---
-
 # 작업 영역 및 파티션 간 세분화 공유 {#share-segmentations-across-workspaces-and-partitions}
 
 >[!PREREQUISITES]
@@ -50,14 +62,14 @@ Marketo은 프로그램 또는 스마트 캠페인에 적합한 사용자를 식
 
 * 세그먼테이션 처리는 세그먼테이션이 만들어진 작업 공간의 사용자에게만 실행됩니다.
 
-   * 기본 Workspace 내에서 공유할 세그먼테이션을 만듭니다.
-      * 세분화 승인
-      * 공유 작업 영역에 잠긴 폴더가 표시되고 세그먼테이션은 읽기 전용입니다.
-      * 공유 버전은 편집할 수 없습니다. 만들어진 원래 세분화만 편집할 수 있습니다.
+  * 기본 Workspace 내에서 공유할 세그먼테이션을 만듭니다.
+    * 세분화 승인
+    * 공유 작업 영역에 잠긴 폴더가 표시되고 세그먼테이션은 읽기 전용입니다.
+    * 공유 버전은 편집할 수 없습니다. 만들어진 원래 세분화만 편집할 수 있습니다.
 
-   * 공유 세그멘테이션 내에서 세그먼트(예: 의료)를 클릭하면, 표시되는 사람은 사용자가 보고 있는 작업 영역과 연결된 파티션의 사람만 됩니다.
-      * WS1(Workspace 1)에서 세분화를 만들어 WS2와 공유하는 경우 WS1이 WS2용 파티션에 액세스할 수 없으면 세분화가 다시 계산되지 않습니다.
-      * 파티션이 제한된 작업 영역에서 세분화를 만든 다음 다른 작업 영역과 공유하는 경우 공유된 세분화를 수신한 작업 영역에는 겹치는 사람만 표시됩니다.
+  * 공유 세그멘테이션 내에서 세그먼트(예: 의료)를 클릭하면, 표시되는 사람은 사용자가 보고 있는 작업 영역과 연결된 파티션의 사람만 됩니다.
+    * WS1(Workspace 1)에서 세분화를 만들어 WS2와 공유하는 경우 WS1이 WS2용 파티션에 액세스할 수 없으면 세분화가 다시 계산되지 않습니다.
+    * 파티션이 제한된 작업 영역에서 세분화를 만든 다음 다른 작업 영역과 공유하는 경우 공유된 세분화를 수신한 작업 영역에는 겹치는 사람만 표시됩니다.
 
 >[!NOTE]
 >

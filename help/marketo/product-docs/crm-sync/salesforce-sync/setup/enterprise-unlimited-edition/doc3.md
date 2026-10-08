@@ -2,15 +2,22 @@
 description: 최종 Enterprise 또는 Unlimited 단계에서 Marketo 및 Salesforce을 연결하는 방법을 알아봅니다. 동기화 사용자 보안 토큰을 검색하고 Marketo 관리에서 자격 증명을 설정합니다.
 title: 3단계/3 - Marketo 및 Salesforce 연결(Enterprise/Unlimited)
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Salesforce Integration
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 8%
-
 ---
-
 # 3단계 중 3단계: Marketo와 Salesforce 연결 (엔터프라이즈/무제한) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 
 이 문서에서는 구성된 Salesforce 인스턴스와 동기화되도록 Marketo Engage을 구성합니다.

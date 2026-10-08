@@ -4,24 +4,32 @@ description: 스마트 목록 모범 사례에 대한 도움말을 봅니다. �
 title: 스마트 목록에 대한 모범 사례
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/Z1k--jj24QHIEThtPbj29i9FBhcEp0Hf9hBeZEgSP3w
+TQID: 'https://experienceleague.adobe.com/Z1k--jj24QHIEThtPbj29i9FBhcEp0Hf9hBeZEgSP3w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 592
+source-wordcount: '592'
 ht-degree: 2%
-
 ---
-
 # 스마트 목록에 대한 모범 사례 {#best-practices-for-smart-lists}
 
 스마트 목록은 마케팅 영역에서 가장 강력한 쿼리 도구입니다. 그들은 마법의 속도와 쉽게 찾고 있는 사람들을 찾습니다.
@@ -43,7 +51,7 @@ ht-degree: 2%
 1. **여러 값을 붙여 넣는 것이 좋습니다.** 다중 선택은 수십 개 또는 수백 개의 값을 붙여 넣도록 설계되었습니다. 그러나 너무 많이 넣으면 속도가 느려질 것이다.
 1. **제약 조건을 추가할 때 절약하십시오. -** 규칙과 관련 값의 작은 세부 정보입니다. 제한을 많이 추가할수록 처리 시간이 느려집니다.
 1. **캠페인을 단순화하세요.** 100개 이상의 독립 규칙을 처리하는 데 약간의 시간이 소요됩니다. 단순하게 유지하면 속도가 빨라지는 것을 알 수 있을 뿐만 아니라 쉽게 이해할 수 있습니다.
-1. **전자 메일 주소 필터를 사용할 때 도메인 이름 앞에 @ 기호를 포함합니다** **-** 이렇게 하면 더 빠른 쿼리를 사용할 수 있습니다. 예: _이메일에 &#39;somedomain.com&#39;_&#x200B;이 들어 있는 경우 대신 _이메일에 &#39;somedomain.com@somedomain3&rbrace;이 들어 있는 경우&#39;를 사용하십시오. &quot;포함&quot;이 있는 여러 이메일 주소를 사용하는 경우 모두 &quot;@&quot;으로 시작해야 합니다._
+1. **전자 메일 주소 필터를 사용할 때 도메인 이름 앞에 @ 기호를 포함합니다** **-** 이렇게 하면 더 빠른 쿼리를 사용할 수 있습니다. 예: _이메일에 &#39;somedomain.com&#39;_&#x200B;이 들어 있는 경우 대신 _이메일에 &#39;somedomain.com@somedomain3}이 들어 있는 경우&#39;를 사용하십시오. &quot;포함&quot;이 있는 여러 이메일 주소를 사용하는 경우 모두 &quot;@&quot;으로 시작해야 합니다._
 
 >[!TIP]
 >

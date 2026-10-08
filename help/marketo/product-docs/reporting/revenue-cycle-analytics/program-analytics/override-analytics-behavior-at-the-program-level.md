@@ -4,13 +4,19 @@ description: 분석 비헤이비어 재정의를 포함하여 Marketo Engage의 
 title: 프로그램 수준에서 분석 동작 재정의
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 9%
-
 ---
-
 # 프로그램 수준에서 분석 동작 재정의 {#override-analytics-behavior-at-the-program-level}
 
 [analytics 동작을 채널](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)의 관리자 수준에서 설정할 수 있지만 프로그램 수준에서 재정의할 수도 있습니다. 방법은 다음과 같습니다.

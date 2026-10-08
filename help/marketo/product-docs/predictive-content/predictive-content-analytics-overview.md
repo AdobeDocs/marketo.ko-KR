@@ -4,19 +4,22 @@ description: 상위 보기, 전환율, 트렌드 콘텐츠 및 제안을 위한 
 title: 예측 Content Analytics 개요
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E
+TQID: 'https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 338
+source-wordcount: '338'
 ht-degree: 2%
-
 ---
-
-# 예측 Content Analytics 개요 {#predictive-content-analytics-overview}
+# 예측 콘텐츠 분석 개요 {#predictive-content-analytics-overview}
 
 콘텐츠 분석을 사용하여 기존 콘텐츠에 대한 추가 통찰력을 얻고, AI 및 예측 알고리즘을 기반으로 한 콘텐츠가 대상자에게 어떤 영향을 미치는지 배우고, 마케팅 활동에서 ROI를 높일 수 있습니다.
 

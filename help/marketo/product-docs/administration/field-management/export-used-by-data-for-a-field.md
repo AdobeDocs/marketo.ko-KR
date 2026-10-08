@@ -4,20 +4,26 @@ description: 팀에 링크 해제를 위임할 수 있도록 필드를 사용하
 title: 필드의 사용 데이터 내보내기
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-TQID: https://experienceleague.adobe.com/-lH4WVAaXCGQAKT-8BeZm4cG5RD-MA1W9-4Ggzo1bOA
+TQID: 'https://experienceleague.adobe.com/-lH4WVAaXCGQAKT-8BeZm4cG5RD-MA1W9-4Ggzo1bOA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 99
+source-wordcount: '99'
 ht-degree: 28%
-
 ---
-
 # 필드의 사용 데이터 내보내기 {#export-used-by-data-for-a-field}
 
 관리자는 필드의 관련 에셋을 내보내 팀의 링크 해제를 위임할 수 있습니다.

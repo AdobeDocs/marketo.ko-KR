@@ -4,13 +4,19 @@ description: 프로그램 이해를 포함하여 Marketo Engage의 프로그램 
 title: 프로그램 멤버십 분석 영역 이해
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 12%
-
 ---
-
 # 프로그램 멤버십 분석 영역 이해 {#understanding-the-program-membership-analysis-area}
 
 프로그램 멤버십 분석 영역에서는 개별 프로그램의 효과를 분석하거나 채널별로 주어진 기간 동안 요약 결과를 확인할 수 있습니다.

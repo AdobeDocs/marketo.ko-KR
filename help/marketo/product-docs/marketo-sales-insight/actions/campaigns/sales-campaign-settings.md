@@ -3,16 +3,18 @@ description: 주말 건너뛰기, 바운스 시 제거 및 회신 동작을 포�
 title: 세일즈 캠페인 설정
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/tbl9d2EB2zRstu4eR0skifWv5CaIpd5-6lPR6fImkQ0
+TQID: 'https://experienceleague.adobe.com/tbl9d2EB2zRstu4eR0skifWv5CaIpd5-6lPR6fImkQ0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 219
+source-wordcount: '219'
 ht-degree: 9%
-
 ---
-
 # 세일즈 캠페인 설정 {#sales-campaign-settings}
 
 Sales Campaign 설정 섹션에서 특정 Sales Campaign 을 구성할 수 있으므로 해당 Sales Campaign에 대한 팀의 사용 사례에 가장 잘 부합하도록 할 수 있습니다.

@@ -4,16 +4,18 @@ description: 이메일, 호출, InMail 및 사용자 지정 작업 단계를 사
 title: 캠페인 만들기
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ljAuq-M-VyM-2PBuMSEfZykqjC1j-Dkctk3kQl-byII
+TQID: 'https://experienceleague.adobe.com/ljAuq-M-VyM-2PBuMSEfZykqjC1j-Dkctk3kQl-byII'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 306
+source-wordcount: '306'
 ht-degree: 3%
-
 ---
-
 # 캠페인 만들기 {#create-a-campaign}
 
 캠페인은 이메일, 전화, InMail 및 사용자 지정 작업 등 일련의 다중 채널 단계입니다. 이를 통해 잠재 고객 및 기존 고객과의 커뮤니케이션을 간소화할 수 있습니다.
@@ -39,7 +41,7 @@ Campaign을 어떻게 설정합니까?
    >
    >**[!UICONTROL Categories]** 옆에 있는 **+**&#x200B;을(를) 클릭하여 새 범주를 만듭니다.
 
-1. 선택한 범주가 선택됩니다. 마음이 바뀌면 드롭다운을 클릭하고 다른 드롭다운을 선택합니다. 완료되면 **[!UICONTROL &#x200B; Continue]**&#x200B;을(를) 클릭합니다.
+1. 선택한 범주가 선택됩니다. 마음이 바뀌면 드롭다운을 클릭하고 다른 드롭다운을 선택합니다. 완료되면 **[!UICONTROL  Continue]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/three-1.png)
 

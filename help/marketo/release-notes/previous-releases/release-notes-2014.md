@@ -1,35 +1,58 @@
 ---
-title: "2014"
+title: '2014'
 description: 2014년 - Marketo 문서 - 제품 설명서
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+    internal-label: Default programs
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 3274
+source-wordcount: '3275'
 ht-degree: 1%
-
 ---
-
 
 # 2014
 
@@ -325,7 +348,7 @@ GA([Google Analytics](/help/marketo/product-docs/web-personalization/reporting-f
 
 ## REST API의 목록 작업 {#list-operations-in-the-rest-api}
 
-ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. 전체 설명서는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)을(를) 참조하십시오.
+ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. 전체 설명서는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)을(를) 참조하십시오.
 
 * ID별 목록 가져오기
 * 여러 목록 가져오기
@@ -356,7 +379,7 @@ ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. �
 
 ## RTP: JavaScript API 개선 사항 {#rtp-javascript-api-enhancements}
 
-조직, 업계, 위치 및 세그먼트 코드 일치와 같은 실시간 방문자 데이터를 가져오기 위한 새로운 RTP API 호출입니다. 또한 세그먼트 페이지의 세그먼트 이름 위로 마우스를 가져가면 세그먼트 코드를 보여주는 도구 설명이 표시됩니다. 자세한 내용은 [개발자 사이트](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)를 참조하십시오.
+조직, 업계, 위치 및 세그먼트 코드 일치와 같은 실시간 방문자 데이터를 가져오기 위한 새로운 RTP API 호출입니다. 또한 세그먼트 페이지의 세그먼트 이름 위로 마우스를 가져가면 세그먼트 코드를 보여주는 도구 설명이 표시됩니다. 자세한 내용은 [개발자 사이트](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)를 참조하십시오.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
@@ -422,7 +445,7 @@ ReST의 목록 작업과 관련하여 아래에 호출을 추가했습니다. �
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
-## 향상된 1:1 세분화 및 타깃팅 {#enhanced-segmentation-and-targeting}
+## Enhanced 1:1 세그멘테이션 및 타깃팅 {#enhanced-segmentation-and-targeting}
 
 이제 알려진 방문자를 타깃팅하는 데 고급 필터 연산자를 사용할 수 있습니다.
 
@@ -469,7 +492,7 @@ API를 사용하여 잠재 고객에 대한 새 활동 또는 변경 사항을 �
 * 활동 유형 가져오기
 * 페이징 토큰 가져오기
 
-전체 세부 정보는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)에 릴리스된 후에 사용할 수 있습니다.
+전체 세부 정보는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)에 릴리스된 후에 사용할 수 있습니다.
 
 ## MSI - [!DNL Microsoft Dynamics]에 대한 Marketo 이메일 보내기 {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -509,7 +532,7 @@ API를 사용하여 잠재 고객에 대한 새 활동 또는 변경 사항을 �
 * 다음에 관심이 있는 제품
 * 본 RTP 캠페인
 
-자세한 내용을 보려면 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)을(를) 방문하십시오.
+자세한 내용을 보려면 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation)을(를) 방문하십시오.
 
 ## 2014년 12월 {#december}
 
@@ -525,7 +548,7 @@ API를 사용하여 잠재 고객에 대한 새 활동 또는 변경 사항을 �
 
 ## [!DNL Facebook]개의 사용자 지정 대상 {#facebook-custom-audiences}
 
-Marketo 관리자가 [!UICONTROL Admin] > [!UICONTROL LaunchPoint][&#128279;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)을(를) 통해 [!DNL Facebook] 을(를) 추가하면 [사용자 지정 대상을 쉽게 만들거나 업데이트하거나  [!DNL Facebook] Marketo 정적 또는 스마트 목록의 리드로 바꾸기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)할 수 있습니다. 정적 또는 스마트 목록의 잠재 고객 그리드 하단에서 새 [!DNL Facebook] 아이콘을 찾습니다.
+Marketo 관리자가 [!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)을(를) 통해 [[!DNL Facebook] 을(를) 추가하면 [사용자 지정 대상을 쉽게 만들거나 업데이트하거나  [!DNL Facebook] Marketo 정적 또는 스마트 목록의 리드로 바꾸기](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)할 수 있습니다. 정적 또는 스마트 목록의 잠재 고객 그리드 하단에서 새 [!DNL Facebook] 아이콘을 찾습니다.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -565,7 +588,7 @@ UTF-16, Shift-JIS 또는 EUC-JP로 인코딩된 [파일 가져오기](/help/mark
 
 · 잠재 고객 병합
 
-전체 세부 정보는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home)에 릴리스된 후에 사용할 수 있습니다.
+전체 세부 정보는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home)에 릴리스된 후에 사용할 수 있습니다.
 
 ## [!DNL Munchkin Javascript] 호환성 개선 사항 {#munchkin-javascript-compatibility-enhancements}
 

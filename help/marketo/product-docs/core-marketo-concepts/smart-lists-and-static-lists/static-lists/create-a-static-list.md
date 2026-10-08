@@ -4,18 +4,20 @@ description: Marketo에서 정적 목록을 만드는 방법을 알아봅니다.
 title: 정적 목록 만들기
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/UdROW8dxInfiSUH8SvY93hN1SQ1SdJXwLqb57l9TIjI
+TQID: 'https://experienceleague.adobe.com/UdROW8dxInfiSUH8SvY93hN1SQ1SdJXwLqb57l9TIjI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: '106'
 ht-degree: 15%
-
 ---
-
 # 정적 목록 만들기 {#create-a-static-list}
 
 정적 목록은 데이터베이스에 이미 있는 사람 그룹입니다.

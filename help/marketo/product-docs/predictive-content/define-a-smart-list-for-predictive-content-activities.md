@@ -4,20 +4,23 @@ description: 리치 미디어, 권장 사항 표시줄 및 이메일에 대한 �
 title: 예측 콘텐츠 활동에 대한 스마트 목록 정의
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/NX57nK4saXA9cBIvRvnmRneaCtcz45B4ta8ZcBp6F4k
+TQID: 'https://experienceleague.adobe.com/NX57nK4saXA9cBIvRvnmRneaCtcz45B4ta8ZcBp6F4k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 306
+source-wordcount: '306'
 ht-degree: 5%
-
 ---
-
 # 예측 콘텐츠 활동에 대한 스마트 목록 정의 {#define-a-smart-list-for-predictive-content-activities}
 
 스마트 캠페인에서 스마트 목록을 정의할 때 트리거 및 필터에서 예측 콘텐츠 활동을 사용할 수 있습니다. [리치 미디어 템플릿](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), [콘텐츠 추천 막대](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) 또는 [전자 메일](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)을 통해 예측 콘텐츠를 클릭하는 모든 사용자에 대해 작업을 트리거할 수 있습니다.

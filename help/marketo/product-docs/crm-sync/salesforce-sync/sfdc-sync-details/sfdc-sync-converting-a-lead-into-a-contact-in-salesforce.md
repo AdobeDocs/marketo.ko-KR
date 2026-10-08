@@ -4,16 +4,21 @@ description: Salesforce에서 잠재 고객을 연락처로 전환하면 어떻�
 title: SFDC 동기화 - Salesforce에서 리드를 연락처로 전환
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/Z5ApDpLvZhGu3-DeZHwQanilG1WILGFQF7VnDxQikr4
+TQID: 'https://experienceleague.adobe.com/Z5ApDpLvZhGu3-DeZHwQanilG1WILGFQF7VnDxQikr4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 163
+source-wordcount: '163'
 ht-degree: 0%
-
 ---
-
 # SFDC 동기화: [!DNL Salesforce]에서 잠재 고객을 연락처로 전환합니다. {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
 [!DNL Salesforce]에서 세 가지 시나리오를 상상해 보십시오. (Marketo에서 [개인 흐름 전환 단계](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)를 사용하지 않음)

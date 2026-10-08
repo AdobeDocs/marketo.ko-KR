@@ -2,13 +2,14 @@
 unique-page-id: 1147279
 description: 제품 설명서 - Marketo 설명서 - 제품 설명서
 title: 제품 설명서
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 25%
-
+source-wordcount: '170'
+ht-degree: 22%
 ---
-
 
 # 제품 설명서 {#product-docs}
 

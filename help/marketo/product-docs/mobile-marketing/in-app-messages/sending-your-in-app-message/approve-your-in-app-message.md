@@ -4,16 +4,18 @@ description: 인앱 메시지를 실행하도록 승인하는 방법을 알아�
 title: 인앱 메시지 승인
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/MODdLWOZwhG8ojcd1sZQdP9v-c9Jo8lKVngIvzJ4ZXs
+TQID: 'https://experienceleague.adobe.com/MODdLWOZwhG8ojcd1sZQdP9v-c9Jo8lKVngIvzJ4ZXs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 328
+source-wordcount: '328'
 ht-degree: 3%
-
 ---
-
 # 인앱 메시지 승인 {#approve-your-in-app-message}
 
 인앱 메시지가 나가기 전에 전송을 승인해야 합니다.

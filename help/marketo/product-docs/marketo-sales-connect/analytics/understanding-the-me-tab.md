@@ -4,16 +4,18 @@ description: Sales Connect의 내 탭 및 이메일 참여 상태를 이해합�
 title: '[!UICONTROL Me] 탭 이해'
 exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/22Ov2Hv4pabAUb7O-6OSA85Xrigdh5SZwnbWwjYGNcs
+TQID: 'https://experienceleague.adobe.com/22Ov2Hv4pabAUb7O-6OSA85Xrigdh5SZwnbWwjYGNcs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: '103'
 ht-degree: 0%
-
 ---
-
 # [!UICONTROL Me] 탭 이해 {#understanding-the-me-tab}
 
 [!UICONTROL Me] 탭에는 전자 메일 전송 수와 전자 메일 전송 활동이 있는 템플릿을 사용하여 보낸 전자 메일 수가 표시됩니다.

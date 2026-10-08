@@ -1,21 +1,27 @@
 ---
 unique-page-id: 10099389
 description: Microsoft Dynamics용 Marketo 플러그인 릴리스에 대해 알아봅니다. 버전 기록을 찾아 Dynamics 인스턴스에 대한 최신 Marketo 솔루션을 다운로드합니다.
-title: ' [!DNL Microsoft Dynamics]용 Marketo 플러그인 릴리스'
+title: '[!DNL Microsoft Dynamics]용 Marketo 플러그인 릴리스'
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/jz77p3iIGzpZFGrGPLoAFpz0b6EGllNwLc6g4Wj6G4g
+TQID: 'https://experienceleague.adobe.com/jz77p3iIGzpZFGrGPLoAFpz0b6EGllNwLc6g4Wj6G4g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 519
+source-wordcount: '519'
 ht-degree: 14%
-
 ---
-
 # [!DNL Microsoft Dynamics]용 Marketo 플러그인 릴리스 {#marketo-plugin-releases-for-microsoft-dynamics}
 
 [!DNL Microsoft Dynamics]에 처음 동기화하면 Marketo용 플러그인의 최신 버전을 다운로드합니다. Marketo은 이러한 플러그인을 정기적으로 업데이트하므로 동일한 위치로 돌아가서 새 버전을 다운로드할 수 있습니다.

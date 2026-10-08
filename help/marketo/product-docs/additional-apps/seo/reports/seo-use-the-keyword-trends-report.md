@@ -5,21 +5,25 @@ title: SEO - 키워드 트렌드 보고서 활용
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 hide: true
 feature: SEO
-TQID: https://experienceleague.adobe.com/sFmST5QmLhm-3VsbtIshZHlHa3leIm4EW2l9sWbdnCk
+TQID: 'https://experienceleague.adobe.com/sFmST5QmLhm-3VsbtIshZHlHa3leIm4EW2l9sWbdnCk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: e7f165cf-33cc-5c68-9025-558e655fec14
+    internal-label: SEO
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 264
+source-wordcount: '264'
 ht-degree: 7%
-
 ---
-
 # SEO - 키워드 트렌드 보고서 활용 {#seo-use-the-keyword-trends-report}
 
 키워드의 시간 경과에 따른 등급을 확인합니다.
@@ -28,10 +32,10 @@ ht-degree: 7%
 >
 >2026년 3월 31일, Marketo Engage [검색 엔진 최적화를 사용하지 않음](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"} 기능. [seo.marketo.com](https://seo.marketo.com/)은(는) 제한된 시간 동안 사용할 수 있습니다. 아래 문서의 단계에 따라 데이터를 내보냅니다.
 >
->* [내보내기 문제](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [키워드 결과 내보내기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [키워드 트렌드 내보내기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [경쟁업체 키워드 트렌드 내보내기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [내보내기 문제](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [키워드 결과 내보내기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [키워드 트렌드 내보내기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [경쟁업체 키워드 트렌드 내보내기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## 보고서 로드 {#load-report}
 

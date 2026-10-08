@@ -4,21 +4,28 @@ description: SOAP API 또는 Munchkin API 사용을 위해 모든 Marketo 필드
 title: 모든 Marketo API 필드 이름 목록 내보내기
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 feature: Field Management
-TQID: https://experienceleague.adobe.com/93yL3STgrennXhHWqiYmrk9ZbB7tI62xnPBnp87raBA
+TQID: 'https://experienceleague.adobe.com/93yL3STgrennXhHWqiYmrk9ZbB7tI62xnPBnp87raBA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 94
+source-wordcount: '94'
 ht-degree: 27%
-
 ---
-
 # 모든 Marketo API 필드 이름 목록 내보내기 {#export-a-list-of-all-marketo-api-field-names}
 
 [!DNL SOAP API] 또는 [!DNL Munchkin API]을(를) 사용하는 경우 모든 필드와 해당 API 이름의 목록이 필요합니다.

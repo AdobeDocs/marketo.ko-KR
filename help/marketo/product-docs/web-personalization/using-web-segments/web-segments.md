@@ -4,23 +4,28 @@ description: 모든 사용자 지정 항목을 표시하는 세그먼트 탭을 
 title: 웹 세그먼트
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ
+TQID: 'https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2041
+source-wordcount: '2041'
 ht-degree: 0%
-
 ---
-
 # 웹 세그먼트 {#web-segments}
 
 ## 세그먼트 보기 {#view-segment}
@@ -106,8 +111,8 @@ ht-degree: 0%
 * **세그먼트 규칙 논리:** AND/OR 논리를 선택하여 각 세그멘테이션 특성을 빌드합니다.
 * **타이밍:** 캠페인에 원하는 방문자 참여 수준을 정의합니다.
 
-   * **시작 시**: 방문자가 웹 사이트에 도착하는 경우 참여
-   * **첫 번째 - 9번째 클릭**: 웹 사이트에서 특정 클릭 수를 선택한 후 방문자와 연결합니다.
+  * **시작 시**: 방문자가 웹 사이트에 도착하는 경우 참여
+  * **첫 번째 - 9번째 클릭**: 웹 사이트에서 특정 클릭 수를 선택한 후 방문자와 연결합니다.
 
 >[!TIP]
 >
@@ -148,8 +153,8 @@ ht-degree: 0%
 
 * 다음 매개 변수 중에서 선택합니다.
 
-   * **[!UICONTROL Include]** - 캠페인에 위치를 포함할지 또는 제외할지 여부를 선택합니다.
-   * **[!UICONTROL Select country to add]** - 드롭다운 상자에서 세그먼트에 포함할 국가를 선택합니다. 국가 이름이 오른쪽에 나타납니다. 여러 국가를 선택할 수 있습니다.
+  * **[!UICONTROL Include]** - 캠페인에 위치를 포함할지 또는 제외할지 여부를 선택합니다.
+  * **[!UICONTROL Select country to add]** - 드롭다운 상자에서 세그먼트에 포함할 국가를 선택합니다. 국가 이름이 오른쪽에 나타납니다. 여러 국가를 선택할 수 있습니다.
 
 국가가 추가되면 세그먼트의 주, 도시 및 우편번호도 지정할 수 있습니다.
 
@@ -165,8 +170,8 @@ ht-degree: 0%
 
 * 다음 매개 변수 중에서 선택합니다.
 
-   * **[!UICONTROL Includes]** - 세그먼트에 산업을 포함할지 또는 제외할지 여부를 선택합니다.
-   * **[!UICONTROL Select Industries to add]** - 세그먼트에 포함할 산업을 선택합니다. 산업은 드롭다운 상자 아래에 나타납니다. 여러 업종을 선택할 수 있습니다.
+  * **[!UICONTROL Includes]** - 세그먼트에 산업을 포함할지 또는 제외할지 여부를 선택합니다.
+  * **[!UICONTROL Select Industries to add]** - 세그먼트에 포함할 산업을 선택합니다. 산업은 드롭다운 상자 아래에 나타납니다. 여러 업종을 선택할 수 있습니다.
 
 **조직 그룹**
 
@@ -174,11 +179,11 @@ ht-degree: 0%
 
 * 드롭다운 상자에서 다음 선택 사항 중에서 선택합니다.
 
-   * Fortune 500 - Fortune 500 기업만 이 세그먼트에 포함
-   * Fortune 1000 - Fortune 1000대 기업만 이 세그먼트에 포함
-   * Global 2000 - 이 세그먼트에 Global 2000 회사 포함
-   * 엔터프라이즈 - 1,000명 이상의 직원과 2억 5,000만 달러 이상의 매출을 보유한 조직 포함
-   * SMB - 이 세그먼트에 중소, 중견, 성장 기업만 포함
+  * Fortune 500 - Fortune 500 기업만 이 세그먼트에 포함
+  * Fortune 1000 - Fortune 1000대 기업만 이 세그먼트에 포함
+  * Global 2000 - 이 세그먼트에 Global 2000 회사 포함
+  * 엔터프라이즈 - 1,000명 이상의 직원과 2억 5,000만 달러 이상의 매출을 보유한 조직 포함
+  * SMB - 이 세그먼트에 중소, 중견, 성장 기업만 포함
 
 **명명된 계정-**
 
@@ -186,8 +191,8 @@ ht-degree: 0%
 
 * **이 회사(특정 이름)의 사용자임**
 
-   * &#39;추가할 회사 선택&#39; 드롭다운에서 타깃팅할 회사를 선택합니다.
-   * 타깃팅하려는 정확한 조직 이름을 입력할 수 있습니다. *이름을 수동으로 입력하는 대신 이름이 지정된 계정 목록을 사용하는 것이 좋습니다(*&#x200B;항상*)(아래 참조).
+  * &#39;추가할 회사 선택&#39; 드롭다운에서 타깃팅할 회사를 선택합니다.
+  * 타깃팅하려는 정확한 조직 이름을 입력할 수 있습니다. *이름을 수동으로 입력하는 대신 이름이 지정된 계정 목록을 사용하는 것이 좋습니다(*&#x200B;항상*)(아래 참조).
 
 **명명된 계정 목록**
 
@@ -197,7 +202,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->명명된 계정 목록 이름 옆에 있는 대괄호 안의 숫자는 웹 Personalization [API 읽기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/web-personalization)에 대한 목록에 대한 인덱스 참조로 사용됩니다.
+>명명된 계정 목록 이름 옆에 있는 대괄호 안의 숫자는 웹 Personalization [API 읽기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)에 대한 목록에 대한 인덱스 참조로 사용됩니다.
 
 **ISP 제외**
 
@@ -234,17 +239,17 @@ ht-degree: 0%
 
 ![](assets/image2015-5-27-17-3a23-3a2.png)
 
-### 동작 {#behavioral}
+### 행동 기반 {#behavioral}
 
 **[!UICONTROL Visits]-** 방문자 동작 또는 식별에 따라 세그먼트를 정의합니다.
 
 * 방문 횟수 - 웹 사이트의 잠재 고객에 대한 방문 횟수를 지정하려면 드롭다운 상자에서 이 옵션을 선택합니다.
 
-   * 드롭다운 상자에서 같음, 같음 또는 보다 큼 또는 같음 또는 보다 작음을 선택합니다.
+  * 드롭다운 상자에서 같음, 같음 또는 보다 큼 또는 같음 또는 보다 작음을 선택합니다.
 
 * 특정 방문 횟수 - 드롭다운 상자에서 이 옵션을 선택하여 특정 방문자를 지정합니다.
 
-   * 오른쪽 텍스트 상자에 추적할 방문자 번호를 입력합니다. 고유 [!DNL Web Personalization] 방문자 식별 번호는 방문자 페이지에서 방문자를 클릭하고 오른쪽 패널의 캠페인 설정을 클릭할 때 찾을 수 있습니다. 방문자 ID는 고급 설정 섹션에 있습니다. 방문자 ID는 URL에서도 찾을 수 있습니다(예: VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
+  * 오른쪽 텍스트 상자에 추적할 방문자 번호를 입력합니다. 고유 [!DNL Web Personalization] 방문자 식별 번호는 방문자 페이지에서 방문자를 클릭하고 오른쪽 패널의 캠페인 설정을 클릭할 때 찾을 수 있습니다. 방문자 ID는 고급 설정 섹션에 있습니다. 방문자 ID는 URL에서도 찾을 수 있습니다(예: VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **검색어** - 잠재 고객의 검색어에 따라 세그먼트를 정의합니다.
 
@@ -275,9 +280,9 @@ ht-degree: 0%
 * **방문자 유형**<br />
   **[!UICONTROL Mobile OS]** - 드롭다운 상자에서 나열된 하나 이상의 모바일 OS에서 선택합니다. 선택한 모바일 OS가 아래에 나타납니다.
 
-   * 방문자가 모바일 장치를 사용하고 있습니다
-   * 방문자가 이 특정 장치/OS를 사용하고 있습니다.
-   * 방문자가 모바일 장치를 사용하고 있지 않습니다
+  * 방문자가 모바일 장치를 사용하고 있습니다
+  * 방문자가 이 특정 장치/OS를 사용하고 있습니다.
+  * 방문자가 모바일 장치를 사용하고 있지 않습니다
 
 * **[!UICONTROL Device]** - 드롭다운 목록에서 하나 이상의 장치(Apple, Samsung, LG, HTC, Nexus, Blackberry 등)를 선택합니다. 선택한 장치가 아래에 나타납니다.
 
@@ -296,7 +301,7 @@ ht-degree: 0%
 
 **사용자 컨텍스트 API**
 
-웹 Personalization API 호출 [자세한 내용은 여기를 참조하십시오.](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+웹 Personalization API 호출 [자세한 내용은 여기를 참조하십시오.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

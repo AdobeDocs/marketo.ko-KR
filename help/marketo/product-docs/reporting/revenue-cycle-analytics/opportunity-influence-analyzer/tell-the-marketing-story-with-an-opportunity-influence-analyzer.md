@@ -4,13 +4,19 @@ description: Tell을 포함하여 Marketo Engage의 Opportunity Influence Analyz
 title: 기회 영향 분석기를 사용하여 마케팅 스토리 전달
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 2%
-
 ---
-
 # [!UICONTROL Opportunity Influence Analyzer]&#x200B;(으)로 마케팅 스토리 전달 {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
 [!UICONTROL Opportunity Influence Analyzer]을(를) 사용하여 중요한 기회에서 마케팅의 역할을 설명하십시오. 마케팅이 첫 번째 터치부터 영업 기회 창출 및 성공, 그 외 어떤 기회에 어떻게 영향을 미쳤는지 보여 줍니다.

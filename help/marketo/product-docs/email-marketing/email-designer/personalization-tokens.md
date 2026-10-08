@@ -7,23 +7,31 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
-TQID: https://experienceleague.adobe.com/2F6SP0sUvcScw0Y86X10nRTfL2b45krGTLeSi-td7Uc
+TQID: 'https://experienceleague.adobe.com/2F6SP0sUvcScw0Y86X10nRTfL2b45krGTLeSi-td7Uc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 263
+source-wordcount: '263'
 ht-degree: 1%
-
 ---
-
 # 개인화 토큰 {#personalization-tokens}
 
 이메일 디자이너는 이메일 개인화 토큰과 관련하여 클래식 이메일 편집기와 다른 형식을 갖습니다. 이 변경 사항은 Handlebar 스크립팅과의 호환성을 개선하고 이메일 작성 프로세스를 간소화하기 위해 구현되었습니다.
@@ -34,7 +42,7 @@ ht-degree: 1%
 
 ## 기본 사용 사례 {#primary-use-case}
 
-이 개선 사항은 주로 [Velocity 스크립팅](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting){target="_blank"}에서 Handlebar 스크립팅으로 전환하는 데 도움이 됩니다. 새 이메일 디자이너는 새 토큰 형식만 지원합니다. 업데이트된 형식은 공백을 제거하고 수정된 기본 텍스트 구조를 도입하여 더 유연하고 효율적인 스크립팅 환경을 보장합니다.
+이 개선 사항은 주로 [Velocity 스크립팅](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"}에서 Handlebar 스크립팅으로 전환하는 데 도움이 됩니다. 새 이메일 디자이너는 새 토큰 형식만 지원합니다. 업데이트된 형식은 공백을 제거하고 수정된 기본 텍스트 구조를 도입하여 더 유연하고 효율적인 스크립팅 환경을 보장합니다.
 
 ## 토큰 경험 {#token-experience}
 
@@ -56,7 +64,7 @@ ht-degree: 1%
 
 * 개인화 편집기에는 작성의 편의를 위해 다음 기능도 포함되어 있습니다.
 
-   * 실행 취소/다시 실행
-   * 찾기/찾기 및 바꾸기
+  * 실행 취소/다시 실행
+  * 찾기/찾기 및 바꾸기
 
 * 이전에 Marketo Engage에서 지원된 **모든** 토큰은 새 개인화 편집기에서 지원됩니다.

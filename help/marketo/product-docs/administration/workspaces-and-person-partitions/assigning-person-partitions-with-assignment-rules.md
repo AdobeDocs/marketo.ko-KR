@@ -1,24 +1,27 @@
 ---
 unique-page-id: 2360327
 description: CRM에서 올바른 개인 파티션으로 사람을 라우팅하는 할당 규칙을 설정하는 방법.
-title: 할당 규칙을 사용하여 개인 파티션 할당
+title: 할당 규칙을 사용하여 사용자 파티션 할당
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-TQID: https://experienceleague.adobe.com/7e7A0wXFiKVttSm7BXEJYtVBnSW6qAah1ygNqO4qdr0
+TQID: 'https://experienceleague.adobe.com/7e7A0wXFiKVttSm7BXEJYtVBnSW6qAah1ygNqO4qdr0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b4e49ca2-9149-5443-90e6-11978bb87c2f
+    internal-label: Partitions
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 160
+source-wordcount: '160'
 ht-degree: 13%
-
 ---
-
-# 할당 규칙을 사용하여 개인 파티션 할당 {#assigning-person-partitions-with-assignment-rules}
+# 할당 규칙을 사용하여 사용자 파티션 할당 {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >

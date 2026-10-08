@@ -3,18 +3,20 @@ description: 판매 이메일에 대한 자동 추가 구독 취소 메시지를
 title: 구독 취소 메시지 자동 추가 설정
 feature: Sales Insight Actions
 exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
-TQID: https://experienceleague.adobe.com/4iAq0-giVwuDcqaoi8QnLN35QO67RSlgHYXFYaUebZg
+TQID: 'https://experienceleague.adobe.com/4iAq0-giVwuDcqaoi8QnLN35QO67RSlgHYXFYaUebZg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 184
+source-wordcount: '184'
 ht-degree: 5%
-
 ---
-
 # 구독 취소 메시지 자동 추가 설정 {#auto-append-unsubscribe-message-setting}
 
 보낸 모든 Sales Insight Actions 이메일에 구독 취소 메시지가 포함되어 있으므로 수신자가 커뮤니케이션을 옵트아웃할 수 있는 간편한 옵션을 사용할 수 있습니다. 구독 취소 메시지 추가 가 활성화되면 웹 애플리케이션 및 Salesforce에서 전송된 이메일을 포함하여 Marketo Sales에서 팀이 보내는 모든 통신에 구독 취소 메시지가 포함됩니다.

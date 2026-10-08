@@ -3,16 +3,18 @@ description: Sales Insight 작업과 동기화되는 연락처가 없을 때 문
 title: 내 연락처가 Sales Insight Actions로 푸시되지 않는 이유는 무엇입니까?
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/sqY3p1-DNHlyMlHR-QfXOKd4GsKboMGTfA4jnHe9oSs
+TQID: 'https://experienceleague.adobe.com/sqY3p1-DNHlyMlHR-QfXOKd4GsKboMGTfA4jnHe9oSs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 92
+source-wordcount: '92'
 ht-degree: 13%
-
 ---
-
 # 내 연락처가 [!DNL Sales Insight Actions]&#x200B;(으)로 푸시되지 않는 이유는 무엇입니까? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions}
 
 연락처가 푸시되지 않은 경우 [!DNL Salesforce] 연결이 잘못되었을 수 있습니다. [[!DNL Salesforce] 설정](https://toutapp.com/login)&#x200B;(으)로 이동한 다음 연결을 끊고 다시 연결합니다. 완전히 재설정하는 데 20분 정도 소요됩니다. 그 후에도 여전히 0이면 Marketo 지원에 [서비스 케이스를 제출](https://nation.marketo.com/t5/Support/ct-p/Support#)하십시오.

@@ -4,16 +4,18 @@ description: Marketo에서 사용할 웨비나 이벤트를 ON24에서 만드는
 title: ON24에서 웨비나 이벤트 만들기
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 feature: Events
-TQID: https://experienceleague.adobe.com/AL7P-rJ2xl3x5FQh04FYTy8vY9IvVo-8gTOVpA0PXL0
+TQID: 'https://experienceleague.adobe.com/AL7P-rJ2xl3x5FQh04FYTy8vY9IvVo-8gTOVpA0PXL0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 183
+source-wordcount: '183'
 ht-degree: 6%
-
 ---
-
 # ON24에서 웨비나 이벤트 만들기 {#create-your-webinar-event-in-on}
 
 ON24에서 웨비나를 만든 후 Marketo 이벤트를 만들고 이를 ON24 웨비나와 연결할 수 있습니다. 이를 통해 시스템에서 등록 및 참석 정보를 공유할 수 있습니다. 확인 이메일 및 ICS 파일에 사용할 URL 및 기타 정보를 기록하십시오.

@@ -4,25 +4,32 @@ description: 사용자 목록 가져오기 - Marketo 설명서 - 제품 설명�
 title: 사용자 목록 가져오기
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/5iRoY4XVNB608Y3SxMYrALr4bhHGUl8zOk0gUtAdamc
+TQID: 'https://experienceleague.adobe.com/5iRoY4XVNB608Y3SxMYrALr4bhHGUl8zOk0gUtAdamc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 553
+source-wordcount: '553'
 ht-degree: 95%
-
 ---
-
 # 사용자 목록 가져오기 {#import-a-list-of-people}
 
 ## 미션: 무역 박람회 참석자 스프레드시트 목록을 데이터베이스로 가져오기 {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
@@ -47,7 +54,7 @@ ht-degree: 95%
    >
    >가져오는 모든 날짜/시간 필드는 중부 표준시로 처리됩니다. 다른 시간대의 날짜/시간 필드가 있는 경우 Excel 수식을 사용하여 중부 표준시(아메리카/시카고)로 변환할 수 있습니다.
 
-1. 자신의 이름, 성, 실제 이메일 주소(다음 미션에서 보낼 육성 이메일을 받을 수 있도록), 직책을 추가합니다. 파일을 컴퓨터에 저장합니다.
+1. 자신의 이름, 성, 실제 이메일 주소(다음 미션에서 보낼 육성용 이메일을 받을 수 있도록), 직책을 추가합니다. 파일을 컴퓨터에 저장합니다.
 
    ![](assets/import-a-list-of-people-2.png)
 

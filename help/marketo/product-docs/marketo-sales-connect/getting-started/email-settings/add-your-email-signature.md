@@ -4,16 +4,18 @@ description: Sales Connect에서 이메일 서명을 추가하는 방법을 알�
 title: 이메일 서명 추가
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/bmliIcsik0Hfq7QehDmGglIEgpOiBNQmsTrNHgx-7jM
+TQID: 'https://experienceleague.adobe.com/bmliIcsik0Hfq7QehDmGglIEgpOiBNQmsTrNHgx-7jM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 115
+source-wordcount: '115'
 ht-degree: 6%
-
 ---
-
 # 이메일 서명 추가 {#add-your-email-signature}
 
 Sales Connect에서 이메일을 보내면 이메일 클라이언트에서 이메일을 보낼 때 원활한 경험이 될 수 있습니다. 이렇게 하는 가장 좋은 방법은 전자 메일 서명을 추가하는 것입니다.

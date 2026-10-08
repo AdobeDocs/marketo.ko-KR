@@ -4,21 +4,26 @@ description: Marketo의 참여 프로그램, 스트림, 콘텐츠, 캐스트 및
 title: 참여 프로그램 이해
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE
+TQID: 'https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 290
+source-wordcount: '290'
 ht-degree: 87%
-
 ---
-
 # 참여 프로그램 이해 {#understanding-engagement-programs}
 
-참여 프로그램은 체계적인 방식으로 콘텐츠를 제시하여 새로운 사람에게 마케팅하도록 설계되었습니다.
+참여 프로그램은 새로운 사람들에게 체계적인 방식으로 콘텐츠를 제시하여 마케팅할 수 있도록 설계되었습니다.
 
 >[!NOTE]
 >

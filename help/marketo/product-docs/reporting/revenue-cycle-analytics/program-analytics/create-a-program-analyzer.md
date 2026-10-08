@@ -4,13 +4,19 @@ description: 프로그램 분석기 만들기를 사용하여 Marketo Engage에�
 title: 프로그램 분석기 만들기
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 1%
-
 ---
-
 # [!UICONTROL Program Analyzer] 만들기 {#create-a-program-analyzer}
 
 마케팅 비용 대비 가장 큰 효과를 제공하는 프로그램과 채널을 알아보십시오. 프로그램 분석기를 사용하여 프로그램 또는 채널별로 모든 비용과 수익을 자세히 검사하고 비교합니다.

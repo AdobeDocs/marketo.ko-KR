@@ -4,16 +4,18 @@ title: 답변 로깅
 hide: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Jar0L3yAreXg7V0yVY-fbX2kH-RFklO1jyVEBsindBI
+TQID: 'https://experienceleague.adobe.com/Jar0L3yAreXg7V0yVY-fbX2kH-RFklO1jyVEBsindBI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 261
+source-wordcount: '261'
 ht-degree: 2%
-
 ---
-
 # 답변 로깅 {#reply-logging}
 
 영업 Insight 액션은 잠재 고객의 답글을 [!DNL Salesforce]에 자동으로 기록하는 기능을 지원합니다. 이를 수행할 수 있는 구조는 이메일 회신 추적을 기반으로 합니다. 잠재 고객의 회신을 추적할 수 있는 경우 해당 회신을 [!DNL Salesforce]에 기록할 수 있습니다.

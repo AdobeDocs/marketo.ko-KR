@@ -5,18 +5,21 @@ title: SEO - 문제를 CSV로 내보내기
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 hide: true
 feature: SEO
-TQID: https://experienceleague.adobe.com/3YrTasIvX5GHEdWjIIdHQMEpwPcSJMg7-uLWRQIOtnk
+TQID: 'https://experienceleague.adobe.com/3YrTasIvX5GHEdWjIIdHQMEpwPcSJMg7-uLWRQIOtnk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e7f165cf-33cc-5c68-9025-558e655fec14
+    internal-label: SEO
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Optimization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 214
+source-wordcount: '214'
 ht-degree: 5%
-
 ---
-
 # SEO - 문제를 CSV로 내보내기 {#seo-export-issues-to-csv}
 
 Marketo 외부 사용자와 페이지 문제 데이터를 공유할 계획인 경우 CSV 파일로 내보내는 방법에 대해 알아보십시오.
@@ -25,10 +28,10 @@ Marketo 외부 사용자와 페이지 문제 데이터를 공유할 계획인 �
 >
 >2026년 3월 31일, Marketo Engage [검색 엔진 최적화를 사용하지 않음](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"} 기능. [seo.marketo.com](https://seo.marketo.com/)은(는) 제한된 시간 동안 사용할 수 있습니다. 아래 문서의 단계에 따라 데이터를 내보냅니다.
 >
->* [내보내기 문제](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [키워드 결과 내보내기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [키워드 트렌드 내보내기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [경쟁업체 키워드 트렌드 내보내기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [내보내기 문제](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [키워드 결과 내보내기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [키워드 트렌드 내보내기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [경쟁업체 키워드 트렌드 내보내기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. **[!UICONTROL Pages]** 섹션으로 이동합니다.
 

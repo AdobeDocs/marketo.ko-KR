@@ -4,18 +4,20 @@ description: Sales Connect의 동적 필드에 대해 알아봅니다. 이 용�
 title: 동적 필드 용어집
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/5cRospk9mWomxfUH-DWHLiWWT75TpolXq5sjHDknric
+TQID: 'https://experienceleague.adobe.com/5cRospk9mWomxfUH-DWHLiWWT75TpolXq5sjHDknric'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 253
+source-wordcount: '253'
 ht-degree: 3%
-
 ---
-
 # 동적 필드 용어집 {#dynamic-fields-glossary}
 
 [!DNL Sales Connect]에서 템플릿을 만들 때는 항상 **[!UICONTROL MSE Dynamic Fields]** 단추를 사용하여 동적 필드를 통합하는 것이 좋습니다.

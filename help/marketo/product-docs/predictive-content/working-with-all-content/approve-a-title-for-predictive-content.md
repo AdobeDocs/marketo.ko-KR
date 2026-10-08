@@ -4,16 +4,18 @@ description: 모든 콘텐츠 페이지 또는 콘텐츠 편집 팝업에서 예
 title: 예측 콘텐츠 제목 승인
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/3-hDzblZeRwe-GfwFAqz3dx7BVrJAl0rI0iS8moK8J4
+TQID: 'https://experienceleague.adobe.com/3-hDzblZeRwe-GfwFAqz3dx7BVrJAl0rI0iS8moK8J4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 140
+source-wordcount: '140'
 ht-degree: 12%
-
 ---
-
 # 예측 콘텐츠 제목 승인 {#approve-a-title-for-predictive-content}
 
 [!UICONTROL All Content] 페이지 또는 [!UICONTROL Edit Content] 팝업에서 승인하여 [!UICONTROL All Content] 페이지의 제목을 예측 콘텐츠에 추가할 수 있습니다.

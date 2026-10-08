@@ -4,18 +4,23 @@ description: 사용자 데이터를 Microsoft Dynamics에서 Marketo으로 동�
 title: Microsoft [!DNL Dynamics] 동기화 - 사용자 동기화
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/8H1bMdkhxcvyTuYtHHk00GUy4uycuQ1unsGbZ19AjCM
+TQID: 'https://experienceleague.adobe.com/8H1bMdkhxcvyTuYtHHk00GUy4uycuQ1unsGbZ19AjCM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 160
+source-wordcount: '161'
 ht-degree: 0%
-
 ---
-
 # Microsoft [!DNL Dynamics] 동기화: 사용자 동기화 {#microsoft-dynamics-sync-user-sync}
 
 Marketo은 전체 데이터베이스를 [!DNL Dynamics]과(와) 동기화합니다. 동기화한 후 5분을 기다린 후 다시 매일 하루 종일 동기화합니다. 다음은 Marketo에서 [!DNL Dynamics] 계정을 구체적으로 처리하는 방법에 대한 세부 정보입니다.

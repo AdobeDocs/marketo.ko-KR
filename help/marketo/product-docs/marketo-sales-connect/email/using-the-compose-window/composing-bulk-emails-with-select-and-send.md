@@ -4,18 +4,20 @@ description: Sales Connect에서 Select 및 Send를 사용하여 대량 이메�
 title: 선택 및 보내기 기능으로 일괄 이메일 작성
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NJX0blPhAaSvofC9LTI8tf1Qtt0BMF0NnfO-SHgFFX8
+TQID: 'https://experienceleague.adobe.com/NJX0blPhAaSvofC9LTI8tf1Qtt0BMF0NnfO-SHgFFX8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 404
+source-wordcount: '404'
 ht-degree: 3%
-
 ---
-
 # 선택 및 보내기 기능으로 일괄 이메일 작성 {#composing-bulk-emails-with-select-and-send}
 
 선택 및 보내기 옵션을 사용하여 이메일을 보내거나 편집하는 방법은 다음과 같습니다.

@@ -4,16 +4,18 @@ description: Sales Connect 플러그인이 Gmail에 표시되지 않을 때 도�
 title: Sales Connect 플러그인이 Gmail에 표시되지 않음
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UkapxaHCL5UbWjOLoFl21XNUXkx-WkbEdl--VjMOEOU
+TQID: 'https://experienceleague.adobe.com/UkapxaHCL5UbWjOLoFl21XNUXkx-WkbEdl--VjMOEOU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 156
+source-wordcount: '156'
 ht-degree: 5%
-
 ---
-
 # [!DNL Sales Connect] 플러그 인이 Gmail에 표시되지 않음 {#sales-connect-plugin-not-showing-up-in-gmail}
 
 경험에 따르면 도구 모음이 표시되지 않는 경우 몇 가지 시도를 해볼 수 있습니다.

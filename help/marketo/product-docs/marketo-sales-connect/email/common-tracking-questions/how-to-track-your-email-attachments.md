@@ -4,16 +4,18 @@ description: Sales Connect에서 이메일 첨부 파일을 추적하는 방법�
 title: 이메일 첨부 파일을 추적하는 방법
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-g1avRZcATkOU-nT6GhdcqTPi4mA4N58D2-1d6qKYbo
+TQID: 'https://experienceleague.adobe.com/-g1avRZcATkOU-nT6GhdcqTPi4mA4N58D2-1d6qKYbo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 163
+source-wordcount: '163'
 ht-degree: 7%
-
 ---
-
 # 이메일 첨부 파일을 추적하는 방법 {#how-to-track-your-email-attachments}
 
 [!DNL Sales Connect]에서 첨부 파일(.doc, .ppt, .pdf)에 대한 추적을 제공하므로 첨부 파일을 열거나 다운로드한 시점을 확인하고 받는 사람이 보고 있는 페이지를 확인할 수 있습니다. [웹 응용 프로그램](https://toutapp.com/login)과 Gmail(또는 Google 앱) 모두에서 추적 가능한 첨부 파일 기능을 사용할 수 있도록 허용합니다.

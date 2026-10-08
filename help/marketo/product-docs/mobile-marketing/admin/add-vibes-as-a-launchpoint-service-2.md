@@ -2,15 +2,19 @@
 description: Vibes as a LaunchPoint 서비스를 추가하는 방법을 알아봅니다. Marketo Engage에서 SMS를 활성화하고 SMS 활동을 사용하려면 관리자에 자격 증명을 입력하십시오.
 title: LaunchPoint 서비스로 Vibes 추가
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Mobile Marketing
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 11%
-
 ---
-
 # LaunchPoint 서비스로 Vibes 추가 {#add-vibes-as-a-launchpoint-service}
 
 SMS 활동을 활용하여 Marketo Engage 인스턴스에서 기본적으로 캠페인을 트리거하고 필터링함으로써 Vibes SMS 캠페인에 옵트인한 사람에게 SMS 메시지를 보낼 수 있습니다. 먼저 Vibes를 LaunchPoint 서비스로 추가해야 합니다.

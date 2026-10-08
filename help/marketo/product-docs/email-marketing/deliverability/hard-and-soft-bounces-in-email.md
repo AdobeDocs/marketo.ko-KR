@@ -4,18 +4,23 @@ description: 하드 및 소프트 바운스와 Marketo에서 이를 분류하는
 title: 이메일의 하드 및 소프트 바운스
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
-TQID: https://experienceleague.adobe.com/qr4rAdOWWg5dazZVztnoTUv6WJQE8Xpm2WKttjQaOOg
+TQID: 'https://experienceleague.adobe.com/qr4rAdOWWg5dazZVztnoTUv6WJQE8Xpm2WKttjQaOOg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 310
+source-wordcount: '310'
 ht-degree: 14%
-
 ---
-
 # 이메일의 하드 및 소프트 바운스 {#hard-and-soft-bounces-in-email}
 
 하드 바운스는 메일 서버가 사용자에게 이메일을 전달할 수 없다고 Marketo에 알릴 때 사용자의 이메일 주소를 무효화할 수 있습니다. 소프트 바운스는 사용자에게 이메일을 전달하는 데 문제가 있음을 의미합니다. 이 문제는 자동으로 해결되며 경우에 따라 며칠이 걸릴 수 있습니다. 하드 바운스와 소프트 바운스 모두 [여러 카테고리](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838)로 구성됩니다.

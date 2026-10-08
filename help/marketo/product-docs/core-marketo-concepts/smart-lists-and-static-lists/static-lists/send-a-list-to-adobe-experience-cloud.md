@@ -4,22 +4,27 @@ description: Adobe Experience Cloud에 목록을 보내는 방법을 알아봅�
 title: Adobe Experience Cloud로 목록 보내기
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c
+TQID: 'https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 819
+source-wordcount: '819'
 ht-degree: 3%
-
 ---
-
 # Adobe Experience Cloud로 목록 보내기 {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
@@ -65,7 +70,7 @@ ht-degree: 3%
 
 ## 동기화된 목록을 보내는 방법 {#how-to-send-a-synced-list}
 
-목록 동기화는 Marketo에서 목록을 업데이트할 때마다 해당 변경 사항이 Adobe Experience Cloud의 해당 대상자에게 자동으로 동기화됨을 의미합니다.
+목록 동기화는 Marketo에서 목록을 업데이트할 때마다 변경 사항이 자동으로 Adobe Experience Cloud의 해당 대상자로 동기화됨을 의미합니다.
 
 1. Marketo에서 내보낼 목록을 찾습니다. 마우스 오른쪽 단추를 클릭하고 **[!UICONTROL Send to Experience Cloud]**&#x200B;을(를) 선택합니다.
 
@@ -103,9 +108,9 @@ ht-degree: 3%
 
 ### Adobe Analytics에 공유 {#sharing-to-adobe-analytics}
 
-* Adobe Audience Manager과 Adobe Analytics을 모두 소유하는 사용자의 경우, 이 통합을 통해 대상을 Marketo에서 Adobe Analytics 보고서 세트로 공유할 수 있지만, 이를 활성화하기 위해 Adobe Audience Manager에서 수행해야 하는 몇 가지 추가 구성 단계가 있습니다. 설정 방법에 대한 자세한 내용은 [Adobe Audience Manager의 설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ko){target="_blank"}를 검토하십시오.
+* Adobe Audience Manager과 Adobe Analytics을 모두 소유하는 사용자의 경우, 이 통합을 통해 대상을 Marketo에서 Adobe Analytics 보고서 세트로 공유할 수 있지만, 이를 활성화하기 위해 Adobe Audience Manager에서 수행해야 하는 몇 가지 추가 구성 단계가 있습니다. 설정 방법에 대한 자세한 내용은 [Adobe Audience Manager의 설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}를 검토하십시오.
 
-* 목록이 Marketo에서 Adobe Audience Manager으로 업로드된 후 Adobe Target에서 액세스할 수도 있습니다. Adobe Target[&#128279;](https://experienceleague.adobe.com/ko/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}에서 해당 구성 을(를) 사용하도록 설정해야 합니다.
+* 목록이 Marketo에서 Adobe Audience Manager으로 업로드된 후 Adobe Target에서 액세스할 수도 있습니다. Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}에서 해당 구성 [을(를) 사용하도록 설정해야 합니다.
 
 * 목록이 비어 있거나 ECID 값을 가진 사용자가 없는 경우 Marketo 외부에서 참조하도록 목록 이름이 푸시되지 않습니다.
 

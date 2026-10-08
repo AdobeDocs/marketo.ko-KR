@@ -4,18 +4,21 @@ description: Sales Connect의 구독 취소에 대해 알아봅니다. Salesforc
 title: 구독 취소 개요
 exl-id: 3212d5be-07ea-47bd-874e-25d02513c23b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/oWYNQUFMIteRhrg21CLG62MZq-p9MM7x59nG8IvXmN8
+TQID: 'https://experienceleague.adobe.com/oWYNQUFMIteRhrg21CLG62MZq-p9MM7x59nG8IvXmN8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: '100'
 ht-degree: 4%
-
 ---
-
 # 구독 취소 개요 {#unsubscribe-overview}
 
 조직이 이메일 개인정보 보호법을 준수하는 것이 점점 더 중요해지고 있습니다. 이를 위해 구독 취소 경험을 일부 개선했습니다.

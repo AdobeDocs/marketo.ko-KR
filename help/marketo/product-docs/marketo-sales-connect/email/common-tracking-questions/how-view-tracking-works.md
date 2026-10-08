@@ -4,16 +4,18 @@ description: Sales Connect에서 보기 추적이 작동하는 방식을 이해�
 title: 보기 추적 작동 방식
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ZhM38XC2nxZuvt7-HFX9JfXW2abdbGHBYOwrmg-pMmg
+TQID: 'https://experienceleague.adobe.com/ZhM38XC2nxZuvt7-HFX9JfXW2abdbGHBYOwrmg-pMmg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '122'
 ht-degree: 6%
-
 ---
-
 # 보기 추적 작동 방식 {#how-view-tracking-works}
 
 보내는 이메일 내에 보이지 않는 이미지를 배치하여 이메일 열림을 추적합니다.

@@ -4,18 +4,20 @@ description: Sales Connect의 People 페이지에서 일괄 작업을 사용하�
 title: 사용자에 대한 일괄 작업
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/QtKi9nvrLTAONooRnJvOy2fmB2yg0pp03gwGNq7dLpQ
+TQID: 'https://experienceleague.adobe.com/QtKi9nvrLTAONooRnJvOy2fmB2yg0pp03gwGNq7dLpQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: 89c58ba282b1b778d49843bcaa8827ffd0d5fef5
+    internal-label: Database
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 156
+source-wordcount: '156'
 ht-degree: 7%
-
 ---
-
 # 사용자에 대한 일괄 작업 {#bulk-actions-on-people}
 
 시간을 절약하기 위해 연락처를 대량으로 사용하여 수행할 수 있는 몇 가지 작업이 있습니다.

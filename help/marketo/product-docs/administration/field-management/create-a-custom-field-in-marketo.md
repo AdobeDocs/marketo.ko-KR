@@ -4,21 +4,28 @@ description: Marketo Engage에서 사람 또는 회사의 데이터를 저장하
 title: Marketo에서 사용자 정의 필드 만들기
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-TQID: https://experienceleague.adobe.com/xdG07VzIcNYcqCsR3wfXHTGE07nsLYAvbM8QZZJf0oo
+TQID: 'https://experienceleague.adobe.com/xdG07VzIcNYcqCsR3wfXHTGE07nsLYAvbM8QZZJf0oo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 191
+source-wordcount: '191'
 ht-degree: 14%
-
 ---
-
 # Marketo에서 사용자 정의 필드 만들기 {#create-a-custom-field-in-marketo}
 
 Marketo Engage에서 사용자 정의 필드를 만들어 데이터를 저장하고 캡처하는 방법을 알아봅니다.
@@ -39,7 +46,7 @@ Marketo Engage에서 사용자 정의 필드를 만들어 데이터를 저장하
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
-1. _[!UICONTROL Object]_&#x200B;선택.
+1. _[!UICONTROL Object]_선택.
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
@@ -47,7 +54,7 @@ Marketo Engage에서 사용자 정의 필드를 만들어 데이터를 저장하
    >
    >_회사_ 개체를 직접 선택할 수는 없지만 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 연락하여 요청할 수 있습니다.
 
-1. 필드 _[!UICONTROL Type]_&#x200B;을(를) 선택합니다. 이렇게 하면 Marketo의 스마트 목록 및 양식에서 렌더링되는 방법이 변경됩니다.
+1. 필드 _[!UICONTROL Type]_을(를) 선택합니다. 이렇게 하면 Marketo의 스마트 목록 및 양식에서 렌더링되는 방법이 변경됩니다.
 
    >[!TIP]
    >
@@ -55,7 +62,7 @@ Marketo Engage에서 사용자 정의 필드를 만들어 데이터를 저장하
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. Marketo에 표시할 _[!UICONTROL Name]_&#x200B;을(를) 입력하십시오(_[!UICONTROL API Name]_&#x200B;이(가) 자동으로 생성됨). 저장한 후에는 이름을 바꿀 수 없으므로 신중하게 선택합니다. 완료되면 **[!UICONTROL Create]**&#x200B;를 클릭합니다.
+1. Marketo에 표시할 _[!UICONTROL Name]_을(를) 입력하십시오(_[!UICONTROL API Name]_&#x200B;이(가) 자동으로 생성됨). 저장한 후에는 이름을 바꿀 수 없으므로 신중하게 선택합니다. 완료되면 **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
 >[!CAUTION]
 >

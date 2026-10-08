@@ -3,16 +3,18 @@ description: 서버 또는 방화벽에서 Sales Insight 작업 허용 목록 �
 title: 내 서버에서 Sales Insight Actions를 허용 목록에 추가하려면 어떻게 해야 합니까?
 exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/9iY4BRyowe9c-BPQOVMIMDEGkLIp-FV3h-kyvVtRmi4
+TQID: 'https://experienceleague.adobe.com/9iY4BRyowe9c-BPQOVMIMDEGkLIp-FV3h-kyvVtRmi4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 77
+source-wordcount: '77'
 ht-degree: 12%
-
 ---
-
 # 내 서버에서 [!DNL Sales Insight Actions]을(를) 어떻게 허용 목록 할 수 있습니까? {#how-can-i-allowlist-sales-insight-actions-on-my-server}
 
 안타깝게도 고정 IP 주소 하나를 제공할 방법은 없습니다. [!DNL Sales Insight Actions]은(는) 클라우드에 배포되고 200개 이상의 서버를 사용하여 전자 메일과 사용자 요청을 처리합니다. 그리고 매우 광범위한 범위를 제공하는 것은 더 이상 안전하지 않을 것입니다.

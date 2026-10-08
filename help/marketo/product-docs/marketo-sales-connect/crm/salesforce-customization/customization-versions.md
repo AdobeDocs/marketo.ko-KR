@@ -4,16 +4,18 @@ description: Salesforce용 Sales Connect 사용자 정의 버전에 대해 알�
 title: 사용자 정의 버전
 exl-id: 4ca3e330-0d3f-428b-a2a4-19bce63ca08c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-F9r5sTkTh8-MzNPar6fpT1q2zxeIPp-q3LtR16ML5I
+TQID: 'https://experienceleague.adobe.com/-F9r5sTkTh8-MzNPar6fpT1q2zxeIPp-q3LtR16ML5I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 76
+source-wordcount: '76'
 ht-degree: 5%
-
 ---
-
 # 사용자 정의 버전 {#customization-versions}
 
 다음은 [!DNL Salesforce]의 Marketo Sales Connect 사용자 지정에 대한 업데이트에 대한 세부 정보입니다.

@@ -1,13 +1,14 @@
 ---
 description: 판매 이메일이 스팸으로 표시되면 도움을 받습니다. 전달성을 개선하고 스팸 필터를 방지하는 원인과 단계를 알아봅니다.
 title: 스팸으로 표시된 이메일
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 3%
-
 ---
-
 # 스팸으로 표시된 이메일 {#email-marked-as-spam}
 
 회사로서는 전달률이 높게 유지되도록 열심히 노력하고 있습니다. 여전히, 보낸 이메일이 스팸 폴더로 라우팅되도록 트리거할 수 있는 특정 사용자 비헤이비어 및 설정이 있습니다.

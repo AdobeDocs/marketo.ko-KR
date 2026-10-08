@@ -4,21 +4,25 @@ description: Salesforce Enterprise/Unlimited Editions에서 Marketo Sales Insigh
 title: Salesforce Enterprise/Unlimited에서 Marketo Sales Insight 구성
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/Dhc6WFTsED3JZMqeDobufqLCCrMAp6x5t3aAa-rLmVA
+TQID: 'https://experienceleague.adobe.com/Dhc6WFTsED3JZMqeDobufqLCCrMAp6x5t3aAa-rLmVA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 853
+source-wordcount: '853'
 ht-degree: 2%
-
 ---
-
 # [!DNL Salesforce] Enterprise/Unlimited에서 [!DNL Marketo Sales Insight] 구성 {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
 
 다음 단계를 완료하여 Salesforce Enterprise/Unlimited 버전에서 Marketo Sales Insight을 구성합니다.
@@ -49,7 +53,7 @@ ht-degree: 2%
    >
    >API 비밀 키는 조직의 암호와 같으며 안전해야 합니다.
 
-1. 자격 증명을 채우려면 _[!UICONTROL Rest API Configuration]_&#x200B;패널에서&#x200B;**[!UICONTROL View]**&#x200B;을(를) 클릭합니다.
+1. 자격 증명을 채우려면 _[!UICONTROL Rest API Configuration]_패널에서&#x200B;**[!UICONTROL View]**을(를) 클릭합니다.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4.png)
 
@@ -89,7 +93,7 @@ ht-degree: 2%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. 원격 사이트 이름을 입력하십시오(`MarketoSoapAPI`과(와) 비슷할 수 있습니다). Marketo Engage의 _[!UICONTROL Soap API Configuration]_&#x200B;패널에서 Marketo 호스트 URL인 원격 사이트 URL을 입력합니다.**[!UICONTROL Save]**&#x200B;를 클릭합니다. 이제 Soap API에 대한 원격 사이트 설정을 만들었습니다.
+1. 원격 사이트 이름을 입력하십시오(`MarketoSoapAPI`과(와) 비슷할 수 있습니다). Marketo Engage의 _[!UICONTROL Soap API Configuration]_패널에서 Marketo 호스트 URL인 원격 사이트 URL을 입력합니다.**[!UICONTROL Save]**를 클릭합니다. 이제 Soap API에 대한 원격 사이트 설정을 만들었습니다.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -97,7 +101,7 @@ ht-degree: 2%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. 원격 사이트 이름을 입력하십시오(`MarketoAPI`과(와) 비슷할 수 있습니다). Marketo Engage의 _[!UICONTROL Rest API Configuration]_&#x200B;패널에서 가져온 API URL인 원격 사이트 URL을 입력합니다.**[!UICONTROL Save]**&#x200B;를 클릭합니다. 이제 Rest API에 대한 원격 사이트 설정을 만들었습니다.
+1. 원격 사이트 이름을 입력하십시오(`MarketoAPI`과(와) 비슷할 수 있습니다). Marketo Engage의 _[!UICONTROL Rest API Configuration]_패널에서 가져온 API URL인 원격 사이트 URL을 입력합니다.**[!UICONTROL Save]**를 클릭합니다. 이제 Rest API에 대한 원격 사이트 설정을 만들었습니다.
 
    >[!NOTE]
    >
@@ -117,7 +121,7 @@ Salesforce 보안 향상으로 인해 AppExchange 패키지는 더 이상 표준
 
 1. Salesforce 사용자가 사용 중인 프로필 옆의 **[!UICONTROL Edit]**&#x200B;을(를) 클릭합니다.
 
-1. _[!UICONTROL Standard Object Permission]_&#x200B;섹션에서 [!UICONTROL Lead], [!UICONTROL Contact], [!UICONTROL Account] 및 [!UICONTROL Opportunity] 개체에 대해&#x200B;**[!UICONTROL Read]**&#x200B;액세스를 사용하도록 설정합니다.
+1. _[!UICONTROL Standard Object Permission]_섹션에서 [!UICONTROL Lead], [!UICONTROL Contact], [!UICONTROL Account] 및 [!UICONTROL Opportunity] 개체에 대해&#x200B;**[!UICONTROL Read]**액세스를 사용하도록 설정합니다.
 
 1. **[!UICONTROL Save]**&#x200B;를 클릭합니다.
 
@@ -131,7 +135,7 @@ Salesforce 보안 향상으로 인해 AppExchange 패키지는 더 이상 표준
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. 왼쪽의 **[!UICONTROL Visualforce Pages]**&#x200B;을(를) 클릭합니다. **[!UICONTROL Section]**&#x200B;을(를) _[!UICONTROL Custom Links]_&#x200B;섹션 아래의 레이아웃으로 끕니다.
+1. 왼쪽의 **[!UICONTROL Visualforce Pages]**&#x200B;을(를) 클릭합니다. **[!UICONTROL Section]**&#x200B;을(를) _[!UICONTROL Custom Links]_섹션 아래의 레이아웃으로 끕니다.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 

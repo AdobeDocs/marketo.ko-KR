@@ -3,16 +3,21 @@ description: 방문자가 예약한 약속이 표시되는 Dynamic Chat 모임 �
 title: 회의 목록
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-TQID: https://experienceleague.adobe.com/LFu75o-grfMTvl53VsQZ22pVPw9g2eyO-POBoQ1o7Qc
+TQID: 'https://experienceleague.adobe.com/LFu75o-grfMTvl53VsQZ22pVPw9g2eyO-POBoQ1o7Qc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 131
+source-wordcount: '131'
 ht-degree: 18%
-
 ---
-
 # 회의 목록 {#meeting-list}
 
 캘린더는 다양한 대화 상자를 통해 웹 사이트 방문자가 예약한 모든 약속을 볼 수 있는 곳입니다. 여기에서 약속을 예약한 사람의 이메일 주소, 예약한 상담원의 이메일 주소, 약속 발생 시기 및 예약된 회의 시간이 경과되었는지 여부를 확인할 수 있습니다.

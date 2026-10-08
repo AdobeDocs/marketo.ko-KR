@@ -4,16 +4,21 @@ description: 이메일의 HTML을 직접 편집하는 방법을 알아봅니다.
 title: 이메일의 HTML 편집
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/2le08a9sTBmn-jV6KfW-OzXJg-7MKlfbZM5kPdZ-3WM
+TQID: 'https://experienceleague.adobe.com/2le08a9sTBmn-jV6KfW-OzXJg-7MKlfbZM5kPdZ-3WM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 346
+source-wordcount: '346'
 ht-degree: 4%
-
 ---
-
 # 이메일의 HTML 편집 {#edit-an-emails-html}
 
 이메일의 기본 HTML을 수정해야 하는 경우가 있습니다. 때때로 외부 시스템을 사용하여 이메일 코드를 디자인하고 빌드할 수 있습니다. 어느 방식이든 이메일 편집기 내에서 코드를 쉽게 가져오거나 편집할 수 있습니다.

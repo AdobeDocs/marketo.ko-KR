@@ -3,16 +3,18 @@ description: 명령 센터에서 팀 구성원에게 작업을 할당하는 방�
 title: 팀원에게 작업 할당
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/izMi9cHZRxRfGEHwUdNzkM5Y5CGnigs6EbgNWh-rI4c
+TQID: 'https://experienceleague.adobe.com/izMi9cHZRxRfGEHwUdNzkM5Y5CGnigs6EbgNWh-rI4c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 127
+source-wordcount: '127'
 ht-degree: 8%
-
 ---
-
 # 팀원에게 작업 할당 {#assigning-tasks-to-team-members}
 
 다른 팀 구성원과 공동 작업을 하고자 하는 경우 작업 할당은 향후 작업을 조율하는 좋은 방법이 될 수 있습니다.

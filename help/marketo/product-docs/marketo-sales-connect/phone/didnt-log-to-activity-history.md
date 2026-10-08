@@ -4,16 +4,18 @@ description: Sales Connect 활동이 Salesforce 활동 내역에 기록되지 �
 title: 활동 기록에 기록되지 않음
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/QqpAt-XEbi8Oa0tme6UF5uNHpVwFzcQgj-0MHwna5BA
+TQID: 'https://experienceleague.adobe.com/QqpAt-XEbi8Oa0tme6UF5uNHpVwFzcQgj-0MHwna5BA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 96
+source-wordcount: '96'
 ht-degree: 10%
-
 ---
-
 # 활동 기록에 기록되지 않음 {#didnt-log-to-activity-history}
 
 [!DNL Salesforce]에 대한 통화 기록이 표시되지 않는 이유는 [!DNL Salesforce]에서 잠재 고객/연락처를 찾을 수 없기 때문일 수 있습니다.

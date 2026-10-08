@@ -1,25 +1,30 @@
 ---
 unique-page-id: 7511512
 description: Salesforce Mobile(Salesforce1)에서 Marketo Sales Insight을 설치하고 구성하는 방법에 대해 알아봅니다. 모바일 장치에서 MSI를 사용합니다.
-title: Salesforce1에 Marketo Sales Insight 설치 및 구성
+title: Salesforce1에 Marketo 영업 인사이트 설치 및 구성
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/79BKa7swATbNiThcaosQIdgH4TiW54jnlT22HDVRf0s
+TQID: 'https://experienceleague.adobe.com/79BKa7swATbNiThcaosQIdgH4TiW54jnlT22HDVRf0s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 288
+source-wordcount: '288'
 ht-degree: 7%
-
 ---
-
 # [!DNL Salesforce1]에서 [!DNL Marketo Sales Insight] 설치 및 구성 {#install-and-configure-marketo-sales-insight-in-salesforce}
 
 >[!NOTE]
@@ -42,7 +47,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->[!DNL Salesforce1]의 [!DNL Marketo Sales Insight]에는 [!DNL B최고의 베팅], 리드 피드, 즐거운 순간 및 Marketo 캠페인에 추가 기능이 포함됩니다.
+>[!DNL Salesforce1]의 [!DNL Marketo Sales Insight]에는 [!DNLB최고의 베팅], 리드 피드, 즐거운 순간 및 Marketo 캠페인에 추가 기능이 포함됩니다.
 
 ## [!DNL Salesforce1] 모바일 앱 사용 {#enable-the-salesforce1-mobile-app}
 

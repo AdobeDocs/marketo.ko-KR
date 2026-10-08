@@ -4,18 +4,23 @@ description: Marketo에서 자유 형식 랜딩 페이지에 대한 모바일 �
 title: 자유 형식 랜딩 페이지에 모바일 보기 추가
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/LG5T0Wbo05-MpqhFgcBWsvj9mZsLwVc4iSsaJmvWfOQ
+TQID: 'https://experienceleague.adobe.com/LG5T0Wbo05-MpqhFgcBWsvj9mZsLwVc4iSsaJmvWfOQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 140
+source-wordcount: '140'
 ht-degree: 20%
-
 ---
-
 # 자유 형식 랜딩 페이지에 모바일 보기 추가 {#add-a-mobile-view-for-your-free-form-landing-page}
 
 자유 형식의 랜딩 페이지를 최적화하여 스마트폰에 제대로 표시할 수 있습니다.

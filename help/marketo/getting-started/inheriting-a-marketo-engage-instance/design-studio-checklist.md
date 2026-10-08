@@ -3,13 +3,17 @@ description: 상속된 인스턴스 Design Studio 검사 목록 - Marketo 문서
 title: 상속된 인스턴스 Design Studio 검사 목록
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '656'
 ht-degree: 3%
-
 ---
-
 # 상속된 인스턴스: 디자인 스튜디오 체크리스트 {#inherited-instance-design-studio-checklist}
 
 템플릿을 구조화하고 글로벌 양식, 코드 조각, 이미지 및 파일을 만들면 데이터 오류를 최소화하고 프로그램 빌드의 워크플로를 간소화할 수 있습니다. [확인 목록을 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)하고 진행 상황을 추적하는 것이 좋습니다.
@@ -25,7 +29,7 @@ ht-degree: 3%
   <tr>
    <td>전역 랜딩 페이지</td>
    <td><li>몇 개의 전역 <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">랜딩 페이지</a>가 있습니까? 프로그램에서 사용하고 있습니까?</li>
-   <li><a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=ko" target="_blank">구독 센터</a>를 설정했습니까?
+   <li><a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">구독 센터</a>를 설정했습니까?
    <br/> 그렇지 않으면 새로 만드는 것이 좋습니다.</li></td>
   </tr>
   <tr>

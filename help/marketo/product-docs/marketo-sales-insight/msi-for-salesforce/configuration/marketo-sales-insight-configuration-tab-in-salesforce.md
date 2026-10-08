@@ -4,20 +4,23 @@ description: Salesforce의 Marketo Sales Insight 구성 탭에 대해 알아봅�
 title: Salesforce의 Marketo Sales Insight 구성 탭
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ
+TQID: 'https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 626
+source-wordcount: '626'
 ht-degree: 1%
-
 ---
-
 # [!DNL Salesforce]의 [!DNL Marketo Sales Insight] 구성 탭 {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## 운영 설정 {#operational-settings}
@@ -38,8 +41,8 @@ SFDC에서 [!DNL Sales Insight]을(를) 사용하려면 이 설정을 해야 합
 **Visualforce 페이지 설정**
 
 * 작업 활성화 드롭다운:
-   * 리드 및 연락처 MSI 레이아웃에서 Marketo 이메일 보내기 드롭다운을 숨기는 기능
-   * 리드 및 연락처 MSI 레이아웃에서 Marketo Campaign에 추가 옵션을 드롭다운에서 숨기는 기능
+  * 리드 및 연락처 MSI 레이아웃에서 Marketo 이메일 보내기 드롭다운을 숨기는 기능
+  * 리드 및 연락처 MSI 레이아웃에서 Marketo Campaign에 추가 옵션을 드롭다운에서 숨기는 기능
 * 예정된 이벤트: 초대된 이벤트, 모든 이벤트를 사용자에게 표시하거나 이 탭을 완전히 숨기는 기능
 * 예정된 캠페인: 모든 이메일 캠페인을 표시하거나 이 탭을 완전히 숨기는 기능
 * 예정된 캠페인 및 이벤트 로드: 온디맨드 &quot;예정된 항목 로드&quot; 버튼 뒤에 이벤트 및 캠페인 탭을 배치하여 사용자의 Rest API 호출 수를 줄이는 기능

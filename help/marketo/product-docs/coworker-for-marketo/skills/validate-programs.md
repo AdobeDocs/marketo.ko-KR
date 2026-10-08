@@ -1,7 +1,10 @@
 ---
 description: 이메일, 랜딩 페이지, 캠페인 등 모든 구성 요소에서 모범 사례를 감사하는 방법을 알아봅니다.
 title: 프로그램 유효성 검사
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

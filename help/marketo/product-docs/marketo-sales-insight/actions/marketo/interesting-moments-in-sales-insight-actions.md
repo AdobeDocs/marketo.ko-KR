@@ -3,16 +3,18 @@ description: Sales Insight Actions 의 흥미로운 순간에 대해 알아봅�
 title: Sales Insight Actions의 즐거운 순간
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/--be0j0yB-bSIgIqwXzBN2tIXb715oyun3RNqPj5-F0
+TQID: 'https://experienceleague.adobe.com/--be0j0yB-bSIgIqwXzBN2tIXb715oyun3RNqPj5-F0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 243
+source-wordcount: '243'
 ht-degree: 2%
-
 ---
-
 # [!DNL Sales Insight Actions]의 즐거운 순간 {#interesting-moments-in-sales-insight-actions}
 
 흥미로운 순간은 [!DNL Marketo Sales Insight Actions]을(를) 통해 영업팀과 통신하는 데 중요한 부분입니다.

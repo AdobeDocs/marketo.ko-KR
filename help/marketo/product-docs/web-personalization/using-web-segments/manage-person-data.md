@@ -4,23 +4,28 @@ description: 개인 데이터 관리 - 개인 데이터 관리를 포함하여 M
 title: 사용자 데이터 관리
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/rIiC-JXLkaMByk7GizVOcCEcUHN8AL-8Hy66-U2GZhs
+TQID: 'https://experienceleague.adobe.com/rIiC-JXLkaMByk7GizVOcCEcUHN8AL-8Hy66-U2GZhs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 209
+source-wordcount: '209'
 ht-degree: 12%
-
 ---
-
 # 사용자 데이터 관리 {#manage-person-data}
 
 세분화에 사용할 개인 필드를 선택하여 [!DNL Web Personalization]의 개인 데이터를 활용하십시오.
@@ -73,7 +78,7 @@ ht-degree: 12%
   </tr>
   <tr>
    <td><p>제목</p></td>
-   <td><p>직함</p></td>
+   <td><p>제목</p></td>
    <td><p>직위</p></td>
   </tr>
   <tr>
@@ -84,7 +89,7 @@ ht-degree: 12%
   <tr>
    <td><p>잠재 고객 스코어</p></td>
    <td><p>잠재 고객 스코어</p></td>
-   <td><p>스코어</p></td>
+   <td><p>점수</p></td>
   </tr>
   <tr>
    <td><p>잠재 고객 상태</p></td>
@@ -93,8 +98,8 @@ ht-degree: 12%
   </tr>
   <tr>
    <td><p>우선 순위</p></td>
-   <td><p>우선 순위</p></td>
-   <td><p>우선 순위</p></td>
+   <td><p>우선순위</p></td>
+   <td><p>우선순위</p></td>
   </tr>
   <tr>
    <td><p>리드 역할</p></td>

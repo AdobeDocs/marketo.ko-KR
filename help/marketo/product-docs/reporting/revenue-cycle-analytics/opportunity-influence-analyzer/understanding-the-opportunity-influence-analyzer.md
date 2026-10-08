@@ -4,13 +4,19 @@ description: 에 대한 이해를 포함하여 Marketo Engage의 Opportunity Inf
 title: 기회 영향 분석기 이해
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 3%
-
 ---
-
 # 기회 영향 분석기 이해 {#understanding-the-opportunity-influence-analyzer}
 
 각각의 기회는 하나의 이야기입니다. 어디서 단서를 만났니? 마케팅/판매 프로세스 동안 어떤 마케팅 기회가 영향을 미쳤습니까?

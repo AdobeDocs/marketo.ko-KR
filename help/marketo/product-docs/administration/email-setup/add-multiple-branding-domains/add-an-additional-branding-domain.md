@@ -4,21 +4,26 @@ description: 여러 브랜드에 대한 추가 브랜딩 도메인을 한 인스
 title: 추가 브랜딩 도메인 추가
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw
+TQID: 'https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 697
+source-wordcount: '697'
 ht-degree: 19%
-
 ---
-
 # 추가 브랜딩 도메인 추가 {#add-an-additional-branding-domain}
 
 단일 Marketo 인스턴스에서 여러 브랜드를 실행하고 각 브랜드마다 고유한 브랜드 추적 링크를 원하는 경우 브랜딩 도메인을 추가합니다.
@@ -53,9 +58,9 @@ ht-degree: 19%
 
 기존 도메인에 대해 SSL을 활성화하려면 다음 단계를 따르십시오.
 
-1. _[!UICONTROL Admin]_&#x200B;영역에서&#x200B;**[!UICONTROL Email]**&#x200B;을(를) 선택합니다.
+1. _[!UICONTROL Admin]_영역에서&#x200B;**[!UICONTROL Email]**을(를) 선택합니다.
 
-1. _[!UICONTROL Domain]_&#x200B;탭에서 도메인 행을 선택하고&#x200B;**[!UICONTROL Add SSL]**&#x200B;을(를) 클릭합니다.
+1. _[!UICONTROL Domain]_탭에서 도메인 행을 선택하고&#x200B;**[!UICONTROL Add SSL]**을(를) 클릭합니다.
 
    ![관리자 - 전자 메일 - 도메인 - SSL 추가](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
@@ -99,13 +104,13 @@ ht-degree: 19%
 
 ## 참고할 사항 {#things-to-note}
 
-* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑[&#128279;](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}해야 합니다.
+* **Marketo Engage에 대한 도메인에 대한 DNS 매핑**: UI에 도메인을 추가하기 전에 CNAME을 Marketo 제공 도메인에 매핑](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}해야 합니다.[
 
 * **사용자 지정 SSL**: 사용자 지정 SSL이 필요한 경우 [지원 티켓](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}을 제출하세요. SSL 생성을 위해 셀프서비스 확인란을 사용하지 마십시오.
 
 * **기존 SSL**: 도메인을 추가하는 동안 시스템은 이전에 수동으로 만든 기존 SSL을 확인합니다. 이 유효성 검사가 발생하면 SSL 만들기를 선택하지 않고 도메인을 만들고 [지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 연락하여 연결하십시오.
 
-* **도메인 삭제**: **도메인을 자동으로 삭제해도 SSL 인증서는 삭제되지 않습니다**. 이 가드레일은 SSL 인증서 없이 웹 사이트를 생성하는 사용자 오류를 방지합니다. SSL 인증서를 제거하려면 [지원팀에 문의](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}하십시오.
+* **도메인 삭제**: **도메인을 자동으로 삭제해도 SSL 인증서는 삭제되지 않습니다**. 이 가드레일은 웹 사이트에 SSL 인증서가 없게 되는 사용자 오류를 방지합니다. SSL 인증서를 제거하려면 [지원팀에 문의](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}하십시오.
 
 * 추가하는 도메인이 CNAME 이외의 항목으로 나열되면 더 이상 브랜드 추적 도메인을 추가하는 기능이 차단됩니다. 기존 도메인을 편집하고 A 레코드와 같은 CNAME 레코드가 아닌지 확인해야 합니다. 추가 버튼은 CNAME만 동적으로 확인합니다.
 

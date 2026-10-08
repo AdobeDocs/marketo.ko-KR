@@ -3,23 +3,28 @@ description: 시스템 관리 설정, 사용자 관리, API 전용 사용자 및
 title: 빠른 안내서
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-TQID: https://experienceleague.adobe.com/YBquFDEFAHi7ZVdffM9Z3UY-SC1mtsW9KRlOTq0j4HQ
+TQID: 'https://experienceleague.adobe.com/YBquFDEFAHi7ZVdffM9Z3UY-SC1mtsW9KRlOTq0j4HQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 135
+source-wordcount: '135'
 ht-degree: 69%
-
 ---
-
 # 빠른 안내서 {#quick-guide}
 
 아래 나열된 문서는 Adobe Identity Management을 사용하여 Marketo Engage을 설정하고 학습하는 데 도움이 됩니다.
@@ -44,7 +49,7 @@ ht-degree: 69%
 
 Marketo Engage API 전용 사용자는 Marketo Engage에서 만들고 관리해야 합니다.
 
-[Adobe IMS 활성화된 구독을 위한 API 전용 사용자 추가](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}
+[Adobe IMS가 활성화된 구독을 위한 API 전용 사용자 추가](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}
 
 ## CSV를 통해 사용자 추가 {#add-users-via-csv}
 

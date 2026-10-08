@@ -4,18 +4,20 @@ description: 사용자에게 이벤트 체크 인 앱에 대한 액세스 권한
 title: 사용자에게 체크인 앱에 대한 액세스 권한 부여
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/GKLCTK-Wc-rwTfbcNIEzferpYBJDvpKjelUm5-89WIU
+TQID: 'https://experienceleague.adobe.com/GKLCTK-Wc-rwTfbcNIEzferpYBJDvpKjelUm5-89WIU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 290
+source-wordcount: '290'
 ht-degree: 8%
-
 ---
-
 # 사용자에게 체크인 앱에 대한 액세스 권한 부여 {#grant-users-access-to-the-check-in-app}
 
 Marketo Engage에는 이벤트 체크인 앱에 대한 특수 사용자 역할이 있습니다. 앱을 사용할 수 있는 권한이 있는 새 역할을 만들려면 아래 단계를 따르십시오.

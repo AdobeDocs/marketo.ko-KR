@@ -3,16 +3,21 @@ description: Microsoft Dynamics과 Marketo 간의 Campaign 동기화에 대해 �
 title: 캠페인 동기화 개요
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/UsgsW3vzyxFDw5zz1nFKRymF8ULV-I-pWrV9rAuLX6A
+TQID: 'https://experienceleague.adobe.com/UsgsW3vzyxFDw5zz1nFKRymF8ULV-I-pWrV9rAuLX6A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 131
+source-wordcount: '131'
 ht-degree: 4%
-
 ---
-
 # 캠페인 동기화 개요 {#campaign-sync-overview}
 
 Campaign Sync의 일부로 사용자는 [!DNL Dynamics] 캠페인의 멤버십에서 작동하도록 자동화를 설정할 수 있습니다. 특정 비헤이비어 또는 인구 통계에 적합한 리드는 Microsoft 캠페인의 일부로 만들 수 있습니다.

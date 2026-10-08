@@ -4,7 +4,7 @@ description: 이메일 성과 보고서를 만들고 사용하는 방법을 알�
 title: 이메일 성과 보고서
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M
+TQID: 'https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,10 +13,15 @@ feature_v2:
     internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '501'
 ht-degree: 95%
@@ -86,11 +91,11 @@ ht-degree: 95%
 
 * **규칙 1**: 각 이메일 활동 레코드는 _전달됨_, _하드 바운스_, _소프트 바운스_ 또는 _보류 중_ 중 하나로 설정됩니다.
 
-* **규칙 2**: 이메일 레코드에 _[!UICONTROL Opened]_&#x200B;가 표시되면_&#x200B;전달됨&#x200B;_으로 계산됩니다.
+* **규칙 2**: 이메일 레코드에 _[!UICONTROL Opened]_가 표시되면_&#x200B;전달됨&#x200B;_으로 계산됩니다.
 
-* **규칙 3**: 이메일 레코드에 _[!UICONTROL Clicked Email]_&#x200B;또는&#x200B;_[!UICONTROL Unsubscribed]_&#x200B;가 표시되면 _전달됨_ 및 _열림_&#x200B;으로 계산됩니다.
+* **규칙 3**: 이메일 레코드에 _[!UICONTROL Clicked Email]_또는_[!UICONTROL Unsubscribed]_&#x200B;가 표시되면 _전달됨_ 및 _열림_&#x200B;으로 계산됩니다.
 
-* **규칙 4**: 이메일이 _[!UICONTROL Opened]_&#x200B;이면 바운스는 무시됩니다. 이메일을 열지 않은 경우에는_&#x200B;하드 바운스&#x200B;_가_&#x200B;소프트 바운스&#x200B;_및_&#x200B;전달됨&#x200B;_보다 우선합니다.
+* **규칙 4**: 이메일이 _[!UICONTROL Opened]_이면 바운스는 무시됩니다. 이메일을 열지 않은 경우에는_&#x200B;하드 바운스&#x200B;_가_&#x200B;소프트 바운스&#x200B;_및_&#x200B;전달됨&#x200B;_보다 우선합니다.
 
 * **규칙 5**: 이메일 활동이 전송된 후 3일 후에도 수신되지 않으면 _중단됨_&#x200B;으로 간주됩니다.
 

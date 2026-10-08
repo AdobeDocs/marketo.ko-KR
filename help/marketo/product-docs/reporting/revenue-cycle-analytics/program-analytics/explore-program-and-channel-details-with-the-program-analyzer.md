@@ -4,13 +4,19 @@ description: 탐색 프로그램을 포함하여 Marketo Engage의 프로그램 
 title: 프로그램 분석기를 사용하여 프로그램 및 채널 세부 정보 탐색
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 4%
-
 ---
-
 # [!UICONTROL Program Analyzer]&#x200B;(으)로 프로그램 및 채널 세부 정보 탐색 {#explore-program-channel-details-with-the-program-analyzer}
 
 [!UICONTROL Program Analyzer]에서 자세한 프로그램 및 채널 통계를 볼 수 있습니다. 수익 주기 탐색기에서 열 수도 있습니다.

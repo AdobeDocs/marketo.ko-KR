@@ -4,20 +4,23 @@ description: Salesforce의 Marketo 탭에서 리드 피드를 사용하는 방�
 title: 리드 피드 사용
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/J0UVkCJE1b00Z0rj5Uuh-72NcReV0voMyH7-5-T-tcI
+TQID: 'https://experienceleague.adobe.com/J0UVkCJE1b00Z0rj5Uuh-72NcReV0voMyH7-5-T-tcI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 351
+source-wordcount: '351'
 ht-degree: 3%
-
 ---
-
 # 리드 피드 사용 {#using-the-lead-feed}
 
 리드 피드는 리드가 수행하는 흥미로운 이벤트의 최신 목록입니다. Marketo 탭을 클릭하면 오른쪽에서 찾을 수 있습니다. RSS 또는 [!DNL Twitter] 피드와 같습니다. 최신 업데이트가 목록 맨 위에 있습니다. 당신이 그들의 마음에 아직 새로움을 느낄 때 리드 위로 점프하기 위해 이것을 사용합니다.

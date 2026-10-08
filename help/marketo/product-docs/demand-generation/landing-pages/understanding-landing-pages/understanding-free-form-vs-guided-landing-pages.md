@@ -4,19 +4,25 @@ description: Marketo의 자유 형식 및 안내식 랜딩 페이지에 대해 �
 title: 자유 형식 랜딩 페이지와 가이드 랜딩 페이지 이해
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/wfLJUpCFZ-40o1zHWdUBLiOOcUtGBbya2d8MQQ1JFlw
+TQID: 'https://experienceleague.adobe.com/wfLJUpCFZ-40o1zHWdUBLiOOcUtGBbya2d8MQQ1JFlw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 187
+source-wordcount: '187'
 ht-degree: 7%
-
 ---
-
 # 자유 형식 랜딩 페이지와 가이드 랜딩 페이지 이해 {#understanding-free-form-vs-guided-landing-pages}
 
 선택하는 템플릿에 따라 작업할 랜딩 페이지 편집 모드가 결정됩니다. 가능한 경로는 [자유 형식](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)과(와) [안내](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)입니다. 아래에서 중요한 차이점에 대한 간단한 요약을 확인할 수 있습니다.

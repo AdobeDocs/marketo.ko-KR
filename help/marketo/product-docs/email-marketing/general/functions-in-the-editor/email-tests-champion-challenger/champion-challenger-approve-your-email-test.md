@@ -4,16 +4,21 @@ description: 챔피언/챌린저 이메일 테스트를 승인하는 방법을 �
 title: 챔피언/챌린저 - 이메일 테스트 승인
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/5UVOPS2POHH6g9n7nWU1Z4UpSr0nZnNC-RLJ1K5F4WI
+TQID: 'https://experienceleague.adobe.com/5UVOPS2POHH6g9n7nWU1Z4UpSr0nZnNC-RLJ1K5F4WI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 146
+source-wordcount: '146'
 ht-degree: 6%
-
 ---
-
 # 챔피언/챌린저: 이메일 테스트 승인 {#champion-challenger-approve-your-email-test}
 
 이메일 테스트를 설정하여 승인하는 마지막 단계입니다. 방법은 다음과 같습니다.

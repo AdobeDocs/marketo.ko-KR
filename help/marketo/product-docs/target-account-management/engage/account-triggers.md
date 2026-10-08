@@ -4,16 +4,21 @@ description: 계정 트리거를 사용하여 계정 수준 동작 활동을 수
 title: 계정 트리거
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/iGJv8QygBcX0NAU-0rjiuPOW3mAyS3xMS98JQqv-Qw0
+TQID: 'https://experienceleague.adobe.com/iGJv8QygBcX0NAU-0rjiuPOW3mAyS3xMS98JQqv-Qw0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 109
+source-wordcount: '109'
 ht-degree: 3%
-
 ---
-
 # 계정 트리거 {#account-triggers}
 
 계정 수준 트리거를 사용하여 다양한 채널(예: 이메일, 웹, 광고)에서 중요한 계정 수준 행동 활동을 듣고 수행합니다.
@@ -26,7 +31,7 @@ ht-degree: 3%
 
 ![](assets/two-1.png)
 
-원하는 트리거를 캔버스로 드래그합니다. 이 예제에서는 _[!UICONTROL Added to Named Account]_&#x200B;을(를) 사용합니다.
+원하는 트리거를 캔버스로 드래그합니다. 이 예제에서는 _[!UICONTROL Added to Named Account]_을(를) 사용합니다.
 
 ![](assets/three-1.png)
 

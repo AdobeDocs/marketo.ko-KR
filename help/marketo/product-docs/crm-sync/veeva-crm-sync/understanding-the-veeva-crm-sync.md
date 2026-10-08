@@ -1,20 +1,25 @@
 ---
 description: Marketo Engage과 Veeva 간에 Veeva CRM 동기화가 작동하는 방식에 대해 알아봅니다. 동기화를 실행하고 개인 계정 및 사용자 지정 개체를 포함하여 동기화된 항목을 확인합니다.
-title: ' [!DNL Veeva] CRM 동기화 이해'
+title: '[!DNL Veeva] CRM 동기화 이해'
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/zgS75Y696DouBdRH4S7sguvmQEzObc5WEdooJXfSh1w
+TQID: 'https://experienceleague.adobe.com/zgS75Y696DouBdRH4S7sguvmQEzObc5WEdooJXfSh1w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 251
+source-wordcount: '252'
 ht-degree: 9%
-
 ---
-
 # [!DNL Veeva] CRM 동기화 이해 {#understanding-the-veeva-crm-sync}
 
 Adobe Marketo Engage과 [!DNL Veeva] CRM 간의 동기화를 실행하는 데 몇 단계만 소요됩니다.
@@ -40,7 +45,7 @@ Marketo Engage은 매일 하루 종일 [!DNL Veeva] CRM과 동기화됩니다. �
 
 ## 알아 두어야 할 항목 {#things-to-know}
 
-* [!DNL Veeva][&#128279;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}에 대해 Marketo Engage에 입력한 자격 증명은 데이터를 동기화하는 데 사용됩니다. 해당 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
+*  [!DNL Veeva]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}에 대해 Marketo Engage에 입력한 [자격 증명은 데이터를 동기화하는 데 사용됩니다. 해당 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
 
 * [!DNL Veeva] CRM은 force.com을 기반으로 하며 플랫폼과 함께 Marketo Engage의 풍부한 경험이 이 동기화로 상속됩니다.
 

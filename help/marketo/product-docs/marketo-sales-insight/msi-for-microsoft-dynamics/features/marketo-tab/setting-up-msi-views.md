@@ -3,20 +3,23 @@ description: Microsoft Dynamics에서 MSI 보기를 설정하는 방법을 알�
 title: MSI 보기 설정
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/PylFEW3pRnOwoIVF8hG2pKcFix5DO7ynWomXOfvy1e0
+TQID: 'https://experienceleague.adobe.com/PylFEW3pRnOwoIVF8hG2pKcFix5DO7ynWomXOfvy1e0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 252
+source-wordcount: '252'
 ht-degree: 4%
-
 ---
-
 # MSI 보기 설정 {#setting-up-msi-views}
 
 Dynamics에서 [!DNL Sales Insight] 플러그인을 설치하면 사이트 맵에 [!DNL Best Bets] 및 관련 대시보드가 자동으로 추가됩니다. 어떤 이유로든 대시보드가 추가되지 않는 경우, 대시보드를 수동으로 추가하는 방법은 다음과 같습니다.
@@ -38,27 +41,27 @@ Dynamics에서 [!DNL Sales Insight] 플러그인을 설치하면 사이트 맵�
 1. 대시보드에서 을(를) 클릭하여 선택합니다. 오른쪽 열에 각 항목에 대한 정보를 아래에 입력합니다. 나열되지 않은 범주는 무시할 수 있습니다.
 
    **최상의 선택**</br>
-URL: MainviewBestbets.html</br>
-아이콘: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
-ID: marketo_bestbets</br>
-제목: Best Bets
+   URL: MainviewBestbets.html</br>
+   아이콘: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
+   ID: marketo_bestbets</br>
+   제목: Best Bets
 
    **내 전자 메일**</br>
-URL: mkt_/MainViewMyEmail.html</br>
-아이콘: /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
-ID: marketo_myemail</br>
-제목: 내 이메일
+   URL: mkt_/MainViewMyEmail.html</br>
+   아이콘: /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
+   ID: marketo_myemail</br>
+   제목: 내 이메일
 
    **웹 활동**</br>
-URL: mkt_/MainViewWebActivity.html</br>
-아이콘: /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
-ID: marketo_webactivity</br>
-제목: 웹 활동
+   URL: mkt_/MainViewWebActivity.html</br>
+   아이콘: /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
+   ID: marketo_webactivity</br>
+   제목: 웹 활동
 
    **익명 웹 활동**</br>
-URL: mkt_/MainViewWebActivity.html</br>
-아이콘: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
-ID: marketo_anonymous_webactivity</br>
-제목: 익명 웹 활동
+   URL: mkt_/MainViewWebActivity.html</br>
+   아이콘: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
+   ID: marketo_anonymous_webactivity</br>
+   제목: 익명 웹 활동
 
 1. 완료되면 **[!UICONTROL Save]**&#x200B;를 클릭합니다.

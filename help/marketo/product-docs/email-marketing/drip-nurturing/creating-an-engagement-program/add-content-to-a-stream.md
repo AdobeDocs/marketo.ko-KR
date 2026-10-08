@@ -4,18 +4,23 @@ description: 참여 프로그램 스트림에 이메일 또는 프로그램을 �
 title: 스트림에 콘텐츠 추가
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/mEXmi2TJ3INTU2G3cFvw1uJyVbMIwRjNil65pFCY7DY
+TQID: 'https://experienceleague.adobe.com/mEXmi2TJ3INTU2G3cFvw1uJyVbMIwRjNil65pFCY7DY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 144
+source-wordcount: '144'
 ht-degree: 8%
-
 ---
-
 # 스트림에 콘텐츠 추가 {#add-content-to-a-stream}
 
 참여 프로그램을 만든 후에는 스트림에 콘텐츠를 추가해야 합니다. 스트림에 전자 메일 또는 프로그램을 추가할 수 있습니다.

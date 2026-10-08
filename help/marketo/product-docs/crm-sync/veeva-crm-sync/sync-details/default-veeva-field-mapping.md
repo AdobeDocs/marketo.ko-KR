@@ -3,16 +3,21 @@ description: Veeva CRM과 Marketo Engage 간의 기본 Veeva 필드 매핑에 �
 title: 기본 [!DNL Veeva] 필드 매핑
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY
+TQID: 'https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '273'
 ht-degree: 37%
-
 ---
-
 # 기본 [!DNL Veeva] 필드 매핑 {#default-veeva-field-mapping}
 
 Marketo Engage 계정을 [!DNL Veeva]과(와) 처음 동기화할 때 Marketo은 기본 제공 [!DNL Veeva]과(와) Marketo 필드 간에 이러한 연결을 자동으로 만듭니다. Marketo은 계정 및 연락처의 사용자 정의 필드도 동기화합니다.

@@ -3,13 +3,17 @@ description: 폴더 또는 프로그램이 Marketo에 보관될 때 캠페인을
 title: 보관 시 스마트 캠페인 비활성화
 feature: Administration
 hide: true
-source-git-commit: 526d10bb96e059d251a76ca720ff81ab42ee9516
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 0%
-
 ---
-
 # 보관 시 스마트 캠페인 비활성화 {#disable-smart-campaigns-on-archive}
 
 이 기능을 활성화하면 폴더 또는 프로그램을 보관하는 것은 예상치 못한 활동을 방지하기 위해 해당 캠페인을 자동으로 비활성화합니다.

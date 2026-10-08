@@ -1,17 +1,23 @@
 ---
 unique-page-id: 4718670
 description: Marketo Engage에서 수익 모델 게이트 단계를 사용하여 수익 모델 게이트 단계를 사용하는 방법을 알아봅니다. 이 안내서를 사용하여 다음 단계를 완료하십시오.
-title: 수익 모델 게이트 단계 사용
+title: 매출 모델 게이트 단계 사용
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 6%
-
 ---
-
-# 수익 모델 게이트 단계 사용 {#using-revenue-model-gate-stages}
+# 매출 모델 게이트 단계 사용 {#using-revenue-model-gate-stages}
 
 게이트 스테이지는 자격을 확인하는 역할을 합니다.
 

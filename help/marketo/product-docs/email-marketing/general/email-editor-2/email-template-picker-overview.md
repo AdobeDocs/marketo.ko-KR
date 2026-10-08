@@ -4,19 +4,25 @@ description: 이메일 편집기 2.0의 이메일 템플릿 선택기에 대해 
 title: 이메일 템플릿 선택기 개요
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/-chlOS7UcjWaNgBhJyHEpfXL4SFnDnZH73tnpn-GZHs
+TQID: 'https://experienceleague.adobe.com/-chlOS7UcjWaNgBhJyHEpfXL4SFnDnZH73tnpn-GZHs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '272'
 ht-degree: 4%
-
 ---
-
 # 이메일 템플릿 선택기 개요 {#email-template-picker-overview}
 
 [전자 메일을 만듭니다](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md). 선택할 수 있는 템플릿이 여러 개 있습니다. 나만의 템플릿을 만들어 나중에 사용할 수 있도록 저장할 수도 있습니다.

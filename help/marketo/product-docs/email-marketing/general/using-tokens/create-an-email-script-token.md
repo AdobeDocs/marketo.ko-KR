@@ -4,18 +4,20 @@ description: 이메일 스크립트 토큰을 만드는 방법을 알아봅니�
 title: 이메일 스크립트 토큰 만들기
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-TQID: https://experienceleague.adobe.com/3FbkNKaOjEX--zXCOC1EHLEVr5ChimEOJTROMY0bHmc
+TQID: 'https://experienceleague.adobe.com/3FbkNKaOjEX--zXCOC1EHLEVr5ChimEOJTROMY0bHmc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Resources
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 243
+source-wordcount: '243'
 ht-degree: 4%
-
 ---
-
 # 이메일 스크립트 토큰 만들기 {#create-an-email-script-token}
 
 고급 개발자의 경우 전자 메일에서 [속도 스크립트](https://velocity.apache.org/engine/1.7/user-guide.html)를 사용할 수 있습니다. 방법은 다음과 같습니다.
@@ -54,7 +56,7 @@ ht-degree: 4%
 
 1. Velocity에서 스크립트를 작성합니다. 다음은 유용한 리소스입니다.
 
-   * [Marketo 개발자 이메일 스크립팅 설명서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting)
+   * [Marketo 개발자 이메일 스크립팅 설명서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Velocity 사용 안내서](https://velocity.apache.org/engine/devel/user-guide.html)
    * [속도 참조 안내서](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

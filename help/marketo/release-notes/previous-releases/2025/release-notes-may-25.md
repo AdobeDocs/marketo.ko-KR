@@ -3,23 +3,30 @@ description: 릴리스 노트 - 2025년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 정보 - 2025년 5월
 feature: Release Information
 exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
-TQID: https://experienceleague.adobe.com/U1fwUVPzc3mpwzuxzwh-bXy7Y-0aHlzNHnoRuPsjW8g
+TQID: 'https://experienceleague.adobe.com/U1fwUVPzc3mpwzuxzwh-bXy7Y-0aHlzNHnoRuPsjW8g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 516
+source-wordcount: '516'
 ht-degree: 37%
-
 ---
-
 # 릴리스 노트: 2025년 5월 {#release-notes-may-25}
 
 아래에는 2025년 5월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
@@ -32,7 +39,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 포함되며, **2025년 5월 23일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
+다음 기능은 표준 릴리스 주기에 포함되며, **2025년 5월 23일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인하십시오.
 
 <table style="table-layout:auto">
  <tbody>
@@ -72,7 +79,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **Facebook 오프라인 전환 통합 업데이트**: 2025년 5월 29일에 Marketo Engage의 [Facebook 오프라인 전환](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} 통합이 새 Meta [전환 API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}(으)로 마이그레이션됩니다. 이는 Meta이 Graph API 버전 관리에 따라 [오프라인 전환 API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"}를 더 이상 사용하지 않기 때문입니다. 자세한 내용은 Meta의 전환 API를 통해 [오프라인 이벤트 보내기](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"}(오프라인 CAPI)에 대한 안내서를 참조하십시오.
+* **Facebook 오프라인 전환 통합 업데이트**: 2025년 5월 29일에 Marketo Engage의 [Facebook 오프라인 전환](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} 통합이 새 Meta [전환 API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}(으)로 마이그레이션됩니다. 이는 Meta이 Graph API 버전 관리에 따라 [오프라인 전환 API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"}를 더 이상 사용하지 않기 때문입니다. 자세한 내용은 Meta의 전환 API를 통해 [오프라인 이벤트 보내기](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"}(오프라인 CAPI)에 대한 안내서를 참조하십시오.
 
 * **새로운 Analytics 기능 - 공개 Beta**: [고급 BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"}(이전 명칭: Revenue Explorer 및 고급 Report Builder)가 4월 중순부터 모든 현재 Revenue Cycle Explorer 사용자에게 롤아웃되기 시작했습니다. 이 새로운 도구는 Marketo Engage 데이터에 대한 유연한 보고 및 시각화 인터페이스를 제공하여 진행 상황, 성능 등에 대한 세부 정보를 제공합니다. 더욱 풍부한 상호 작용 및 시각화, 빠른 성능, 보다 원활하고 직관적인 사용자 경험을 제공합니다.
 

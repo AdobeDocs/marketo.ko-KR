@@ -4,18 +4,20 @@ description: 설명, sRGB 이미지 및 카테고리를 사용하여 리치 미�
 title: 리치 미디어용 예측 콘텐츠 편집
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/XHMDPgftozNUSvcOrKdFcilATEmARQiBQd55jyulAyc
+TQID: 'https://experienceleague.adobe.com/XHMDPgftozNUSvcOrKdFcilATEmARQiBQd55jyulAyc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 220
+source-wordcount: '220'
 ht-degree: 6%
-
 ---
-
 # 리치 미디어용 예측 콘텐츠 편집 {#edit-predictive-content-for-rich-media}
 
 다음은 리치 미디어에 대한 예측 콘텐츠를 설정하는 방법입니다.

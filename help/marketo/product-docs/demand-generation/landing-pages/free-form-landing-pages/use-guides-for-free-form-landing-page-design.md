@@ -4,16 +4,21 @@ description: Marketo에서 자유 형식 랜딩 페이지 디자인에 안내서
 title: 자유 형식 랜딩 페이지 디자인에 가이드 사용
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/Bw7pYxsFnhj5vhHyJpVN1aKPAAqPz2d-wap8uaSkQV8
+TQID: 'https://experienceleague.adobe.com/Bw7pYxsFnhj5vhHyJpVN1aKPAAqPz2d-wap8uaSkQV8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 118
+source-wordcount: '118'
 ht-degree: 13%
-
 ---
-
 # 자유 형식 랜딩 페이지 디자인에 가이드 사용 {#use-guides-for-free-form-landing-page-design}
 
 자유 형식의 랜딩 페이지를 디자인할 때 안내선을 사용하여 페이지에서 요소를 정렬할 수 있습니다.

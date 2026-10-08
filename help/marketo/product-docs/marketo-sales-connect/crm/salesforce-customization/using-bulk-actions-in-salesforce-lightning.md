@@ -4,16 +4,18 @@ description: Sales Connect에서 Salesforce Lightning에서 대량 작업을 사
 title: Salesforce Lightning에서 일괄 작업 사용
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw
+TQID: 'https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 385
+source-wordcount: '385'
 ht-degree: 1%
-
 ---
-
 # [!DNL Salesforce Lightning]에서 일괄 작업 사용 {#using-bulk-actions-in-salesforce-lightning}
 
 [!DNL Salesforce]에서 [!DNL Sales Connect]&#x200B;(으)로 잠재 고객을 푸시하거나 캠페인에 잠재 고객을 추가하거나 대량 이메일을 보내는 등의 대량 작업을 수행하는 방법에 대해 알아봅니다.
@@ -46,9 +48,9 @@ ht-degree: 1%
 1. MSC 이메일이 표시됩니다. 여기에는 다음 기능이 포함됩니다.
 
    a. &quot;[!UICONTROL To]&quot; 필드에 &quot;모든 수금&quot;이 표시됩니다. 이것은 [가망 고객 목록 보기]에서 선택한 가망 고객 목록에 해당합니다.
-b. 이 목록은 &quot;일괄 작성&quot;이라는 왼쪽 패널에 표시되며 여기에서 수신자를 추가/제거할 수 있습니다.
-c. 템플릿을 선택하거나 직접 이메일을 만들 수 있습니다.
-d. 이메일을 즉시 보내거나 나중에 보내도록 예약할 수 있습니다
+   b. 이 목록은 &quot;일괄 작성&quot;이라는 왼쪽 패널에 표시되며 여기에서 수신자를 추가/제거할 수 있습니다.
+   c. 템플릿을 선택하거나 직접 이메일을 만들 수 있습니다.
+   d. 이메일을 즉시 보내거나 나중에 보내도록 예약할 수 있습니다
 
    ![](assets/three-5.png)
 

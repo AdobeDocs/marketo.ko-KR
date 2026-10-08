@@ -4,16 +4,18 @@ description: Gmail에서 Sales Connect 서명을 가져오지 않는 경우 도�
 title: Gmail에서 Sales Connect 서명을 가져오지 않음
 exl-id: 33edf360-58bf-4d5a-a7a5-4912b717865f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/dgQ47h5FhmIxUf6l9PuUnN1IsKNuAtdqOovqL0YpsCU
+TQID: 'https://experienceleague.adobe.com/dgQ47h5FhmIxUf6l9PuUnN1IsKNuAtdqOovqL0YpsCU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 69
+source-wordcount: '69'
 ht-degree: 20%
-
 ---
-
 # Gmail에서 Sales Connect 서명을 가져오지 않음 {#gmail-not-pulling-in-sales-connect-signature}
 
 [[!DNL Sales Connect] 서명](https://toutapp.com/next#settings)을 삽입하는 대신 Gmail에서 Gmail 서명을 실제로 사용합니다.

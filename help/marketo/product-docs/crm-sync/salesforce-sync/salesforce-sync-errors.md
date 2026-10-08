@@ -3,16 +3,21 @@ description: Marketo에서 Salesforce 동기화 오류를 보고 필터링하는
 title: Salesforce 동기화 오류
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/vEPgjXh8QKyzC1AiAhRqf4tF-MZpu9GETxrRAJHYVIo
+TQID: 'https://experienceleague.adobe.com/vEPgjXh8QKyzC1AiAhRqf4tF-MZpu9GETxrRAJHYVIo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 192
+source-wordcount: '192'
 ht-degree: 6%
-
 ---
-
 # [!DNL Salesforce] 동기화 오류 {#salesforce-sync-errors}
 
 동기화 프로세스 중에 발생한 오류 요약을 확인합니다. 여기에는 호환되지 않는 데이터를 동기화하지 못해 발생하는 오류가 포함됩니다.

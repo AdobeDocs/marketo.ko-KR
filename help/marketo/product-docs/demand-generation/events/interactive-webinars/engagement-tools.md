@@ -2,15 +2,19 @@
 description: 대화형 웨비나의 참여 도구에 대해 알아봅니다. 설문 조사, Q&A 및 기타 기능을 사용하여 웨비나 중 참석자 상호 작용을 높이십시오.
 title: 대화형 웨비나의 참여 도구
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Interactive Webinars
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1285'
 ht-degree: 0%
-
 ---
-
 # 대화형 웨비나의 참여 도구 {#engagement-tools-in-interactive-webinars}
 
 Adobe Connect 룸 내의 Pod 전달 기능입니다. 레이아웃에 Pod를 추가하려면 Pod 메뉴를 클릭하고 추가할 Pod를 선택합니다.

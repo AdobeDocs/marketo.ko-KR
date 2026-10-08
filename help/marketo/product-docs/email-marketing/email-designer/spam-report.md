@@ -6,21 +6,28 @@ description: SpamAssassin을 사용하여 이메일 콘텐츠를 스팸 가능�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-TQID: https://experienceleague.adobe.com/fqQeYa6MYeNwnortlc4f9i2-lEwyRILxBQrbfS7Kyo0
+TQID: 'https://experienceleague.adobe.com/fqQeYa6MYeNwnortlc4f9i2-lEwyRILxBQrbfS7Kyo0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Beginner
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 236
+source-wordcount: '236'
 ht-degree: 5%
-
 ---
-
 # 이메일 스팸 신고 {#email-spam-report}
 
 Marketo Engage에서 SpamAssassin을 사용하여 이메일 콘텐츠를 테스트하고 ISP/사서함 공급자가 이를 스팸으로 표시할 가능성을 볼 수 있습니다.
@@ -61,4 +68,4 @@ SpamAssassin은 콘텐츠를 분석하고 다양한 기준에 따라 점수를 �
 
 >[!NOTE]
 >
->스팸 점수는 SpamAssassin을 통해 파생되며 **규칙은 Adobe이 소유하지 않습니다**. 이러한 규칙에 대한 자세한 내용은 [SpamAssassin 설명서](https://spamassassin.apache.org/#_blank){target="_blank"}에서 확인할 수 있습니다. [오류 전체 목록이 &#x200B;](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}에 표시됩니다.
+>스팸 점수는 SpamAssassin을 통해 파생되며 **규칙은 Adobe이 소유하지 않습니다**. 이러한 규칙에 대한 자세한 내용은 [SpamAssassin 설명서](https://spamassassin.apache.org/#_blank){target="_blank"}에서 확인할 수 있습니다. [오류 전체 목록이 ](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}에 표시됩니다.

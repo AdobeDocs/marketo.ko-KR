@@ -4,18 +4,23 @@ description: Marketo 랜딩 페이지를 다른 페이지로 리디렉션하는 
 title: Marketo 랜딩 페이지를 다른 페이지로 리디렉션
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/hL18plY9nu2Irs6QC8AEtjbLPzZLvJDhfRQYwDRCgls
+TQID: 'https://experienceleague.adobe.com/hL18plY9nu2Irs6QC8AEtjbLPzZLvJDhfRQYwDRCgls'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 150
+source-wordcount: '150'
 ht-degree: 13%
-
 ---
-
 # Marketo 랜딩 페이지를 다른 페이지로 리디렉션 {#redirect-a-marketo-landing-page-to-another-page}
 
 페이지의 URL을 업데이트하고 이전 URL이 계속 작동하게 하려면 리디렉션을 시도하십시오. 설정하는 것은 쉽습니다.

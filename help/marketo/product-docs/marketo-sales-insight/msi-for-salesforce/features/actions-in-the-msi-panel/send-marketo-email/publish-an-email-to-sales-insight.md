@@ -4,20 +4,23 @@ description: Marketo에서 Sales Insight으로 이메일을 게시하는 방법�
 title: Sales Insight에 이메일 게시
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/7EFnNV-4RjI7nOwRnNJWtVTbxHPC2E6OEACX965cIqw
+TQID: 'https://experienceleague.adobe.com/7EFnNV-4RjI7nOwRnNJWtVTbxHPC2E6OEACX965cIqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 204
+source-wordcount: '205'
 ht-degree: 3%
-
 ---
-
 # [!DNL Sales Insight]에게 전자 메일 게시 {#publish-an-email-to-sales-insight}
 
 [!DNL Sales Insight]에 게시 설정을 사용하여 [!DNL Sales Insight], [!DNL Outlook] 및 Gmail 추가 기능 모두에서 영업팀에서 전자 메일을 사용할 수 있도록 합니다. 유통기한도 부여할 수 있습니다.
@@ -40,7 +43,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >만료 날짜(설정한 경우)가 오후 11:59(CST)이면 [!DNL Sales Insight]과(와) 해당 추가 기능에서 사용 가능한 이메일이 사라집니다. 물론 Marketo에서 계속 액세스할 수 있습니다.
+   >만료 날짜(설정한 경우)가 오후 11시 59분(CST)이면 [!DNL Sales Insight]과(와) 해당 추가 기능에서 사용 가능한 이메일이 사라집니다. 물론 Marketo에서 계속 액세스할 수 있습니다.
 
 1. **[!DNL Save]**&#x200B;를 클릭합니다.
 

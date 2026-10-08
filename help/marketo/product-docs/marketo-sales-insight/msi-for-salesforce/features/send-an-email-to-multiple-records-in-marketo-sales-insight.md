@@ -4,20 +4,23 @@ description: Salesforce의 Marketo Sales Insight에서 여러 레코드로 이�
 title: Marketo Sales Insight에서 여러 레코드에 이메일 보내기
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/1chpk5RgFTP5l4ct-lBOlrleXd6gXhguwcOU9hLE8aU
+TQID: 'https://experienceleague.adobe.com/1chpk5RgFTP5l4ct-lBOlrleXd6gXhguwcOU9hLE8aU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 135
+source-wordcount: '135'
 ht-degree: 9%
-
 ---
-
 # [!DNL Marketo Sales Insight]의 여러 레코드로 전자 메일 보내기 {#send-an-email-to-multiple-records-in-marketo-sales-insight}
 
 [!DNL Marketo Sales Insight]을(를) 사용하여 여러 사람에게 Marketo 이메일을 보내는 것은 매우 쉽습니다. 시작하겠습니다.

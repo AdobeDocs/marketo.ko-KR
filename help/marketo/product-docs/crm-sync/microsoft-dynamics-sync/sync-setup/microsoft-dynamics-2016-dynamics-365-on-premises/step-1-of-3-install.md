@@ -1,18 +1,23 @@
 ---
 description: Dynamics 2016 또는 Dynamics 365용 Marketo 솔루션을 온프레미스에 설치하는 방법을 알아봅니다. 솔루션을 가져오고 Dynamics의 설치 단계를 완료합니다.
-title: ' [!DNL Microsoft Dynamics] 2016/Dynamics 365 온-프레미스 단계 1/3에 대한 Marketo 설치'
+title: '[!DNL Microsoft Dynamics] 2016/Dynamics 365 온-프레미스 단계 1/3에 대한 Marketo 설치'
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/E0wIT7zgodm4Ujjt8yuU4KIA9csv8iK3PMmC6X2ifRA
+TQID: 'https://experienceleague.adobe.com/E0wIT7zgodm4Ujjt8yuU4KIA9csv8iK3PMmC6X2ifRA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 305
+source-wordcount: '306'
 ht-degree: 0%
-
 ---
-
 # 1/3단계: Marketo에 대한 동기화 사용자 구성(2016 온-프레미스/Dynamics 365 온-프레미스) {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 
 [!DNL Microsoft Dynamics] 2016 On-Prem/Dynamics 365를 Marketo과 동기화하려면 먼저 Dynamics에 Marketo 솔루션을 설치해야 합니다.

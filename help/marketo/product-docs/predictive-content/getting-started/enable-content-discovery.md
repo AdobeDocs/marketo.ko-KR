@@ -4,16 +4,18 @@ description: 예측 콘텐츠가 사이트의 콘텐츠를 자동으로 검색�
 title: 콘텐츠 검색 활성화
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/9MTP4S-1LzNBwVBp1SvsfxtGCmj-eat8j-6niXHYK3w
+TQID: 'https://experienceleague.adobe.com/9MTP4S-1LzNBwVBp1SvsfxtGCmj-eat8j-6niXHYK3w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 168
+source-wordcount: '168'
 ht-degree: 4%
-
 ---
-
 # 콘텐츠 검색 활성화 {#enable-content-discovery}
 
 콘텐츠 검색 기능은 기존 콘텐츠(사례 연구, 블로그 게시물, 비디오, 보도 자료 등)를 자동으로 검색하고 태그를 지정합니다. 웹 사이트에서 이러한 자료의 조회수를 추적합니다.  예측 콘텐츠는 검색된 콘텐츠를 사용하며, 예측 분석을 사용하여 성과가 가장 좋은 콘텐츠 식별 및 적합한 사람에게 최선의 콘텐츠를 권장합니다.

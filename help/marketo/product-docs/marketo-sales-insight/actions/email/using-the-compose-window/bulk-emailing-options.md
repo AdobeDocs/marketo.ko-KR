@@ -3,16 +3,18 @@ description: Sales Insight 작업의 일괄 이메일 전송 옵션에 대해 �
 title: 일괄 이메일 전송 옵션
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/o4PzEJ3Rh1p-8ixAC5fOg3XzUg4GM6tBjBnt6F7QEm4
+TQID: 'https://experienceleague.adobe.com/o4PzEJ3Rh1p-8ixAC5fOg3XzUg4GM6tBjBnt6F7QEm4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 266
+source-wordcount: '266'
 ht-degree: 5%
-
 ---
-
 # 일괄 이메일 전송 옵션 {#bulk-emailing-options}
 
 이메일을 일괄적으로 전송하는 것은 잠재 고객 참여를 가속화할 수 있는 좋은 방법입니다. [!DNL Marketo Sales]은(는) 전자 메일을 대량으로 보내는 두 가지 방법을 제공합니다. **전자 메일 그룹** 및 **선택하여 보내기**. 그룹 이메일은 수백 개의 이메일을 타겟팅된 그룹에 빠르게 보낼 수 있는 좋은 방법입니다. 선택 및 보내기 를 사용하면 이메일 제한이 완화되지만 사용자에게 더 많은 사용자 지정 기회가 제공됩니다.

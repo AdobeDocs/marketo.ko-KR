@@ -3,18 +3,21 @@ description: Marketo과 ON24 통합을 설정하는 방법에 대해 알아봅�
 title: Marketo와 ON24 통합 설정
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-TQID: https://experienceleague.adobe.com/qIKnrBwavLmy7tBqPTLvz72AJNIiVRzoEKQtH0OVgWg
+TQID: 'https://experienceleague.adobe.com/qIKnrBwavLmy7tBqPTLvz72AJNIiVRzoEKQtH0OVgWg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 238
+source-wordcount: '238'
 ht-degree: 10%
-
 ---
-
 # Marketo와 ON24 통합 설정{#set-up-the-on24-integration-with-marketo}
 
 다음 단계에 따라 ON24 이벤트 통합을 설정하십시오.
@@ -69,7 +72,7 @@ ht-degree: 10%
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. [!UICONTROL display name] 선택. **[!UICONTROL Service]** 드롭다운을 클릭하고 **[!UICONTROL Custom]**&#x200B;를 선택합니다. [!UICONTROL description] 입력. [!UICONTROL API Only User] 드롭다운을 클릭하고 위의 단계[&#128279;](#create-a-new-user)에서 을(를) 만든 사용자를 선택합니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
+1. [!UICONTROL display name] 선택. **[!UICONTROL Service]** 드롭다운을 클릭하고 **[!UICONTROL Custom]**&#x200B;를 선택합니다. [!UICONTROL description] 입력. [!UICONTROL API Only User] 드롭다운을 클릭하고 위의 단계](#create-a-new-user)에서 [을(를) 만든 사용자를 선택합니다. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

@@ -3,16 +3,18 @@ description: Sales Insight 작업 인증에 대한 로그인 관리 설정에 �
 title: 로그인 관리 설정
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/0NG6QpEVASL-Fponmbe25taZps60wJ5BdNui7FdlSrk
+TQID: 'https://experienceleague.adobe.com/0NG6QpEVASL-Fponmbe25taZps60wJ5BdNui7FdlSrk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 447
+source-wordcount: '447'
 ht-degree: 2%
-
 ---
-
 # 로그인 관리 설정 {#login-management-settings}
 
 관리자는 로그인 관리 설정을 사용하여 글로벌 수준에서 Sales Insight 작업 사용자에 대한 인증 환경 설정을 지정할 수 있습니다.

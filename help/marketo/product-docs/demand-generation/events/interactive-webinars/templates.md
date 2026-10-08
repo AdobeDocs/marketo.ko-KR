@@ -3,19 +3,22 @@ description: 대화형 웨비나에서 템플릿을 만들고 구현하는 방�
 title: 대화형 웨비나용 템플릿
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-TQID: https://experienceleague.adobe.com/daGGDpwlOHMRNSVPRZm0cdW79lSPtpXYatCiKPSCGlE
+TQID: 'https://experienceleague.adobe.com/daGGDpwlOHMRNSVPRZm0cdW79lSPtpXYatCiKPSCGlE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 310
+source-wordcount: '310'
 ht-degree: 6%
-
 ---
-
 # 대화형 웨비나용 템플릿 {#templates-for-interactive-webinars}
 
 대화형 웨비나에서 재사용 가능한 템플릿을 만들어 콘텐츠를 더 빨리 제작하고 팀에서 작업할 때 브랜드 지침을 준수할 수 있습니다.

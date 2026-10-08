@@ -4,18 +4,23 @@ description: 참여 프로그램 스트림의 이름을 변경하는 방법을 �
 title: 스트림 이름 변경
 exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/hdlS0-qiGDZGhkPcDBe7FrWgMIYETgZ0cstLa-smHoA
+TQID: 'https://experienceleague.adobe.com/hdlS0-qiGDZGhkPcDBe7FrWgMIYETgZ0cstLa-smHoA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 45
+source-wordcount: '45'
 ht-degree: 13%
-
 ---
-
 # 스트림 이름 변경 {#rename-a-stream}
 
 구성을 유지하려면 스트림의 이름을 바꿀 수 있습니다.

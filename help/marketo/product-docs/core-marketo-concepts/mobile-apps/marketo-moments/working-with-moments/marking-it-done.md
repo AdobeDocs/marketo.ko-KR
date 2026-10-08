@@ -4,16 +4,18 @@ description: Marketo 모멘트 앱에서 완료로 모멘트를 표시하는 방
 title: 완료로 표시
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/w-4Te673jxk5QQOzvheCTp-KGPDYSTSKF-IT448yf4E
+TQID: 'https://experienceleague.adobe.com/w-4Te673jxk5QQOzvheCTp-KGPDYSTSKF-IT448yf4E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: '169'
 ht-degree: 4%
-
 ---
-
 # 완료로 표시 {#marking-it-done}
 
 전자 메일 프로그램, 이벤트 또는 분석 카드를 [!UICONTROL Done]&#x200B;(으)로 표시하여 스트림에서 제거합니다. 두 가지 방법이 있습니다.

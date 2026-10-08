@@ -4,16 +4,18 @@ description: Marketo Sales Connect에 대해 알아보고 영업 주기 전반�
 title: Sales Connect 개요
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k
+TQID: 'https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 256
+source-wordcount: '256'
 ht-degree: 8%
-
 ---
-
 # Sales Connect 개요 {#sales-connect-overview}
 
 Marketo Sales Connect는 다양한 기능을 갖춘 다각적인 판매 지원 솔루션으로, 판매 주기 전반에 걸쳐 참여를 이끌어 낼 수 있습니다.

@@ -4,14 +4,20 @@ description: 수익 모델에 대한 보고서를 포함하여 Marketo Engage의
 title: 수익 모델 보고서
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 8%
-
 ---
-
-# 수익 모델 보고서 {#report-on-your-revenue-model}
+# 매출 모델 보고서 {#report-on-your-revenue-model}
 
 각 수익 주기 모델에 대해 각 단계에 있는 잠재 고객 수에 대한 보고서를 생성할 수 있습니다.
 

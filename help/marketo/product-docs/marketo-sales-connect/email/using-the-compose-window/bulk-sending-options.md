@@ -4,16 +4,18 @@ description: Sales Connect의 대량 전송 옵션에 대해 알아봅니다. �
 title: 일괄 게재 옵션
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NUW1-99Akcjv-rv4uknctidG-vIZjmKwpWgdJr-ypDc
+TQID: 'https://experienceleague.adobe.com/NUW1-99Akcjv-rv4uknctidG-vIZjmKwpWgdJr-ypDc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 270
+source-wordcount: '270'
 ht-degree: 4%
-
 ---
-
 # 일괄 게재 옵션 {#bulk-sending-options}
 
 이메일을 일괄적으로 전송하는 것은 잠재 고객 참여를 가속화할 수 있는 좋은 방법입니다. [!DNL Sales Connect]은(는) 전자 메일을 대량으로 보내는 두 가지 방법을 제공합니다. **전자 메일 그룹** 및 **선택하여 보내기**. 그룹 이메일은 수백 개의 이메일을 타겟팅된 그룹에 빠르게 보낼 수 있는 좋은 방법입니다. 선택 및 보내기 를 사용하면 이메일 제한이 완화되지만 사용자에게 더 많은 사용자 지정 기회가 제공됩니다.

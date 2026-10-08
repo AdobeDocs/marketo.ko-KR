@@ -4,16 +4,18 @@ description: 이메일에 이메일 스크립트 토큰을 추가하는 방법�
 title: 이메일에 이메일 스크립트 토큰 추가
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-TQID: https://experienceleague.adobe.com/IdBf2VW0db6TyqQvthXGcYsz5MaigEBI2c7MsJVhwSM
+TQID: 'https://experienceleague.adobe.com/IdBf2VW0db6TyqQvthXGcYsz5MaigEBI2c7MsJVhwSM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 166
+source-wordcount: '166'
 ht-degree: 14%
-
 ---
-
 # 이메일에 이메일 스크립트 토큰 추가 {#add-an-email-script-token-to-your-email}
 
 [전자 메일 스크립트를 만든](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)후에는 전자 메일에 추가하여 실제로 사용할 수 있습니다. 방법은 다음과 같습니다.

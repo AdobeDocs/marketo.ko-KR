@@ -1,21 +1,27 @@
 ---
 unique-page-id: 10099102
 description: Microsoft Dynamics MSI용 플러그인 릴리스에 대해 알아봅니다. 버전 기록을 찾아 Dynamics 버전에 대한 최신 Marketo 솔루션을 다운로드합니다.
-title: ' [!DNL Microsoft Dynamics] MSI용 플러그인 릴리스'
+title: '[!DNL Microsoft Dynamics] MSI의 플러그인 릴리스'
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/egQszdONMhYChmpRBz40TUuYH0k-UYHLuPxAakLzjsM
+TQID: 'https://experienceleague.adobe.com/egQszdONMhYChmpRBz40TUuYH0k-UYHLuPxAakLzjsM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 486
+source-wordcount: '487'
 ht-degree: 12%
-
 ---
-
 # [!DNL Microsoft Dynamics] MSI의 플러그인 릴리스 {#plug-in-releases-for-microsoft-dynamics-msi}
 
 [!DNL Microsoft Dynamics]에 처음 동기화하면 최신 버전의 Marketo Sales Insight(MSI)용 플러그인을 다운로드하여 설치합니다. Marketo은 이러한 플러그인을 정기적으로 업데이트하므로 동일한 위치로 돌아가서 새 버전을 다운로드할 수 있습니다.

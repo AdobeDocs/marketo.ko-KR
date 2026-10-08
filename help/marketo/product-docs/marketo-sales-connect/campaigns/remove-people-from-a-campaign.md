@@ -4,16 +4,18 @@ description: Sales Connect 캠페인에서 사람을 제거하는 방법을 알�
 title: 캠페인에서 사용자 제거
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ztlUTzx-jSFplSRg9FyEWFID4RIdEHZh6J-I6DXhte4
+TQID: 'https://experienceleague.adobe.com/ztlUTzx-jSFplSRg9FyEWFID4RIdEHZh6J-I6DXhte4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 269
+source-wordcount: '269'
 ht-degree: 3%
-
 ---
-
 # 캠페인에서 사용자 제거 {#remove-people-from-a-campaign}
 
 수신자가 답장을 보내면 자동으로 캠페인을 종료할 수 있습니다. 또한 해당 수신자를 위한 &#39;성공&#39;으로 캠페인을 표시하도록 선택할 수 있습니다.

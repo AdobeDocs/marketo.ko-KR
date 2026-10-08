@@ -1,7 +1,10 @@
 ---
 description: 리드 가져오기, 프로그램 QA 및 데이터 표준화와 같은 주요 워크플로에서 Marketo Engage 데이터 범위, 거버넌스 제어 및 PII 고려 사항을 위한 CX Enterprise Coworker을 검토하십시오.
 title: CX Enterprise Coworker for Marketo Engage 데이터 정보 시트
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1459'
 ht-degree: 0%
@@ -66,7 +69,7 @@ CX Enterprise Coworker for Marketo Engage은 마케팅 운영 팀이 리드 가�
 
 **자격:** 프로비저닝은 [핵심 Gen-AI 약관 및 추가 약관](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}에 동의한 Marketo Engage 사용자로 제한됩니다.
 
-**롤아웃 모델:** 배포는 광범위한 공개 Beta 확장 전에 Alpha 및 Private Beta을 통해 진행되며 궁극적으로 일반 가용성입니다.
+**롤아웃 모델:** 배포는 광범위한 공개 Beta 확장 전에 Alpha 및 Private beta을 통해 진행되며 궁극적으로 일반 가용성입니다.
 
 **지리적 범위:** 초기 릴리스는 중국 본토를 제외한 글로벌 Marketo Engage 사용자를 위한 것입니다.
 

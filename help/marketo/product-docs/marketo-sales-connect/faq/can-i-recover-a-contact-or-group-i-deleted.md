@@ -4,16 +4,18 @@ description: Sales Connect에서 삭제된 연락처 또는 그룹을 복구할 
 title: 삭제한 연락처 또는 그룹을 복구할 수 있습니까?
 exl-id: 2d12187b-c64a-431f-aefa-d8ed1c90909c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/1X5V24S-dbglE9OpnFvG0aRbL5cqk8ndHoBKw0GxyrY
+TQID: 'https://experienceleague.adobe.com/1X5V24S-dbglE9OpnFvG0aRbL5cqk8ndHoBKw0GxyrY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 88
+source-wordcount: '88'
 ht-degree: 20%
-
 ---
-
 # 삭제한 연락처 또는 그룹을 복구할 수 있습니까? {#can-i-recover-a-contact-or-group-i-deleted}
 
 연락처 또는 그룹을 삭제한 후 복구할 수 없습니다. 그룹을 삭제한 경우(선택하지 않은 사람), 모든 연락처는 [!UICONTROL People] 탭의 &quot;[!UICONTROL Everyone]&quot; 아래에 계속 존재하므로 선택한 다음 새 그룹에 다시 추가할 수 있습니다.

@@ -3,20 +3,23 @@ description: Salesforce Classic의 목록 보기에 일괄 작업 버튼을 추�
 title: Salesforce Classic에 일괄 작업 버튼 추가
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/V678Fl7lDnyqm8Wbrct-F6boGtjFlNO9VY1o9TrDE5w
+TQID: 'https://experienceleague.adobe.com/V678Fl7lDnyqm8Wbrct-F6boGtjFlNO9VY1o9TrDE5w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 102
+source-wordcount: '102'
 ht-degree: 7%
-
 ---
-
 # [!DNL Salesforce] Classic에 일괄 작업 단추 추가{#add-bulk-action-buttons-to-salesforce-classic}
 
 [!DNL Salesforce] 레이아웃에 Marketo 단추를 추가할 수 있습니다. 예를 들면 다음과 같습니다.

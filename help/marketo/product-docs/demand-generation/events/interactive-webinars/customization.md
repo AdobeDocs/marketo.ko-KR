@@ -3,21 +3,25 @@ description: Marketo에서 대화형 웨비나를 사용자 지정하는 방법�
 title: 대화형 웨비나 사용자 지정
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-TQID: https://experienceleague.adobe.com/WV5faY8xCe28CjNG18u-fXeLb2LtkhQp68bVQF9sk-Q
+TQID: 'https://experienceleague.adobe.com/WV5faY8xCe28CjNG18u-fXeLb2LtkhQp68bVQF9sk-Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 782
+source-wordcount: '782'
 ht-degree: 0%
-
 ---
-
 # 대화형 웨비나 사용자 지정 {#interactive-webinars-customization}
 
 웨비나를 맞춤화하는 것은 참가자에게 보다 매력적이고 효과적인 경험을 제공하는 데 중요합니다.
@@ -149,4 +153,4 @@ Adobe Connect은 사용할 준비가 된 9개의 기본 배경을 제공합니�
 
 * 호스트는 룸을 만드는 동안 테마를 선택하거나 나중에 룸 정보 페이지(**룸 상단 표시줄** > **추가 메뉴** > **룸 정보 보기**)에서 테마를 업데이트할 수 있습니다.
 
-[테마](https://helpx.adobe.com/kr/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}에 대해 자세히 알아보세요.
+[테마](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}에 대해 자세히 알아보세요.

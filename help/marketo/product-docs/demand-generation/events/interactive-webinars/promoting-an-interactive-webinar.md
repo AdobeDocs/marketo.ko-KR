@@ -3,18 +3,21 @@ description: Marketo에서 대화형 웨비나를 홍보하는 방법을 알아�
 title: 대화형 웨비나 홍보
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-TQID: https://experienceleague.adobe.com/QBHZR8wjeXBanHL-K3L8yldblimtKfcY4akfwVu78EI
+TQID: 'https://experienceleague.adobe.com/QBHZR8wjeXBanHL-K3L8yldblimtKfcY4akfwVu78EI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Metadata
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 799
+source-wordcount: '799'
 ht-degree: 1%
-
 ---
-
 # 대화형 웨비나 홍보 {#promoting-an-interactive-webinar}
 
 대화형 웨비나를 프로모션하는 것은 Launchpoint를 통해 파트너 웨비나를 프로모션하는 것과 비슷합니다. 대화형 웨비나 이벤트 프로그램을 만들 때 캠페인을 실행하거나 프로그램에 멤버를 가져와서 멤버를 추가할 수 있습니다. 대화형 웨비나 이벤트 프로그램에 추가된 멤버를 확인하려면 **[!UICONTROL Members]** 탭을 클릭하십시오.

@@ -1,20 +1,25 @@
 ---
 description: Marketo의 Veeva에서 작업을 생성하여 영업 팀에게 수행할 작업과 시기를 알리는 방법에 대해 알아봅니다. 작업 흐름 만들기 단계를 사용하고 제목, 설명 및 기한을 사용자 지정합니다.
-title: ' [!DNL Veeva]에서 작업 만들기'
+title: '[!DNL Veeva]에서 작업 만들기'
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/W4zIWswN64cHyqA7oQ9iku0iMC7Q6NqIpWiAcSgvD04
+TQID: 'https://experienceleague.adobe.com/W4zIWswN64cHyqA7oQ9iku0iMC7Q6NqIpWiAcSgvD04'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Integrations
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 134
+source-wordcount: '134'
 ht-degree: 0%
-
 ---
-
 # [!DNL Veeva]에서 작업 만들기 {#create-task-in-veeva}
 
 마케터는 거래 성사에 도움이 되는 정보를 보유하고 있습니다. 작업을 만들어 수행할 작업과 수행할 시기를 알릴 수 있습니다.

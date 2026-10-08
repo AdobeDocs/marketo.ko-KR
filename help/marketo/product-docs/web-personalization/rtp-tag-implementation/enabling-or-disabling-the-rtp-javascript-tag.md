@@ -4,23 +4,29 @@ description: Rtp 활성화 또는 비활성화를 포함하여 Marketo Engage에
 title: RTP JavaScript 태그 활성화 또는 비활성화
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/1efEuhmHeV7tWP36T2QIzYtyxhNnJQrqWIoBn4lD8v4
+TQID: 'https://experienceleague.adobe.com/1efEuhmHeV7tWP36T2QIzYtyxhNnJQrqWIoBn4lD8v4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 134
+source-wordcount: '134'
 ht-degree: 11%
-
 ---
-
 # RTP JavaScript 태그 활성화 또는 비활성화 {#enabling-or-disabling-the-rtp-javascript-tag}
 
 RTP JavaScript 태그는 웹 Personalization이 웹 활동을 추적하는지 또는 웹 사이트에서 캠페인이나 컨텐츠 권장 사항을 실행하는지 여부를 제어합니다.

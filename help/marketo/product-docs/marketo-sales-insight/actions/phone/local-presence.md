@@ -3,16 +3,18 @@ description: 판매 호출에 대한 로컬 프레즌스에 대해 알아봅니�
 title: 현지 전화
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/8dUNLiNd7c0-GSslKWva4LBrmEFExuk22aLXamF-oBk
+TQID: 'https://experienceleague.adobe.com/8dUNLiNd7c0-GSslKWva4LBrmEFExuk22aLXamF-oBk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 159
+source-wordcount: '159'
 ht-degree: 3%
-
 ---
-
 # 현지 전화 {#local-presence}
 
 로컬 상태 는 수신자의 동일한 지역 코드에서 호출하는 것처럼 보이는 옵션을 제공합니다.

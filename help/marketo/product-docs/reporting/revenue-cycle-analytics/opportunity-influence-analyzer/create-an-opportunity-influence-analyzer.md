@@ -4,13 +4,19 @@ description: 영업 기회 영향 만들기 를 사용하여 Marketo Engage에�
 title: 기회 영향 분석기 만들기
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 5%
-
 ---
-
 # 기회 영향 분석기 만들기 {#create-an-opportunity-influence-analyzer}
 
 Opportunity Influence Analyzer 를 사용하여 중요한 딜에 대한 마케팅의 기여를 보여 줍니다. 프로그램 및 이벤트 성공, 그리고 기회의 삶에서 흥미로운 순간을 살펴보십시오.

@@ -3,31 +3,44 @@ description: 새 Marketo Engage 인스턴스를 위한 Design Studio 섹션을 �
 title: 새로운 인스턴스 모범 사례 - Design Studio 검사 목록
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-TQID: https://experienceleague.adobe.com/RBppQJwjVVJ-5eQDWh-990TJDXF4c7EPEja7uHRlI6I
+TQID: 'https://experienceleague.adobe.com/RBppQJwjVVJ-5eQDWh-990TJDXF4c7EPEja7uHRlI6I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
   - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+    internal-label: Global Assets
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 625
-ht-degree: 3%
-
+source-wordcount: '625'
+ht-degree: 4%
 ---
-
 # 새 인스턴스 모범 사례: 디자인 스튜디오 체크리스트 {#new-instance-best-practices-design-studio-checklist}
 
 Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는 위치입니다. 조직에서 프로그램에서 사용할 전역 자산을 만들고 일관된 명명 규칙을 사용하며 쉬운 검색을 위해 하위 폴더에 구성합니다.
@@ -46,8 +59,8 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
 <tbody>
   <tr>
     <td>전역 랜딩 페이지</td>
-    <td><li><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">전역 랜딩 페이지 만들기(자유 형식/안내)</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">테스트 페이지를 만들고</a> A/B 테스트하여 가장 성과가 좋은 랜딩 페이지 템플릿을 테스트합니다(해당하는 경우).</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">전역 랜딩 페이지 만들기(자유 형식/안내)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">테스트 페이지를 만들고</a> A/B 테스트하여 가장 성과가 좋은 랜딩 페이지 템플릿을 테스트합니다(해당하는 경우).</li></td>
   </tr>
   <tr>
     <td>템플릿</td>
@@ -55,7 +68,7 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
   </tr>
   <tr>
     <td>개인 정보 및 규정 준수</td>
-    <td><li>개인정보 규정 준수를 위해 랜딩 페이지에서 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">코드 조각</a> 또는 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">토큰</a>을 사용하여 바닥글을 만드십시오.</li></td>
+    <td><li>개인정보 규정 준수를 위해 랜딩 페이지에서 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">코드 조각</a> 또는 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">토큰</a>을 사용하여 바닥글을 만드십시오.</li></td>
   </tr>
 </tbody>
 </table>
@@ -72,7 +85,7 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
 <tbody>
   <tr>
     <td>글로벌 Forms</td>
-    <td><li>구독 환경 설정, 제어된 콘텐츠 다운로드, 데모 요청, 웨비나 등록 등과 같은 사용 사례에 대해 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">글로벌 양식</a>을 설정하십시오.</li></td>
+    <td><li>구독 환경 설정, 제어된 콘텐츠 다운로드, 데모 요청, 웨비나 등록 등과 같은 사용 사례에 대해 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">글로벌 양식</a>을 설정하십시오.</li></td>
   </tr>
   <tr>
     <td>개인 정보 및 규정 준수</td>
@@ -80,7 +93,7 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
   </tr>
   <tr>
     <td>데이터 표준화</td>
-    <td><li>데이터가 흐트러지지 않도록 열린 텍스트 필드 대신 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">양식 필드</a>에 선택 목록을 적용해 보십시오.</li></td>
+    <td><li>데이터가 흐트러지지 않도록 열린 텍스트 필드 대신 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">양식 필드</a>에 선택 목록을 적용해 보십시오.</li></td>
   </tr>
 </tbody>
 </table>
@@ -101,13 +114,13 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
   </tr>
   <tr>
     <td>템플릿</td>
-    <td><li>디자이너/개발자와 함께 모듈 기반 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">전자 메일 템플릿</a>을 디자인하거나 고유한 HTML을 사용하십시오.</li>
+    <td><li>디자이너/개발자와 함께 모듈 기반 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">전자 메일 템플릿</a>을 디자인하거나 고유한 HTML을 사용하십시오.</li>
     <li>테스트된 이메일 템플릿을 만들어 A/B 테스트하고 우수성이 검증된 템플릿(해당되는 경우)을 테스트합니다.</li></td>
   </tr>
   <tr>
     <td>개인 정보 및 규정 준수</td>
-    <td><li>저작권 연식, 전역 위치 및 준수 관련 언어와 같은 재사용 가능한 블록을 제어하려면 전자 메일 템플릿에 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">스니펫을 추가</a>하십시오.</li>
-    <li>대상 대상을 기반으로 콘텐츠를 개인화하려면 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">토큰을 추가</a>하십시오.</li></td>
+    <td><li>저작권 연식, 전역 위치 및 준수 관련 언어와 같은 재사용 가능한 블록을 제어하려면 전자 메일 템플릿에 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">스니펫을 추가</a>하십시오.</li>
+    <li>대상 대상을 기반으로 콘텐츠를 개인화하려면 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">토큰을 추가</a>하십시오.</li></td>
   </tr>
 </tbody>
 </table>
@@ -124,7 +137,7 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
 <tbody>
   <tr>
     <td>스니펫</td>
-    <td><li><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">코드 조각</a>을 만들어 연락처 정보, 소셜 미디어 링크, 브랜드 정보, 전자 메일과 랜딩 페이지의 개인 정보 및 준수 노트와 같은 여러 사용 사례에 사용할 수 있는 재사용 가능한 콘텐츠 블록을 만듭니다.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">코드 조각</a>을 만들어 연락처 정보, 소셜 미디어 링크, 브랜드 정보, 전자 메일과 랜딩 페이지의 개인 정보 및 준수 노트와 같은 여러 사용 사례에 사용할 수 있는 재사용 가능한 콘텐츠 블록을 만듭니다.</li></td>
   </tr>
 </tbody>
 </table>
@@ -161,7 +174,7 @@ Design Studio 섹션은 재사용 가능한 &#39;글로벌 자산&#39;이 있는
 <tbody>
   <tr>
     <td>폴더 구조 </td>
-    <td><li>각 에셋 유형에 대한 하위 폴더를 만들고 <a href="https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">전역 에셋을 구성</a>(예: 대화 흐름, 전자 메일 템플릿, 전자 메일, 양식, 이미지 및 파일, 랜딩 페이지, 랜딩 페이지 템플릿, 코드 조각 등)합니다. 적절합니다.</li></td>
+    <td><li>각 에셋 유형에 대한 하위 폴더를 만들고 <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">전역 에셋을 구성</a>(예: 대화 흐름, 전자 메일 템플릿, 전자 메일, 양식, 이미지 및 파일, 랜딩 페이지, 랜딩 페이지 템플릿, 코드 조각 등)합니다. 적절합니다.</li></td>
   </tr>
 </tbody>
 </table>

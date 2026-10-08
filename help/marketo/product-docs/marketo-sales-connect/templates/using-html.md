@@ -4,18 +4,20 @@ description: Sales Connect 템플릿에서 HTML을 사용하는 방법을 알아
 title: HTML 사용
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/3F8ZGgvuBQ7cpXNpd5rIQROpYSmm-YprqA6Qzrmcbas
+TQID: 'https://experienceleague.adobe.com/3F8ZGgvuBQ7cpXNpd5rIQROpYSmm-YprqA6Qzrmcbas'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 97
+source-wordcount: '97'
 ht-degree: 5%
-
 ---
-
 # HTML 사용 {#using-html}
 
 1. HTML에서 이메일을 만드는 데 사용하는 도구(예: Marketo의 이메일 편집기)에서 이메일의 소스 코드를 복사합니다.

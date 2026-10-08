@@ -4,13 +4,19 @@ description: Marketo Engage에서 사용자 정의 필드 그룹 만들기를 �
 title: 필드 조직자를 사용하여 사용자 정의 필드 그룹 만들기
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 4%
-
 ---
-
 # 필드 조직자를 사용하여 사용자 정의 필드 그룹 만들기 {#create-custom-field-groups-using-the-field-organizer}
 
 수익 주기 탐색기의 모델 성과 분석(리드) 영역에서 보고를 위해 사용자 정의 필드 그룹을 활성화하려면 먼저 Marketo 리드 관리의 필드 구성 관리자를 통해 표준 또는 사용자 정의 필드를 보고용 그룹으로 분류해야 합니다. 리드 및 회사 속성에만 적용됩니다.

@@ -4,18 +4,23 @@ description: 프로그램 포커스를 통해 마케팅 달력 항목과 상호 
 title: 프로그램 포커스 이해 및 활성화
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/esiXCtVAOCkiFVxsuNhuJG6aYVkE0xdFIE5uHdNzGj0
+TQID: 'https://experienceleague.adobe.com/esiXCtVAOCkiFVxsuNhuJG6aYVkE0xdFIE5uHdNzGj0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 166
+source-wordcount: '166'
 ht-degree: 0%
-
 ---
-
 # 프로그램 포커스 이해 및 활성화 {#understand-enable-program-focus}
 
 마케팅 캘린더에서는 사물을 한눈에 볼 수 있지만, 몇 가지 상호 작용도 가능합니다. 항목을 [만들기](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [편집](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [삭제](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"} 및 [확인](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}할 수 있습니다. 항목과 상호 작용하려면 먼저 프로그램에 중점을 두어야 합니다.

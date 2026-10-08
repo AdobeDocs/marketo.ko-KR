@@ -2,15 +2,22 @@
 description: Marketo 랜딩 페이지에 대화 흐름을 임베드하는 방법을 알아봅니다. 방문자가 양식을 작성하지 않고 Dynamic Chat을 통해 회의를 예약할 수 있도록 합니다.
 title: 대화형 흐름 랜딩 페이지 사용
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Dynamic Chat
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 2%
-
 ---
-
 # 대화형 흐름 랜딩 페이지 사용{#use-a-conversational-flow-landing-page}
 
 Dynamic Chat 대화 플로우를 Marketo Engage 랜딩 페이지에 직접 포함하면 방문자가 양식을 작성하거나 챗봇과 상호 작용할 필요 없이 Dynamic Chat을 통해 회의를 예약할 수 있습니다.

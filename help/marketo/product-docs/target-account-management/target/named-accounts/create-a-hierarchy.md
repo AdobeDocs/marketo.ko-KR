@@ -4,16 +4,21 @@ description: CRM을 사용하지 않을 때 명명된 계정 계층 구조를 �
 title: 계층 만들기
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/kjE-3RzO0RBub-PJeySgJzc3mW6QAJ9PmGqMtL6hdjc
+TQID: 'https://experienceleague.adobe.com/kjE-3RzO0RBub-PJeySgJzc3mW6QAJ9PmGqMtL6hdjc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 154
+source-wordcount: '154'
 ht-degree: 7%
-
 ---
-
 # 계층 만들기 {#create-a-hierarchy}
 
 계층은 CRM에서 생성되어야 합니다. 그러나 CRM이 없는 경우 다음 단계에 따라 수동으로 계층 구조를 만듭니다.

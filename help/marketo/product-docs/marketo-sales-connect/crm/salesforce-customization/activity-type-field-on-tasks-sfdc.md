@@ -4,16 +4,18 @@ description: Sales Connect를 Salesforce에 동기화할 때 작업의 활동 �
 title: 작업의 활동 유형 필드 (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UJAL2pE3Pq0n7Sn9ev7GMGkBbgx12pZ0I5lBzfLpF1c
+TQID: 'https://experienceleague.adobe.com/UJAL2pE3Pq0n7Sn9ev7GMGkBbgx12pZ0I5lBzfLpF1c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 259
+source-wordcount: '259'
 ht-degree: 6%
-
 ---
-
 # 작업의 활동 유형 필드 (SFDC) {#activity-type-field-on-tasks-sfdc}
 
 [!DNL Sales Connect]을(를) 통해 [!DNL Salesforce]의 활동으로 전자 메일 및 호출을 기록할 수 있습니다. [!DNL Salesforce]에 중요한 데이터가 있는 핵심 부분에 [!UICONTROL Type] 필드가 올바른 값을 채우는 중입니다.

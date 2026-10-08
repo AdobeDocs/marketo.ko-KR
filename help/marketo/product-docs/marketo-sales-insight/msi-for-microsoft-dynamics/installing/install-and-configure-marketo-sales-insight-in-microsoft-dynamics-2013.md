@@ -4,20 +4,23 @@ description: Microsoft Dynamics 2013에서 Marketo Sales Insight을 설치하고
 title: Microsoft Dynamics 2013에 Marketo Sales Insight 설치 및 구성
 exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/SebmARDq2CFr9O239iRUunEFp2iViOFUQ7n7bMxrLm8
+TQID: 'https://experienceleague.adobe.com/SebmARDq2CFr9O239iRUunEFp2iViOFUQ7n7bMxrLm8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 365
+source-wordcount: '365'
 ht-degree: 5%
-
 ---
-
 # [!DNL Microsoft Dynamics 2013]에서 [!DNL Marketo Sales Insight] 설치 및 구성 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 [!DNL Marketo Sales Insight]은(는) 영업 팀에 마케팅 팀이 보유한 풍부한 데이터를 &quot;창&quot;으로 제공할 수 있는 환상적인 도구입니다. 설치 및 구성 방법은 다음과 같습니다.

@@ -4,18 +4,20 @@ description: 프로그램에서 내 토큰을 관리하는 방법을 알아봅�
 title: 내 토큰 관리
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-TQID: https://experienceleague.adobe.com/-DdWyWBFeKkrsZMgLvxhhzaqMcAXXjSYY6euh-vMXOY
+TQID: 'https://experienceleague.adobe.com/-DdWyWBFeKkrsZMgLvxhhzaqMcAXXjSYY6euh-vMXOY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 211
+source-wordcount: '211'
 ht-degree: 5%
-
 ---
-
 # 내 토큰 관리 {#managing-my-tokens}
 
 토큰을 사용하면 Marketo Engage에서의 작업을 단순화할 수 있습니다. 흐름 단계, 웹후크, 이메일 및 랜딩 페이지에서 [내 토큰](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}(사용자 지정 토큰)을 사용할 수 있습니다. 만드는 방법은 다음과 같습니다.

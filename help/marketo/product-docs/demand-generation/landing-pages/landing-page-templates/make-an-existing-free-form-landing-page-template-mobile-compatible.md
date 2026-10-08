@@ -4,19 +4,25 @@ description: 기존 자유 형식 랜딩 페이지 템플릿을 모바일과 호
 title: 기존 자유 형식 랜딩 페이지 템플릿을 모바일 호환 가능하도록 만들기
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/-EJdlRrUIvCn6r4P6LGvZbyAyBy1K3HJms38fW2VKnE
+TQID: 'https://experienceleague.adobe.com/-EJdlRrUIvCn6r4P6LGvZbyAyBy1K3HJms38fW2VKnE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 238
+source-wordcount: '238'
 ht-degree: 11%
-
 ---
-
 # 기존 자유 형식 랜딩 페이지 템플릿을 모바일 호환 가능하도록 만들기 {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 템플릿 편집기 와 랜딩 페이지 편집기 의 두 위치에서 작업을 수행할 수 있습니다.

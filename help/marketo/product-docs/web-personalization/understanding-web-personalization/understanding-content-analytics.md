@@ -4,23 +4,29 @@ description: 콘텐츠 분석에 대한 이해를 포함하여 Marketo Engage의
 title: Content Analytics 이해
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/LYR0jnGcjfCf-R3YoxNQBArEuj0a5TTidVBBmSWoNq4
+TQID: 'https://experienceleague.adobe.com/LYR0jnGcjfCf-R3YoxNQBArEuj0a5TTidVBBmSWoNq4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 370
+source-wordcount: '370'
 ht-degree: 3%
-
 ---
-
 # Content Analytics 이해 {#understanding-content-analytics}
 
 Content Analytics 페이지에는 웹 사이트에서 검색된 기존 콘텐츠(사례 연구, 블로그 게시물, 비디오, 보도 자료 등)가 표시됩니다. 또한 방문자가 콘텐츠를 사용할 때 생성되는 사용자 및 콘텐츠의 성능도 표시됩니다.
@@ -96,7 +102,7 @@ Analytics 테이블은 다음 세부 정보를 제공합니다.
 
 * **[!UICONTROL Views]**: 선택한 시간 범위에 대한 해당 콘텐츠 조각 보기
 * **[!UICONTROL Direct Conversions]**: 같은 방문에서 콘텐츠를 보고 양식을 작성한 웹 방문자입니다.
-* **[!UICONTROL Conversion Rate]**&#x200B;**:** 직접 전환으로 계산된 전환율을 클릭수로 나눈 비율입니다.
+* **[!UICONTROL Conversion Rate]****:** 직접 전환으로 계산된 전환율을 클릭수로 나눈 비율입니다.
 
 **[!UICONTROL Trends]**
 

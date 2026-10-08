@@ -4,16 +4,18 @@ description: 모든 컨텐츠 페이지, 해당 지표 및 범주가 예측 결�
 title: 모든 콘텐츠 이해
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/fzonhoTQmJlhdlbSFQ87CjwntcScl9f3-VjtwQL6At8
+TQID: 'https://experienceleague.adobe.com/fzonhoTQmJlhdlbSFQ87CjwntcScl9f3-VjtwQL6At8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 278
+source-wordcount: '278'
 ht-degree: 2%
-
 ---
-
 # 모든 콘텐츠 이해 {#understanding-all-content}
 
 모든 컨텐츠 페이지에는 수동으로 검색되거나 추가된 모든 컨텐츠가 표시됩니다.

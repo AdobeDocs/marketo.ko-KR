@@ -3,23 +3,29 @@ description: 영업 Insight 작업과 영업을 위한 마케팅 기반의 인�
 title: Sales Insight Actions 기능 개요
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/oklz4OlxLxWqtqQ4oBv3wMamrGKdfKKHppZ-P9CL23A
+TQID: 'https://experienceleague.adobe.com/oklz4OlxLxWqtqQ4oBv3wMamrGKdfKKHppZ-P9CL23A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1334
+source-wordcount: '1334'
 ht-degree: 1%
-
 ---
-
 # Sales Insight Actions 기능 개요 {#msi-actions-feature-overview}
 
 Sales Insight Actions 을 사용하여 마케팅 기반의 인텔리전스 및 참여 툴을 단일 워크플로우에 통합하여 잠재 고객 확보를 가속화합니다.
@@ -28,7 +34,7 @@ Sales Insight Actions 을 사용하여 마케팅 기반의 인텔리전스 및 �
 >
 >Marketo Sales Insight Actions는 [Marketo Sales Insight 패키지](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}를 통해 Salesforce CRM과만 통합되는 웹 기반 애플리케이션입니다. 이를 때로 &quot;Marketo 영업&quot; 또는 간단히 &quot;작업&quot;이라고 합니다.
 
-Sales Insight 작업에 대한 비디오 개요를 보려면 [여기를 클릭](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=ko){target="_blank"}하십시오.
+Sales Insight 작업에 대한 비디오 개요를 보려면 [여기를 클릭](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}하십시오.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -37,31 +43,31 @@ Sales Insight 작업에 대한 비디오 개요를 보려면 [여기를 클릭](
 위쪽 탐색의 &quot;작업 선택&quot; 드롭다운에서 다음 작업을 사용할 수 있습니다.
 
 * 판매 이메일 보내기
-   * 판매 이메일에는 보기, 클릭 및 회신 추적이 있습니다(게재 채널이 설정된 경우).
-   * 이메일 Personalization, 사용자 지정된 서명 및 첨부 파일 포함
-   * 템플릿 공유 및 보고서
-   * 팀 공유, 그룹 이메일 및 CC/BCC 기능
-   * 영업 이메일 활동은 Marketo 개인 레코드에 기록됩니다.
-   * Marketo 스마트 캠페인의 해당 필터 및 트리거(아래 세부 정보)
+  * 판매 이메일에는 보기, 클릭 및 회신 추적이 있습니다(게재 채널이 설정된 경우).
+  * 이메일 Personalization, 사용자 지정된 서명 및 첨부 파일 포함
+  * 템플릿 공유 및 보고서
+  * 팀 공유, 그룹 이메일 및 CC/BCC 기능
+  * 영업 이메일 활동은 Marketo 개인 레코드에 기록됩니다.
+  * Marketo 스마트 캠페인의 해당 필터 및 트리거(아래 세부 정보)
 
 * 판매 캠페인에 추가
-   * 이메일 및 작업의 시퀀스인 판매 플레이북에 리드 추가
-   * 팀 액세스 및 공유, 작업 생성, 주말 건너뛰기, OOO 이메일 회신 무시 및 자동 종료 포함
-   * 캠페인 활동이 Marketo 개인 레코드에 기록됩니다.
-   * Marketo 스마트 캠페인의 해당 필터 및 트리거(아래 세부 정보)
+  * 이메일 및 작업의 시퀀스인 판매 플레이북에 리드 추가
+  * 팀 액세스 및 공유, 작업 생성, 주말 건너뛰기, OOO 이메일 회신 무시 및 자동 종료 포함
+  * 캠페인 활동이 Marketo 개인 레코드에 기록됩니다.
+  * Marketo 스마트 캠페인의 해당 필터 및 트리거(아래 세부 정보)
 
 * 영업 통화
-   * CRM 내에서 전화 걸기를 사용하여 판매 통화
-   * 사전 녹화된 로컬 상태 포함
-   * 로그 호출 결과, 패널의 호출 기록 및 활동 기록
-   * 통화 활동이 Marketo 개인 레코드에 기록됩니다.
-   * Marketo 스마트 캠페인의 필터 및 트리거
+  * CRM 내에서 전화 걸기를 사용하여 판매 통화
+  * 사전 녹화된 로컬 상태 포함
+  * 로그 호출 결과, 패널의 호출 기록 및 활동 기록
+  * 통화 활동이 Marketo 개인 레코드에 기록됩니다.
+  * Marketo 스마트 캠페인의 필터 및 트리거
 
 * 작업 추가
-   * 잠재 고객에 대한 이메일, 호출, InMail 및 사용자 지정 작업 만들기
-   * Sales Campaign 을 통해 작업 생성 자동화
-   * [!DNL Salesforce]과(와) 작업 동기화
-   * [!DNL Salesforce] 활동 기록 섹션에 작업 기록
+  * 잠재 고객에 대한 이메일, 호출, InMail 및 사용자 지정 작업 만들기
+  * Sales Campaign 을 통해 작업 생성 자동화
+  * [!DNL Salesforce]과(와) 작업 동기화
+  * [!DNL Salesforce] 활동 기록 섹션에 작업 기록
 
 위쪽 탐색에서 ((0)) 아이콘을 클릭하여 라이브 피드에 액세스할 수 있습니다. 여기에는 화면 도킹 기능과 함께 영업 활동에 대한 라이브 업데이트를 볼 수 있는 기능이 포함되어 있습니다.
 
@@ -70,56 +76,56 @@ Sales Insight 작업에 대한 비디오 개요를 보려면 [여기를 클릭](
 MSI 패널 내의 탭에서 다음 데이터를 사용할 수 있습니다.
 
 * Insights 대시보드
-   * 참여 속도 그리드에는 판매 이메일, 판매 캠페인 작업 및 판매 호출의 활동이 포함됩니다
-   * 예정된 판매 캠페인 - 잠재 고객이 진행 중인 캠페인의 일부인 경우 예정된 판매 캠페인 탭에서 이 정보를 사용할 수 있습니다.
-   * 예정된 작업 - 리드와 관련된 예정된 작업이 있는 경우 예정된 작업 탭에서 이 정보를 사용할 수 있습니다.
+  * 참여 속도 그리드에는 판매 이메일, 판매 캠페인 작업 및 판매 호출의 활동이 포함됩니다
+  * 예정된 판매 캠페인 - 잠재 고객이 진행 중인 캠페인의 일부인 경우 예정된 판매 캠페인 탭에서 이 정보를 사용할 수 있습니다.
+  * 예정된 작업 - 리드와 관련된 예정된 작업이 있는 경우 예정된 작업 탭에서 이 정보를 사용할 수 있습니다.
 
 * 이메일 탭
-   * 보낸 모든 영업 이메일이 여기에 기록됩니다. 활동은 Marketo 개인 레코드에도 기록됩니다
-   * 열에는 제목, 열기, 클릭, 회신함(게재 채널이 설정된 판매 이메일에만 사용 가능), 발신자, 날짜가 포함됩니다
-   * 보낸 사람, 템플릿, 판매 캠페인 및 이메일 미리 보기와 같은 추가 세부 정보가 포함된 슬라이드 아웃 카드 포함
+  * 보낸 모든 영업 이메일이 여기에 기록됩니다. 활동은 Marketo 개인 레코드에도 기록됩니다
+  * 열에는 제목, 열기, 클릭, 회신함(게재 채널이 설정된 판매 이메일에만 사용 가능), 발신자, 날짜가 포함됩니다
+  * 보낸 사람, 템플릿, 판매 캠페인 및 이메일 미리 보기와 같은 추가 세부 정보가 포함된 슬라이드 아웃 카드 포함
 
 * 호출 탭
-   * 영업 전화 걸기 기능을 사용하여 수행한 모든 호출이 여기에 기록됩니다. 활동은 Marketo 개인 레코드에도 기록됩니다
-   * 열에는 이름, 결과, 메모, 호출됨, 기간 및 기록 링크가 포함됩니다.
-   * Call Made By, Call Answered By, 전화 번호 및 상태 등의 추가 세부 정보가 포함된 슬라이드 아웃 카드 포함
+  * 영업 전화 걸기 기능을 사용하여 수행한 모든 호출이 여기에 기록됩니다. 활동은 Marketo 개인 레코드에도 기록됩니다
+  * 열에는 이름, 결과, 메모, 호출됨, 기간 및 기록 링크가 포함됩니다.
+  * Call Made By, Call Answered By, 전화 번호 및 상태 등의 추가 세부 정보가 포함된 슬라이드 아웃 카드 포함
 
 ## 계정 및 영업 기회 레이아웃 {#account-and-opportunity-layout}
 
 위쪽 탐색에서 다음 작업을 사용할 수 있습니다.
 
 * 판매 이메일 보내기 - 계정/기회와 연계된 모든 연락처에 보기, 클릭 및 회신 추적을 사용하여 개인화되거나 템플릿화된 그룹 이메일을 보낼 수 있습니다.
-   * 판매 이메일에는 보기, 클릭 및 회신 추적이 있습니다(게재 채널이 설정된 경우).
-   * 이메일 Personalization, 사용자 지정된 서명 및 첨부 파일 포함
-   * 템플릿 공유 및 보고서
-   * 팀 공유, 그룹 이메일 및 CC/BCC 기능
-   * 영업 이메일 활동은 Marketo 개인 레코드에 기록됩니다.
-   * Marketo 스마트 캠페인의 해당 필터 및 트리거(아래 세부 정보)
+  * 판매 이메일에는 보기, 클릭 및 회신 추적이 있습니다(게재 채널이 설정된 경우).
+  * 이메일 Personalization, 사용자 지정된 서명 및 첨부 파일 포함
+  * 템플릿 공유 및 보고서
+  * 팀 공유, 그룹 이메일 및 CC/BCC 기능
+  * 영업 이메일 활동은 Marketo 개인 레코드에 기록됩니다.
+  * Marketo 스마트 캠페인의 해당 필터 및 트리거(아래 세부 정보)
 
 * Sales Campaign에 추가 - 계정/영업 기회와 연관된 모든 연락처를 이메일 및 작업의 시퀀스인 영업 플레이북에 추가합니다.
-   * 이메일 및 작업의 시퀀스인 판매 플레이북에 리드 추가
-   * 팀 액세스 및 공유, 작업 생성, 주말 건너뛰기, OOO 이메일 회신 무시 및 자동 종료 포함
-   * 캠페인 활동이 Marketo 개인 레코드에 기록됩니다.
-   * Marketo 스마트 캠페인의 해당 필터 및 트리거(아래 세부 정보)
+  * 이메일 및 작업의 시퀀스인 판매 플레이북에 리드 추가
+  * 팀 액세스 및 공유, 작업 생성, 주말 건너뛰기, OOO 이메일 회신 무시 및 자동 종료 포함
+  * 캠페인 활동이 Marketo 개인 레코드에 기록됩니다.
+  * Marketo 스마트 캠페인의 해당 필터 및 트리거(아래 세부 정보)
 
 위쪽 탐색에서 ((0)) 아이콘을 클릭하여 라이브 피드에 액세스할 수 있습니다. 여기에는 화면 도킹 기능과 함께 영업 활동에 대한 라이브 업데이트를 볼 수 있는 기능이 포함되어 있습니다.
 
 탭에서 다음 데이터를 사용할 수 있습니다.
 
 * Insights 대시보드
-   * 참여 속도 그리드에는 판매 이메일, 판매 캠페인 작업 및 판매 호출의 활동이 포함됩니다
-   * 예정된 판매 캠페인 - 계정/영업 기회의 연락처가 진행 중인 캠페인의 일부인 경우 예정된 판매 캠페인 탭에서 이 정보를 사용할 수 있습니다.
-   * 예정된 작업 - 계정/기회의 연락처와 관련하여 예정된 작업이 있는 경우 예정된 작업 탭에서 이 정보를 사용할 수 있습니다.
+  * 참여 속도 그리드에는 판매 이메일, 판매 캠페인 작업 및 판매 호출의 활동이 포함됩니다
+  * 예정된 판매 캠페인 - 계정/영업 기회의 연락처가 진행 중인 캠페인의 일부인 경우 예정된 판매 캠페인 탭에서 이 정보를 사용할 수 있습니다.
+  * 예정된 작업 - 계정/기회의 연락처와 관련하여 예정된 작업이 있는 경우 예정된 작업 탭에서 이 정보를 사용할 수 있습니다.
 
 * 이메일 탭
-   * 계정/영업 기회에서 연락처로 보낸 모든 영업 이메일이 여기에 기록됩니다. 활동은 Marketo 개인 레코드에도 기록됩니다
-   * 열에는 제목, 열기, 클릭, 회신함(게재 채널이 설정된 판매 이메일에만 사용 가능), 발신자 및 날짜가 포함됩니다
-   * 보낸 사람, 템플릿, 판매 캠페인 및 이메일 미리 보기와 같은 추가 세부 정보가 포함된 슬라이드 아웃 카드 포함
+  * 계정/영업 기회에서 연락처로 보낸 모든 영업 이메일이 여기에 기록됩니다. 활동은 Marketo 개인 레코드에도 기록됩니다
+  * 열에는 제목, 열기, 클릭, 회신함(게재 채널이 설정된 판매 이메일에만 사용 가능), 발신자 및 날짜가 포함됩니다
+  * 보낸 사람, 템플릿, 판매 캠페인 및 이메일 미리 보기와 같은 추가 세부 정보가 포함된 슬라이드 아웃 카드 포함
 
 * 호출 탭
-   * 영업 전화 걸기 기능을 사용하여 거래처/영업 기회에서 연락처로 거는 모든 호출은 여기에 기록됩니다. 활동은 Marketo 개인 레코드에도 기록됩니다
-   * 열에는 이름, 결과, 메모, 호출됨, 기간 및 녹음 링크 포함
-   * Call Made By, Call Answered By, 전화 번호 및 상태 등의 추가 세부 정보가 포함된 슬라이드 아웃 카드 포함
+  * 영업 전화 걸기 기능을 사용하여 거래처/영업 기회에서 연락처로 거는 모든 호출은 여기에 기록됩니다. 활동은 Marketo 개인 레코드에도 기록됩니다
+  * 열에는 이름, 결과, 메모, 호출됨, 기간 및 녹음 링크 포함
+  * Call Made By, Call Answered By, 전화 번호 및 상태 등의 추가 세부 정보가 포함된 슬라이드 아웃 카드 포함
 
 ## 가망 고객 및 연락처 목록 보기(일괄 작업) {#lead-and-contact-list-view}
 

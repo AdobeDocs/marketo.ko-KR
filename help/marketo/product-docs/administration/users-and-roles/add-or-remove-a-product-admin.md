@@ -3,18 +3,22 @@ description: Adobe Admin Console에서 제품 관리자를 추가하거나 제�
 title: 제품 관리자 추가 또는 제거
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 9%
-
 ---
-
 # 제품 관리자 추가 또는 제거 {#add-or-remove-a-product-admin}
 
 >[!NOTE]
 >
->**시스템** 관리자는 Adobe 조직 수준에서만 만들어집니다. 두 개 이상이 필요하다고 생각되면 [Adobe 지원](https://experienceleague.adobe.com/ko/support)에 문의하십시오.
+>**시스템** 관리자는 Adobe 조직 수준에서만 만들어집니다. 두 개 이상이 필요하다고 생각되면 [Adobe 지원](https://experienceleague.adobe.com/en/support)에 문의하십시오.
 
 ## 제품 관리자 추가 {#add-a-product-admin}
 

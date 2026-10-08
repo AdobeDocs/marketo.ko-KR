@@ -3,16 +3,18 @@ description: 이메일 경쟁 업체 또는 스팸 트랩을 방지하기 위해
 title: 차단된 도메인
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/rt1VTGsoWCNAELjwPto-eojaKAEsrGI4ekYHTOk4AZo
+TQID: 'https://experienceleague.adobe.com/rt1VTGsoWCNAELjwPto-eojaKAEsrGI4ekYHTOk4AZo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 98
+source-wordcount: '98'
 ht-degree: 7%
-
 ---
-
 # 차단된 도메인 {#blocked-domains}
 
 경쟁업체, 알려진 스팸 트랩 또는 연락을 원치 않는 다른 도메인에 실수로 이메일을 보내는 것을 방지하여 영업 팀이 성공할 수 있도록 지원합니다.

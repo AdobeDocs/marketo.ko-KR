@@ -4,13 +4,19 @@ description: 채널 비교를 포함하여 Marketo Engage의 프로그램 분석
 title: 프로그램 분석기로 채널 효과 비교
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 1%
-
 ---
-
 # 채널 효과를 [!UICONTROL Program Analyzer]과(와) 비교 {#compare-channel-effectiveness-with-the-program-analyzer}
 
 [!UICONTROL Program Analyzer]을(를) 사용하여 채널 비용, 멤버 확보, 파이프라인, 매출 등을 비교하여 가장 효과적이고 가장 낮은 채널을 식별하십시오.

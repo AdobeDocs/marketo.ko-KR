@@ -4,18 +4,23 @@ description: 참여 프로그램에서 사람들이 콘텐츠 수신을 중단�
 title: 참여 프로그램의 사용자 일시 중지
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/QMJ3H0hr90ds4HAc4RltNuT-0fKTtEAZXylGo53DNh0
+TQID: 'https://experienceleague.adobe.com/QMJ3H0hr90ds4HAc4RltNuT-0fKTtEAZXylGo53DNh0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '122'
 ht-degree: 9%
-
 ---
-
 # 참여 프로그램의 사용자 일시 중지 {#pause-people-in-an-engagement-program}
 
 사용자가 참여 프로그램의 구성원인 경우 [모든 콘텐츠를 소진](people-who-have-exhausted-content.md)할 때까지 콘텐츠를 받습니다. [[!UICONTROL Change Engagement Program Cadence]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) 흐름 단계를 사용하면 아직 콘텐츠를 소진하지 않았더라도 콘텐츠를 받지 못하게 할 수 있습니다.

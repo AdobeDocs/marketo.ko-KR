@@ -1,18 +1,23 @@
 ---
 description: Marketo에서 Dynamics 인증 방법을 다시 구성하는 방법을 알아봅니다. 동기화를 비활성화하고, 새 인증 방법 재구성을 사용하고, 웹 API 또는 ROPC에 대한 자격 증명의 유효성을 검사합니다.
-title: ' [!DNL Dynamics] 인증 방법 다시 구성'
+title: '[!DNL Dynamics] 인증 방법 다시 구성'
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/wRcBTP-m1VtKDg6L4zrH6zzPIvrFuMEPQd5QoSrrm3I
+TQID: 'https://experienceleague.adobe.com/wRcBTP-m1VtKDg6L4zrH6zzPIvrFuMEPQd5QoSrrm3I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 271
+source-wordcount: '272'
 ht-degree: 2%
-
 ---
-
 # Dynamics 인증 방법 재구성 {#reconfigure-dynamics-authentication-method}
 
 [!DNL Dynamics] 인증 방법을 업데이트하려면 아래 단계를 따르십시오.

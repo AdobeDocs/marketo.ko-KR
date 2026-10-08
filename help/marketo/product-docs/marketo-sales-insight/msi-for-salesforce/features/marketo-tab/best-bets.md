@@ -3,18 +3,21 @@ description: Salesforce의 Marketo 탭에서 최고의 베트에 대해 알아�
 title: Best Bets
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/amPHkzlbFZeURm4ASjiIyLqpYtVNDMqMMnqbRwjJ-6w
+TQID: 'https://experienceleague.adobe.com/amPHkzlbFZeURm4ASjiIyLqpYtVNDMqMMnqbRwjJ-6w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 300
+source-wordcount: '300'
 ht-degree: 0%
-
 ---
-
 # [!DNL Best Bets] {#best-bets}
 
 [!DNL Best Bets] 탭에는 긴급도와 상대 점수를 사용하여 계산된 우선 순위를 기준으로 모든 잠재 고객 목록이 포함되어 있습니다.

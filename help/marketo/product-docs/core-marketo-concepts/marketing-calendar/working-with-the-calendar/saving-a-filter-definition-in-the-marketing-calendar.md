@@ -4,16 +4,21 @@ description: 마케팅 캘린더에 필터 정의를 저장하는 방법을 알�
 title: 마케팅 캘린더에서 필터 정의 저장
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/W3KwfZv1of5jaqdiocNPIQlbc-7ccaelEw-L-VU17lI
+TQID: 'https://experienceleague.adobe.com/W3KwfZv1of5jaqdiocNPIQlbc-7ccaelEw-L-VU17lI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 88
+source-wordcount: '88'
 ht-degree: 19%
-
 ---
-
 # 마케팅 캘린더에서 필터 정의 저장 {#saving-a-filter-definition-in-the-marketing-calendar}
 
 필터를 저장하면 다른 필터 정의 간을 전환할 수 있습니다.

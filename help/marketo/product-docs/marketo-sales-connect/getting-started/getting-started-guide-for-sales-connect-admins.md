@@ -1,22 +1,25 @@
 ---
 description: 새 Sales Connect 인스턴스를 설정하는 방법을 알아봅니다. 단계에 따라 계정에 액세스하고, 사용자를 초대하고, Salesforce 및 Marketo을 연결합니다.
-title: ' [!DNL Sales Connect] 관리자를 위한 시작 안내서'
+title: '[!DNL Sales Connect] 관리자를 위한 시작 안내서'
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/5eAJUQpNX6UyZi-v3ADaHWbuECW7Q0yyVruqMS6upMY
+TQID: 'https://experienceleague.adobe.com/5eAJUQpNX6UyZi-v3ADaHWbuECW7Q0yyVruqMS6upMY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 477
+source-wordcount: '478'
 ht-degree: 0%
-
 ---
-
 # [!DNL Sales Connect] 관리자를 위한 시작 안내서 {#getting-started-guide-for-sales-connect-admins}
 
 이 문서는 새 [!DNL Sales Connect] 인스턴스를 설정하는 초기 단계를 안내합니다. 이 단계 중 일부는 Marketo 관리자, [!DNL Salesforce] 관리자 및 [!DNL Sales Connect] 관리자로 액세스해야 합니다. 아래 안내서에 따라 인스턴스 설정을 완료합니다.

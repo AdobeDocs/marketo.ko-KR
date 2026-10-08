@@ -4,18 +4,25 @@ description: 전체 이메일 A/B 테스트를 실행하는 방법을 알아봅�
 title: “전체 이메일” A/B 테스트 사용
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-TQID: https://experienceleague.adobe.com/P6YTdfoKe0D8egqK5amG2GTM92U7RZ1AWoQh6NcZpeQ
+TQID: 'https://experienceleague.adobe.com/P6YTdfoKe0D8egqK5amG2GTM92U7RZ1AWoQh6NcZpeQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 273
+source-wordcount: '273'
 ht-degree: 6%
-
 ---
-
 # “전체 이메일” A/B 테스트 사용 {#use-whole-email-a-b-testing}
 
 이메일을 쉽게 A/B 테스트할 수 있습니다. 좋은 테스트 중 하나는 **전체 이메일** 테스트입니다. 설정 방법은 다음과 같습니다.
@@ -50,11 +57,11 @@ ht-degree: 6%
 
 1. 두 번째 이메일을 선택합니다.
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. **[!UICONTROL Add]**&#x200B;을(를) 클릭하여 두 번째 전자 메일을 적용합니다. 슬라이더를 드래그하여 A/B 테스트를 받을 대상자의 백분율을 선택하고 **[!UICONTROL Next]**&#x200B;을(를) 클릭합니다.
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

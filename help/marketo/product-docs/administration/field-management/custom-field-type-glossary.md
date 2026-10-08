@@ -4,21 +4,28 @@ description: 부울, 통화, 날짜, 이메일, 공식 등을 포함하여 Marke
 title: 사용자 정의 필드 유형 용어집
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-TQID: https://experienceleague.adobe.com/Dh25WBFjkhrFODNcn6DpWNC9F2F-3D7C24Nwkv8fbOM
+TQID: 'https://experienceleague.adobe.com/Dh25WBFjkhrFODNcn6DpWNC9F2F-3D7C24Nwkv8fbOM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 601
+source-wordcount: '602'
 ht-degree: 3%
-
 ---
-
 # 사용자 정의 필드 유형 용어집 {#custom-field-type-glossary}
 
 Marketo에서 사용자 정의 필드를 만들 때 선택할 수 있는 유형 목록이 있습니다.

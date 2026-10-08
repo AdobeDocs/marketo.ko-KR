@@ -3,39 +3,60 @@ description: 상속된 인스턴스 관리 검사 목록 - Marketo 문서 - 제�
 title: 상속된 인스턴스 관리 검사 목록
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-TQID: https://experienceleague.adobe.com/FCMSgPqv3eJh4Etqe3J7305tnfQbVrghY8nc2Im6Ww8
+TQID: 'https://experienceleague.adobe.com/FCMSgPqv3eJh4Etqe3J7305tnfQbVrghY8nc2Im6Ww8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: e5d29014-8a81-4c0c-845b-2adc7a5d6258
+    internal-label: Campaign Inspector
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
   - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
   - id: fc9b09fe-b844-4544-887b-e420c3b82065
+    internal-label: Webhooks
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1943
+source-wordcount: '2030'
 ht-degree: 3%
-
 ---
-
 # 상속된 인스턴스: 관리 섹션 체크리스트 {#inherited-instance-admin-section-checklist}
 
 아래 체크리스트(각 문서의 하단에 연결된 후속 체크리스트)는 Adobe Professional Services에서 Marketo 챔피언의 입력을 통해 통합하여 빠르게 시작할 수 있도록 구성되었습니다. [확인 목록을 다운로드](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)하고 진행 상황을 추적할 수도 있습니다.
@@ -319,7 +340,7 @@ ht-degree: 3%
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (해당되는 경우)</td>
-<td>아래 단계를 따라 <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>에 액세스해야 합니다. 아직 Adobe ID을 설정하지 않은 경우 <a href="https://helpx.adobe.com/kr/manage-account/using/create-update-adobe-id.html" target="_blank">여기에서 설정하는 방법을 알아보세요</a>.
+<td>아래 단계를 따라 <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>에 액세스해야 합니다. 아직 Adobe ID을 설정하지 않은 경우 <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">여기에서 설정하는 방법을 알아보세요</a>.
 <br/>
 <li><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat 제품 관리자</a> 초대를 수락했습니까? Dynamic Chat이 Marketo Engage 인스턴스에서 활성화되고 사용자가 시스템 관리자로 지정되면 이메일이 전송됩니다.
 <br/> 그렇지 않은 경우 받은 편지함에서 환영 이메일을 찾고 초대를 수락하여 Adobe ID을 설정하십시오.</li>

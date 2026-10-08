@@ -3,19 +3,22 @@ description: Sales Insight 작업에서 관리자 및 관리자가 아닌 사용
 title: 사용자 액세스 상세 정보
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/cW6bqn-RNZOKcqbcoKCsDVRUwrOIxeXTFrknaXBtGAc
+TQID: 'https://experienceleague.adobe.com/cW6bqn-RNZOKcqbcoKCsDVRUwrOIxeXTFrknaXBtGAc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 2%
-
 ---
-
 # 사용자 액세스 상세 정보 {#user-access-details}
 
 관리자 및 관리자가 아닌 사용자는 무엇을 액세스할 수 있습니까?
@@ -48,24 +51,24 @@ ht-degree: 2%
 
 * 분석:
 
-   * 사용자가 팀 분석을 볼 수 있음
-   * 사용자는 자신이 속한 팀만 드릴다운할 수 있습니다
-   * 사용자는 자신의 분석을 볼 수 있습니다
+  * 사용자가 팀 분석을 볼 수 있음
+  * 사용자는 자신이 속한 팀만 드릴다운할 수 있습니다
+  * 사용자는 자신의 분석을 볼 수 있습니다
 
 * [!UICONTROL People] 페이지:
 
-   * 사용자는 모든 사람과 그룹을 공유할 수 있습니다.
-   * 사용자는 자신이 속한 팀과만 그룹을 공유할 수 있습니다
-   * 사용자는 작업 데이터베이스의 모든 사람을 볼 수 있습니다.
-   * 사용자가 삭제되면 공유 연락처는 해당 사용자를 삭제한 기본 관리자에게 소유권을 이전합니다
+  * 사용자는 모든 사람과 그룹을 공유할 수 있습니다.
+  * 사용자는 자신이 속한 팀과만 그룹을 공유할 수 있습니다
+  * 사용자는 작업 데이터베이스의 모든 사람을 볼 수 있습니다.
+  * 사용자가 삭제되면 공유 연락처는 해당 사용자를 삭제한 기본 관리자에게 소유권을 이전합니다
 
 * [!UICONTROL Team] 관리 페이지:
 
-   * 볼 수 없음
+  * 볼 수 없음
 
 * [!UICONTROL Templates] 페이지:
 
-   * 사용자는 모든 사람과 템플릿을 공유할 수 있습니다.
-   * 사용자는 관리자가 허용하는 범주의 템플릿을 공유할 수 있습니다.
-   * 사용자가 팀에서 제거되면 해당 팀의 템플릿이 공유되지 않습니다
-   * 사용자가 팀에서 삭제되면 해당 템플릿은 사용자를 삭제한 기본 관리자에게 소유권을 이전합니다
+  * 사용자는 모든 사람과 템플릿을 공유할 수 있습니다.
+  * 사용자는 관리자가 허용하는 범주의 템플릿을 공유할 수 있습니다.
+  * 사용자가 팀에서 제거되면 해당 팀의 템플릿이 공유되지 않습니다
+  * 사용자가 팀에서 삭제되면 해당 템플릿은 사용자를 삭제한 기본 관리자에게 소유권을 이전합니다

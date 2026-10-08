@@ -1,13 +1,14 @@
 ---
 description: Sales Insight Actions 프로필을 관리하는 방법을 알아봅니다. 설정에서 이름, 이메일, 서명 및 알림 환경 설정을 업데이트합니다.
 title: 프로필 관리
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 4%
-
 ---
-
 # 프로필 관리 {#manage-your-profile}
 
 내 프로필 페이지에서 이름, 계정의 언어/로케일/시간대를 업데이트하고 암호를 변경할 수 있습니다.

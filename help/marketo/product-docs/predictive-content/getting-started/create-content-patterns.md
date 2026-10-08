@@ -4,16 +4,18 @@ description: 예측 콘텐츠가 방문자가 보거나 클릭할 때 HTML 페�
 title: 콘텐츠 패턴 만들기
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ
+TQID: 'https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 395
+source-wordcount: '395'
 ht-degree: 2%
-
 ---
-
 # 콘텐츠 패턴 만들기 {#create-content-patterns}
 
 컨텐츠 패턴을 설정하면 웹 방문자가 컨텐츠 패턴과 관련된 HTML 웹 페이지를 클릭할 때 컨텐츠가 자동으로 검색됩니다. HTML 페이지(블로그 게시물, 보도 자료, 뉴스 기사)를 모든 컨텐츠 페이지에 컨텐츠 조각으로 추가하는 데 사용됩니다. 자동 검색은 콘텐츠 패턴을 기반으로 하는 경우 웹 방문자가 페이지 링크를 보거나 클릭할 때 정의된 URL 패턴과 관련된 HTML 페이지를 검색하고 추적합니다. 이 콘텐츠 조각(URL, 페이지 이름 및 메타데이터(이미지 URL 및 설명을 포함)은 모든 콘텐츠 페이지에 추가되어 예측 콘텐츠를 준비합니다. PDF 및 포함된 비디오와 같은 다른 콘텐츠를 자동으로 검색하려면 [콘텐츠 검색을 활성화](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)해야 합니다.

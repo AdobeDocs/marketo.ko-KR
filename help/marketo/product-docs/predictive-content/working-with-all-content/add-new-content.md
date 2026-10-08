@@ -4,16 +4,18 @@ description: 예측 콘텐츠의 모든 콘텐츠 페이지에 새 콘텐츠를 
 title: 새 콘텐츠 추가
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/V-Q0zHrqrDtaZg9bbnLzWOonlbfPcjlliCIRSKmieSs
+TQID: 'https://experienceleague.adobe.com/V-Q0zHrqrDtaZg9bbnLzWOonlbfPcjlliCIRSKmieSs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 95
+source-wordcount: '95'
 ht-degree: 13%
-
 ---
-
 # 새 콘텐츠 추가 {#add-new-content}
 
 [!UICONTROL All Content] 페이지에 콘텐츠를 수동으로 추가할 수 있습니다.

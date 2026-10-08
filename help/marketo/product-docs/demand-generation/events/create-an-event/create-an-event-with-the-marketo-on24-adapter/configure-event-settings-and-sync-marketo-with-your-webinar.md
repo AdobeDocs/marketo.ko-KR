@@ -4,16 +4,18 @@ description: 이벤트 설정을 구성하고 ON24 웨비나와 Marketo을 동�
 title: 이벤트 설정 구성 및 웨비나와 Marketo 동기화
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-TQID: https://experienceleague.adobe.com/AIHOBhsWZXdVEmNRKp8ci8j5aeqyYFjaGF4vhVFozqw
+TQID: 'https://experienceleague.adobe.com/AIHOBhsWZXdVEmNRKp8ci8j5aeqyYFjaGF4vhVFozqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 212
+source-wordcount: '212'
 ht-degree: 9%
-
 ---
-
 # 이벤트 설정 구성 및 웨비나와 Marketo 동기화 {#configure-event-settings-and-sync-marketo-with-your-webinar}
 
 다음 단계에 따라 Marketo 이벤트 설정을 구성하고 Marketo 및 ON24를 연결합니다.

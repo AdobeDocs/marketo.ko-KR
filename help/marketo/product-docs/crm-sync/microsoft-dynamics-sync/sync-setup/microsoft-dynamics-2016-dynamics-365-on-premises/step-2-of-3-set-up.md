@@ -1,22 +1,28 @@
 ---
 description: Dynamics 2016 또는 Dynamics 365용 Marketo 동기화 사용자를 온-프레미스로 설정하는 방법을 알아봅니다. 사용자를 만들고 Dynamics에서 Marketo 동기화 사용자 역할을 할당합니다.
-title: ' [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 온-프레미스 단계 2/3에 대한 Marketo 설치'
+title: '[!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 온-프레미스 단계 2/3에 대한 Marketo 설치'
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/A6gmYJUKmRW0Csy3F7RiWfLZylIi-bbApWYVT2J1rFk
+TQID: 'https://experienceleague.adobe.com/A6gmYJUKmRW0Csy3F7RiWfLZylIi-bbApWYVT2J1rFk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 493
+source-wordcount: '494'
 ht-degree: 1%
-
 ---
-
 # 2단계/3단계 [!DNL Dynamics]용 Marketo 설정(2016년 온프레미스/[!DNL Dynamics]년 온프레미스 365개){#step-of-set-up-for-marketo-on-premises-2016}
 
 이전 단계가 완료되었습니다.

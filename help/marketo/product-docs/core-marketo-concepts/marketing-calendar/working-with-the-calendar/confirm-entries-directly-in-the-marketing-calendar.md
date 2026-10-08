@@ -4,19 +4,25 @@ description: 마케팅 달력에서 잠정적 Smart Campaign 및 이메일 프�
 title: 마케팅 캘린더에서 직접 항목 확인
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/fRh1emGZ3AzFAP-ZjUPHgtXAxpz1dtX-3FCpFmn55ng
+TQID: 'https://experienceleague.adobe.com/fRh1emGZ3AzFAP-ZjUPHgtXAxpz1dtX-3FCpFmn55ng'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 89
+source-wordcount: '89'
 ht-degree: 15%
-
 ---
-
 # 마케팅 캘린더에서 직접 항목 확인 {#confirm-entries-directly-in-the-marketing-calendar}
 
 스마트 캠페인 및 이메일 프로그램은 임시 항목으로 만들 수 있으며 실제로 어떤 작업이 수행되는지 확인해야 합니다.

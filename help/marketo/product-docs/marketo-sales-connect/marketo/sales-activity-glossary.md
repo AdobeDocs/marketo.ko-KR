@@ -3,18 +3,20 @@ description: Sales Connect 판매 활동 약관에 대해 알아봅니다. Marke
 title: 세일즈 활동 용어집
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo
+TQID: 'https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 339
+source-wordcount: '339'
 ht-degree: 8%
-
 ---
-
 # 세일즈 활동 용어집 {#sales-activity-glossary}
 
 Sales Connect에서 판매자: 판매 케이던스에 잠재 고객을 추가하거나 이메일을 보내거나 활동을 호출하면 Marketo 활동 내역에 기록됩니다. 또한 잠재 고객이 이메일에 참여하면 열고, 클릭하고, 답장도 기록됩니다.

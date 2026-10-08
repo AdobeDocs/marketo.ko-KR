@@ -4,19 +4,25 @@ description: 테스트 담당자와 참여 스트림을 테스트하는 방법�
 title: 참여 스트림 테스트
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/idDd76zfpXOVc7RIRfubWZ1bScpjAR6rECV69EaivpI
+TQID: 'https://experienceleague.adobe.com/idDd76zfpXOVc7RIRfubWZ1bScpjAR6rECV69EaivpI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 158
+source-wordcount: '158'
 ht-degree: 6%
-
 ---
-
 # 참여 스트림 테스트 {#test-an-engagement-stream}
 
 모든 콘텐츠를 스트림에 추가한 후 한 번에 하나씩 테스트할 수 있습니다.
@@ -45,7 +51,7 @@ ht-degree: 6%
    >
    >찾고 있는 테스트 사용자가 없는 경우 **[!UICONTROL Create Person]** 옵션을 사용하여 즉시 만듭니다.
 
-   **[!UICONTROL Initial Stream]**&#x200B;을(를) 클릭하고 테스트할 스트림을 선택한 다음 **[!UICONTROL Run Cast]**&#x200B;을(를) 클릭합니다.
+   **[!UICONTROL Initial Stream]**&#x200B;을(를) 클릭하고 테스트할 스트림을 선택한 다음 **[!UICONTROL Run Cast]**을(를) 클릭합니다.
    ![](assets/five-rubiks.png)
 
 1. 사용자가 이전에 설정한 [전환 규칙](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)을 거친 후 새로 고침 아이콘을 클릭합니다.

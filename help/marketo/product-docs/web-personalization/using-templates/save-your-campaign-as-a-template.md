@@ -4,21 +4,25 @@ description: 캠페인을 템플릿으로 저장을 포함하여 Marketo Engage�
 title: 캠페인을 템플릿으로 저장
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/aKPjkczJY9toLlefn7pHMyPOsw3qdybPPRS0a-flxJ4
+TQID: 'https://experienceleague.adobe.com/aKPjkczJY9toLlefn7pHMyPOsw3qdybPPRS0a-flxJ4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 104
+source-wordcount: '104'
 ht-degree: 13%
-
 ---
-
 # 캠페인을 템플릿으로 저장 {#save-your-campaign-as-a-template}
 
 완벽한 웹 캠페인을 만드는 데 시간을 보낸 적이 있습니까? 이제 템플릿으로 저장하여 나중에 쉽게 다시 사용할 수 있습니다.

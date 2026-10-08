@@ -4,18 +4,20 @@ description: 인앱 메시지 대상자를 설정하는 방법을 알아봅니�
 title: 인앱 메시지 대상자 설정
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/hMVJupuaDx0Tw9yy8geOrIZPUosdvtx7HJwzqbQiIdA
+TQID: 'https://experienceleague.adobe.com/hMVJupuaDx0Tw9yy8geOrIZPUosdvtx7HJwzqbQiIdA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 292
+source-wordcount: '292'
 ht-degree: 5%
-
 ---
-
 # 인앱 메시지 대상자 설정 {#set-your-in-app-message-audience}
 
 첫 번째 단계는 인앱 메시지를 수신할 사용자를 결정하는 것입니다. 스마트 목록을 설정해야 합니다.

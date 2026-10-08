@@ -4,16 +4,21 @@ description: Marketo의 자유 형식 랜딩 페이지에서 이미지에 링크
 title: 자유 형식 랜딩 페이지의 이미지에 링크 추가
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc
+TQID: 'https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '122'
 ht-degree: 19%
-
 ---
-
 # 자유 형식 랜딩 페이지의 이미지에 링크 추가 {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
 랜딩 페이지의 이미지를 클릭 가능한 링크로 만들려면 아래 단계를 수행합니다.

@@ -4,20 +4,26 @@ description: 이상적인 고객 프로필에서 AI 기반 권장 사항을 사�
 title: 새 계정 검색
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/9Bf4cR5lkY9pIFqUSVSpgQL8XJwTv0-jX8-zQdD9Bbw
+TQID: 'https://experienceleague.adobe.com/9Bf4cR5lkY9pIFqUSVSpgQL8XJwTv0-jX8-zQdD9Bbw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 307
+source-wordcount: '307'
 ht-degree: 4%
-
 ---
-
 # 새 계정 검색 {#new-account-discovery}
 
 새 계정 검색을 사용하면 이상적인 고객 프로필에서 AI 기반 권장 사항을 사용하여 타깃팅할 새 계정을 찾는 데 도움이 될 수 있습니다.
@@ -84,4 +90,4 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >계정이 저장되면  [!DNL LinkedIn][&#128279;](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)에서 일치하는 대상을 사용하여 대상을 타깃팅할 수 있습니다.
+   >계정이 저장되면  [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)에서 [일치하는 대상을 사용하여 대상을 타깃팅할 수 있습니다.

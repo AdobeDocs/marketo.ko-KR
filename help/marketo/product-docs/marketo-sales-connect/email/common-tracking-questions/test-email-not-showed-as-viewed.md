@@ -4,16 +4,18 @@ description: 테스트 이메일이 Sales Connect에서 볼 수 있는 것으로
 title: 테스트 이메일이 조회됨으로 표시되지 않음
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/QTXdqEMbhGygxPbWSny4xPvtJIHc9CUVLndkbKpI4fE
+TQID: 'https://experienceleague.adobe.com/QTXdqEMbhGygxPbWSny4xPvtJIHc9CUVLndkbKpI4fE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 153
+source-wordcount: '153'
 ht-degree: 7%
-
 ---
-
 # 테스트 이메일이 조회됨으로 표시되지 않음 {#test-email-not-showed-as-viewed}
 
 다른 이메일 주소로 메시지를 보낸 경우에도 Live Feed에 자신에게 보낸 이메일을 보는 것으로 기록되지 않습니다. 추적은 장치를 기반으로 합니다. [!DNL Sales Connect]에 로그인한 컴퓨터를 사용하는 한 해당 활동을 필터링합니다.

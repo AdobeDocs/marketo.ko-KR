@@ -4,16 +4,21 @@ description: Salesforce과 Marketo Engage 간의 기본 Salesforce 필드 매핑
 title: 기본 Salesforce 필드 매핑
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/i7ducTSqHY1rBTOQ8qNHPRCuETASKkuVWNsQGOW3OPE
+TQID: 'https://experienceleague.adobe.com/i7ducTSqHY1rBTOQ8qNHPRCuETASKkuVWNsQGOW3OPE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 154
+source-wordcount: '154'
 ht-degree: 5%
-
 ---
-
 # 기본 [!DNL Salesforce] 필드 매핑 {#default-salesforce-field-mapping}
 
 Marketo Engage 계정을 Salesforce과 처음 동기화할 때 Marketo은 내장된 Salesforce과 Marketo 필드 간에 이러한 연결을 자동으로 만듭니다. Marketo은 리드, 계정, 기회 및 연락처에서 사용자 정의 필드도 동기화합니다.

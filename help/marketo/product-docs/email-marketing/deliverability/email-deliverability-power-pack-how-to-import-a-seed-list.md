@@ -4,17 +4,22 @@ description: 받은 편지함 배치 테스트를 위해 Marketo Engage에 시�
 title: 이메일 게재 기능 파워 팩 - 시드 목록을 가져오는 방법
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
+TQID: 'https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 321
+source-wordcount: '321'
 ht-degree: 5%
-
 ---
-
-# 이메일 전달성 강화 팩: 시드 목록을 가져오는 방법 {#email-deliverability-power-pack-how-to-import-a-seed-list}
+# 이메일 전달성 파워 팩: 시드 목록을 가져오는 방법 {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
 시드 목록은 Google 앱, Hotmail, Yahoo! 등을 비롯한 여러 사서함 공급자의 이메일 계정 목록으로, 스팸 폴더 전달률과 받은 편지함의 비율을 비교하는 데 사용됩니다. 다음은 해당 목록을 Marketo Engage 인스턴스로 가져오는 단계입니다.
 

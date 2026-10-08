@@ -3,16 +3,18 @@ description: 판매 이메일에 대한 위치 추적이 작동하는 방식을 
 title: 위치 추적은 어떻게 작동합니까
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/OMtsvCFUgGLH-VyS8cuMMdZ-WSOCogIhqh9gSoKrMk0
+TQID: 'https://experienceleague.adobe.com/OMtsvCFUgGLH-VyS8cuMMdZ-WSOCogIhqh9gSoKrMk0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 124
+source-wordcount: '124'
 ht-degree: 4%
-
 ---
-
 # 위치 추적은 어떻게 작동합니까? {#how-does-location-tracking-work}
 
 수신자의 위치를 잘못 파악한 경우 발생할 수 있는 세 가지 가능성이 있습니다.

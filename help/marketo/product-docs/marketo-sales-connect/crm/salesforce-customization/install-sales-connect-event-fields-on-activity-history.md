@@ -4,16 +4,18 @@ description: Salesforce 활동 내역에 Sales Connect 이벤트 필드를 설�
 title: 활동 기록에 Sales Connect 이벤트 필드 설치
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NznzQHvZw0KyF2r83AwkegZIAPdWi0dVYJ7xwyTTy0s
+TQID: 'https://experienceleague.adobe.com/NznzQHvZw0KyF2r83AwkegZIAPdWi0dVYJ7xwyTTy0s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 247
+source-wordcount: '247'
 ht-degree: 8%
-
 ---
-
 # 활동 기록에 Sales Connect 이벤트 필드 설치 {#install-sales-connect-event-fields-on-activity-history}
 
 Enterprise 패키지를 [!DNL Salesforce]에 설치한 후에는 [!UICONTROL Sales Connect] 이벤트 필드를 활동 기록 섹션에 설치할 수 있습니다. [!UICONTROL Sales Connect] 이벤트 필드에는 보기, 클릭 수 및 캠페인과 같은 정보가 포함됩니다. 이를 통해 전자 메일에 대한 정보를 [!DNL Salesforce]&#x200B;(으)로 직접 가져올 수 있습니다.

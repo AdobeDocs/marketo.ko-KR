@@ -4,16 +4,18 @@ description: Marketo에서 이벤트 프로그램에 구성원을 추가하는 �
 title: 이벤트 프로그램에 멤버 추가
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-TQID: https://experienceleague.adobe.com/dazVH2bQ--OqwAYWwyT4mBM-hVd4CamYMBMGnPvqO2c
+TQID: 'https://experienceleague.adobe.com/dazVH2bQ--OqwAYWwyT4mBM-hVd4CamYMBMGnPvqO2c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '176'
 ht-degree: 8%
-
 ---
-
 # 이벤트 프로그램에 멤버 추가 {#adding-members-to-an-event-program}
 
 이 문서는 이벤트 상한 또는 이벤트 목표를 활용하는 사용자에게만 적용됩니다.

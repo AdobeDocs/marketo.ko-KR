@@ -4,16 +4,18 @@ description: 시스템 토큰을 이메일에 링크로 추가하는 방법을 �
 title: 이메일의 링크로 시스템 토큰 추가
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-TQID: https://experienceleague.adobe.com/UjNwoeeRWyGrPUCMV--3StSZcbY-fxSj3a5wrm60oL4
+TQID: 'https://experienceleague.adobe.com/UjNwoeeRWyGrPUCMV--3StSZcbY-fxSj3a5wrm60oL4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 217
+source-wordcount: '217'
 ht-degree: 9%
-
 ---
-
 # 이메일의 링크로 시스템 토큰 추가 {#add-a-system-token-as-a-link-in-an-email}
 
 이러한 시스템 토큰을 사용하여 이메일에서 특수 링크의 위치를 사용자 정의할 수 있습니다.

@@ -4,20 +4,23 @@ description: Sales Connect의 Salesforce 동기화 설정을 이해합니다. Sa
 title: Salesforce 동기화 설정
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/6K6-oLauXJW9Ow1cnQfVBGJ-iVEvo88g-mknLd5PJyc
+TQID: 'https://experienceleague.adobe.com/6K6-oLauXJW9Ow1cnQfVBGJ-iVEvo88g-mknLd5PJyc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 378
+source-wordcount: '378'
 ht-degree: 7%
-
 ---
-
 # Salesforce 동기화 설정 {#salesforce-sync-settings}
 
 ## API를 통해 Salesforce에 이메일 활동 로깅 {#logging-email-activity-to-salesforce-via-api}

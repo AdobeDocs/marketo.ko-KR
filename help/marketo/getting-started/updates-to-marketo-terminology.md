@@ -2,18 +2,19 @@
 unique-page-id: 11387674
 description: Marketo 용어 업데이트 - Marketo 문서 - 제품 설명서
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 title: Marketo 용어 업데이트
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 100%
-
 ---
-
 # Marketo 용어 업데이트 {#updates-to-marketo-terminology}
 
-플랫폼에 일부 변경 사항이 있으며, 이로 인해 일부 기능의 명칭이 변경될 예정입니다. 2016년 3월에 새로운 Marketo 인스턴스를 사용했거나 2016년 7월 이후에 회사를 갱신한 경우, 지금 새로운 용어가 표시될 수 있습니다.
+플랫폼에 일부 변경 사항이 있으며, 이로 인해 일부 항목의 명칭이 변경될 예정입니다. 2016년 3월에 새로운 Marketo 인스턴스를 사용했거나 2016년 7월 이후에 회사를 갱신한 경우, 지금 새로운 용어가 표시될 수 있습니다.
 
 Marketo 설명서에서 여러 용어가 보일 수 있지만 모든 문서가 곧 이러한 변경 사항을 반영하도록 업데이트될 예정이니 안심하십시오. 모든 지침은 동일합니다.
 
@@ -79,11 +80,11 @@ Marketo 설명서에서 여러 용어가 보일 수 있지만 모든 문서가 �
 
 >[!NOTE]
 >
->“개인 메모”라는 토큰은 *있지만*, 이 토큰은 항상 있었습니다. 이 토큰은 보통 CRM의 설명 필드에 사용됩니다.
+>“개인 메모”라는 토큰은 *있지만*, 이 토큰은 항상 있었습니다. 이 토큰은 사용되는 경우에도 보통 CRM의 설명 필드에 사용됩니다.
 
 ## 필드 관리 {#field-management}
 
-&#39;리드&#39;라는 용어가 포함된 필드는 &#39;개인&#39;으로 대체되거나 &#39;리드&#39;라는 단어가 삭제되었습니다. 그러나 한 가지 주목할 만한 예외는 “리드 소유자” 필드입니다. 이제는 “영업 담당자”라고 합니다.
+&#39;리드&#39;라는 용어가 포함된 필드는 &#39;사용자&#39;으로 대체되거나 &#39;리드&#39;라는 단어가 삭제되었습니다. 그러나 한 가지 주목할 만한 예외는 “리드 소유자” 필드입니다. 이제는 “영업 담당자”라고 합니다.
 
 <table>
  <colgroup>
@@ -112,7 +113,7 @@ Marketo 설명서에서 여러 용어가 보일 수 있지만 모든 문서가 �
 >
 >영향을 받는 필드 이름의 전체 목록을 보려면 이 [지원 문서](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}를 방문하십시오.
 
-## 실시간 개인 설정(RTP)이 이제 웹 개인화입니다. {#real-time-personalization-rtp-is-now-web-personalization}
+## 실시간 개인화(RTP)가 이제 웹 개인화입니다. {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table>
  <colgroup>

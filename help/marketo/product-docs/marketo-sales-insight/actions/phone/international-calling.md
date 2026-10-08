@@ -3,16 +3,18 @@ description: Sales Insight Actions에서 국제 전화에 대해 알아봅니다
 title: 국제 전화
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/CuPReqeK-xV7JuX6Vlx0C7yuI3kUZ4u8fX-R8dQgyr4
+TQID: 'https://experienceleague.adobe.com/CuPReqeK-xV7JuX6Vlx0C7yuI3kUZ4u8fX-R8dQgyr4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 404
+source-wordcount: '404'
 ht-degree: 23%
-
 ---
-
 # 국제 전화 {#international-calling}
 
 Sales Dialer를 사용하면 국제적으로 쉽게 의사 소통할 수 있습니다. 미국 내에서 전화를 거는 고객의 경우 국제 국가로의 아웃바운드 통화에 Sales Dialer 를 사용할 수 있습니다. 미국 이외의 고객에게는 국제 국가의 전화를 지원합니다.

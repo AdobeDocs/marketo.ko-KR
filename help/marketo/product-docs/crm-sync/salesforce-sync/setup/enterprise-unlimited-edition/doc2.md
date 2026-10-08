@@ -2,9 +2,18 @@
 description: Enterprise 또는 Unlimited Edition을 사용하는 Marketo용 Salesforce 사용자를 만드는 방법을 알아봅니다. 프로필을 만들고, 권한을 설정하고, Marketo-Salesforce 동기화 사용자를 만듭니다.
 title: 2/3단계 - Marketo용 Salesforce 사용자 만들기(Enterprise/Unlimited)
 hide: true
-hidefromtoc: yes
+hidefromtoc: 'yes'
 feature: Salesforce Integration
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 4%

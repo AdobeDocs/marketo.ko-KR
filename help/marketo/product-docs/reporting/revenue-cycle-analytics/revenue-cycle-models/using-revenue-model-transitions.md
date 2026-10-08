@@ -4,13 +4,19 @@ description: 수익 모델 전환을 사용하여 Marketo Engage에서 수익 �
 title: 수익 모델 전환 사용
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 3%
-
 ---
-
 # 수익 모델 전환 사용 {#using-revenue-model-transitions}
 
 >[!PREREQUISITES]

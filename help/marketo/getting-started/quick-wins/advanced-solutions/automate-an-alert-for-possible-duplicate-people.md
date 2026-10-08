@@ -4,16 +4,18 @@ description: 중복될 수 있는 사용자에 대한 경고 자동화 - Marketo
 title: 중복 가능성이 있는 사용자에 대한 알림 자동화
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI
+TQID: 'https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 157
+source-wordcount: '157'
 ht-degree: 8%
-
 ---
-
 # 중복 가능성이 있는 사용자에 대한 알림 자동화 {#automate-an-alert-for-possible-duplicate-people}
 
 가능한 중복 사용자가 생성될 때마다 경고가 필요하십니까? 스마트 캠페인을 설정하여 이를 수행하는 방법은 다음과 같습니다.
@@ -21,7 +23,7 @@ ht-degree: 8%
 1. [새 스마트 캠페인을 만듭니다](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. 다음 스마트 목록을 정의합니다.
 
 * 트리거: **[!UICONTROL Person is Created]**
-* 필터: **[!UICONTROL Duplicate Fields]**. 필드 이름 **[!UICONTROL is]&#x200B;[!UICONTROL Full Name]**
+* 필터: **[!UICONTROL Duplicate Fields]**. 필드 이름 **[!UICONTROL is][!UICONTROL Full Name]**
 
   ![](assets/automate-an-alert-1.png)
 

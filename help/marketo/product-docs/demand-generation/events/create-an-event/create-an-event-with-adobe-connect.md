@@ -4,24 +4,30 @@ description: Marketo에서 Adobe Connect을 사용하여 이벤트를 만드는 
 title: Adobe Connect로 이벤트 만들기
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-TQID: https://experienceleague.adobe.com/I6k5QNBRUFdvHu-7xQMolmzHeyVYt-0ajZ0jV-HIPFY
+TQID: 'https://experienceleague.adobe.com/I6k5QNBRUFdvHu-7xQMolmzHeyVYt-0ajZ0jV-HIPFY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 393
+source-wordcount: '393'
 ht-degree: 3%
-
 ---
-
 # Adobe Connect로 이벤트 만들기 {#create-an-event-with-adobe-connect}
 
 Adobe Connect과 동기화하면 Marketo 내에서 웨비나 등록 및 출석을 관리할 수 있으므로 참여가 추적 취소되지 않습니다.
@@ -31,7 +37,7 @@ Adobe Connect과 동기화하면 Marketo 내에서 웨비나 등록 및 출석�
 >* [Adobe Connect 및 Marketo 연결](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [새 이벤트 프로그램 만들기](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-먼저 Adobe Connect에서 회의 또는 세미나를 작성했는지 확인합니다. 도움이 필요하면 [Adobe Connect 사용 안내서](https://help.adobe.com/ko_KR/connect/9.0/using/index.html)를 참조하세요.
+먼저 Adobe Connect에서 회의 또는 세미나를 작성했는지 확인합니다. 도움이 필요하면 [Adobe Connect 사용 안내서](https://help.adobe.com/en_US/connect/9.0/using/index.html)를 참조하세요.
 
 Adobe Connect에서 만드는 모임 및 세미나는 Marketo에 자격 증명을 입력할 때 지정한 폴더 아래에 만들어야 합니다. 회의나 세미나를 만든 후에는 확인 이메일과 ICS 파일에 사용할 관련 물류 정보(전화 번호 등)를 기록해 두십시오.
 

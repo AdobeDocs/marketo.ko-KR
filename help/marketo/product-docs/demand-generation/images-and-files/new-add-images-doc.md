@@ -4,18 +4,23 @@ title: 새 이미지 추가 문서
 hide: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-TQID: https://experienceleague.adobe.com/F4i-VcFV3IX1NG6v0s-qYE5tooll9dsjL407Vypoxow
+TQID: 'https://experienceleague.adobe.com/F4i-VcFV3IX1NG6v0s-qYE5tooll9dsjL407Vypoxow'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: ecf3b0de-0d29-4cb7-bed7-bf29ea2e2f77
+    internal-label: Image editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 263
+source-wordcount: '263'
 ht-degree: 14%
-
 ---
-
 # 새 이미지 추가 문서 {#new-add-images-doc}
 
 이미지 및 파일 저장소에 새 파일/이미지를 추가하는 여러 가지 옵션이 있습니다.
@@ -50,7 +55,7 @@ ht-degree: 14%
 
 텍스트
 
-1. 위의 [&#128279;](#upload-image-or-file)에서 1단계 및 2단계 을(를) 따릅니다.
+1. 위의 ](#upload-image-or-file)에서 1단계 및 2단계 [을(를) 따릅니다.
 
 1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;를 선택합니다.
 
@@ -72,7 +77,7 @@ PICC
 
 텍스트
 
-1. 위의 [&#128279;](#upload-image-or-file)에서 1단계 및 2단계 을(를) 따릅니다.
+1. 위의 ](#upload-image-or-file)에서 1단계 및 2단계 [을(를) 따릅니다.
 
 1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;를 선택합니다.
 
@@ -102,7 +107,7 @@ PICC
 
 텍스트
 
-1. 위의 [&#128279;](#upload-image-or-file)에서 1단계 및 2단계 을(를) 따릅니다.
+1. 위의 ](#upload-image-or-file)에서 1단계 및 2단계 [을(를) 따릅니다.
 
 1. **[!UICONTROL Image and file actions]** 드롭다운을 클릭하고 **[!UICONTROL Import image or file]**&#x200B;를 선택합니다.
 

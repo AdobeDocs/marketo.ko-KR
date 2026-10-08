@@ -2,13 +2,14 @@
 unique-page-id: 2953432
 description: CRM 동기화 - Marketo Docs - 제품 설명서
 title: CRM 동기화
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 60%
-
 ---
-
 
 # CRM 동기화 {#crm-sync}
 

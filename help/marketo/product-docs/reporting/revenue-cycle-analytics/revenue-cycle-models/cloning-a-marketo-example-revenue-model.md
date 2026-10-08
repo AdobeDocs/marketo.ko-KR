@@ -4,13 +4,19 @@ description: Marketo 샘플 수익 복제를 포함하여 Marketo Engage에서 m
 title: Marketo 예시 수익 모델 복제
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 19%
-
 ---
-
 # Marketo 예시 수익 모델 복제 {#cloning-a-marketo-example-revenue-model}
 
 Marketo에는 영감을 주는 예제 매출 모델러가 있습니다. 이 모델러를 복제하여 직접 만듭니다. 방법은 다음과 같습니다.
