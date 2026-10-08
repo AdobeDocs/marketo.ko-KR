@@ -55,7 +55,7 @@ ht-degree: 5%
    * 탭 설정에서 Marketo 탭을 기본값 설정으로 변경합니다.
    * 사용자 지정 개체 권한에서 [!DNL Marketo Sales Insight] 구성에 대한 읽기, 만들기, 편집 및 삭제를 선택합니다(사용자가 구성 설정에 액세스할 수 있어야 하는 경우 - 일반적으로 관리자를 위해 사용됨).
 
-   [!DNL Sales Insight]**에 액세스할 수 없는 프로필의 경우**:
+   [!DNL Sales Insight]&#x200B;**에 액세스할 수 없는 프로필의 경우**:
 
    * 탭 설정에서 Marketo 탭을 탭 숨김으로 변경합니다
    * 사용자 지정 개체 권한에서 [!DNL Marketo Sales Insight] 구성에서 읽기, 만들기, 편집 및 삭제 선택을 취소합니다

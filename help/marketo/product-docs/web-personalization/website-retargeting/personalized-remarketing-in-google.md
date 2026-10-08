@@ -29,7 +29,7 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->*  [!DNL Web Personalization] 데이터](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 구성을 사용하여 [재타겟팅 완료
+>*  [!DNL Web Personalization] 데이터[&#128279;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) 구성을 사용하여 재타겟팅 완료
 >* [Google Analytics 도움말로 리마케팅](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645) 설명서를 검토하십시오.
 
 ## Google에서 리마케팅 대상 만들기 {#creating-a-remarketing-audience-in-google}
@@ -46,7 +46,7 @@ ht-degree: 7%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. 대상 빌더에서 [!UICONTROL Custom Dimensions], [!UICONTROL [!]UICONTROL Custom Variables], [!UICONTROL Events] 아래의 **[!UICONTROL Sequences]** 및 **[!UICONTROL Find the RTP Data]**&#x200B;을(를) 클릭합니다.
+1. 대상 빌더에서 [!UICONTROL Custom Dimensions], [!UICONTROL UICONTROL [ !] Custom Variables], [!UICONTROL Events] 아래의 **[!UICONTROL Sequences]** 및 **[!UICONTROL Find the RTP Data]**&#x200B;을(를) 클릭합니다.
 
 >[!TIP]
 >
@@ -107,4 +107,4 @@ ht-degree: 7%
 >[!MORELIKETHIS]
 >
 >* [데이터를 사용하여  [!DNL Web Personalization] 다시 타깃팅](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->*  [!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)의 [개인화된 리마케팅
+>*  [!DNL Facebook]&#x200B;[&#128279;](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)의 개인화된 리마케팅

@@ -194,7 +194,7 @@ Visualforce 페이지:
 
 >[!MORELIKETHIS]
 >
-> [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)의 [[!DNL Marketo Sales Insight] 구성 탭
+> [!DNL Salesforce]&#x200B;[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)의 [!DNL Marketo Sales Insight] 구성 탭
 
 ## 성능 보고서 [!DNL Sales Insight]개 {#sales-insight-performance-reports}
 

@@ -124,7 +124,7 @@ ht-degree: 1%
 ## [!DNL Sales Insight]
 
 * **[!DNL Salesforce Lightning]일괄 작업**: 판매 효율성을 높이고 구매자가 캠페인에 최대 200개의 연락처/리드를 추가하고 [!DNL Salesforce Lightning]과(와) 함께 Marketo Engage 이메일을 일괄적으로 보낼 수 있는 기능을 계속 사용할 수 있도록 합니다.
-* [!DNL Salesforce1]**에 대한**&#x200B;모바일 지원: 이제 [!DNL Salesforce1] 앱에서 바로 관심 있는 순간, 웹 활동 및 전자 메일과 같은 모든 [!DNL Sales Insight] 기능에 대한 이동 중 모바일 액세스 권한을 갖습니다.
+* [!DNL Salesforce1]&#x200B;**에 대한**&#x200B;모바일 지원: 이제 [!DNL Salesforce1] 앱에서 바로 관심 있는 순간, 웹 활동 및 전자 메일과 같은 모든 [!DNL Sales Insight] 기능에 대한 이동 중 모바일 액세스 권한을 갖습니다.
 * **UI 개선 사항**: 가독성 및 [!DNL Marketo Sky] 경험과 일치하는 디자인을 개선하여 인터페이스를 업데이트했습니다.
 
 ## [!DNL Sales Connect]
@@ -234,7 +234,7 @@ ht-degree: 1%
 * **Marketo Engage 활동 통합(BETA)**: Marketo Engage 활동 데이터를 [!DNL Bizible]에 직접 가져와 고객 여정 및 모든 속성 모델에서 터치포인트를 만듭니다. 예를 들면 리드 점수 변경, 흥미로운 순간, 이메일 클릭 또는 사용자 지정 활동이 있습니다. Marketo Engage 통합 개선 사항.
 * **[!DNL Bizible]B2B 고객 특성 통합(BETA)**: Adobe Analytics을 사용한 Adobe Experience Cloud 통합으로, 추가 심층 분석을 위해 선택한 Bizible 데이터를 Adobe Analytics으로 직접 가져올 수 있습니다. 예를 들면 회사 이름, 계정 특성, CRM 기회 및 [!DNL Bizible] 속성 매출 및 funnel 단계로 정의된 고가치 개인별 계정 기반 사이트 트래픽 및 콘텐츠 분석이 포함됩니다.
 * **[!DNL Bizible]필터 및 개선 사항 검색**: 대시보드에서 채널, 하위 채널, 캠페인 및 세그먼트 필터를 사용하여 데이터를 분석합니다. 더 많은 드릴다운 속성을 통해 데이터 가시성을 강화합니다. 이것은 검색 보드의 개선 사항입니다.
-* [!DNL Microsoft Dynamics]**에 대한**&#x200B;활동 동기화: [!DNL Microsoft Dynamics] CRM 활동을 터치포인트 여정에 가져와 판매 상호 작용을 특성화하고 잠재 고객 또는 연락처와 연결된 통화, 약속 또는 작업과 같은 이벤트를 추적합니다. [!DNL Microsoft Dynamics] CRM 통합 개선 사항.
+* [!DNL Microsoft Dynamics]&#x200B;**에 대한**&#x200B;활동 동기화: [!DNL Microsoft Dynamics] CRM 활동을 터치포인트 여정에 가져와 판매 상호 작용을 특성화하고 잠재 고객 또는 연락처와 연결된 통화, 약속 또는 작업과 같은 이벤트를 추적합니다. [!DNL Microsoft Dynamics] CRM 통합 개선 사항.
 
 ## [!DNL Sales Insight]
 
@@ -308,7 +308,7 @@ ht-degree: 1%
 
 * **자산 API &quot;_method&quot; 매개 변수 제거**: 2020년 9월 이후, 자산 API 끝점은 이제 &quot;_method&quot;를 사용하여 쿼리 매개 변수를 URI 길이 제한을 무시하도록 POST 본문에 전달하지 않습니다. 이 매개 변수를 필요로 하는 요청을 수용하기 위해 자산 API의 URI 제한이 8KB에서 65KB로 늘어납니다.
 * **[[!DNL Munchkin] 리드 연결](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Munchkin JavaScript 클라이언트 버전 159의 이번 릴리스를 통해 [!DNL Munchkin] 리드 연결 방법의 사용 중단을 시작합니다. 호출되면 메서드가 향후 릴리스에서 제거됨을 나타내는 경고가 표시됩니다. 제거하면 메서드가 더 이상 작동하지 않으며 해당 메서드를 사용하려고 시도해도 실패합니다. 최근 이 방법을 사용한 Marketo Engage 고객은 사용 여부를 개별적으로 알 수 있습니다.
-* **Internet Explorer 지원**: 이전에 발표된 대로 Internet Explorer 11에 대한 Marketo Engage 지원은 **2020년 7월 31일**&#x200B;에 종료됩니다. [!DNL Google Chrome], [!DNL Mozilla Firefox], [!DNL  Apple Safari] 및 [!DNL Microsoft Edge]을(를) 계속 지원합니다.
+* **Internet Explorer 지원**: 이전에 발표된 대로 Internet Explorer 11에 대한 Marketo Engage 지원은 **2020년 7월 31일**&#x200B;에 종료됩니다. [!DNL Google Chrome], [!DNL Mozilla Firefox], [!DNL &#x200B; Apple Safari] 및 [!DNL Microsoft Edge]을(를) 계속 지원합니다.
 * **Sky 기본 경험**: 관리자 또는 사용자가 [!DNL Marketo Sky]을(를) 기본 경험으로 설정하는 옵션은 기본 사용자 경험으로 업데이트할 준비를 위해 이 릴리스에서 제거됩니다. 기본 경험에 대한 업데이트에 대한 자세한 내용은 올해 말로 예정되어 있으며 7월에 제공될 예정입니다. [!DNL Marketo Sky]을(를) 기본 경험으로 설정하거나 [!DNL Marketo Sky]에 대한 액세스 권한이 부여된 사용자는 내 Marketo 홈 페이지의 타일에서 [!DNL Marketo Sky]에 계속 액세스할 수 있습니다.
 * **EdgeHTML(비 Chromium) [!DNL Microsoft Edge] 지원**: Marketo Engage은 2020년 말에 더 이상 Microsoft Edge의 EdgeHTML 버전을 지원하지 않습니다. 2021년 1월 1일부터 Microsoft Edge의 최신 Chromium 버전만 지원합니다.
 

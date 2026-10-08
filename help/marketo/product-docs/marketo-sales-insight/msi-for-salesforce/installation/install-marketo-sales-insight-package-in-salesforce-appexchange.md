@@ -33,7 +33,7 @@ ht-degree: 6%
 >
 >[!DNL Marketo Sales Insight]은(는) [!DNL Salesforce] 플랫폼(Shield) 암호화와 호환됩니다.
 
-1.  [!DNL Marketo Sales Insight]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)의 [AppExchange 페이지로 이동한 다음 **[!UICONTROL Get it Now]**&#x200B;을(를) 클릭합니다.
+1. [!DNL Marketo Sales Insight]&#x200B;[&#128279;](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)의 AppExchange 페이지로 이동한 다음 **[!UICONTROL Get it Now]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 

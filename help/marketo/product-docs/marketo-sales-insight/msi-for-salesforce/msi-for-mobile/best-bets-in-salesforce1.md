@@ -35,5 +35,5 @@ ht-degree: 4%
 
 >[!MORELIKETHIS]
 >
->* [!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)의 [즐거운 순간
+>* [!UICONTROL Salesforce1]&#x200B;[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)의 즐거운 순간
 >* [[!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)에서 Marketo 전자 메일 및 캠페인과 관심 목록 작업 보내기

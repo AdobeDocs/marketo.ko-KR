@@ -46,7 +46,7 @@ Marketo 이메일 구문은 템플릿과 개별 이메일에서만 작동합니�
 
 ## 리치 텍스트 {#rich-text}
 
-영역을 리치 텍스트로 정의하면 사용자는 [Marketo의 리치 텍스트 편집기를 사용하여 ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)콘텐츠를 편집할 수 있습니다. 이메일 템플릿 내에 리치 텍스트 요소를 정의하는 방법에는 mktEditable과 mktoText의 두 가지가 있습니다. 리치 텍스트 요소는 항상 이메일 편집기 내에서 스니펫으로 변환될 수 있습니다.
+영역을 리치 텍스트로 정의하면 사용자는 [Marketo의 리치 텍스트 편집기를 사용하여 &#x200B;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)콘텐츠를 편집할 수 있습니다. 이메일 템플릿 내에 리치 텍스트 요소를 정의하는 방법에는 mktEditable과 mktoText의 두 가지가 있습니다. 리치 텍스트 요소는 항상 이메일 편집기 내에서 스니펫으로 변환될 수 있습니다.
 
 ### 옵션 1 - mktEditable {#option-mkteditable}
 

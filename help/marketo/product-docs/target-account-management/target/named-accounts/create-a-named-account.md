@@ -37,4 +37,4 @@ ht-degree: 5%
 
 >[!MORELIKETHIS]
 >
->[!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)에 [사람 추가
+>[!UICONTROL Named Account]&#x200B;[&#128279;](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)에 사람 추가
