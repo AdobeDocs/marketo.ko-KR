@@ -3,16 +3,18 @@ description: Sales Connect에서 미리 알림 작업을 만들고 할당하는 
 title: 알림 작업 생성 및 할당
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/VrxKfa2gNANSUxw5nfENMSJpqgwgWx6AdUcWiuNeEjs
+TQID: 'https://experienceleague.adobe.com/VrxKfa2gNANSUxw5nfENMSJpqgwgWx6AdUcWiuNeEjs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 146
+source-wordcount: '146'
 ht-degree: 10%
-
 ---
-
 # 알림 작업 생성 및 할당 {#create-and-assign-reminder-tasks}
 
 미리 알림 작업은 고객 및 잠재 고객 참여를 최대한 이끌어낼 수 있는 좋은 방법입니다. 작업을 만들려면 다음 단계를 수행합니다.

@@ -4,18 +4,20 @@ description: Sales Connect Analytics 페이지 및 이메일 참여 데이터에
 title: Analytics 페이지 개요
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/4OI9sdjmBSDprhWlcIuv1xyv5icTu1hOwOMMTebs8gY
+TQID: 'https://experienceleague.adobe.com/4OI9sdjmBSDprhWlcIuv1xyv5icTu1hOwOMMTebs8gY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 383
+source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
 # [!UICONTROL Analytics] 페이지 개요 {#analytics-page-overview}
 
 [!UICONTROL Analytics] 탭에는 전자 메일 참여와 관련된 데이터가 표시됩니다. 개인 데이터와 팀 데이터가 모두 표시됩니다. 관리자는 [!UICONTROL Me] 탭에서 사용자에 의해 필터링할 수도 있습니다.

@@ -1,19 +1,21 @@
 ---
 unique-page-id: 27656223
 description: Sales Connect Salesforce 사용자 정의 for Professional Edition을 설치하는 방법을 알아봅니다. Salesforce PE를 사용할 때 사용자 지정을 설정합니다.
-title: Professional Edition 고객을 위한  [!DNL Salesforce] 사용자 지정 설치
+title: Professional Edition 고객을 위한 [!DNL Salesforce] 사용자 지정 설치
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-u-VxODTzqp8V86ulyItc3J90xNZRV9grChJyR6rcSg
+TQID: 'https://experienceleague.adobe.com/-u-VxODTzqp8V86ulyItc3J90xNZRV9grChJyR6rcSg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 252
+source-wordcount: '253'
 ht-degree: 0%
-
 ---
-
 # Professional Edition 고객을 위한 [!DNL Salesforce] 사용자 지정 설치 {#install-salesforce-customization-for-professional-edition-customers}
 
 [!DNL Salesforce] Professional Edition을 사용하는 고객은 다음 단계에 따라 맞춤화를 설치해야 합니다.

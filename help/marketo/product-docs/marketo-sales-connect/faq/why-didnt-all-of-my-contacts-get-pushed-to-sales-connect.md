@@ -4,18 +4,20 @@ description: 모든 연락처가 Salesforce에서 Sales Connect로 푸시되지 
 title: 내 연락처 중 일부가 Sales Connect로 푸시되지 않은 이유는 무엇입니까?
 exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/OC-llK81xjzmWF2awBb3s7CtxJs-hIdh6ntueKqHea4
+TQID: 'https://experienceleague.adobe.com/OC-llK81xjzmWF2awBb3s7CtxJs-hIdh6ntueKqHea4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Integrations
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 92
+source-wordcount: '92'
 ht-degree: 11%
-
 ---
-
 # 왜 모든 연락처가 [!DNL Sales Connect]&#x200B;(으)로 푸시되지 않았습니까? {#why-didnt-all-of-my-contacts-get-pushed-to-sales-connect}
 
 일부 연락처만 푸시하는 경우 회사의 [!DNL Salesforce] 인스턴스에서 &quot;이메일 옵트아웃&quot;으로 표시되지 않았을 수 있습니다.

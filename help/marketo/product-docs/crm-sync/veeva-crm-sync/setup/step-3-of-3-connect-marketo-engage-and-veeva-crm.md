@@ -3,18 +3,23 @@ description: 마지막 설정 단계에서 Marketo Engage을 Veeva CRM에 연결
 title: 3단계/3단계 - Marketo Engage 및 [!DNL Veeva] CRM 연결
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/nIEl6amGFVi-n6BruezuUFDxAQj5f-BnKCQFPHGJsRw
+TQID: 'https://experienceleague.adobe.com/nIEl6amGFVi-n6BruezuUFDxAQj5f-BnKCQFPHGJsRw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '320'
 ht-degree: 2%
-
 ---
-
 # 3단계/3단계: Marketo Engage 및 [!DNL Veeva] CRM 연결 {#step-3-of-3-connect-marketo-engage-and-veeva-crm}
 
 이 문서에서는 구성된 [!DNL Veeva] CRM 인스턴스와 동기화하도록 Marketo Engage을 구성합니다. [!DNL Veeva] CRM이 [!DNL Salesforce] 플랫폼에 구축되어 있으므로 **일부 팝업에 [!DNL Salesforce]이(가) 표시됩니다**.

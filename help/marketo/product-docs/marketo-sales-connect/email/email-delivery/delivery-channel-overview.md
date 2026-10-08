@@ -4,16 +4,18 @@ description: Sales Connect의 전달 채널을 파악합니다. 이메일을 보
 title: 게재 채널 개요
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA
+TQID: 'https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 568
+source-wordcount: '569'
 ht-degree: 1%
-
 ---
-
 # 게재 채널 개요 {#delivery-channel-overview}
 
 Marketo [!DNL Sales Connect]은(는) 전자 메일을 배달할 수 있는 여러 옵션을 제공합니다. 이 문서에서는 활용할 수 있는 게재 채널, 이를 선택하는 방법 및 서로 선택해야 하는 시기를 검토합니다.
@@ -52,7 +54,7 @@ MSC 서버는 DKIM 및 SPF 인증 방법을 지원하지 않으므로 전달률�
 
 ## Marketo 서버 {#marketo-servers}
 
-Marketo 이메일 서버는 [!DNL Sales Connect]과(와) 통합되지 않습니다. Marketo 서버는 마케터의 요구에 따라 확장할 수 있도록 벌크 게재에 최적화되었습니다. 그러나 Gmail 및 [!DNL Exchange]은(는) 1:1 판매 커뮤니케이션에 대한 성공률이 더 높습니다. 따라서 이러한 서버를 판매 커뮤니케이션에 사용하는 것이 좋습니다.
+Marketo 이메일 서버는 [!DNL Sales Connect]과(와) 통합되지 않습니다. Marketo 서버는 마케터의 요구에 따라 확장할 수 있도록 벌크 게재에 최적화되었습니다. 그러나 Gmail 및 [!DNL Exchange]은(는) 1:1 영업 커뮤니케이션에 대해 더 높은 성공률을 보이고 있습니다. 따라서 영업 커뮤니케이션에 이러한 서버를 사용하는 것이 좋습니다.
 
 >[!MORELIKETHIS]
 >

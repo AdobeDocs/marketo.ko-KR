@@ -1,19 +1,21 @@
 ---
 unique-page-id: 42762794
 description: Sales Connect와 함께 Salesforce Classic에서 대량 작업을 사용하는 방법에 대해 알아봅니다. 한 번에 여러 리드 또는 연락처를 Sales Connect에 푸시합니다.
-title: ' [!DNL Salesforce] Classic에서 일괄 작업 사용'
+title: '[!DNL Salesforce] Classic에서 일괄 작업 사용'
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M
+TQID: 'https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 341
+source-wordcount: '342'
 ht-degree: 0%
-
 ---
-
 # [!DNL Salesforce] Classic에서 일괄 작업 사용 {#using-bulk-actions-in-salesforce-classic}
 
 [!DNL Salesforce]에서 [!DNL Sales Connect]&#x200B;(으)로 잠재 고객을 푸시하거나 캠페인에 잠재 고객을 추가하거나 대량 이메일을 보내는 등의 대량 작업을 수행하는 방법에 대해 알아봅니다.
@@ -39,10 +41,10 @@ ht-degree: 0%
 1. MSC 이메일이 표시됩니다. 여기에는 다음 기능이 포함됩니다.
 
    a. &quot;[!UICONTROL To]&quot; 필드에 &quot;[!UICONTROL All Recipients]&quot;이(가) 표시됩니다. 이 목록은 리드 목록 보기에서 선택한 리드 목록에 해당합니다
-b. 이 목록은 왼쪽 패널 &quot;[!UICONTROL Bulk Compose]&quot;에 표시되며 여기에서 수신자를 추가/제거할 수 있습니다.
-c. 템플릿을 선택하거나 직접 이메일을 만들 수 있습니다.
-d. 이메일에 채워질 동적 필드를 미리 볼 수 있습니다
-e. 이메일을 즉시 보내거나 나중에 보내도록 예약할 수 있습니다
+   b. 이 목록은 왼쪽 패널 &quot;[!UICONTROL Bulk Compose]&quot;에 표시되며 여기에서 수신자를 추가/제거할 수 있습니다.
+   c. 템플릿을 선택하거나 직접 이메일을 만들 수 있습니다.
+   d. 이메일에 채워질 동적 필드를 미리 볼 수 있습니다
+   e. 이메일을 즉시 보내거나 나중에 보내도록 예약할 수 있습니다
 
    ![](assets/three-4.png)
 

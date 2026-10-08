@@ -4,16 +4,18 @@ description: Sales Connect의 Sales Phone 로컬 현황에 대해 알아봅니�
 title: 세일즈 전화 현지 존재
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-Mw7ww1YsyO-2ejnBdsfAGszUbSNErQdpOMXYPBa7CU
+TQID: 'https://experienceleague.adobe.com/-Mw7ww1YsyO-2ejnBdsfAGszUbSNErQdpOMXYPBa7CU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: '151'
 ht-degree: 5%
-
 ---
-
 # 세일즈 전화 현지 존재 {#sales-phone-local-presence}
 
 다른 사람의 동일한 지역 코드에서 호출하는 것처럼 보이려면 호출하기 전에 **[!UICONTROL Local Presence]** 상자를 선택하면 됩니다.

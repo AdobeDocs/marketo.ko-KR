@@ -4,19 +4,26 @@ title: 이메일 공동 작업
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-TQID: https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s
+TQID: 'https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Beginner
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 316
+source-wordcount: '316'
 ht-degree: 2%
-
 ---
-
 # 이메일 공동 작업 {#email-collaboration}
 
 이메일 공동 작업 및 댓글 달기 를 사용하면 마케팅 팀이 Adobe Marketo Engage 이메일 Designer 내에서 이메일 자산을 원활하게 검토, 토론 및 완료할 수 있습니다. 외부 도구(채팅, 이메일 스레드, 스프레드시트 등)를 통해 초안을 공유하는 대신 실시간으로 댓글을 달거나 편집 내용을 제안하고 피드백을 해결할 수 있습니다. 이를 통해 워크플로우를 간소화하고 오류를 줄이며 이메일 캠페인이 전송되기 전에 관련자가 일치하는지 확인합니다.

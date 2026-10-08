@@ -4,13 +4,19 @@ description: 에 대한 이해를 포함하여 Marketo Engage의 프로그램 �
 title: 프로그램 수익 단계 분석 영역 이해
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: e9ef2843fb7e700f1d9d1fd1f04a27fe2f6e516e
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 6%
-
 ---
-
 # 프로그램 수익 단계 분석 영역 이해 {#understanding-the-program-revenue-stage-analysis-area}
 
 이 분석 영역에서는 개별 프로그램의 효과성을 분석하거나 채널별 요약 결과를 볼 수 있다. 수익 주기 모델 내에서 특정 성공 경로 단계에 도달한 생성된 새 이름 수에 대한 통찰력을 제공합니다.

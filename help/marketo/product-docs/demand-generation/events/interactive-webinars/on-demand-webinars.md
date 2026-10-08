@@ -3,18 +3,20 @@ description: Marketo 대화형 웨비나에서 온디맨드 웨비나에 대해 
 title: 온디맨드 웨비나
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-TQID: https://experienceleague.adobe.com/Ir415cX42hhJyB3Nxg0RFt3nNyXvO155ZHH3LxVzu1E
+TQID: 'https://experienceleague.adobe.com/Ir415cX42hhJyB3Nxg0RFt3nNyXvO155ZHH3LxVzu1E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 490
+source-wordcount: '490'
 ht-degree: 1%
-
 ---
-
 # 온디맨드 웨비나 {#on-demand-webinars}
 
 온디맨드 웨비나는 이벤트에 등록되고 출석하지 않았지만 녹화를 시청하여 이벤트와 관련된 정보를 얻고자 하는 리드를 캡처하고 구체화합니다. 이름, 이메일 ID 및 시청 날짜/기간과 같은 정보는 Marketo Engage에서 캡처하여 이러한 no-show 리드를 타깃팅하는 데 사용할 수 있습니다.
@@ -28,9 +30,9 @@ Marketo Engage은 다음 위젯의 도움을 받아 대시보드 탭의 온디�
 * 온디맨드 요약: 특정 일에 이벤트 후 녹화를 시청하는 방문자 수(no-Shows)에 대한 요약을 제공합니다
 
 * 온디맨드 통계: 이 위젯은 다음에 대한 정보를 제공합니다.
-   * 온디맨드 녹화를 볼 수 있는 일 수: 마케터가 기록 가용성 기간 30일이 거의 끝날 무렵 이메일 캠페인 실행과 같은 작업을 수행하는 데 도움이 됩니다.
-   * 현재까지 온디맨드 웨비나에 대한 전체 방문자 수: 현재까지 온디맨드 녹화를 시청한 모든 no-Show 등록자의 수입니다.
-   * 모든 방문자에 대한 평균 시청 기간(분): 마케터에게 레코딩이 얼마나 표시되는지, 그리고 특정 시청 기간 이상의 리드를 타깃팅하는 데 스마트 캠페인을 사용할 수 있는지 알려줍니다.
+  * 온디맨드 녹화를 볼 수 있는 일 수: 마케터가 기록 가용성 기간 30일이 거의 끝날 무렵 이메일 캠페인 실행과 같은 작업을 수행하는 데 도움이 됩니다.
+  * 현재까지 온디맨드 웨비나에 대한 전체 방문자 수: 현재까지 온디맨드 녹화를 시청한 모든 no-Show 등록자의 수입니다.
+  * 모든 방문자에 대한 평균 시청 기간(분): 마케터에게 레코딩이 얼마나 표시되는지, 그리고 특정 시청 기간 이상의 리드를 타깃팅하는 데 스마트 캠페인을 사용할 수 있는지 알려줍니다.
 
 ![](assets/on-demand-webinars-1.png)
 

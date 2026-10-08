@@ -4,18 +4,23 @@ description: Marketo 랜딩 페이지에 SSL을 추가하는 방법을 알아봅
 title: 랜딩 페이지에 SSL 추가
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/BqMzRWEHpZjd1Ju-o0xCzNKIXpfUYyifWYGKHNqfs0o
+TQID: 'https://experienceleague.adobe.com/BqMzRWEHpZjd1Ju-o0xCzNKIXpfUYyifWYGKHNqfs0o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Configuration
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 867
+source-wordcount: '867'
 ht-degree: 14%
-
 ---
-
 # 랜딩 페이지에 SSL 추가 {#add-ssl-to-your-landing-pages}
 
 SSL(Secure Socket Layer) 암호화 를 사용하면 Marketo Engage 인스턴스의 모든 랜딩 페이지를 보호할 수 있습니다.
@@ -130,4 +135,4 @@ Marketo Engage은 기본적으로 비보안 HTTP 프로토콜에 대해 &quot;�
 
 * **기존 SSL**: 도메인을 추가하는 동안 시스템은 이전에 수동으로 생성했을 수 있는 기존 SSL을 확인합니다. 이 유효성 검사가 발생하면 SSL 생성을 선택하지 않고 도메인을 생성하면 자동으로 연결됩니다. 자세한 내용 또는 옵션은 [지원 센터에 문의](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}하십시오.
 
-* **도메인 삭제**: **도메인을 자동으로 삭제해도 SSL 인증서는 삭제되지 않습니다**. 이 가드레일은 SSL 인증서 없이 웹 사이트를 생성하는 사용자 오류를 방지합니다. SSL 인증서를 제거하려면 [지원팀에 문의](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}하십시오.
+* **도메인 삭제**: **도메인을 자동으로 삭제해도 SSL 인증서는 삭제되지 않습니다**. 이 가드레일은 웹 사이트에 SSL 인증서가 없게 되는 사용자 오류를 방지합니다. SSL 인증서를 제거하려면 [지원팀에 문의](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}하십시오.

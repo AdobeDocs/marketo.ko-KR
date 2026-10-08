@@ -4,16 +4,18 @@ description: Gmail 플러그인에서 Salesforce에 이메일을 추가하는 �
 title: Salesforce에 이메일 추가
 exl-id: bb2e964d-e5f8-495f-969b-9f75822a6211
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/DXp9px46y3tWezlijSWiOqFPTDJJiZmMYi-881vauXc
+TQID: 'https://experienceleague.adobe.com/DXp9px46y3tWezlijSWiOqFPTDJJiZmMYi-881vauXc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 153
+source-wordcount: '153'
 ht-degree: 2%
-
 ---
-
 # [!DNL Salesforce]에 전자 메일 추가 {#add-email-to-salesforce}
 
 [!DNL Salesforce]에 전자 메일 추가를 사용하면 [!DNL Outlook]에서 받은 전자 메일 또는 Gmail을 [!DNL Salesforce] 계정에 푸시할 수 있습니다. 당사는 이메일 발신자를 기준으로 조회를 수행하므로 현재 귀하가 보낸 이메일이 아닌 귀하가 받은 이메일에 대해서만 이 버튼을 사용할 수 있습니다.

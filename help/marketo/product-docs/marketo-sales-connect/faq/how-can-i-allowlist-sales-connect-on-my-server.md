@@ -4,16 +4,18 @@ description: 서버에서 Sales Connect를 연결하는 방법을 알아봅니�
 title: 내 서버에서 Sales Connect를 허용 목록에 추가하는 방법은 무엇입니까?
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Kd3CN6b68ZF1HZcIfjIayYHL7KTPKMGydbBKqKZ14R8
+TQID: 'https://experienceleague.adobe.com/Kd3CN6b68ZF1HZcIfjIayYHL7KTPKMGydbBKqKZ14R8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 78
+source-wordcount: '78'
 ht-degree: 11%
-
 ---
-
 # 내 서버에서 [!DNL Sales Connect]을(를) 어떻게 허용 목록 할 수 있습니까? {#how-can-i-allowlist-sales-connect-on-my-server}
 
 안타깝게도 고정 IP 주소 하나를 제공할 방법은 없습니다. [!DNL Sales Connect]은(는) 클라우드에 배포되고 200개 이상의 서버를 사용하여 전자 메일과 사용자 요청을 처리합니다. 그리고 매우 광범위한 범위를 제공하는 것은 당신에게 더 이상 안전하지 않을 것입니다.

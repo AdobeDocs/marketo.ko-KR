@@ -4,26 +4,36 @@ title: 이메일 템플릿
 hide: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-TQID: https://experienceleague.adobe.com/z-unNOgHUxTyNSc8P5r7-xbP8AQd79P3Z0qz3uZkKqw
+TQID: 'https://experienceleague.adobe.com/z-unNOgHUxTyNSc8P5r7-xbP8AQd79P3Z0qz3uZkKqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1769
+source-wordcount: '1769'
 ht-degree: 4%
-
 ---
-
 # 이메일 템플릿 {#email-templates}
 
 디자인 프로세스를 가속화하고 개선하기 위해 독립 실행형 이메일 템플릿을 만들어 사용자 정의 콘텐츠를 쉽게 재사용할 수 있습니다.
@@ -287,9 +297,9 @@ Marketo Engage 인스턴스의 [이미지 및 파일](/help/marketo/product-docs
 
 * 데스크탑, 모바일 또는 텍스트 전용/일반 텍스트에서 컨텐츠를 볼 수 있습니다.
 
-   * 여러 장치에서 콘텐츠 미리보기에 대한 실시간 보기(눈) 아이콘을 클릭합니다.
+  * 여러 장치에서 콘텐츠 미리보기에 대한 실시간 보기(눈) 아이콘을 클릭합니다.
 
-   * 기본 제공 장치 중 하나를 선택하거나 사용자 지정 차원을 입력하여 콘텐츠를 미리 봅니다.
+  * 기본 제공 장치 중 하나를 선택하거나 사용자 지정 차원을 입력하여 콘텐츠를 미리 봅니다.
 
 ### 추가 옵션 {#more-options}
 

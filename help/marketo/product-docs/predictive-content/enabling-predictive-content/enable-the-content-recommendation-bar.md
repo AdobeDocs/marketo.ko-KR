@@ -4,18 +4,21 @@ description: 각 URL에 대한 예측 분석을 사용하여 콘텐츠 추천 �
 title: 콘텐츠 추천 바 활성화
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/mrCYs8-z6i2GbrfgeySrm-a6-vPC--yVr4yf9UhbH4s
+TQID: 'https://experienceleague.adobe.com/mrCYs8-z6i2GbrfgeySrm-a6-vPC--yVr4yf9UhbH4s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Machine learning
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 333
+source-wordcount: '333'
 ht-degree: 4%
-
 ---
-
 # 콘텐츠 추천 바 활성화 {#enable-the-content-recommendation-bar}
 
 콘텐츠 추천 엔진은 예측 분석 및 머신 러닝 알고리즘을 사용하여 각 웹 방문자에게 관련 콘텐츠를 전달합니다. 권장 사항 엔진은 방문자당 성과가 가장 좋은 콘텐츠를 예측합니다. 엔진의 콘텐츠는 권장 사항 페이지에서 모니터링 및 제어되므로 콘텐츠 ROI를 최적화할 수 있습니다.

@@ -3,27 +3,38 @@ description: 릴리스 노트 - 2024년 1월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2024년 1월
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-TQID: https://experienceleague.adobe.com/H-fad0HtKRnUzLN8mBkX-i7iUboD-RqMY8-AM5z-Bz8
+TQID: 'https://experienceleague.adobe.com/H-fad0HtKRnUzLN8mBkX-i7iUboD-RqMY8-AM5z-Bz8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: cbccec41-b38b-4693-8acf-fed684dd06ba
+    internal-label: Sales Insight
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 840
+source-wordcount: '840'
 ht-degree: 17%
-
 ---
-
 # 릴리스 노트: 2024년 1월 {#release-notes-jan-24}
 
 아래에는 2024년 1월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
@@ -34,7 +45,7 @@ ht-degree: 17%
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 포함되며, **2024년 1월 12일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
+다음 기능은 표준 릴리스 주기에 포함되며, **2024년 1월 12일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인하십시오.
 
 <table style="table-layout:auto">
  <tbody>
@@ -104,7 +115,7 @@ ht-degree: 17%
 
 ## 애자일 릴리스 기능 {#agile-release-features}
 
-아래의 모든 기능은 애자일 형식을 따르며, 표준 릴리스 날짜 이전 또는 이후의 다양한 날짜에 릴리스됩니다. 각 기능 옆에서 상태를 확인합니다.
+아래의 모든 기능은 애자일 형식을 따르며, 표준 릴리스 날짜 이전 또는 이후의 다양한 날짜에 릴리스됩니다. 각 기능 옆에서 상태를 확인하십시오.
 
 ### Sales Insight Actions {#sales-insight-actions}
 

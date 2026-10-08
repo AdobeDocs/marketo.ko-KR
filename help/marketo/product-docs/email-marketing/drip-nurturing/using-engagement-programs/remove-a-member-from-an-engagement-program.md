@@ -4,18 +4,23 @@ description: 참여 프로그램에서 구성원을 제거하는 방법에 대�
 title: 참여 프로그램에서 멤버 제거
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/lVxZZEEceV59TpU7JaSUISp2L5HmSNHiv8Xy9vcymqQ
+TQID: 'https://experienceleague.adobe.com/lVxZZEEceV59TpU7JaSUISp2L5HmSNHiv8Xy9vcymqQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 118
+source-wordcount: '118'
 ht-degree: 13%
-
 ---
-
 # 참여 프로그램에서 멤버 제거 {#remove-a-member-from-an-engagement-program}
 
 **[!UICONTROL Change Program Status]** 흐름 단계를 사용하여 참여 프로그램에서 구성원을 제거할 수 있습니다.

@@ -3,16 +3,21 @@ description: Dynamics 동기화에 사용되는 클라이언트 ID 및 앱 등�
 title: 클라이언트 ID 및 앱 등록에 대한 동의 권한 부여
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/HOqR2iJ4eN5091PyTeOLtCeYkVrj9TMs5MuKK8tEeYo
+TQID: 'https://experienceleague.adobe.com/HOqR2iJ4eN5091PyTeOLtCeYkVrj9TMs5MuKK8tEeYo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 285
+source-wordcount: '285'
 ht-degree: 7%
-
 ---
-
 # 클라이언트 ID 및 앱 등록에 대한 동의 권한 부여 {#grant-consent-for-client-id-and-app-registration}
 
 필요한 동의 및 권한을 부여하는 방법을 배우려면 아래 단계를 따르십시오.

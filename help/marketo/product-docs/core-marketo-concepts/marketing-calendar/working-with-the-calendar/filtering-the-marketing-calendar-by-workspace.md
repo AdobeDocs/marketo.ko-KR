@@ -4,16 +4,21 @@ description: 작업 영역별로 마케팅 달력을 필터링하는 방법을 �
 title: 작업 영역별로 마케팅 캘린더 필터링
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/kitTh-V5W5gqQqXgzNQ3MuEa-H4x9s2k98lm6yaOO00
+TQID: 'https://experienceleague.adobe.com/kitTh-V5W5gqQqXgzNQ3MuEa-H4x9s2k98lm6yaOO00'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 77
+source-wordcount: '77'
 ht-degree: 15%
-
 ---
-
 # 작업 영역별로 마케팅 캘린더 필터링 {#filtering-the-marketing-calendar-by-workspace}
 
 마케팅 달력은 특정 작업 공간의 객체별로 필터링할 수 있습니다.

@@ -4,18 +4,23 @@ description: Email Editor v2.0과 그 기능에 대해 알아봅니다. 모듈 �
 title: 이메일 편집기 v2.0 개요
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM
+TQID: 'https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: 5935e1cef334c7c5fd40864dd2a677b4cb9d46d4
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 453
+source-wordcount: '453'
 ht-degree: 70%
-
 ---
-
 # 이메일 편집기 v2.0 개요 {#email-editor-v2-overview}
 
 클래식 이메일 편집기 개요.
@@ -60,7 +65,7 @@ ht-degree: 70%
 
 ### 이메일 미리 보기 {#preview-your-email}
 
-기본적으로 이메일은 강조 표시된 파란색 아이콘처럼 데스크탑에서 보이는 모양대로 표시됩니다. 오른쪽에 있는 아이콘을 클릭하면...
+기본적으로 이메일은 강조 표시된 파란색 아이콘으로 표시된 것처럼 데스크탑에서 어떻게 보이는지 표시됩니다. 오른쪽에 있는 아이콘을 클릭하면...
 
 ![](assets/email-editor-v2-overview-7.png)
 

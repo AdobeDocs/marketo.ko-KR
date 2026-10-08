@@ -4,16 +4,18 @@ description: 프로그램의 인앱 메시지를 선택하는 방법을 알아�
 title: 인앱 메시지 선택
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/10WgRVgOFIuqn2ojRJ7lGkzzVjrC5QG-6U3301GZFbE
+TQID: 'https://experienceleague.adobe.com/10WgRVgOFIuqn2ojRJ7lGkzzVjrC5QG-6U3301GZFbE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 129
+source-wordcount: '129'
 ht-degree: 7%
-
 ---
-
 # 인앱 메시지 선택 {#select-your-in-app-message}
 
 여기에서 프로그램에서 사용하기 위해 만든 메시지를 선택할 수 있습니다.

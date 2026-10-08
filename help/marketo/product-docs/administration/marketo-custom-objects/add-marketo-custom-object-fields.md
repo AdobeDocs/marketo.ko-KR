@@ -4,20 +4,26 @@ description: 표시 이름, 설명 및 데이터 유형을 포함하여 사용�
 title: Marketo 사용자 정의 오브젝트 필드 추가
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-TQID: https://experienceleague.adobe.com/fk5uHrQlGcchB6xctECVscTJ8Dre--0-F3bIVjOEKIo
+TQID: 'https://experienceleague.adobe.com/fk5uHrQlGcchB6xctECVscTJ8Dre--0-F3bIVjOEKIo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 289
+source-wordcount: '289'
 ht-degree: 5%
-
 ---
-
 # Marketo 사용자 정의 오브젝트 필드 추가 {#add-marketo-custom-object-fields}
 
 사용자 지정 개체를 만든 후에는 비즈니스 요구 사항에 맞게 사용자 지정 개체에 필드를 추가해야 합니다.

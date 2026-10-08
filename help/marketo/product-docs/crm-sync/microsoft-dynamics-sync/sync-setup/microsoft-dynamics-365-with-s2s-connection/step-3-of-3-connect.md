@@ -4,16 +4,21 @@ description: Marketo 솔루션을 Dynamics 365에 연결하고 서버와 서버�
 title: 3단계/3 - Marketo 솔루션을 서버 간 연결에 연결
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/CtVAFVltlfzpVkB28kTjz7YTIdk-8sMKHKDEp5XQMuY
+TQID: 'https://experienceleague.adobe.com/CtVAFVltlfzpVkB28kTjz7YTIdk-8sMKHKDEp5XQMuY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 447
+source-wordcount: '447'
 ht-degree: 2%
-
 ---
-
 # 3단계/3: Marketo 솔루션을 서버 간 연결에 연결 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
 동기화의 마지막 단계입니다.

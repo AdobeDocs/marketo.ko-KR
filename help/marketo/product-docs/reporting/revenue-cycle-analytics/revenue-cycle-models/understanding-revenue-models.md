@@ -4,13 +4,19 @@ description: 수익 모델 이해를 포함하여 Marketo Engage의 수익 모�
 title: 수익 모델 이해
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '578'
 ht-degree: 1%
-
 ---
-
 # 수익 모델 이해 {#understanding-revenue-models}
 
 수익 주기 모델은 마케팅을 한 단계 업그레이드합니다. 이 모델은 잠재 고객과 처음 상호 작용할 때부터 잠재 고객이 단일 고객일 때까지 전체 매출의 모든 단계를 funnel으로 모델링합니다.

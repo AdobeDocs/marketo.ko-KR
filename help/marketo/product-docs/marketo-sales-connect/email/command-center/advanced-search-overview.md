@@ -4,16 +4,18 @@ description: Sales Connect Command Center의 고급 검색에 대해 알아봅�
 title: 고급 검색 개요
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/iKvWJgc64doQj-GwRYdlnXU16VPU0qm7aQOp8Iovh4s
+TQID: 'https://experienceleague.adobe.com/iKvWJgc64doQj-GwRYdlnXU16VPU0qm7aQOp8Iovh4s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 391
+source-wordcount: '391'
 ht-degree: 4%
-
 ---
-
 # 고급 검색 개요 {#advanced-search-overview}
 
 이메일을 보고, 클릭하거나, 답글을 달았던 잠재 고객을 타겟팅하기 위해 고급 검색을 활용하여 가장 참여도가 높은 잠재 고객의 타겟팅 목록을 만들 수 있습니다.

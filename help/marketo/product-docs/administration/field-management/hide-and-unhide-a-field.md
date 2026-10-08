@@ -4,21 +4,28 @@ description: 더 이상 필요하지 않은 경우 Marketo UI에서 필드를 �
 title: 필드 숨기기 및 숨기기 취소
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-TQID: https://experienceleague.adobe.com/eqaWiLR0hUwkqJbayqZEzw8o5oI4ejP6NKJnrPiCq6I
+TQID: 'https://experienceleague.adobe.com/eqaWiLR0hUwkqJbayqZEzw8o5oI4ejP6NKJnrPiCq6I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 161
+source-wordcount: '161'
 ht-degree: 16%
-
 ---
-
 # 필드 숨기기 및 숨기기 취소 {#hide-and-unhide-a-field}
 
 Marketo Engage에서 더 이상 필드가 필요하지 않은 경우 애플리케이션에 더 이상 표시되지 않도록 UI에서 숨길 수 있습니다.

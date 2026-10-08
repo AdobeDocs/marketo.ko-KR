@@ -4,16 +4,18 @@ description: Gmail 플러그인의 콘텐츠 일부를 첨부하는 방법을 �
 title: 콘텐츠 첨부
 exl-id: eb47b53e-5b6c-4473-93e0-43f6a6f3eb28
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/4rUQgSc4Dpn-hiHADtGwHD25qFRg4ztnNFOVXy9yuC4
+TQID: 'https://experienceleague.adobe.com/4rUQgSc4Dpn-hiHADtGwHD25qFRg4ztnNFOVXy9yuC4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 80
+source-wordcount: '80'
 ht-degree: 12%
-
 ---
-
 # 콘텐츠 첨부 {#attaching-a-piece-of-content}
 
 **[!UICONTROL Content]** 단추를 클릭하고 파일을 업로드하여 추적 가능한 콘텐츠를 추가하십시오. 이전에 추적한 모든 콘텐츠는 다시 업로드하지 않고도 팝업 창에서 선택할 수 있게 표시됩니다.

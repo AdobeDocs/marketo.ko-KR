@@ -4,16 +4,18 @@ description: Sales Connect에서 사용자 정의 도메인 추적을 설정하�
 title: 사용자 정의 도메인 추적을 설정하는 방법
 exl-id: 55a9b5b7-214d-44e6-a52b-612d03835f01
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/iK8QMNOkLI25nbr0laGsU6sM6-ChiAlmcsModzw3Fkk
+TQID: 'https://experienceleague.adobe.com/iK8QMNOkLI25nbr0laGsU6sM6-ChiAlmcsModzw3Fkk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 102
+source-wordcount: '102'
 ht-degree: 13%
-
 ---
-
 # 사용자 정의 도메인 추적을 설정하는 방법 {#how-to-set-up-custom-domain-tracking}
 
 링크에 대한 사용자 정의 도메인 추적을 구성하는 옵션이 제공되므로, 누군가 링크를 마우스로 가리키면 &quot;go.toutapp.com&quot; 대신 &quot;go.yourcompany.com&quot;이 표시됩니다.

@@ -4,22 +4,28 @@ description: 영업 팀에 TAM 통찰력을 제공하는 계정 Insight Chrome �
 title: '[!DNL Account Insight] 플러그 인 개요'
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/v50PensJweW1ETBunBu0F0WHYggw9H6gEpEKRQhvjMs
+TQID: 'https://experienceleague.adobe.com/v50PensJweW1ETBunBu0F0WHYggw9H6gEpEKRQhvjMs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 328
+source-wordcount: '328'
 ht-degree: 0%
-
 ---
-
 # [!DNL Account Insight] 플러그 인 개요 {#account-insight-plug-in-overview}
 
 [!DNL Account Insight]은(는) 영업 팀에게 실행 가능한 TAM 및 계정 통찰력을 제공하는 [!DNL Chrome] 플러그인으로, 계정을 보다 효과적으로 참여시킬 수 있습니다.

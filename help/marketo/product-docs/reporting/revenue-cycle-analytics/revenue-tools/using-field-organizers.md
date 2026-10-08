@@ -4,13 +4,19 @@ description: Marketo Engage에서 필드 이끌이를 사용하는 방법(필드
 title: 필드 조직자 사용
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 5%
-
 ---
-
 # 필드 조직자 사용 {#using-field-organizers}
 
 필드 구성자는 모든 가능한 값 중에서 특정 필드를 지정하는 데 도움이 됩니다. 예를 들어 Territory 필드에 대해 West Coast 및 East Coast 와 같은 의미 있는 그룹을 생성할 수 있습니다. 이렇게 하면 보고서가 더 빨리 실행됩니다.

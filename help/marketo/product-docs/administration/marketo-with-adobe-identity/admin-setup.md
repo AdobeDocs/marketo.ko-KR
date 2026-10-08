@@ -3,22 +3,26 @@ description: Adobe Admin Console에 추가된 후 Adobe 시스템 관리자를 �
 title: 관리자 설정
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-TQID: https://experienceleague.adobe.com/S6IJubZNpCISjsgF646MLAxliBqH8KyOnRETtiVv9gI
+TQID: 'https://experienceleague.adobe.com/S6IJubZNpCISjsgF646MLAxliBqH8KyOnRETtiVv9gI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 246
+source-wordcount: '246'
 ht-degree: 4%
-
 ---
-
 # 관리자 설정 {#admin-setup}
 
 Adobe 조직의 Marketo Engage에 Adobe 시스템 관리자로 추가된 후 초기 설정을 완료하기 위해 수행해야 하는 몇 가지 단계가 있습니다.

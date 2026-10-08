@@ -1,25 +1,30 @@
 ---
 unique-page-id: 2360354
 description: 사이트에 Marketo [!DNL Munchkin] JavaScript을 추가하여 방문을 추적하고 웹 기반 캠페인을 사용하도록 설정합니다.
-title: 웹 사이트에  [!DNL Munchkin] 추적 코드 추가
+title: 웹 사이트에 [!DNL Munchkin] 추적 코드 추가
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-TQID: https://experienceleague.adobe.com/3L0oDc3Xx3IaOy8t8Ut2W9c4YkRTdS5Ryd4r-Yuuhts
+TQID: 'https://experienceleague.adobe.com/3L0oDc3Xx3IaOy8t8Ut2W9c4YkRTdS5Ryd4r-Yuuhts'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 1c1a93b2-f024-5627-9905-6faf6fcc22be
+    internal-label: Munchkin Tracking Code
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 652
+source-wordcount: '654'
 ht-degree: 5%
-
 ---
-
 # 웹 사이트에 [!DNL Munchkin] 추적 코드 추가 {#add-munchkin-tracking-code-to-your-website}
 
 Marketo의 사용자 지정 JavaScript 추적 코드([!DNL Munchkin])는 웹 사이트를 방문하는 모든 개인을 추적하므로 자동화된 마케팅 캠페인으로 방문에 대응할 수 있습니다. 익명 방문자도 IP 주소 및 기타 정보와 함께 추적됩니다. **이 추적 코드가 없으면 웹 사이트에서 방문 횟수나 다른 활동을 추적할 수 없습니다**!

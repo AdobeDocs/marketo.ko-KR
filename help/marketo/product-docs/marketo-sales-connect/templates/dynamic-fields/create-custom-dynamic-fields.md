@@ -4,18 +4,20 @@ description: Sales Connect 템플릿에서 사용자 정의 동적 필드를 만
 title: 사용자 정의 동적 필드 만들기
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/uKq11AriHch77Qu0zRmjnJYAS4IZJP3UYOnyrnq0zi8
+TQID: 'https://experienceleague.adobe.com/uKq11AriHch77Qu0zRmjnJYAS4IZJP3UYOnyrnq0zi8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 242
+source-wordcount: '242'
 ht-degree: 3%
-
 ---
-
 # 사용자 정의 동적 필드 만들기 {#create-custom-dynamic-fields}
 
 사용자 지정 동적 필드를 만드는 방법에는 두 가지가 있습니다.

@@ -4,18 +4,23 @@ description: Marketo에서 가이드 랜딩 페이지 템플릿을 만드는 방
 title: 가이드 랜딩 페이지 템플릿 만들기
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/0dAw-HmJskYDA8uvu4ffMPPWwaQV3M-l8-kxLN-Vx-o
+TQID: 'https://experienceleague.adobe.com/0dAw-HmJskYDA8uvu4ffMPPWwaQV3M-l8-kxLN-Vx-o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1132
-ht-degree: 21%
-
+source-wordcount: '1067'
+ht-degree: 22%
 ---
-
 # 가이드 랜딩 페이지 템플릿 만들기 {#create-a-guided-landing-page-template}
 
 안내식 랜딩 페이지 템플릿에는 특수 구문이 있습니다. 이 구문을 사용하여 사용자 지정할 수 있는 항목과 템플릿으로 만든 각 랜딩 페이지에서 콘텐츠가 표시될 위치를 지정할 수 있습니다. 편집 가능으로 지정한 지역 또는 변수만 &quot;안내가 있는&quot; 랜딩 페이지 편집기 내에서 사용자 지정할 수 있습니다.

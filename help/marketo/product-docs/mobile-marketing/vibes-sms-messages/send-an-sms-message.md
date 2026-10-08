@@ -3,18 +3,20 @@ description: 일괄 처리를 통해 SMS 메시지를 보내거나 캠페인을 
 title: SMS 메시지 보내기
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-TQID: https://experienceleague.adobe.com/F-M5VulzDeqzUGcnAE58xOrQohBjEZ2rp40G7OEwxeY
+TQID: 'https://experienceleague.adobe.com/F-M5VulzDeqzUGcnAE58xOrQohBjEZ2rp40G7OEwxeY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 342
+source-wordcount: '342'
 ht-degree: 2%
-
 ---
-
 # SMS 메시지 보내기 {#send-a-vibes-sms-message}
 
 [SMS 메시지를 만들었습니다](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}. 이제 보낼 차례입니다. 일괄 처리 또는 트리거 캠페인을 통해 전송할 수 있습니다.

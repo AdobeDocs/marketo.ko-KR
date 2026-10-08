@@ -4,16 +4,18 @@ description: ON24 및 Marketo 통합에서 웨비나 프로그램 상태에 대�
 title: 웨비나 프로그램 상태 이해
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-TQID: https://experienceleague.adobe.com/7TgAEyZElmSgML0nz-FWdw-nTB9WJZMcM-X4PzFJLq4
+TQID: 'https://experienceleague.adobe.com/7TgAEyZElmSgML0nz-FWdw-nTB9WJZMcM-X4PzFJLq4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 426
+source-wordcount: '426'
 ht-degree: 1%
-
 ---
-
 # 웨비나 프로그램 상태 이해 {#understanding-webinar-program-statuses}
 
 프로그램 상태는 개인이 이벤트의 멤버로 진행하는 다양한 이벤트 상태를 나타냅니다. 채널 유형에 연결됩니다. Marketo에는 **웨비나**&#x200B;라는 기본 제공 채널 형식이 있습니다. 상태는 일괄 처리와 트리거 캠페인 모두에서 사용할 수 있습니다.

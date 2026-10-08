@@ -4,13 +4,19 @@ description: 속성 예 3 속성 예를 포함하여 Marketo Engage의 속성 �
 title: 속성 예제 3
 exl-id: d8ca63a2-58de-4cde-b915-ff7f2e6468d9
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 3%
-
 ---
-
 # 속성 예제 3 {#attribution-example}
 
 다음 시나리오를 읽고 그리드에 있어야 하는 숫자를 결정하십시오.

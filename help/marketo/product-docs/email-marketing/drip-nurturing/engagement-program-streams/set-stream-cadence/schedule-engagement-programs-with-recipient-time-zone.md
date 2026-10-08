@@ -4,21 +4,26 @@ description: 수신자 시간대와 참여 프로그램 캐스트의 일정을 �
 title: 수신자 시간대에 맞춰 참여 프로그램 예약
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg
+TQID: 'https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 200
-ht-degree: 9%
-
+source-wordcount: '201'
+ht-degree: 8%
 ---
-
 # 수신자 시간대에 맞춰 참여 프로그램 예약 {#schedule-engagement-programs-with-recipient-time-zone}
 
-참여 프로그램 스트림을 예약하고 받는 사람 시간대가 활성화되면 프로그램 캐스트가 첫 번째 시간대(UTC +14:00)의 자정에 실행됩니다. 전 세계 모든 시간대에 출연할 자격이 있는 사람이 있을 수 있으므로 앞으로 **최소 25시간**&#x200B;에 첫 출연을 예약해야 합니다. 이때 첫 번째 시간대에서 처리를 시작하면 모든 수신자에 대해 예약된 날짜와 시간에 이메일이 배달됩니다.
+참여 프로그램 스트림 및 수신자 시간대를 활성화하면 첫 번째 시간대(UTC +14:00)의 자정에 프로그램 캐스트가 실행됩니다. 전 세계 모든 시간대에 출연할 자격이 있는 사람이 있을 수 있으므로 앞으로 **최소 25시간**&#x200B;에 첫 출연을 예약해야 합니다. 이때 첫 번째 시간대에서 처리를 시작하면 모든 수신자에 대해 예약된 날짜와 시간에 이메일이 배달됩니다.
 
 1. 참여 프로그램에서 **[!UICONTROL Streams]** 탭으로 이동하여 스트림의 케이던스 일정을 클릭하여 편집합니다.
 

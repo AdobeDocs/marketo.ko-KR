@@ -4,28 +4,40 @@ description: 작업 영역에서 마케팅 자산을 구성하는 방법과 개�
 title: 작업 영역 및 개인 파티션 이해
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-TQID: https://experienceleague.adobe.com/Ex-WBSNYTFvevcwryuO4CzUsg79nOmjkVx4WMUx9nqA
+TQID: 'https://experienceleague.adobe.com/Ex-WBSNYTFvevcwryuO4CzUsg79nOmjkVx4WMUx9nqA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: b4e49ca2-9149-5443-90e6-11978bb87c2f
+    internal-label: Partitions
+  - id: fffc2f21-ba05-5d98-924c-16da987a5b69
+    internal-label: Workspaces
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 544
-ht-degree: 78%
-
+source-wordcount: '546'
+ht-degree: 75%
 ---
-
 # 작업 영역 및 개인 파티션 이해 {#understanding-workspaces-and-person-partitions}
 
 ## 작업 영역 {#workspaces}
@@ -124,13 +136,13 @@ ht-degree: 78%
 
 ## 개인 파티션 {#person-partitions}
 
-개인 파티션은 별도의 데이터베이스처럼 작동합니다. 각 파티션에는 다른 파티션과 중복 제거되거나 섞이지 않는 고유한 사용자가 있습니다. 비즈니스 사용 사례에 동일한 전자 메일 주소를 가진 중복 레코드가 필요한 경우 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
+사용자 파티션은 별도의 데이터베이스처럼 작동합니다. 각 파티션에는 다른 파티션과 중복 제거되거나 섞이지 않는 고유한 사용자가 있습니다. 비즈니스 사용 사례에 동일한 전자 메일 주소를 가진 중복 레코드가 필요한 경우 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하십시오.
 
 다음 구성에서는 [작업 영역](create-a-new-workspace.md)에 개인 파티션을 할당할 수 있습니다.
 
-* 한 작업 영역을 한 개인 파티션에 할당(1:1)
+* 1개의 작업 영역과 1개의 개인 파티션(1:1)
 * 한 작업 영역을 여러 개인 파티션에 할당(1:x)
-* 여러 작업 영역을 한 개인 파티션에 할당(x:1)
+* 한 사람에 대한 많은 작업 공간 파티션(x:1)
 
 >[!NOTE]
 >

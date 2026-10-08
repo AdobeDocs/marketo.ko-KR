@@ -2,14 +2,15 @@
 description: 조회수, 클릭수 및 답글을 확인할 수 있도록 추적된 판매 이메일을 보내는 방법에 대해 알아봅니다. 게재 채널을 사용하고 명령 센터에서 추적합니다.
 title: 추적된 이메일 보내기
 hide: true
-hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+hidefromtoc: 'yes'
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 3%
-
 ---
-
 # 추적된 이메일 보내기 {#sending-a-tracked-email}
 
 Marketo Sales Connect를 통해 이메일을 보낼 때 보기 (이메일 열림) 및 클릭 수 (클릭한 링크)가 추적됩니다.

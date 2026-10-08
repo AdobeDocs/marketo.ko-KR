@@ -1,43 +1,74 @@
 ---
-title: "2019"
+title: '2019'
 description: 2019년 - Marketo 문서 - 제품 설명서
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+    internal-label: Sales Connect
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2528
+source-wordcount: '2530'
 ht-degree: 0%
-
 ---
-
 # 2019
 
 ## 2019년 겨울 {#winter}
@@ -83,8 +114,8 @@ Marketo을 통해 전송된 이메일에 수신자당 최대 5개의 CC 주소�
 * **이메일 서비스**: [!DNL Microsoft Outlook]에 연결하여(Office365 또는 [이메일 연결] 탭을 통해 온프레미스) 게재 기능 및 개선된 회신 추적, 예약된 이메일 기능, 대량 이메일 기능을 활용하세요.
 * **새 관리자 설정**: Sales Engage 인스턴스를 최적화하기 위해 두 개의 관리 페이지가 추가되었습니다.
 
-   * *팀 관리*&#x200B;에서는 관리자가 구독 및 팀을 편집할 수 있도록 하여 원활한 계정 설정 프로세스를 지원합니다.
-   * *Salesforce 관리 설정*&#x200B;을 통해 팀은 이전보다 더 빠르고 쉽게 SFDC 동기화를 설정할 수 있습니다.
+  * *팀 관리*&#x200B;에서는 관리자가 구독 및 팀을 편집할 수 있도록 하여 원활한 계정 설정 프로세스를 지원합니다.
+  * *Salesforce 관리 설정*&#x200B;을 통해 팀은 이전보다 더 빠르고 쉽게 SFDC 동기화를 설정할 수 있습니다.
 
 * [!DNL Windows]&#x200B;**용** OWA 플러그 인: 단일 추가 기능을 사용하면 Outlook에서 Live Feed를 사용할 수 있는 기능을 제공하는 Sales Engage에서 모든 [!DNL Windows Office365] 클라이언트가 지원됩니다. 새 플러그인은 Microsoft 스토어에서 사용할 수 있습니다.
 * **활동 푸셔**: 실시간 마케팅 인사이트를 활용하려면 Sales Engage를 핵심 Marketo 플랫폼과 동기화하십시오.
@@ -226,8 +257,8 @@ Account-Based Marketing
 
 * **이벤트 상한** 및 **이벤트 목표**&#x200B;는 일반적으로 Premium 이벤트 추가 기능의 [!DNL Marketo Sky]에서 사용할 수 있습니다.
 
-   * 이벤트 상한: 등록 상한, 페이지 리디렉션 및 대기자 명단 기능을 사용하여 이벤트 및 웨비나에 대한 고객 경험을 최적화합니다.
-   * 이벤트 목표: 이벤트 등록 및 출석 목표를 설정하고 진행 상황을 실시간으로 추적합니다.
+  * 이벤트 상한: 등록 상한, 페이지 리디렉션 및 대기자 명단 기능을 사용하여 이벤트 및 웨비나에 대한 고객 경험을 최적화합니다.
+  * 이벤트 목표: 이벤트 등록 및 출석 목표를 설정하고 진행 상황을 실시간으로 추적합니다.
 
 * **전체 탐색 링크**: Hootsuite, Calendar 등과 같이 권한이 부여된 모든 응용 프로그램에 대한 탐색을 활성화했습니다.
 * **전자 메일, 랜딩 페이지, 코드 조각, 양식, 이미지 및 파일 목록 보기**: Design Studio에서 자산을 보고 검색하고 다수의 작업을 수행합니다.
@@ -293,5 +324,5 @@ _&#x200B;**제품 릴리스 웨비나**&#x200B;_ 2019년 6월 릴리스 혁신 �
 >
 >**Marketo Engage 액세스를 유지하려면 2019년 12월 13일 이전에 모든 클라이언트 시스템이 TLS 1.2를 준수하는지 확인**&#x200B;하십시오. 자세한 내용은 [여기](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq)를 참조하세요.
 
-**_제품 릴리스 웨비나_** [참여하기](https://engage.marketo.com/August_19_Release_Webinar.html) 8월 28일 오전 1:00PMPT/4:00PM에 제품 팀이 호스팅하는 라이브 웨비나에 대해 ET로 참여하여 이 릴리스에 포함된 기능에 대해 자세히 알아보십시오.
+**_제품 릴리스 웨비나_** [참여하기](https://engage.marketo.com/August_19_Release_Webinar.html) 8월 28일 오후 1시(PT 기준)/오후 4시(ET 기준)에 제품 팀이 호스팅하는 라이브 웨비나에 대해 알아보고 이 릴리스에 포함된 기능에 대해 자세히 알아보십시오.
 

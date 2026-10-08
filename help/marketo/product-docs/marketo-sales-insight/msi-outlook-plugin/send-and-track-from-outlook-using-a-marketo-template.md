@@ -1,23 +1,26 @@
 ---
 unique-page-id: 2949283
 description: Marketo 템플릿을 사용하여 Outlook에서 보내고 추적하는 방법에 대해 알아봅니다. 판매 템플릿을 삽입하고 Outlook에서 추적된 이메일을 전송합니다.
-title: ' [!DNL Outlook] Marketo 템플릿 사용'
+title: Marketo 템플릿을 사용하여 [!DNL Outlook]에서 전송 및 추적
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/trwNooFsf1aiYblIvwyVHA7YONJfpX7N99qpnr5a4X8
+TQID: 'https://experienceleague.adobe.com/trwNooFsf1aiYblIvwyVHA7YONJfpX7N99qpnr5a4X8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 200
+source-wordcount: '201'
 ht-degree: 0%
-
 ---
-
 # Marketo 템플릿을 사용하여 [!DNL Outlook]에서 전송 및 추적 {#send-and-track-from-outlook-using-a-marketo-template}
 
 마케팅 팀에서 템플릿을 사용할 수 있도록 한 경우 이메일을 작성할 때 템플릿을 사용하여 시간을 절약할 수 있는 방법은 다음과 같습니다.

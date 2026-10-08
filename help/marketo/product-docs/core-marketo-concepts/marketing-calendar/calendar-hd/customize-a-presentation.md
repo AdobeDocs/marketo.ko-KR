@@ -4,16 +4,21 @@ description: 보기 및 목표가 있는 마케팅 달력 프레젠테이션을 
 title: 프레젠테이션 사용자 정의
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/DDmFzhg3-yRx3ktlHa5TICBSOmG6hlrANlH6tb7FGIY
+TQID: 'https://experienceleague.adobe.com/DDmFzhg3-yRx3ktlHa5TICBSOmG6hlrANlH6tb7FGIY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 273
+source-wordcount: '273'
 ht-degree: 2%
-
 ---
-
 # 프레젠테이션 사용자 정의 {#customize-a-presentation}
 
 팀에 가장 중요한 목표와 활동을 반영하도록 달력 프레젠테이션을 설정하십시오.

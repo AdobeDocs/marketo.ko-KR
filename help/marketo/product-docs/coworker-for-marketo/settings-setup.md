@@ -1,13 +1,14 @@
 ---
 description: Marketo Engage 권한에 대해 Coworker를 활성화하고 조직 규칙을 구성하고 통합 및 알림과 같은 설정을 관리하는 방법을 알아봅니다.
 title: 설정 및 설정
-source-git-commit: 01cad5c7d14083c0ef7127850f2488dbfd71f57b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 1%
-
 ---
-
 # 설정 및 설정 {#settings-setup}
 
 권한을 활성화하고 설정 영역을 사용하여 연결 세부 정보를 보고, 조직 규칙을 정의하고, 통합 및 알림을 설정하는 방법을 알아봅니다.

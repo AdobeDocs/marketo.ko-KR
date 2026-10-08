@@ -1,45 +1,76 @@
 ---
-title: "2020"
+title: '2020'
 description: 2020년 - Marketo 문서 - 제품 설명서
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
   - id: d1956f52-ecfd-4e01-8941-47af238acb0d
+    internal-label: Help center
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
   - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
   - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 4148
+source-wordcount: '4152'
 ht-degree: 1%
-
 ---
-
 # 2020
 
 ## 2020년 1월 {#january}
@@ -107,7 +138,7 @@ ht-degree: 1%
 >
 >* **ITP 2.1+ [!DNL Munchkin] 업데이트**: [!DNL Safari]에 대한 쿠키 정책이 변경되어 [!DNL Munchkin]의 동일한 도메인에서 세션 간 사용자 추적 기능은 방문자가 사용하는 브라우저 및 브라우저 버전에 따라 ITP에 의해 1일 또는 7일로 제한됩니다. 이를 위해 HTTP 응답을 통해 Munchkin 쿠키를 Set-Cookie 헤더로 설정할 수 있도록 새 웹 서비스를 구현하고 있습니다. 이 새 서비스를 구현하는 방법에 대한 자세한 내용은 [여기](https://nation.marketo.com/docs/DOC-7351)를 참조하십시오.
 
-**_제품 릴리스 웨비나_** [참여하기](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3월 3일 오전 11시:00AM분(PT/2:00PM)에 제품 팀이 호스팅하는 라이브 웨비나에 대해 ET에 참여하여 이 릴리스에 포함된 기능에 대해 자세히 알아보십시오.
+**_제품 릴리스 웨비나_** [참여하기](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3월 3일 오전 11시(PT 기준)/오후 2시(ET 기준) 제품 팀이 호스팅하는 라이브 웨비나에 대해 알아보고 이 릴리스에 포함된 기능에 대해 자세히 알아보십시오.
 
 ## 2020년 2월 {#february}
 
@@ -157,7 +188,7 @@ ht-degree: 1%
 * **자산 API &quot;_method&quot; 매개 변수**: 2020년 9월 이후, 자산 API 끝점은 이제 &quot;_method&quot;를 사용하여 쿼리 매개 변수를 URI 길이 제한을 무시하도록 POST 본문에 전달하지 않습니다. 이 매개 변수를 필요로 하는 요청을 수용하기 위해 자산 API의 URI 제한이 6KiB에서 65KiB로 증가하여 긴 요청 URI가 제출될 수 있습니다.
 * **Internet Explorer 지원 중단**: 2020년 7월 31일 7월 릴리스부터 Marketo Engage 사용자 인터페이스는 더 이상 Internet Explorer에서 지원되지 않습니다.
 
-**_제품 릴리스 웨비나_** [참여하기](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3월 3일 오전 11시:00AM분(PT/2:00PM)에 제품 팀이 호스팅하는 라이브 웨비나에 대해 ET에 참여하여 이 릴리스에 포함된 기능에 대해 자세히 알아보십시오.
+**_제품 릴리스 웨비나_** [참여하기](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) 3월 3일 오전 11시(PT 기준)/오후 2시(ET 기준) 제품 팀이 호스팅하는 라이브 웨비나에 대해 알아보고 이 릴리스에 포함된 기능에 대해 자세히 알아보십시오.
 
 ## 2020년 6월 {#june}
 
@@ -187,7 +218,7 @@ ht-degree: 1%
 
 * **새 계정 검색을 일반적으로 사용할 수 있음**
 
-   * 새 계정 검색은 계정 프로파일링 기능의 향상된 기능으로, AI 기반의 이상적인 고객 프로필 모델을 기반으로 ABM 전략에 대한 신규 대상 계정을 검색할 수 있습니다. AI 기반 적합 및 의도 데이터 지표와 함께 권장 새 계정을 보고, 선택하고, 가져옵니다.
+  * 새 계정 검색은 계정 프로파일링 기능의 향상된 기능으로, AI 기반의 이상적인 고객 프로필 모델을 기반으로 ABM 전략에 대한 신규 대상 계정을 검색할 수 있습니다. AI 기반 적합 및 의도 데이터 지표와 함께 권장 새 계정을 보고, 선택하고, 가져옵니다.
 
 <br> 
 

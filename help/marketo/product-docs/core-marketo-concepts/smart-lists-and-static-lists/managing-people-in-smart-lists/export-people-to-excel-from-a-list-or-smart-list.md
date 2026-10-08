@@ -4,16 +4,21 @@ description: 목록 또는 스마트 목록에서 사람을 Excel로 내보내�
 title: 목록 또는 스마트 목록에서 사용자를 Excel로 내보내기
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/gr2GJ22r0Kf7RCRHLsW04WYHXrsqcGAC0itjkFScKOE
+TQID: 'https://experienceleague.adobe.com/gr2GJ22r0Kf7RCRHLsW04WYHXrsqcGAC0itjkFScKOE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: '173'
 ht-degree: 14%
-
 ---
-
 # 목록 또는 스마트 목록에서 사용자를 Excel로 내보내기 {#export-people-to-excel-from-a-list-or-smart-list}
 
 Marketo 외부에서 목록 또는 스마트 목록 결과가 필요한 경우 Excel로 내보낼 수 있습니다.

@@ -3,16 +3,18 @@ description: 추적 가능한 링크가 회사 도메인을 사용하도록 사�
 title: 사용자 정의 도메인 추적을 설정하는 방법
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/gn3uC4uxpwp35IVYcUs-cZJFqbmPc-7vTmgbIPm8lTk
+TQID: 'https://experienceleague.adobe.com/gn3uC4uxpwp35IVYcUs-cZJFqbmPc-7vTmgbIPm8lTk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 186
+source-wordcount: '186'
 ht-degree: 7%
-
 ---
-
 # 사용자 정의 도메인 추적을 설정하는 방법 {#how-to-set-up-custom-domain-tracking}
 
 사용자 정의 도메인 추적을 사용하면 팀이 판매 이메일에 추가된 모든 추적 가능한 링크에서 고유한 회사 이름을 사용할 수 있습니다. 이 설정을 완료하면 go.yourcompany.com으로 표시되는 이메일에 포함된 모든 링크가 허용 목록에 추가하다되므로 누군가 링크를 마우스로 가리키면 go.toutapp.com 대신 go.yourcompany.com으로 읽혀집니다.

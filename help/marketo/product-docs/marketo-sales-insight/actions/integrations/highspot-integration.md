@@ -3,19 +3,22 @@ description: Sales Insight Actions 과의 Highspot 통합에 대해 알아봅니
 title: Highspot 통합
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/SMFTyAUudxHzxiE2q4IzlqYtbwzUSn77ncsM7WMIAfg
+TQID: 'https://experienceleague.adobe.com/SMFTyAUudxHzxiE2q4IzlqYtbwzUSn77ncsM7WMIAfg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 348
+source-wordcount: '348'
 ht-degree: 1%
-
 ---
-
 # Highspot 통합 {#highspot-integration}
 
 영업 팀은 Sales Insight Actions에서 Highspot 기능을 활용하여 영업 주기 전반에 걸쳐 가시성, 효율성 및 성과를 높일 수 있습니다. Sales Insight Action 사용자는 Highspot 및 Sales Insight Actions 내에서 컨텐츠 추적 및 분석을 캡처하는 동시에 Highspot 의 Sales Enablement 플랫폼에 저장된 판매 컨텐츠를 선택하고 이메일, 이메일 템플릿 및 판매 캠페인에 직접 삽입할 수 있습니다.

@@ -4,16 +4,18 @@ description: 이메일 개인화 - Marketo Docs - 제품 설명서
 title: 이메일 개인화
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/T2rqqrkxA5tScMDEnJ4oEXSwuJKnb36bscUKg5aRXhc
+TQID: 'https://experienceleague.adobe.com/T2rqqrkxA5tScMDEnJ4oEXSwuJKnb36bscUKg5aRXhc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 320
+source-wordcount: '320'
 ht-degree: 100%
-
 ---
-
 # 이메일 개인화 {#personalize-an-email}
 
 ## 미션: 데이터 토큰을 추가하여 이메일을 개인화합니다. {#mission-make-your-emails-personal-by-adding-data-tokens}
@@ -102,7 +104,7 @@ ht-degree: 100%
 
 ### 미션 완료 {#mission-complete}
 
-축하합니다. 이메일이 개인화되었습니다.
+축하합니다. 이메일을 개인화했습니다.
 
 <br> 
 

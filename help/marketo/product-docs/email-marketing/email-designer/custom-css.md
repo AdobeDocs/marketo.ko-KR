@@ -6,24 +6,33 @@ description: 이메일 Designer의 이메일 콘텐츠에 사용자 지정 CSS�
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-TQID: https://experienceleague.adobe.com/Rw-Sk5TQz8PEK07bb69pJnyuqAEKWH-XsS87XW4N22k
+TQID: 'https://experienceleague.adobe.com/Rw-Sk5TQz8PEK07bb69pJnyuqAEKWH-XsS87XW4N22k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 592
+source-wordcount: '592'
 ht-degree: 3%
-
 ---
-
 # 이메일 콘텐츠에 사용자 정의 CSS 추가 {#custom-css}
 
 고급 특정 스타일을 위해 Marketo Engage 이메일 Designer 내에 직접 사용자 지정 CSS를 추가합니다.
@@ -241,19 +250,19 @@ body {
 
 * CSS가 다른 CSS 규칙에 의해 재정의되지 않았는지 확인하십시오.
 
-   * 브라우저 개발자 도구를 사용하여 콘텐츠를 검사하고 CSS가 올바른 선택기를 타깃팅하는지 확인하십시오.
+  * 브라우저 개발자 도구를 사용하여 콘텐츠를 검사하고 CSS가 올바른 선택기를 타깃팅하는지 확인하십시오.
 
-   * 선언이 우선하도록 선언에 `!important`을(를) 추가해 보십시오.
+  * 선언이 우선하도록 선언에 `!important`을(를) 추가해 보십시오.
 
-     +++ 예:
+    +++ 예:
 
-     ```css
-     .acr-Form {
-       background: red !important;
-     }
-     ```
+    ```css
+    .acr-Form {
+      background: red !important;
+    }
+    ```
 
-     +++
+    +++
 
 >[!NOTE]
 >

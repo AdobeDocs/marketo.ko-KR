@@ -2,13 +2,14 @@
 unique-page-id: 7516612
 description: 이벤트 체크인 및 Marketo 모먼트 등 Marketo 모바일 앱에 대해 알아봅니다. 이벤트 참석자를 체크인하고 중요한 주요 인사이트를 확인합니다.
 title: 모바일 앱
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 5%
-
 ---
-
 
 # 모바일 앱 {#mobile-apps}
 

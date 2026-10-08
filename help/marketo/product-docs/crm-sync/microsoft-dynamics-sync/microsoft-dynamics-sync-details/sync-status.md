@@ -4,16 +4,21 @@ description: Microsoft Dynamics 동기화 상태와 처리량 및 백로그를 �
 title: 동기화 상태
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/GPyQNHoAdVHHBUSbkTTupH02XNnlD3UESZsxMpuJK3Q
+TQID: 'https://experienceleague.adobe.com/GPyQNHoAdVHHBUSbkTTupH02XNnlD3UESZsxMpuJK3Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 166
+source-wordcount: '166'
 ht-degree: 4%
-
 ---
-
 # 동기화 상태 {#sync-status}
 
 [!UICONTROL Sync Status] 및 [!UICONTROL Sync Errors] 탭에서 동기화 프로세스의 현재 처리량 및 백로그를 유지할 수 있습니다.

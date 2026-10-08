@@ -4,16 +4,21 @@ description: 사용자 지정 논리로 중복 사용자를 찾는 방법에 대
 title: 사용자 정의 논리로 중복 사용자 찾기
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/-NvWt-eEzngL0QY7Kyl6lfjd75WcoQmcq3IiN7Uc6-w
+TQID: 'https://experienceleague.adobe.com/-NvWt-eEzngL0QY7Kyl6lfjd75WcoQmcq3IiN7Uc6-w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 135
+source-wordcount: '135'
 ht-degree: 17%
-
 ---
-
 # 사용자 정의 논리로 중복 사용자 찾기 {#find-duplicate-people-with-custom-logic}
 
 Marketo Engage에는 이메일 주소를 일치시켜 중복 사용자를 찾는 시스템 스마트 목록이 있습니다. 다른 필드를 사용하여 중복 항목을 찾으려면 아래 단계를 따르십시오.

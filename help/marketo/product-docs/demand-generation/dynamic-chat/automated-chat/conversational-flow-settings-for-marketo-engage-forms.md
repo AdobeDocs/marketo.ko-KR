@@ -3,18 +3,23 @@ description: Marketo Forms를 Dynamic Chat 대화형 흐름과 대화형으로 �
 title: Marketo Engage Forms에 대한 대화 흐름 설정
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-TQID: https://experienceleague.adobe.com/1e2YHel2zDZX9Q6VRvak79Kdomb4ch22aRc--tY9jcA
+TQID: 'https://experienceleague.adobe.com/1e2YHel2zDZX9Q6VRvak79Kdomb4ch22aRc--tY9jcA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: b85314d3e3117a0a4ddd45fa6ebf15963566e716
+    internal-label: Forms
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 306
+source-wordcount: '306'
 ht-degree: 1%
-
 ---
-
 # Marketo Engage Forms에 대한 대화 흐름 설정{#conversational-flow-settings-for-marketo-engage-forms}
 
 Marketo Engage Forms을 Dynamic Chat 대화 흐름과 통합하여 대화형으로 만들 수 있습니다. 양식 데이터 또는 스마트 목록 멤버십을 사용하여 모임 예약, 백서 링크 또는 사용자 정의 목표에 대한 잠재 고객의 자격을 즉시 부여합니다.

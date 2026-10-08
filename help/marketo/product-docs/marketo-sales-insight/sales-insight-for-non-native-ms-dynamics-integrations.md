@@ -1,25 +1,30 @@
 ---
 description: 기본이 아닌 MS Dynamics 통합을 위해 Sales Insight을 구성하는 방법을 알아봅니다. Marketo이 사용자 지정 동기화를 통해 Dynamics에 연결할 때 MSI를 설정합니다.
-title: 기본이 아닌 MS의 [!DNL Sales Insight] [!DNL Dynamics] 통합
+title: 기본이 아닌 MS [!DNL Dynamics] 통합을 위한 [!DNL Sales Insight]
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/sfXpgdyyjCat01UktvV8p4SICKxQGot8-D2T5o11HkM
+TQID: 'https://experienceleague.adobe.com/sfXpgdyyjCat01UktvV8p4SICKxQGot8-D2T5o11HkM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 subfeature_v2:
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1532
+source-wordcount: '1533'
 ht-degree: 2%
-
 ---
-
 # 기본이 아닌 MS [!DNL Dynamics] 통합을 위한 [!DNL Sales Insight] {#sales-insight-for-non-native-ms-dynamics-integrations}
 
 Adobe Marketo Engage 계정이 사용자 지정 또는 비기본 통합을 통해 MS [!DNL Dynamics]에 연결되어 있는 경우 이 문서를 사용하여 [!DNL Sales Insight]을(를) 구성하십시오.
@@ -210,7 +215,7 @@ Adobe Marketo Engage 계정이 사용자 지정 또는 비기본 통합을 통�
 
    REST API 리드 끝점을 사용하여 Marketo 리드의 마지막 관심 순간/채점 필드를 MS [!DNL Dynamics]에 정기적으로 동기화해야 합니다. _externalPersonId_&#x200B;을(를) filterType으로 사용하고 MS [!DNL Dynamics] Lead GUID를 filterValue로 전달하여 Marketo Lead에 대해 이 끝점을 쿼리합니다.
 
-   | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=MS DynamicsLeadId1,MS DynamicsLeadId2 |
+   | /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=MS DynamicsLeadId1,MS DynamicsLeadId2 가져오기 |
    |---|
 
    그런 다음 이러한 필드의 값을 사용하여 MS [!DNL Dynamics] 리드/연락처 개체와 동기화할 수 있습니다.
@@ -271,4 +276,4 @@ Adobe Marketo Engage 계정이 사용자 지정 또는 비기본 통합을 통�
    >
    >리드/연락처 및 계정 오브젝트 유형의 경우: Marketo에서는 Marketo Sales Insights 사용 시 자체 사용자 정의 필드를 외부 ID 필드로 사용할 수 있도록 지원합니다. 이 사용자 지정에 도움이 필요하면 [Marketo 지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 문의하십시오.
 
-   외부 필드를 적절하게 사용하면 성공적인 비원시 동기화가 가능합니다. 일부 보기에서 데이터를 보지 못하면 특정 필드가 올바르게 동기화되지 않았을 수 있습니다. 예를 들어 잠재 고객의 계정 아래에서 MSI 위젯을 볼 때 잠재 고객의 활동 및 흥미로운 순간이 표시되지 않으면 잠재 고객의 회사 또는 계정이 올바르게 동기화되지 않았을 수 있습니다. 외부 필드를 지정하는 동안 이 잠재 고객에 대한 GET 요청을 수행하면 잠재 고객이 올바르게 동기화되었는지 확인하는 데 도움이 됩니다. 또한 Marketo의 외부 영업 사용자에 대한 전자 메일은 MS Dynamics의 해당 사용자에 대한 전자 메일과 일치해야 합니다. 이메일이 일치하지 않는 경우 MS Dynamics의 Marketo 탭에 데이터가 표시되지 않을 수 있습니다.
+   외부 필드를 적절하게 사용하면 성공적인 비원시 동기화가 가능합니다. 일부 보기에서 데이터를 보지 못하면 특정 필드가 올바르게 동기화되지 않았을 수 있습니다. 예를 들어 잠재 고객의 계정 아래에서 MSI 위젯을 볼 때 잠재 고객의 활동 및 흥미로운 순간이 표시되지 않으면 잠재 고객의 회사 또는 계정이 올바르게 동기화되지 않았을 수 있습니다. 외부 필드를 지정하는 동안 이 리드에 대한 GET 요청을 수행하면 리드가 올바르게 동기화되었는지 확인하는 데 도움이 됩니다. 또한 Marketo의 외부 영업 사용자에 대한 전자 메일은 MS Dynamics의 해당 사용자에 대한 전자 메일과 일치해야 합니다. 이메일이 일치하지 않는 경우 MS Dynamics의 Marketo 탭에 데이터가 표시되지 않을 수 있습니다.

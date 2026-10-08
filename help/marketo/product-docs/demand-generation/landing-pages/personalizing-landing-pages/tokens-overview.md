@@ -4,18 +4,23 @@ description: Marketo 랜딩 페이지를 개인화하기 위한 토큰에 대해
 title: 토큰 개요
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/nwWdqv-I5E0SfUIDAwMGnQHlx3kJ3crT4uwT0HEvaA8
+TQID: 'https://experienceleague.adobe.com/nwWdqv-I5E0SfUIDAwMGnQHlx3kJ3crT4uwT0HEvaA8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 310
+source-wordcount: '310'
 ht-degree: 79%
-
 ---
-
 # 토큰 개요 {#tokens-overview}
 
 토큰은 Marketo 스마트 캠페인 흐름 단계, 이메일, 랜딩 페이지, 스니펫 및 웹 캠페인에서 사용할 수 있는 변수입니다.
@@ -36,7 +41,7 @@ ht-degree: 79%
 
 >[!NOTE]
 >
->이것은 완전한 목록이 아닙니다. 또한 Marketo에 갖고 있는 모든 사용자 정의 필드에 해당하는 토큰이 생성됩니다.
+>이것은 완전한 목록이 아닙니다. 또한 Marketo에 있는 모든 사용자 정의 필드에 해당하는 토큰이 생성됩니다.
 
 ## 사용자 토큰 {#person-tokens}
 
@@ -168,7 +173,7 @@ ht-degree: 79%
 
 ## 멤버 토큰 {#member-token}
 
-멤버 토큰은 통합 서비스 파트너의 고유한 값을 삽입하는 데 사용됩니다. 멤버 토큰의 일반적인 용도는 웨비나 참석자의 고유 URL 용입니다. 각 사용자는 `{{member.webinar url}}` 토큰을 사용하여 삽입할 수 있는 웨비나에 액세스하기 위한 고유한 URL을 갖고 있습니다. `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유 확인 URL을 자동으로 확인합니다.
+멤버 토큰은 통합 서비스 파트너의 고유한 값을 삽입하는 데 사용됩니다. 멤버 토큰의 일반적인 용도는 웨비나 참석자를 위한 고유 URL입니다. 각 사용자는 `{{member.webinar url}}` 토큰을 사용하여 삽입할 수 있는 웨비나에 액세스하기 위한 고유한 URL을 갖고 있습니다. `{{member.webinar url}}` 토큰은 서비스 공급자가 생성한 개인의 고유 확인 URL을 자동으로 확인합니다.
 
 * `{{member.webinar url}}`
 

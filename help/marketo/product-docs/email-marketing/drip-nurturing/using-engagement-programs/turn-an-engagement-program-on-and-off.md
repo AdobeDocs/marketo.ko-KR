@@ -4,18 +4,23 @@ description: 참여 프로그램을 켜거나 끄고 콘텐츠를 중지하거�
 title: 참여 프로그램 활성화 및 비활성화
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/0KMEZLoWwWM8i5v97sz2-LynCi5dcGkzTYoIV32loJQ
+TQID: 'https://experienceleague.adobe.com/0KMEZLoWwWM8i5v97sz2-LynCi5dcGkzTYoIV32loJQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 87
+source-wordcount: '87'
 ht-degree: 21%
-
 ---
-
 # 참여 프로그램 활성화 및 비활성화 {#turn-an-engagement-program-on-and-off}
 
 스위치를 켜면 참여 프로그램을 끌 수 있습니다. 이렇게 하면 콘텐츠가 전송되지 않습니다.

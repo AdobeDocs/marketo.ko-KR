@@ -4,18 +4,23 @@ description: 흐름 단계를 통해 Salesforce 캠페인에서 사람을 제거
 title: SFDC 캠페인에서 제거
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-TQID: https://experienceleague.adobe.com/9KJw9YITNMzWVH-x--1xqcm0dXah-IVpujE9ZC5T6CY
+TQID: 'https://experienceleague.adobe.com/9KJw9YITNMzWVH-x--1xqcm0dXah-IVpujE9ZC5T6CY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 116
+source-wordcount: '116'
 ht-degree: 6%
-
 ---
-
 # SFDC 캠페인에서 제거 {#remove-from-sfdc-campaign}
 
 [SFDC 캠페인에 추가](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md){target="_blank"} 및 [SFDC 캠페인의 상태 변경](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}을 수행할 수 있는 방법처럼 Salesforce 캠페인에서 사람 또는 잠재 고객을 제거할 수도 있습니다.

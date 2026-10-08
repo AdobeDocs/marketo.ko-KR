@@ -1,19 +1,24 @@
 ---
 unique-page-id: 6849029
 description: Microsoft Dynamics용 Marketo 솔루션을 업데이트하는 방법을 알아봅니다. 관리자로부터 최신 솔루션을 다운로드하고 Dynamics의 기존 버전 위로 가져옵니다.
-title: ' [!DNL Microsoft Dynamics]에 대한 Marketo 솔루션 업데이트'
+title: '[!DNL Microsoft Dynamics]에 대한 Marketo 솔루션 업데이트'
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/Ki3gY009SRNEcyvy-J8EWxDxScI0q8mnkcSxycwuUSc
+TQID: 'https://experienceleague.adobe.com/Ki3gY009SRNEcyvy-J8EWxDxScI0q8mnkcSxycwuUSc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: '169'
 ht-degree: 5%
-
 ---
-
 # [!DNL Microsoft Dynamics]에 대한 Marketo 솔루션 업데이트 {#update-the-marketo-solution-for-microsoft-dynamics}
 
 새 [!DNL Microsoft Dynamics] 솔루션이 출시되면 계정의 관리 영역에서 업데이트를 다운로드할 수 있습니다.

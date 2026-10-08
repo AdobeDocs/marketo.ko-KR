@@ -4,16 +4,21 @@ description: Marketo에서 랜딩 페이지 CNAME을 추가하는 방법을 알�
 title: 추가 랜딩 페이지 CNAME 추가
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI
+TQID: 'https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 219
+source-wordcount: '219'
 ht-degree: 7%
-
 ---
-
 # 추가 랜딩 페이지 CNAME 추가 {#add-additional-landing-page-cnames}
 
 다른 URL이 Marketo 랜딩 페이지를 가리키도록 하기 위해 랜딩 페이지 CNAME을 추가할 수 있습니다. 아래 단계를 수행하면 여러 도메인을 관리하는 데 도움이 됩니다.

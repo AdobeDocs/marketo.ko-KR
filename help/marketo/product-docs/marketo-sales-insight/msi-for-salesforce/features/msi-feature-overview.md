@@ -4,20 +4,23 @@ description: Salesforce의 Marketo Sales Insight 기능에 대해 알아봅니�
 title: MSI 기능 개요
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g
+TQID: 'https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 946
+source-wordcount: '946'
 ht-degree: 2%
-
 ---
-
 # MSI 기능 개요 {#msi-feature-overview}
 
 MSI에는 [!DNL Salesforce] Lightning 및 Classic에서 사용할 수 있는 다음 기능이 있습니다.
@@ -32,17 +35,17 @@ MSI Visualforce 패널에는 다음 기능이 포함되어 있습니다.
 
 * 탭
 
-   * [Insights 대시보드](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * 즐거운 순간
-   * 웹 활동
-   * 이메일
-   * 점수
+  * [Insights 대시보드](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+  * 즐거운 순간
+  * 웹 활동
+  * 이메일
+  * 점수
 
 * 액션
 
-   * Marketo 캠페인에 추가
-   * Marketo 이메일 보내기
-   * 감시 목록에서 추가/제거
+  * Marketo 캠페인에 추가
+  * Marketo 이메일 보내기
+  * 감시 목록에서 추가/제거
 
 * Stars &amp; Flames
 
@@ -151,37 +154,37 @@ Visualforce 페이지:
 
 * [!DNL Best Bets]
 
-   * 보기를 만들고 편집하는 기능이 포함되어 있습니다. Marketo 구성 페이지에서 &quot;기본 숨기기&quot; 옵션의 구성에 따라 최상의 선택을 숨기는 기능
-   * 열 - 이름, 계정, 마지막 관심 순간, 상태 헤더, 참여(별 및 화염), 숨기기
+  * 보기를 만들고 편집하는 기능이 포함되어 있습니다. Marketo 구성 페이지에서 &quot;기본 숨기기&quot; 옵션의 구성에 따라 최상의 선택을 숨기는 기능
+  * 열 - 이름, 계정, 마지막 관심 순간, 상태 헤더, 참여(별 및 화염), 숨기기
 
 * 내 시청 목록
 
-   * 보기를 만들고 편집하는 기능이 포함되어 있습니다.
-   * 열 - 이름, 계정, 마지막 관심 순간, 상태 헤더, 참여(별 및 화염), 제거
+  * 보기를 만들고 편집하는 기능이 포함되어 있습니다.
+  * 열 - 이름, 계정, 마지막 관심 순간, 상태 헤더, 참여(별 및 화염), 제거
 
 * 웹 활동
 
-   * 뷰 생성 및 편집 기능, 시간대 필터 기능 포함
-   * 열 - 페이지 보기, 이름, 계정, 마지막 방문
+  * 뷰 생성 및 편집 기능, 시간대 필터 기능 포함
+  * 열 - 페이지 보기, 이름, 계정, 마지막 방문
 
 * 익명 웹 활동
 
-   * 뷰 생성 및 편집 기능, 시간대 필터 기능 포함
-   * 열 - 페이지 보기, 회사, 마지막 방문, 연구(회사의 LinkedIn 페이지 열기)
+  * 뷰 생성 및 편집 기능, 시간대 필터 기능 포함
+  * 열 - 페이지 보기, 회사, 마지막 방문, 연구(회사의 LinkedIn 페이지 열기)
 
 * 내 이메일
 
-   * 보기를 만들고 편집하는 기능이 포함되어 있습니다.
-   * 열 - 이름, 계정, 제목, 날짜, 열기, 클릭
+  * 보기를 만들고 편집하는 기능이 포함되어 있습니다.
+  * 열 - 이름, 계정, 제목, 날짜, 열기, 클릭
 
 * 리드 피드 - 관심 있는 순간에 가입할 수 있는 기능이 포함됩니다. 이 기능을 사용하려면 구성 페이지의 RSS 피드를 활성화해야 합니다.
 
-   * 이 흥미로운 순간을 경험한 잠재 고객/연락처
-   * 관심 있는 순간 유형(웹, 이메일 또는 마일스톤) 및 설명
-   * 계정 이름
-   * 이 흥미로운 순간이 발생한 시간
-   * 이 유형의 이벤트에 대한 이메일 알림을 수신하는 구독 옵션
-   * 이 사람에게 표시할 우선 순위가 높은 아이콘이 최상의 선택입니다.
+  * 이 흥미로운 순간을 경험한 잠재 고객/연락처
+  * 관심 있는 순간 유형(웹, 이메일 또는 마일스톤) 및 설명
+  * 계정 이름
+  * 이 흥미로운 순간이 발생한 시간
+  * 이 유형의 이벤트에 대한 이메일 알림을 수신하는 구독 옵션
+  * 이 사람에게 표시할 우선 순위가 높은 아이콘이 최상의 선택입니다.
 
 ## [!DNL Marketo Sales Insight] 구성 탭 {#marketo-sales-insight-configuration-tab}
 
@@ -191,7 +194,7 @@ Visualforce 페이지:
 
 >[!MORELIKETHIS]
 >
-> [!DNL Salesforce][&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)의 [!DNL Marketo Sales Insight] 구성 탭
+> [!DNL Salesforce]&#x200B;[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)의 [!DNL Marketo Sales Insight] 구성 탭
 
 ## 성능 보고서 [!DNL Sales Insight]개 {#sales-insight-performance-reports}
 

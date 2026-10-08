@@ -3,21 +3,25 @@ description: Marketo의 대화형 웨비나 모범 사례에 대한 도움말을
 title: 대화형 웨비나에 대한 모범 사례
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-TQID: https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948
+TQID: 'https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
+    internal-label: Web experience
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1759
+source-wordcount: '1759'
 ht-degree: 0%
-
 ---
-
 # 대화형 웨비나에 대한 모범 사례 {#best-practices-for-interactive-webinars}
 
 소규모 또는 대규모 대상을 대상으로 하는 가상 이벤트를 실행할 때는 계획대로 작업이 진행되는 것이 중요합니다. 행사를 계획하고 실행하기 위해 준비, 홍보, 전달, 후속작업까지 여러 단계가 필요한 가운데 때론 많이 느껴질 수 있다.
@@ -79,13 +83,13 @@ ht-degree: 0%
 * 세션을 기록하려면 회의실 환경 설정에서 기록 미리 알림을 활성화하십시오. 녹음/녹화가 시작되지 않은 경우 알림 메시지가 모임 5분 후에 표시됩니다.
 
 * 호스트 및 발표자 영역을 활성화하고 관련 Pod를 사용하여 설정합니다. 이 영역은 호스트와 발표자만 볼 수 있으며 백스테이지에서 공동 작업하는 데 사용할 수 있습니다. 여기에 포함할 몇 가지 포드는 다음과 같습니다.
-   * 참가자 참여를 실시간으로 모니터링하는 참여 대시보드. 참여 대시보드 사용 방법에 대한 짧은 비디오를 보려면 [여기를 클릭하세요](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"}.
-   * 프레젠테이션 팀원 간의 개인 대화를 허용하는 채팅 Pod.
-   * Pod를 사용하여 미리 알림 메시지, 발표자를 위한 질문 또는 일반적인 질문에 대한 신속한 답변을 위해 복사하여 붙여넣을 수 있는 표준 질문 응답을 게시할 수 있습니다.
+  * 참가자 참여를 실시간으로 모니터링하는 참여 대시보드. 참여 대시보드 사용 방법에 대한 짧은 비디오를 보려면 [여기를 클릭하세요](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"}.
+  * 프레젠테이션 팀원 간의 개인 대화를 허용하는 채팅 Pod.
+  * Pod를 사용하여 미리 알림 메시지, 발표자를 위한 질문 또는 일반적인 질문에 대한 신속한 답변을 위해 복사하여 붙여넣을 수 있는 표준 질문 응답을 게시할 수 있습니다.
 
 * 사용자 지정 팟은 Adobe Connect 룸의 기능을 확장하는 데 사용할 수 있는 서드파티 앱입니다. 사용자 지정 Pod는 `apps.adobeconnect.com`에서 .pod 또는 .zip 파일로 다운로드한 다음 공유 Pod에서 공유할 수 있습니다.
-   * 일부 인기 있는 사용자 정의 포드 카운트 다운 타이머, 시계, 바위 종이 가위, 워드 클라우드, 타이틀러입니다.
-   * [여기를 클릭](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"}하여 사용자 지정 pod을 사용하는 방법에 대한 짧은 비디오를 시청하세요.
+  * 일부 인기 있는 사용자 정의 포드 카운트 다운 타이머, 시계, 바위 종이 가위, 워드 클라우드, 타이틀러입니다.
+  * [여기를 클릭](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"}하여 사용자 지정 pod을 사용하는 방법에 대한 짧은 비디오를 시청하세요.
 
 **개인 정보: 참가자 정보를 기밀로 유지하려면 아래 설정을 확인하십시오.**
 
@@ -104,8 +108,8 @@ ht-degree: 0%
 * 오디오/비디오 설정을 테스트하고 이전에 사용한 적이 없는 경우 Adobe Connect에 익숙해지려면 몇 가지 시험 실행을 수행하십시오. 리허설을 할 때 발표자와 공동 진행자도 포함하십시오.
 
 * 호스트 및 발표자에게 시작 시간 최소 30분 전에 도착하도록 요청하고 모든 것이 올바르게 작동하는지 확인하십시오.
-   * Q&amp;A 및 채팅 pod를 중재할 사용자를 결정합니다.
-   * Q&amp;A 및 채팅 Pod를 시드 질문/채팅으로 채웁니다.
+  * Q&amp;A 및 채팅 pod를 중재할 사용자를 결정합니다.
+  * Q&amp;A 및 채팅 Pod를 시드 질문/채팅으로 채웁니다.
 
 * 화면 공유 프로그램을 적절한 창에 열어 시연할 준비가 되어 있습니다. 화면 공유 중에는 프로그램을 시작하고 로그인하지 마십시오.
 

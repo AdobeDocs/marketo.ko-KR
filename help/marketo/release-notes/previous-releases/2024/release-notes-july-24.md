@@ -3,21 +3,27 @@ description: 릴리스 노트 - 2024년 7월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2024년 7월
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-TQID: https://experienceleague.adobe.com/G66a1E1PleerglG-RMkFRmDN6XySVEKNoPkGfpimniA
+TQID: 'https://experienceleague.adobe.com/G66a1E1PleerglG-RMkFRmDN6XySVEKNoPkGfpimniA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Dynamic Chat
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 589
+source-wordcount: '589'
 ht-degree: 19%
-
 ---
-
 # 릴리스 노트: 2024년 7월 {#release-notes-july-24}
 
 아래에는 2024년 7월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
@@ -30,7 +36,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 포함되며, **2024년 7월 26일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
+다음 기능은 표준 릴리스 주기에 포함되며, **2024년 7월 26일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인하십시오.
 
 <table style="table-layout:auto">
  <tbody>
@@ -87,11 +93,11 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **소셜 기능 사용 중단**: 2024년 7월 31일 수요일에 Marketo Engage은 제품 내에서 다음 소셜 기능의 사용 중단을 시작합니다.
 
-   * 투표
-   * 소셜 버튼
-   * 추천 시 제공 경품
-   * 동영상 공유
-   * 경품 추첨
+  * 투표
+  * 소셜 버튼
+  * 추천 시 제공 경품
+  * 동영상 공유
+  * 경품 추첨
 
 사용자는 더 이상 Marketo Engage에서 이러한 소셜 기능을 생성, 복제 또는 포함할 수 없습니다. 기존 소셜 자산은 2025년 1월 31일까지 계속 작동합니다. [자세히 알아보기](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 

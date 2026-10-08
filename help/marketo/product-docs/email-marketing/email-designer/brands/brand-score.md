@@ -7,13 +7,28 @@ feature: Email Designer
 role: User
 level: Beginner, Intermediate
 exl-id: 719686f7-16f5-423f-a4b1-f0a35005d222
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '521'
-ht-degree: 3%
-
+source-wordcount: '527'
+ht-degree: 4%
 ---
-
 # 브랜드 점수 {#brand-score}
 
 브랜드 점수를 검토하면 이메일 캠페인 전반에서 톤, 메시징 및 시각적 ID의 일관성을 보장하고 콘텐츠가 라이브로 전환되기 전에 품질을 확인하는 역할을 합니다.
@@ -47,15 +62,15 @@ ht-degree: 3%
 1. 특정 피드백 및 제안을 보려면 플래그가 지정된 지침을 선택하십시오. 브랜드 정렬은 다음 범주를 평가합니다.
 
    * **[!UICONTROL Writing style]**:
-      * **[!UICONTROL Brand communication style]**: 모든 채널에서 일관된 브랜드 음성을 보장하기 위해 성격 및 감정 톤을 정의합니다.
-      * **[!UICONTROL Brand messaging standards]**: 효과적인 마케팅 및 홍보 텍스트에 대한 구조적 및 서식 규칙입니다.
-      * **[!UICONTROL Legal compliance standards]**: 모든 통신이 텍스트 배치 및 준수 확인 목록을 포함하여 법적 요구 사항을 준수하도록 합니다.
+     * **[!UICONTROL Brand communication style]**: 모든 채널에서 일관된 브랜드 음성을 보장하기 위해 성격 및 감정 톤을 정의합니다.
+     * **[!UICONTROL Brand messaging standards]**: 효과적인 마케팅 및 홍보 텍스트에 대한 구조적 및 서식 규칙입니다.
+     * **[!UICONTROL Legal compliance standards]**: 모든 통신이 텍스트 배치 및 준수 확인 목록을 포함하여 법적 요구 사항을 준수하도록 합니다.
 
    * **[!UICONTROL Visual content]**:
-      * **[!UICONTROL Photography standards]**: 해상도, 컴포지션, 조명 및 파일 형식을 포함한 사진 컨텐츠 요구 사항.
-      * **[!UICONTROL Illustration standards]**: 일러스트레이션의 스타일 매개 변수, 선 두께, 색상 사용 및 파일 형식 요구 사항.
-      * **[!UICONTROL Icon standards]**: 격자 시스템, 획 두께 및 균일성을 위한 크기 조정을 포함한 아이콘 디자인을 위한 사양입니다.
-      * **[!UICONTROL Usage guidelines]**: 브랜드 정체성을 유지하기 위한 이미지 선택, 배치 및 컨텍스트에 대한 모범 사례입니다.
+     * **[!UICONTROL Photography standards]**: 해상도, 컴포지션, 조명 및 파일 형식을 포함한 사진 컨텐츠 요구 사항.
+     * **[!UICONTROL Illustration standards]**: 일러스트레이션의 스타일 매개 변수, 선 두께, 색상 사용 및 파일 형식 요구 사항.
+     * **[!UICONTROL Icon standards]**: 격자 시스템, 획 두께 및 균일성을 위한 크기 조정을 포함한 아이콘 디자인을 위한 사양입니다.
+     * **[!UICONTROL Usage guidelines]**: 브랜드 정체성을 유지하기 위한 이미지 선택, 배치 및 컨텍스트에 대한 모범 사례입니다.
 
    ![](assets/brand-score-4.png){width="800" zoomable="yes"}
 

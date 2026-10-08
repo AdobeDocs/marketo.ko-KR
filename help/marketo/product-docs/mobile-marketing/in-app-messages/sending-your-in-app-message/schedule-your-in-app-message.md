@@ -4,16 +4,18 @@ description: 인앱 메시지를 예약하는 방법을 알아봅니다. 미래 
 title: 인앱 메시지 예약
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/VfL4nNWKztKHXuOvPzdJ6EpLVpJdHytKDYNxzdYLVWM
+TQID: 'https://experienceleague.adobe.com/VfL4nNWKztKHXuOvPzdJ6EpLVpJdHytKDYNxzdYLVWM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 101
+source-wordcount: '101'
 ht-degree: 9%
-
 ---
-
 # 인앱 메시지 예약 {#schedule-your-in-app-message}
 
 메시지를 지금 보내거나 나중에 보내도록 예약하십시오.

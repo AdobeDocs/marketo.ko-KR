@@ -3,27 +3,36 @@ description: 릴리스 노트 - 2023년 9월 - Marketo 설명서 - 제품 설명
 title: 릴리스 정보 - 2023년 9월
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-TQID: https://experienceleague.adobe.com/QKjIZ21uV2k4kVUcVs53W34pyrbmi5DjZjZTWxX-CrU
+TQID: 'https://experienceleague.adobe.com/QKjIZ21uV2k4kVUcVs53W34pyrbmi5DjZjZTWxX-CrU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 972
+source-wordcount: '972'
 ht-degree: 13%
-
 ---
-
 # 릴리스 노트: 2023년 9월 {#release-notes-sep-23}
 
-아래에는 2023년 9월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
+아래에는 2023년 9월 릴리스에 포함된 모든 기능이 있습니다. 기능 사용 가능 여부는 Adobe Marketo Engage 에디션에서 확인하십시오.
 
 >[!AVAILABILITY]
 >
@@ -31,7 +40,7 @@ ht-degree: 13%
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 포함되며, **2023년 9월 8일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
+다음 기능은 표준 릴리스 주기에 포함되며, **2023년 9월 8일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인하십시오.
 
 <table style="table-layout:auto">
  <tbody>
@@ -102,7 +111,7 @@ ht-degree: 13%
   <tr>
    <td><strong>Marketo + Workfront 통합</strong>: 이제 Marketo과 Workfront을 보유한 사용자는 Workfront Fusion 템플릿을 사용하여 두 제품을 통합하고 새로운 자동화 워크플로를 잠금 해제하여 캠페인 실행을 간소화할 수 있습니다.</td>
    <td>릴리스됨</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=ko" target="_blank">블루프린트 검토 및 승인</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">블루프린트 검토 및 승인</a></td>
   </tr>
  </tbody>
 </table>

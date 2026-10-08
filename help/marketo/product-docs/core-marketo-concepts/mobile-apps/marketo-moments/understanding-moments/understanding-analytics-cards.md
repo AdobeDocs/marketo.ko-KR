@@ -4,16 +4,18 @@ description: Marketo Moments의 Analytics 카드에 대해 알아봅니다. 모�
 title: 분석 카드 이해
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/GtluIt4erDOpwskZBf9UYX2o3u6cQfdQ5q10vMzbvFI
+TQID: 'https://experienceleague.adobe.com/GtluIt4erDOpwskZBf9UYX2o3u6cQfdQ5q10vMzbvFI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 294
+source-wordcount: '294'
 ht-degree: 2%
-
 ---
-
 # 분석 카드 이해 {#understanding-analytics-cards}
 
 Marketo 모먼트는 매월 초에 [!UICONTROL Acquired Leads], [!UICONTROL New Leads], [!UICONTROL Unsubscribes] 세 개의 서로 다른 보고서 카드를 제공합니다. 각 보고서는 6개월 동안의 월별 실적 및 추세를 보여 줍니다.

@@ -4,18 +4,23 @@ description: 기록을 보존할 필요가 없을 때 스트림 콘텐츠를 제
 title: 스트림 콘텐츠 제거
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/RUEpcbz2EecspF524umRFK7uCfXE-YCAZFxok7teXog
+TQID: 'https://experienceleague.adobe.com/RUEpcbz2EecspF524umRFK7uCfXE-YCAZFxok7teXog'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 121
+source-wordcount: '121'
 ht-degree: 6%
-
 ---
-
 # 스트림 콘텐츠 제거 {#remove-stream-content}
 
 컨텐츠를 제거하거나 보관할 수 있습니다. 스트림 콘텐츠 제거와 달리 [보관](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)은(는) 콘텐츠에 연결된 모든 기록을 유지합니다. 일부 콘텐츠의 과거 상태를 잊어도 상관없으며, 이를 제거하려면 다음 방법을 사용하십시오.

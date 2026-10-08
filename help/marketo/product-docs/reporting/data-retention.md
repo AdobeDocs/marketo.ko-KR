@@ -2,13 +2,17 @@
 description: Marketo의 25개월 및 90일 데이터 보존 정책이 Analytics 보고서에 어떻게 영향을 미치는지, 보고서별 분류 및 더 오래 데이터를 보존하기 위한 팁과 함께 알아봅니다.
 title: 데이터 유지
 feature: Reporting
-source-git-commit: 8eb9fd285e5dd055603579fbb5e7a4c4eb681172
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1084'
 ht-degree: 5%
-
 ---
-
 # Marketo 활동 데이터 보존 정책 - 보고에 미치는 영향
 
 Marketo은 마케팅 활동 데이터를 순차적으로 유지합니다. 활동 및 캠페인 멤버십 데이터는 활동 날짜가 지난 후 25개월 동안 보관되며, 대용량 활동 데이터는 기본적으로 활동 날짜가 지난 90일 동안 보관되며, 이는 사용자별로 조정할 수 있습니다. 이러한 보존 기간이 지나면 Marketo UI를 통해 데이터를 더 이상 사용할 수 없습니다.

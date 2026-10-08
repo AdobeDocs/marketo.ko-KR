@@ -4,21 +4,28 @@ description: 감사 추적을 시간대, 자산 유형, 사용자 및 작업별�
 title: 감사 추적 필터링
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-TQID: https://experienceleague.adobe.com/Bx9YAuSn8vzt7diooarSckj7TJBmXCzAG-fkh7iCskM
+TQID: 'https://experienceleague.adobe.com/Bx9YAuSn8vzt7diooarSckj7TJBmXCzAG-fkh7iCskM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 132
+source-wordcount: '132'
 ht-degree: 21%
-
 ---
-
 # 감사 추적 필터링 {#filtering-in-audit-trail}
 
 시간대, 에셋 유형, 사용자, 수행한 작업 등을 기준으로 필터링합니다.

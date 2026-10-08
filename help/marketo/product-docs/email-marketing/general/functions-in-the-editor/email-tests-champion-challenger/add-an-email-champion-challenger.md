@@ -4,18 +4,23 @@ description: 챔피언/챌린저 이메일 테스트를 추가하는 방법을 �
 title: 이메일 챔피언/챌린저 추가
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/SJcI4kx5bUCRuXvNoZRQjZSfdfxP24UIp5s-Hst6tks
+TQID: 'https://experienceleague.adobe.com/SJcI4kx5bUCRuXvNoZRQjZSfdfxP24UIp5s-Hst6tks'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 213
+source-wordcount: '213'
 ht-degree: 7%
-
 ---
-
 # 이메일 챔피언/챌린저 추가 {#add-an-email-champion-challenger}
 
 자주 사용하는 이메일이 작동하는지 테스트하는 것이 좋습니다. 한 가지 방법은 이메일의 효과를 다른 버전 또는 도전자와 비교하는 것입니다. 챔피언/챌린저 테스트에서는 전체 이메일, 제목란 또는 보낸 사람 주소를 테스트할 수 있습니다.

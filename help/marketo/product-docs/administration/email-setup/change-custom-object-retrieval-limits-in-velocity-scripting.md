@@ -1,22 +1,28 @@
 ---
-description: 전자 메일의  [!DNL Velocity] 스크립트에 대한 상위 사용자 지정 개체 검색 제한(10개에서 100개)을 늘리거나 줄이십시오.
-title: ' [!DNL Velocity Scripting]에서 사용자 지정 개체 검색 제한 변경'
+description: 전자 메일의 [!DNL Velocity] 스크립트에 대한 상위 사용자 지정 개체 검색 제한을 늘리거나 줄이십시오(10개에서 100개).
+title: '[!DNL Velocity Scripting]에서 사용자 지정 개체 검색 제한 변경'
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/8zdwliEWuUxePbN3RyElJZydMfPHO8sQbgZbaTda6iY
+TQID: 'https://experienceleague.adobe.com/8zdwliEWuUxePbN3RyElJZydMfPHO8sQbgZbaTda6iY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 236
+source-wordcount: '237'
 ht-degree: 1%
-
 ---
-
 # [!DNL Velocity Scripting]에서 사용자 지정 개체 검색 제한 변경 {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
 [!DNL Velocity Script]을(를) 사용하여 전자 메일에 사용자 지정 개체 데이터를 표시하는 경우 이 기능이 사용 사례에 적용될 수 있습니다. 기본적으로 Velocity 스크립트에서 10개의 상위 사용자 지정 개체에 액세스할 수 있습니다. 추가 액세스 권한이 필요한 경우 아래 단계를 참조하십시오.

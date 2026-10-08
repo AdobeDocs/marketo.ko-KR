@@ -3,19 +3,25 @@ description: Marketo Engage과 Veeva CRM 간의 개인 계정 동기화에 대�
 title: 개인 계정 동기화 FAQ
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/7RgVxWE7cvIimLpEMPcBr-DEL2QHVQuDkHR-Tl-ZrcE
+TQID: 'https://experienceleague.adobe.com/7RgVxWE7cvIimLpEMPcBr-DEL2QHVQuDkHR-Tl-ZrcE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 488
+source-wordcount: '488'
 ht-degree: 1%
-
 ---
-
 # 개인 계정 동기화 FAQ {#person-account-sync-faq}
 
 Marketo Engage은 레코드의 개인 계정 유형에 대해 전체 데이터베이스를 [!DNL Veeva]과(와) 동기화합니다. 동기화 후 5분 동안 기다렸다가 다시 동기화합니다(하루 종일, 매일).

@@ -4,16 +4,18 @@ description: Salesforce에 Sales Connect에 연결할 때 요청을 인증할 �
 title: Salesforce에 연결할 때 “요청을 인증할 수 없습니다” 오류 해결 방법
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/51pd-hGwspmp6ZuOShb3z3wRdQ0PZ-pCIY-BeV4Q5ho
+TQID: 'https://experienceleague.adobe.com/51pd-hGwspmp6ZuOShb3z3wRdQ0PZ-pCIY-BeV4Q5ho'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 157
+source-wordcount: '157'
 ht-degree: 12%
-
 ---
-
 # [!DNL Salesforce]에 연결할 때 &quot;요청을 인증할 수 없습니다&quot;를 해결하는 방법 {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
 [!DNL Sales Connect]을(를) [!DNL Salesforce]에 연결할 때 &quot;요청을 인증할 수 없습니다&quot;라는 오류 메시지가 표시되면 [!DNL Salesforce]의 API에 대한 액세스가 제한될 수 있습니다. [!DNL Salesforce] 관리자에게 다음 항목이 제대로 있는지 확인하십시오.

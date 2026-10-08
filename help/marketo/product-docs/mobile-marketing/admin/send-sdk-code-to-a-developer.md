@@ -4,19 +4,22 @@ description: 개발자에게 SDK 코드를 전송하는 방법을 알아봅니�
 title: 개발자에게 SDK 코드 보내기
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/6jda4bPfCg8Be2N-RNSTVdqxdPRPlhnG9m97te4e-tE
+TQID: 'https://experienceleague.adobe.com/6jda4bPfCg8Be2N-RNSTVdqxdPRPlhnG9m97te4e-tE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: '151'
 ht-degree: 13%
-
 ---
-
 # 개발자에게 SDK 코드 보내기 {#send-sdk-code-to-a-developer}
 
 인앱 메시지 또는 푸시 알림을 만들려면 먼저 개발자에게 Android 및 iOS 플랫폼용 모바일 앱 SDK을 설정하고 초기화하도록 해야 합니다.

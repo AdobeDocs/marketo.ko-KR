@@ -4,18 +4,20 @@ description: Sales Connect의 권장 템플릿에 대해 알아봅니다. 최고
 title: 추천 템플릿
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/TxLC97egMJj4jLyy-mnucWb2kV3vDbq0zqVK37jN3tM
+TQID: 'https://experienceleague.adobe.com/TxLC97egMJj4jLyy-mnucWb2kV3vDbq0zqVK37jN3tM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 320
+source-wordcount: '320'
 ht-degree: 1%
-
 ---
-
 # 추천 템플릿 {#recommended-templates}
 
 [!DNL Sales Connect]의 권장 템플릿을 사용하면 시간을 절약하는 동시에 올바른 메시지를 얻을 수 있습니다. 이렇게 하면 이메일을 보낼 때 더 많은 흐름을 사용할 수 있으며, 적합한 사람에게 적합한 이메일을 찾으려고 할 때 불확실성을 줄일 수 있습니다.

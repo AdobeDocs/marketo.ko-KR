@@ -4,16 +4,21 @@ description: Dynamics 2011용 Marketo 솔루션을 온프레미스에 설치하�
 title: 1/3단계 - Marketo 솔루션 설치(2011 온프레미스)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/KgYgMIHjfI4IpVk0ai98AcoZpOUPvYuHnab6LnCyGWk
+TQID: 'https://experienceleague.adobe.com/KgYgMIHjfI4IpVk0ai98AcoZpOUPvYuHnab6LnCyGWk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 280
+source-wordcount: '280'
 ht-degree: 6%
-
 ---
-
 # 3단계 중 1단계: Marketo 솔루션 설치 (2011 온프레미스) {#step-of-install-the-marketo-solution-on-premises}
 
 [!DNL Microsoft Dynamics] 온-프레미스와 Marketo을 동기화하려면 먼저 [!DNL Dynamics]에 Marketo 솔루션을 설치해야 합니다.

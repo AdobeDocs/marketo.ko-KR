@@ -4,21 +4,28 @@ description: 개인 세부 정보 페이지를 사용하는 방법을 알아봅�
 title: 개인 정보 페이지 사용
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/ANLA7fu7O3m6mBjiY1b2z3UQH-PqWf6cAn5nQ5S3Yrk
+TQID: 'https://experienceleague.adobe.com/ANLA7fu7O3m6mBjiY1b2z3UQH-PqWf6cAn5nQ5S3Yrk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 552
+source-wordcount: '552'
 ht-degree: 25%
-
 ---
-
 # 개인 정보 페이지 사용 {#using-the-person-detail-page}
 
 개인 세부 정보 페이지에는 Marketo이 개인에 대해 알고 있는 모든 정보가 포함되어 있습니다. 이 페이지에서 직접 데이터를 편집할 수 있습니다.
@@ -92,7 +99,7 @@ ht-degree: 25%
 | Marketo Social [!DNL Facebook] 사진 URL | Marketo Social [!DNL Facebook] 프로필 URL | Marketo Social [!DNL Facebook] 도달 | Marketo Social [!DNL Facebook] 참조 등록 | Marketo Social [!DNL Facebook] 참조 방문 |
 | Marketo 소셜 젠더 | Marketo Social 마지막 참조 등록 | Marketo Social 마지막 참조 방문 | Marketo Social [!DNL LinkedIn] 표시 이름 | Marketo Social [!DNL LinkedIn] Id |
 | Marketo Social [!DNL LinkedIn] 사진 URL | Marketo Social [!DNL LinkedIn] 프로필 URL | Marketo Social [!DNL LinkedIn] 도달 | Marketo Social [!DNL LinkedIn] 참조 등록 | Marketo Social [!DNL LinkedIn] 참조 방문 |
-| Marketo Social 신디케이션 ID | Marketo Social 총 참조된 등록자 수 | Marketo Social 총 참조된 방문 수 | Marketo Social [!DNL Twitter] 표시 이름 | Marketo Social [!DNL Twitter] Id |
+| Marketo Social 신디케이션 ID | Marketo Social 총 추천 등록 수 | Marketo Social 총 추천 방문 수 | Marketo Social [!DNL Twitter] 표시 이름 | Marketo Social [!DNL Twitter] Id |
 | Marketo Social [!DNL Twitter] 사진 URL | Marketo Social [!DNL Twitter] 프로필 URL | Marketo Social [!DNL Twitter] 도달 | Marketo Social [!DNL Twitter] 참조 등록 | Marketo Social [!DNL Twitter] 참조 방문 |
 | 중간 이름 | 휴대 전화 번호 | 직원 수 | 전화 번호 | 우편번호 |
 | 우선순위 | 상대 스코어 | 역할 | 인사말 | SIC 코드 |

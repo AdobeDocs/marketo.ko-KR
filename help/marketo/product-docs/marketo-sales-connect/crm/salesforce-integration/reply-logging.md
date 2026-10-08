@@ -4,16 +4,18 @@ description: Sales Connect가 Salesforce에 연결되어 있을 때 회신 로�
 title: 회신 로깅(SFDC)
 exl-id: 11f84157-55b7-42a7-81d0-f5848adbb9f4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/f0d-5xccuVhooEcbh-7TU8fw68iazo1Ird1I8VZJYU4
+TQID: 'https://experienceleague.adobe.com/f0d-5xccuVhooEcbh-7TU8fw68iazo1Ird1I8VZJYU4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 265
+source-wordcount: '265'
 ht-degree: 0%
-
 ---
-
 # 회신 로깅(SFDC) {#reply-logging-sfdc}
 
 Sales Connect를 통해 잠재 고객의 답변을 Salesforce에 자동으로 기록할 수 있습니다. 이를 수행할 수 있는 구조는 이메일 회신 추적을 기반으로 합니다. 잠재 고객의 회신을 추적할 수 있는 경우 Salesforce에 해당 회신을 기록할 수 있습니다.

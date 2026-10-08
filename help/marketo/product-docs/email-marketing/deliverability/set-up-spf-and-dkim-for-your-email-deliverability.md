@@ -4,16 +4,21 @@ description: DNS에서 SPF 및 DKIM을 설정하여 이메일 전달성을 높�
 title: 이메일 전달성을 위한 SPF 및 DKIM 설정
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-TQID: https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs
+TQID: 'https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 432
+source-wordcount: '433'
 ht-degree: 71%
-
 ---
-
 # 이메일 전달성을 위한 SPF 및 DKIM 설정 {#set-up-spf-and-dkim-for-your-email-deliverability}
 
 이메일 전달 속도를 향상시키는 한 가지 빠른 방법은 **SPF**(Sender Policy Framework) 및 **DKIM**(Domain Keys Identified Mail)을 DNS 설정에 통합하는 것입니다. DNS 항목 외에도 Marketo에서 귀하를 대신하여 이메일을 보내도록 승인했음을 수신자에게 알려 줍니다. 이 변경이 없으면 이메일 주소가 도메인에서 지정되었지만 Marketo 도메인이 있는 IP 주소에서 전송되었기 때문에 스팸으로 표시될 가능성이 더 높습니다.
@@ -40,11 +45,11 @@ include:mktomail.com
 
 **DKIM이란 무엇입니까? DKIM을 설정하는 이유는 무엇입니까?**
 
-DKIM은 이메일 메시지를 보냈다고 알려진 사람이 보낸 것인지를 이메일 수신자가 확인하는 데 사용하는 인증 프로토콜입니다. DKIM은 메시지가 위조가 아님을 수신자가 확신할 수 있으므로 받은 편지함으로 이메일을 전달하는 기능을 향상시킵니다.
+DKIM은 이메일 메시지가 주장하는 발신자가 실제로 보낸 것인지 확인하는 데 이메일 수신자가 사용하는 인증 프로토콜입니다. DKIM은 메시지가 위조가 아님을 수신자가 확신할 수 있으므로 받은 편지함으로 이메일을 전달하는 기능을 향상시킵니다.
 
 **DKIM은 어떻게 작동합니까?**
 
-DNS 레코드에서 공개 키를 설정하고 관리 섹션(A)에서 전송 도메인을 활성화하면 Marketo에서 보내는 메시지에 대해 사용자 지정 DKIM 서명을 켭니다. 이 서명에는 사용자를 대신하여 보낸 각 이메일(B)과 함께 암호화된 디지털 서명이 포함됩니다. 수신자는 발신 도메인의 DNS에서 &quot;공개 키&quot;를 조회하여 디지털 서명을 해독할 수 있습니다(C). 이메일의 키가 DNS 레코드의 키와 일치하는 경우 수신 메일 서버는 사용자를 대신하여 보낸 이메일 Marketo를 수락할 가능성이 높습니다.
+DNS 레코드에서 공개 키를 설정하고 관리 섹션(A)에서 전송 도메인을 활성화하면 Marketo에서 보내는 메시지에 대해 사용자 지정 DKIM 서명을 켭니다. 이 서명에는 사용자를 대신하여 보낸 각 이메일(B)과 함께 암호화된 디지털 서명이 포함됩니다. 수신자는 발신 도메인의 DNS에서 &quot;공개 키&quot;를 조회하여 디지털 서명을 해독할 수 있습니다(C). 이메일의 키가 DNS 레코드의 키와 일치하는 경우 수신 메일 서버는 Marketo가 사용자를 대신하여 보낸 이메일을 수락할 가능성이 더 높습니다.
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 

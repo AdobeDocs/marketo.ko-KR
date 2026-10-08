@@ -1,7 +1,10 @@
 ---
 description: 조직 규칙 이 어떻게 거버넌스 표준을 정의하며 프로그램 생성, 캠페인 계획 및 유효성 검사에 걸쳐 Marketo Engage용 CX Enterprise Coworker을 안내하는지 알아봅니다.
 title: 조직 규칙
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '867'
 ht-degree: 0%

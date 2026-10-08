@@ -3,20 +3,23 @@ description: Salesforce에서 Sales Insight 권한 집합을 추가하는 방법
 title: Sales Insight 권한 집합 추가
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/uFyP8aZCuXSPJn5ktZUxmCoVekyw9LN88U3KaY06-do
+TQID: 'https://experienceleague.adobe.com/uFyP8aZCuXSPJn5ktZUxmCoVekyw9LN88U3KaY06-do'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 379
+source-wordcount: '379'
 ht-degree: 2%
-
 ---
-
 # [!DNL Sales Insight] 권한 집합 추가 {#add-sales-insight-permission-set}
 
 [!DNL Salesforce]의 [!DNL Sales Insight] 기능에 대한 액세스 권한을 추가하려면 다음 단계를 사용하십시오. [!DNL Salesforce] Classic 및 Lighting에 적용 가능

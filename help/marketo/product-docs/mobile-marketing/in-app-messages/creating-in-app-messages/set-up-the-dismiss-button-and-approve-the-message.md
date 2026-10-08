@@ -4,16 +4,18 @@ description: 닫기 버튼을 설정하고 인앱 메시지를 승인하는 방�
 title: 닫기 단추 설정 및 메시지 승인
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/YtWX8jXyDaZYPrWg-K-NEwKmX7EGAeJbrrIjrEyaJRA
+TQID: 'https://experienceleague.adobe.com/YtWX8jXyDaZYPrWg-K-NEwKmX7EGAeJbrrIjrEyaJRA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 368
+source-wordcount: '368'
 ht-degree: 0%
-
 ---
-
 # 닫기 단추 설정 및 메시지 승인 {#set-up-the-dismiss-button-and-approve-the-message}
 
 ## 닫기 단추 속성 구성  {#configure-dismiss-button-properties}

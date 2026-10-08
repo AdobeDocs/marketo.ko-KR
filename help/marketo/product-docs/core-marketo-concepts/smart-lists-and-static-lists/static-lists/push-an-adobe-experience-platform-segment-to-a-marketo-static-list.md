@@ -3,21 +3,25 @@ description: Adobe Experience Platform 세그먼트를 Marketo 정적 목록으�
 title: Adobe Experience Platform 세그먼트를 Marketo 정적 목록으로 푸시
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/Kw9zkzk0FWNOyZ66vEcqzq-4zQSPVz-4P4KQau5mP60
+TQID: 'https://experienceleague.adobe.com/Kw9zkzk0FWNOyZ66vEcqzq-4zQSPVz-4P4KQau5mP60'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 626
+source-wordcount: '626'
 ht-degree: 4%
-
 ---
-
 # Adobe Experience Platform 세그먼트를 Marketo 정적 목록으로 푸시 {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
 이 기능을 사용하면 Adobe Experience Platform에 있는 세그먼트를 정적 목록의 형태로 Marketo Engage에 푸시할 수 있습니다.

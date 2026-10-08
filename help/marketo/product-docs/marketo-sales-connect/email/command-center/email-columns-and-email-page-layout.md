@@ -4,18 +4,20 @@ description: Sales Connect의 이메일 열 및 이메일 페이지 레이아웃
 title: 이메일 열 및 이메일 페이지 레이아웃
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Bnlf8w9L3M-wZJQZUJoWNLgSQvLOmMmw4oKuV1ToJnk
+TQID: 'https://experienceleague.adobe.com/Bnlf8w9L3M-wZJQZUJoWNLgSQvLOmMmw4oKuV1ToJnk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 469
+source-wordcount: '469'
 ht-degree: 3%
-
 ---
-
 # 이메일 열 및 이메일 페이지 레이아웃 {#email-columns-and-email-page-layout}
 
 [!UICONTROL Command Center]의 전자 메일 섹션에 표시할 수 있는 열을 구성할 수 있습니다. 각 전자 메일 하위 폴더(예: [!UICONTROL Delivered], [!UICONTROL Failed], [!UICONTROL Scheduled] 등)에 대해 구성 설정이 저장됩니다.

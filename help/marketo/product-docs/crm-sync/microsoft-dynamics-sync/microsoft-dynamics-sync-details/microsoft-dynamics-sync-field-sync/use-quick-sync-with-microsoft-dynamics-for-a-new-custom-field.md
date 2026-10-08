@@ -4,18 +4,23 @@ description: 새 사용자 정의 필드를 추가할 때 Microsoft Dynamics과 
 title: 새 사용자 정의 필드에 Microsoft Dynamics와 빠른 동기화 사용
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/Foo1CpTpWKCvtPTZv7NRuSoCvD18-x5OIABM48-UF6I
+TQID: 'https://experienceleague.adobe.com/Foo1CpTpWKCvtPTZv7NRuSoCvD18-x5OIABM48-UF6I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 341
+source-wordcount: '341'
 ht-degree: 4%
-
 ---
-
 # 새 사용자 지정 필드에 대해 [!DNL Microsoft Dynamics]과(와)의 빠른 동기화 사용 {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
 마케팅 또는 영업 팀이 새 필드를 원합니다. 또는 초기 필드 선택에서 하나를 잊어버렸을 수 있습니다. 또는 요구 사항이 변경되었습니다. 어떤 경우든 빠른 동기화를 사용하여 특정 필드를 다시 동기화할 수 있습니다.

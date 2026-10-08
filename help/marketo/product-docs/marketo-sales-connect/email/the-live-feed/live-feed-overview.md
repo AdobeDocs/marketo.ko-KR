@@ -4,16 +4,18 @@ description: Sales Connect의 라이브 피드에 대해 알아봅니다. 마케
 title: 라이브 피드 개요
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-CrqazvM9aRb1Kctez04rwwy0BDnvE4AhrRrWxBVbkU
+TQID: 'https://experienceleague.adobe.com/-CrqazvM9aRb1Kctez04rwwy0BDnvE4AhrRrWxBVbkU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '409'
 ht-degree: 1%
-
 ---
-
 # 라이브 피드 개요 {#live-feed-overview}
 
 라이브 피드는 웹 애플리케이션이나 Gmail 플러그인에서 실행할 수 있는 부동 창이며 잠재 고객 참여를 실시간으로 파악할 수 있습니다.

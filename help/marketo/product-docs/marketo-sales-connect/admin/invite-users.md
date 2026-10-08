@@ -4,16 +4,18 @@ description: Sales Connect 계정에 사용자를 초대하는 방법을 알아�
 title: 사용자 초대
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/N0ZY75CwdkxCT6PfwBZgK5knAKsYWGA3pwupSLF5AL0
+TQID: 'https://experienceleague.adobe.com/N0ZY75CwdkxCT6PfwBZgK5knAKsYWGA3pwupSLF5AL0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 66
+source-wordcount: '66'
 ht-degree: 9%
-
 ---
-
 # 사용자 초대 {#invite-users}
 
 사용자를 추가하는 것은 빠르고 쉽습니다!

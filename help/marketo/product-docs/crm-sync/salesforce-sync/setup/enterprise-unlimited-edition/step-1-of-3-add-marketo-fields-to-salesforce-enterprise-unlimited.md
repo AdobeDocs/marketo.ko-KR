@@ -4,16 +4,21 @@ description: Salesforce Enterprise 또는 Unlimited Edition에 Marketo 필드를
 title: 1단계/3단계 - Salesforce에 Marketo 필드 추가(Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I
+TQID: 'https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 726
+source-wordcount: '726'
 ht-degree: 8%
-
 ---
-
 # 1단계/3단계: [!DNL Salesforce]에 Marketo 필드 추가(Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
@@ -119,8 +124,8 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
 
    * 동기화 사용자의 프로필에 대한 **[!UICONTROL Read-Only]** 확인란의 선택을 취소합니다.
 
-      * 동기화 사용자로 _시스템 관리자_&#x200B;의 프로필을 가진 사용자가 있는 경우 시스템 관리자 프로필에 대한 **[!UICONTROL Read-Only]** 확인란의 선택을 취소하십시오(아래 참조)
-      * 동기화 사용자에 대해 _사용자 지정 프로필_&#x200B;을 만든 경우 해당 사용자 지정 프로필에 대한 **[!UICONTROL Read-Only]** 확인란의 선택을 취소하십시오
+     * 동기화 사용자로 _시스템 관리자_&#x200B;의 프로필을 가진 사용자가 있는 경우 시스템 관리자 프로필에 대한 **[!UICONTROL Read-Only]** 확인란의 선택을 취소하십시오(아래 참조)
+     * 동기화 사용자에 대해 _사용자 지정 프로필_&#x200B;을 만든 경우 해당 사용자 지정 프로필에 대한 **[!UICONTROL Read-Only]** 확인란의 선택을 취소하십시오
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 

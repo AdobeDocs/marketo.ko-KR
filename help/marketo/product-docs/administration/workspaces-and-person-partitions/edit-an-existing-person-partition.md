@@ -4,21 +4,25 @@ description: 개인 파티션 이름 및 작업 공간 할당을 편집하는 �
 title: 기존 개인 파티션 편집
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-TQID: https://experienceleague.adobe.com/olo-JO-Hyx3cFfVlGW4ZeVQ3xx2DbQCC34eSBkoPVAk
+TQID: 'https://experienceleague.adobe.com/olo-JO-Hyx3cFfVlGW4ZeVQ3xx2DbQCC34eSBkoPVAk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b4e49ca2-9149-5443-90e6-11978bb87c2f
+    internal-label: Partitions
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 85
+source-wordcount: '85'
 ht-degree: 21%
-
 ---
-
 # 기존 개인 파티션 편집 {#edit-an-existing-person-partition}
 
 개인 분할 영역은 두 번째(또는 세 번째) 데이터베이스를 갖는 것과 같습니다. 파티션을 하나 이상의 작업 공간에 연결할 수 있습니다.

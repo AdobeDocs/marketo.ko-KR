@@ -4,18 +4,23 @@ description: Salesforce 동기화를 통해 Marketo 및 Salesforce 데이터를 
 title: Salesforce 동기화 이해
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/1H8ol0eKIzfQoQR-Je4jCdZX7R-rWWD63qrhkrsWtyg
+TQID: 'https://experienceleague.adobe.com/1H8ol0eKIzfQoQR-Je4jCdZX7R-rWWD63qrhkrsWtyg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 224
+source-wordcount: '224'
 ht-degree: 81%
-
 ---
-
 # [!DNL Salesforce] 동기화 이해 {#understanding-the-salesforce-sync}
 
 Salesforce 동기화를 통해 Marketo 및 Salesforce 데이터를 동기화하는 방법에 대해 알아봅니다.
@@ -47,4 +52,4 @@ Marketo는 매일 온종일 [!DNL Salesforce]와 동기화됩니다. 각 동기�
 >
 >Salesforce용 Marketo에 입력한 [자격 증명](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}은 데이터를 동기화하는 데 사용됩니다. 해당 자격 증명이 액세스할 수 있는 데이터만 포함됩니다.
 
-Marketo와 [!DNL Salesforce]의 동기화는 전 세계에서 가장 강력한 동기화입니다. 그것은 마술처럼 느껴집니다. 변경가 이루어지고 다른 시스템은 곧 최신 상태가 됩니다.
+Marketo와 [!DNL Salesforce]의 동기화는 전 세계에서 가장 강력한 동기화입니다. 그것은 마술처럼 느껴집니다. 변경이 이루어지고 다른 시스템은 곧 최신 상태가 됩니다.

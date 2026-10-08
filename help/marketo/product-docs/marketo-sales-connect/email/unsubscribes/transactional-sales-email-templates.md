@@ -2,13 +2,17 @@
 description: Sales Connect에서 트랜잭션 판매 이메일 템플릿에 대해 알아봅니다. 트랜잭션 메시지에 대한 구독 취소를 무시하는 템플릿을 사용합니다.
 title: 트랜잭션 세일즈 이메일 템플릿
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '191'
 ht-degree: 4%
-
 ---
-
 # 트랜잭션 세일즈 이메일 템플릿 {#transactional-sales-email-templates}
 
 팀이 트랜잭션 또는 비상업적 이메일을 보내는 경우 이메일 템플릿을 비상업으로 표시하여 구독 취소를 우회할 수 있습니다.

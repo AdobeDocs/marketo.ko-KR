@@ -4,18 +4,23 @@ description: 이메일 프로그램의 수신자 시간대 예약에 대해 알�
 title: 수신자 시간대 이해
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/KAj3dO4Md7Zel5SqR4m2OrTjp93ZD735gNWWRinNV5k
+TQID: 'https://experienceleague.adobe.com/KAj3dO4Md7Zel5SqR4m2OrTjp93ZD735gNWWRinNV5k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 394
+source-wordcount: '399'
 ht-degree: 3%
-
 ---
-
 # 수신자 시간대 이해 {#understanding-recipient-time-zone}
 
 수신자의 시간대에 따라 이메일 및 참여 프로그램을 전달하도록 구성할 수 있으므로 여러 프로그램을 만들 필요가 없습니다. 한 번만 보내면 Marketo에서 올바른 현지 시간까지 이메일을 자동으로 보관합니다.
@@ -35,7 +40,7 @@ ht-degree: 3%
 
 ## 참여 프로그램 {#engagement-programs}
 
-[참여 프로그램 스트림을 예약](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)하고 [!UICONTROL Recipient Time Zone]이(가) 활성화되면 프로그램 캐스트가 자정(UTC +14:00)에 시작됩니다. 전 세계 모든 시간대에 캐스팅할 자격이 되므로 첫 번째 캐스팅을 25시간 이상 미래(24시간 + 캠페인을 시작하는 데 걸리는 시간)로 예약해야 합니다. 현재 UTC +14:00로 처리를 시작하면 이 캐스트에 대한 자격이 있는 모든 사용자에 대해 예약된 날짜와 시간에 이메일이 전송됩니다.
+[참여 프로그램 스트림을 예약](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)하고 [!UICONTROL Recipient Time Zone]이(가) 활성화되면 프로그램 캐스트가 자정(UTC +14:00)에 시작됩니다. 전 세계 모든 시간대에 캐스팅할 자격이 되므로 첫 번째 캐스팅을 25시간 이상 미래(24시간 + 캠페인을 시작하는 데 걸리는 시간)로 예약해야 합니다. 이 시간에 UTC +14:00으로 처리를 시작하면 이 캐스트의 자격이 되는 모든 사람에 대해 예약된 날짜와 시간에 이메일이 전송됩니다.
 
 ## 시간대 계산 중 {#calculating-time-zone}
 
@@ -46,7 +51,7 @@ Marketo은 개인의 도시, 주, 국가 또는 우편번호를 기반으로 시
 * 시간대가 3개 이하인 국가의 경우 중간 시간대를 선택한다.
 * 시간대가 두 개인 상태의 경우 두 개 중 이전 시간대를 선택합니다.
 
-이러한 필드를 조합하여 다른 사람의 시간대를 확인할 수 없는 경우 **시간대를 할당하지** 않고 Marketo 구독 시간대를 기반으로 이메일이 전송됩니다. 따라서 프로그램이 9:00am PDT로 예약된 경우 시간대가 할당되지 않은 사람에게 9:00am PDT로 전자 메일이 전송됩니다.
+이러한 필드를 조합하여 다른 사람의 시간대를 확인할 수 없는 경우 **시간대를 할당하지** 않고 Marketo 구독 시간대를 기반으로 이메일이 전송됩니다. 따라서 프로그램이 오전 9시 PDT로 예약된 경우 시간대가 할당되지 않은 사람에게는 오전 9시 PDT로 이메일이 전송됩니다.
 
 >[!NOTE]
 >

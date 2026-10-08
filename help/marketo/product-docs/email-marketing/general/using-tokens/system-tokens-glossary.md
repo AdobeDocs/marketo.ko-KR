@@ -4,16 +4,18 @@ description: Marketo 이메일에서 사용할 수 있는 시스템 토큰에 �
 title: 시스템 토큰 용어집
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-TQID: https://experienceleague.adobe.com/8D-EZy-i4xmdOY27HNHs9HF2mCjofhMM4dDbfgOM7-Q
+TQID: 'https://experienceleague.adobe.com/8D-EZy-i4xmdOY27HNHs9HF2mCjofhMM4dDbfgOM7-Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 229
+source-wordcount: '230'
 ht-degree: 2%
-
 ---
-
 # 시스템 토큰 용어집 {#system-tokens-glossary}
 
 사람 토큰 외에도 정말 멋진 시스템 토큰을 사용할 수 있습니다. 여기 있습니다.
@@ -35,7 +37,7 @@ ht-degree: 2%
 
 ## system.time {#system-time}
 
-`{{system.time}}` 토큰은 런타임에 현재 시간을 렌더링합니다. 예: **04:34 오후(GMT -0700)**
+`{{system.time}}` 토큰은 런타임에 현재 시간을 렌더링합니다. 예: **04:34 PM (GMT -0700)**
 
 **다음 위치에서 작동:**
 

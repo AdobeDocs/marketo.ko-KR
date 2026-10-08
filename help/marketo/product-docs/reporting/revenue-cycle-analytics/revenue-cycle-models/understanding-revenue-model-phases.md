@@ -4,13 +4,19 @@ description: 수익 모델 단계 이해를 포함하여 Marketo Engage의 수�
 title: 수익 모델 단계 이해
 exl-id: 036559ff-b576-4490-ab76-54092e909178
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 12%
-
+source-wordcount: '81'
+ht-degree: 20%
 ---
-
 # 수익 모델 단계 이해 {#understanding-revenue-model-phases}
 
 단계는 여러 단계를 그룹화하는 방법입니다. 모델의 여러 단계가 funnel의 한 단계를 반영하는 경우가 있습니다.

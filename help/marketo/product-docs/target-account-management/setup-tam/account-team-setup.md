@@ -4,16 +4,21 @@ description: 계정 팀을 설정하고 CRM 계정 역할을 TAM에 매핑하는
 title: 계정 팀 설정
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/UyREfPyH-7ICes5S0VhIcu-3MsS5TlNG40TcZ9z5w94
+TQID: 'https://experienceleague.adobe.com/UyREfPyH-7ICes5S0VhIcu-3MsS5TlNG40TcZ9z5w94'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 187
+source-wordcount: '187'
 ht-degree: 5%
-
 ---
-
 # 계정 팀 설정 {#account-team-setup}
 
 계정 팀은 명명 계정에 대해 함께 작업하는 관련자 그룹입니다. 다음 단계에 따라 추가해야 하는 CRM 계정 역할을 선택하십시오.

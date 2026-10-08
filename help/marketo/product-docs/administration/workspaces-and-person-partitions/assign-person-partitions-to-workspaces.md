@@ -4,20 +4,23 @@ description: 작업 영역에 할당된 개인 파티션을 편집하는 방법�
 title: 작업 영역에 개인 파티션 할당
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-TQID: https://experienceleague.adobe.com/RwOodsRKaP2Iz-DBy6uJ0fpXJkLskqldCqn1PtntVfU
+TQID: 'https://experienceleague.adobe.com/RwOodsRKaP2Iz-DBy6uJ0fpXJkLskqldCqn1PtntVfU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: fffc2f21-ba05-5d98-924c-16da987a5b69
+    internal-label: Workspaces
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 133
+source-wordcount: '133'
 ht-degree: 19%
-
 ---
-
 # 작업 영역에 개인 파티션 할당 {#assign-person-partitions-to-workspaces}
 
 개인 파티션 및 작업 공간 할당을 편집하려면 아래 단계를 따르십시오.

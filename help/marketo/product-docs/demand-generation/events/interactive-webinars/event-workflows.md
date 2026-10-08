@@ -3,16 +3,18 @@ description: Marketo의 대화형 웨비나에 대한 이벤트 워크플로우�
 title: 이벤트 워크플로
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-TQID: https://experienceleague.adobe.com/ce1kJ-xTKr8ez-21yqdgWIyq-SLCfMuGBuj7nUiFYBA
+TQID: 'https://experienceleague.adobe.com/ce1kJ-xTKr8ez-21yqdgWIyq-SLCfMuGBuj7nUiFYBA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 476
+source-wordcount: '476'
 ht-degree: 4%
-
 ---
-
 # 이벤트 워크플로 {#event-workflows}
 
 웨비나가 완료되면 대시보드 탭으로 이동하여 집계된 성능을 확인합니다.

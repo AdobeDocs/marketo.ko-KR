@@ -4,16 +4,18 @@ description: 푸시 알림용 새 테스트 장치를 추가하는 방법을 알
 title: 새 테스트 디바이스 추가
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/fdjspcqf5-ZQLGd9-1QwuKdAEG0YXSTjVSQvGMPvp8U
+TQID: 'https://experienceleague.adobe.com/fdjspcqf5-ZQLGd9-1QwuKdAEG0YXSTjVSQvGMPvp8U'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 138
+source-wordcount: '138'
 ht-degree: 10%
-
 ---
-
 # 새 테스트 디바이스 추가 {#adding-a-new-test-device}
 
 푸시 알림을 받을 새 테스트 디바이스를 쉽게 추가할 수 있습니다.

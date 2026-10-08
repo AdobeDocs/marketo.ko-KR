@@ -4,18 +4,21 @@ description: Marketo Sales Insight에서 구독 취소 바닥글을 구성하는
 title: Marketo Sales Insight에서 구독 취소 바닥글 구성
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/9HUCspCSN2LZQzpNJhCI3yiMVzwOYMxyp06UDJQyT2Y
+TQID: 'https://experienceleague.adobe.com/9HUCspCSN2LZQzpNJhCI3yiMVzwOYMxyp06UDJQyT2Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 192
+source-wordcount: '192'
 ht-degree: 7%
-
 ---
-
 # [!DNL Marketo Sales Insight]에서 구독 취소 바닥글 구성 {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
 영업 이메일은 자동으로 구독 취소 바닥글을 맨 아래에 표시합니다. 그러나 필요에 따라 설정을 조정할 수 있습니다.

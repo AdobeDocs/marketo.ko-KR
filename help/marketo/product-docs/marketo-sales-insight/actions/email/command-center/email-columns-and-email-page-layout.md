@@ -3,18 +3,20 @@ description: 명령 센터의 이메일 열 및 페이지 레이아웃을 이해
 title: 이메일 열 및 이메일 페이지 레이아웃
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/q4hsk3YYlVl0fYfWyO4vLW9myJdRghZFm9NR9wS4ZSw
+TQID: 'https://experienceleague.adobe.com/q4hsk3YYlVl0fYfWyO4vLW9myJdRghZFm9NR9wS4ZSw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 479
+source-wordcount: '479'
 ht-degree: 2%
-
 ---
-
 # 이메일 열 및 이메일 페이지 레이아웃 {#email-columns-and-email-page-layout}
 
 [명령 센터](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)의 전자 메일 섹션에 사용 가능한 열을 표시하도록 구성할 수 있습니다. 구성 설정은 각 이메일 하위 폴더(예: 게재, 실패, 예약됨 등)에 대해 저장됩니다.

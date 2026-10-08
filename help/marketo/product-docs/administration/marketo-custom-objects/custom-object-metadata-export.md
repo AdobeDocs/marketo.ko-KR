@@ -3,21 +3,28 @@ description: SOAP 또는 Munchkin API 사용을 위해 사용자 지정 개체 �
 title: 사용자 정의 오브젝트 메타데이터 내보내기
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-TQID: https://experienceleague.adobe.com/7eZF1c45qtTibEHxI-QLu3KvT0rV-pRZSF66DxpD5eg
+TQID: 'https://experienceleague.adobe.com/7eZF1c45qtTibEHxI-QLu3KvT0rV-pRZSF66DxpD5eg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: '106'
 ht-degree: 17%
-
 ---
-
 # 사용자 정의 오브젝트 메타데이터 내보내기 {#custom-object-metadata-export}
 
 SOAP API 또는 [!DNL Munchkin] API를 사용하는 경우 사용자 지정 개체 메타데이터 스키마를 내보낼 수 있습니다. 아래 단계를 수행합니다.

@@ -4,16 +4,21 @@ description: SFDC에 사용자 자동 동기화 또는 기타 작업을 트리�
 title: 암시적 Salesforce 작업
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/lI3sRqk1if-UZ7DARSrGXXM485ZjZnlqDGb4si2wvi0
+TQID: 'https://experienceleague.adobe.com/lI3sRqk1if-UZ7DARSrGXXM485ZjZnlqDGb4si2wvi0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 158
+source-wordcount: '158'
 ht-degree: 23%
-
 ---
-
 # 암시적 Salesforce 작업 {#implied-salesforce-actions}
 
 [!DNL Salesforce]별 흐름 단계가 실행되면 경우에 따라 추가 단계가 자동으로 수행됩니다. 다음은 규칙이므로 다음을 알고 있습니다.

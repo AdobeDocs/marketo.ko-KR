@@ -4,16 +4,21 @@ description: 잠재 고객을 연락처로 전환할 때의 Dynamics 동기화 �
 title: Microsoft Dynamics 동기화 필터 - 선별
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/3jC9Y9fpBNjUzjE1Dy7JBuhNlYQpnc7kjF2LxV-hrp4
+TQID: 'https://experienceleague.adobe.com/3jC9Y9fpBNjUzjE1Dy7JBuhNlYQpnc7kjF2LxV-hrp4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 116
+source-wordcount: '116'
 ht-degree: 0%
-
 ---
-
 # [!DNL Microsoft Dynamics] 동기화 필터: 정규화 {#microsoft-dynamics-sync-filter-qualify}
 
 [!DNL Microsoft Dynamics]에서 잠재 고객을 연락처로 전환하려면 이 기본 선별 프로세스를 사용하십시오. 그런 다음 Marketo에 동기화합니다.

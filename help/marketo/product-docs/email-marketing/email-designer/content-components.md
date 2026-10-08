@@ -6,14 +6,26 @@ description: 이메일 레이아웃을 개인화하기 위한 콘텐츠 구성 �
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-hidefromtoc: true
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+hidefromtoc: 'yes'
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1181'
 ht-degree: 11%
-
 ---
-
 # 콘텐츠 구성 요소 {#content-components}
 
 전자 메일 콘텐츠를 만들 때 **[!UICONTROL Content components]**&#x200B;을(를) 사용하면 전자 메일에 배치되면 편집할 수 있는 원시 구성 요소로 전자 메일을 추가로 개인화할 수 있습니다.
@@ -121,7 +133,7 @@ ht-degree: 11%
 
 ## HTML {#HTML}
 
-**[!UICONTROL HTML]** 구성 요소를 사용하여 기존 HTML의 다른 부분을 복사하여 붙여 넣으십시오. 이렇게 하면 무료 모듈식 HTML 구성 요소를 만들어 일부 외부 콘텐츠를 재사용할 수 있습니다.
+**[!UICONTROL HTML]** 구성 요소를 사용하여 기존 HTML의 다른 부분을 복사하여 붙여 넣으십시오. 이렇게 하면 일부 외부 콘텐츠를 재사용할 수 있는 자유 형식의 모듈식 HTML 구성 요소를 만들 수 있습니다.
 
 1. **[!UICONTROL Content Components]**&#x200B;에서 **[!UICONTROL HTML]** 구성 요소를 **[!UICONTROL Structure component]**(으)로 끌어다 놓습니다.
 

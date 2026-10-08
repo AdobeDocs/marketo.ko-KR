@@ -4,13 +4,19 @@ description: 수익 모델 인벤토리 단계를 사용하여 Marketo Engage에
 title: 수익 모델 인벤토리 단계 사용
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 4%
-
 ---
-
 # 수익 모델 인벤토리 단계 사용 {#using-revenue-model-inventory-stages}
 
 알려진 모든 리드 및 계정은 처음에 재고 단계에 있습니다. 영업 준비가 완료될 때까지 잠재 고객을 육성합니다. 인벤토리 단계에는 시간 제한이 없습니다.

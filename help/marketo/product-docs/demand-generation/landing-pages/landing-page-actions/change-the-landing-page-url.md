@@ -4,16 +4,21 @@ description: Marketo에서 랜딩 페이지 URL을 변경하는 방법을 알아
 title: 랜딩 페이지 URL 변경
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/qAHZ4qfp4TXs4xogMVv9XwRfinPMbt2DEAhTyl7yPhg
+TQID: 'https://experienceleague.adobe.com/qAHZ4qfp4TXs4xogMVv9XwRfinPMbt2DEAhTyl7yPhg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 105
+source-wordcount: '105'
 ht-degree: 9%
-
 ---
-
 # 랜딩 페이지 URL 변경 {#change-the-landing-page-url}
 
 랜딩 페이지의 URL을 수정할 수 있습니다. 이렇게 하면 URL을 보다 쉽게 기억하고 SEO를 개선할 수 있습니다.

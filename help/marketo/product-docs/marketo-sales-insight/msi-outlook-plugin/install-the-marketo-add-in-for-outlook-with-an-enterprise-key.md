@@ -1,21 +1,24 @@
 ---
 unique-page-id: 11377488
 description: 엔터프라이즈 키를 사용하여 Outlook용 Marketo 추가 기능을 설치하는 방법을 알아봅니다. Enterprise 키를 사용하여 조직의 추가 기능을 배포합니다.
-title: Enterprise 키로  [!DNL Outlook] 용 Marketo 추가 기능 설치
+title: Enterprise 키로 [!DNL Outlook]용 Marketo 추가 기능 설치
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/mCdqWN-z7sArN7jcB-BqQ-zcxIiLDeJAZxb69986yjU
+TQID: 'https://experienceleague.adobe.com/mCdqWN-z7sArN7jcB-BqQ-zcxIiLDeJAZxb69986yjU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 310
+source-wordcount: '311'
 ht-degree: 3%
-
 ---
-
 # Enterprise 키로 [!DNL Outlook]용 Marketo 추가 기능 설치 {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
 대부분의 경우 영업 담당자는 랩톱에 대한 관리 권한이 없으며 IT 팀이 모든 소프트웨어를 원격으로 설치해야 합니다. Outlook용 Marketo 추가 기능은 엔터프라이즈 키를 사용하여 이러한 방식으로 설치할 수 있습니다. 이 키는 관리자의 판매 Insight 섹션에서 찾을 수 있습니다. Enterprise 키 보기 단추가 표시되지 않으면 [Marketo 지원 센터](https://nation.marketo.com/t5/Support/ct-p/Support)에 문의하여 활성화하십시오.

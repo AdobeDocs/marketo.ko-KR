@@ -4,16 +4,21 @@ description: Microsoft Dynamics과 Marketo 간 리드 동기화가 작동하는 
 title: Microsoft Dynamics 동기화 - 리드 동기화
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/BB-28aHosrt72difKAr7vgYqdI8a9ts0aOSnbWJzbw8
+TQID: 'https://experienceleague.adobe.com/BB-28aHosrt72difKAr7vgYqdI8a9ts0aOSnbWJzbw8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 297
+source-wordcount: '297'
 ht-degree: 0%
-
 ---
-
 # [!DNL Microsoft Dynamics] 동기화: 리드 동기화 {#microsoft-dynamics-sync-lead-sync}
 
 [!DNL Dynamics]에 대한 Marketo 동기화가 강력합니다. 자세한 내용은 다음과 같습니다.

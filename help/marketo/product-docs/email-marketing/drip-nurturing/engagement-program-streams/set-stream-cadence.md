@@ -4,18 +4,23 @@ description: 참여 프로그램의 스트림 케이던스를 설정하는 방�
 title: 스트림 케이던스 설정
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/FJkSjZFKVZb-nBY-xfkU6Vb9JsQYbIMrbKW7rPpOmmg
+TQID: 'https://experienceleague.adobe.com/FJkSjZFKVZb-nBY-xfkU6Vb9JsQYbIMrbKW7rPpOmmg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 356
+source-wordcount: '356'
 ht-degree: 3%
-
 ---
-
 # 스트림 케이던스 설정 {#set-stream-cadence}
 
 원하는 간격으로 참여 콘텐츠를 보낼 수 있습니다. 예를 들어, 일주일에 한 번 또는 그 달의 세 번째 화요일에 한 번씩.

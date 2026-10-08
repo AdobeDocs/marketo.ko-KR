@@ -4,21 +4,28 @@ description: 알 수 없는 열 헤더가 있는 목록 가져오기가 올바�
 title: 목록 가져오기를 위한 필드 별칭 편집
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-TQID: https://experienceleague.adobe.com/LTuFa4OBnrBF5k8YHuLkamnfirQSa-NXFq534w21Xyk
+TQID: 'https://experienceleague.adobe.com/LTuFa4OBnrBF5k8YHuLkamnfirQSa-NXFq534w21Xyk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 123
+source-wordcount: '123'
 ht-degree: 16%
-
 ---
-
 # 목록 가져오기를 위한 필드 별칭 편집 {#edit-field-aliases-for-list-import}
 
 알 수 없는 헤더가 있는 목록을 가져올 때 필드 별칭을 만들어 향후 가져오기를 단순화할 수 있습니다. 필드 관리에서 이러한 별칭을 편집할 수도 있습니다.

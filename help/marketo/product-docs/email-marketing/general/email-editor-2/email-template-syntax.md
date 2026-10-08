@@ -4,18 +4,23 @@ description: 이메일 편집기 2.0의 이메일 템플릿 구문에 대해 알
 title: 이메일 템플릿 구문
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40
+TQID: 'https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2464
+source-wordcount: '2464'
 ht-degree: 83%
-
 ---
-
 # 이메일 템플릿 구문 {#email-template-syntax}
 
 Marketo의 새로운 Email 2.0 Experience에서 이메일 템플릿은 요소, 변수, 모듈 또는 컨테이너의 모든 조합으로 구성됩니다. 각 조합은 Marketo 관련 구문을 HTML에 추가하는 방법으로 정의됩니다. 이전 버전(v1.0)의 이메일 템플릿은 이메일 편집기 2.0에서 지원되지만, 새 편집기의 모든 기능을 포함하지는 않습니다.
@@ -24,7 +29,7 @@ Marketo 이메일 구문은 템플릿과 개별 이메일에서만 작동합니�
 
 >[!NOTE]
 >
->Marketo 지원 팀은 CSS/HTML을 지원하도록 구성되지 않았습니다. CSS/HTML에 익숙하지 않다면 개발자에게 문의하십시오.
+>Marketo 지원 팀은 CSS/HTML 관련 지원을 제공하도록 구성되어 있지 않습니다. CSS/HTML에 익숙하지 않다면 개발자에게 문의하십시오.
 
 >[!CAUTION]
 >
@@ -117,7 +122,7 @@ class=&quot;mktoText&quot;인 HTML 요소(제공된 경우) 내의 콘텐츠는 
 
 >[!NOTE]
 >
->이 옵션은 최종 사용자가 이미지에 링크를 추가하는 것을 허용하지 않습니다. 이것이 템플릿에 중요한 경우 옵션 1을 사용합니다.
+>이 옵션은 최종 사용자가 이미지에 링크를 추가하는 것을 허용하지 않습니다. 이것이 템플릿에 중요한 경우 옵션 1을 사용하십시오.
 
 필수 속성
 
@@ -167,7 +172,7 @@ class=&quot;mktoText&quot;인 HTML 요소(제공된 경우) 내의 콘텐츠는 
 
 ## 변수 {#variables}
 
-변수는 토큰과 같습니다. 먼저 `<meta>` 태그를 사용하여 이메일 템플릿의 `<head>` 섹션 내에 변수를 정의한 다음 템플릿 전체에서 원하는 횟수만큼 사용합니다. 변수는 템플릿에 정의되어 있으므로 최종 사용자는 규칙에 따라 그 값을 수정할 수 있습니다. 범위에서 변수를 로컬 또는 글로벌로 정의할 수 있습니다. &quot;모듈&quot;(아래 참조) 내에서 변수를 사용하고 최종 사용자가 해당 모듈을 복제하는 경우, 로컬 변수에는 독립된 값이 적용되는 반면 글로벌 변수는 두 모듈 모두에 적용됩니다.
+변수는 토큰과 같습니다. 먼저 `<meta>` 태그를 사용하여 이메일 템플릿의 `<head>` 섹션 내에 변수를 정의한 다음 템플릿 전체에서 원하는 횟수만큼 사용합니다. 변수는 템플릿에 정의되어 있으므로 최종 사용자는 규칙에 따라 그 값을 수정할 수 있습니다. 변수의 범위를 로컬 또는 글로벌로 정의할 수 있습니다. &quot;모듈&quot;(아래 참조) 내에서 변수를 사용하고 최종 사용자가 해당 모듈을 복제하는 경우, 로컬 변수에는 독립된 값이 적용되는 반면 글로벌 변수는 두 모듈 모두에 적용됩니다.
 
 ## 문자열 {#string}
 
@@ -204,7 +209,7 @@ class=&quot;mktoText&quot;인 HTML 요소(제공된 경우) 내의 콘텐츠는 
 
 선택적 속성
 
-* 선택 드롭다운의 **기본값:** 기본값 생략하면 &quot;값&quot; 속성의 첫 번째 값이 사용됩니다.
+* 선택 드롭다운의 **기본값:** 기본값 생략하면 &quot;values&quot; 속성의 첫 번째 값이 사용됩니다.
 * **mktoModuleScope**: 부울. 모듈에서 사용할 때 변수가 로컬(true)인지 또는 글로벌(false)인지 여부를 제어합니다. 생략하면 기본값이 False로 설정됩니다.
 
 선언 예:

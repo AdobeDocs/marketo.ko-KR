@@ -3,19 +3,21 @@ description: Sales Connect의 이메일 연결 제한에 대해 알아봅니다.
 title: 이메일 연결 제한
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM
+TQID: 'https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 405
+source-wordcount: '406'
 ht-degree: 2%
-
 ---
-
 # 이메일 연결 제한 {#email-connection-throttling}
 
-[!DNL Sales Connect] 계정을 통합하여 [!DNL Exchange] 또는 Gmail 전자 메일 공급자를 통해 보낼 수 있으므로 설정이 간소화되며 1:1 판매 커뮤니케이션에 대한 전자 메일 배달 가능성을 최적화합니다. 그러나 시스템의 상태와 계정의 안전을 유지하기 위해 Gmail 및 Exchange는 이메일 전송 제한을 적용합니다. 이러한 한계는 제공자의 재량에 따라 증감될 여지가 있다.
+[!DNL Sales Connect] 계정을 통합하여 [!DNL Exchange] 또는 Gmail 전자 메일 공급자를 통해 보내면 간소화된 설정이 제공되며 1:1 판매 커뮤니케이션을 위해 전자 메일 배달 기능을 최적화할 수 있습니다. 그러나 시스템의 상태와 계정의 안전을 유지하기 위해 Gmail 및 Exchange는 이메일 전송 제한을 적용합니다. 이러한 한계는 제공자의 재량에 따라 증감될 여지가 있다.
 
 ## 개요 {#overview}
 

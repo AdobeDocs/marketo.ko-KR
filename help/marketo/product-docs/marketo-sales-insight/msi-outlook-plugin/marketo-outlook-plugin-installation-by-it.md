@@ -1,22 +1,26 @@
 ---
 unique-page-id: 11382815
 description: IT에서 조직에 대한 Marketo Outlook 플러그인을 설치하는 방법을 알아봅니다. Outlook 사용자를 위해 추가 기능을 규모에 맞게 배포합니다.
-title: IT에서 제공하는 Marketo [!DNL Outlook] 플러그인 설치
+title: IT에서 제공하는 Marketo [!DNL Outlook] 플러그 인 설치
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/7Gq4FJlVf9jvqL2Bz34oQVL8HtBNYCjEHl32g-0RXYk
+TQID: 'https://experienceleague.adobe.com/7Gq4FJlVf9jvqL2Bz34oQVL8HtBNYCjEHl32g-0RXYk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 195
+source-wordcount: '196'
 ht-degree: 1%
-
 ---
-
 # IT에서 제공하는 Marketo [!DNL Outlook] 플러그 인 설치 {#marketo-outlook-plugin-installation-by-it}
 
 경우에 따라 기업 정책에 따라 IT 팀이 직원의 컴퓨터에 모든 소프트웨어를 설치해야 합니다. 이러한 경우 IT 부서는 자체 배포 소프트웨어를 사용하여 원격으로 이 작업을 수행하는 경우가 많습니다. 이 문서는 Outlook 플러그인을 원격으로 설치하기 위해 배포 프로세스 동안 입력으로 사용할 명령줄을 제공합니다.

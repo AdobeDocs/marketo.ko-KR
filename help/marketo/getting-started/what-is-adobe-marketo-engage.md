@@ -4,23 +4,27 @@ description: Adobe Marketo Engage란 무엇입니까? - Marketo 설명서 - 제�
 title: Adobe Marketo Engage란 무엇입니까?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/zc1UYz8yZ8vfMcIWzXfHcBv6qYrrjqO-ryTxqDDdtno
+TQID: 'https://experienceleague.adobe.com/zc1UYz8yZ8vfMcIWzXfHcBv6qYrrjqO-ryTxqDDdtno'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 314
+source-wordcount: '314'
 ht-degree: 95%
-
 ---
-
 # Adobe Marketo Engage란 무엇입니까? {#what-is-adobe-marketo-engage}
 
-Adobe Marketo Engage는 마케팅 자동화 소프트웨어입니다. 마케팅 자동화를 통해 마케팅 작업 및 워크플로를 간소화하고 자동화 및 측정하여 운영 효율성을 높이고 수익을 더 빠르게 성장시킬 수 있습니다.
+Adobe Marketo Engage는 마케팅 자동화 소프트웨어입니다. 마케팅 자동화를 통해 마케팅 작업 및 워크플로를 간소화하고 자동화 및 측정하여 운영 효율성을 높이고 매출을 더 빠르게 성장시킬 수 있습니다.
 
 ## Marketo Engage에서 무엇을 할 수 있습니까? {#what-can-i-do-in-marketo-engage}
 
@@ -42,7 +46,7 @@ Marketo Engage는 마케팅 목표를 달성하는 데 도움이 되는 다양�
 * 웹 사이트 통합
 * 워크플로 엔진
 * 사용자 점수
-* 영업 담당자를 위한 CRM 대시보드
+* 영업 담당자를 위한 CRM 내 대시보드
 * 프로그램 분석
 * Target 계정 관리
 
@@ -70,4 +74,4 @@ Marketo Engage는 마케팅 목표를 달성하는 데 도움이 되는 다양�
 
 <br>
 
-Marketo Engage를 시작합니다.
+Marketo Engage에 오신 것을 환영합니다!

@@ -3,18 +3,20 @@ description: 판매자가 Marketo에서 구독을 취소한 사람에게 이메�
 title: Marketo 구독 취소 확인
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/RaIYKEVyjdeUlOa4paltYIS8NPZHi1XWTmO4IeLBy-o
+TQID: 'https://experienceleague.adobe.com/RaIYKEVyjdeUlOa4paltYIS8NPZHi1XWTmO4IeLBy-o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Integrations
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 135
+source-wordcount: '135'
 ht-degree: 8%
-
 ---
-
 # [!UICONTROL Marketo Unsubscribe Check] {#marketo-unsubscribe-check}
 
 [!UICONTROL Marketo Unsubscribe Check]은(는) Marketo에 대한 팀의 연결을 사용하여 Marketo의 리드 관리 시스템에서 구독을 취소한 사람에게 전자 메일이 전송되지 않도록 합니다. 영업 사용자가 [!DNL Marketo Sales]&#x200B;(으)로 이메일을 보내면 Marketo에 API 호출이 수행되어 이메일 ID의 구독 취소가 있는지 확인합니다. 이 경우 이메일이 전송되지 않도록 차단합니다.

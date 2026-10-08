@@ -1,18 +1,23 @@
 ---
 description: 연결하기 전에 Veeva CRM에 Marketo 필드를 추가하는 방법을 알아봅니다. Veeva의 연락처 개체에 대한 점수 필드 및 선택적 마케팅 필드를 만듭니다.
-title: 1단계/3단계 -  [!DNL Veeva] CRM에 Marketo 필드 추가
+title: 1단계/3단계 - [!DNL Veeva] CRM에 Marketo 필드 추가
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/ZRKsO6ysIvvGNApNPAMd17fWAbr9M-meujmMRL51xPU
+TQID: 'https://experienceleague.adobe.com/ZRKsO6ysIvvGNApNPAMd17fWAbr9M-meujmMRL51xPU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 495
+source-wordcount: '496'
 ht-degree: 8%
-
 ---
-
 # 1단계/3단계: [!DNL Veeva] CRM에 Marketo 필드 추가 {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]

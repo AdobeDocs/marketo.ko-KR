@@ -3,16 +3,18 @@ description: Sales Campaign 이메일 단계에 대한 전송 옵션을 이해�
 title: 이메일 단계에 대한 세일즈 캠페인 게재 옵션 이해
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-TQID: https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM
+TQID: 'https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 758
-ht-degree: 3%
-
+source-wordcount: '772'
+ht-degree: 2%
 ---
-
 # 이메일 단계에 대한 세일즈 캠페인 게재 옵션 이해 {#understanding-sales-campaign-send-options-for-email-steps}
 
 영업 캠페인을 만들 때 [!DNL Sales Insight Actions]에서 전자 메일 단계를 만드는 방법에 대한 몇 가지 옵션이 있습니다. 또한 Sales Campaign에서 이메일이 어디에 포함되는지에 따라 옵션도 달라집니다.
@@ -37,8 +39,8 @@ ht-degree: 3%
 * 이 옵션을 사용하면 편한 시간에 보낼 수 있는 전자 메일 작업(및 [!DNL Salesforce]과 동기화)이 만들어집니다.
 * 이 옵션을 선택하면 Sales Campaign을 시작할 때 명령 센터 및 라이브 피드에 해당 작업이 대기열에 추가됩니다. 그런 다음 각 이메일이 발송되기 전에 개인화하고 전송(또는 예약)할 수 있습니다.
 
-   * 웹 애플리케이션에서 이 작업을 열면 연락처의 이메일 주소, 이메일의 제목 줄 및 선택한 템플릿이 있는 작성 창이 열립니다.
-   * Gmail 또는 [!DNL Outlook]에서 이 작업을 열면 기본 작성 창이 열리고 연락처 전자 메일 주소, 전자 메일의 제목 줄 및 선택한 서식 파일이 동적으로 채워집니다.
+  * 웹 애플리케이션에서 이 작업을 열면 연락처의 이메일 주소, 이메일의 제목 줄 및 선택한 템플릿이 있는 작성 창이 열립니다.
+  * Gmail 또는 [!DNL Outlook]에서 이 작업을 열면 기본 작성 창이 열리고 연락처 전자 메일 주소, 전자 메일의 제목 줄 및 선택한 서식 파일이 동적으로 채워집니다.
 
 ## 후속 단계 전송 옵션 {#subsequent-step-send-options}
 
@@ -63,8 +65,8 @@ Sales Campaign의 이후 며칠/단계에서는 다음과 같은 옵션을 사�
 * 이 옵션을 사용하면 편한 시간에 보낼 수 있는 전자 메일 작업(및 [!DNL Salesforce]과 동기화)이 만들어집니다.
 * 이 옵션을 선택하면 판매 캠페인을 시작할 때 [!DNL Sales Insight Actions]에서 이 작업을 자동으로 명령 센터 및 라이브 피드에 큐에 추가합니다. 그런 다음 각 이메일이 발송되기 전에 개인화하고 전송(또는 예약)할 수 있습니다.
 
-   * 웹 애플리케이션에서 이 작업을 열면 연락처의 이메일 주소, 이메일의 제목 줄 및 선택한 템플릿이 있는 작성 창이 열립니다.
-   * Gmail 또는 [!DNL Outlook]에서 이 작업을 열면 기본 작성 창이 열리고 연락처 전자 메일 주소, 전자 메일의 제목 줄 및 선택한 서식 파일이 동적으로 채워집니다.
+  * 웹 애플리케이션에서 이 작업을 열면 연락처의 이메일 주소, 이메일의 제목 줄 및 선택한 템플릿이 있는 작성 창이 열립니다.
+  * Gmail 또는 [!DNL Outlook]에서 이 작업을 열면 기본 작성 창이 열리고 연락처 전자 메일 주소, 전자 메일의 제목 줄 및 선택한 서식 파일이 동적으로 채워집니다.
 
 ### 이 캠페인의 이전 이메일에 대한 후속 작업으로 이 이메일 만들기 {#subsequent-create-this-email}
 

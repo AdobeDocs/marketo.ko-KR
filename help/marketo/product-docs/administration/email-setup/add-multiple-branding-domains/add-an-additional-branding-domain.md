@@ -4,21 +4,26 @@ description: 여러 브랜드에 대한 추가 브랜딩 도메인을 한 인스
 title: 추가 브랜딩 도메인 추가
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw
+TQID: 'https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 697
+source-wordcount: '697'
 ht-degree: 19%
-
 ---
-
 # 추가 브랜딩 도메인 추가 {#add-an-additional-branding-domain}
 
 단일 Marketo 인스턴스에서 여러 브랜드를 실행하고 각 브랜드마다 고유한 브랜드 추적 링크를 원하는 경우 브랜딩 도메인을 추가합니다.
@@ -105,7 +110,7 @@ ht-degree: 19%
 
 * **기존 SSL**: 도메인을 추가하는 동안 시스템은 이전에 수동으로 만든 기존 SSL을 확인합니다. 이 유효성 검사가 발생하면 SSL 만들기를 선택하지 않고 도메인을 만들고 [지원](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}에 연락하여 연결하십시오.
 
-* **도메인 삭제**: **도메인을 자동으로 삭제해도 SSL 인증서는 삭제되지 않습니다**. 이 가드레일은 SSL 인증서 없이 웹 사이트를 생성하는 사용자 오류를 방지합니다. SSL 인증서를 제거하려면 [지원팀에 문의](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}하십시오.
+* **도메인 삭제**: **도메인을 자동으로 삭제해도 SSL 인증서는 삭제되지 않습니다**. 이 가드레일은 웹 사이트에 SSL 인증서가 없게 되는 사용자 오류를 방지합니다. SSL 인증서를 제거하려면 [지원팀에 문의](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}하십시오.
 
 * 추가하는 도메인이 CNAME 이외의 항목으로 나열되면 더 이상 브랜드 추적 도메인을 추가하는 기능이 차단됩니다. 기존 도메인을 편집하고 A 레코드와 같은 CNAME 레코드가 아닌지 확인해야 합니다. 추가 버튼은 CNAME만 동적으로 확인합니다.
 

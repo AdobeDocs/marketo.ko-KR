@@ -4,13 +4,19 @@ description: 성공 경로 분석기를 사용하여 Marketo Engage에서 성공
 title: 성공 경로 분석기 사용
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 3%
-
 ---
-
 # 성공 경로 분석기 사용 {#using-the-success-path-analyzer}
 
 성공 경로 분석기를 사용하여 [수익 주기 모델](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)의 단계를 통해 사람들의 흐름(금액)과 속도(일 단위 속도)를 모두 반영하는 특정 세부 정보를 살펴보십시오.

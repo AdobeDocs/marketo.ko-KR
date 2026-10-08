@@ -4,13 +4,17 @@ title: 사용자 세부 정보 보기
 hide: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 3%
-
+ht-degree: 4%
 ---
-
 # 사용자 세부 정보 보기 {#person-detail-view}
 
 개인 세부 정보 보기는 [!DNL Marketo Sales] 계정의 각 사용자에 대한 자세한 프로필을 제공합니다.
@@ -52,7 +56,7 @@ ht-degree: 3%
 
 * 템플릿 및 캠페인에서 동적 필드로 사용할 수 있는 사용자 정의 필드를 추가하거나 제거합니다
 
-**준수**
+**규정 준수**
 
 * 텍스트
 

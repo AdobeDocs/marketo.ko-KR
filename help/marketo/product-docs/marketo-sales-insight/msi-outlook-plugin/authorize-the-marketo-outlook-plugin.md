@@ -1,21 +1,24 @@
 ---
 unique-page-id: 11377640
 description: Marketo Outlook 플러그인을 승인하는 방법을 알아봅니다. 사용자가 Outlook에서 이메일을 보내고 추적할 수 있도록 OAuth를 완료합니다.
-title: Marketo [!DNL Outlook] Plugin 승인
+title: Marketo [!DNL Outlook] 플러그 인 승인
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/IQv2V0dX-p2RE5zfco8s8Q5hSaD35mpQyuWGPpxcITE
+TQID: 'https://experienceleague.adobe.com/IQv2V0dX-p2RE5zfco8s8Q5hSaD35mpQyuWGPpxcITE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 210
+source-wordcount: '211'
 ht-degree: 0%
-
 ---
-
 # Marketo [!DNL Outlook] 플러그 인 승인 {#authorize-the-marketo-outlook-plugin}
 
 [!DNL Outlook]에서 Marketo MSI 플러그인을 사용하려면 권한을 부여해야 합니다.

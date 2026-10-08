@@ -4,13 +4,17 @@ description: Marketo Engage 구독에서 시간대를 업데이트하는 방법�
 title: 표준 시간대 변경
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 16%
-
 ---
-
 # 표준 시간대 변경 {#change-time-zone}
 
 Marketo Engage 구독에서 시간대를 변경하는 방법을 알아봅니다.

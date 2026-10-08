@@ -3,18 +3,20 @@ description: 판매 Insight 작업 활동 유형 및 약관에 대해 알아봅�
 title: Sales Insight Actions 활동 용어집
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/9Nc4yNxQWVptT5g1kszd7Q59AhT-eurDt4-gVRWT3qs
+TQID: 'https://experienceleague.adobe.com/9Nc4yNxQWVptT5g1kszd7Q59AhT-eurDt4-gVRWT3qs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '319'
 ht-degree: 6%
-
 ---
-
 # [!DNL Sales Insight Actions] 활동 용어집 {#sales-insight-actions-activity-glossary}
 
 [!DNL Sales Insight Actions]에서 판매자: 판매 캠페인에 잠재 고객을 추가하거나 판매 이메일을 보내거나 아웃바운드 판매 호출을 수행하면 해당 잠재 고객에 대한 Marketo 활동 내역에 기록됩니다. 또한 잠재 고객이 이메일, 열기, 클릭 및 답글을 수행하면 기록됩니다.

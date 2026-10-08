@@ -4,22 +4,26 @@ description: tam의 계정 기반 웹 마케팅을 포함하여 Marketo Engage�
 title: TAM을 통한 계정 기반 웹 마케팅
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/BSlDYlNvFm1mZs9UP58HxZ2HLiLYjFrbt7WyCHzT1c4
+TQID: 'https://experienceleague.adobe.com/BSlDYlNvFm1mZs9UP58HxZ2HLiLYjFrbt7WyCHzT1c4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 186
+source-wordcount: '186'
 ht-degree: 6%
-
 ---
-
 # TAM을 통한 계정 기반 웹 마케팅 {#account-based-web-marketing-with-TAM}
 
 Marketo은 [[!UICONTROL Target Account Management]](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md)(TAM) 응용 프로그램을 제공합니다.
@@ -30,7 +34,7 @@ Marketo [!UICONTROL Web Personalization] 및 [!UICONTROL Target Account Manageme
 * [!UICONTROL Account Lists]은(는) TAM에서 관리(만들기, 편집 및 삭제)됩니다.
 * [!UICONTROL Account Lists]이(가) 세분화에 사용할 수 있도록 [!UICONTROL Web Personalization]에 동기화되었습니다. 드롭다운에서 선택합니다.
 
-   * **참고**: 동기화하는 데 최대 5분이 걸릴 수 있습니다.
+  * **참고**: 동기화하는 데 최대 5분이 걸릴 수 있습니다.
 
 * [!UICONTROL Web Personalization]에서 TAM에서 만든 [계정 목록에서 &#x200B;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)세그먼트를 타겟팅하는 계정을 만들고 이러한 계정에 대한 콘텐츠를 개인화할 수 있습니다
 
@@ -42,7 +46,7 @@ Marketo [!UICONTROL Web Personalization] 및 [!UICONTROL Target Account Manageme
 * ABWM의 TAM _및_&#x200B;에서 [!UICONTROL Account Lists]을(를) 만들고 편집하고 삭제할 수 있습니다.
 * 세분화에 사용할 [!UICONTROL Account Lists]&#x200B;(ABWM 및 TAM 모두)이 [!UICONTROL Web Personalization]에 동기화됩니다.
 
-   * **참고**: 동기화하는 데 최대 5분이 걸릴 수 있습니다.
+  * **참고**: 동기화하는 데 최대 5분이 걸릴 수 있습니다.
 
 * [!UICONTROL Web Personalization]에서는 _ABWM 및 TAM에서 모두_&#x200B;만든 [!UICONTROL Account Lists]에서 세그먼트를 타겟팅하는 계정을 만들고 이러한 계정에 대한 콘텐츠를 개인화할 수 있습니다
 * [!UICONTROL Web Personalization] 계정 목록 페이지에서 CSV 파일을 업로드할 수 있습니다.

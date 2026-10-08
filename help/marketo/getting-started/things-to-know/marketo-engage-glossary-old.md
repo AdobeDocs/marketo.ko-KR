@@ -4,13 +4,17 @@ short-description: Marketo Engage 용어와 정의를 학습하면 빠르게 적
 title: Marketo Engage 용어집
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '4132'
 ht-degree: 91%
-
 ---
-
 # Marketo Engage 용어집 {#marketo-engage-glossary}
 
 다음은 Marketo Engage를 사용할 때 접할 수 있는 다양한 용어에 대한 정의입니다. 용어를 추가하려면 [이메일을 보내 주십시오](mailto:GRP-Marketo-articlefeedback@adobe.com).
@@ -49,11 +53,11 @@ ht-degree: 91%
   </tr>
   <tr>
    <td colspan="1"><strong>확보 프로그램</strong></td>
-   <td colspan="1">사용자를 획득하는 일을 담당하는 프로그램입니다. 해당 사용자는 익명이었을 수 있으며, 이 프로그램이 그 사용자를 알려진 사용자로 전환하는 역할을 했습니다. 이는 최초 접점 기여도를 확립하는 데 도움이 됩니다.</td>
+   <td colspan="1">사용자를 획득하는 일을 담당하는 프로그램입니다. 해당 사용자는 익명이었을 수 있으며, 이 프로그램이 그 사용자를 식별된 사용자로 전환하는 역할을 했습니다. 이는 최초 접점 기여도를 확립하는 데 도움이 됩니다.</td>
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>광고 네트워크 통합 </strong></a></td>
-   <td colspan="1">(이전 명칭: Ad Bridge)Marketo의 고유한 대상자 데이터를 유료 미디어 시스템에 연결하여 보다 타기팅되고 개인화된 디지털 광고 캠페인을 실행하는 방법입니다.</td>
+   <td colspan="1">(이전 명칭: Ad Bridge) Marketo의 고유한 대상자 데이터를 유료 미디어 시스템에 연결하여 보다 타기팅되고 개인화된 디지털 광고 캠페인을 실행하는 방법입니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Adobe Marketo Engage</strong></td>
@@ -234,7 +238,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td><strong>중복 제거</strong></td>
-   <td>중복 제거라고도 합니다. 중복을 제거하기 위해 정보(예: 사용자)를 식별하고 통합하는 프로세스입니다. 예를 들어 Marketo는 새로운 사용자가 인스턴스에 들어올 때 자동으로 중복을 제거합니다.</td>
+   <td>중복 제거라고도 합니다. 중복을 제거하기 위해 정보(예: 사용자)를 식별하고 통합하는 프로세스입니다. 예를 들어 Marketo는 새로운 사용자가 인스턴스에 들어오면 자동으로 중복을 제거합니다.</td>
   </tr>
   <tr>
    <td colspan="1">
@@ -253,7 +257,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td colspan="1"><strong>인구 통계 점수</strong></td>
-   <td colspan="1">직책, 매출 규모 또는 목표 산업과 같은 특정 속성을 기반으로 사용자에게 할당되는 포인트 값입니다. 일반적으로 사용자가 귀하의 제품이나 회사에 적합한 정도를 측정하는 데 사용됩니다. </td>
+   <td colspan="1">직책, 매출 규모 또는 목표 산업과 같은 특정 속성을 기반으로 사용자에게 할당되는 포인트 값입니다. 일반적으로 사용자가 제품이나 회사에 얼마나 적합한지 측정하는 데 사용됩니다. </td>
   </tr>
   <tr>
    <td colspan="1"><strong>Design Studio</strong></td>
@@ -273,7 +277,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td colspan="1"><strong>초안</strong></td>
-   <td colspan="1"><p>아직 <strong>승인</strong>되지 않은 <strong>이메일</strong> 또는 <strong>랜딩 페이지</strong>입니다. 초안은 승인되기 전까지 공개적으로 볼 수 없습니다. 초안을 테스트 이메일(샘플)로 보낼 수는 있지만 어떠한 분석 자료도 기록되지 않습니다. <br></p></td>
+   <td colspan="1"><p>아직 <strong>승인</strong>되지 않은 <strong>이메일</strong> 또는 <strong>랜딩 페이지</strong>입니다. 초안은 승인되기 전까지 공개적으로 볼 수 없습니다. 초안을 테스트 이메일(샘플)로 보낼 수는 있지만 분석은 기록되지 않습니다. <br></p></td>
   </tr>
   <tr>
    <td colspan="1"><strong>드립 캠페인</strong></td>
@@ -481,7 +485,7 @@ ht-degree: 91%
     <div>
      <p><strong> List</strong></p>
     </div></td>
-   <td colspan="1">사용자의 모음입니다. Marketo에는 스마트 목록과 정적 목록이 있습니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">스마트 목록</a>은(는) 사용자가 정의한 필터(예: 캘리포니아에 거주하는 데이터베이스의 모든 사용자)를 기반으로 하므로 지속적으로 변경할 수 있는 동적 사용자 목록입니다. 새로운 사용자가 기준에 부합하거나 기존 사용자가 더 이상 부합하지 않으면 목록이 변경됩니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">정적 목록</a>은 말 그대로 정적입니다. 사용자가 수동으로 사용자를 추가/삭제하지 않는 한 변경되지 않습니다.</td>
+   <td colspan="1">사용자의 모음입니다. Marketo에는 스마트 목록과 정적 목록이 있습니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">스마트 목록</a>은(는) 사용자가 정의한 필터(예: 캘리포니아에 거주하는 데이터베이스의 모든 사용자)를 기반으로 하므로 지속적으로 변경할 수 있는 동적 사용자 목록입니다. 새로운 사용자가 기준에 부합하거나 기존 사용자가 더 이상 부합하지 않으면 목록이 변경됩니다. <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">정적 목록</a>은 말 그대로 정적입니다. 누군가를 수동으로 추가/삭제하지 않는 한 변경되지 않습니다.</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>로컬 자산</strong></a></td>
@@ -504,7 +508,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>마케팅 자동화</strong></a></td>
-   <td colspan="1">기업이 마케팅 작업 및 워크플로를 간소화, 자동화 및 측정하여 운영 효율성을 높이고 수익을 더 빠르게 성장시킬 수 있도록 하는 기술 범주입니다.</td>
+   <td colspan="1">기업이 마케팅 작업 및 워크플로를 간소화, 자동화 및 측정하여 운영 효율성을 높이고 매출을 더 빠르게 성장시킬 수 있도록 하는 기술 범주입니다.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>마케팅 적격 리드 (MQL)</strong></td>
@@ -590,7 +594,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td><strong>옵트인</strong></td>
-   <td>사용자가 마케팅 이메일 수신을 시작하도록 권한을 부여하는 경우입니다.</td>
+   <td>사용자가 마케팅 이메일 수신에 동의하는 경우입니다.</td>
   </tr>
   <tr>
    <td><strong>옵트아웃</strong></td>
@@ -689,7 +693,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td><strong>역할</strong></td>
-   <td>여러 권한을 함께 그룹화하는 사용자에게 할당된 직함입니다(예: 관리자, 마케팅 사용자).</td>
+   <td>사용자에게 할당되며 여러 권한을 함께 그룹화하는 직함입니다(예: 관리자, 마케팅 사용자).</td>
   </tr>
   <tr>
    <td colspan="1"><strong>역할 계정</strong></td>
@@ -728,7 +732,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>스마트 캠페인</strong></a></td>
-   <td colspan="1">Marketo에서 가장 중요한 도구 중 하나입니다. 사용자가 결정한 기준에 따라 지정한 작업을 수행합니다. (<strong><a href="#b">배치 캠페인</a></strong> 및 <strong><a href="#t">트리거 캠페인</a></strong>도 참조)</td>
+   <td colspan="1">Marketo에서 가장 중요한 도구 중 하나입니다. 결정한 기준에 따라 지정한 작업을 수행합니다. (<strong><a href="#b">배치 캠페인</a></strong> 및 <strong><a href="#t">트리거 캠페인</a></strong>도 참조)</td>
   </tr>
   <tr>
    <td colspan="1"><strong>스마트 목록</strong></td>
@@ -743,7 +747,7 @@ ht-degree: 91%
    <td colspan="1">(<a href="#b"><strong>바운스</strong></a> 참조)</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>Software as a Service (SaaS)</strong></td>
+   <td colspan="1"><strong>서비스형 소프트웨어(SaaS)</strong></td>
    <td colspan="1">다운로드가 필요하지 않고 웹 브라우저와 인터넷 연결이 가능한 디바이스만 있으면 되는 소프트웨어 게재 방식입니다(예: Marketo). </td>
   </tr>
   <tr>

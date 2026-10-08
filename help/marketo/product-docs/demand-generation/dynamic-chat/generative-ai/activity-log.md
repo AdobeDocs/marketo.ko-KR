@@ -3,16 +3,21 @@ description: Dynamic Chat의 생성 AI 활동 로그에 대해 알아봅니다. 
 title: 활동 로그
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
-TQID: https://experienceleague.adobe.com/U37pw5bR2HNvl-ZhnvZ65dTLm3nhASdA6NP-umDFUhQ
+TQID: 'https://experienceleague.adobe.com/U37pw5bR2HNvl-ZhnvZ65dTLm3nhASdA6NP-umDFUhQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 62
+source-wordcount: '62'
 ht-degree: 11%
-
 ---
-
 # 활동 로그 {#activity-log}
 
 이름, 소유자, 유형, 편집한 사용자 및 시점을 포함하여 모든 작업 및 관련 세부 정보 목록을 확인합니다.

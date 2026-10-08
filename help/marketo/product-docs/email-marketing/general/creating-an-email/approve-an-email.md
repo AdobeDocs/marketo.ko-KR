@@ -4,16 +4,21 @@ description: 프로그램에서 사용할 수 있도록 이메일을 승인하�
 title: 이메일 승인
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/qPxju5ob4fktkyD-ISqCMhp9vEM43KdIDABTFubMTUM
+TQID: 'https://experienceleague.adobe.com/qPxju5ob4fktkyD-ISqCMhp9vEM43KdIDABTFubMTUM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 110
+source-wordcount: '110'
 ht-degree: 5%
-
 ---
-
 # 이메일 승인 {#approve-an-email}
 
 이메일은 초안 상태에서 시작됩니다. 일반적으로 승인할 때까지 시스템에서 사용할 수 없습니다. 이메일을 승인하는 방법에는 몇 가지가 있습니다.

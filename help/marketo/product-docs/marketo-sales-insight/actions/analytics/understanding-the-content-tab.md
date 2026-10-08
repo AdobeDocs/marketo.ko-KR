@@ -3,18 +3,20 @@ description: 영업 Insight 작업의 컨텐츠 탭과 템플릿 참여 지표�
 title: 콘텐츠 탭 이해
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/E8Ia47f-pco8X7HovNEfr6BudxALmzZYY-qBVpfSIvE
+TQID: 'https://experienceleague.adobe.com/E8Ia47f-pco8X7HovNEfr6BudxALmzZYY-qBVpfSIvE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 198
+source-wordcount: '198'
 ht-degree: 2%
-
 ---
-
 # [!UICONTROL Content] 탭 이해 {#understanding-the-content-tab}
 
 [!UICONTROL Content] 탭은 템플릿을 사용할 때 팀의 이메일 참여에 대한 모든 정보를 제공합니다. 중요하다고 생각되는 3개의 지표를 자동으로 버블링합니다.

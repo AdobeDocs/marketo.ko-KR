@@ -3,19 +3,22 @@ description: Sales Insight 작업과 Salesforce 간에 구독 취소를 동기�
 title: Salesforce와 구독 취소 동기화
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/ra-Nezm1zXZTZ5EZoCdCdYm0DRkCb5sZ0M5TKNt6nxM
+TQID: 'https://experienceleague.adobe.com/ra-Nezm1zXZTZ5EZoCdCdYm0DRkCb5sZ0M5TKNt6nxM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 471
+source-wordcount: '472'
 ht-degree: 2%
-
 ---
-
 # [!DNL Salesforce]과(와) 구독 취소 동기화 중 {#syncing-unsubscribes-with-salesforce}
 
 Salesforce의 옵트아웃 필드로 구독 취소를 동기화하려면 Salesforce 구독 취소 동기화를 사용할 수 있습니다.
@@ -32,7 +35,7 @@ Salesforce의 옵트아웃 필드로 구독 취소를 동기화하려면 Salesfo
 
 **동기화 구독 취소**
 
-구독 취소 동기화(아래 3단계)를 활성화하면 야간 동기화가 켜집니다. 동기화는 하루에 한 번 오후 8:00시 PST에 발생합니다. Marketo Sales의 모든 구독 취소 와 Salesforce의 옵트아웃 필드를 양방향으로 동기화합니다.
+구독 취소 동기화(아래 3단계)를 활성화하면 야간 동기화가 켜집니다. 동기화는 매일 오후 8시(PST) 경에 한 번 발생합니다. Marketo Sales의 모든 구독 취소 와 Salesforce의 옵트아웃 필드를 양방향으로 동기화합니다.
 
 >[!NOTE]
 >

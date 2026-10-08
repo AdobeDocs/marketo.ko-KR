@@ -4,20 +4,23 @@ description: 콘텐츠 권장 사항 표시줄에 대해 승인된 예측 콘텐
 title: 추천 바에 대한 예측 콘텐츠 편집
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/6hFpQPQm5uhrBPIJiEnCkQ1ngTKU1PyHKTCRpI60TW8
+TQID: 'https://experienceleague.adobe.com/6hFpQPQm5uhrBPIJiEnCkQ1ngTKU1PyHKTCRpI60TW8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 73
+source-wordcount: '73'
 ht-degree: 21%
-
 ---
-
 # 추천 바에 대한 예측 콘텐츠 편집 {#edit-predictive-content-for-the-recommendation-bar}
 
 다음은 추천 막대에 대한 예측 콘텐츠를 설정하는 방법입니다.

@@ -4,18 +4,21 @@ description: Salesforce Mobile(Salesforce1)의 흥미로운 순간에 대해 알
 title: Salesforce1의 즐거운 순간
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/3J4bWPzp-o4f-N-Lo9ip3xcstSl3SQ7GTPsDWT6q3po
+TQID: 'https://experienceleague.adobe.com/3J4bWPzp-o4f-N-Lo9ip3xcstSl3SQ7GTPsDWT6q3po'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 88
+source-wordcount: '88'
 ht-degree: 6%
-
 ---
-
 # [!DNL Salesforce1]의 즐거운 순간 {#interesting-moments-in-salesforce}
 
 [관심 있는 순간 사용](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)은(는) Marketo Sales Insight 앱을 통해 영업팀과 통신하는 데 중요한 요소입니다. 이제 [!DNL Salesforce1]에 대해 [!DNL Marketo Sales Insight]을(를) 사용하면 스마트폰에서도 동일한 작업을 수행할 수 있습니다.

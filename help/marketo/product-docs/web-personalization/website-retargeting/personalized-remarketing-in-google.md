@@ -4,21 +4,25 @@ description: Google의 개인화된 리마케팅을 포함하여 Marketo Engage�
 title: Google의 개인화된 리마케팅
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/qAvf6tO5v6j29k3wWf3irTqhwv6EDq0eHzijvOjGXls
+TQID: 'https://experienceleague.adobe.com/qAvf6tO5v6j29k3wWf3irTqhwv6EDq0eHzijvOjGXls'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 251
-ht-degree: 5%
-
+source-wordcount: '256'
+ht-degree: 7%
 ---
-
 # Google의 개인화된 리마케팅 {#personalized-remarketing-in-google}
 
 개인화된 리마케팅을 사용하면 Google Display Network를 통해 Google Analytics의 강력한 기능과 RTP 데이터를 사용하여 사용자와 다시 연결할 수 있습니다.
@@ -103,4 +107,4 @@ ht-degree: 5%
 >[!MORELIKETHIS]
 >
 >* [데이터를 사용하여  [!DNL Web Personalization] 다시 타깃팅](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->*  [!DNL Facebook][&#128279;](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)의 개인화된 리마케팅
+>*  [!DNL Facebook]&#x200B;[&#128279;](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)의 개인화된 리마케팅

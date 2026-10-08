@@ -4,21 +4,28 @@ description: 수신자 시간대를 사용하여 이메일 프로그램을 예�
 title: 수신자 시간대에 맞춰 이메일 프로그램 예약
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/1a1J6tugq8LVGm48lzdQ2YR7TSr8BbTQ1-oSXGUMtGo
+TQID: 'https://experienceleague.adobe.com/1a1J6tugq8LVGm48lzdQ2YR7TSr8BbTQ1-oSXGUMtGo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 807
+source-wordcount: '823'
 ht-degree: 1%
-
 ---
-
 # 수신자 시간대에 맞춰 이메일 프로그램 예약 {#schedule-email-programs-with-recipient-time-zone}
 
 수신자 시간대가 활성화된 동안 이메일 프로그램을 예약할 때 두 가지 가능한 시나리오가 있습니다.
@@ -42,15 +49,15 @@ ht-degree: 1%
 >
 >**정의**
 >
->* **[!UICONTROL Deliver the following day in the recipient's time zone]**: 전자 메일이 화요일 9:00am에 나가도록 예약되어 있는 경우 예약된 시간이 이미 지난 시간대에 거주하는 자격이 있는 사람은 *수요일* 9:00am에 전자 메일을 받게 됩니다.
+>* **[!UICONTROL Deliver the following day in the recipient's time zone]**: 전자 메일이 화요일 오전 9시에 나가도록 예약되어 있는 경우 예약된 시간이 이미 지난 시간대에 거주하는 자격이 있는 사람은 *수요일*&#x200B;에 오전 9시에 전자 메일을 받게 됩니다.
 >
->* **[!UICONTROL Deliver using the program's default set time]**: 전자 메일이 화요일 9:00am에 나가도록 예약되어 있는 경우 예약된 시간이 이미 지난 시간대에 거주하는 자격이 있는 사람이 *구독 시간대 설정에 따라*&#x200B;전자 메일을 받게 됩니다. 따라서 [구독 시간대 설정](/help/marketo/product-docs/administration/settings/change-time-zone.md)이 PDT America/Los Angeles로 설정된 경우 이러한 수신자는 화요일 9:00am PDT에 이메일을 계속 수신하게 됩니다(자체 시간대에 있는 모든 시간).
+>* **[!UICONTROL Deliver using the program's default set time]**: 전자 메일이 화요일 오전 9시에 나가도록 예약되어 있으면 예약된 시간이 이미 지난 시간대에 거주하는 자격이 있는 사람이 *구독 시간대 설정에 따라*&#x200B;전자 메일을 받게 됩니다. 따라서 [구독 시간대 설정](/help/marketo/product-docs/administration/settings/change-time-zone.md)이 PDT America/Los Angeles로 설정된 경우 이러한 수신자는 화요일 오전 9시(PDT 기준)에도 이메일을 수신하게 됩니다.
 
 >[!NOTE]
 >
 >Marketo에서 수신자의 시간대를 계산하는 방법에 대해 [자세히 알아보기](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone).
 
-이 시나리오를 좀 더 자세히 살펴보겠습니다. 샌프란시스코에 있는 경우 **9:00am** 전송을 위해 7:00am에 전자 메일을 예약합니다. 스마트 목록에는 다음 지역의 사람들이 있습니다.
+이 시나리오를 좀 더 자세히 살펴보겠습니다. 샌프란시스코에 있다고 가정하고 오전 7시에 **오전 9시** 전송을 위한 이메일을 예약하십시오. 스마트 목록에는 다음 지역의 사람들이 있습니다.
 
 * 샌프란시스코
 * 텍사스
@@ -59,11 +66,11 @@ ht-degree: 1%
 
 ![](assets/image2017-12-6-10-3a52-3a41.png)
 
-9:00am이(가) 이미 뉴욕과 이탈리아에서 통과했으므로 이 두 시간대의 적격 사용자는 **시간대 설정**&#x200B;을(를) 기반으로 이메일을 받습니다.
+뉴욕과 이탈리아에서는 오전 9시가 이미 지났습니다. 따라서 이 두 시간대의 자격이 있는 사람이 **표준 시간대 설정**&#x200B;을 기반으로 이메일을 받습니다.
 
-* **[!UICONTROL Deliver the following day in the recipient's time zone]:** 수요일 9:00am(각 시간대: **또는**)
+* **[!UICONTROL Deliver the following day in the recipient's time zone]:** 수요일 오전 9시(해당 시간대), **OR**
 
-* **[!UICONTROL Deliver using the program's default set time]**: 화요일 9:00am PDT(뉴욕 - 12:00pm EDT 및 이탈리아 - 6:00pm CET).
+* **[!UICONTROL Deliver using the program's default set time]**: 화요일 오전 9시(태평양 표준시)(뉴욕 - 오후 12시(EDT) 및 이탈리아 - 오후 6시(CET))
 
 프로그램을 승인하면 15분 내에 시작됩니다.
 
@@ -75,11 +82,11 @@ ht-degree: 1%
 
 ## 시나리오 2: 25시간 이상 {#scenario-more-than-hours}
 
-이 두 번째 시나리오에서는 **[!UICONTROL Recipient Time Zone]**&#x200B;이(가) 활성화된 이메일 프로그램을 승인하며 향후 25시간 이상 예약된 배달 시간을 승인합니다. 이 경우 프로그램은 세계의 **가장 이른** 시간대(UTC + 14:00)에 예약된 시간에 실행됩니다. 전 세계 모든 시간대에 스마트 목록을 사용할 수 있는 사람이 있을 수 있으므로 가장 빠른 시간대에 시작하면 각 시간대의 모든 수신자에게 예약된 날짜/시간에 이메일을 전송할 수 있습니다.
+이 두 번째 시나리오에서는 **[!UICONTROL Recipient Time Zone]**&#x200B;이(가) 활성화된 이메일 프로그램을 승인하며 향후 25시간 이상 예약된 배달 시간을 승인합니다. 이 경우 프로그램은 세계의 **가장 이른** 시간대에 예약된 시간에 실행됩니다(UTC + 14:00). 전 세계 모든 시간대에 스마트 목록을 사용할 수 있는 사람이 있을 수 있으므로 가장 빠른 시간대에 시작하면 각 시간대의 모든 수신자에게 예약된 날짜/시간에 이메일을 전송할 수 있습니다.
 
 **헤드 시작**
 
-이제 [[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)이(가) **[!UICONTROL Recipient Time Zone]**&#x200B;과(와) 함께 작동하는 방식에 대해 설명하겠습니다. 기존의 헤드 스타트 기능을 사용하려면 최소 12시간 전에 프로그램을 예약해야 합니다. 수신자 시간대는 어떤 의미입니까? 수신자 시간대가 활성화되면 가장 이른 시간대(UTC +14:00)의 예약된 시간에 이메일 프로그램 실행을 시작합니다. 따라서 **시작 및 받는 사람 시간대**&#x200B;를 모두 사용하려면 전자 메일 프로그램을 UTC +14:00.**에서 예약된 시간보다 최소 12시간 전에**&#x200B;예약해야 합니다.
+이제 [[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)이(가) **[!UICONTROL Recipient Time Zone]**&#x200B;과(와) 함께 작동하는 방식에 대해 설명하겠습니다. 기존의 헤드 스타트 기능을 사용하려면 최소 12시간 전에 프로그램을 예약해야 합니다. 수신자 시간대는 어떤 의미입니까? 수신자 시간대가 활성화되면 가장 이른 시간대의 예약된 시간에 이메일 프로그램을 시작합니다(UTC +14:00). 따라서 **시작 및 받는 사람 시간대**&#x200B;를 모두 사용하려면 전자 메일 프로그램을 **예정된 시간보다 최소 12시간(UTC +14:00.**) 전에 예약해야 합니다.
 
 즉, 미국/로스앤젤레스에 있고 헤드 시작 및 수신자 시간대를 모두 활성화하려는 경우 **34시간** 프로그램을 미리 예약해야 합니다. 어떻게 우리가 이 번호를 알게 됐죠?
 
@@ -91,7 +98,7 @@ ht-degree: 1%
 
 * **배달 시간이 *25시간 이내*인 경우**&#x200B;에 프로그램이 15분 이내에 시작됩니다. 이미 예약된 시간을 경과한 수신자는 사용자가 선택한 표준 시간대 설정을 기반으로 이메일을 수신하게 됩니다.
 * **배달 시간이 *앞으로 25시간 이상*인 경우** 가장 빠른 표준 시간대(UTC +14:00)의 예약된 시간에 프로그램이 실행됩니다.
-* **시작 시점**&#x200B;에서 가장 빠른 표준 시간대(UTC +14:00)의 예약된 시간보다 12시간 전에 프로그램이 처리를 시작합니다.
+* **시작 시점**&#x200B;에서 가장 빠른 표준 시간대(UTC +14:00)에 예약된 시간보다 12시간 전에 프로그램이 처리를 시작합니다.
 
 >[!CAUTION]
 >

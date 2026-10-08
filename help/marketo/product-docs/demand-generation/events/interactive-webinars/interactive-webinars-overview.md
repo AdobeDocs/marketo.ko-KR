@@ -3,23 +3,29 @@ description: 라이브 및 온디맨드 참여를 위한 Marketo의 대화형 �
 title: 대화형 웨비나 개요
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-TQID: https://experienceleague.adobe.com/dKuuIF7FSqYxAY6eYFrXA11f6wdpfIqH7maLniM01JY
+TQID: 'https://experienceleague.adobe.com/dKuuIF7FSqYxAY6eYFrXA11f6wdpfIqH7maLniM01JY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Event programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 555
+source-wordcount: '555'
 ht-degree: 87%
-
 ---
-
 # 대화형 웨비나 개요 {#interactive-webinars-overview}
 
 대화형 웨비나 기능은 Marketo Engage 내에 내장된 웨비나 플랫폼입니다. 추가 도구 또는 통합은 필요하지 않습니다.
@@ -56,7 +62,7 @@ ht-degree: 87%
 
 **Adobe Connect에서 제공하는 웨비나를 Launchpoint 이벤트 프로그램과 같은 대화형 웨비나 이벤트 프로그램에 다시 연결해야 합니까?**
 
-아니요. 대화형 웨비나 이벤트 프로그램을 사용하여 연결할 수 있습니다.
+아니요. 대화형 웨비나 이벤트 프로그램이 연결을 대신 수행합니다.
 
 **리드 중 일부에 &quot;등록됨&quot; 대신 &quot;등록 오류&quot; 상태가 있는 이유는 무엇입니까?**
 

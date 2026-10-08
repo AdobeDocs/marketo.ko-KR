@@ -7,25 +7,34 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-TQID: https://experienceleague.adobe.com/SCmyn9QUECmvQgVltKknlvLuvL15Tz3LYorBFYB1hqI
+TQID: 'https://experienceleague.adobe.com/SCmyn9QUECmvQgVltKknlvLuvL15Tz3LYorBFYB1hqI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: fdc003d7aed05d85687427d9455bb806eb33d0b2
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1398
+source-wordcount: '1398'
 ht-degree: 0%
-
 ---
-
 # 사용자 정의 가능한 조각 {#customizable-fragments}
 
 이메일 또는 이메일 템플릿에서 조각을 사용하는 경우 상속으로 인해 조각이 기본적으로 잠깁니다. 즉, 조각에 대한 모든 변경 사항은 이 조각이 사용되는 모든 에셋에 자동으로 전파됩니다. 사용자 지정 가능한 조각을 사용하면 조각을 이메일 또는 이메일 템플릿에 추가할 때 조각 내의 특정 필드를 편집 가능한 것으로 정의할 수 있습니다. 예를 들어 배너, 일부 텍스트 및 단추가 있는 조각이 있는 경우 이미지 또는 단추 대상 URL과 같은 특정 필드를 편집 가능한 것으로 지정할 수 있습니다.

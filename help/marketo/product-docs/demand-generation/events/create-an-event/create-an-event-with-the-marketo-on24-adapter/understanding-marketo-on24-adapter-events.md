@@ -4,16 +4,18 @@ description: Marketo ON24 어댑터와 ON24 웨비나를 Marketo에 연결하는
 title: Marketo On24 어댑터 이벤트 이해
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-TQID: https://experienceleague.adobe.com/LtTKin68LiI09y1m2hu1BIhhSE4d03-HkGHCfsDNxE0
+TQID: 'https://experienceleague.adobe.com/LtTKin68LiI09y1m2hu1BIhhSE4d03-HkGHCfsDNxE0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 145
+source-wordcount: '145'
 ht-degree: 6%
-
 ---
-
 # Marketo On24 어댑터 이벤트 이해 {#understanding-marketo-on-adapter-events}
 
 ON24 웨비나가 Marketo에 연결되어 있지 않으면 이미 Marketo에 있는 참석자 정보를 가져와서 ON24에 입력해야 합니다. 웨비나 후에 이미 ON24에 있는 출석 정보를 가져와서 다시 Marketo에 입력해야 합니다.

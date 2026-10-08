@@ -4,21 +4,25 @@ description: Marketo ON24 어댑터를 사용하여 이벤트를 만드는 방�
 title: Marketo ON24 어댑터로 이벤트 만들기
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-TQID: https://experienceleague.adobe.com/LlMV9lfVxqvMh0E-6K3aStBiqOERGIKJOYSyJdaBvFw
+TQID: 'https://experienceleague.adobe.com/LlMV9lfVxqvMh0E-6K3aStBiqOERGIKJOYSyJdaBvFw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 303
+source-wordcount: '303'
 ht-degree: 22%
-
 ---
-
 # Marketo ON24 어댑터로 이벤트 만들기 {#create-an-event-with-the-marketo-on-adapter}
 
 Marketo에서 이벤트를 만드는 데 권장되는 구성 요소 및 시퀀스에 익숙해야 합니다. 다음 Marketo 개념에 대한 작업 지식도 있어야 합니다.
@@ -48,7 +52,7 @@ Marketo ON24 통합을 사용하려면 다음이 필요합니다.
 다음 단계에 따라 Marketo On24 어댑터를 사용하여 이벤트를 만듭니다.
 
 1. [ON24에서 웨비나 이벤트 만들기](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md){target="_blank"}
-1. [이벤트 설정 구성 및 웨비나와 Marketo 동기화](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}
+1. [이벤트 설정 구성 및 Marketo를 웨비나와 동기화](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}
 1. [하위 캠페인 및 로컬 자산 만들기](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}
 1. [ON24 이벤트 통합 테스트](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}
 1. [ON24 이벤트 통합 예시](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}

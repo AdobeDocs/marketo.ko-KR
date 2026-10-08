@@ -4,18 +4,23 @@ description: Marketo의 랜딩 페이지 테스트 그룹에 대해 알아봅니
 title: 랜딩 페이지 테스트 그룹
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/8RZuj0vLcsc5JowokHWY0qI55I-3vd6EkffgnsDNta4
+TQID: 'https://experienceleague.adobe.com/8RZuj0vLcsc5JowokHWY0qI55I-3vd6EkffgnsDNta4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 184
+source-wordcount: '184'
 ht-degree: 7%
-
 ---
-
 # 랜딩 페이지 테스트 그룹 {#landing-page-test-groups}
 
 Marketo은 테스트 그룹 내에서 테스트된 각 페이지의 페이지 보기 수 및 양식 완료 수를 추적합니다. 테스트 그룹 결과를 사용하여 가장 매력적인 랜딩 페이지를 결정할 수 있습니다. 테스트 그룹을 만드는 방법은 다음과 같습니다.

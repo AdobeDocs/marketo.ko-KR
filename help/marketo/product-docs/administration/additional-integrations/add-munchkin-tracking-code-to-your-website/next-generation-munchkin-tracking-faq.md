@@ -5,26 +5,34 @@ title: 다음 세대 [!DNL Munchkin] 추적 FAQ
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
-TQID: https://experienceleague.adobe.com/2kPRUe33THDYoIiP-yUDByqcJz5GPHoBnfDzRgwApNk
+TQID: 'https://experienceleague.adobe.com/2kPRUe33THDYoIiP-yUDByqcJz5GPHoBnfDzRgwApNk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 1c1a93b2-f024-5627-9905-6faf6fcc22be
+    internal-label: Munchkin Tracking Code
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 705
+source-wordcount: '710'
 ht-degree: 0%
-
 ---
-
 # 다음 세대 [!DNL Munchkin] 추적 FAQ {#next-generation-munchkin-tracking-faq}
 
 Marketo이 차세대 웹 추적 기술을 단계적으로 출시한다.
@@ -57,7 +65,9 @@ Marketo은 익명의 사람들이 스마트 캠페인과 상호 작용하는 방
 
 >[!NOTE]
 >
->**트리거**: 방문 웹 페이지, 웹 페이지가 가격 페이지임&#x200B;>**흐름**: 변경 점수 +10 및 관심 있는 순간&#x200B;>**웹**: 가격 페이지를 조회함
+>**트리거**: 방문 웹 페이지, 웹 페이지가 가격 페이지임
+>**흐름**: 변경 점수 +10 및 관심 있는 순간
+>**웹**: 가격 페이지를 조회함
 >
 >[!DNL Munchkin] V2를 사용하면 익명의 사용자가 가격 책정 페이지를 방문하는 경우 캠페인을 바로 시작하지 않습니다. 익명의 사용자가 알려지면 Marketo에서 해당 사용자에 대해 이 캠페인을 실행합니다. 고객은 다음을 수행합니다.
 >

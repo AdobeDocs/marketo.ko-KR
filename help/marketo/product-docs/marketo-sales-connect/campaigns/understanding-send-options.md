@@ -4,16 +4,18 @@ description: Sales Connect에서 캠페인 이메일 단계에 대한 전송 옵
 title: 전송 옵션 이해
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/XmaPgOoq2mNfYveMwrVxL3SnTkTU-gbl5jIORKfOuZE
+TQID: 'https://experienceleague.adobe.com/XmaPgOoq2mNfYveMwrVxL3SnTkTU-gbl5jIORKfOuZE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 617
+source-wordcount: '617'
 ht-degree: 0%
-
 ---
-
 # 전송 옵션 이해 {#understanding-send-options}
 
 캠페인을 만들 때 [!DNL Sales Connect]에서 이메일 단계를 만드는 방법에 대한 몇 가지 옵션이 있습니다. 또한 Campaign에서 이메일이 어디에 포함되는지에 따라 옵션도 달라집니다.
@@ -36,8 +38,8 @@ ht-degree: 0%
 * 이 옵션을 사용하면 편한 시간에 보낼 수 있는 [!UICONTROL Email Task]이(가) 만들어지고 [!DNL Salesforce]과(와) 동기화됩니다.
 * 이 옵션을 선택하면 Campaign을 시작할 때 명령 센터 및 라이브 피드에 해당 작업을 큐에 추가합니다. 그런 다음 각 이메일이 발송되기 전에 개인화하고 전송(또는 예약)할 수 있습니다.
 
-   * 웹 애플리케이션에서 이 작업을 열면 연락처의 이메일 주소, 이메일의 제목 줄 및 선택한 템플릿이 있는 작성 창이 열립니다.
-   * [!DNL Gmail] 또는 [!DNL Outlook]에서 이 작업을 열면 기본 작성 창이 열리고 연락처 전자 메일 주소, 전자 메일의 제목 줄 및 선택한 템플릿이 동적으로 채워집니다.
+  * 웹 애플리케이션에서 이 작업을 열면 연락처의 이메일 주소, 이메일의 제목 줄 및 선택한 템플릿이 있는 작성 창이 열립니다.
+  * [!DNL Gmail] 또는 [!DNL Outlook]에서 이 작업을 열면 기본 작성 창이 열리고 연락처 전자 메일 주소, 전자 메일의 제목 줄 및 선택한 템플릿이 동적으로 채워집니다.
 
 Campaign의 이후 며칠/단계에서는 다음 옵션을 사용할 수 있습니다.
 
@@ -60,8 +62,8 @@ Campaign의 이후 며칠/단계에서는 다음 옵션을 사용할 수 있습�
 * 이 옵션을 사용하면 편한 시간에 보낼 수 있는 [!UICONTROL Email Task]이(가) 만들어지고 [!DNL Salesforce]과(와) 동기화됩니다.
 * 이 옵션을 선택하면 캠페인을 시작할 때 Tout이 이러한 작업을 명령 센터 및 라이브 피드에 자동으로 큐에 추가합니다. 그런 다음 각 이메일이 발송되기 전에 개인화하고 전송(또는 예약)할 수 있습니다.
 
-   * 웹 애플리케이션에서 이 작업을 열면 연락처의 이메일 주소, 이메일의 제목 줄 및 선택한 템플릿이 있는 작성 창이 열립니다.
-   * [!DNL Gmail] 또는 [!DNL Outlook]에서 이 작업을 열면 기본 작성 창이 열리고 연락처 전자 메일 주소, 전자 메일의 제목 줄 및 선택한 템플릿이 동적으로 채워집니다.
+  * 웹 애플리케이션에서 이 작업을 열면 연락처의 이메일 주소, 이메일의 제목 줄 및 선택한 템플릿이 있는 작성 창이 열립니다.
+  * [!DNL Gmail] 또는 [!DNL Outlook]에서 이 작업을 열면 기본 작성 창이 열리고 연락처 전자 메일 주소, 전자 메일의 제목 줄 및 선택한 템플릿이 동적으로 채워집니다.
 
 **이 전자 메일을 이전 전자 메일로 스레드**
 

@@ -1,40 +1,68 @@
 ---
-title: "2018"
+title: '2018'
 description: 2018 - Marketo 문서 - 제품 설명서
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+    internal-label: Default programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b4dd41a7-ccf8-4e9d-918e-acaab534a307
+    internal-label: Data quality
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1860
+source-wordcount: '1860'
 ht-degree: 0%
-
 ---
-
 # 2018
 
 ## 2018년 겨울 {#winter}
@@ -231,12 +259,12 @@ Marketo UI에서 아무런 조치를 취하지 않고 정적 목록을 생성, �
 
 * **확장된 지원:[!DNL Microsoft Office]**
 
-   * [!DNL Outlook]을(를) 게재 채널로 사용: 이제 마케터는 전자 메일 참여에 [!DNL Outlook]을(를) 활용하여 게재 가능성 및 응답 추적을 개선할 수 있습니다.
-   * [!DNL Office] 365 전자 메일 지원 개선 사항: Marketo [!DNL Sales Engage]은(는) Mac의 경우 [!DNL Outlook]에서 직접 사용할 수 있고, [!DNL Windows]의 경우 [!DNL Outlook]에서 사용할 수 있으며, [!DNL Office] 365 전자 메일 클라이언트의 경우 [!DNL Outlook] 웹 응용 프로그램에서 사용할 수 있으므로 모든 [!DNL Office] 사용자가 Marketo [!DNL Sales Engage]을(를) 쉽게 사용할 수 있습니다.
+  * [!DNL Outlook]을(를) 게재 채널로 사용: 이제 마케터는 전자 메일 참여에 [!DNL Outlook]을(를) 활용하여 게재 가능성 및 응답 추적을 개선할 수 있습니다.
+  * [!DNL Office] 365 전자 메일 지원 개선 사항: Marketo [!DNL Sales Engage]은(는) Mac의 경우 [!DNL Outlook]에서 직접 사용할 수 있고, [!DNL Windows]의 경우 [!DNL Outlook]에서 사용할 수 있으며, [!DNL Office] 365 전자 메일 클라이언트의 경우 [!DNL Outlook] 웹 응용 프로그램에서 사용할 수 있으므로 모든 [!DNL Office] 사용자가 Marketo [!DNL Sales Engage]을(를) 쉽게 사용할 수 있습니다.
 
 * **향상된 관리자 및 사용자 로그인 경험**
 
-   * 향상된 관리 워크플로: 관리자는 일반 관리자 설정을 통해 팀 기능을 활성화할 때 더 효율적인 워크플로를 찾을 수 있습니다.
+  * 향상된 관리 워크플로: 관리자는 일반 관리자 설정을 통해 팀 기능을 활성화할 때 더 효율적인 워크플로를 찾을 수 있습니다.
 
 ## Marketo [!DNL Sky] {#marketo-sky}
 
@@ -251,7 +279,7 @@ Marketo UI에서 아무런 조치를 취하지 않고 정적 목록을 생성, �
 
 * **마케팅 활동 홈 페이지**: 마케팅 활동 홈 페이지에서 바로 일반 기능에 빠르게 액세스할 수 있습니다.
 
-   * 특정 작업(예: 새 프로그램 및 스마트 캠페인 시작)을 수행하고 오늘 실행하도록 예약된 프로그램 및 캠페인, 최근에 업데이트된 프로그램 및 에셋, 총 활성 트리거 캠페인 수 등 현재 프로그램에 대한 중요한 정보를 확인합니다.
+  * 특정 작업(예: 새 프로그램 및 스마트 캠페인 시작)을 수행하고 오늘 실행하도록 예약된 프로그램 및 캠페인, 최근에 업데이트된 프로그램 및 에셋, 총 활성 트리거 캠페인 수 등 현재 프로그램에 대한 중요한 정보를 확인합니다.
 
 * **Design Studio 업데이트**: 더 빠르고 생산성을 높일 수 있도록 Design Studio 환경을 다시 구상했습니다.
 * Design Studio 홈 페이지: 새 에셋을 만들고, 이미지와 파일을 드래그 앤 드롭하고, 기존 에셋을 모두 관리합니다.
@@ -266,24 +294,24 @@ Marketo UI에서 아무런 조치를 취하지 않고 정적 목록을 생성, �
 
 * **CRM에 대한 필수 종속성 감소**
 
-   * [!DNL Bizible] 설정 내에서 Campaign 규칙을 정의하는 새로운 옵션을 사용하면 고객이 더 이상 CRM 내에 패키지 또는 솔루션을 설치하여 [!DNL Bizible]을(를) 시작할 필요가 없습니다. 이제 계정을 설정하고, 광고 및 CRM 연결을 설정하고, 표준 설정 및 구성을 거치는 것만큼 쉽습니다. 이를 통해 영업 엔지니어링 팀의 온보딩 시간이 크게 향상될 것으로 기대합니다.
+  * [!DNL Bizible] 설정 내에서 Campaign 규칙을 정의하는 새로운 옵션을 사용하면 고객이 더 이상 CRM 내에 패키지 또는 솔루션을 설치하여 [!DNL Bizible]을(를) 시작할 필요가 없습니다. 이제 계정을 설정하고, 광고 및 CRM 연결을 설정하고, 표준 설정 및 구성을 거치는 것만큼 쉽습니다. 이를 통해 영업 엔지니어링 팀의 온보딩 시간이 크게 향상될 것으로 기대합니다.
 
 * **GA 검색**
 
-   * Discover는 Beta 버전이 아니며 새로운 고객에게 출시되기 시작했습니다. 또한 현재 고객 기반을 [!DNL Bizible] 측정에서 [!DNL Bizible] 검색으로 마이그레이션하고 있습니다. Beta에서 GA로 전환하면서 보다 효율적이고 복잡한 쿼리를 허용하도록 데이터베이스 스키마를 업데이트했습니다.
+  * Discover는 Beta 버전이 아니며 새로운 고객에게 출시되기 시작했습니다. 또한 현재 고객 기반을 [!DNL Bizible] 측정에서 [!DNL Bizible] 검색으로 마이그레이션하고 있습니다. Beta에서 GA로 전환하면서 보다 효율적이고 복잡한 쿼리를 허용하도록 데이터베이스 스키마를 업데이트했습니다.
 
 * **Single Sign-On**
 
-   * 고객은 이제 회사 ID 공급자 및 자격 증명을 사용하여 [!DNL Bizible] 웹 응용 프로그램에 로그인할 수 있으며, 이는 엔터프라이즈 보안 요구 사항을 준수합니다.
+  * 고객은 이제 회사 ID 공급자 및 자격 증명을 사용하여 [!DNL Bizible] 웹 응용 프로그램에 로그인할 수 있으며, 이는 엔터프라이즈 보안 요구 사항을 준수합니다.
 
 **[Marketo [!UICONTROL Performance Insights] 개선 사항](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **유용성 개선 사항**
 
-   * 획득 날짜 누락 경고: 첫 번째 및 다중 접점 속성 통찰력을 가장 정확하게 캡처하기 위해 마케터는 연락처 레코드에서 획득 날짜가 누락되면 알림을 받아 문제를 찾고 수정할 수 있습니다.
-   * 트렌드 차트 시간 범위 개선: 이제 사용자는 24개월로 돌아가 프로그램 성능을 비교할 수 있습니다.
-   * 크기에 맞게 조정 설정: 기본 대시보드 막대 차트는 시간이 지남에 따라 프로그램 성능을 비교하는 데 도움이 되도록 쉽게 읽을 수 있습니다.
-   * 경고 아이콘: 새 경고 아이콘은 데이터 품질 문제 및 설정 알림과 관련된 모든 활성 경고를 표시합니다.
+  * 획득 날짜 누락 경고: 첫 번째 및 다중 접점 속성 통찰력을 가장 정확하게 캡처하기 위해 마케터는 연락처 레코드에서 획득 날짜가 누락되면 알림을 받아 문제를 찾고 수정할 수 있습니다.
+  * 트렌드 차트 시간 범위 개선: 이제 사용자는 24개월로 돌아가 프로그램 성능을 비교할 수 있습니다.
+  * 크기에 맞게 조정 설정: 기본 대시보드 막대 차트는 시간이 지남에 따라 프로그램 성능을 비교하는 데 도움이 되도록 쉽게 읽을 수 있습니다.
+  * 경고 아이콘: 새 경고 아이콘은 데이터 품질 문제 및 설정 알림과 관련된 모든 활성 경고를 표시합니다.
 
 * **활동 날짜별 참여**: 사용자는 활동 날짜 또는 비용 기간별로 참여 지표를 보도록 선택할 수 있습니다.
 * **ABM 명명된 계정 필터**: 특정 명명된 계정별로 파이프라인 및 매출 대시보드를 필터링합니다.

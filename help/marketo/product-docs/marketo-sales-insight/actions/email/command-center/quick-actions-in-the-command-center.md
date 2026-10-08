@@ -3,16 +3,18 @@ description: 영업 이메일 및 작업에 대한 명령 센터의 빠른 작�
 title: Command Center의 빠른 작업
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ
+TQID: 'https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 309
-ht-degree: 4%
-
+source-wordcount: '309'
+ht-degree: 3%
 ---
-
 # [!UICONTROL Command Center]의 빠른 작업 {#quick-actions-in-the-command-center}
 
 이메일 그리드에는 두 가지 유형의 빠른 작업 열이 있습니다. 이메일에 대한 작업을 수행할 수 있는 이메일 작업 및 몇 번의 빠른 클릭으로 참여 작업을 수행할 수 있는 후속 작업

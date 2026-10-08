@@ -4,16 +4,18 @@ description: 예측 콘텐츠에서 카테고리를 설정하여 예측 결과�
 title: 카테고리 설정
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/cb3IokK14sZ9aRjm6FcQFPrSk3X9y3l-M0v4130EcQo
+TQID: 'https://experienceleague.adobe.com/cb3IokK14sZ9aRjm6FcQFPrSk3X9y3l-M0v4130EcQo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 161
+source-wordcount: '161'
 ht-degree: 5%
-
 ---
-
 # 카테고리 설정 {#set-up-categories}
 
 예측 콘텐츠에서 카테고리를 만들어 예측 결과를 웹 또는 이메일에 그룹화합니다. 예를 들어 블로그나 특정 언어의 콘텐츠로만 작업할 수 있습니다. 또한 페이지 보기를 검색하고 필터링할 수 있습니다.  쉽게 참조할 수 있도록 [!UICONTROL All Content] 및 [!UICONTROL Predictive Content] 페이지에 범주가 표시됩니다.

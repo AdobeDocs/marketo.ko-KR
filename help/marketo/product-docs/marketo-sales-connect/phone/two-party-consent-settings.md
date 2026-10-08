@@ -4,16 +4,18 @@ description: Sales Connect 통화 녹화에 대한 자사 동의 설정에 대�
 title: 양 당사자 동의 설정
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/P-X0nE0gNNWSwQj-tErRy9mMKsOBhqB3J0N3268MncI
+TQID: 'https://experienceleague.adobe.com/P-X0nE0gNNWSwQj-tErRy9mMKsOBhqB3J0N3268MncI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 153
+source-wordcount: '153'
 ht-degree: 7%
-
 ---
-
 # 양 당사자 동의 설정 {#two-party-consent-settings}
 
 통화 기록 시 미국 양당 동의법을 준수하기 위해 관리자는 사전 녹음된 메시지 중 통화 시작 시 재생할 수 있도록 선택할 수 있습니다.

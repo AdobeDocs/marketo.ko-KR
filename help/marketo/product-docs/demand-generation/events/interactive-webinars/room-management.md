@@ -3,21 +3,25 @@ description: 대화형 웨비나를 위한 룸 관리에 대해 알아봅니다.
 title: 룸 관리
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-TQID: https://experienceleague.adobe.com/pBehrFodQtNyG3QuXVWPlcZghrpxdsYd2b9O5jixDRk
+TQID: 'https://experienceleague.adobe.com/pBehrFodQtNyG3QuXVWPlcZghrpxdsYd2b9O5jixDRk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 790
+source-wordcount: '790'
 ht-degree: 0%
-
 ---
-
 # 룸 관리 {#room-management}
 
 Adobe Connect에서 제공하는 인터랙티브 웨비나 룸은 매력적인 공동 작업 온라인 이벤트를 제공하도록 설계되었습니다. 이러한 웨비나는 웨비나 중에 생성되어 사용되는 컨텐츠 및 녹화본을 저장합니다. 룸을 만들 수 있는 권한을 가진 구성원으로서 중앙 위치에서 룸에 액세스하고 관리할 수 있습니다.

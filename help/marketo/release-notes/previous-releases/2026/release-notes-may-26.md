@@ -2,13 +2,20 @@
 description: 릴리스 노트 - 2026년 5월 - Marketo 문서 - 제품 설명서
 title: 릴리스 노트 - 2026년 5월
 feature: Release Information
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '805'
 ht-degree: 14%
-
 ---
-
 # 릴리스 노트: 2026년 5월 {#release-notes-may-26}
 
 아래에는 2026년 5월 릴리스에 포함된 모든 기능이 있습니다. 기능 사용 가능 여부는 Adobe Marketo Engage 에디션에서 확인하십시오.

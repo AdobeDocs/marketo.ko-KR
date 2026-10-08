@@ -6,26 +6,36 @@ role: User
 level: Beginner, Intermediate
 keywords: 이메일, 디자인, 접근성
 exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
-TQID: https://experienceleague.adobe.com/kqwxM0mBZnchTEISiowpQOy7AZlKmmryK0GGkENiFdI
+TQID: 'https://experienceleague.adobe.com/kqwxM0mBZnchTEISiowpQOy7AZlKmmryK0GGkENiFdI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1423
+source-wordcount: '1425'
 ht-degree: 1%
-
 ---
-
 # 액세스 가능한 콘텐츠 디자인 {#accessible-content}
 
 [유럽 접근성 법률](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882){target="_blank"}은(는) 회원국 간에 국가 규칙이 서로 달라 발생하는 장벽을 제거하여 액세스 가능한 제품 및 서비스의 내부 시장을 개선하기 위해 고안된 지침입니다.
@@ -59,8 +69,8 @@ Marketo Engage 이메일 Designer을 사용하면 WCAG(Web Content Accessibility
 
 **색상 대비**
 
-* 텍스트와 배경 사이의 대비 비율을 최소 4.5:1 유지합니다.
-* 큰 텍스트(≥24px 또는 굵은 18px)의 경우, 최소 3:1 대비를 확인합니다.
+* 텍스트와 배경 사이의 대비 비율을 최소 4.5:1로 유지합니다.
+* 큰 텍스트(≥24px 또는 굵은 18px)의 경우, 최소 3:1 대비를 보장합니다.
 * 흰색 배경에 밝은 회색이나 파스텔 텍스트를 사용하지 마십시오.
 * 의미를 전달하기 위해 색에만 의존하지 마십시오. 밑줄, 아이콘 등을 사용합니다.
 

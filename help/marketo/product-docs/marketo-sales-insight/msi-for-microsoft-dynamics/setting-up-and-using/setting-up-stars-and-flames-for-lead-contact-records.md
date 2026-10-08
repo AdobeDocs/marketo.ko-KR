@@ -4,20 +4,23 @@ description: Dynamics에서 리드 및 연락처 레코드에 대한 별과 불�
 title: 리드/연락처 레코드에 대한 Stars 및 Flames 설정
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/4-YHMNYzPvbzledbjd4Q6xfBhkxJfUDgAt5W99EzksI
+TQID: 'https://experienceleague.adobe.com/4-YHMNYzPvbzledbjd4Q6xfBhkxJfUDgAt5W99EzksI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 171
+source-wordcount: '171'
 ht-degree: 10%
-
 ---
-
 # 리드/연락처 레코드에 대한 Stars 및 Flames 설정 {#setting-up-stars-and-flames-for-lead-contact-records}
 
 리드/연락처 레코드의 별 및 불꽃은 [!UICONTROL Lead Score], [!UICONTROL Relative Score], [!UICONTROL Urgency] 및 [!UICONTROL Priority] 필드에 따라 달라집니다. 이러한 필드는 MSI 솔루션을 설치 및 구성한 후 기본적으로 사용할 수 있습니다. Stars 및 Flames가 없는 경우 이전 설정/사용자 지정으로 별이 제거될 수 있습니다. 아래 단계에 따라 추가하십시오.

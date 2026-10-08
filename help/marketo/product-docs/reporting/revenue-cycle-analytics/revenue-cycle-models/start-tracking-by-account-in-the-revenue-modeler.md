@@ -4,13 +4,19 @@ description: 계정별 시작 추적을 포함하여 Marketo Engage의 수익 �
 title: Revenue Modeler에서 계정별 추적 시작
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 6%
-
 ---
-
 # Revenue Modeler에서 계정별 추적 시작 {#start-tracking-by-account-in-the-revenue-modeler}
 
 매출 단계 Modeler 및 [!UICONTROL Revenue Explorer]을(를) 사용하면 모델을 통해 진행되는 리드 및 계정의 성능에 insight을 활용할 수 있습니다.

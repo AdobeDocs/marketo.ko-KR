@@ -3,16 +3,18 @@ description: 대화형 웨비나의 GenAI 기능에 대해 알아봅니다. AI�
 title: GenAI의 특징
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-TQID: https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE
+TQID: 'https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 678
+source-wordcount: '678'
 ht-degree: 0%
-
 ---
-
 # GenAI의 특징 {#gen-ai-features}
 
 기록된 웨비나에 대한 챕터 및 요약을 자동으로 생성하므로 대상자가 쉽게 액세스하고 탐색할 수 있습니다.
@@ -65,9 +67,9 @@ Adobe GenAI 약관에 동의한 후 다음 단계는 개별 사용자에 대해 
 
    * 두 개의 연속 챕터를 선택하고 **[!UICONTROL Merge]**&#x200B;을(를) 클릭하여 병합합니다.
 
-      * AI는 선택한 두 개의 챕터로 구성된 복합 챕터를 생성합니다
+     * AI는 선택한 두 개의 챕터로 구성된 복합 챕터를 생성합니다
 
-      * 여러 챕터를 병합하려면 한 번에 두 개의 작업을 수행해야 합니다
+     * 여러 챕터를 병합하려면 한 번에 두 개의 작업을 수행해야 합니다
 
      ![](assets/gen-ai-features-3.png){width="800" zoomable="yes"}
 

@@ -3,16 +3,18 @@ description: 영업 이메일 및 작업 관리를 위한 관리 센터에 대�
 title: Command Center 개요
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Qyv0jDwHTbvZV3dG2ywoaFkEOunuhJN2yBbWRbdp1HI
+TQID: 'https://experienceleague.adobe.com/Qyv0jDwHTbvZV3dG2ywoaFkEOunuhJN2yBbWRbdp1HI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 497
+source-wordcount: '497'
 ht-degree: 3%
-
 ---
-
 # Command Center 개요 {#command-center-overview}
 
 [!UICONTROL Command Center]은(는) 다음 단계를 이해하는 데 도움이 되는 통합된 단일 보기입니다. 문제가 발생하지 않도록 주의하십시오.

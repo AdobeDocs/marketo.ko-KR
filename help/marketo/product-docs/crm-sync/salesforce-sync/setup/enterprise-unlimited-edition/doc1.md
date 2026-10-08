@@ -2,15 +2,22 @@
 description: Salesforce Enterprise 또는 Unlimited Edition에 Marketo 필드를 추가하는 방법을 알아봅니다. 리드 및 연락처 개체에 점수, 획득 프로그램 및 획득 날짜를 만듭니다.
 title: 1/3단계 - Salesforce에 Marketo 필드 추가(Enterprise/Unlimited)
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Salesforce Integration
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '670'
 ht-degree: 1%
-
 ---
-
 # 3단계 중 1단계: Salesforce에 Marketo 필드 추가 (엔터프라이즈/무제한) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
@@ -84,7 +91,7 @@ Marketo은 일련의 필드를 사용하여 특정 종류의 마케팅 관련 �
    동기화 사용자의 프로필에 대한 읽기 전용 확인란의 선택을 취소합니다.
 
    시스템 관리자 프로필을 동기화 사용자로 가진 사용자가 있는 경우 시스템 관리자 프로필에 대한 읽기 전용 확인란의 선택을 취소합니다(아래 참조)
-동기화 사용자에 대한 사용자 지정 프로필을 만든 경우 해당 사용자 지정 프로필에 대한 읽기 전용 확인란의 선택을 취소합니다
+   동기화 사용자에 대한 사용자 지정 프로필을 만든 경우 해당 사용자 지정 프로필에 대한 읽기 전용 확인란의 선택을 취소합니다
 
    스크린샷
 

@@ -4,16 +4,18 @@ description: Marketo과의 ON24 이벤트 통합 예제를 통해 알아보십�
 title: ON24 이벤트 통합 예시
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-TQID: https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY
+TQID: 'https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 374
+source-wordcount: '374'
 ht-degree: 2%
-
 ---
-
 # ON24 이벤트 통합 예시 {#example-on-event-integration}
 
 다음은 ON24 웨비나에 대한 캠페인 등 샘플 이벤트입니다. 이벤트를 빌드할 때에는 캠페인을 실행하기 전에 테스트하십시오.
@@ -49,8 +51,8 @@ ht-degree: 2%
 * **스마트 목록** - 이벤트에 초대할 사용자를 정의합니다.
 * **흐름**
 
-   * 이메일 보내기 - 로컬 에셋 이메일인 경우, EventName.EmailName 명명 규칙이 적용됩니다. 글로벌 이메일을 사용할 수도 있습니다.
-   * 진행 상태 변경 - 웨비나 > 초대로 설정합니다.
+  * 이메일 보내기 - 로컬 에셋 이메일인 경우, EventName.EmailName 명명 규칙이 적용됩니다. 글로벌 이메일을 사용할 수도 있습니다.
+  * 진행 상태 변경 - 웨비나 > 초대로 설정합니다.
 
 * **일정** - 초대를 보낼 날짜를 설정합니다.
 
@@ -58,7 +60,7 @@ ht-degree: 2%
 
 * **스마트 목록**
 
-   * **[!UICONTROL Fills Out Form]**&#x200B;을(를) 기반으로 캠페인을 트리거합니다. **[!UICONTROL Add Constraint]**&#x200B;을(를) 사용하여 양식이 있는 랜딩 페이지를 포함합니다. 특히 양식이 여러 랜딩 페이지에서 사용되는 경우 더욱 그렇습니다.
+  * **[!UICONTROL Fills Out Form]**&#x200B;을(를) 기반으로 캠페인을 트리거합니다. **[!UICONTROL Add Constraint]**&#x200B;을(를) 사용하여 양식이 있는 랜딩 페이지를 포함합니다. 특히 양식이 여러 랜딩 페이지에서 사용되는 경우 더욱 그렇습니다.
 
 >[!CAUTION]
 >
@@ -68,9 +70,9 @@ ht-degree: 2%
 
 * **흐름**
 
-   * **진행 중 상태 변경** - 웨비나 > 등록됨으로 설정합니다. **주의**: 자식 캠페인을 설정할 때 이 흐름 단계가 필요합니다. 개인의 진행 상태가 **등록됨**(으)로 변경되면 Marketo에서 등록 정보를 ON24로 푸시합니다.
+  * **진행 중 상태 변경** - 웨비나 > 등록됨으로 설정합니다. **주의**: 자식 캠페인을 설정할 때 이 흐름 단계가 필요합니다. 개인의 진행 상태가 **등록됨**(으)로 변경되면 Marketo에서 등록 정보를 ON24로 푸시합니다.
 
-   * **전자 메일 보내기** - 확인 전자 메일(**Operational**(으)로 설정되어 등록된 구독 취소자가 계속 받을 수 있도록 함).
+  * **전자 메일 보내기** - 확인 전자 메일(**Operational**(으)로 설정되어 등록된 구독 취소자가 계속 받을 수 있도록 함).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 

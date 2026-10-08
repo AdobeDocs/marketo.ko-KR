@@ -4,20 +4,26 @@ description: 계정 프로파일링이 ICP에 의해 회사의 등급을 매기�
 title: 계정 프로파일링 순위 및 조정
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/nuRK415J6iR46j8ft0lShUapom3GzqWiuNf-k2-Ca5w
+TQID: 'https://experienceleague.adobe.com/nuRK415J6iR46j8ft0lShUapom3GzqWiuNf-k2-Ca5w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Customer experience
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 405
+source-wordcount: '405'
 ht-degree: 4%
-
 ---
-
 # 계정 프로파일링 순위 및 조정 {#account-profiling-ranking-and-tuning}
 
 계정 프로파일링을 통해 ICP(Ideal Customer Profile)를 식별하고, ICP를 기준으로 데이터베이스의 회사 등급을 매기고, ICP 지표 데이터를 [!UICONTROL Named Accounts]&#x200B;(으)로 승격된 계정에 추가합니다.

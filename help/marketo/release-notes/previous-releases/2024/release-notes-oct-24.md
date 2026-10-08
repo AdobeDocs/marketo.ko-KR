@@ -3,29 +3,40 @@ description: 릴리스 노트 - 2024년 10월 - Marketo 설명서 - 제품 설�
 title: 릴리스 노트 - 2024년 10월
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-TQID: https://experienceleague.adobe.com/3Qk4bF8OVxVoJYZbtedik6vRsAebYvj-ZMOfxXuzDMk
+TQID: 'https://experienceleague.adobe.com/3Qk4bF8OVxVoJYZbtedik6vRsAebYvj-ZMOfxXuzDMk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 575
+source-wordcount: '575'
 ht-degree: 18%
-
 ---
-
 # 릴리스 노트: 2024년 10월 {#release-notes-oct-24}
 
 아래에는 2024년 10월 릴리스에 포함된 모든 기능이 있습니다. 기능 가용성에 대해 Adobe Marketo Engage 에디션을 확인하십시오.
@@ -38,7 +49,7 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
 
-다음 기능은 표준 릴리스 주기에 포함되며, **2024년 10월 4일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인합니다.
+다음 기능은 표준 릴리스 주기에 포함되며, **2024년 10월 4일 토요일**&#x200B;부터 출시되기 시작하고 나머지 기능은 이후 몇 주에 걸쳐 단계적으로 출시될 예정입니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인하십시오.
 
 <table style="table-layout:auto">
  <tbody>
@@ -114,6 +125,6 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **Munchkin 변경 사항**
 
-   * **새 버전**: 2024년 9월 17일부터 [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164가 **관리자** > **보물 상자**&#x200B;에서 &quot;Munchkin Beta&quot; 설정을 사용하도록 설정된 Marketo Engage 인스턴스로 롤아웃됩니다. 10월 29일에 다른 모든 인스턴스로의 롤아웃을 시작할 예정입니다. 이 버전은 Munchkin 쿠키 생성을 업데이트합니다. 기능에는 변경 사항이 없습니다.
+  * **새 버전**: 2024년 9월 17일부터 [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164가 **관리자** > **보물 상자**&#x200B;에서 &quot;Munchkin Beta&quot; 설정을 사용하도록 설정된 Marketo Engage 인스턴스로 롤아웃됩니다. 10월 29일에 다른 모든 인스턴스로의 롤아웃을 시작할 예정입니다. 이 버전은 Munchkin 쿠키 생성을 업데이트합니다. 기능에는 변경 사항이 없습니다.
 
-   * **URL에서 문자 제거**: Munchkin JS에서 만든 &#39;웹 페이지 방문 횟수&#39; 및 &#39;링크 클릭 수&#39; 활동에서 이제 모든 URL 필드에서 URL로 인코딩되지 않은 컨트롤 문자가 제거됩니다. 이 변경 사항은 이러한 유형의 문자를 지원하지 않고 Marketo Engage 내에서 사용할 수 없는 시스템에 전파하는 것과 관련된 오류를 방지하기 위해 설계되었습니다.
+  * **URL에서 문자 제거**: Munchkin JS에서 만든 &#39;웹 페이지 방문 횟수&#39; 및 &#39;링크 클릭 수&#39; 활동에서 이제 모든 URL 필드에서 URL로 인코딩되지 않은 컨트롤 문자가 제거됩니다. 이 변경 사항은 이러한 유형의 문자를 지원하지 않고 Marketo Engage 내에서 사용할 수 없는 시스템에 전파하는 것과 관련된 오류를 방지하기 위해 설계되었습니다.

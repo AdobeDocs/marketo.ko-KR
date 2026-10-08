@@ -4,16 +4,18 @@ description: 제목을 승인하고 편집한 후 ContentAI를 사용하여 이�
 title: 이메일에서 예측 콘텐츠 활성화
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/8SS9vHyFpf7kDWcDSf90qhX2g9dqMyTwTzYZhHf9bwY
+TQID: 'https://experienceleague.adobe.com/8SS9vHyFpf7kDWcDSf90qhX2g9dqMyTwTzYZhHf9bwY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 400
+source-wordcount: '400'
 ht-degree: 3%
-
 ---
-
 # 이메일에서 예측 콘텐츠 활성화 {#enable-predictive-content-in-emails}
 
 이메일에 예측 가능한 이미지를 하나 이상 만들어 각 수신자에 대한 경험을 맞춤화합니다.

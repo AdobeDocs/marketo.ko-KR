@@ -4,19 +4,25 @@ description: 흐름 단계를 통해 Salesforce에서 개인을 삭제하는 방
 title: SFDC에서 사용자 삭제
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-TQID: https://experienceleague.adobe.com/f-Zvc4glfCtAagE314vrZjiWIcD3vaGIKmKGeZO18v0
+TQID: 'https://experienceleague.adobe.com/f-Zvc4glfCtAagE314vrZjiWIcD3vaGIKmKGeZO18v0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 133
+source-wordcount: '133'
 ht-degree: 6%
-
 ---
-
 # SFDC에서 사용자 삭제 {#delete-person-from-sfdc}
 
 Salesforce에서 특정 리드 세트를 제거해야 하지만 Marketo Engage에 있는 사용자로 남겨두어야 하는 경우 SFDC에서 개인 삭제 플로우 작업을 사용할 수 있습니다.

@@ -1,27 +1,33 @@
 ---
 unique-page-id: 45417125
 description: 기본이 아닌 Salesforce 통합을 위해 Sales Insight을 구성하는 방법을 알아봅니다. Marketo이 사용자 지정 동기화를 통해 Salesforce에 연결할 때 MSI를 설정합니다.
-title: 기본이 아닌 통합을 위한 [!DNL Sales Insight] [!DNL Salesforce] 통합
+title: 기본이 아닌 [!DNL Salesforce] 통합에 대한 [!DNL Sales Insight]
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/RoXhGAxqBvub-s-QWYh3Vw0oy-WEv-MCoUL8QyI3otY
+TQID: 'https://experienceleague.adobe.com/RoXhGAxqBvub-s-QWYh3Vw0oy-WEv-MCoUL8QyI3otY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 subfeature_v2:
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1480
+source-wordcount: '1481'
 ht-degree: 1%
-
 ---
-
 # 기본이 아닌 [!DNL Salesforce] 통합에 대한 [!DNL Sales Insight] {#sales-insight-for-non-native-salesforce-integrations}
 
 Adobe Marketo Engage 계정이 사용자 지정 또는 비기본 통합을 통해 [!DNL Salesforce]에 연결되어 있는 경우 이 문서를 사용하여 [!DNL Sales Insight]을(를) 구성하십시오.
@@ -273,4 +279,4 @@ Adobe Marketo Engage 계정이 사용자 지정 또는 비기본 통합을 통�
 
    리드 REST API 설명서: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET){target="_blank"}.
 
-   외부 필드를 적절하게 사용하면 성공적인 비원시 동기화가 가능합니다. 일부 보기에서 데이터를 보지 못하면 특정 필드가 올바르게 동기화되지 않았을 수 있습니다. 예를 들어 잠재 고객의 계정 아래에서 MSI 위젯을 볼 때 잠재 고객의 활동 및 흥미로운 순간이 표시되지 않으면 잠재 고객의 회사 또는 계정이 올바르게 동기화되지 않았을 수 있습니다. 외부 필드를 지정하는 동안 이 잠재 고객에 대한 GET 요청을 수행하면 잠재 고객이 올바르게 동기화되었는지 확인하는 데 도움이 됩니다. 또한 Marketo의 외부 영업 사용자에 대한 이메일은 Salesforce의 해당 사용자에 대한 이메일과 일치해야 합니다. 이메일이 일치하지 않는 경우 Salesforce의 Marketo 탭에 데이터가 표시되지 않을 수 있습니다.
+   외부 필드를 적절하게 사용하면 성공적인 비원시 동기화가 가능합니다. 일부 보기에서 데이터를 보지 못하면 특정 필드가 올바르게 동기화되지 않았을 수 있습니다. 예를 들어 잠재 고객의 계정 아래에서 MSI 위젯을 볼 때 잠재 고객의 활동 및 흥미로운 순간이 표시되지 않으면 잠재 고객의 회사 또는 계정이 올바르게 동기화되지 않았을 수 있습니다. 외부 필드를 지정하는 동안 이 리드에 대한 GET 요청을 수행하면 리드가 올바르게 동기화되었는지 확인하는 데 도움이 됩니다. 또한 Marketo의 외부 영업 사용자에 대한 이메일은 Salesforce의 해당 사용자에 대한 이메일과 일치해야 합니다. 이메일이 일치하지 않는 경우 Salesforce의 Marketo 탭에 데이터가 표시되지 않을 수 있습니다.

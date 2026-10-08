@@ -4,13 +4,19 @@ description: 비교 프로그램을 포함하여 Marketo Engage의 프로그램 
 title: 프로그램 분석기로 프로그램 효과 비교
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 1%
-
 ---
-
 # [!UICONTROL Program Analyzer]과(와) 프로그램 효율성 비교 {#compare-program-effectiveness-with-the-program-analyzer}
 
 [!UICONTROL Program Analyzer]을(를) 사용하여 프로그램 비용, 회원 확보, 파이프라인 및 매출을 비교하여 가장 효과적이고 가장 적은 프로그램을 식별하십시오.

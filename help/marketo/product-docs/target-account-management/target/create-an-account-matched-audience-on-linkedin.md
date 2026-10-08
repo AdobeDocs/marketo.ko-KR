@@ -1,22 +1,28 @@
 ---
 unique-page-id: 26837421
 description: TAM 계정 목록에서 LinkedIn 계정 일치 대상을 만드는 방법을 알아봅니다. 광고 타깃팅을 위해 LinkedIn 채널에서 대상을 활성화합니다.
-title: ' [!DNL LinkedIn]에 일치하는 계정 만들기'
+title: '[!DNL LinkedIn]에서 일치하는 계정 만들기'
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/CuHgQC78cd6GTUfnGfpufvkY4cM2zMZPKaqft35LKsk
+TQID: 'https://experienceleague.adobe.com/CuHgQC78cd6GTUfnGfpufvkY4cM2zMZPKaqft35LKsk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 184
+source-wordcount: '184'
 ht-degree: 3%
-
 ---
-
 # [!DNL LinkedIn]에서 일치하는 계정 만들기 {#create-an-account-matched-audience-on-linkedin}
 
 [[!DNL LinkedIn] 광고 타깃팅](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting)에 대한 TAM 계정 목록에서 계정 일치 대상을 만듭니다. [!DNL LinkedIn]은(는) 목록을 해당 시스템의 계정에 일치시키며, 해당 계정 목록을 기반으로 [!DNL LinkedIn] 대상자를 만들어 [!DNL LinkedIn] 채널에서 활성화할 수 있습니다. 이를 통해 마케터는 데이터베이스 내부 또는 외부의 사용자를 타겟팅할 수 있습니다.

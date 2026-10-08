@@ -3,16 +3,18 @@ description: 새 관리자를 Marketo에 연결하고 Marketo 통합을 전송�
 title: 새 관리자를 Marketo에 연결
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/vQ-yzlQX0qzdTBy2uEV2HTkamgRYlWe7f35PQK2FJCc
+TQID: 'https://experienceleague.adobe.com/vQ-yzlQX0qzdTBy2uEV2HTkamgRYlWe7f35PQK2FJCc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 495
+source-wordcount: '495'
 ht-degree: 2%
-
 ---
-
 # 새 관리자를 Marketo에 연결 {#connect-new-admin-to-marketo}
 
 다른 관리자가 Marketo에 이미 연결되어 있는 경우 1단계만 수행하면 됩니다.

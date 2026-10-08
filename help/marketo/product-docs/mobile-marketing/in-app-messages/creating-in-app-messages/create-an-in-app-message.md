@@ -3,16 +3,18 @@ description: 인앱 메시지를 만드는 방법을 알아봅니다. 마케팅 
 title: 인앱 메시지 만들기
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/ayEZLuHoATSPe6vXQN8iEjzNYHWWUIqlfDFVZZEx5Mw
+TQID: 'https://experienceleague.adobe.com/ayEZLuHoATSPe6vXQN8iEjzNYHWWUIqlfDFVZZEx5Mw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 129
+source-wordcount: '129'
 ht-degree: 6%
-
 ---
-
 # [!UICONTROL In-App Message] 만들기 {#create-an-in-app-message}
 
 완벽한 인앱 메시지를 만드는 몇 가지 단계가 있습니다. 여기에서 시작한 다음 이 문서의 단계를 순서대로 따릅니다.

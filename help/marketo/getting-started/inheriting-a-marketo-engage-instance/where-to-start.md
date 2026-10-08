@@ -3,20 +3,24 @@ description: 상속한 기존 Marketo Engage 인스턴스를 최적화하고 확
 title: 시작 위치
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-TQID: https://experienceleague.adobe.com/1iZHB7gfCSO7NzNNNOAsWdWfirj6TDbkKihudpvim24
+TQID: 'https://experienceleague.adobe.com/1iZHB7gfCSO7NzNNNOAsWdWfirj6TDbkKihudpvim24'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Resources
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 593
-ht-degree: 1%
-
+source-wordcount: '593'
+ht-degree: 3%
 ---
-
 # 시작 위치 {#where-to-start}
 
 새 작업을 시작하거나 다른 관리자로부터 기존 인스턴스를 인수하고 있으며 어디서부터 시작해야 할지 잘 모르겠습니까? 얼마 동안 실행 중인 라이브 인스턴스를 인수하면 약간 위협적으로 보일 수 있지만, 사용자가 즉시 속도를 높일 수 있도록 몇 가지 리소스를 구성했습니다.

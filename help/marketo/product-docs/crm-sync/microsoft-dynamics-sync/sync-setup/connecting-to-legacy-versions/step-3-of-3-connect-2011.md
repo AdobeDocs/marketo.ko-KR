@@ -1,19 +1,24 @@
 ---
 unique-page-id: 3571809
 description: 마지막 단계에서 Microsoft Dynamics 2011 온프레미스를 Marketo과 연결하는 방법을 알아봅니다. Marketo Admin에서 동기화 사용자 정보를 입력하고 동기화를 활성화합니다.
-title: 3단계/3단계 - Marketo(2011 온-프레미스)와  [!DNL Microsoft Dynamics] 연결
+title: 3단계/3단계 - [!DNL Microsoft Dynamics]과(와) Marketo(2011 온-프레미스) 연결
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI
+TQID: 'https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 344
+source-wordcount: '345'
 ht-degree: 1%
-
 ---
-
 # 3단계/3단계: [!DNL Microsoft Dynamics]을(를) Marketo(2011 온-프레미스)와 연결 {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
 솔루션이 설치되고 동기화 사용자가 구성되었습니다. 그런 다음 Marketo과 [!DNL Dynamics]을(를) 연결합니다.

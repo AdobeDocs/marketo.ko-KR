@@ -4,20 +4,23 @@ description: 세그먼트 레이블-사용자-세그먼트 레이블을 사용�
 title: 세그먼트 레이블 지정
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/0i6IGppkmXmVDl5awDlsmqMQ2hFSU4w8ILVnIwAVr8M
+TQID: 'https://experienceleague.adobe.com/0i6IGppkmXmVDl5awDlsmqMQ2hFSU4w8ILVnIwAVr8M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 133
+source-wordcount: '133'
 ht-degree: 4%
-
 ---
-
 # 세그먼트 레이블 지정 {#label-your-segment}
 
 세그먼트가 너무 많아 스크롤하는 것이 번거로워집니까? 빠르게 찾을 수 있도록 레이블을 사용하여 세그먼트에 태깅합니다.

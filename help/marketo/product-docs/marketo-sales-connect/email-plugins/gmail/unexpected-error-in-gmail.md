@@ -4,16 +4,18 @@ description: Sales Connect Gmail 플러그인에 예기치 않은 오류가 표�
 title: Gmail에서 예기치 않은 오류 발생
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/dJWrlEZcu0Y7WcKjxnA15QJEkv3p9IYSvhz5Wbhg-Ak
+TQID: 'https://experienceleague.adobe.com/dJWrlEZcu0Y7WcKjxnA15QJEkv3p9IYSvhz5Wbhg-Ak'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 97
-ht-degree: 16%
-
+source-wordcount: '97'
+ht-degree: 18%
 ---
-
 # Gmail에서 예기치 않은 오류 발생 {#unexpected-error-in-gmail}
 
 이메일을 보내려고 할 때 Gmail에서 &quot;예기치 않은 오류&quot;가 발생하면 Gmail 연결에 대해 재설정을 수행해야 할 수 있습니다.

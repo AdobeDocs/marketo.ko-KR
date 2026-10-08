@@ -4,19 +4,28 @@ title: Dynamic Chat 릴리스 정보
 feature: Release Information, Dynamic Chat
 hide: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-TQID: https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug
+TQID: 'https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 933
+source-wordcount: '933'
 ht-degree: 66%
-
 ---
-
 # Dynamic Chat 릴리스 정보 {#dynamic-chat-release}
 
-Adobe Dynamic Chat 릴리스는 기능 배포에 대한 확장 가능한 단계별 접근 방식을 고려하는 연속 게재 모델에서 작동합니다. 한 달에 여러 번의 릴리스가 있을 수 있으므로 정기적으로 다시 확인하여 최신 정보를 확인하십시오.
+Adobe Dynamic Chat 릴리스는 기능 배포에 대해 더 확장 가능한 접근 방식을 가능하게 하는 연속 게재 모델로 운영됩니다. 한 달에 여러 번의 릴리스가 있을 수 있으므로 정기적으로 다시 확인하여 최신 정보를 확인하십시오.
 
 Marketo Engage의 표준 릴리스 정보 페이지는 [여기에서 확인할 수 있습니다](/help/marketo/release-notes/current.md){target="_blank"}.
 
@@ -30,11 +39,11 @@ Dynamic Chat의 라이브 채팅 라우팅 논리를 개편하여 모든 라우�
 
 * **세션당 최대 2회의 참여 시도**
 
-   * 시스템은 최대 2개의 에이전트와의 연결을 시도하지만(최대), 이는 엄격히 기본 라우팅 규칙 내에 있습니다.
+  * 시스템은 최대 2개의 에이전트와의 연결을 시도하지만(최대), 이는 엄격히 기본 라우팅 규칙 내에 있습니다.
 
-   * 에이전트가 사용 가능하지만 응답하지 않는 경우(예: 채팅 거부 또는 누락), 시스템은 동일한 풀의 다른 에이전트에 연결을 시도합니다.
+  * 에이전트가 사용 가능하지만 응답하지 않는 경우(예: 채팅 거부 또는 누락), 시스템은 동일한 풀의 다른 에이전트에 연결을 시도합니다.
 
-   * 대체 논리(예: 라운드 로빈)는 실패한 참여를 다시 시도하는 것이 아니라 초기 배치 중에 적격한 에이전트를 찾을 수 없는 경우에만 활성화됩니다.
+  * 대체 논리(예: 라운드 로빈)는 실패한 참여를 다시 시도하는 것이 아니라 초기 배치 중에 적격한 에이전트를 찾을 수 없는 경우에만 활성화됩니다.
 
 * **라우팅 규칙별 비헤이비어**
 
@@ -73,7 +82,7 @@ _&#x200B;**라운드 로빈 라우팅**&#x200B;_
 
 기본 라우팅 규칙으로 사용되는 경우 시스템은 다음 작업을 수행합니다.
 
-* 라운드 로빈 풀에서 첫 번째 지원 가능한 에이전트와 참여를 시도합니다.
+* 라운드 로빈 풀에서 첫 번째 지원 가능한 에이전트와 연결을 시도합니다.
 
 * 첫 번째 에이전트가 응답하지 않으면 다음으로 적격한 에이전트로 재시도합니다.
 
@@ -95,9 +104,9 @@ _&#x200B;**방문자 경험 흐름**&#x200B;_
 
 * 참여가 성공하지 않으면 대체 논리가 적용됩니다.
 
-   * 달력 대체(활성화된 경우),
--또는-
-   * 기본 메시지
+  * 달력 대체(활성화된 경우),
+    -또는-
+  * 기본 메시지
 
 라운드 로빈 대체는 개별 에이전트가 응답하지 않을 때가 아니라 기본 라우팅 규칙에서 적격한 에이전트를 찾을 수 없는 경우에만 고려됩니다.
 

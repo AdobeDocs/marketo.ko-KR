@@ -4,16 +4,18 @@ description: Sales Connect 및 Marketo의 흥미로운 순간을 이해합니다
 title: Sales Connect의 즐거운 순간
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/KgwnG6Rpi3BJy-Vboy7MuPkjhz-O-BOzmncdgpbrNVU
+TQID: 'https://experienceleague.adobe.com/KgwnG6Rpi3BJy-Vboy7MuPkjhz-O-BOzmncdgpbrNVU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 280
+source-wordcount: '280'
 ht-degree: 1%
-
 ---
-
 # [!DNL Sales Connect]의 즐거운 순간 {#interesting-moments-in-sales-connect}
 
 흥미로운 순간은 [!DNL Marketo Sales Connect]을(를) 통해 영업팀과 통신하는 데 중요한 부분입니다.

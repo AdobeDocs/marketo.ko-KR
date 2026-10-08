@@ -4,16 +4,18 @@ description: Sales Connect 및 Highspot 통합에 대해 알아봅니다. 영업
 title: Sales Connect와 Highspot 통합이란 무엇입니까?
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/1U81JHYFajHjrVNSJE3i0ewItUVSLp8hUJUU1WFoP98
+TQID: 'https://experienceleague.adobe.com/1U81JHYFajHjrVNSJE3i0ewItUVSLp8hUJUU1WFoP98'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 191
+source-wordcount: '191'
 ht-degree: 5%
-
 ---
-
 # [!DNL Sales Connect] 및 [!DNL Highspot] 통합이란 무엇입니까? {#what-is-the-sales-connect-and-highspot-integration}
 
 [!DNL Sales Connect]은(는) 콘텐츠 관리 시스템인 [Highspot](https://www.highspot.com/)과의 통합을 지원합니다. [!DNL Highspot] 고객이기도 한 [!DNL Sales Connect] 고객은 웹 애플리케이션 내에서 [!DNL Highspot] 콘텐츠에 액세스할 수 있습니다.

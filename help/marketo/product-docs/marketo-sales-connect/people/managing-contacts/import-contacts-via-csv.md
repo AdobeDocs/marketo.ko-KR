@@ -4,18 +4,20 @@ description: CSV를 통해 Sales Connect로 연락처를 가져오는 방법을 
 title: CSV를 통해 연락처 가져오기
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/mfeuU8y5mm5zReKyaC9z5kCnRyovTMQbYbfMhDXwWLI
+TQID: 'https://experienceleague.adobe.com/mfeuU8y5mm5zReKyaC9z5kCnRyovTMQbYbfMhDXwWLI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 126
+source-wordcount: '126'
 ht-degree: 10%
-
 ---
-
 # CSV를 통해 연락처 가져오기 {#import-contacts-via-csv}
 
 [!UICONTROL People] 페이지에서 템플릿의 동적 필드에 개인화된 정보를 자동으로 채울 수 있으므로 연락처가 있는 것이 중요합니다. CSV에 있는 각 연락처의 이름과 이메일 주소가 적어도 있어야 하며 해당 필드에 매핑해야 합니다.

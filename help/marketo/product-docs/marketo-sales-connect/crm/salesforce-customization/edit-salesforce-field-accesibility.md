@@ -4,19 +4,23 @@ description: Sales Connect의 Salesforce 필드 접근성을 편집하는 방법
 title: Salesforce 필드 접근성 편집
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/eFjPJNOFm7BRh7tR-dJH1-QrbhZ7gYiVEBfvIWY1uyI
+TQID: 'https://experienceleague.adobe.com/eFjPJNOFm7BRh7tR-dJH1-QrbhZ7gYiVEBfvIWY1uyI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 124
+source-wordcount: '124'
 ht-degree: 6%
-
 ---
-
 # Salesforce 필드 접근성 편집 {#edit-salesforce-field-accesibility}
 
 [!DNL Salesforce]에 대한 전자 메일 활동 로그가 표시되지 않는 이유는 팀의 필드 접근성에 대한 제한 때문일 수 있습니다.

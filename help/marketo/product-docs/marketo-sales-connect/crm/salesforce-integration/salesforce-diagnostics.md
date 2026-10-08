@@ -4,23 +4,28 @@ description: Sales Connect의 Salesforce 진단에 대해 알아봅니다. Sales
 title: Salesforce 진단
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/TmZ9sSRFbkcvsAY6aHS42oBPlyFEW80iDAh-c-awbZo
+TQID: 'https://experienceleague.adobe.com/TmZ9sSRFbkcvsAY6aHS42oBPlyFEW80iDAh-c-awbZo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 subfeature_v2:
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1369
+source-wordcount: '1369'
 ht-degree: 0%
-
 ---
-
 # [!DNL Salesforce] 진단 {#salesforce-diagnostics}
 
 [!DNL Salesforce] 통합의 일부에는 웹 응용 프로그램 내의 [!DNL Salesforce] 진단 페이지가 포함되어 있습니다. 이 페이지는 [!DNL Salesforce]&#x200B;(으)로 실패한 데이터 로깅에서 오류를 캡처합니다. 이 오류는 도움이 될 수 있지만 항상 읽을 수는 없습니다. 따라서 오류 메시지를 설명하는 데 도움이 되는 치트 시트를 구성합니다.
@@ -75,7 +80,7 @@ ht-degree: 0%
 **오류:** EXPIRED_ACCESS
 **범주:** 인증
 **메시지:** 잘못된 부여: 만료된 액세스/새로 고침 토큰
-**진행 상황:** 액세스 또는 새로 고침 토큰이 만료되었습니다. 토큰은  [!DNL Salesforce][&#128279;](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)의 세션 설정에 따라 만료됩니다.
+**진행 상황:** 액세스 또는 새로 고침 토큰이 만료되었습니다. 토큰은  [!DNL Salesforce]&#x200B;[&#128279;](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)의 세션 설정에 따라 만료됩니다.
 **문제 해결 단계:** 다시 인증해야 합니다. [!DNL Salesforce] 연결을 끊고 다시 연결합니다.
 
 <br> 

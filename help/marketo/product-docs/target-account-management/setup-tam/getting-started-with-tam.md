@@ -4,16 +4,21 @@ description: 인스턴스에 추가된 후 TAM을 시작하는 방법을 알아�
 title: TAM 시작하기
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/GTPzG-MpCbU0vy85c8tc5gBqb8CeTI9eTamHsPdascU
+TQID: 'https://experienceleague.adobe.com/GTPzG-MpCbU0vy85c8tc5gBqb8CeTI9eTamHsPdascU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 305
+source-wordcount: '305'
 ht-degree: 2%
-
 ---
-
 # TAM 시작하기 {#getting-started-with-tam}
 
 Marketo Engage TAM을 인스턴스에 추가하시겠습니까? 잘됐네! 다음에 무엇을 해야 하는지 살펴보겠습니다.
