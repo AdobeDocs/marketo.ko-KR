@@ -4,9 +4,9 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: bf54ef2e3651759827fa6d040a94512f694d8f9a
+source-git-commit: 6df3337e516a4d8345ee7d1362ab36e9724cc771
 workflow-type: tm+mt
-source-wordcount: '8938'
+source-wordcount: '8940'
 ht-degree: 96%
 ---
 
@@ -484,12 +484,12 @@ ht-degree: 96%
       + [Predictive Audiences 시작하기](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [모델 및 인사이트](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [예측 필터](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
-  + Marketo Engage 동료 {#coworker-for-marketo}
+  + Marketo Engage용 CX Enterprise Coworker {#coworker-for-marketo}
     + [개요](product-docs/coworker-for-marketo/overview.md)
     + [설정 및 설정](product-docs/coworker-for-marketo/settings-setup.md)
     + [조직 규칙](product-docs/coworker-for-marketo/organizational-rules.md)
-    + [Marketo Engage 데이터 정보 시트용 Coworker](product-docs/coworker-for-marketo/data-information.md)
-    + 기술 {#skills}
+    + [CX Enterprise Coworker for Marketo Engage 데이터 정보 시트](product-docs/coworker-for-marketo/data-information.md)
+    + 스킬 {#skills}
       + [제품 지식](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[표면 인사이트](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + [프로그램 빌드](product-docs/coworker-for-marketo/skills/build-programs.md)
