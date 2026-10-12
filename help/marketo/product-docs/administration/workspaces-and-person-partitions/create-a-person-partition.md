@@ -55,4 +55,4 @@ ht-degree: 13%
 
 >[!TIP]
 >
->[목록 가져오기](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} 프로세스 중에 특정 개인 파티션을 선택하여 사용자를 필터링할 수 있습니다.
+>[목록 가져오기](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} 프로세스 중에 특정 개인 파티션을 선택하여 사용자를 필터링할 수 있습니다.

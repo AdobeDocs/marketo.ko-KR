@@ -138,7 +138,7 @@ ht-degree: 90%
    >
    >가져오지 않으려는 필드가 있는 경우 Marketo 필드 드롭다운 메뉴에서 **무시**&#x200B;를 선택합니다.
 
-1. [개인 파티션](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}을 설정한 경우 여기에서 원하는 파티션을 선택하십시오. **[!UICONTROL Acquisition Program]**&#x200B;으로 **내 무역 박람회 프로그램**&#x200B;을 선택한 다음 **[!UICONTROL Import]**&#x200B;를 클릭합니다.
+1. [개인 파티션](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}을 설정한 경우 여기에서 원하는 파티션을 선택하십시오. **[!UICONTROL Acquisition Program]**&#x200B;으로 **내 무역 박람회 프로그램**&#x200B;을 선택한 다음 **[!UICONTROL Import]**&#x200B;를 클릭합니다.
 
    ![](assets/import-a-list-of-people-13-new.png)
 
