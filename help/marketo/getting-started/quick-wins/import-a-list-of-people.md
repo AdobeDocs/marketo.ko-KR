@@ -25,10 +25,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 96c214e74bfb7920e9a62204e8451bbc22e1e1b0
 workflow-type: tm+mt
-source-wordcount: '553'
-ht-degree: 95%
+source-wordcount: '583'
+ht-degree: 90%
 ---
 # 사용자 목록 가져오기 {#import-a-list-of-people}
 
@@ -138,9 +138,9 @@ ht-degree: 95%
    >
    >가져오지 않으려는 필드가 있는 경우 Marketo 필드 드롭다운 메뉴에서 **무시**&#x200B;를 선택합니다.
 
-1. **[!UICONTROL Acquisition Program]**&#x200B;으로 **내 무역 박람회 프로그램**&#x200B;을 선택한 다음 **[!UICONTROL Import]**&#x200B;를 클릭합니다.
+1. _개인 파티션 [을(를) 설정한 경우_](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"} 여기에서 선택하십시오. **[!UICONTROL Acquisition Program]**&#x200B;으로 **내 무역 박람회 프로그램**&#x200B;을 선택한 다음 **[!UICONTROL Import]**&#x200B;를 클릭합니다.
 
-   ![](assets/import-a-list-of-people-13.png)
+   ![](assets/import-a-list-of-people-13-new.png)
 
 1. 사용자가 가져와질 때까지 기다린 다음 가져오기 진행률 팝업을 닫습니다.
 
