@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 21%
+source-wordcount: '118'
+ht-degree: 13%
 ---
 # 개인 파티션 만들기 {#create-a-person-partition}
 
@@ -52,3 +52,7 @@ ht-degree: 21%
 파티션을 만들면 업데이트가 표시됩니다.
 
 ![](assets/create-a-person-partition-5.png)
+
+>[!TIP]
+>
+>[목록 가져오기](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} 프로세스 중에 특정 개인 파티션을 선택하여 사용자를 필터링할 수 있습니다.
