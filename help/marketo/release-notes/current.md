@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 18%
+source-wordcount: '578'
+ht-degree: 16%
 ---
 # 릴리스 노트: 2026년 9월 {#release-notes-sep-26}
 
@@ -61,8 +61,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>가져올 때 파티션 선택</strong>: 이제 작업 영역과 파티션이 활성화된 환경에서 개인 레코드를 가져올 때 로컬 작업 영역의 파티션 목록에서 선택할 수 있습니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>릴리스됨</td>
+   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up" target="_blank">목록 가져오기</a></td>
   </tr>
   <tr>
    <td> </td>

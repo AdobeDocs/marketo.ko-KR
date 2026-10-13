@@ -3,11 +3,9 @@ title: 콘텐츠 작성 - 구성 요소
 description: 콘텐츠 작성에 구성 요소 및 콘텐츠 요소 사용에 대한 재사용 섹션
 source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
-
 ---
-
 # 콘텐츠 작성 - 구성 요소
 
 1. 콘텐츠를 만들거나 수정하려면 구조에서 캔버스로 항목을 끌어다 놓습니다. 오른쪽 창에서 설정을 편집합니다.
