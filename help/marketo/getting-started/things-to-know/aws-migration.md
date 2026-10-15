@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: f071b487e66c7257b30eb7b598a487b0f088b103
+source-git-commit: d7d7f0d50797571fde1b3a7141b4f50668a1b2b5
 workflow-type: tm+mt
-source-wordcount: '1222'
+source-wordcount: '1235'
 ht-degree: 4%
 ---
 # AWS 마이그레이션 {#aws-migration}
@@ -287,12 +287,9 @@ ht-degree: 4%
   </tr>
    <tr>
    <td>2026년 10월 21일</td>
-   <td>AB36<br>
-   AB38</td>
-   <td>오후 5시(태평양 표준시)<br>
-   오후 6시(태평양 표준시)</td>
-   <td>일정대로 진행 중<br>
-   일정에 따라</td>
+   <td>AB38</td>
+   <td>오후 5시(태평양 표준시)</td>
+   <td>일정대로 진행 중</td>
   </tr>
   <tr>
    <td>2026년 10월 22일</td>
@@ -309,6 +306,15 @@ ht-degree: 4%
    AB25</td>
    <td>오후 5시(태평양 표준시)<br>
    오후 6시(태평양 표준시)</td>
+   <td>일정대로 진행 중<br>
+   일정에 따라</td>
+  </tr>
+  <tr>
+   <td>2026년 11월 6일</td>
+   <td>AB18<br>
+   AB36</td>
+   <td>오후 4시(PST)<br>
+   오후 5시(PST)</td>
    <td>일정대로 진행 중<br>
    일정에 따라</td>
   </tr>
@@ -336,6 +342,12 @@ ht-degree: 4%
   <td>34.247.24.245<br>
 18.200.201.81<br>
 54.220.138.65</td>
+</tr>
+<tr>
+  <td>SJ</td>
+  <td>54.212.167.17<br>
+35.165.244.220<br>
+44.235.171.179</td>
 </tr>
 </body>
 </table>
