@@ -4,9 +4,9 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 6df3337e516a4d8345ee7d1362ab36e9724cc771
+source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
 workflow-type: tm+mt
-source-wordcount: '8940'
+source-wordcount: '8944'
 ht-degree: 96%
 ---
 
@@ -497,7 +497,7 @@ ht-degree: 96%
       + [리드 조사](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [리드 가져오기](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [프로그램 유효성 검사](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [Marketo Mcp](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mcp-server)
+    + [Marketo Mcp](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM 동기화 {#crm-sync}
     + Microsoft Dynamics 동기화 {#microsoft-dynamics}
       + [Microsoft Dynamics 동기화 이해](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1922,7 +1922,7 @@ ht-degree: 96%
   + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat 릴리스 TEMP](release-notes/dynamic-chat-temp.md)
   + [이전 릴리스](release-notes/previous-releases.md)
-  + {hide-from-toc}이전 릴리스 개 {#previous-releases}
+  + 이전 릴리스 {hide-from-toc}개 {#previous-releases}
     + 2026 {#2026}
       + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)
@@ -1930,6 +1930,7 @@ ht-degree: 96%
       + [릴리스 노트: 2026년 5월](release-notes/previous-releases/2026/release-notes-may-26.md)
       + [릴리스 노트: 2026년 7월](release-notes/previous-releases/2026/release-notes-july-26.md)
       + [릴리스 노트: 2026년 8월](release-notes/previous-releases/2026/release-notes-aug-26.md)
+      + [릴리스 노트: 2026년 9월](release-notes/previous-releases/2026/release-notes-sep-26.md)
     + 2025 {#2025}
       + [릴리스 정보: 2025년 1월](release-notes/previous-releases/2025/release-notes-jan-25.md)
       + [릴리스 정보: 2025년 3월](release-notes/previous-releases/2025/release-notes-mar-25.md)
