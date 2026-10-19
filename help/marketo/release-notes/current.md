@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: 29aa413a7346a79906f4021dedc79e8e48170c69
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 18%
+source-wordcount: '472'
+ht-degree: 15%
 ---
 # 릴리스 노트: 2026년 10월 {#release-notes-oct-26}
 
@@ -47,6 +47,26 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <th style="width:65%">기능</th>
    <th style="width:10%">상태</th>
    <th style="width:25%">설명서</th>
+  </tr>
+  <tr>
+   <td><strong>캠페인 스킬 계획</strong>: 이제 Marketo Engage용 CX Enterprise Coworker에서 캠페인 개요를 전체 Marketo Engage 프로그램 설정 문서로 만들 수 있습니다. 이 문서에는 폴더 구조, 스마트 캠페인, 이메일 구성, 토큰 및 QA 체크리스트가 포함되어 있습니다. 이렇게 하면 팀이 캠페인을 보다 빠르게 시작하고 프로그램 설정을 표준화할 수 있습니다. 스킬은 Markdown을 통해 구성할 수 있습니다.</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>호출 가능 에이전트</strong>: 스마트 캠페인에서 흐름 단계로 실행되고 일반 언어로 작성한 지침을 기반으로 잠재 고객 레코드에서 작동하는 AI 에이전트를 만듭니다. 예를 들어 에이전트는 잠재 고객의 데이터 또는 플래그(예: 보트)를 정규화한 다음 잠재 고객의 필드에 결과를 다시 쓸 수 있습니다. 이렇게 하면 사용자 지정 코드 없이 캠페인에 판단 기반 리드 처리가 제공됩니다.</td>
+   <td><i>곧 출시 예정</i></td>
+   <td><i>곧 출시 예정</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>이 프로그램/폴더에 복제</strong>: 이제 Marketo Engage의 복제 작업은 복제된 자산의 대상을 선택할 때 첫 번째 선택으로 "이 폴더" 또는 "이 프로그램" 옵션을 일관되게 제공합니다. 이 옵션을 선택하면 에셋이 현재 에셋의 상위 프로그램 또는 폴더로 복제됩니다.</td>
@@ -71,8 +91,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **웹에서 Grab 이미지 사용 중단**: 최신 보안 및 개인 정보 보호 모범 사례를 준수하기 위해 [웹에서 Grab 이미지 사용 중단](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} 기능은 10월 릴리스부터 더 이상 사용되지 않습니다.
+* **웹에서 Grab 이미지 사용 중단**: 최신 보안 및 개인 정보 보호 모범 사례를 준수하기 위해 [웹에서 Grab 이미지 사용 중단](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} 기능은 10월 릴리스부터 더 이상 사용되지 않습니다.
 
 * **사용자 지정 활동 특성에 대한 API 이름 제한**: 이제 API 또는 UI를 통해 만든 사용자 지정 활동 특성에 대한 API 이름에는 영숫자와 밑줄만 포함될 수 있으며 영숫자로 시작해야 합니다.
 
-* **잠재 고객 활동 가져오기 및 잠재 고객 변경 가져오기**: 2026년 9월 30일부터 대상 목록에 10,000개 이상의 잠재 고객이 포함된 경우 `listId` 매개 변수를 포함하는 잠재 고객 가져오기 활동 또는 잠재 고객 변경 가져오기 엔드포인트에 대한 호출이 1003 오류 코드(대상 정적 목록에 레코드가 너무 많음을 나타냄)로 실패하기 시작했습니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.
+* **잠재 고객 활동 가져오기 및 잠재 고객 변경 가져오기**: 2026년 9월 30일부터 대상 목록에 10,000개 이상의 잠재 고객이 포함된 경우 `listId` 매개 변수를 포함하는 잠재 고객 가져오기 활동 또는 잠재 고객 변경 가져오기 엔드포인트에 대한 호출이 1003 오류 코드(대상 정적 목록에 레코드가 너무 많음을 나타냄)로 실패하기 시작했습니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.
