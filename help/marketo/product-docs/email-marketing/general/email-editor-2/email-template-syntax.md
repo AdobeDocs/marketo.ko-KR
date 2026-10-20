@@ -116,7 +116,7 @@ class=&quot;mktoText&quot;인 HTML 요소(제공된 경우) 내의 콘텐츠는 
 
 예:
 
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com"> <a><img style="border:10px solid red;"></a> </div>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com/kr"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### 옵션 2 - \&lt;img\> 사용 {#option-use-an-img}
 

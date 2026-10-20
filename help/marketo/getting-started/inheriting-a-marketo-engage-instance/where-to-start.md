@@ -29,9 +29,9 @@ ht-degree: 3%
 
 Marketo Engage 커뮤니티에서 제대로 설정되었는지 확인하십시오.
 
-* 필수 필드(회사, 솔루션 전문 분야, 국가 등)를 입력하여 [**프로필을 설정**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=ko){target="_blank"}
+* 필수 필드(회사, 솔루션 전문 분야, 국가 등)를 입력하여 [**프로필을 설정**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=ko&lang=ko){target="_blank"}
 
-* [**Adobe Experience League 커뮤니티 지침**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=ko){target="_blank"}을 읽어 보십시오.
+* [**Adobe Experience League 커뮤니티 지침**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=ko&lang=ko){target="_blank"}을 읽어 보십시오.
 
 * [**지원 사례를 제출**](https://experienceleague.adobe.com/ko/support#home){target="_blank"}하는 방법을 알아보고 [지원 관리자](https://experienceleague.adobe.com/ko/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}(으)로 설정되어 있는지 확인하세요.
 
@@ -86,7 +86,7 @@ Adobe은 Marketo Champions의 입력을 통해 여러 Marketo Engage 상속 인�
 
 * 제대로 작동하지 않는 문제에 대한 기술 지원이 필요하면 **[Marketo Engage 고객 지원 센터](https://experienceleague.adobe.com/ko/support){target="_blank"}**&#x200B;에 문의하십시오.
 
-* **[Adobe Marketo Engage 커뮤니티](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=ko){target="_blank"}**&#x200B;에서 동료 Marketo Engage 사용자와 연결하고 학습합니다.
+* **[Adobe Marketo Engage 커뮤니티](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=ko&lang=ko){target="_blank"}**&#x200B;에서 동료 Marketo Engage 사용자와 연결하고 학습합니다.
 
 * Marketo Engage 인스턴스를 최대한 활용하는 데 도움이 필요하면 **[Adobe Professional Services](https://business.adobe.com/kr/products/marketo/services-support.html){target="_blank"}**&#x200B;에 문의하세요.
 
