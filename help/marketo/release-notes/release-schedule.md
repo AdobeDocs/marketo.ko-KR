@@ -19,7 +19,7 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: dc6ced4679de39db058fb0125ce7cc5586c77560
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 64%
@@ -66,23 +66,23 @@ _릴리스 일자/기능은 변경될 수 있습니다._
    <td>완료</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">26 년 7 월</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">26 년 7 월</a></td>
    <td>2026년 7월 10일</td>
    <td>완료</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">2026년 8월</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">2026년 8월</a></td>
    <td>2026년 8월 14일</td>
    <td>완료</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">2026년 9월</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">2026년 9월</a></td>
    <td>2026년 9월 25일</td>
    <td>진행 중</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">26 년 10 월</a></td>
-   <td>2026년 10월 23일</td>
+  <td><a href="/help/marketo/release-notes/current.md">26년 11월</a></td>
+   <td>2026년 11월 6일</td>
    <td>일정대로 진행 중</td>
   </tr>
  </tbody>
