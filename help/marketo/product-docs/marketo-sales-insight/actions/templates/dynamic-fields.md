@@ -70,7 +70,7 @@ ht-degree: 2%
 | `{{my_signature}}` | 선임 기술 작가 Keith Flynn - Adobe |
 | `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | 수석 기술 저자 |
-| `{{work_website}}` | <https://www.adobe.com> |
+| `{{work_website}}` | <https://www.adobe.com/kr> |
 
 **참고할 사항**:
 

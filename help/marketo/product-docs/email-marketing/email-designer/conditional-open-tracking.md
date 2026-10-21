@@ -26,7 +26,7 @@ ht-degree: 0%
 ---
 # 조건부 이메일 열기 추적 {#conditional-open-tracking}
 
-[다양한 지침](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=ko){target="_blank"}에 따라 이메일 열기(픽셀) 추적에 대한 최종 사용자 동의를 준수하도록 Marketo Engage을 구성하는 방법을 알아봅니다. 이 접근 방법에서는 사용자 지정 부울 필드를 사용하여 개인이 받는 이메일 변형, 즉 공개 추적이 활성화된 이메일 변형 또는 비활성화된 이메일 변형을 확인합니다.
+[다양한 지침](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=ko&lang=ko){target="_blank"}에 따라 이메일 열기(픽셀) 추적에 대한 최종 사용자 동의를 준수하도록 Marketo Engage을 구성하는 방법을 알아봅니다. 이 접근 방법에서는 사용자 지정 부울 필드를 사용하여 개인이 받는 이메일 변형, 즉 공개 추적이 활성화된 이메일 변형 또는 비활성화된 이메일 변형을 확인합니다.
 
 ## 1단계: 사용자 지정 부울 필드 만들기 {#custom-field}
 
