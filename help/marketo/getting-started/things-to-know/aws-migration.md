@@ -9,10 +9,10 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: 629f12610d05f6caf1bb616504e256dccefe2f50
+source-git-commit: f0fb0c3ca9c2a49f605308310ed9aa0dcb2624ac
 workflow-type: tm+mt
-source-wordcount: '1228'
-ht-degree: 4%
+source-wordcount: '1252'
+ht-degree: 5%
 ---
 # AWS 마이그레이션 {#aws-migration}
 
@@ -312,6 +312,21 @@ ht-degree: 4%
    AB36</td>
    <td>오후 4시(PST)<br>
    오후 5시(PST)</td>
+   <td>일정대로 진행 중<br>
+   일정에 따라</td>
+  </tr>
+  <tr>
+   <td>2026년 11월 18일</td>
+   <td>SJ14</td>
+   <td>오후 5시(PST)</td>
+   <td>일정대로 진행 중</td>
+  </tr>
+  <tr>
+   <td>2026년 11월 20일</td>
+   <td>AB44<br>
+   SJ38</td>
+   <td>오후 5시(PST)<br>
+   오후 6시(PST)</td>
    <td>일정대로 진행 중<br>
    일정에 따라</td>
   </tr>
