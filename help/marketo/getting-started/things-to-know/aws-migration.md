@@ -9,10 +9,10 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: f0fb0c3ca9c2a49f605308310ed9aa0dcb2624ac
+source-git-commit: e4d55c52a80e6332eda62e868bff7b2d632ca1e0
 workflow-type: tm+mt
-source-wordcount: '1252'
-ht-degree: 5%
+source-wordcount: '1251'
+ht-degree: 4%
 ---
 # AWS 마이그레이션 {#aws-migration}
 
@@ -286,7 +286,7 @@ ht-degree: 5%
    <td>2026년 10월 21일</td>
    <td>AB38</td>
    <td>오후 5시(태평양 표준시)</td>
-   <td>일정대로 진행 중</td>
+   <td>완료</td>
   </tr>
   <tr>
    <td>2026년 10월 22일</td>
