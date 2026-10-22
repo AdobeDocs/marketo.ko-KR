@@ -11,7 +11,7 @@ feature_v2:
 subfeature_v2:
   - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
     internal-label: Release information
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 14%
@@ -83,4 +83,4 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **REST API 캠페인 실행 ID**: 특정 상황에서 활동의 캠페인 실행 ID 값이 두 쌍의 따옴표(예: `"campaignRunId": ""102938""`) 사이에서 잘못된 형식으로 반환되는 경우가 있었습니다.<br/>8월 릴리스부터는 이 값이 항상 올바른 숫자 형식(`"campaignRunId": 102938`)으로 반환됩니다.
 
-* **웹에서 Grab 이미지 사용 중단**: 최신 보안 및 개인 정보 보호 모범 사례를 준수하기 위해 [웹에서 Grab 이미지 사용 중단](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} 기능은 10월 릴리스부터 더 이상 사용되지 않습니다.
+* **웹에서 Grab 이미지 사용 중단**: 최신 보안 및 개인 정보 보호 모범 사례를 준수하기 위해 [웹에서 Grab 이미지 사용 중단](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} 기능은 11월 릴리스부터 더 이상 사용되지 않습니다.

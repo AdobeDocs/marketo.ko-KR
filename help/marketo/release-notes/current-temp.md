@@ -27,53 +27,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 18%
+source-wordcount: '16'
+ht-degree: 62%
 ---
-# 릴리스 노트: 2026년 10월 {#release-notes-oct-26}
+# 릴리스 노트: 2026년 11월 {#release-notes-nov-26}
 
-아래에는 2026년 10월 릴리스에 포함된 모든 기능이 있습니다. 기능 사용 가능 여부는 Adobe Marketo Engage 에디션에서 확인하십시오.
-
-Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}할 수 있습니다.
-
-## 표준 릴리스 주기 기능 {#standard-release-cycle-features}
-
-다음 기능은 표준 릴리스 주기에 해당하며 **2026년 10월 23일**&#x200B;에 릴리스되기 시작합니다. 이후 몇 주 동안 나머지 기능은 단계적으로 롤아웃됩니다. 릴리스 기능 및 날짜는 변경될 수 있습니다. 각 기능 옆에서 상태를 확인하십시오.
-
-<table style="table-layout:auto">
- <tbody>
- <tr>
-   <th style="width:65%">기능</th>
-   <th style="width:10%">상태</th>
-   <th style="width:25%">설명서</th>
-  </tr>
-  <tr>
-   <td><strong>이 프로그램/폴더에 복제</strong>: 이제 Marketo Engage의 복제 작업은 복제된 자산의 대상을 선택할 때 첫 번째 선택으로 "이 폴더" 또는 "이 프로그램" 옵션을 일관되게 제공합니다. 이 옵션을 선택하면 에셋이 현재 에셋의 상위 프로그램 또는 폴더로 복제됩니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <tr>
-   <td><strong>CRM 동기화에 대한 즉각적인 경고</strong>: 이제 환경에 대한 기본 CRM 동기화를 사용하거나 사용하지 않도록 설정하면 CRM 알림 채널을 구독하는 사용자에게 알림이 트리거됩니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
-  </tr>
-  </tr>
-  </tbody>
-</table>
-<br/>
-
-## 공지 {#announcements}
-
-* **웹에서 Grab 이미지 사용 중단**: 최신 보안 및 개인 정보 보호 모범 사례를 준수하기 위해 [웹에서 Grab 이미지 사용 중단](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} 기능은 10월 릴리스부터 더 이상 사용되지 않습니다.
-
-* **사용자 지정 활동 특성에 대한 API 이름 제한**: 이제 API 또는 UI를 통해 만든 사용자 지정 활동 특성에 대한 API 이름에는 영숫자와 밑줄만 포함될 수 있으며 영숫자로 시작해야 합니다.
-
-* **잠재 고객 활동 가져오기 및 잠재 고객 변경 가져오기**: 2026년 9월 30일부터 대상 목록에 10,000개 이상의 잠재 고객이 포함된 경우 `listId` 매개 변수를 포함하는 잠재 고객 가져오기 활동 또는 잠재 고객 변경 가져오기 엔드포인트에 대한 호출이 1003 오류 코드(대상 정적 목록에 레코드가 너무 많음을 나타냄)로 실패하기 시작했습니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.
+빈 페이지
