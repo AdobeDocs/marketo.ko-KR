@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: 4b86e5291fd5c07c366eff227f1589fe12922ea4
+source-git-commit: 26cd137342ecb342803a74c44713541af9faf28c
 workflow-type: tm+mt
-source-wordcount: '1276'
+source-wordcount: '1282'
 ht-degree: 4%
 ---
 # AWS 마이그레이션 {#aws-migration}
@@ -32,7 +32,7 @@ ht-degree: 4%
 
 * **데이터 가져오기/내보내기 또는 주요 리드/사용자 생성 캠페인을 실행하지 마십시오**.
 
-* 로그인, API 액세스, 전자 메일 전송, 웹 추적 및 통합을 위해 **IP 허용 목록 검토 및 업데이트**.
+* **로그인, API 액세스, 전자 메일 전송, 웹 추적 및 통합(예: CRM 동기화 및 웹후크)을 위해 IP 허용 목록을 검토하고 업데이트합니다**.
 
 * **새 IP 주소를 추가**&#x200B;하고 현재 IP를 그대로 유지합니다. 아래 [표](#ip-addresses)을 통해 추가할 IP 주소를 참조하세요.
 
@@ -47,7 +47,7 @@ ht-degree: 4%
 
 >[!IMPORTANT]
 >
->[외부 양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}을 사용하고 마이그레이션 기간 동안 Marketo Engage을 사용할 수 없는 동안 수집된 양식 제출 데이터가 손실되지 않도록 하려면 미리 [Adobe 지원 센터](https://experienceleague.adobe.com/ko/support){target="_blank"} **최소 2일**&#x200B;에 연락하여 양식 ID와 구독의 Munchkin ID를 제공하십시오.
+>[외부 양식](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}을 사용하고 마이그레이션 기간 동안 Marketo Engage을 사용할 수 없는 동안 수집된 양식 제출 데이터가 손실되지 않도록 하려면 미리 [Adobe 지원 센터](https://experienceleague.adobe.com/en/support){target="_blank"} **최소 2일**&#x200B;에 연락하여 양식 ID와 구독의 Munchkin ID를 제공하십시오.
 
 ## 데이터 센터/포드 식별 {#identify}
 
@@ -365,9 +365,9 @@ ht-degree: 4%
 
 최신 정보를 보려면 이 페이지를 책갈피로 지정하십시오.
 
-상태 업데이트의 경우 마이그레이션 시작 및 완료 시 [구독을 통해 &#x200B;](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}받을 수 있습니다. 마이그레이션 기간 동안 [status.adobe.com](https://status.adobe.com/ko-kr/){target="_blank"}을(를) 방문할 수도 있습니다.
+상태 업데이트의 경우 마이그레이션 시작 및 완료 시 [구독을 통해 ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}받을 수 있습니다. 마이그레이션 기간 동안 [status.adobe.com](https://status.adobe.com/){target="_blank"}을(를) 방문할 수도 있습니다.
 
-질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/ko/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
+질문이 있는 경우 Admin Console 또는 [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}의 지원 포털을 통해 Adobe 지원 센터에 문의하십시오.
 
 ## FAQ {#faq}
 
@@ -393,6 +393,6 @@ Aurora는 또한 Amazon S3에 대한 지속적인 자동 백업을 실시간으�
 **캠페인을 일시 중지할 수 있는 다른 방법이 있습니까?**
 예. 사람들이 이동하지 못하도록 하고 들어오는 데이터를 손실하지 않으려면 다음 옵션을 고려하십시오.
 
-* 선택 단계 추가: 캠페인을 비활성화하는 대신 활성 상태로 두되, 흐름의 맨 위에 [대기 흐름 단계](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} 또는 즉시 &quot;아무 작업도 안 함&quot; 단계를 추가하십시오. 사람들을 일시 중지된 상태로 유도하는 [선택 규칙](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"}을 설정한 다음 준비가 되면 선택 규칙을 업데이트하십시오.
-* 흐름에서 제거: 사람들이 이미 캠페인에 들어갔지만 진행을 중지해야 하는 경우 [흐름에서 제거](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} 액션을 사용하여 캠페인 트리거를 영구적으로 사용하지 않도록 설정하지 않고도 제거할 수 있습니다.
+* 선택 단계 추가: 캠페인을 비활성화하는 대신 활성 상태로 두되, 흐름의 맨 위에 [대기 흐름 단계](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} 또는 즉시 &quot;아무 작업도 안 함&quot; 단계를 추가하십시오. 사람들을 일시 중지된 상태로 유도하는 [선택 규칙](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"}을 설정한 다음 준비가 되면 선택 규칙을 업데이트하십시오.
+* 흐름에서 제거: 사람들이 이미 캠페인에 들어갔지만 진행을 중지해야 하는 경우 [흐름에서 제거](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} 액션을 사용하여 캠페인 트리거를 영구적으로 사용하지 않도록 설정하지 않고도 제거할 수 있습니다.
 * 배치 대체 요소: 즉각적인 라우팅이나 응답이 필요하지 않고 사람들을 하룻밤 또는 예약된 간격으로 처리하려는 경우 트리거 캠페인을 배치 캠페인으로 변환하는 것이 좋습니다.
