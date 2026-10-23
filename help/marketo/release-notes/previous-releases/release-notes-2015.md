@@ -90,7 +90,7 @@ ht-degree: 1%
 * 프로그램 ID로 리드 가져오기
 * 삭제된 리드 가져오기
 
-또한 더 빠른 API 호출을 위해 리드 변경을 비동기식으로 작성하는 새로운 리드 동기화 옵션이 있습니다. 전체 세부 정보는 [https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home)에 릴리스된 후에 사용할 수 있습니다.
+또한 더 빠른 API 호출을 위해 리드 변경을 비동기식으로 작성하는 새로운 리드 동기화 옵션이 있습니다. 전체 세부 정보는 [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/home)에 릴리스된 후에 사용할 수 있습니다.
 
 **전자 메일 스크립팅 사용자 지정 개체 지원**
 
@@ -98,7 +98,7 @@ ht-degree: 1%
 
 ## Real-Time Personalization {#real-time-personalization}
 
-Google 및 [!DNL Facebook]&#x200B;**에 대해**&#x200B;개인화된 리마케팅
+Google 및 [!DNL Facebook]**에 대해**&#x200B;개인화된 리마케팅
 
 리마케팅은 웹 사이트를 방문한 사람에게 광고를 표시합니다. 이제 Real-Time Personalization의 데이터를 사용하여 [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) 및 [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)에서 리마케팅 캠페인을 개인화할 수 있습니다. 다른 업계의 대상, 명명된 계정 목록, 회사 규모 또는 알려진 잠재 고객의 데이터를 리마케팅합니다.
 
@@ -121,7 +121,7 @@ Named Accounts 모듈의 개선 사항은 사용자의 일치율과 유효성 �
 1. CDN이 없는 비동기 태그
 1. CDN 없이 동기식 태그
 
-최상의 성능을 위해 태그를 웹 페이지의 헤더 맨 위에 `<head>` 뒤에 배치하는 것이 좋습니다. 모든 태그는 [RTP API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) 사용을 허용합니다. RTP 태그를 배포하는 방법에 대한 자세한 내용은 [여기](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)를 참조하십시오.
+최상의 성능을 위해 태그를 웹 페이지의 헤더 맨 위에 `<head>` 뒤에 배치하는 것이 좋습니다. 모든 태그는 [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) 사용을 허용합니다. RTP 태그를 배포하는 방법에 대한 자세한 내용은 [여기](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)를 참조하십시오.
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
 
@@ -191,7 +191,7 @@ SSL3에 대한 지원이 제거되었습니다. 이전 웹 브라우저에 대�
 
 ## 새 자산 REST API {#new-asset-rest-apis}
 
-[새 자산 REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/assets/assets)
+[새 자산 REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 이제 API를 통해 [전자 메일, 템플릿, 내 토큰, 파일 및 코드 조각을 만들고 편집할 수 있습니다](https://developer.adobe.com/marketo-apis/api/asset/)!
 
@@ -380,7 +380,7 @@ RTP의 머신 러닝 및 예측 분석 알고리즘을 사용하여 올바른 �
 
 ## [!DNL Google Chrome]에 대한 Marketo Insights {#marketo-insights-for-google-chrome}
 
-[&#x200B; [!DNL Google Chrome]에 대한 Marketo 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[ [!DNL Google Chrome]에 대한 Marketo 인사이트](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 [!DNL Google Mail] [!DNL Sales Insight] 확장에 대한 업데이트 릴리스를 발표하게 되어 기쁘게 생각합니다! [[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)에서 봅니다.
 

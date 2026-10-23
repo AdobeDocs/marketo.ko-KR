@@ -497,7 +497,7 @@ ht-degree: 96%
       + [리드 조사](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [리드 가져오기](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [프로그램 유효성 검사](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [Marketo Mcp](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mcp-server)
+    + [Marketo Mcp](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CRM 동기화 {#crm-sync}
     + Microsoft Dynamics 동기화 {#microsoft-dynamics}
       + [Microsoft Dynamics 동기화 이해](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1922,7 +1922,7 @@ ht-degree: 96%
   + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat 릴리스 TEMP](release-notes/dynamic-chat-temp.md)
   + [이전 릴리스](release-notes/previous-releases.md)
-  + {hide-from-toc}이전 릴리스 개 {#previous-releases}
+  + 이전 릴리스 {hide-from-toc}개 {#previous-releases}
     + 2026 {#2026}
       + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)

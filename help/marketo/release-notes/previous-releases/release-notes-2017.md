@@ -215,7 +215,7 @@ Marketo의 활동 API에 중요한 변화가 오고 있습니다. 준비됐니?
 
 방문자가 페이지를 닫기 전에 방문자의 관심을 사로잡습니다. 마우스 동작이 방문자가 페이지를 나가는 것을 나타낼 때만 표시하도록 개인화된 [!UICONTROL Web Campaigns]을(를) 설정하십시오.
 
-[!UICONTROL Web Campaigns]&#x200B;[&#128279;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**에 대한**&#x200B;애니메이션 효과
+[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**에 대한**[&#x200B;애니메이션 효과
 
 웹 페이지를 입력하거나 종료할 때 캠페인이 표시되는 방식을 사용자 지정하려면 대화 상자 웹 캠페인에 대한 애니메이션 효과를 설정하십시오. 6가지 효과 중에서 선택하고 대화 상자의 타이밍과 방향을 제어할 수 있습니다.
 
@@ -392,11 +392,11 @@ Marketo 내의 여러 채널에서 크리에이티브 에셋 및 이미지를 �
 
 ## 통합  {#integration}
 
-**[전자 메일 미리 보기 API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting)**
+**[전자 메일 미리 보기 API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 이제 Marketo 외부에서 이메일을 원격으로 미리 볼 수 있으므로 이메일 콘텐츠 현지화 프로세스를 단순화하고 오류를 줄일 수 있습니다.
 
-**[HTML API 바꾸기](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/email-scripting)**
+**[HTML API 바꾸기](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 개발자는 이메일 에셋의 HTML 콘텐츠를 원격으로 업데이트할 수 있으므로 에셋을 유지 관리하기 위해 단일 시스템 내에서 작업할 수 있습니다.
 
