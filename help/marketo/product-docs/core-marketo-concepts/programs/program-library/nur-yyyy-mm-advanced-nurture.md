@@ -6,20 +6,24 @@ exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
 TQID: https://experienceleague.adobe.com/hdywHZ1nm-guYiDHprc3a7l9u2iab-kCGvkIxd-oLoo
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 508
+source-wordcount: '508'
 ht-degree: 11%
-
 ---
-
 # NUR-YYYY-MM-고급 육성 {#nur-yyyy-mm-advanced-nurture}
 
 다음은 Marketo Engage Engagement Program을 활용한 고급 육성 프로그램의 예입니다. 중첩된 이메일 프로그램은 사용자가 이미 사용한 콘텐츠를 수신하지 못하도록 하거나 각 스트림에서 소비해야 하는 콘텐츠 유형을 제어합니다. 각각의 중첩된 이메일 프로그램에 대해 속성 보고를 실행할 수 있습니다. 채널: 중첩된 이메일 프로그램에 대한 &quot;Grooth&quot; 및 전용 &quot;Grooth Email&quot; 채널은 Marketo Engage 이메일 프로그램을 사용하여 뉴스레터 이메일 1개를 전송합니다. 이메일에는 A/B 테스트가 포함되거나 포함되지 않을 수 있습니다.
@@ -194,20 +198,20 @@ ht-degree: 11%
 ## 충돌 규칙 {#conflict-rules}
 
 * **프로그램 태그**
-   * 이 구독에서 태그 만들기 - _권장_
-   * 무시
+  * 이 구독에서 태그 만들기 - _권장_
+  * 무시
 
 * **같은 이름의 랜딩 페이지 템플릿**
-   * 원본 템플릿 복사
-   * 대상 템플릿 사용 - _권장_
+  * 원본 템플릿 복사
+  * 대상 템플릿 사용 - _권장_
 
 * **이름이 같은 이미지**
-   * 두 파일 모두 보관
-   * 이 구독의 항목 바꾸기 - _권장_
+  * 두 파일 모두 보관
+  * 이 구독의 항목 바꾸기 - _권장_
 
 * **같은 이름의 전자 메일 서식 파일**
-   * 두 템플릿 모두 유지
-   * 기존 템플릿 바꾸기 - _권장_
+  * 두 템플릿 모두 유지
+  * 기존 템플릿 바꾸기 - _권장_
 
 ## 모범 사례 {#best-practices}
 

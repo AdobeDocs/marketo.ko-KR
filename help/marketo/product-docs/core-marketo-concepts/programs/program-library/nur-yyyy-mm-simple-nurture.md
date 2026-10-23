@@ -6,18 +6,21 @@ exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
 TQID: https://experienceleague.adobe.com/4dEZucMMXmSHngRHdUqasKVAg08MkwZFIDn1OzbxnVg
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 369
+source-wordcount: '369'
 ht-degree: 13%
-
 ---
-
 # NUR-YYYY-MM-단순 육성 {#nur-yyyy-mm-simple-nurture}
 
 다음은 간단한 육성 프로그램의 예입니다. Marketo Engage 참여 프로그램 을 사용하면 케이던스된 콘텐츠가 데이터베이스에 지속적으로 저장되고 스트림을 활용하여 동작을 기반으로 여정을 통해 레코드를 안내할 수 있습니다.
@@ -150,20 +153,20 @@ ht-degree: 13%
 ## 충돌 규칙 {#conflict-rules}
 
 * **프로그램 태그**
-   * 이 구독에서 태그 만들기 - _권장_
-   * 무시
+  * 이 구독에서 태그 만들기 - _권장_
+  * 무시
 
 * **같은 이름의 랜딩 페이지 템플릿**
-   * 원본 템플릿 복사
-   * 대상 템플릿 사용 - _권장_
+  * 원본 템플릿 복사
+  * 대상 템플릿 사용 - _권장_
 
 * **이름이 같은 이미지**
-   * 두 파일 모두 보관
-   * 이 구독의 항목 바꾸기 - _권장_
+  * 두 파일 모두 보관
+  * 이 구독의 항목 바꾸기 - _권장_
 
 * **같은 이름의 전자 메일 서식 파일**
-   * 두 템플릿 모두 유지
-   * 기존 템플릿 바꾸기 - _권장_
+  * 두 템플릿 모두 유지
+  * 기존 템플릿 바꾸기 - _권장_
 
 ## 모범 사례 {#best-practices}
 
