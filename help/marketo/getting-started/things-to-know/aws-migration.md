@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: 6d87546b2dda91d292596a246fda2aec8c5b496a
+source-git-commit: 26cd137342ecb342803a74c44713541af9faf28c
 workflow-type: tm+mt
-source-wordcount: '1245'
+source-wordcount: '1282'
 ht-degree: 4%
 ---
 # AWS 마이그레이션 {#aws-migration}
@@ -32,7 +32,7 @@ ht-degree: 4%
 
 * **데이터 가져오기/내보내기 또는 주요 리드/사용자 생성 캠페인을 실행하지 마십시오**.
 
-* 로그인, API 액세스, 전자 메일 전송, 웹 추적 및 통합을 위해 **IP 허용 목록 검토 및 업데이트**.
+* **로그인, API 액세스, 전자 메일 전송, 웹 추적 및 통합(예: CRM 동기화 및 웹후크)을 위해 IP 허용 목록을 검토하고 업데이트합니다**.
 
 * **새 IP 주소를 추가**&#x200B;하고 현재 IP를 그대로 유지합니다. 아래 [표](#ip-addresses)을 통해 추가할 IP 주소를 참조하세요.
 
@@ -332,7 +332,7 @@ ht-degree: 4%
 
 ## 추가할 IP 주소 {#ip-addresses}
 
-데이터 센터를 기반으로 IT 부서와 협력하여 각 IP 주소를 추가합니다.
+조직에서 IP 허용 목록, 방화벽, 액세스 제어 목록, Marketo Engage의 연결을 수락하도록 구성된 다른 서버 또는 서드파티 서비스를 사용하는 경우 IT 부서와 함께 아래 표에 나열된 데이터 센터와 관련된 IP 주소를 추가합니다.
 
 <table>
 <tbody>
