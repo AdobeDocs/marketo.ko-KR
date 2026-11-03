@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512289
-description: Marketo에서 웨비나 등록 및 출석을 관리할 수 있도록  [!DNL GoToWebinar] 을(를) LaunchPoint 서비스로 추가합니다.
-title: ' [!DNL LaunchPoint] 서비스로  [!DNL GoToWebinar] 추가'
+description: Marketo에서 웨비나 등록 및 출석을 관리할 수 있도록 [!DNL GoToWebinar]을(를) LaunchPoint 서비스로 추가합니다.
+title: '[!DNL GoToWebinar]을(를) [!DNL LaunchPoint] 서비스로 추가'
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/5KrCqBMRk-5avIMRc9GLDJPI5FY8JAWGwRaeC60HEFY
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 134
-ht-degree: 6%
-
+source-wordcount: '138'
+ht-degree: 3%
 ---
-
 # [!DNL GoToWebinar]을(를) [!DNL LaunchPoint] 서비스로 추가 {#add-gotowebinar-as-a-launchpoint-service}
 
 Marketo에서 [!DNL GoToWebinar] 등록 및 출석을 관리합니다.
@@ -39,7 +37,7 @@ Marketo에서 [!DNL GoToWebinar] 등록 및 출석을 관리합니다.
 >
 >[!DNL GoToMeeting], [!DNL GoToWebcast] 및 [!DNL GoToTraining]은(는) 현재 지원되지 않습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 

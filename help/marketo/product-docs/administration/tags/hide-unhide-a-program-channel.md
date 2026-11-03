@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 17%
+source-wordcount: '104'
+ht-degree: 13%
 ---
 # 프로그램 채널 숨기기/숨기기 취소 {#hide-unhide-a-program-channel}
 
@@ -34,7 +34,7 @@ ht-degree: 17%
 
 ## 프로그램 채널 숨기기 {#hide-a-program-channel}
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 

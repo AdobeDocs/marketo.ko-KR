@@ -21,10 +21,10 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 8%
+source-wordcount: '182'
+ht-degree: 6%
 ---
 # 사용자 로그인 기록 {#user-login-history}
 
@@ -44,7 +44,7 @@ ht-degree: 8%
 
 사용자 로그인 기록을 보려면 다음 작업을 수행하십시오.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/user-login-history-1.png)
 

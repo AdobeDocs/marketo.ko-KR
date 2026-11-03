@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 13%
+source-wordcount: '119'
+ht-degree: 10%
 ---
 # 개인 파티션 만들기 {#create-a-person-partition}
 
@@ -33,7 +33,7 @@ ht-degree: 13%
 >
 >자세한 내용은 [작업 영역 및 개인 파티션 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)를 참조하십시오.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-a-person-partition-1.png)
 
@@ -55,4 +55,4 @@ ht-degree: 13%
 
 >[!TIP]
 >
->[목록 가져오기](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} 프로세스 중에 특정 개인 파티션을 선택하여 사용자를 필터링할 수 있습니다.
+>[목록 가져오기](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} 프로세스 중에 특정 개인 파티션을 선택하여 사용자를 필터링할 수 있습니다.

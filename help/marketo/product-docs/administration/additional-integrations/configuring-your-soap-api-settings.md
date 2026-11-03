@@ -17,24 +17,22 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 96
-ht-degree: 22%
-
+source-wordcount: '97'
+ht-degree: 18%
 ---
-
 # SOAP API 설정 구성 {#configuring-your-soap-api-settings}
 
 >[!IMPORTANT]
 >
->2026년 7월 31일에 SOAP API가 [더 이상 사용되지 않습니다](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/soap/soap-api). 대신 [REST API](https://developer.adobe.com/marketo-apis/)를 사용하는 것이 좋습니다.
+>2026년 7월 31일에 SOAP API가 [더 이상 사용되지 않습니다](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api). 대신 [REST API](https://developer.adobe.com/marketo-apis/)를 사용하는 것이 좋습니다.
 
 >[!NOTE]
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 

@@ -20,10 +20,10 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 5%
+source-wordcount: '656'
+ht-degree: 4%
 ---
 # 웹 사이트에 [!DNL Munchkin] 추적 코드 추가 {#add-munchkin-tracking-code-to-your-website}
 
@@ -39,7 +39,7 @@ Marketo의 사용자 지정 JavaScript 추적 코드([!DNL Munchkin])는 웹 사
 >
 >Adobe Experience Cloud 사용자는 [Adobe Launch의 Marketo 통합](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}을 사용하여 웹 페이지에 [!DNL Munchkin] 스크립트를 포함할 수도 있습니다. Adobe Launch를 사용하는 경우 _[!DNL Munchkin] 스크립트가 자동으로 추가됩니다_. 따라서 직접 추가할 필요는 없습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
@@ -79,7 +79,7 @@ Marketo의 사용자 지정 JavaScript 추적 코드([!DNL Munchkin])는 웹 사
 
 Marketo 계정에서 Workspaces를 사용하는 경우 작업 공간에 해당하는 별도의 웹 존재도 있을 수 있습니다. 이 경우 [!DNL Munchkin] 추적 Javascript를 사용하여 익명의 사용자를 올바른 작업 영역과 파티션에 할당할 수 있습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 

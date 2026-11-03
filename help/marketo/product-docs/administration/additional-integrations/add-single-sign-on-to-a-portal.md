@@ -18,13 +18,11 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 620
-ht-degree: 6%
-
+source-wordcount: '621'
+ht-degree: 5%
 ---
-
 # 포털에 Single Sign-On 추가 {#add-single-sign-on-to-a-portal}
 
 사용자를 인증하는 디렉터리 서비스가 있는 경우 Marketo에 SSO(Single Sign-On)를 허용할 수 있습니다. Marketo은 [!DNL Security Assertion Markup Language]&#x200B;(SAML) 버전 2.0 이상을 사용하여 이 기능을 지원합니다.
@@ -73,7 +71,7 @@ SSO가 활성화되면 IdP는 사용자의 자격 증명을 확인할 수 있습
 
 SSO는 기본적으로 비활성화되어 있습니다. 다음 단계에 따라 SAML을 활성화하고 구성합니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 

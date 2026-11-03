@@ -14,10 +14,10 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 15%
+source-wordcount: '109'
+ht-degree: 11%
 ---
 # [!DNL Microsoft Dynamics]에 대한 [!DNL Marketo Sales Insight] 솔루션 다운로드 {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
@@ -29,7 +29,7 @@ ht-degree: 15%
 >
 >이 페이지의 플러그인은 Marketo의 기본 CRM 동기화 솔루션을 사용하여 [!DNL Dynamics 365]에 Marketo Engage으로 동기화하는 사용자를 위한 것입니다. 사용자 지정 동기화, [!DNL MS Dynamics 365 Online]&#x200B;(9.x 이상) 및 [!DNL Marketo Sales Insight]을(를) 구입한 사용자의 경우 [패키지가 여기에 있습니다](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/mainnavhand.png)
 

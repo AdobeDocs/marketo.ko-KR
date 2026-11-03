@@ -18,13 +18,11 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 249
-ht-degree: 8%
-
+source-wordcount: '250'
+ht-degree: 6%
 ---
-
 # SSO로만 사용자 로그인 제한 {#restrict-user-login-to-sso-only}
 
 [SSO를 사용](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)하고 있으며 사용자가 SSO 보안을 무시할 수 없도록 하려면 다음 지침을 따르십시오.
@@ -37,7 +35,7 @@ ht-degree: 8%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 

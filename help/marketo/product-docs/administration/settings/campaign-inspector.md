@@ -18,20 +18,18 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 126
-ht-degree: 7%
-
+source-wordcount: '127'
+ht-degree: 3%
 ---
-
 # 캠페인 검사기 {#campaign-inspector}
 
 Campaign Inspector를 사용하여 한 곳에서 모든 스마트 캠페인을 보고 검색할 수 있습니다.
 
 ## Campaign Inspector 활성화 {#enable-campaign-inspector}
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/campaign-inspector-1.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7504893
-description: LaunchPoint에서 관리자 계정을 사용하여 여러  [!DNL Google AdWords] 개의 계정을 Marketo과 통합합니다.
-title: 관리자 계정을 사용하여  [!DNL Google AdWords] as a [!DNL Launchpoint] Service 추가
+description: LaunchPoint에서 관리자 계정을 사용하여 여러 [!DNL Google AdWords] 계정을 Marketo과 통합합니다.
+title: 관리자 계정을 사용하여 [!DNL Google AdWords]을(를) [!DNL Launchpoint] 서비스로 추가
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/fQYFZRLEULbnvJnYh1Yp9ziGIz1KPYwUPSqeo5Et63Y
@@ -20,13 +20,11 @@ topic_v2:
     internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 283
-ht-degree: 7%
-
+source-wordcount: '287'
+ht-degree: 5%
 ---
-
 # 관리자 계정을 사용하여 [!DNL Google AdWords]을(를) [!DNL Launchpoint] 서비스로 추가 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
 [!DNL Google AdWords] 계정을 Marketo에 연결하여 Marketo에서 [!DNL Google AdWords]&#x200B;(으)로 오프라인 전환 데이터를 자동으로 업로드합니다. [!DNL AdWords]에서 [사용자 지정 열을 추가](https://support.google.com/adwords/answer/3073556){target="_blank"}한 후 [!DNL AdWords] UI에서 자격 있는 리드, 기회 및 신규 고객(또는 추적하려는 매출 단계)을 일으킨 클릭 수를 확인할 수 있습니다. 이 정보는 Marketo UI에 표시되지 않습니다.
@@ -47,7 +45,7 @@ ht-degree: 7%
 >
 >[독립형 [!DNL Google AdWords] 계정을  [!DNL Launchpoint] 서비스](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}(으)로 통합할 수도 있습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-1.png)
 

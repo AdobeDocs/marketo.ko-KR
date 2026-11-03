@@ -16,18 +16,16 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 131
-ht-degree: 19%
-
+source-wordcount: '132'
+ht-degree: 16%
 ---
-
 # 개인 세부 정보 페이지용 사용자 정의 탭 만들기 {#creating-a-custom-tab-for-the-person-detail-page}
 
 개인 세부 정보 페이지의 특정 필드 세트에 자주 액세스해야 하는 경우 사용자 정의 레이아웃을 만드는 것이 좋습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 

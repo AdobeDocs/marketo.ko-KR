@@ -10,9 +10,9 @@ product_v2:
 feature_v2:
   - id: 44b89f75-c1af-5353-8094-79b278102d46
     internal-label: Mobile Marketing
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '145'
 ht-degree: 11%
 ---
 # LaunchPoint 서비스로 Vibes 추가 {#add-vibes-as-a-launchpoint-service}
@@ -27,7 +27,7 @@ SMS 활동을 활용하여 Marketo Engage 인스턴스에서 기본적으로 캠
 >
 >Vibes SMS에 대한 활성 Vibes 계정 및 Adobe 라이선스가 있어야 합니다.
 
-1. 내 Marketo에서 **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo의 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 

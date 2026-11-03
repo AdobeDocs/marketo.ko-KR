@@ -18,10 +18,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 21%
+source-wordcount: '86'
+ht-degree: 16%
 ---
 # 기존 개인 파티션 편집 {#edit-an-existing-person-partition}
 
@@ -35,7 +35,7 @@ ht-degree: 21%
 >
 >[개인 파티션 만들기](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-an-existing-person-partition-1.png)
 

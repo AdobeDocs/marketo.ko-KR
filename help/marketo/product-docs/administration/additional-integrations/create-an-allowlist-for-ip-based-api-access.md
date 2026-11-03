@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: aa0494716e0deb2a2d04be5b2e6fdd1c13483f45
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 20%
+source-wordcount: '126'
+ht-degree: 16%
 ---
 # IP 기반 API 액세스에 대한 허용 목록 만들기 {#create-an-allowlist-for-ip-based-api-access}
 
@@ -29,7 +29,7 @@ ht-degree: 20%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 

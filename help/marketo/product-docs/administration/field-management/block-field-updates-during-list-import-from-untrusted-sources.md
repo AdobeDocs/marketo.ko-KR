@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 13%
+source-wordcount: '188'
+ht-degree: 11%
 ---
 # 신뢰할 수 없는 소스에서 목록 가져오기 중 필드 업데이트 차단 {#block-field-updates-during-list-import-from-untrusted-sources}
 
@@ -34,7 +34,7 @@ ht-degree: 13%
 
 ## 신뢰할 수 없는 원본에서 필드 업데이트 차단 {#blocking-field-updates-from-untrusted-sources}
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 

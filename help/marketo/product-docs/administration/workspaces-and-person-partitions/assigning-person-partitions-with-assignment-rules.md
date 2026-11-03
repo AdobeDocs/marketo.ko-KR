@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 13%
+source-wordcount: '161'
+ht-degree: 10%
 ---
 # 할당 규칙을 사용하여 사용자 파티션 할당 {#assigning-person-partitions-with-assignment-rules}
 
@@ -37,7 +37,7 @@ ht-degree: 13%
 >
 >CRM과 SOAP API를 통해 Marketo에서 생성된 사람에게만 할당 규칙이 적용됩니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 

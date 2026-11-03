@@ -19,16 +19,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 16%
+source-wordcount: '126'
+ht-degree: 13%
 ---
 # 프로그램 채널에서 프로그램 상태 삭제 {#delete-a-program-status-from-a-program-channel}
 
 프로그램 상태는 프로그램 경로(채널)를 통한 체크포인트입니다. 실수로 상태를 만들거나 더 이상 필요하지 않은 경우 삭제할 수 있습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 

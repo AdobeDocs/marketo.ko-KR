@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512272
-description: Marketo에 등록 및 참석을 동기화하려면  [!DNL Webex] 웨비나를 LaunchPoint 서비스로 추가하십시오.
-title: ' [!DNL LaunchPoint] 서비스로  [!DNL Webex] 추가'
+description: '[!DNL Webex] 웨비나를 LaunchPoint 서비스로 추가하여 Marketo에 등록 및 참석을 동기화합니다.'
+title: '[!DNL Webex]을(를) [!DNL LaunchPoint] 서비스로 추가'
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/usUuncd-iS8bP6trbho6Y9aO-idLgQsYmSIgNCq7g2I
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 97
-ht-degree: 10%
-
+source-wordcount: '101'
+ht-degree: 5%
 ---
-
 # [!DNL Webex]을(를) [!DNL LaunchPoint] 서비스로 추가 {#add-webex-as-a-launchpoint-service}
 
 Marketo Engage에서 [!DNL Webex] 웨비나 등록 및 출석을 관리합니다. [[!UICONTROL Webex]](https://www.webex.com/)에 대한 기존 구독이 있어야 합니다.
@@ -31,7 +29,7 @@ Marketo Engage에서 [!DNL Webex] 웨비나 등록 및 출석을 관리합니다
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-webex-as-a-launchpoint-service-1.png)
 

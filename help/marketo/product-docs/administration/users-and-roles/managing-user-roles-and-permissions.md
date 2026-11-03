@@ -21,13 +21,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 458
-ht-degree: 10%
-
+source-wordcount: '462'
+ht-degree: 6%
 ---
-
 # 사용자 역할 및 권한 관리 {#managing-user-roles-and-permissions}
 
 사용자 역할을 설정, 생성 및 편집하고 사용자에게 할당합니다. 이를 통해 각 Marketo 사용자가 액세스할 수 있는 영역 및 기능을 제어할 수 있습니다.
@@ -53,7 +51,7 @@ Marketo은 다양한 액세스 수준을 갖는 몇 가지 기본 제공 역할�
 
 [처음 사용자를 만들](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)때 사용자에게 역할을 할당할 수 있습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
@@ -77,7 +75,7 @@ Marketo은 다양한 액세스 수준을 갖는 몇 가지 기본 제공 역할�
 
 경우에 따라 조직에 사용자 정의 권한 조합이 필요한 매우 구체적인 역할의 직원이 있습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
@@ -101,7 +99,7 @@ Marketo은 다양한 액세스 수준을 갖는 몇 가지 기본 제공 역할�
 
 기존 역할과 연결된 권한을 변경해야 하는 경우 역할을 편집할 수 있습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
@@ -129,7 +127,7 @@ Marketo은 다양한 액세스 수준을 갖는 몇 가지 기본 제공 역할�
 
 역할이 불필요하게 되면 삭제할 수 있습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 

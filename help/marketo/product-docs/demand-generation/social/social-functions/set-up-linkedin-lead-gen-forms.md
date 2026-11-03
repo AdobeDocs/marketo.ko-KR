@@ -20,10 +20,10 @@ feature_v2:
 subfeature_v2:
   - id: e9b7b90f-6f8a-4637-a2ca-00239808918c
     internal-label: Social
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 4%
+source-wordcount: '495'
+ht-degree: 3%
 ---
 # LinkedIn 리드 생성 양식 설정 {#set-up-linkedin-lead-gen-forms}
 
@@ -37,7 +37,7 @@ LinkedIn 리드 세대 Forms을 사용하여 LinkedIn에서 광고 캠페인을 
 >
 >* LinkedIn 리드가 회사 API를 사용하여 만든 회사 레코드와 연결된 Marketo의 기존 사용자 레코드와 일치하고 Marketo 구독이 CRM에 연결되어 있지 않으면 Marketo Engage으로 연결되지 않습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/set-up-linkedin-lead-gen-forms-1.png)
 

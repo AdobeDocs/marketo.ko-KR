@@ -27,13 +27,11 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 152
-ht-degree: 13%
-
+source-wordcount: '153'
+ht-degree: 10%
 ---
-
 # 스니펫에 대한 초안 없음 기능 활성화 {#enable-no-draft-for-snippets}
 
 코드 조각에 대한 초안 없음 을 사용하면 승인된 에셋을 작성하지 않고 코드 조각 변경 사항을 배포할 수 있습니다. 편집된 스니펫을 사용하는 모든 자산은 업데이트를 받고 각각의 상태를 유지합니다.
@@ -48,7 +46,7 @@ ht-degree: 13%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 

@@ -23,10 +23,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 11%
+source-wordcount: '160'
+ht-degree: 8%
 ---
 # 통신 제한 활성화 {#enable-communication-limits}
 
@@ -36,7 +36,7 @@ ht-degree: 11%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-communication-limits-1.png)
 

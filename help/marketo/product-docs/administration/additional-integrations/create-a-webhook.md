@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360360
 description: SMS, 개인 데이터 등을 위해 서드파티 웹 서비스를 호출하는 Admin의 웹후크를 만듭니다.
-title: ' [!DNL Webhook] 만들기'
+title: '[!DNL Webhook] 만들기'
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
 TQID: https://experienceleague.adobe.com/O4xw1wSvFeTJ2xqZn4Eo7JbrUBQQmKcl7mvLkduFXGc
@@ -21,18 +21,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 202
-ht-degree: 3%
-
+source-wordcount: '203'
+ht-degree: 1%
 ---
-
 # [!DNL Webhook] 만들기 {#create-a-webhook}
 
 [!DNL Webhooks]을(를) 사용하여 문자 메시지를 보내고 개인 데이터를 확장하는 등의 서드파티 웹 서비스를 이용하십시오.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-a-webhook-1.png)
 
@@ -54,13 +52,13 @@ ht-degree: 3%
 
    * **[!UICONTROL URL]**: 웹 서비스에 대한 요청에 사용하는 URL을 입력하십시오. 개인 전자 메일 주소(**`{{lead.Email Address}}`**)와 같은 토큰을 요청에서 삽입하려면 **[!UICONTROL Insert Token]**&#x200B;을(를) 클릭합니다.
 
-   * **[!UICONTROL Template]**: 요청 본문에서 정보를 전송하려면 페이로드 템플릿을 통해 을(를) 입력하십시오. POST, DELETE, PATCH 또는 PUT 요청 유형에 허용된 템플릿. JSON 또는 XML과 같은 데이터 형식을 사용할 수 있습니다. 템플릿에 토큰을 삽입하려면 **[!UICONTROL Insert Token]**&#x200B;을(를) 클릭합니다.
+   * **[!UICONTROL Template]**: 요청 본문에서 정보를 전송하려면 페이로드 템플릿을 통해 을(를) 입력하십시오. POST, DELETE, PATCH 또는 PUT 요청 유형에 허용되는 템플릿. JSON 또는 XML과 같은 데이터 형식을 사용할 수 있습니다. 템플릿에 토큰을 삽입하려면 **[!UICONTROL Insert Token]**&#x200B;을(를) 클릭합니다.
 
    * **[!UICONTROL Request Token Encoding]**: 토큰 값에 특수 문자(예: 앰퍼샌드, &#39;&amp;&#39;)가 포함된 경우 요청 형식을 지정하십시오(**JSON** 또는 **Form/Url**).
 
    * **[!UICONTROL Response type]**: 서비스에서 받는 응답의 형식(**JSON** 또는 **XML**)을 선택하십시오.
 
-   * **[!UICONTROL Request Type]**: 사용할 HTTP 메서드(DELETE, GET, PATCH, POST, PUT)를 선택합니다.
+   * **[!UICONTROL Request Type]**: 사용할 HTTP 메서드(DELETE, GET, PATCH, POST, PUT)를 선택하십시오.
 
 1. **[!UICONTROL Create]**&#x200B;를 클릭합니다.
 
@@ -68,4 +66,4 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[[!DNL Webhooks]](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} 심층 분석에서 자세히 알아보세요.
+>[[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} 심층 분석에서 자세히 알아보세요.

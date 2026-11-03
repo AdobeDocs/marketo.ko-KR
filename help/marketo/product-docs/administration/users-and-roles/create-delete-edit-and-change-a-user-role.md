@@ -17,13 +17,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 254
-ht-degree: 16%
-
+source-wordcount: '258'
+ht-degree: 10%
 ---
-
 # 사용자 역할 만들기, 삭제, 편집 및 변경 {#create-delete-edit-and-change-a-user-role}
 
 **역할**&#x200B;이(가) 권한 집합을 함께 그룹화합니다. **권한**&#x200B;을 통해 Marketo에서 작업을 수행할 수 있습니다. 사용자에게 **역할**&#x200B;을(를) 할당합니다.
@@ -41,7 +39,7 @@ ht-degree: 16%
 
 ## 역할 만들기 {#create-a-role}
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
@@ -59,7 +57,7 @@ ht-degree: 16%
 
 ## 역할 삭제 {#delete-a-role}
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
@@ -85,7 +83,7 @@ ht-degree: 16%
 >
 >자신의 사용자 역할을 편집하려면 관리자 권한이 있는 다른 사용자로 로그인해야 합니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
@@ -111,7 +109,7 @@ ht-degree: 16%
 
 ## 사용자의 역할 변경 {#change-a-users-role}
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 

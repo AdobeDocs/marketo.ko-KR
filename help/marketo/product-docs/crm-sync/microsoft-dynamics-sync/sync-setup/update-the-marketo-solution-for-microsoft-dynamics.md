@@ -14,10 +14,10 @@ feature_v2:
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
     internal-label: Microsoft Dynamics
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 5%
+source-wordcount: '170'
+ht-degree: 2%
 ---
 # [!DNL Microsoft Dynamics]에 대한 Marketo 솔루션 업데이트 {#update-the-marketo-solution-for-microsoft-dynamics}
 
@@ -31,7 +31,7 @@ ht-degree: 5%
 >
 >업데이트를 수행하려면 최신 Marketo 솔루션 _before_&#x200B;을(를) 다운로드해야 합니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/admin.png)
 
