@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 12%
+source-wordcount: '109'
+ht-degree: 9%
 ---
 # 사용자 정의 활동 만들기 {#create-a-custom-activity}
 
@@ -32,7 +32,7 @@ ht-degree: 12%
 >
 >대부분의 구독에는 10개의 사용자 지정 활동 유형으로 할당된 제한이 있습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-a-custom-activity-1.png)
 

@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 10%
+source-wordcount: '238'
+ht-degree: 7%
 ---
 # Marketo 사용자 정의 오브젝트 편집 및 삭제 {#edit-and-delete-a-marketo-custom-object}
 
@@ -34,7 +34,7 @@ ht-degree: 10%
 
 사용자 지정 객체를 편집하거나 삭제하려면 사용자 지정 객체 작업 메뉴를 사용합니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
@@ -64,7 +64,7 @@ ht-degree: 10%
 >
 >사용자 지정 개체를 삭제한 후에는 복원할 수 없습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 

@@ -16,13 +16,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 85
-ht-degree: 22%
-
+source-wordcount: '86'
+ht-degree: 17%
 ---
-
 # 역할 및 권한 내보내기 {#export-roles-and-permissions}
 
 다음 단계에서는 모든 역할과 해당 권한을 내보내는 방법을 설명합니다.
@@ -31,7 +29,7 @@ ht-degree: 22%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/export-roles-and-permissions-1.png)
 

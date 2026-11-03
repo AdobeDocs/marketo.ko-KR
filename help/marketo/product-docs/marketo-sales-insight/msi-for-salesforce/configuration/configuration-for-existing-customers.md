@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 10%
+source-wordcount: '159'
+ht-degree: 7%
 ---
 # 기존 고객에 대한 구성 {#configuration-for-existing-customers}
 
@@ -33,7 +33,7 @@ ht-degree: 10%
 
 1. 브라우저에서 새 탭을 열어 Marketo 계정에서 [!DNL Marketo Sales Insights] 자격 증명을 가져옵니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/configuration-for-existing-customers-1.png)
 

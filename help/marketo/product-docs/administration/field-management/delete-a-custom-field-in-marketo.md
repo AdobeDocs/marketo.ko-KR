@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 27%
+source-wordcount: '97'
+ht-degree: 22%
 ---
 # Marketo에서 사용자 정의 필드 삭제 {#delete-a-custom-field-in-marketo}
 
@@ -32,7 +32,7 @@ ht-degree: 27%
 
 더 이상 을 사용하지 않는 경우 이전에 만든 필드를 제거할 수 있습니다. 죄송합니다. Marketo에서 필드를 삭제할 수 없지만 _할 수_ 사용자 인터페이스에서 숨길 수 있습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 

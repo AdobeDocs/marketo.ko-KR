@@ -14,10 +14,10 @@ feature_v2:
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
     internal-label: Microsoft Dynamics
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 21%
+source-wordcount: '101'
+ht-degree: 16%
 ---
 # Marketo 리드 관리 솔루션 다운로드 {#download-the-marketo-lead-management-solution}
 
@@ -35,7 +35,7 @@ ht-degree: 21%
 >
 >Marketo은 현재 Java 7과 호환되는 SSL 인증서만 지원합니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 

@@ -10,16 +10,16 @@ product_v2:
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 16%
+source-wordcount: '72'
+ht-degree: 11%
 ---
 # 표준 시간대 변경 {#change-time-zone}
 
 Marketo Engage 구독에서 시간대를 변경하는 방법을 알아봅니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/change-time-zone-1.png)
 

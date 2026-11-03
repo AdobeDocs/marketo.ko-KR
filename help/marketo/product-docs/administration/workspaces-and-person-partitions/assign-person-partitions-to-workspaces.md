@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 19%
+source-wordcount: '134'
+ht-degree: 16%
 ---
 # 작업 영역에 개인 파티션 할당 {#assign-person-partitions-to-workspaces}
 
@@ -37,7 +37,7 @@ ht-degree: 19%
 >
 >작업 영역과 개인 파티션은 복잡할 수 있습니다. 설정하는 데 도움이 필요하면 [Marketo 지원](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}에 문의하십시오.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 

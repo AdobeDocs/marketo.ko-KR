@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 79
-ht-degree: 25%
-
+source-wordcount: '80'
+ht-degree: 20%
 ---
-
 # 실험실 기능 활성화 또는 비활성화 {#enable-or-disable-treasure-chest-features}
 
 보물상자에는 완벽하게 뒷받침되지 않는 실험적 특징이 담겨 있다.
@@ -29,7 +27,7 @@ ht-degree: 25%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 

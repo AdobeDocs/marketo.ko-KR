@@ -1,7 +1,7 @@
 ---
 unique-page-id: 17728028
-description: Marketo에서 웨비나 등록 및 출석을 관리할 수 있도록  [!DNL Zoom] 을(를) LaunchPoint 서비스로 추가하십시오.
-title: ' [!DNL LaunchPoint] 서비스로  [!DNL Zoom] 추가'
+description: Marketo에서 웨비나 등록 및 출석을 관리할 수 있도록 [!DNL Zoom]을(를) LaunchPoint 서비스로 추가하십시오.
+title: '[!DNL Zoom]을(를) [!DNL LaunchPoint] 서비스로 추가'
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/b0mxXTjrJjwRWHpeCdcNYu6JjY6qcHM7NX7ghiqMLaw
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 115
-ht-degree: 7%
-
+source-wordcount: '119'
+ht-degree: 4%
 ---
-
 # [!DNL Zoom]을(를) [!DNL LaunchPoint] 서비스로 추가 {#add-zoom-as-a-launchpoint-service}
 
 Marketo에서 [!DNL Zoom] 등록 및 출석을 관리합니다.
@@ -35,7 +33,7 @@ Marketo에서 [!DNL Zoom] 등록 및 출석을 관리합니다.
 >
 >이 단계에는 [!DNL Zoom]에 대한 기존 구독과 관리 권한이 필요합니다. 현재 [!DNL Zoom]에 로그인하는 데 사용하는 전자 메일과 암호를 가지고 있습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 

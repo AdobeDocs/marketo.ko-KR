@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 233
-ht-degree: 9%
-
+source-wordcount: '234'
+ht-degree: 7%
 ---
-
 # IP를 기준으로 Marketo 로그인 제한 {#restrict-marketo-logins-based-on-ip}
 
 사용자가 IP 주소를 기반으로 Marketo에 액세스하지 못하도록 제한하거나 활성화할 수 있습니다. 아래 단계를 수행합니다.
@@ -38,7 +36,7 @@ ht-degree: 9%
 >
 >2027년 1분기 이후에는 Marketo Engage IP 제한 사항이 중단됩니다. IP 기반 액세스는 AAC를 통해서만 관리되며 로그인 제한을 적용하도록 구성해야 합니다. 최종 전환일은 나중에 발표될 예정입니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 

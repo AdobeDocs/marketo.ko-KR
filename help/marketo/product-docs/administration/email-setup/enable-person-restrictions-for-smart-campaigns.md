@@ -25,10 +25,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 14%
+source-wordcount: '149'
+ht-degree: 11%
 ---
 # 스마트 캠페인에 대한 개인 제한 활성화 {#enable-person-restrictions-for-smart-campaigns}
 
@@ -42,7 +42,7 @@ Smart Campaign의 자격을 가질 수 있는 _최대_ 인원을 제한하는 �
 >
 >이는 캠페인 및 이메일 프로그램을 일괄 처리하는 경우에만 적용됩니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 

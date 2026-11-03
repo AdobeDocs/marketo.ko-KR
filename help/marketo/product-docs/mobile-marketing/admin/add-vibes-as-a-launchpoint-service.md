@@ -14,9 +14,9 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '177'
 ht-degree: 9%
 ---
 # LaunchPoint 서비스로 Vibes 추가 {#add-vibes-as-a-launchpoint-service}
@@ -31,7 +31,7 @@ SMS 활동을 활용하여 Marketo Engage 인스턴스에서 기본적으로 캠
 >
 >Vibes SMS에 대한 활성 Vibes 계정 및 Adobe 라이선스가 있어야 합니다. Marketo Vibes SMS 기본 통합은 미국 및 캐나다에서 사용할 수 있습니다. 다른 국가의 경우 [Vibes에 직접 연결](https://www.vibes.com/talk-to-sales){target="_blank"}하여 Marketo Webhooks를 통한 연결을 이용할 수 있습니다.
 
-1. 내 Marketo에서 **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo의 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 

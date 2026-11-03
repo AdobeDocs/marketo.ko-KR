@@ -14,10 +14,10 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 14%
+source-wordcount: '127'
+ht-degree: 11%
 ---
 # [!DNL Microsoft Dynamics]에 대한 [!DNL Marketo Sales Insight] 솔루션 업그레이드 {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
@@ -27,7 +27,7 @@ ht-degree: 14%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 

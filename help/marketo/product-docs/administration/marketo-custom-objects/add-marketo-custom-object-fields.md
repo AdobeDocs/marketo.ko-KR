@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 5%
+source-wordcount: '290'
+ht-degree: 3%
 ---
 # Marketo 사용자 정의 오브젝트 필드 추가 {#add-marketo-custom-object-fields}
 
@@ -30,7 +30,7 @@ ht-degree: 5%
 
 필드는 사용자 지정 개체에서 사용하는 특정 정보를 정의합니다. 링크 필드는 특정 목적(사용자 지정 개체 연결)으로 사용되며 [별도의 문서](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)에서 다룹니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 

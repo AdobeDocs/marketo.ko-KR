@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 150
-ht-degree: 24%
-
+source-wordcount: '152'
+ht-degree: 19%
 ---
-
 # ReST API에서 사용할 맞춤형 서비스 만들기 {#create-a-custom-service-for-use-with-rest-api}
 
 ReST API를 통해 Marketo과 통합하려면 사용자 지정 서비스를 만듭니다.
@@ -43,7 +41,7 @@ ReST API를 통해 Marketo과 통합하려면 사용자 지정 서비스를 만�
 
 ## 사용자 정의 서비스 만들기 {#create-custom-service}
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
@@ -67,7 +65,7 @@ ReST API를 통해 Marketo과 통합하려면 사용자 지정 서비스를 만�
 
 ## API 액세스용 자격 증명 {#credentials-for-api-access}
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 

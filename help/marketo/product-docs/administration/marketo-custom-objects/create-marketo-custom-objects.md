@@ -21,10 +21,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 7%
+source-wordcount: '690'
+ht-degree: 5%
 ---
 # Marketo 사용자 정의 오브젝트 만들기 {#create-marketo-custom-objects}
 
@@ -42,7 +42,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 
 이 예에서는 일대다 구조에서 사용할 Car 사용자 지정 개체를 보여 줍니다. 나중에 다대다 구조에서 사용할 코스 사용자 지정 개체와 중간 개체를 만듭니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
@@ -88,7 +88,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 >
 >다대다 관계의 경우 사용자 지정 개체에 링크를 만들 필요가 없습니다. 대신 중간 개체에 두 개의 링크를 추가합니다(아래 참조).
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
@@ -130,7 +130,7 @@ Marketo의 사용자 지정 개체를 사용하여 비즈니스와 관련된 지
 >
 >일대다 사용자 지정 개체 구조에 대해 중간 개체를 만들 필요가 없습니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-marketo-custom-objects-13.png)
 

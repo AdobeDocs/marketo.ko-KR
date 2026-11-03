@@ -21,10 +21,10 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 16%
+source-wordcount: '124'
+ht-degree: 12%
 ---
 # 목록 가져오기를 위한 필드 별칭 편집 {#edit-field-aliases-for-list-import}
 
@@ -34,7 +34,7 @@ ht-degree: 16%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 

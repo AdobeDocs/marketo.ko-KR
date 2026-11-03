@@ -23,10 +23,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '685'
-ht-degree: 3%
+source-wordcount: '687'
+ht-degree: 2%
 ---
 # Marketo 사용자 정의 오브젝트 링크 필드 추가 {#add-marketo-custom-object-link-fields}
 
@@ -43,7 +43,7 @@ ht-degree: 3%
 
 일대다 구조에 대한 사용자 지정 개체에 링크 필드를 만들려면 아래 단계를 따르십시오.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
@@ -97,7 +97,7 @@ ht-degree: 3%
 >
 >중간 개체 및 연결하려는 사용자 지정 개체를 이미 만들었어야 합니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 

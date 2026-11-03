@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 10%
+source-wordcount: '145'
+ht-degree: 7%
 ---
 # 작업 영역 편집 {#edit-a-workspace}
 
@@ -33,7 +33,7 @@ ht-degree: 10%
 >
 >작업 영역에 대한 자세한 내용은 [작업 영역 및 개인 파티션 이해](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}를 참조하십시오.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-a-workspace-1.png)
 

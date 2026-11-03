@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 16%
+source-wordcount: '133'
+ht-degree: 13%
 ---
 # 기본 브랜딩 도메인 편집 {#edit-your-default-branding-domain}
 
@@ -32,7 +32,7 @@ ht-degree: 16%
 >
 >Marketo에서 브랜딩 도메인을 추가하기 전에 [DNS에서 CNAME을 설정](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}했는지 확인하십시오.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/edit-your-default-branding-domain-1.png)
 

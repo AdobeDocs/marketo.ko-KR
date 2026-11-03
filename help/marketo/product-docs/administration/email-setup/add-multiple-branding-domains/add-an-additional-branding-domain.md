@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 19%
+source-wordcount: '698'
+ht-degree: 18%
 ---
 # 추가 브랜딩 도메인 추가 {#add-an-additional-branding-domain}
 
@@ -32,7 +32,7 @@ ht-degree: 19%
 >
 >브랜드 도메인을 추가하기 전에 일반 추적 링크를 [브랜드 도메인으로 바꾸기](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"}해야 합니다.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/add-an-additional-branding-domain-1.png)
 

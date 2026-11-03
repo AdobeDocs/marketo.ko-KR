@@ -21,10 +21,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 16%
+source-wordcount: '163'
+ht-degree: 11%
 ---
 # 필드 숨기기 및 숨기기 취소 {#hide-and-unhide-a-field}
 
@@ -36,7 +36,7 @@ Marketo Engage에서 더 이상 필드가 필요하지 않은 경우 애플리�
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
@@ -64,7 +64,7 @@ Marketo Engage에서 더 이상 필드가 필요하지 않은 경우 애플리�
 
 ## 필드 숨기기 취소 {#unhide-a-field}
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 

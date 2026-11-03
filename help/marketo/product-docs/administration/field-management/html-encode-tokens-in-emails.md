@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 19%
+source-wordcount: '92'
+ht-degree: 15%
 ---
 # 이메일의 HTML 인코딩 토큰 {#html-encode-tokens-in-emails}
 
@@ -36,7 +36,7 @@ ht-degree: 19%
 >
 >인코딩은 전송 시 혼동을 방지하기 위해 문자를 HTML 코드 버전으로 변환합니다(예: &quot;&amp;&quot;가 `&amp;`(으)로 변경됨). 자세한 내용은 웹 개발자에게 문의하십시오.
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/html-encode-tokens-in-emails-1.png)
 

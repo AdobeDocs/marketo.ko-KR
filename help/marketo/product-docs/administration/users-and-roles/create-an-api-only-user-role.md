@@ -19,13 +19,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 133
-ht-degree: 22%
-
+source-wordcount: '134'
+ht-degree: 19%
 ---
-
 # API 전용 사용자 역할 만들기 {#create-an-api-only-user-role}
 
 [REST API](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/rest-api)를 통해 Marketo과 통합하려는 경우, 가장 좋은 방법은 [사용자에게 API 전용 역할을 할당](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md)한 다음 [REST API에 사용할 사용자 지정 서비스를 만들기](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)하는 것입니다. 다음 단계에서는 API 전용 사용자 역할을 만드는 방법을 설명합니다.
@@ -34,7 +32,7 @@ ht-degree: 22%
 >
 >**관리자 권한 필요**
 
-1. **[!UICONTROL Admin]** 영역으로 이동합니다.
+1. 내 Marketo에서 **[!UICONTROL Admin]**&#x200B;을(를) 클릭합니다.
 
    ![](assets/create-an-api-only-user-role-1.png)
 
