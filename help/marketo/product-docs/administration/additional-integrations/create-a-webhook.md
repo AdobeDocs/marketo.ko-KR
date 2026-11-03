@@ -66,4 +66,4 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->[[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} 심층 분석에서 자세히 알아보세요.
+>[[!DNL Webhooks]](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} 심층 분석에서 자세히 알아보세요.
