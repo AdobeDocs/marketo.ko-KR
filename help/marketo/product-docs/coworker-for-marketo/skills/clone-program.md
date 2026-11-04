@@ -1,14 +1,13 @@
 ---
 description: 복제 프로그램은 기존 Marketo 프로그램을 새 이름의 새 폴더에 복제하여 구조를 유지하면서 새 캠페인을 사용자 지정할 수 있도록 합니다.
 title: 프로그램 복제
-badge: Beta
 hide: true
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 26d2dab1123b77187e5d73a2ee0e67940c39e082
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '486'
 ht-degree: 0%
 ---
 # 프로그램 복제 {#clone-program}
