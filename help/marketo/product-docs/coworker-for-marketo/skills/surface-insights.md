@@ -1,14 +1,13 @@
 ---
 description: 성능 데이터에 대해 CX Enterprise Coworker for Marketo Engage과 대화합니다. 일반적인 언어로 질문하고 Marketo Engage 환경에서 답변을 얻을 수 있습니다.
 title: Surface 인사이트
-badge: Beta
 hide: true
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 26d2dab1123b77187e5d73a2ee0e67940c39e082
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '536'
 ht-degree: 0%
 ---
 # Surface 인사이트 {#surface-insights}
