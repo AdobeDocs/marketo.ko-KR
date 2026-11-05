@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
+source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 14%
+source-wordcount: '545'
+ht-degree: 12%
 ---
 # 릴리스 노트: 2026년 11월 {#release-notes-nov-26}
 
@@ -91,8 +91,10 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 ## 공지 {#announcements}
 
-* **웹에서 Grab 이미지 사용 중단**: 최신 보안 및 개인 정보 보호 모범 사례를 준수하기 위해 [웹에서 Grab 이미지 사용 중단](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} 기능은 11월 릴리스부터 더 이상 사용되지 않습니다.
+* **클래식 UI 사용 중단**: 이제 Marketo Engage 인터페이스에서 보다 깔끔하고 현대적인 환경을 위해 업데이트된 메뉴, 아이콘 및 레이아웃을 포함하여 새로운 디자인을 제공합니다. 이 업데이트는 시각적 업데이트일 뿐이며 기존 기능이나 워크플로는 변경되지 않습니다. 현재 드롭다운 메뉴를 사용하여 클래식 인터페이스와 새로 고침된 인터페이스 사이를 전환할 수 있지만, 클래식 인터페이스는 2027년 1월 릴리스가 끝날 때까지 중단됩니다(정확한 날짜는 곧 결정 예정).
+
+* **웹에서 Grab 이미지 사용 중단**: 최신 보안 및 개인 정보 보호 모범 사례를 준수하기 위해 [웹에서 Grab 이미지 사용 중단](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} 기능은 11월 릴리스부터 더 이상 사용되지 않습니다.
 
 * **사용자 지정 활동 특성에 대한 API 이름 제한**: 이제 API 또는 UI를 통해 만든 사용자 지정 활동 특성에 대한 API 이름에는 영숫자와 밑줄만 포함될 수 있으며 영숫자로 시작해야 합니다.
 
-* **잠재 고객 활동 가져오기 및 잠재 고객 변경 가져오기**: 2026년 9월 30일부터 대상 목록에 10,000개 이상의 잠재 고객이 포함된 경우 `listId` 매개 변수를 포함하는 잠재 고객 가져오기 활동 또는 잠재 고객 변경 가져오기 엔드포인트에 대한 호출이 1003 오류 코드(대상 정적 목록에 레코드가 너무 많음을 나타냄)로 실패하기 시작했습니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.
+* **잠재 고객 활동 가져오기 및 잠재 고객 변경 가져오기**: 2026년 9월 30일부터 대상 목록에 10,000개 이상의 잠재 고객이 포함된 경우 `listId` 매개 변수를 포함하는 잠재 고객 가져오기 활동 또는 잠재 고객 변경 가져오기 엔드포인트에 대한 호출이 1003 오류 코드(대상 정적 목록에 레코드가 너무 많음을 나타냄)로 실패하기 시작했습니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.
