@@ -4,7 +4,7 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: b1ab5ab541fd79c8c42fbcd018e23baf51337aac
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
 source-wordcount: '8948'
 ht-degree: 96%
@@ -494,7 +494,7 @@ ht-degree: 96%
       + {hide-from-toc}[호출 가능 에이전트](product-docs/coworker-for-marketo/skills/callable-agents.md)
       + {hide-from-toc}[표면 인사이트](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + [프로그램 빌드](product-docs/coworker-for-marketo/skills/build-programs.md)
-      + {hide-from-toc}[캠페인 계획](product-docs/coworker-for-marketo/skills/plan-campaigns.md)
+      + [플랜 캠페인](product-docs/coworker-for-marketo/skills/plan-campaigns.md)
       + {hide-from-toc}[프로그램 복제](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [리드 조사](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [리드 가져오기](product-docs/coworker-for-marketo/skills/import-leads.md)

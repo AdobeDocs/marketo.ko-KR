@@ -1,9 +1,9 @@
 ---
 description: Marketo Engage용 CX Enterprise Coworker을 사용하여 캠페인 개요를 대상 논리, 이메일, 토큰 및 QA 검사에 대한 구조화된 프로그램 플랜으로 전환합니다.
 title: 플랜 캠페인
-source-git-commit: b47454801d391f4d7a75ebcfce7ac76c2f4b8af4
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '743'
 ht-degree: 0%
 ---
 # 플랜 캠페인 {#plan-campaigns}
@@ -12,7 +12,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->이 스킬은 Marketo Engage 프로그램(사람이나 자동화 시스템에 캠페인을 구축하는 방법을 정확하게 알려 주는 구조화된 문서)에 대한 구현 계획을 생성합니다. Marketo Engage에서는 아무것도 만들어지지 않습니다. [프로그램 빌드](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md)에 대한 별도의 기술이 있습니다.
+>- 이 스킬은 Marketo Engage 프로그램(사람이나 자동화 시스템에 캠페인을 구축하는 방법을 정확하게 알려 주는 구조화된 문서)에 대한 구현 계획을 생성합니다. Marketo Engage에서는 아무것도 만들어지지 않습니다. [프로그램 빌드](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}에 대한 별도의 기술이 있습니다.
+>- 이 스킬은 [조직 규칙](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}에 의해 안내됩니다.
 
 ## 필요 조건 {#prerequisites}
 

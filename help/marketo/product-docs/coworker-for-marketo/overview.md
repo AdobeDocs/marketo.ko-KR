@@ -4,9 +4,9 @@ title: CX Enterprise Coworker for Marketo Engage 개요
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '468'
 ht-degree: 1%
 ---
 # CX Enterprise Coworker for Marketo Engage 개요 {#overview}
@@ -33,9 +33,13 @@ CX Enterprise Coworker for Marketo Engage은 시간이 많이 소요되지만 �
 
 ![](assets/cx-overview-2.png)
 
-## 기술 {#skills}
+## 스킬 {#skills}
 
 센터 콘솔에는 다양한 작업에 도움이 되는 늘어나는 에이전트 기술이 포함되어 있습니다. 각 스킬은 특정 작업을 완료하기 위해 자연어를 통해 상호 작용하는 특수 목적의 AI 도우미입니다.
+
+### 플랜 캠페인 {#plan-campaigns}
+
+캠페인 개요를 Marketo Engage에 대한 구조화된 구현 계획으로 전환합니다. 플랜 캠페인 스킬은 프로그램 구조, 대상 논리, 이메일, 스마트 캠페인, 토큰, 보고 및 사전 활성화 검사에 대한 개요를 제공합니다. [플랜 캠페인 기술](/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md){target="_blank"}에 대해 자세히 알아보세요.
 
 ### 프로그램 빌드 {#build-programs}
 
@@ -59,11 +63,7 @@ CX Enterprise Coworker for Marketo Engage은 시간이 많이 소요되지만 �
 
 ## 곧 출시 예정 {#coming-soon}
 
-다음과 같이 가장 반복적이고 시간이 많이 소요되는 작업을 처리하도록 설계된 추가 에이전트가 곧 제공될 예정입니다.
-
-* 리드가 라이프사이클을 통해 MQL이나 진행되지 않은 이유를 진단합니다.
-* 캠페인 개요에서 직접 전체 Marketo Engage 프로그램을 생성합니다.
-* 기타.
+가장 반복적이고 시간이 많이 소요되는 작업을 처리하기 위해 고안된 추가 기술이 곧 제공될 예정입니다.
 
 >[!MORELIKETHIS]
 >

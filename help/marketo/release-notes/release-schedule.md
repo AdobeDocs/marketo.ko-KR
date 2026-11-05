@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: dc6ced4679de39db058fb0125ce7cc5586c77560
+source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 64%
+source-wordcount: '202'
+ht-degree: 62%
 ---
 # 릴리스 일정 {#release-schedule}
 
@@ -83,6 +83,11 @@ _릴리스 일자/기능은 변경될 수 있습니다._
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">26년 11월</a></td>
    <td>2026년 11월 6일</td>
+   <td>일정대로 진행 중</td>
+  </tr>
+  <tr>
+  <td>27 년 1 월</td>
+   <td>2027년 1월 15일</td>
    <td>일정대로 진행 중</td>
   </tr>
  </tbody>

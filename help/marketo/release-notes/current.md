@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
+source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 15%
+source-wordcount: '545'
+ht-degree: 12%
 ---
 # 릴리스 노트: 2026년 11월 {#release-notes-nov-26}
 
@@ -50,8 +50,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>캠페인 스킬 계획</strong>: 이제 Marketo Engage용 CX Enterprise Coworker에서 캠페인 개요를 전체 Marketo Engage 프로그램 설정 문서로 만들 수 있습니다. 이 문서에는 폴더 구조, 스마트 캠페인, 이메일 구성, 토큰 및 QA 체크리스트가 포함되어 있습니다. 이렇게 하면 팀이 캠페인을 보다 빠르게 시작하고 프로그램 설정을 표준화할 수 있습니다. 스킬은 Markdown을 통해 구성할 수 있습니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>릴리스됨</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md" target="_blank">플랜 캠페인</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -90,6 +90,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 <br/>
 
 ## 공지 {#announcements}
+
+* **클래식 UI 사용 중단**: 이제 Marketo Engage 인터페이스에서 보다 깔끔하고 현대적인 환경을 위해 업데이트된 메뉴, 아이콘 및 레이아웃을 포함하여 새로운 디자인을 제공합니다. 이 업데이트는 시각적 업데이트일 뿐이며 기존 기능이나 워크플로는 변경되지 않습니다. 현재 드롭다운 메뉴를 사용하여 클래식 인터페이스와 새로 고침된 인터페이스 사이를 전환할 수 있지만, 클래식 인터페이스는 2027년 1월 릴리스가 끝날 때까지 중단됩니다(정확한 날짜는 곧 결정 예정).
 
 * **웹에서 Grab 이미지 사용 중단**: 최신 보안 및 개인 정보 보호 모범 사례를 준수하기 위해 [웹에서 Grab 이미지 사용 중단](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} 기능은 11월 릴리스부터 더 이상 사용되지 않습니다.
 
