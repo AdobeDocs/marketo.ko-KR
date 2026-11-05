@@ -1,9 +1,9 @@
 ---
 description: CX Enterprise Coworker for Marketo Engage을 사용하여 기존 템플릿을 조정하여 Marketo 프로그램을 빌드할 수 있습니다. 스마트 캠페인, 예약 및 자산 자리 표시자를 검토 및 구체화할 준비가 되었습니다.
 title: 프로그램 빌드
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+source-git-commit: 93193d2bf1f673472bb52d806864bfb083216cab
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '822'
 ht-degree: 0%
 ---
 # 프로그램 빌드 {#build-programs}
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## 사용 방법 {#how-to-use}
 
-1. 내 Marketo에서 **Marketo Engage용 CX Enterprise Coworker** 타일을 클릭합니다.
+1. 내 Marketo에서 **[!UICONTROL CX Enterprise Coworker for Marketo Engage]** 타일을 클릭합니다.
 
 1. 템플릿 프로그램을 선택합니다. 캠페인 유형과 일치하는 기존 프로그램(예: 이메일, 웨비나, 육성)을 선택합니다.
 
