@@ -4,9 +4,9 @@ title: 호출 가능 에이전트
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 93193d2bf1f673472bb52d806864bfb083216cab
+source-git-commit: 16b8e470bd4a4460c0179ccdd406ef89af7e9e17
 workflow-type: tm+mt
-source-wordcount: '1959'
+source-wordcount: '1957'
 ht-degree: 1%
 ---
 # 호출 가능 에이전트 {#callable-agents}
@@ -58,7 +58,7 @@ ht-degree: 1%
 
 | 템플릿 | 용도 | 입력 | 출력 |
 | --- | --- | --- | --- |
-| 회사 이름 정규자 | 법적 접미사를 제거하고, 일반적인 오타를 수정하며, 표준 브랜드 대소문자를 적용하여 회사 이름을 정리합니다. | 회사 | 정규화된 회사(텍스트), 신뢰도(숫자, 0-1) |
+| 회사 이름 정규자 | 법적 접미사를 제거하고, 일반적인 오타를 수정하며, 표준 브랜드 대소문자를 적용하여 회사 이름을 정리합니다. | 회사 | 정규화된 회사(텍스트), 신뢰도(숫자) |
 | Phone E.164 Formatter | 국제 E.164 표준으로 전화 번호 형식을 지정합니다. | 전화 | 표준화된 전화(텍스트), 신뢰도(숫자) |
 | 직위 표준화 | 직함을 표준화하고 연공서열을 도출합니다. | 제목 | 정규화된 제목(텍스트), 연공서열(C-Level, VP, Director, Manager, Individual 또는 Unknown), 신뢰도 |
 | 보트 및 스팸 감지기 | 보트 또는 스팸 양식 제출에 플래그를 지정합니다. | 이메일, 이름, 성, 회사, 전화 | 봇임(true/false), 신뢰도, 이유, 플래그(쉼표로 구분) |
