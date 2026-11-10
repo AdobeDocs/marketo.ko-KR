@@ -4,9 +4,9 @@ title: 조직 규칙
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 8f3a0c1b4eccb91701eab8a079a72c4a6d8d7092
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '870'
 ht-degree: 0%
 ---
 # 조직 규칙 {#organizational-rules}
@@ -35,6 +35,10 @@ ht-degree: 0%
 | 프로그램 유효성 검사 | 규칙은 활성화 전에 프로그램의 유효성을 검사할 때 Marketo Engage용 CX Enterprise Coworker 검사 내용을 정의합니다. |
 
 ## 조직 규칙에 액세스하고 사용자 지정하는 방법 {#how-to-access-and-customize-organizational-rules}
+
+>[!NOTE]
+>
+>**관리자 권한 필요**
 
 1. 내 Marketo에서 **Marketo Engage용 CX Enterprise Coworker** 타일을 클릭합니다.
 1. 톱니바퀴 아이콘을 클릭합니다.

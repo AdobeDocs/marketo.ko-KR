@@ -4,10 +4,10 @@ title: 설정 및 설정
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 8f3a0c1b4eccb91701eab8a079a72c4a6d8d7092
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 1%
+source-wordcount: '584'
+ht-degree: 2%
 ---
 # 설정 및 설정 {#settings-setup}
 
@@ -37,6 +37,10 @@ ht-degree: 1%
 ### Marketo Engage 권한에 대한 Coworker 액세스 {#access-coworker-marketo-permission}
 
 아직 활성화되지 않은 자격 있는 역할에 대해 _Marketo Engage용 Coworker 액세스_&#x200B;를 활성화하려면 아래 단계를 따르십시오.
+
+>[!NOTE]
+>
+>**관리자 권한 필요**
 
 1. 내 Marketo에서 **관리자**&#x200B;를 클릭한 다음 **사용자 및 역할**&#x200B;을 클릭합니다.
 
@@ -76,7 +80,7 @@ ht-degree: 1%
 
 ### 사용자 정의 역할 {#custom-role}
 
-[새 역할을 만들고](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} 사용 권한을 사용자 지정하는 옵션이 있습니다. _Marketo Engage용 Coworker 액세스_&#x200B;와 함께 원하는 모든 기능을 추가하고[특정 사용자에게 해당 역할을 할당](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}할 수 있습니다.
+[새 역할을 만들고](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} 사용 권한을 사용자 지정하는 옵션이 있습니다. _Marketo Engage용 Coworker 액세스_&#x200B;와 함께 원하는 모든 기능을 추가하고[특정 사용자에게 해당 역할을 할당](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}할 수 있습니다.
 
 ## 설정 {#settings}
 
