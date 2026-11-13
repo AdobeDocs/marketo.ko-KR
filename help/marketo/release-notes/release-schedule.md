@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
+source-git-commit: 8bb77c46ff74e07c9b150961259ccbd55930b5ce
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 62%
 ---
 # 릴리스 일정 {#release-schedule}
@@ -78,12 +78,12 @@ _릴리스 일자/기능은 변경될 수 있습니다._
   <tr>
   <td><a href="https://experienceleague.adobe.com/ko/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">2026년 9월</a></td>
    <td>2026년 9월 25일</td>
-   <td>진행 중</td>
+   <td>완료</td>
   </tr>
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">26년 11월</a></td>
    <td>2026년 11월 6일</td>
-   <td>일정대로 진행 중</td>
+   <td>진행 중</td>
   </tr>
   <tr>
   <td>27 년 1 월</td>

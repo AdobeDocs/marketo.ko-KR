@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: e5afc046c226779f9969569cf4648792d8c32ae5
+source-git-commit: 8bb77c46ff74e07c9b150961259ccbd55930b5ce
 workflow-type: tm+mt
-source-wordcount: '1278'
+source-wordcount: '1286'
 ht-degree: 4%
 ---
 # AWS 마이그레이션 {#aws-migration}
@@ -60,6 +60,7 @@ ht-degree: 4%
 어떤 이유로든 마이그레이션에 실패하는 경우 알림 메시지가 표시되고 일정이 조정됩니다.
 
 +++7월 일정
+
 <table>
  <tbody>
   <tr>
@@ -253,6 +254,8 @@ ht-degree: 4%
 
 +++
 
++++ 10월 일정
+
 <table>
  <tbody>
   <tr>
@@ -306,17 +309,30 @@ ht-degree: 4%
    <td>완료<br>
    완료됨</td>
   </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">일자</th>
+   <th style="width:25%">데이터 센터/Pod</th>
+   <th style="width:25%">시간</th>
+   <th style="width:25%">상태</th>
+  </tr>
   <tr>
    <td>2026년 11월 6일</td>
    <td>AB18</td>
    <td>오후 4시(PST)</td>
-   <td>일정대로 진행 중</td>
+   <td>완료</td>
   </tr>
   <tr>
    <td>2026년 11월 18일</td>
-   <td>SJ14</td>
-   <td>오후 5시(PST)</td>
-   <td>일정대로 진행 중</td>
+   <td><i>SJ14</i></td>
+   <td><i>오후 5시(PST)</i></td>
+   <td><i>연기됨(날짜 TBD)</i></td>
   </tr>
   <tr>
    <td>2026년 11월 20일</td>
