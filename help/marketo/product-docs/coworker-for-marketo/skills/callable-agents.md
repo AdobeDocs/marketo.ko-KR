@@ -4,18 +4,18 @@ title: 호출 가능 에이전트
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 16b8e470bd4a4460c0179ccdd406ef89af7e9e17
+source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
 workflow-type: tm+mt
-source-wordcount: '1957'
+source-wordcount: '1950'
 ht-degree: 1%
 ---
 # 호출 가능 에이전트 {#callable-agents}
 
 호출 가능 에이전트를 사용하면 Marketo Engage Smart Campaign의 단계로 AI 에이전트를 사용할 수 있습니다. Marketo Engage용 CX Enterprise Coworker에서 에이전트를 작성하고, 읽고 업데이트하는 리드 필드를 선택한 다음, 캠페인에서 사용할 수 있도록 게시합니다. 상담원은 데이터 정리, 리드 분류, 누락된 정보 보강 또는 화면 양식 제출을 도울 수 있습니다.
 
->[!PREREQUISITES]
+>[!NOTE]
 >
->Marketo Engage에서 **관리자 액세스** 권한이 있어야 합니다.
+>**관리자** 권한이 필요합니다.
 
 ## 시작하기에 앞서 {#before-you-begin}
 
@@ -36,7 +36,7 @@ ht-degree: 1%
 
 1. 초안을 저장하려면 **[!UICONTROL Save]**&#x200B;을(를) 선택하고 Marketo Engage에서 에이전트를 사용하려면 **[!UICONTROL Save and publish]**&#x200B;을(를) 선택하십시오.
 
-1. 스마트 캠페인을 열고 **[!UICONTROL Flow]** 탭을 선택합니다. 흐름 단계 목록의 마케팅 섹션에서 **호출 에이전트: _[에이전트 이름]_**&#x200B;을(를) 찾아 흐름으로 드래그합니다.
+1. 스마트 캠페인을 열고 **[!UICONTROL Flow]** 탭을 선택합니다. 흐름 단계 목록의 마케팅 섹션에서 **호출 에이전트: _[에이전트 이름]_**을(를) 찾아 흐름으로 드래그합니다.
 
 1. 소량의 잠재 고객 세트로 캠페인을 테스트합니다. 활동 로그를 검토하고 모든 리드에 대한 캠페인을 활성화하기 전에 출력 필드가 예상대로 업데이트되는지 확인하십시오.
 
