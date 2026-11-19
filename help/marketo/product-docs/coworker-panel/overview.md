@@ -5,9 +5,9 @@ badge: Beta
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: e33fb9e112e42d714f81b82fa46cc393e5877c79
+source-git-commit: 94ccd99bcc01dfa2d3df002853cb1396baf45de9
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '611'
 ht-degree: 1%
 ---
 # Marketo Engage의 CX Enterprise Coworker 패널 {#coworker-panel-overview}
@@ -42,7 +42,7 @@ Coworker 패널을 사용하면 Marketo Engage에서 직접 CX Enterprise Cowork
 
 1. 생성된 응답 및 제안된 변경 사항을 검토한 후 사용하십시오.
 
-## 기존 CX Enterprise Coworker 경험 {#your-existing-cx-enterprise-coworker-experience}
+## 기존 Marketo Engage용 CX Enterprise Coworker 경험 {#existing-experience}
 
 기존 기록 및 기능은 Marketo Engage용 Coworker에서 계속 사용할 수 있습니다. 임베드된 베타에 나타나지 않으며, 현재 경험에 계속 액세스할 수 있다고 해서 두 경험에 기능 패리티가 있는 것은 아닙니다.
 
