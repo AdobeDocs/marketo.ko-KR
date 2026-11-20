@@ -5,9 +5,9 @@ badge: Beta
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: e33fb9e112e42d714f81b82fa46cc393e5877c79
+source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '613'
 ht-degree: 1%
 ---
 # Marketo Engage의 CX Enterprise Coworker 패널 {#coworker-panel-overview}
@@ -22,7 +22,7 @@ Coworker 패널을 사용하면 Marketo Engage에서 직접 CX Enterprise Cowork
 
 | 영역 | 세부 사항 |
 | --- | --- |
-| 액세스 | Marketo Engage 내에서 임베드된 Beta를 엽니다. 기존 CX Enterprise Coworker for Marketo Engage 경험은 [현재 액세스 지점](/help/marketo/product-docs/coworker-for-marketo/overview.md#access)을 통해 계속 사용할 수 있습니다. |
+| 액세스 | Marketo Engage 내에서 임베드된 Coworker Beta 경험을 엽니다. 기존 CX Enterprise Coworker for Marketo Engage 경험은 [현재 액세스 지점](/help/marketo/product-docs/coworker-for-marketo/overview.md#access)을 통해 계속 사용할 수 있습니다. |
 | 기존 대화 | 기존 대화 기록은 현재 Marketo Engage용 CX Enterprise Coworker 경험에서 계속 사용할 수 있습니다. Beta를 활성화해도 해당 기록이 제거되지 않습니다. |
 | 기록 및 컨텍스트 | 베타와 기존 경험은 별도의 대화 이력과 맥락을 가지고 있다. 한 대화는 다른 대화에서는 사용할 수 없습니다. |
 | 기존 기능 | 는 현재 경험에서 계속 사용할 수 있습니다. |
@@ -42,7 +42,7 @@ Coworker 패널을 사용하면 Marketo Engage에서 직접 CX Enterprise Cowork
 
 1. 생성된 응답 및 제안된 변경 사항을 검토한 후 사용하십시오.
 
-## 기존 CX Enterprise Coworker 경험 {#your-existing-cx-enterprise-coworker-experience}
+## 기존 Marketo Engage용 CX Enterprise Coworker 경험 {#existing-experience}
 
 기존 기록 및 기능은 Marketo Engage용 Coworker에서 계속 사용할 수 있습니다. 임베드된 베타에 나타나지 않으며, 현재 경험에 계속 액세스할 수 있다고 해서 두 경험에 기능 패리티가 있는 것은 아닙니다.
 
