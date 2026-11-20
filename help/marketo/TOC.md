@@ -4,9 +4,9 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 8fdac8e20931dac59034be5ec8557ad1a7f13236
+source-git-commit: a913c84b1c4f8927c951af685884edfc792ff213
 workflow-type: tm+mt
-source-wordcount: '8953'
+source-wordcount: '8958'
 ht-degree: 96%
 ---
 
@@ -112,6 +112,7 @@ ht-degree: 96%
       + [통신 제한 활성화](product-docs/administration/email-setup/enable-communication-limits.md)
       + [스마트 캠페인에 대한 개인 제한 활성화](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
       + [캠페인 수준 이메일 열람 추적](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
+      + {hide-from-toc}[개인 수준의 전자 메일 추적](product-docs/administration/email-setup/email-tracking-at-person-level.md)
       + [이메일 봇 활동 필터링](product-docs/administration/email-setup/filtering-email-bot-activity.md)
       + [구독 취소 텍스트 제거](product-docs/administration/email-setup/remove-unsubscribe-text.md)
     + 필드 관리 {#field-management}
