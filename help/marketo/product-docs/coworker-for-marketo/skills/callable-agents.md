@@ -4,9 +4,9 @@ title: 호출 가능 에이전트
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
+source-git-commit: 5381bb670df1f69e535d0b349833f07b241a8ffd
 workflow-type: tm+mt
-source-wordcount: '1950'
+source-wordcount: '1918'
 ht-degree: 1%
 ---
 # 호출 가능 에이전트 {#callable-agents}
@@ -26,17 +26,31 @@ ht-degree: 1%
 
 1. 내 Marketo에서 **[!UICONTROL CX Enterprise Coworker for Marketo Engage]** 타일을 클릭합니다.
 
-1. 왼쪽 탐색에서 **[!UICONTROL Callable agents]**&#x200B;을(를) 선택합니다. 이 목록에는 각 에이전트의 이름, 생성 날짜, 생성자 및 상태가 표시됩니다. 이름별로 검색하거나 이름 또는 생성 날짜별로 정렬합니다.
+   ![](assets/callable-agents-1.png)
 
-1. **[!UICONTROL Create callable agent]**&#x200B;를 선택합니다. 템플릿을 선택하거나 템플릿 선택기를 비워 두어 처음부터 시작합니다.
+1. 오른쪽 상단에서 **[!UICONTROL Agents]**&#x200B;을(를) 선택합니다.
 
-1. **[!UICONTROL Agent name]**&#x200B;을(를) 입력하고 각 리드를 처리하는 방법을 설명하는 **[!UICONTROL Agent instructions]**&#x200B;을(를) 작성하십시오.
+   ![](assets/callable-agents-2.png)
 
-1. **[!UICONTROL Lead fields to send]**&#x200B;에서 에이전트에 필요한 리드 필드를 입력으로 추가합니다. **[!UICONTROL Lead fields to update]**&#x200B;에서 에이전트가 반환해야 하는 각 값을 추가하고 업데이트할 수 있는 리드 필드에 매핑합니다.
+1. **[!UICONTROL Create callable agent]**&#x200B;를 선택합니다.
 
-1. 초안을 저장하려면 **[!UICONTROL Save]**&#x200B;을(를) 선택하고 Marketo Engage에서 에이전트를 사용하려면 **[!UICONTROL Save and publish]**&#x200B;을(를) 선택하십시오.
+   ![](assets/callable-agents-3.png)
 
-1. 스마트 캠페인을 열고 **[!UICONTROL Flow]** 탭을 선택합니다. 흐름 단계 목록의 마케팅 섹션에서 **호출 에이전트: _[에이전트 이름]_**&#x200B;을(를) 찾아 흐름으로 드래그합니다.
+1. 템플릿을 사용하려면 **템플릿에서 시작**&#x200B;을 클릭하고 템플릿을 선택하십시오.
+
+1. 나만의 리드를 구축하려면 **[!UICONTROL Agent name]**&#x200B;을(를) 입력하고 각 리드를 처리하는 방법을 설명하는 **[!UICONTROL Agent instructions]**&#x200B;을(를) 작성하십시오.
+
+1. **[!UICONTROL Lead fields to send]**&#x200B;에서 에이전트에 필요한 리드 필드를 입력으로 추가합니다. **[!UICONTROL Lead fields to update]**&#x200B;에서 에이전트가 반환해야 하는 각 값을 추가하고 업데이트할 수 있는 리드 필드에 매핑합니다. 완료되면 **[!UICONTROL Create]**&#x200B;를 클릭합니다.
+
+   ![](assets/callable-agents-4.png)
+
+1. 스마트 캠페인을 열고 **[!UICONTROL Flow]** 탭을 선택합니다.
+
+   ![](assets/callable-agents-5.png)
+
+1. 플로우 작업 검색에 &quot;호출 가능&quot;을 입력합니다. 원하는 에이전트를 찾아 캔버스로 드래그합니다.
+
+   ![](assets/callable-agents-6.png)
 
 1. 소량의 잠재 고객 세트로 캠페인을 테스트합니다. 활동 로그를 검토하고 모든 리드에 대한 캠페인을 활성화하기 전에 출력 필드가 예상대로 업데이트되는지 확인하십시오.
 
