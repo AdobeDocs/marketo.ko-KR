@@ -91,7 +91,7 @@ Marketo Engage은 이 결정을 이메일 열기 및 이메일 클릭에 별도�
 
 | 메서드 | 참고 |
 |---|---|
-| [데이터 값 흐름 변경 단계](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | 양식에 대한 동의 확인란을 제출하는 것과 같이 사용자가 기준을 만족할 때 필드를 설정하려면 스마트 캠페인을 사용하십시오. |
+| [데이터 값 흐름 변경 단계](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | 양식에 대한 동의 확인란을 제출하는 것과 같이 사용자가 기준을 만족할 때 필드를 설정하려면 스마트 캠페인을 사용하십시오. |
 | 양식 | Marketo Engage 양식의 확인란 또는 숨겨진 필드를 개인 필드에 매핑합니다. |
 | 목록 가져오기 | 필드를 가져오기 파일의 열로 포함합니다. |
 | REST API | API 필드 이름 `overrideOpenTrackingDefault` 및 `overrideClickTrackingDefault`을(를) 사용합니다. |
@@ -115,7 +115,7 @@ Marketo Engage이 개인을 추적하지 않으면 해당 개인에게 보내는
 | Smart Campaign 트리거에서 전송된 이메일과 같은 이메일 트리거 | 예 |
 | A/B 테스트 또는 챔피언/챌린저 변형이 있는 이메일 | 예. 추적은 수신하는 변형에 관계없이 각 사용자에 대해 별도로 결정됩니다. |
 | 웹 페이지로 보기 | 예. 웹 버전은 개인의 현재 설정을 따릅니다. 변경 사항이 표시되는 데 최대 1시간이 걸릴 수 있습니다. |
-| [운영 전자 메일](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | 아니요. 일반적인 추적 동작을 따릅니다. |
+| [운영 전자 메일](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | 아니요. 일반적인 추적 동작을 따릅니다. |
 | 샘플(테스트) 이메일 | 아니요. 일반적인 추적 동작을 따릅니다. |
 | 이메일 미리 보기 | 거스름돈 없어 미리보기는 추적되지 않습니다. |
 | 경고 이메일 | 거스름돈 없어 경고는 추적되지 않습니다. |
@@ -125,7 +125,7 @@ Marketo Engage이 개인을 추적하지 않으면 해당 개인에게 보내는
 
 Marketo Engage은 전송할 이메일을 준비할 때 개인의 재정의 값을 읽습니다.
 
-- **예약된 배달 또는 지연된 배달:** 전자 메일이 지금 준비되고 나중에 배달되는 경우(예: [Head Start](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} 또는 [Recipient Time Zone](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}) 준비 시 값이 적용됩니다. 준비 후 변경한 사항은 해당 이메일을 변경하지 않습니다.
+- **예약된 배달 또는 지연된 배달:** 전자 메일이 지금 준비되고 나중에 배달되는 경우(예: [Head Start](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} 또는 [Recipient Time Zone](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}) 준비 시 값이 적용됩니다. 준비 후 변경한 사항은 해당 이메일을 변경하지 않습니다.
 - **이미 배달된 전자 메일:** 개인의 재정의를 변경해도 이미 받은 전자 메일은 변경되지 않습니다. 이전에 보낸 이메일의 링크 클릭은 해당 링크가 추적을 활성화한 상태로 준비된 경우에도 계속 추적할 수 있습니다.
 - **향후 이메일:** 변경 사항은 변경 후 Marketo Engage이 준비하는 이메일에 적용됩니다.
 
