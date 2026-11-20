@@ -4,7 +4,7 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: a913c84b1c4f8927c951af685884edfc792ff213
+source-git-commit: 44aea0fb30c2793856e910d7ecc638e2e661a6a9
 workflow-type: tm+mt
 source-wordcount: '8958'
 ht-degree: 96%
@@ -492,7 +492,7 @@ ht-degree: 96%
     + [CX Enterprise Coworker for Marketo Engage 데이터 정보 시트](product-docs/coworker-for-marketo/data-information.md)
     + 스킬 {#skills}
       + [제품 지식](product-docs/coworker-for-marketo/skills/product-knowledge.md)
-      + {hide-from-toc}[호출 가능 에이전트](product-docs/coworker-for-marketo/skills/callable-agents.md)
+      + [호출 가능 에이전트](product-docs/coworker-for-marketo/skills/callable-agents.md)
       + {hide-from-toc}[표면 인사이트](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + [프로그램 빌드](product-docs/coworker-for-marketo/skills/build-programs.md)
       + [플랜 캠페인](product-docs/coworker-for-marketo/skills/plan-campaigns.md)
@@ -500,7 +500,7 @@ ht-degree: 96%
       + [리드 조사](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [리드 가져오기](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [프로그램 유효성 검사](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [Marketo Mcp](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mcp-server)
+    + [Marketo Mcp](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CX Enterprise Coworker 패널 {#coworker-panel}
     + {hide-from-toc}[개요](product-docs/coworker-panel/overview.md)
   + CRM 동기화 {#crm-sync}
@@ -1927,7 +1927,7 @@ ht-degree: 96%
   + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat 릴리스 TEMP](release-notes/dynamic-chat-temp.md)
   + [이전 릴리스](release-notes/previous-releases.md)
-  + {hide-from-toc}이전 릴리스 개 {#previous-releases}
+  + 이전 릴리스 {hide-from-toc}개 {#previous-releases}
     + 2026 {#2026}
       + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)
