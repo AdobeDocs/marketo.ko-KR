@@ -4,9 +4,9 @@ title: 호출 가능 에이전트
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 5381bb670df1f69e535d0b349833f07b241a8ffd
+source-git-commit: 359355d18f91035b54e7cd33e3cea0d78a5b6ef8
 workflow-type: tm+mt
-source-wordcount: '1918'
+source-wordcount: '1930'
 ht-degree: 1%
 ---
 # 호출 가능 에이전트 {#callable-agents}
@@ -37,6 +37,10 @@ ht-degree: 1%
    ![](assets/callable-agents-3.png)
 
 1. 템플릿을 사용하려면 **템플릿에서 시작**&#x200B;을 클릭하고 템플릿을 선택하십시오.
+
+   >[!NOTE]
+   >
+   >호출 가능한 에이전트 템플릿에 대한 자세한 내용은 [템플릿에서 시작](#start-from-a-template)을 참조하십시오.
 
 1. 나만의 리드를 구축하려면 **[!UICONTROL Agent name]**&#x200B;을(를) 입력하고 각 리드를 처리하는 방법을 설명하는 **[!UICONTROL Agent instructions]**&#x200B;을(를) 작성하십시오.
 
