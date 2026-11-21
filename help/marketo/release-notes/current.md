@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
+source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 12%
+source-wordcount: '543'
+ht-degree: 11%
 ---
 # 릴리스 노트: 2026년 11월 {#release-notes-nov-26}
 
@@ -70,8 +70,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>이 프로그램/폴더에 복제</strong>: 이제 Marketo Engage의 복제 작업은 복제된 자산의 대상을 선택할 때 첫 번째 선택으로 "이 폴더" 또는 "이 프로그램" 옵션을 일관되게 제공합니다. 이 옵션을 선택하면 에셋이 현재 에셋의 상위 프로그램 또는 폴더로 복제됩니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>릴리스됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   <tr>
    <td> </td>
@@ -81,8 +81,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   <tr>
    <tr>
    <td><strong>CRM 동기화에 대한 즉각적인 경고</strong>: 이제 환경에 대한 기본 CRM 동기화를 사용하거나 사용하지 않도록 설정하면 CRM 알림 채널을 구독하는 사용자에게 알림이 트리거됩니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>릴리스됨</td>
+   <td>해당 사항 없음</td>
   </tr>
   </tr>
   </tbody>
