@@ -26,9 +26,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
+source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '542'
 ht-degree: 11%
 ---
 # 릴리스 노트: 2026년 11월 {#release-notes-nov-26}
@@ -60,8 +60,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>호출 가능 에이전트</strong>: 스마트 캠페인에서 흐름 단계로 실행되고 일반 언어로 작성한 지침을 기반으로 잠재 고객 레코드에서 작동하는 AI 에이전트를 만듭니다. 예를 들어 에이전트는 잠재 고객의 데이터 또는 플래그(예: 보트)를 정규화한 다음 잠재 고객의 필드에 결과를 다시 쓸 수 있습니다. 이렇게 하면 사용자 지정 코드 없이 캠페인에 판단 기반 리드 처리가 제공됩니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>릴리스됨</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/callable-agents.md" target="_blank">호출 가능 에이전트</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -93,8 +93,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
 
 * **클래식 UI 사용 중단**: 이제 Marketo Engage 인터페이스에서 보다 깔끔하고 현대적인 환경을 위해 업데이트된 메뉴, 아이콘 및 레이아웃을 포함하여 새로운 디자인을 제공합니다. 이 업데이트는 시각적 업데이트일 뿐이며 기존 기능이나 워크플로는 변경되지 않습니다. 현재 드롭다운 메뉴를 사용하여 클래식 인터페이스와 새로 고침된 인터페이스 사이를 전환할 수 있지만, 클래식 인터페이스는 2027년 1월 릴리스가 끝날 때까지 중단됩니다(정확한 날짜는 곧 결정 예정).
 
-* **웹에서 Grab 이미지 사용 중단**: 최신 보안 및 개인 정보 보호 모범 사례를 준수하기 위해 [웹에서 Grab 이미지 사용 중단](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} 기능은 11월 릴리스부터 더 이상 사용되지 않습니다.
+* **웹에서 Grab 이미지 사용 중단**: 최신 보안 및 개인 정보 보호 모범 사례를 준수하기 위해 [웹에서 Grab 이미지 사용 중단](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} 기능은 11월 릴리스부터 더 이상 사용되지 않습니다.
 
 * **사용자 지정 활동 특성에 대한 API 이름 제한**: 이제 API 또는 UI를 통해 만든 사용자 지정 활동 특성에 대한 API 이름에는 영숫자와 밑줄만 포함될 수 있으며 영숫자로 시작해야 합니다.
 
-* **잠재 고객 활동 가져오기 및 잠재 고객 변경 가져오기**: 2026년 9월 30일부터 대상 목록에 10,000개 이상의 잠재 고객이 포함된 경우 `listId` 매개 변수를 포함하는 잠재 고객 가져오기 활동 또는 잠재 고객 변경 가져오기 엔드포인트에 대한 호출이 1003 오류 코드(대상 정적 목록에 레코드가 너무 많음을 나타냄)로 실패하기 시작했습니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.
+* **잠재 고객 활동 가져오기 및 잠재 고객 변경 가져오기**: 2026년 9월 30일부터 대상 목록에 10,000개 이상의 잠재 고객이 포함된 경우 `listId` 매개 변수를 포함하는 잠재 고객 가져오기 활동 또는 잠재 고객 변경 가져오기 엔드포인트에 대한 호출이 1003 오류 코드(대상 정적 목록에 레코드가 너무 많음을 나타냄)로 실패하기 시작했습니다. 자세한 내용은 [마이그레이션 안내서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}를 참조하십시오.
