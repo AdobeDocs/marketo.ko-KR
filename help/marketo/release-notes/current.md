@@ -26,9 +26,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
+source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '542'
 ht-degree: 11%
 ---
 # 릴리스 노트: 2026년 11월 {#release-notes-nov-26}
@@ -60,8 +60,8 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
   </tr>
   <tr>
    <td><strong>호출 가능 에이전트</strong>: 스마트 캠페인에서 흐름 단계로 실행되고 일반 언어로 작성한 지침을 기반으로 잠재 고객 레코드에서 작동하는 AI 에이전트를 만듭니다. 예를 들어 에이전트는 잠재 고객의 데이터 또는 플래그(예: 보트)를 정규화한 다음 잠재 고객의 필드에 결과를 다시 쓸 수 있습니다. 이렇게 하면 사용자 지정 코드 없이 캠페인에 판단 기반 리드 처리가 제공됩니다.</td>
-   <td><i>곧 출시 예정</i></td>
-   <td><i>곧 출시 예정</i></td>
+   <td>릴리스됨</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/callable-agents.md" target="_blank">호출 가능 에이전트</a></td>
   </tr>
   <tr>
    <td> </td>
