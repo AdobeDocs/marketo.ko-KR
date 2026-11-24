@@ -4,9 +4,9 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 44aea0fb30c2793856e910d7ecc638e2e661a6a9
+source-git-commit: 376ea702dfd536192f50b7db0d08486462b70e87
 workflow-type: tm+mt
-source-wordcount: '8958'
+source-wordcount: '8953'
 ht-degree: 96%
 ---
 
@@ -83,7 +83,6 @@ ht-degree: 96%
       + [포털에 SSO(Single Sign-On) 추가](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
       + [Webex를 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
       + [Zoom을 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
-      + {hide-from-toc}[SOAP API 설정 구성](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
       + [BrightTALK를 Marketo에 연결](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
       + [ReST API에서 사용할 맞춤형 서비스 만들기](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
       + [웹후크 만들기](product-docs/administration/additional-integrations/create-a-webhook.md)
@@ -500,7 +499,7 @@ ht-degree: 96%
       + [리드 조사](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [리드 가져오기](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [프로그램 유효성 검사](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [Marketo Mcp](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mcp-server)
+    + [Marketo Mcp](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CX Enterprise Coworker 패널 {#coworker-panel}
     + {hide-from-toc}[개요](product-docs/coworker-panel/overview.md)
   + CRM 동기화 {#crm-sync}
@@ -1927,7 +1926,7 @@ ht-degree: 96%
   + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat 릴리스 TEMP](release-notes/dynamic-chat-temp.md)
   + [이전 릴리스](release-notes/previous-releases.md)
-  + {hide-from-toc}이전 릴리스 개 {#previous-releases}
+  + 이전 릴리스 {hide-from-toc}개 {#previous-releases}
     + 2026 {#2026}
       + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)
