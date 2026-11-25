@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
+source-git-commit: 57f148c56e1d0690db8abdac5ba22dfeed20c35f
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 11%
+source-wordcount: '576'
+ht-degree: 10%
 ---
 # 릴리스 노트: 2026년 11월 {#release-notes-nov-26}
 
@@ -47,6 +47,16 @@ Adobe Dynamic Chat에 대한 릴리스 정보는 [여기에서 확인](/help/mar
    <th style="width:65%">기능</th>
    <th style="width:10%">상태</th>
    <th style="width:25%">설명서</th>
+  </tr>
+  <tr>
+   <td><strong>개인 수준의 전자 메일 추적</strong>: 개인 수준 전자 메일 추적 재정의를 사용하면 개별 사용자에 대한 전자 메일 열기 및 클릭 추적을 제어할 수 있습니다. 동의 및 개인 정보 보호 요구 사항을 지원합니다.</td>
+   <td>릴리스됨</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/email-tracking-at-person-level.md" target="_blank">개인 수준에서 이메일 추적</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>캠페인 스킬 계획</strong>: 이제 Marketo Engage용 CX Enterprise Coworker에서 캠페인 개요를 전체 Marketo Engage 프로그램 설정 문서로 만들 수 있습니다. 이 문서에는 폴더 구조, 스마트 캠페인, 이메일 구성, 토큰 및 QA 체크리스트가 포함되어 있습니다. 이렇게 하면 팀이 캠페인을 보다 빠르게 시작하고 프로그램 설정을 표준화할 수 있습니다. 스킬은 Markdown을 통해 구성할 수 있습니다.</td>
