@@ -4,7 +4,7 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 376ea702dfd536192f50b7db0d08486462b70e87
+source-git-commit: 57f148c56e1d0690db8abdac5ba22dfeed20c35f
 workflow-type: tm+mt
 source-wordcount: '8953'
 ht-degree: 96%
@@ -111,7 +111,7 @@ ht-degree: 96%
       + [통신 제한 활성화](product-docs/administration/email-setup/enable-communication-limits.md)
       + [스마트 캠페인에 대한 개인 제한 활성화](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
       + [캠페인 수준 이메일 열람 추적](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
-      + {hide-from-toc}[개인 수준의 전자 메일 추적](product-docs/administration/email-setup/email-tracking-at-person-level.md)
+      + [개인 수준에서 이메일 추적](product-docs/administration/email-setup/email-tracking-at-person-level.md)
       + [이메일 봇 활동 필터링](product-docs/administration/email-setup/filtering-email-bot-activity.md)
       + [구독 취소 텍스트 제거](product-docs/administration/email-setup/remove-unsubscribe-text.md)
     + 필드 관리 {#field-management}
@@ -499,7 +499,7 @@ ht-degree: 96%
       + [리드 조사](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [리드 가져오기](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [프로그램 유효성 검사](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [Marketo Mcp](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/mcp-server)
+    + [Marketo Mcp](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + CX Enterprise Coworker 패널 {#coworker-panel}
     + {hide-from-toc}[개요](product-docs/coworker-panel/overview.md)
   + CRM 동기화 {#crm-sync}
@@ -1926,7 +1926,7 @@ ht-degree: 96%
   + [Dynamic Chat 릴리스](release-notes/dynamic-chat.md)
   + {hide-from-toc}[Dynamic Chat 릴리스 TEMP](release-notes/dynamic-chat-temp.md)
   + [이전 릴리스](release-notes/previous-releases.md)
-  + {hide-from-toc}이전 릴리스 개 {#previous-releases}
+  + 이전 릴리스 {hide-from-toc}개 {#previous-releases}
     + 2026 {#2026}
       + [릴리스 노트: 2026년 1월](release-notes/previous-releases/2026/release-notes-jan-26.md)
       + [릴리스 정보: 2026년 2월](release-notes/previous-releases/2026/release-notes-feb-26.md)
