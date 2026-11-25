@@ -4,9 +4,9 @@ user-guide-title: Marketo 안내서
 user-guide-description: Marketo 제품 설명서
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 44aea0fb30c2793856e910d7ecc638e2e661a6a9
+source-git-commit: 376ea702dfd536192f50b7db0d08486462b70e87
 workflow-type: tm+mt
-source-wordcount: '8958'
+source-wordcount: '8953'
 ht-degree: 96%
 ---
 
@@ -83,7 +83,6 @@ ht-degree: 96%
       + [포털에 SSO(Single Sign-On) 추가](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
       + [Webex를 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
       + [Zoom을 LaunchPoint 서비스로 추가](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
-      + {hide-from-toc}[SOAP API 설정 구성](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
       + [BrightTALK를 Marketo에 연결](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
       + [ReST API에서 사용할 맞춤형 서비스 만들기](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
       + [웹후크 만들기](product-docs/administration/additional-integrations/create-a-webhook.md)
